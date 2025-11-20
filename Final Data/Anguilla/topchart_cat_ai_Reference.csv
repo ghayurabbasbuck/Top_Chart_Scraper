@@ -1,0 +1,919 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ai,Anguilla,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/ai/app/google-translate/id414706506?uo=4,0.0,4.18519,27,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-07-10T07:33:15Z,2025-11-18T17:48:56Z
+ai,Anguilla,Reference,6006,2,282935706,Bible,Life.Church,https://apps.apple.com/ai/app/bible/id282935706?uo=4,0.0,4.84095,591,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+ai,Anguilla,Reference,6006,3,1214860760,Билеты ПДД 2026: экзамен ГИБДД,Amayama Auto LLC,https://apps.apple.com/ai/app/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%BF%D0%B4%D0%B4-2026-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4/id1214860760?uo=4,0.0,4.86842,38,Reference,"Подготовься к сдаче экзамена в ГИБДД по бесплатным билетам от Дром ПДД!
+
+Чем сильно приложение:
+— Актуальные билеты (AB и CD категории) за 2026 год.
+— Все билеты ПДД доступны бесплатно. 
+— Нет рекламы.
+— Режим прохождения экзамена, как в ГАИ/ГИБДД РФ.
+— Статистика успеваемости и прогресса. 
+— Комментарии специалиста к каждому вопросу.
+— Живое общение в чате.
+— Напоминалки, мотивируют больше учить.
+— Режим марафона, все 800 вопросов.
+— Работа над ошибками по билету.
+— Добавление вопросов в избранное.
+— Работает и без Интернета сразу с телефона.
+— Приложение учит сдавать экзамен и знать правила. 
+
+Получи права с приложением ПДД 2025/2026 от Дрома
+Знай правила дорожного движения и забудь про штрафы.",2017-03-23T23:53:52Z,2025-11-17T07:55:36Z
+ai,Anguilla,Reference,6006,4,6747956126,DivineTalk - Bible Tracker,APPSOLUTELY LTDA,https://apps.apple.com/ai/app/divinetalk-bible-tracker/id6747956126?uo=4,0.0,0,0,Reference,"Find biblical wisdom and daily spiritual guidance
+
+  Bibl.ia offers personalized conversations based on Scripture to help you
+  navigate life's challenges. Whether you're dealing with anxiety,
+  relationships, or seeking spiritual growth, find relevant biblical wisdom
+  when you need it.
+
+  Features:
+  • Personal biblical conversations for any question
+  • Daily devotionals with reflection prompts• Inspirational verse images to
+  share
+  • Scripture guidance for common life situations
+  • Clean, focused reading experience
+
+  How it works:
+  Ask any question and receive thoughtful responses grounded in biblical
+  wisdom. From stress and relationships to purpose and faith, get practical
+  spiritual guidance tailored to your situation.
+
+  Perfect for both new believers and those deepening their faith journey.
+  Simple, authentic, and designed to help you apply biblical principles to
+  modern life.
+
+  Download Bibl.ia and discover biblical wisdom for everyday challenges.
+
+Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-07-10T07:00:00Z,2025-11-10T02:19:35Z
+ai,Anguilla,Reference,6006,5,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/ai/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,0,0,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+ai,Anguilla,Reference,6006,6,6698865377,"YouCinE Flix, & Night Movie",yassine khajjou,https://apps.apple.com/ai/app/youcine-flix-night-movie/id6698865377?uo=4,0.0,4.5,4,Reference,"Discover, Track, and Explore Movies & TV Shows with Our App!
+Are you looking for your next favorite movie or TV show? Our app is your all-in-one solution for discovering and tracking entertainment. 
+
+Our app covers all genres, from action to drama. You can explore detailed synopses, cast lists, and ratings for each title. Discover hidden gems, manage your watchlist, and stay up-to-date with what's trending.
+
+Stars exploration with a Fun Twist
+For movie and TV show fans, our app offers a fun, interactive way to explore filmographies. Pick a card, reveal an actor, and see their best works instantly. It’s a playful way to discover new content.
+Not only can you explore actors. This engaging feature sets our app apart, making discovery fun and exciting.
+
+Tailored Movie and TV Show Suggestions
+Finding what to watch next is made easier with our app. We offer custom search options that help you find better movies and TV shows based on your preferences. Whether you enjoy thrillers, comedies, or dramas, we’ll guide you to shows and films that suit your interests.
+
+With regularly updated content, you’ll always have a new list of exciting movies and shows to explore. Let our app help you find your next watch with our smart search functionality.
+
+Detailed Information at Your Fingertips
+Dive deep into movies and TV shows with our app. We offer plot summaries, cast lists, and ratings to give you a complete picture. Click on an actor or director to explore more titles from their filmography.
+
+From action-packed blockbusters to indie films, we provide up-to-date details on everything you love. Our app ensures you’re always informed and ready to make your next movie night a hit.
+
+Manage Your Watchlist with Ease
+Keep track of what you’ve watched and what you want to watch with our app. Our watchlist feature helps you organize your favorite films and series in one place. Never lose track of your movie and TV show plans.
+
+Easily mark titles as “watched” or “to watch.” Whether it’s a weekend movie marathon or keeping tabs on new releases, our app helps you stay organized.
+
+Discover Movies and Shows with Smart Search
+If you’re looking for something specific, our app offers a customized search tool to help you find better shows and movies. Whether you’re into action, comedy, or drama, simply use our search feature to find exactly what you want.
+
+Our advanced search system makes it easy to discover top-rated films, trending series, or hidden gems based on your specific preferences. Our app ensures you always find the content that suits your taste.
+
+Stay Updated with Trending and Popular Titles
+With our app, you’re always in the loop with the latest trends. We curate lists of popular movies and TV shows, helping you discover what’s trending right now.
+
+From superhero blockbusters to critically acclaimed dramas, stay ahead of the curve. Our app makes sure you’re never out of touch with what’s hot in entertainment.
+
+Privacy-First Movie and TV App
+At our app, we respect your privacy. We don’t require accounts or personal information to enjoy our features. Your data stays private, and we never share it with third parties.
+
+Enjoy a secure browsing experience without worrying about your personal information. With our app, you can discover and explore without any interruptions.
+
+Download our app now to start your ultimate movie and TV show discovery experience! Track, explore, and organize all your favorite titles in one place.
+
+Our app stands out by focusing on content discovery and management. Unlike other apps, we don’t push you towards streaming services. Instead, we help you make informed decisions on what to watch next.
+
+Disclaimer:
+Our app uses The Movie Database API to provide detailed information about movies and TV shows. We do not offer any streaming services within the app. All imagery and content displayed are provided by The Movie Database and are covered under The Movie Database's terms of use.",2024-09-24T07:00:00Z,2025-08-08T18:02:22Z
+ai,Anguilla,Reference,6006,7,1360117854,Номерограм – проверка авто,Avto Assist OOO,https://apps.apple.com/ai/app/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B0%D0%B2%D1%82%D0%BE/id1360117854?uo=4,0.0,4.9,20,Reference,"Проверять гос номер авто важно перед покупкой машины.
+
+Приложение «Номерограм» позволяет найти историю продаж и отдельные фото машины в Интернете по гос номеру. Пробить по гос номеру авто у нас можно бесплатно.
+
+Установите «Номерограм». Введите в поиск гос номер, и мы найдём вам историю продажи машины или отдельные её фото из Интернета. Покажем даты размещения объявления, цену и пробег.
+
+В нашей базе свыше 25 000 000 номеров. Фотографии в «Номерограм» приходят как от людей (можно добавить фото машины с гос номером через приложение), так и с досок объявлений, социальных сетей и других сайтов. Всё из открытых источников.
+
+«Номерограм» найдёт для вас по гос номеру:
+
+Пробег автомобиля.
+
+Если автомобиль ранее размещался на авито, автору, дром и т.д., мы найдём его фотографии и покажем пробег, который указал продавец в объявлении. Наша база непрерывно пополняется. 
+
+Цена машины.
+
+Также мы сможем показать вам цену машины. А если она продавалась несколько раз, то вы сможете увидеть историю изменения цены. Это полезная информация, которая поможет вам поторговаться.
+
+Город продажи.
+
+Мы можем находить не только пробеги и цены, но и города продажи автомобиля. Всегда интересно узнать, где бегала машина ранее. 
+
+Фото ДТП и ремонтов.
+
+«Номерограм» мониторит не только доски объявлений, но и другие ресурсы. Поиск по номеру может помочь вам увидеть фото ДТП или процесс ремонта автомобиля.
+
+Ещё вы можете по фото выяснить, что машина бегала в такси.
+
+Несколько показательных примеров:
+
+Скрутил 100 000 километров пробега — А 774 СО 716
+Жёсткое ДТП, машину восстановили — А 714 НТ 38
+Была в ДТП и работала в такси — Т 146 УС 56
+Бесславный конец японской гонки — О 461 ЕА 125
+
+И это не всё!
+
+Мы хотим сделать мир лучше и помочь покупателям подержанных машин. Всё-таки приятно подстраховать себя перед покупкой авто, а не играть в лотерею. Для этого «Номерограм» и сделан.
+
+Добавляйте фото машин с гос номерами в «Номерограм» и радости в жизни прибавится!",2018-03-20T01:10:54Z,2025-05-22T07:48:15Z
+ai,Anguilla,Reference,6006,8,1530044766,МЧС России,Emercom of Russia,https://apps.apple.com/ai/app/%D0%BC%D1%87%D1%81-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/id1530044766?uo=4,0.0,0,0,Reference,"Приложение позволяет подготовиться к различным чрезвычайным ситуациям, получать актуальную информацию о возможных угрозах и рисках. 
+Для связи с экстренными оперативными службами можно воспользоваться функцией быстрого набора телефона «112» или отправить СМС сообщение, содержащее координаты своего местоположения.
+Приложение позволяет получать push-сообщения с важной и экстренной информацией сразу по нескольким регионам.
+В разделе «Карта» реализована возможность определения координат своего местоположения, которые можно передать экстренным оперативным службам или близким. 
+В разделе «Памятки» Вы сможете найти краткие инструкции, находящиеся всегда под рукой, с четкой последовательностью действий и правил поведения в экстренной ситуации, тесты, позволяющие проверить знания о действиях в чрезвычайных ситуациях.",2023-01-27T08:00:00Z,2025-10-21T15:27:40Z
+ai,Anguilla,Reference,6006,9,6636468891,InstantTranslator:AI Translate,APPLABS LIMITED,https://apps.apple.com/ai/app/instanttranslator-ai-translate/id6636468891?uo=4,0.0,5,1,Reference,"InstantTranslator: AI Translate – Translate with Spanish, Japanese and other languages!
+
+Translate Text, Picture & Camera Instantly – Anytime, Anywhere!
+
+InstantTranslator is a powerful AI-driven translation app designed to break language barriers effortlessly. Whether you're traveling, studying, working, or chatting with international friends, our smart translator makes communication easy and seamless. With support for over 20 languages, including Spanish, Japanese, Korean, Chinese, Arabic, and more, you can instantly translate text, speech, and images with high accuracy.
+
+Now with Picture-in-Picture Subtitle Translation – Perfect for Watching Shows!
+Enjoy your favorite foreign-language videos with real-time subtitle translation in a floating window. Whether you’re streaming drama, tutorials, or YouTube clips, our PiP mode helps you understand without switching screens.
+
+[Key Features]
+• Text Translator
+Powered by Microsoft and ChatGPT engines, translate written content between multiple languages. Ideal for documents, emails, chats, and webpages with one-tap accuracy.
+
+• Voice & Speech Translator
+AI-powered speech recognition instantly translates spoken words. Perfect for conversations, meetings, and travel.
+
+• Camera & Photo Translator
+Capture text from signs, menus, or documents and receive instant translations. Eliminate language barriers while traveling.
+
+• Picture-in-Picture Subtitle Translation
+Watch videos in other languages while a floating translation box displays subtitles in real time. Great for learning and entertainment.
+
+• Live Conversation Mode
+Real-time two-way translation for fluid bilingual communication.
+
+• Document & PDF Translator
+Full document translation for PDFs, papers, and files. Essential for students and professionals.
+
+• Multi-Language Support
+Supports Spanish, Japanese, Korean, Chinese (Simplified & Cantonese), Tagalog, Vietnamese, Arabic, French, Russian, Portuguese, German, Greek, Hebrew, Italian, Polish, Thai, Haitian Creole, and more. Powered by DeepSeek, Google, ChatGPT, and Microsoft.
+
+• Speed & Privacy
+Instant translations with widget access. Ad-free experience with strict data protection.
+
+[Use Cases]
+
+Travel: Translate menus, signs, and hotel info
+
+Business: Communicate with global partners
+
+Education: Study foreign materials instantly
+
+Daily Life: Multilingual chats with friends
+
+Entertainment: Translate subtitles while watching foreign shows in real time
+
+[Why Choose Us?]
+• Advanced AI translation accuracy
+• Instant text/speech/image results
+• Picture-in-picture subtitle support
+• Offline translation capability
+
+Download Now to experience borderless communication — even while watching your favorite shows!
+
+Subscriptions  
+Weekly: $9.99 | Annual: $34.99  
+Auto-renewal can be managed in account settings.
+Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage your subscriptions and turn off auto-renewal in your account settings after purchase.
+
+Privacy Policy: https://instanttranslator-6e103.web.app/privacy_policy.txt
+Terms of Use: https://instanttranslator-6e103.web.app/term_of_use.txt",2024-08-22T07:00:00Z,2025-11-20T11:52:38Z
+ai,Anguilla,Reference,6006,10,372457744,Кодекс РФ,LK Lab SAS di Lagorio Fabrizio,https://apps.apple.com/ai/app/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81-%D1%80%D1%84/id372457744?uo=4,0.0,0,0,Reference,"Ваш юрист-консультант на iPhone и iPad
+
+Кодекс РФ – это приложение, которое было задумано как справочник для юристов, студентов юридических ВУЗов и всех тех, кому необходимо иметь тексты основных законов Российской Федерации под рукой. Им очень легко использоваться, в нем представлены 98 текстов основных законов и порядка 15 000 статей, которые всегда будут доступны на вашем iPhone / iPod Touch / iPad.
+
+ВОЗМОЖНОСТИ:
+- Возможность покупки только тех текстов законов и статей, которые вам нужны. В основном меню названия кодексов и законов, тексты которых предоставлены бесплатно, или которые вы уже купили - красного цвета; 
+  серого - те, которые вы можете купить.
+- Конституция РФ и 21 закон РФ ( ПДД, ОСАГО,об аудите, неком. организациях, лицензировании, свободе слова и др.) включены в  БЕСПЛАТНУЮ версию
+- Поиск по номеру статьи(15000 статей)
+- Свободный поиск по слову (1.7 миллионов слов)
+- Возможность добавления личных комментариев к каждой статье
+- Возможность добавления статей в список Избранное
+- Возможность изменять размер и стиль шрифта, фон
+- Быстрый переход от одной статьи к другой 
+- Возможность отправки статей по электронной почте
+- Предусмотрено постоянное обновление законов в данном приложении на основе вновь принимаемых поправок
+- Не требует подключения к интернету 
+- Занимает мало места на вашем устройстве: 22 МБ",2011-07-09T21:58:38Z,2014-11-20T00:25:37Z
+ai,Anguilla,Reference,6006,11,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/ai/app/yandex-translate/id584291439?uo=4,0.0,4.69231,13,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+ai,Anguilla,Reference,6006,12,6504798650,Bible Path: Daily Devotional,DEEP FLOW SOFTWARE SERVICES - FZCO,https://apps.apple.com/ai/app/bible-path-daily-devotional/id6504798650?uo=4,0.0,4.5,8,Reference,"Bible Path is a thoughtfully designed app aimed at enriching your spiritual journey with scriptures that offer guidance and holy inspiration. Whether you seek daily inspiration, devotional reflections, or a deeper understanding of the scriptures, Bible Path provides a serene and supportive environment for personal growth.
+
+Key Features:
+
+Bible Chat:
+Engage in conversations about faith, prayers, and scriptures with Bible Chat. This feature allows you to explore different interpretations of the scripture, ask questions, and connect with a community of fellow seekers in a holy atmosphere. The chat interface makes it easy to share your thoughts on scriptures and devotional topics with others.
+
+Audio Bible:
+Immerse yourself in the holy scriptures through our audio Bible. Perfect for quiet moments of reflection or during daily activities, the narrated scriptures help you stay connected to the Word of God. Whether you’re listening to audio prayers or meditating on the scripture, the app makes it easy to integrate devotional practices into your routine.
+
+Inspirational Verses and Prayers:
+Receive a daily dose of inspiration with verses and prayers that uplift and guide you. Each scripture verse and prayer is carefully chosen to offer spiritual nourishment, guiding you in your devotional journey with the holy scriptures.
+
+Personalized Daily Reflections:
+Reflect on personalized insights based on the holy scriptures and prayers that resonate with your spiritual needs. These reflections are crafted to help you ponder biblical themes and integrate their teachings into your daily life through consistent devotional practices.
+
+Interactive Bible Studies:
+Deepen your understanding of the Bible with our interactive study guides. These resources provide comprehensive insights and context, suitable for both personal study and group discussion, focusing on the holy scriptures to enrich your devotional life.
+
+Faith Building Exercises and Prayers:
+Engage in exercises designed to strengthen your faith and understanding, complemented by powerful prayers. These activities encourage you to reflect on scriptures and apply them to your life, guiding you in devotional practices.
+
+Studies and Resources:
+Access a wide range of study materials and resources tailored to different levels of biblical knowledge. Whether you are just beginning your journey or seeking advanced understanding of the scriptures, Bible Path provides a supportive resource filled with devotional insights and reflections on the holy scriptures.
+
+Why Choose Bible Path?
+Bible Path is a spiritual companion, offering a calm and nurturing space for exploring the scriptures and growing in faith. With tools like chat, audio resources, and study guides, the app is designed to be a gentle guide, helping you find clarity, comfort, and deeper meaning in your spiritual journey.
+
+Download Bible Path and begin a journey of reflection, learning, and spiritual growth. Let this app be a quiet support in your daily life, offering holy guidance and wisdom from the scriptures through prayers, verses, and more.
+
+Privacy Policy: static.holy-bible.app/.html
+
+
+Terms & Conditions: static.holy-bible.app/.html",2024-08-14T07:00:00Z,2025-11-11T12:09:04Z
+ai,Anguilla,Reference,6006,13,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/ai/app/oxford-dictionary/id978674211?uo=4,0.0,4.5,4,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2015-06-26T07:50:37Z,2025-11-18T21:39:49Z
+ai,Anguilla,Reference,6006,14,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/ai/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.62857,105,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2011-07-10T00:14:22Z,2025-11-13T13:29:55Z
+ai,Anguilla,Reference,6006,15,976505454,e-Devlet,Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı,https://apps.apple.com/ai/app/e-devlet/id976505454?uo=4,0.0,0,0,Reference,"Yeni e-Devlet Kapısı iOS uygulaması ile www.turkiye.gov.tr adresindeki hizmetler artık mobil cihazınızda.
+ 
+Uygulamayı kullanabilmek için e-Devlet Şifresi veya Mobil İmza sahibi olmalısınız. e-Devlet Şifrenizi PTT şubelerine geçerli kimliğiniz ile birlikte şahsen başvurarak temin edebilirsiniz. Mobil İmza aboneliği için hizmet aldığınız operatöre başvurmalı ve gerekli prosedürü tamamlamalısınız.
+
+Uygulamayla, www.turkiye.gov.tr adresinde en sık kullanılan hizmetleri kullanabilir, favori hizmetlerinizi görebilir, profil bilgilerinizi düzenleyebilir, anlık bildirim alabilir, kamu kurumları ve belediyelere ait bilgi ve hizmetlere hızlı bir şekilde ulaşabilirsiniz.
+
+ 
+En Sık Kullanılan Hizmetler
+
+- SGK 4A Hizmet Dökümü
+- Adalet Bakanlığı Mahkeme Dava Sorgulama
+- Gelir İdaresi Başkanlığı Vergi Borcu Sorgulama
+- SGK GSS Prim Borcu Sorgulama
+- Maliye Bakanlığı e-Bordro Hizmeti",2015-04-11T01:42:53Z,2025-11-20T06:42:14Z
+ai,Anguilla,Reference,6006,16,365557665,Quran Majeed – القران الكريم,Pakistan Data Management Services,https://apps.apple.com/ai/app/quran-majeed-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id365557665?uo=4,0.0,4.47825,69,Reference,"Most authentic Quran app since 2010.
+
+Recognized by more than 65 million Muslim users around the world.
+
+تطبيق القرآن الأكثر اعتمادا منذ عام ٢٠١٠.
+
+معترف به من قبل أكثر من ٦٥ مليون مستخدم حول العالم.
+
+Quran Majeed is an amazing Quran app that beautifies your life with the blessing of reading and listening to the Quran on the go. The latest version of the authentic Quran Majeed app for iPhone and iPad offers complete Quran in the elegant Uthmanic script, audio recitation, translations and English Tafsir Uthmani, proofread by a Muslim scholar ('alim).
+القرآن المجيد هو تطبيق مميز للقرآن الذي يجمل حياتك ببركة القراءة والاستماع إلى القرآن أثناء التنقل. الإصدار الأخير من تطبيق القرآن المجيد لأجهزة الآي فون والآيباد تقدم قرآنًا كاملاً في الكتابة العثمانية الأنيقة، وتلاوة الصوت، والترجمات، والتفاسير، وقام بمراجعته أحد العلماء
+
+● Worldwide Prayer Times clock with Azan/Adhan alarm options. Supports different prayer time calculation methods. Qibla direction. Ramadan Sehar/Iftar times
+أوقات الصلاة لجميع أنحاء العالم مع خيار تنبيه الأذان، ودعم طرق مختلفة لحساب أوقات الصلاة، وبوصلة القبلة، وأوقات السحور والإفطار
+
+● World famous reciters (Sheikh Abdul Basit, Sheikh As Sudays & As Shraym, Mishari Rashid, Saad Al Ghamdi, Abu Bakr Shatry, Sheikh Ahmed Ajmi, Sheikh Al-Huzaifi, Sheikh Mahir-al-Muayqali, Sheikh Minshawi, Sheikh Ayub, Khalil Husari, Mahmood AlBana, Salah Bukhatir & Sheikh Basfar).
+تلاوات القراء المعروفون عالميا.
+
+● Four English translations (Pickthal, Dr. Mohsin, Mahmood & Yusuf Ali) and forty-five language translations (AlBanian, Amazigh, Amharic, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Divehi, Dutch, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Malayalam, Malaysian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sindhi, Somali, Spanish, Swahili, Swedish, Tajik, Tamil, Tartar, Turkish, Urdu, Uyghur, Uzbek). 
+
+● Option to display any translation along with full Arabic text in hi-resolution, Retina graphics in both portrait and landscape viewing. Supports pinch/zoom feature for changing font size.
+خيار عرض أي ترجمة مع النص العربي الكامل بالدقة الممتازة في وضعي الأفقي والعمودي، دعم ميزة التصغير / التكبير لتغيير حجم الخط.
+
+● Islamic greeting messages (Eid Mubarak, Ramadan Kareem, ...)
+رسائل معايدة إسلامية (عيد مبارك، رمضان كريم، ...)
+
+● Qibla Direction — اتجاه القبلة
+
+● Hijri Converter — تحويل التاريخ
+
+● Quran TV feature with beautiful background videos
+تلفزيون القرآن مع مقاطع فيديو خلفية جميلة
+
+● Visual Quran feature with flip gesture
+المصحف المرئي مع إيماءة التقليب
+
+● Watch live coverage of Makkah & Madinah.
+شاهد التغطية المباشرة لمكة المكرمة والمدينة المنورة.
+
+● Selectable themes (Green, Blue, Classic-Green, Night Mode, Light & Brown).
+إمكانية اختيار الثيمات (أخضر، أزرق، الوضع الليلي، فاتح، بني)
+
+● Advanced audio options to help with memorization (repetition of ayah, Surah, number of repetitions, interval, and recitation speed).
+خيارات الصوت المتقدمة للمساعدة في الحفظ (تكرار الآية، وسورة، وعدد من حالات التكرار، وفاصل، وسرعة التلاوة).
+
+● Highly advanced “Search” feature that can help with searching any word (search exact word, affixes or all roots) in the Arabic text, any of the translations and English Tafsir.
+ميزة بحث متقدم يساعد في البحث عن أي كلمة ( الكلمة بالضبط، كل اللاحقات أو الجذور) في النص العربي، والترجمات والتفاسير
+
+● Bookmarking of Aya, translation and tafsir (supports iCloud synchronization that helps your bookmarks stay up to date on all your iOS devices).
+وضع علامة مرجعية على الأية، والترجمة، والتفسير للرجوع إليها
+
+● Quranic Aya and word highlighting during recitation.
+تظليل الآية والكلمة أثناء التلاوة
+
+● Social media sharing. Ability to share selected aya via email, twitter & Facebook.
+مشاركة في وسائل الإعلام الاجتماعية
+
+● iPad friendly interface
+تطابق واجهة أيباد
+
+Terms & Conditions
+https://pakdata.com/terms-and-conditions/
+
+Privacy Policy
+https://pakdata.com/privacy-policy/",2011-07-09T19:14:38Z,2025-11-17T05:55:37Z
+ai,Anguilla,Reference,6006,17,6448849666,Bible Chat: The Holy Scripture,BookVitals APP SRL,https://apps.apple.com/ai/app/bible-chat-the-holy-scripture/id6448849666?uo=4,0.0,4.8,20,Reference,"Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life
+
+Have you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Download Bible Chat today!
+
+Life is noisy. Fast. Overwhelming. Even when you’re trying to stay close to God, it’s easy to feel spiritually disconnected.
+
+Bible Chat is the ultimate all-in-one Christian app designed to make Bible reading, prayer, and Christian community a part of your everyday life. It is for Christians who want peace - real peace - anchored in Scripture.
+
+
+Whether you're a lifelong Christian or just starting your journey, Bible Chat gives you everything you need to:
+
+• Understand the Bible Better - Learn what the Bible really means with helpful guides and simple explanations that make God's Word easier to follow and apply.
+
+• Grow Your Prayer Habit - Build a consistent prayer routine supported by daily  inspiration and the power of a praying community.
+
+• Make Faith Part of Your Day - Improve your daily routine with spiritual prompts, Christian calendar reminders, and faith tools designed for the whole family.
+
+• Support Your Mental Health - Find peace and calm in moments of stress with simple tools that help you refocus on God’s strength.
+
+• Make Faith Fun and Interactive - Enjoy fun and easy ways to learn, think, and talk about how faith fits into your everyday life.
+
+
+Key Features to Explore:
+
+• Daily Plan: Stay on track with your faith. Follow a simple daily plan that helps you grow closer to God, one step at a time.
+
+• Structured Bible Study Plans: Follow simple Bible reading plans made for real life. Some of the topics include: healing, wisdom, leadership, grief, and more.
+
+•  Holy Calendar: See important Christian days in a monthly view. Never miss a feast, saint day, or holy event again.
+
+• Panic Button: Struggling with stress or temptation? Tap the Panic Button for guided deep breathing exercises that calm the mind and provide anxiety relief.
+
+• Live Prayer: Share your prayer intentions, and let's pray together to grow closer to God.
+
+• Send a Blessing:  Send a Bible verse with a kind message straight to a friend’s phone. Add a heart or doodle to make it personal and uplifting.
+
+• Bible Stories for Kids: Turn screen time into faith time! Show fun, Bible-based stories and videos to your kids.
+
+• Multiple Bible Versions: Read the Bible the way you like best. Choose from NKJV, KJV, WMB, FBV, World English Bible, Amplified, and NASB.
+
+• Bible Verse Widget: See a new Bible verse every day, right on your lock screen or home screen.
+
+• Bible Trivia: Challenge and enhance your biblical knowledge through interactive trivia games.
+
+• Verse Locator: Looking for a verse? Search and find it fast, along with what it means.
+
+• Personalized Devotionals & Prayers: Start your day with custom devotionals and write your own prayers to stay closer to God.
+
+• Biblical Character Profiles: Learn about the people in the Bible: their stories, struggles, and how God worked in their lives.
+
+• Let's Discuss Faith: Join honest chats about how faith connects to your real life - like work, family, and relationships.
+
+
+Experience More with Premium:
+Unlock unlimited conversations, full access to every feature, and exclusive designs for your Daily Prayer Widgets. Start with a FREE 7-day trial, then choose our weekly plan at £4.99 or opt for extended plans for greater savings.
+
+
+Privacy Policy & Terms and Conditions:
+https://thebiblechat.com/privacy-policy/
+https://thebiblechat.com/terms-and-conditions/
+
+
+Join Our Thriving Community:
+Join a friendly community of people who love God or are just starting to learn. With Bible Chat and the new Send a Blessing Widget, you can make Bible verses and prayer part of your everyday conversations.",2023-05-11T07:00:00Z,2025-11-17T20:04:23Z
+ai,Anguilla,Reference,6006,18,1559394917,Cheat Codes #,Karen Karapetyan,https://apps.apple.com/ai/app/cheat-codes/id1559394917?uo=4,0.0,4.66667,3,Reference,"Cheats are a fun way play without needing to worry about the limitations of obtaining items ""normally"". Instead of needing to traverse the whole map in search of a vehicle or weapon, you can enter in a cheat and jump straight into the action.
+
+This app makes it quick and easy to find the cheats you need while playing GTA V.
+
+This App includes:
+Cheats for Grand Theft Auto V for XBOX, PlayStation,PC, all in one app.
+
+Cheats:
+- Player Cheats
+- Character Skin Cheats
+- Vehicle Spawning Cheats
+- Other Vehicle Cheats
+- Weather Cheats
+- Miscellaneous Cheats
+
+FEATURES:
+- Category sorted cheats separated by platform
+- Cheats for all platforms: PS4, Xbox One, Xbox 360, Xbox.
+- All cheats such as vehicles, gameplay, character and weather changes
+- Easy to read codes
+- All cheats written to the control buttons
+- Fast list-navigation system
+- Interactive map with video instructions
+
+
+SUBSCRIPTIONS
+Cheat Codes Monthly Subscription $3.49
+Cheat Codes Yearly Subscription $27.99
+
+
+Payment will be charged to your iTunes Account at confirmation of purchase. Subscriptions will automatically renew unless auto-renew is turned off at least 24 hours before the end of current period. Your account will be charged according to your plan for renewal within 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID account settings at any time after purchase. No refunds will be provided for any unused portion of the term. Any unused portion of a free trial period will be forfeited when you purchase a subscription
+
+Privacy policy & Terms of use 
+https://gener-apps-privacy-policy.herokuapp.com/",2021-04-24T07:00:00Z,2025-01-13T09:44:27Z
+ai,Anguilla,Reference,6006,19,639651082,Quran Al Kareem القرآن الكريم,Hamida Ouerghemmi,https://apps.apple.com/ai/app/quran-al-kareem-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id639651082?uo=4,0.0,4.60377,53,Reference,"The Best Quran App! Quran Kareem is the complete Quran in Uthmani Book form with verse by verse translation, transliteration, notes, bookmarks and recitation!
+
+
+We offer:
+
+● World famous reciters including Abdul Rahman Al-Sudais, Sheikh Mishary Rashid Alafasy, Cheikh Saad al Ghamedi and more with Riwayat Hafs, riwayat Qaloon, Riwayat Warch, Tajweed and Muaalim...
+
+● Audio translation in English, Urdu, Persian, French and more...
+
+● Three English translations and many language translations (AlBanian, Bengali, Bosnian, Bulgarian, Chinese, Dutch, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Kurdish, Malaysian, Persian, Portuguese, Russian, Somali, Spanish, Swedish, Tamil, Thai, Turkish, Urdu, Uzbek...)
+
+● Tafsir - Tafheem Al Jalalayn in english
+
+● Tafsir ibn al katheer in French
+
+● 8 Arabic Tafsir (saadi, muyasser, ibn katheer, Baghawi, Tabari, Kortobi, ibn Achour).
+
+●I3rab Quran of Kassem Hamid Doaas
+
+● English Transliteration.
+
+● Tafsir al Muyasser audio
+
+● Possibility to repeat the Ayah or The Surah many times
+
+
+
+
+With Quran Kareem you can also:
+
++navigate between Surahs, Hizb, Juzz' and/or pages very quickly. 
++search in the Arabic Quran text, and display results, and jump to the desired ayah quickly.
++download the audio.
+
++Multilanguage app
+
+ 
+
+نشكر الله عز وجل الذي وفقنا بفضله لإنجاز هذا التطبيق.
+Thank God Almighty to accomplish this application.
+
+
+شكر وعرفان لموقع مجمع الملك فهد لطباعة المصحف الشريف (مصدر الصور) ولموقع تنزيل (مصدر النص القرآنى والتراجم)  وموقع  
+Verse by Verse Quran
+ (مصدر التلاوات) 
+ وموقع جامعة الملك سعود مصدر التفاسير
+ 
+Special thanks to King Fahd Complex for the Printing of the Holy Qur'an (source of Quran images files) , Tanzil.net (source of Quran text and translations) , quran.ksu.edu.sa  (source of Tafasir (explanations)) and Verse by Verse Quran (source of recitations audio files).",2013-07-10T19:12:58Z,2018-06-13T16:14:45Z
+ai,Anguilla,Reference,6006,20,341922306,Pleco Chinese Dictionary,Pleco Inc.,https://apps.apple.com/ai/app/pleco-chinese-dictionary/id341922306?uo=4,0.0,0,0,Reference,"Pleco is the ultimate Chinese learning companion: an integrated dictionary / document reader / flashcard system with fullscreen handwriting input and live OCR, from a company that's been making the world's best mobile Chinese learning apps since 2001.
+
+Major features: ($ = paid add-on)
+
+• Amazing dictionaries. We offer two free built-in dictionaries: the popular open-source CC-CEDICT, with over 110,000 frequently-updated entries, and our own PLC dictionary, with 125,000 entries, parts of speech, and over 25,000 example sentences (with Pinyin). More than two dozen other dictionaries are available as free and paid ($) add-ons, including licensed titles from well-known publishers like Oxford, Longman, FLTRP, Tuttle, SLPH, and Commercial Press.
+
+• Powerful merged search: look up words by Chinese characters, Pinyin (spaces / tones optional), or English, with support for wildcards and full-text search. And no need to tediously flip between all of those dictionaries to find a word - just type in your search term and instantly get a combined, frequency-sorted result list.
+
+• Links and cross-references: easily look up character components, break down words into individual characters, look up lists of words containing a particular character, and search across all dictionaries for example sentences containing a word.
+
+• Gorgeous typography: see it for yourself in our screenshots - we think we're one of the best-looking Chinese dictionaries around. Alternate Kai/Song/Xing-style Chinese fonts are also available ($).
+
+• PRC/HK/Taiwan-friendly: every part of Pleco supports both traditional and simplified, headword readings can be shown in Pinyin and Zhuyin, and some dictionaries even support Cantonese. (note: stroke order diagrams do support traditional characters, but use PRC order)
+
+• Audio: Hear Mandarin and Cantonese for words and example sentences using iOS' free built-in text-to-speech system. We also offer add-ons ($) with native-speaker Mandarin recordings and higher-quality Mandarin TTS.
+
+• Document Reader: bring in text from the clipboard and tap on words in it to instantly look them up. Upgrade ($) adds support for tap-lookups in text, HTML, DOC, DOCX, PDF, and EPUB files. We also offer graded readings ($).
+
+• OCR: look up words simply by pointing your device's camera at them, or by tapping on them in a still image. ($)
+
+• Fullscreen handwriting: use your device's whole screen instead of just a little box. Extremely accurate and highly tolerant of stroke order mistakes. (enhanced $)
+
+• Flashcards: create a card from any dictionary entry with a single button tap, import premade word lists, use advanced memorization techniques like SRS, and study in a variety of modes including fill-in-the-blanks handwriting and tone drills. ($)
+
+• Stroke Order Diagrams: animations showing you how to draw each character; 500 characters for free, 28,000 in paid ($) version.
+
+• User dictionaries: create new dictionary entries right on your device as you encounter new words. ($)
+
+• No ads.
+
+We also offer famously excellent customer support and an active user community at http://www.plecoforums.com. And we're constantly working to make our products better; our sales and customer base have been growing for two decades across 4 different platforms. You can be confident that we'll still be fixing bugs and adding features for years to come.
+
+Paid add-ons can be transferred to other devices that link to your iTunes account just like any other paid iTunes content; simply install our free app, open up the ""Add-ons"" screen, and tap on the ""Restore Purchases"" button to activate your purchase on each device.
+
+Please contact us at support@pleco.com, via the form at http://www.pleco.com/contact.html, or using the in-app ""Contact Support"" command with any questions - we'll be delighted to hear from you.",2011-07-09T14:57:51Z,2025-10-09T16:14:51Z
+ai,Anguilla,Reference,6006,21,1357464684,King James Bible - Verse+Audio,OZION TECH PTE. LTD.,https://apps.apple.com/ai/app/king-james-bible-verse-audio/id1357464684?uo=4,0.0,4.9,10,Reference,"Bible KJV - Daily Bible Verse is a free KJV Bible study tool that people read bible verse of the day, listen to the audio bible - the holy bible king james version, share and learn king james version bible. The holy bible king james version allows you to receive a daily bible verse to get closer to God and learn God’s word without internet access. Free beautiful daily bible verse of the day in KJV translation helps you to inspire your faith everyday. Bible KJV - Daily Bible Verse reminds you to talk with God everyday by reading the bible verse of the day and you are also allowed to create your own bible verse collection, audio bibles, and private notes.
+ 
+THE GREAT FREE BIBLE STUDY TOOL
+- Access King James Version Bible anytime anywhere by swiping screen corner
+- Off to a good start with an inspiring Bible verse of the day 
+- Easy verse copying and pasting
+- Study KJV Bible Offline 
+- Listen to audio Bibles offline
+- Search the holy bible king james version with keywords
+- Share the free Bible verses with your family and friends on Facebook, Twitter, and Instagram
+ 
+CUSTOMIZE YOUR OWN KJV BIBLE FOR FREE
+- Bookmarks: Catch up where you left off with a simple bookmark.
+- Highlights: Mark favorite verses in different colors and manage them in the highlight tab.
+- Notes: Write down your own thoughts and share them with your friends.
+- Font Adjustment: Choose any font sizes, colors, styles and line spacings you want.
+- Share verses with your friends and family via multiple platforms with ease
+ 
+King James Bible Subscription
+
+- King James Bible now offers morning & evening audio devotionals, Bible quizzes, ads-free service and audio of the whole book for free.
+
+- You can purchase a monthly subscription for $4.99 USD to remove ads to make your Bible journey simple and pure.
+
+- It will be authorized by iTunes and added to your iTunes account after you subscribe.
+
+- Subscription will be automatically renewed into the following month. If you want to cancel, simply turn off the default payment setting at least 24 hours before the end of the month.
+
+- These paid services will not be available once you unsubscribe. Follow the instructions of iTunes: https://support.apple.com/en-us/HT202039.
+
+Terms of use: https://idailybread.org/tos.html
+Privacy policy: https://idailybread.org/pp.html
+
+KEEP IN TOUCH WITH KJV BIBLE APP
+Send us Email: cs@idailybread.org
+Visit our website: http: //www.idailybread.org
+Like us on Facebook: https://www.facebook.com/KJVBibleStudyApp/
+
+Bible KJV - Daily Bible Verse, Holy Bible App keeps God’s teaching at your fingertips. A free pocket bible, a KJV bible on the go. King James Bible App helps you learn God’s Word anytime, anywhere you want. Now get started on this exciting journey and spend time with God! 
+This Application is not related to, offered by, or sponsored by the YouVersion Application or Life Church.",2018-04-22T07:54:56Z,2025-11-17T07:32:46Z
+ai,Anguilla,Reference,6006,22,1051654565,All Cheats for GTA V (5),奕成 陈,https://apps.apple.com/ai/app/all-cheats-for-gta-v-5/id1051654565?uo=4,0.0,5,7,Reference,"GTA V Cheats for PS3 / PS4 / PS5 and XBOX and PC.
+
+This app makes it quick and easy to find the cheats you need while playing GTA V.
+
+- Give Weapons Cheats
+- Spawn Vehicles Cheats
+- Spawn Special Vehicles Cheats
+- Player Effect Cheats
+- World Effect Cheats
+
+LEGAL
+This app is an UNOFFICIAL guide to the ""Grand Theft Auto"" videogame series. It is not affiliated to the games' publishers or developers. The guide is intended purely to assist players, and is intended to be used alongside the games. All characters, locations, and images of game logos are the property of their respective owners, and usage in this guide falls within guidelines of ""fair use"". If you have a concern or feel there is a direct copyright or trademark violation that does not fall within ""fair use"" guidelines, please contact us directly to discuss.",2015-11-20T03:47:17Z,2024-01-03T15:01:26Z
+ai,Anguilla,Reference,6006,23,1465903782,AR Translator: Translate Photo,BrainMount Ltd,https://apps.apple.com/ai/app/ar-translator-translate-photo/id1465903782?uo=4,0.0,0,0,Reference,"Get AR Translator now for instant AI-powered translation through speaking, taking a photo, typing, or using AR. Supporting over 100 languages, it makes communication easier than ever. Understand any language today!
+
+Key Features:
+
+● Photo Translation: Instantly replace foreign text in images with your native language.
+● Voice Translation: Speak and translate using voice recognition.
+● Augmented Reality Translation: Scan and translate text by simply pointing your camera.
+● Video Translation: Stream translations in real-time as you scan paragraphs with your camera.
+● Text Input: Type text directly for instant translation.
+● AI Text Recognition: Fast and accurate text recognition (OCR) that works offline.
+● Language Support: Translate across 100+ languages.
+● Auto Language Detection: Automatically identifies the source language.
+● Offline Translation: Translate voice, photos, and typed text without an internet connection.
+● Listen: Hear your translations spoken aloud.
+● Share: Easily copy and share translations.
+
+Powered by Artificial Intelligence
+
+Our app features proprietary AI-driven scanning and text recognition algorithms, enabling you to translate text with your camera with remarkable accuracy.
+
+Join Millions of Satisfied Users
+
+AR Translator is trusted by millions worldwide for its accuracy, speed, and innovation. With numerous 5-star reviews, our app is regularly updated to ensure the best user experience.
+Whether you're a traveler, student, or professional, AR Translator is your all-in-one solution for real-time translation using your camera, text, voice, and augmented reality.
+
+Supported Languages:
+
+Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Burmese, Catalan, Cebuano, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, Esperanto, Estonian, Farsi, Fijian, Filipino (Tagalog), Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Nyanja, Pashto, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Serbian, Sesotho, Shona, Sindhi, Sinhalese, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.
+
+Subscription Information:
+
+* The free version of AR Translator allows a limited number of translations. To remove these limitations, please purchase a paid subscription.
+
+* Subscriptions with a free trial period will automatically convert to a paid subscription unless auto-renewal is turned off at least 24 hours before the expiration of the free trial period.
+
+* Your subscription will automatically renew unless you turn off auto-renewal at least 24 hours before the end of the current subscription period.
+
+* Payment will be charged to your Apple ID account.
+
+* You can manage your subscriptions, turn off auto-renewal, or cancel the free trial by going to your Apple ID account settings after purchase.
+
+How to cancel a subscription:
+https://support.apple.com/118428
+
+How to switch to a different subscription plan:
+https://support.apple.com/118448
+
+Terms of Service:
+https://ar-translator.com/terms
+
+Privacy Policy:
+https://ar-translator.com/privacy",2019-08-09T07:00:00Z,2025-06-18T15:39:52Z
+ai,Anguilla,Reference,6006,24,1020444082,"1Muslim: Prayer times, Azan",Ruslan Elmurzaev,https://apps.apple.com/ai/app/1muslim-prayer-times-azan/id1020444082?uo=4,0.0,4.875,16,Reference,"1Muslim – Prayer Times, Quran, Qibla & Islamic Tools Trusted by 10+ Million Muslims. No Data Tracking. Ever. Stay spiritually connected with helpful reminders, elegant Quran reading, and practical tools for worship — all wrapped in a lightweight, ad-light interface built on real user feedback.
+
+100% Privacy-Focused
+We never track, store, or share your data. Your location is only used to calculate prayer times and Qibla — nothing more.
+- No profiling
+- No third-party tracking
+- No unnecessary permissions
+
+FEATURES MUSLIMS LOVE:
+
+- Prayer Times & Adhan Alerts
+Automatically calculated for your location, with customizable settings. (We always recommend checking and adjusting to match your local masjid.)
+
+- Qibla Compass with Kaaba View
+Clean, reliable direction — even offline.
+
+- Quran with Audio & Translation
+Easy-to-read Arabic, trusted tafsir and recitation.
+
+- Fajr & Tahajjud Alarms
+Wake up for night prayers — automatically calculated.
+
+- Islamic Calendar & Hijri Date
+Follows Islamic rule (Hijri date updates after Maghrib), with alerts for holidays and special days.
+
+- Daily Hadith & Duas
+Authentic inspiration and supplications. Bookmark your favorites.
+
+- Tasbih Counter with Vibration
+Do dhikr comfortably — without even looking at the screen.
+
+- Nearby Mosque Finder
+See masjids near you, wherever you are.
+
+- Themes & Widgets
+Personalize your app and add prayer times to your home screen.
+
+- Apple Watch Support (iOS)
+Prayer times and Qibla, right on your wrist.
+
+Why 10+ Million Muslims Trust 1Muslim:
+
+- No data collection
+- Lightweight & easy to use
+- No intrusive ads
+- Built with user feedback
+- 100% respectful of your privacy
+
+Download 1Muslim today — and experience a private, reliable, and spiritually uplifting Islamic app built for your daily worship.
+
+Terms of Service: https://1muslimapp.com/tos-en.html 
+Privacy Policy: https://1muslimapp.com/privacy-policy-en.html",2015-08-01T00:32:07Z,2025-09-08T20:35:57Z
+ai,Anguilla,Reference,6006,25,824428420,القران الكريم - عبد الباسط عبد الصمد,Moohamad Hinbarji,https://apps.apple.com/ai/app/%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D8%B7-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B5%D9%85%D8%AF/id824428420?uo=4,0.0,0,0,Reference,"القرآن الكريم كاملاً بصوت الشيخ الجليل عبد الباسط عبد الصمد حفظه الله 
+ميزات التطبيق 
+يدعم خاصية تكرار السورة والانتقال التلقائي للسورة التالية 
+تسجيلات بدقة عالية جداً 
+يدعم ميزة تشغيل الصوت في الخلفية بعد اغلاق التطبيق 
+
+- Supports ""repeat"" & ""shuffle"" features. 
+- Great sound quality. 
+- Play in background.",2014-02-25T19:14:13Z,2015-03-06T21:00:15Z

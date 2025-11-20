@@ -1,0 +1,921 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+af,Afghanistan,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/af/app/google-translate/id414706506?uo=4,0.0,4.21891,201,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2020-04-16T07:00:00Z,2025-11-18T17:48:56Z
+af,Afghanistan,Reference,6006,2,365557665,Quran Majeed – القران الكريم,Pakistan Data Management Services,https://apps.apple.com/af/app/quran-majeed-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id365557665?uo=4,0.0,4.73994,3257,Reference,"Most authentic Quran app since 2010.
+
+Recognized by more than 65 million Muslim users around the world.
+
+تطبيق القرآن الأكثر اعتمادا منذ عام ٢٠١٠.
+
+معترف به من قبل أكثر من ٦٥ مليون مستخدم حول العالم.
+
+Quran Majeed is an amazing Quran app that beautifies your life with the blessing of reading and listening to the Quran on the go. The latest version of the authentic Quran Majeed app for iPhone and iPad offers complete Quran in the elegant Uthmanic script, audio recitation, translations and English Tafsir Uthmani, proofread by a Muslim scholar ('alim).
+القرآن المجيد هو تطبيق مميز للقرآن الذي يجمل حياتك ببركة القراءة والاستماع إلى القرآن أثناء التنقل. الإصدار الأخير من تطبيق القرآن المجيد لأجهزة الآي فون والآيباد تقدم قرآنًا كاملاً في الكتابة العثمانية الأنيقة، وتلاوة الصوت، والترجمات، والتفاسير، وقام بمراجعته أحد العلماء
+
+● Worldwide Prayer Times clock with Azan/Adhan alarm options. Supports different prayer time calculation methods. Qibla direction. Ramadan Sehar/Iftar times
+أوقات الصلاة لجميع أنحاء العالم مع خيار تنبيه الأذان، ودعم طرق مختلفة لحساب أوقات الصلاة، وبوصلة القبلة، وأوقات السحور والإفطار
+
+● World famous reciters (Sheikh Abdul Basit, Sheikh As Sudays & As Shraym, Mishari Rashid, Saad Al Ghamdi, Abu Bakr Shatry, Sheikh Ahmed Ajmi, Sheikh Al-Huzaifi, Sheikh Mahir-al-Muayqali, Sheikh Minshawi, Sheikh Ayub, Khalil Husari, Mahmood AlBana, Salah Bukhatir & Sheikh Basfar).
+تلاوات القراء المعروفون عالميا.
+
+● Four English translations (Pickthal, Dr. Mohsin, Mahmood & Yusuf Ali) and forty-five language translations (AlBanian, Amazigh, Amharic, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Divehi, Dutch, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Malayalam, Malaysian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sindhi, Somali, Spanish, Swahili, Swedish, Tajik, Tamil, Tartar, Turkish, Urdu, Uyghur, Uzbek). 
+
+● Option to display any translation along with full Arabic text in hi-resolution, Retina graphics in both portrait and landscape viewing. Supports pinch/zoom feature for changing font size.
+خيار عرض أي ترجمة مع النص العربي الكامل بالدقة الممتازة في وضعي الأفقي والعمودي، دعم ميزة التصغير / التكبير لتغيير حجم الخط.
+
+● Islamic greeting messages (Eid Mubarak, Ramadan Kareem, ...)
+رسائل معايدة إسلامية (عيد مبارك، رمضان كريم، ...)
+
+● Qibla Direction — اتجاه القبلة
+
+● Hijri Converter — تحويل التاريخ
+
+● Quran TV feature with beautiful background videos
+تلفزيون القرآن مع مقاطع فيديو خلفية جميلة
+
+● Visual Quran feature with flip gesture
+المصحف المرئي مع إيماءة التقليب
+
+● Watch live coverage of Makkah & Madinah.
+شاهد التغطية المباشرة لمكة المكرمة والمدينة المنورة.
+
+● Selectable themes (Green, Blue, Classic-Green, Night Mode, Light & Brown).
+إمكانية اختيار الثيمات (أخضر، أزرق، الوضع الليلي، فاتح، بني)
+
+● Advanced audio options to help with memorization (repetition of ayah, Surah, number of repetitions, interval, and recitation speed).
+خيارات الصوت المتقدمة للمساعدة في الحفظ (تكرار الآية، وسورة، وعدد من حالات التكرار، وفاصل، وسرعة التلاوة).
+
+● Highly advanced “Search” feature that can help with searching any word (search exact word, affixes or all roots) in the Arabic text, any of the translations and English Tafsir.
+ميزة بحث متقدم يساعد في البحث عن أي كلمة ( الكلمة بالضبط، كل اللاحقات أو الجذور) في النص العربي، والترجمات والتفاسير
+
+● Bookmarking of Aya, translation and tafsir (supports iCloud synchronization that helps your bookmarks stay up to date on all your iOS devices).
+وضع علامة مرجعية على الأية، والترجمة، والتفسير للرجوع إليها
+
+● Quranic Aya and word highlighting during recitation.
+تظليل الآية والكلمة أثناء التلاوة
+
+● Social media sharing. Ability to share selected aya via email, twitter & Facebook.
+مشاركة في وسائل الإعلام الاجتماعية
+
+● iPad friendly interface
+تطابق واجهة أيباد
+
+Terms & Conditions
+https://pakdata.com/terms-and-conditions/
+
+Privacy Policy
+https://pakdata.com/privacy-policy/",2020-04-10T07:00:00Z,2025-11-17T05:55:37Z
+af,Afghanistan,Reference,6006,3,522027459,Persian Dictionary - Dict Box,Xung Le,https://apps.apple.com/af/app/persian-dictionary-dict-box/id522027459?uo=4,0.0,4.60749,1949,Reference,"Dict Box - the offline dictionary & translator app for Persian-English learners and speakers.
+
+Translate English to Farsi.
+Translate Farsi to English.
+No internet connection required.
+Fast, convenient & easy to use.
+Very smart word suggestions.
+All dictionaries in one place.
+Translate text directly in the web browser and other apps.
+Text pronunciation.
+Picture dictionary.
+Word reminder.
+Plenty of dictionaries available to install.
+
+And a lot more useful features.
+
+
+***Upgrade to Premium to unlock advanced features***
+- Ad-free experience
+- Urban dictionary
+- Picture dictionary
+- Backup & sync across devices & platforms
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription. 
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms",2020-04-10T07:00:00Z,2024-07-16T10:25:20Z
+af,Afghanistan,Reference,6006,4,6740017050,Translate Ease,GOOD STUDY NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/af/app/translate-ease/id6740017050?uo=4,0.0,4.64655,116,Reference,"In this globalized world, overcoming language barriers has become more important. Our Translate Ease is committed to providing you with accurate and fast translation services, allowing you to easily solve any language translation problems you need, no matter where you are.
+
+Applicable scenarios:
+Travel: Whether it is a restaurant menu, traffic signs, or interactions with locals, the translation app can help you quickly understand.
+Business: When communicating with multinational companies and customers, the translation app allows you to easily handle emails, documents, and calls in various languages.
+Learning: A must-have for partners learning new languages, translate words, phrases, and sentences anytime, anywhere to accelerate the language learning process.
+Daily life: Translate shopping tags, recipes, news, etc. to help you better understand content in different languages.
+
+Why choose us?
+High accuracy: Using advanced translation algorithms to ensure accurate translation results.
+User-friendly: The simple interface design makes it easy for you to get started and quickly find the functions you need.
+Fast and efficient translation experience, easily cope with various scenarios such as daily conversations, business emails, travel routes, etc.
+Voice translation function allows you to speak the language directly without typing, and the application will instantly recognize and translate, bringing a smoother communication experience.
+
+Let communication without borders, experience seamless global communication. Download the Translate Ease app now and make every communication simple and hassle-free!",2025-01-11T08:00:00Z,2025-09-09T20:40:43Z
+af,Afghanistan,Reference,6006,5,1425116117,دانا: دیکشنری انگلیسی به فارسی,Novix Technology Inc.,https://apps.apple.com/af/app/%D8%AF%D8%A7%D9%86%D8%A7-%D8%AF%DB%8C%DA%A9%D8%B4%D9%86%D8%B1%DB%8C-%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/id1425116117?uo=4,0.0,4.80243,329,Reference,"** فرهنگ لغت فارسی و انگلیسی و انگلیسی-فارسی **
+** ترجمه، تعريف، مترادف، متضاد، مثال، عبارت **
+
+- دیکشنری فارسی به انگلیسی و انگلیسی به فارسی
+- مترجم آفلاین 
+- بیش از ۶۰۰،۰۰۰ کلمه و عبارت 
+- مترجم متن 
+- شامل ترجمه، تعریف، مترادف، متضاد، مثال، عبارت و یادداشت های شخصی
+- اولین دیکشنری شامل زمان افعال انگلیسی، مفرد و جمع اسم ها 
+- زبانه یادداشت برای هر کلمه جهت اضافه کردن متن و تصویر 
+- تلفظ به زبان انگلیسی 
+- واژه های روزانه
+- عبارات ضروری انگلیسی در ۱۹ گروه با تلفظ
+- ترجمه سریع فقط با یک لمس بر روی یک کلمه 
+- لهجه ها و فونتیک قابل تغییر انگلیسی: آمریکایی، بریتانیایی، کانادایی، ... 
+پیشنهادات هوشمند در صورت تایپ اشتباه 
+
+
+If you choose to opt for the subscription:
+The payment will be charged to iTunes Account at confirmation of purchase. Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period. 
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Refunds will not be provided for any unused portion of the term.
+
+Subscriptions and free trials can be managed by accessing this page:
+https://apps.apple.com/account/subscriptions
+
+Contact info@novix.ca with any other questions.
+
+Privacy policy: https://www.novix.ca/privacypolicy
+Terms of use: https://www.novix.ca/tos",2020-04-11T07:00:00Z,2025-07-19T07:50:53Z
+af,Afghanistan,Reference,6006,6,587444069,Dictionary Offline - Dict Box,Xung Le,https://apps.apple.com/af/app/dictionary-offline-dict-box/id587444069?uo=4,0.0,4.57771,341,Reference,"Dict Box is an offline dictionary & translator app for 50+ languages.
+
+No internet connection required.
+Fast, convenient & easy to use.
+Very smart word suggestions.
+All dictionaries in one place.
+Translate text directly in the web browser and other apps.
+Offline text pronunciation.
+Picture dictionary.
+Word reminder.
+Plenty of dictionaries available to install.
+
+And a lot more useful features.
+
+The following languages are supported by Dict Box:
+English, Spanish, Arabic, French, Portuguese, Russian, German, Turkish, Vietnamese, Japanese, Korean, Chinese, Italian, Persian, Farsi, Thai, Hebrew, Urdu, Dutch, Kurdish, Indonesian, Malay, Hindi, Pashto, Swedish, Danish, Greek, Polish, Romanian, Ukrainian, Esperanto.
+
+
+
+
+***Upgrade to Premium to unlock advanced features***
+
+- Ad-free experience
+- Urban dictionary
+- Picture dictionary
+- Backup & sync word lists across devices & platforms
+
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription.
+- a monthly subscription.
+
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms-of-service/",2020-04-10T07:00:00Z,2023-12-19T17:46:02Z
+af,Afghanistan,Reference,6006,7,989676330,Persian Translator Offline,Xung Le,https://apps.apple.com/af/app/persian-translator-offline/id989676330?uo=4,0.0,4.45667,300,Reference,"English to Persian, Farsi to English Translator & Dictionary app with ability to search similar sentences & expressions.
+
+Offline Translator
+More than 100K words, sentences & expressions
+Auto language detection
+Easy to use, fast, works offline.
+Pronunciation with human voice.
+Find related sentences, phrases, words.
+Word correction for mistyped words.
+Tap word to see its meaning in popup window.
+Review words and expressions with History & Favorites.
+
+
+
+***Upgrade to Premium to unlock advanced features***
+- Ad-free experience
+- Unlimited translation
+- No limit on input text length
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription (comes with 3-day free trial).
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms",2020-04-11T07:00:00Z,2022-12-04T10:48:22Z
+af,Afghanistan,Reference,6006,8,434135994,Fastdic - Fast Dictionary,Fast Dictionary Limited,https://apps.apple.com/af/app/fastdic-fast-dictionary/id434135994?uo=4,0.0,4.03226,62,Reference,"We proudly provide service to more than 7 million active users each month.
+
+Features:
+- AI - Improve grammar, paraphrase, expand or summarize text and change tone/style of writing.
+- AI Translator - Persian, English, German, Italian, Spanish, French, Arabic and Turkey
+- English to Persian/Farsi and vice-versa Dictionary & Translator (Online & offline)
+- More than 250,000 words
+- More than 100,000 example sentences
+- Sync your favorite and history words
+- The ability to convert numbers to words. (Enter any number or decimal number to see both English and Persian numbers in letters) 
+- Synonyms and antonyms
+- English to English Dictionary
+- Online and offline English audio pronunciations with both American & British accents (For words and sentences) 
+- Part of speech (POS)
+- British & American English phonetics
+- Search different forms of nouns and verbs (Simple past tense, Past participles, Irregular verbs, Third person singular, Present participle, Plural)
+- History of searched words
+- Word Family
+- Formal/informal labels
+- Categorized words - List of categogized words for easy access
+- Favorites list - Create custom folders with your favorite words
+- Word sharing - Easily share a new word or definition you have just learned with your friends
+- Word of the day - Learn a new word, every day (Try the widget on your home and lock screen)
+- Voice translator - Find an entry when you do not know how a word is spelt
+- Image translator - Translate English contents by taking a photo
+- Share Extension - The users with a subscription can translate any words or sentences in any application such as Safari and Chrome by using Share button and selecting Fastdic
+- Light and Dark mode 
+- No internet connection is required to use the dictionary (The translator requires internet)
+- Fast and simple
+And more incredible features
+
+To remove ads or gain access to additional features, visit the app's more section.
+
+**The subscriptions do not auto-renew; they work as a one-time purchase.**",2020-04-12T07:00:00Z,2025-11-18T20:05:46Z
+af,Afghanistan,Reference,6006,9,1037776761,Guides for imo Video Chat Call,Athip Chonsawad,https://apps.apple.com/af/app/guides-for-imo-video-chat-call/id1037776761?uo=4,0.0,3.8,5,Reference,"This application contain a basic guides of imo video chat calls for the beginners.
+This application will lets you know how to communicate with family and friends for free, no matter how distance they are by imo applicaiton.
+Because imo Video Chat Call apps has features such as to send messages and calls (video/voice), send and share photos, and enjoy to chat with animate sticker at no cost to you to stay connected with family and friends in other countries easily without worrying about overseas charges, text limits, or going over on your minutes..
+
+This application will lets you know :
+- How to download and installation
+- Features of imo
+- How to chat and invite your friend?
+- Make a group chat
+- To make video call and text messages.
+- How to enjoy your friends with sharing photo, video and stickers
+
+*** This application is not an official imo's application.",2020-04-12T07:00:00Z,2020-04-12T07:00:00Z
+af,Afghanistan,Reference,6006,10,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/af/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.68241,910,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2020-04-10T07:00:00Z,2025-11-13T13:29:55Z
+af,Afghanistan,Reference,6006,11,1164826566,Cloud Music-Download Songs Lab,国文 李,https://apps.apple.com/af/app/cloud-music-download-songs-lab/id1164826566?uo=4,0.0,4.47499,40,Reference,"Also it allows you to download songs from your cloud storages. It supports Dropbox®.
+
+It is easy to use and useful. You can enjoy listening to songs without wifi.
+
+Main Features: 
+√ Download songs from your cloud storages.
+√ Play downloaded songs with a powerful player.
+√ Play local iPod songs with a powerful player.
+√ Provide 3 play modes: normal, single, shuffle.
+√ Manage your playlists.
+
+How to use:
+1. On the tab 'Cloud' choose the cloud platform Dropbox.
+2. Click the Sign In icon button at the right top corner of the cloud platform section.
+3. Connect to Dropbox and use your account. (If you have no account, you should register one.)
+4. Get songs from your cloud storage. (You should upload your preferred songs to your cloud storage by yourself.)
+5. Choose a downloaded songs to play and enjoy it.",2020-04-19T07:00:00Z,2020-04-19T07:00:00Z
+af,Afghanistan,Reference,6006,12,6504798650,Bible Path: Daily Devotional,DEEP FLOW SOFTWARE SERVICES - FZCO,https://apps.apple.com/af/app/bible-path-daily-devotional/id6504798650?uo=4,0.0,5,7,Reference,"Bible Path is a thoughtfully designed app aimed at enriching your spiritual journey with scriptures that offer guidance and holy inspiration. Whether you seek daily inspiration, devotional reflections, or a deeper understanding of the scriptures, Bible Path provides a serene and supportive environment for personal growth.
+
+Key Features:
+
+Bible Chat:
+Engage in conversations about faith, prayers, and scriptures with Bible Chat. This feature allows you to explore different interpretations of the scripture, ask questions, and connect with a community of fellow seekers in a holy atmosphere. The chat interface makes it easy to share your thoughts on scriptures and devotional topics with others.
+
+Audio Bible:
+Immerse yourself in the holy scriptures through our audio Bible. Perfect for quiet moments of reflection or during daily activities, the narrated scriptures help you stay connected to the Word of God. Whether you’re listening to audio prayers or meditating on the scripture, the app makes it easy to integrate devotional practices into your routine.
+
+Inspirational Verses and Prayers:
+Receive a daily dose of inspiration with verses and prayers that uplift and guide you. Each scripture verse and prayer is carefully chosen to offer spiritual nourishment, guiding you in your devotional journey with the holy scriptures.
+
+Personalized Daily Reflections:
+Reflect on personalized insights based on the holy scriptures and prayers that resonate with your spiritual needs. These reflections are crafted to help you ponder biblical themes and integrate their teachings into your daily life through consistent devotional practices.
+
+Interactive Bible Studies:
+Deepen your understanding of the Bible with our interactive study guides. These resources provide comprehensive insights and context, suitable for both personal study and group discussion, focusing on the holy scriptures to enrich your devotional life.
+
+Faith Building Exercises and Prayers:
+Engage in exercises designed to strengthen your faith and understanding, complemented by powerful prayers. These activities encourage you to reflect on scriptures and apply them to your life, guiding you in devotional practices.
+
+Studies and Resources:
+Access a wide range of study materials and resources tailored to different levels of biblical knowledge. Whether you are just beginning your journey or seeking advanced understanding of the scriptures, Bible Path provides a supportive resource filled with devotional insights and reflections on the holy scriptures.
+
+Why Choose Bible Path?
+Bible Path is a spiritual companion, offering a calm and nurturing space for exploring the scriptures and growing in faith. With tools like chat, audio resources, and study guides, the app is designed to be a gentle guide, helping you find clarity, comfort, and deeper meaning in your spiritual journey.
+
+Download Bible Path and begin a journey of reflection, learning, and spiritual growth. Let this app be a quiet support in your daily life, offering holy guidance and wisdom from the scriptures through prayers, verses, and more.
+
+Privacy Policy: static.holy-bible.app/.html
+
+
+Terms & Conditions: static.holy-bible.app/.html",2024-08-14T07:00:00Z,2025-11-11T12:09:04Z
+af,Afghanistan,Reference,6006,13,953822023,ياسر الدوسري - بدون انترنت,Abdulrahman Alsaab,https://apps.apple.com/af/app/%D9%8A%D8%A7%D8%B3%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D8%B3%D8%B1%D9%8A-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id953822023?uo=4,0.0,4.6875,16,Reference,القران الكريم كاملا بدون انترنت بجودة عالية بصوت الشيخ ياسر الدوسري,2020-04-20T07:00:00Z,2020-04-20T07:00:00Z
+af,Afghanistan,Reference,6006,14,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/af/app/oxford-dictionary/id978674211?uo=4,0.0,3.59375,32,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2020-04-10T07:00:00Z,2025-11-18T21:39:49Z
+af,Afghanistan,Reference,6006,15,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/af/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,0,0,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+af,Afghanistan,Reference,6006,16,282935706,Bible,Life.Church,https://apps.apple.com/af/app/bible/id282935706?uo=4,0.0,4.58537,246,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2020-04-18T07:00:00Z,2025-11-19T16:02:20Z
+af,Afghanistan,Reference,6006,17,537070378,Quran Pro - Muslim قران كريم,Quanticapps Ltd,https://apps.apple.com/af/app/quran-pro-muslim-%D9%82%D8%B1%D8%A7%D9%86-%D9%83%D8%B1%D9%8A%D9%85/id537070378?uo=4,0.0,4.7519,262,Reference,"Quran Pro app is a collection of the best Quran reciters in the world, an amazing user interface design, and the best set of features.
+
+Quran Pro app is FREE without any limitation.
+
+With the Quran Pro app you can do: 
+
+• Translations
+Read the Holy Quran in Arabic alongside its translation ( French, English, Malay, Dutch, Italian, Spanish, or even have explanation and meaning). We support 30 languages in total.
+
+• Bookmarks
+You can bookmark your favorites surat and reciters from the player view
+
+• Offline mode
+Download recitations, playlists, and tracks, and bring your Quran with you anywhere using our offline mode. Download all the surats or one by one surat.
+
+• Favorites
+Create your personal Quran collection simply by marking playlists as your favorite.
+
+• Multi-Platforms
+Thanks to the technology Quran Pro supports AirPlay and CarPlay.
+
+• Audio features​
+Play audio in the background while you're using your iPhone/iPad. Repeat, shuffle, ​and timer functions are also included
+
+• Today's Extension (Widget)​
+The app offers a widget with your recently played audios.
+
+• Design
+The app has been redesigned to be faster, simpler, snappier UI, and more beautiful. In addition to optimized for Retina display on the new iPhone/iPad.
+
+• Various Reciters:
+All the most popular reciters are in the app, you can find the following names:
+- A­bdul Rahman Al ­Soudais عبد الرحمن السديس
+- Maher Al Mueaqly - ماهر المعيقلي
+- Saoud Al Shuraim سعود الشريم
+- Abdul Baset Abdel-Samad عبد الباسط عبد الصمد
+- Mishary Rashid Alafasy - مشاري بن راشد العفاسي
+- Saad El Ghamidi - سعد الغامدي
+- Fatih Seferagic فاتح سفيرافيك
+- And more.
+
+REQUIREMENTS 
+- The application requires an internet connection with WiFi or 3G/4G for use in case you have not to download surat.
+
+If you have any feedback, comments or issues? Please contact us directly
+
+CarPlay® and AirPlay® are is a software feature and an Apple trademark.
+
+Download Quran Pro today and enjoy listening to the best reciters in the world.
+
+Privacy policy: https://quranpro.co/privacy
+Terms of use: https://quranpro.co/terms
+
+
+تطبيق القرآن هو مجموعة من أفضل قراء القرآن في العالم. تصميم مبسط ومريح واجهة المستخدم مع مجموعة متنوعة من الميزات الجديدة.
+ 
+تطبيق القرآن هو مجاني
+
+مع تطبيق القرآن الكريم يمكنك:
+ 
++ قراءة القرآن باللغة العربية مع ترجمتها (الإنجليزية أو الفرنسية أو تفسير المعنى مع تفسير الجلالين)
++ حفظ السور المفضلة لديك وكذا الفراء
++ تحميل تلاوة السور والاستماع متواجد حاليا
++ تحميل كل أو السورة
++ تحميل تلاوات أكثر من 23 قارئ
++ إرسال للعائلة والأصدقاء
++  أدعية قرآنية
++ تشغيل الصوت في الخلفية أثناء استخدام جهاز اي فون / آي باد
++ توطيد: الآن أسرع وأبسط وأكثر حيوية  واجهة المستخدم ذات هندسة رائعة .
++ الآن يمكن تشغيل التطبيق على اي فون / آي باد ريتينا
+ 
+متطلبات
+- يتطلب التطبيق اتصال بالإنترنت مع واي فاي WiFi أو الجيل الثالث 3G للاستخدام في حال كنت لم يتم تحميل السور.
+ 
+ 
+لديك تعليقات أو أسئلة؟ يرجى الاتصال بنا مباشرة
+ 
+لا تنسون من صالح الدعاء
+ 
+ نسأل الله تعالى أن يمنحنا الإخلاص في النية والرحمة وتوحيد جميع المسلمين تحت راية النبي محمد صلى الله عليه وسلم، وأن نكون من بين الفائزين يوم القيامة.
+
+قم بتنزيل القرآن الكريم اليوم واستمتع بالاستماع إلى أفضل القراء في العالم.
+
+سياسة الخصوصية: https://quranpro.co/privacy
+شروط الاستخدام: https://quranpro.co/terms",2020-04-10T07:00:00Z,2025-09-19T03:49:41Z
+af,Afghanistan,Reference,6006,18,1631335357,Persian dictionary | دیکشنری,Arsen Vardanyan,https://apps.apple.com/af/app/persian-dictionary-%D8%AF%DB%8C%DA%A9%D8%B4%D9%86%D8%B1%DB%8C/id1631335357?uo=4,0.0,4.72,75,Reference,"دیکشنری انگلیسی به فارسی و فارسی به انگلیسی
+
+بیش از چهارصد هزار کلمه و اصطلاح
+بدون نیاز به اینترنت
+تلفظ صوتی حتی بدون نیاز به اینترنت
+شامل تعریف انگلیسی لغات همراه با مثال و مترادف
+شامل بیش از پنجاه هزار مثال همراه با ترجمه فارسی
+شامل عبارت های مرتبط با کلمات
+قابلیت لمس لغات و مشاهده معانی
+ترجمه متن -این ویژگی نیاز به اینترنت دارد
+
+
+
+-------------------------------------
+
+Persian to English and English to Persian Dictionary and translator:
+
+Includes more than 400,000 words and expressions
+No internet connection required
+Text pronunciation (Even without internet)
+Includes English definitions of words and examples
+Includes example with Persian translations
+Includes Related phrases of words
+Touch words and see the meanings
+Translate any text( this feature requires internet connection)
+Copy translations
+Favorites words
+Search History",2022-06-28T07:00:00Z,2025-11-05T16:09:59Z
+af,Afghanistan,Reference,6006,19,442158525,Quran Tafsir تفسير القرآن,Pakistan Data Management Services,https://apps.apple.com/af/app/quran-tafsir-%D8%AA%D9%81%D8%B3%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/id442158525?uo=4,0.0,4.61386,101,Reference,"Seven tafsir books (5 Arabic tafsir, 1 English tafsir and 1 Urdu tafsir) in one app:
+● Tafsir Ibn Katheer ● Tafsir At-Tabari
+● Tafsir Al-Baghwi ● Tafsir As-Saady
+● Tafsir Al-Moyasar
+● English Tafsir Uthmani
+● Urdu Tafseer Usmani
+تفسير ابن كثير ● تفسير الطبري ● تفسير الميسر ● تفسير البغوي ● تفسير السعدي ●
+
+This app displays Quran in Uthmanic font along with tafsir view at bottom separated by an adjustable divider. Tapping on any aya will bring the tafsir of that aya. Both Quran & tafsir views support retina quality scalable font with pinch/zoom gesture.
+هذا التطبيق يعرض القرآن في الخط العثماني مع التفسير في الأسفل٫ الضغط على أي آية سيعرض  تفسير تلك الآية. النص القرآني والتفسير كلاهما يدعمان الخط بالدقة الممتازة مع ميزة التكبير والتصغير٫ 
+
+The free version has content of first Juz of Quran. Other features include recitation of Quran by different Qaris (required internet download) and Quran translations in many languages (tafsir is in Arabic only). 
+النسخة المجانية يحتوي على الجزء الأول من القرآن الكريم. الميزات الأخرى تشمل تلاوة القرآن الكريم لمختلف القراء (يتطلب التحميل  من الانترنت) و الترجمة في لغات عديدة٫
+
+Recently added features:
+● Advanced audio options (repetition of aya, interval, recitation speed, AirPlay) 
+● More iPad friendly interface (iPad's native popovers)",2020-04-10T07:00:00Z,2020-04-10T07:00:00Z
+af,Afghanistan,Reference,6006,20,374050672,Athkar - أذكار,Fares Fares,https://apps.apple.com/af/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4,0.0,4.45192,104,Reference,"The best Athkar app / azkar (Daily Islamic Prayers) in Arabic & English languages. Free app with the option to subscribe to the exclusive version with extra features. 
+
+Quran (iOS 17+)
+Accurate prayer times based on your current location
+Adhan/azan in different voices with notifications
+Qibla Direction
+Morning Athkar
+Evening Athkar
+Roquia
+Travel prayer
+Names of Allah
+Dark Mode option
+Supports Apple Watch
+Supports iPad
+Supports macOS with M1 chips
+Friday sunnah reminder
+White Day Fasting Reminder
+Counter / Subha
+Hajj and Umrah
+Islamic greeting cards: Eid Mubarak - Ramadan Kareem.
+Prayer times for the Apple Watch faces 
+Create your own Athkar / Azkar and get notifications for any athkar you created. 
+iCloud sync support
+
+
+أفضل تطبيق أذكار بشهادة المستخدمين، تطبيق اذكار مجاني سهل الاستخدام يشمل على الأذكار و الأدعية المهمة من الكتاب و السنة و أوقات الصلاة و المصحف و اتجاه القبلة - اذكار الصباح و المساء - الأذكار عند النوم والاستيقاظ - أدعية من القران الكريم - الرقية الشرعية من القرآن و السنة - من دعاء الرسول صلى الله عليه و سلم 
+
+---   مزايا التطبيق   ---
+يدعم الايفون والايباد
+يدعم ساعة ابل
+أوقات الصلاة
+مواقيت الصلاة في مدينتك
+حساب دقيق لمواقيت الصلاة
+الأذان بأصوات مختلفة
+بوصلة لتحديد اتجاه القبلة - مكة 
+اذكار الصباح
+اذكار المساء
+أذكار النوم 
+الرقية الشرعية
+ادعية الصلاة
+دعاء السفر
+حصن المسلم
+دعاء الرسول صلى الله عليه و سلم
+اسماء الله الحسنى
+الحج والعمرة
+أذكار مقسمة حسب المناسبة
+شكل جذاب لتسهيل القرأة
+خاصية القراءة الليلية
+خاصية البحث
+ادعية للميت
+ادعية للمريض
+أدعية الزوج و الزوجة
+أدعية الأبناء
+أدعية الأم و الأب الوالدين
+خاصية المنبه لأذكار الصباح و المساء
+منبه الفجر - فعّل منبه الفجر وحدد الوقت، وسيتم ضبط منبه الجهاز تلقائيًا, حتى لو كان الجهاز في وضع الصامت.
+منبه صلاة الضحى
+منبه يذكرك بأذكار منوعة عدة مرات في اليوم
+تذكير صيام الايام البيض
+تذكير سنن يوم الجمعة
+عداد الكتروني و سبحة للمساعدة على عد الأذكار
+صوت للاذكار بصوت الشيخ مشاري العفاسي
+يمكنك تسريع الملف الصوتي للأذكار
+سهولة تصفح الأذكار
+صفحات مرقمة
+مفضلة
+بطاقات معايدة إسلامية : عيد مبارك - رمضان كريم.
+قائمة للاذكار في كل قسم للوصول إلى الدعاء المطلوب بسهولة
+اماكنية ارسال كل دعاء عن طريق البريد الالكتروني، الرسائل النصية،  فيس بوك و تويتر وغيرها 
+صفحة للاعدادت سهلة الاستخدام للتحكم في شكل البرنامج  و تصغير او تكبير الخط وغيرها الكثير
+دعم اتجاه القبلة للمكفوفين
+مواقيت الصلاة في ساعة ابل
+عرض الصلاة القادمة أو التاريخ الهجري في واجهة الساعة
+وقت وتذكير الثلث الأخير من الليل.
+
+--- أذكار خاصة بك ---
+خاصية اضافة الاذكار
+اضافة الاقسام حسب رغبتك 
+تحرير و تغير مكان الاقسام 
+حذف الاقسام و محتوياتها
+اضافة ذكر أو دعاء جديد لأي قسم معين. 
+اضافة عداد لأي دعاء. 
+تحرير أي دعاء أو نقل مكانه. 
+نقل الدعاء من قسم إلى آخر.
+نسخ كامل للأذكار الرئيسية في التطبيق مثل أذكار الصباح و التحكم بها و حذف أو اضافة اي ذكر إليها.
+يمكنك نقل كل محتوى أذكاري اي جهاز ثاني أو ارساله إلى احد اقربائك أو اصدقائك.
+دعم مزامنة محتوى قسم أذكاري مع حسابك في iCloud 
+اذا استخدمت نسخة من تطبيق أذكار في جهاز ثاني يمكنك مشاهدة نفس محتويات اذكاري والمفضلة والعداد.  
+يمكنك استلام تنبيهات لكل قسم في أذكاري
+أدعية شاملة في صفحة واحدة تحتوي 
+
+---   النسخة الحصرية   ---
+أذكار للاحبة يمكنك من خلال القسم اضافة ملف خاصة لشخص عزيز عليك مريض متوفي أو للوالدين أو الزوج أو الزوجة أو الأبناء و سيقوم التطبيق بإنشاء أدعية في مكان واحد لهذا الشخص يمكنك الرجوع اليها أي وقت أو تفعيل خاصية التذكير اليومية.
+كتيب الأذكار يمكنك اهداء الكتيب لمن تشاء بصيغة PDF
+التقويم الهجري
+التقويم الميلادي
+قسم خاص بـ رمضان
+قسم خاص بـ يوم الجمعة
+ سورة الكهف
+تحول التاريخ الهجري إلى الميلادي و العكس 
+مواقيت الصلاة للشهر الهجري أو الميلادي واي شهر اخر في نفس السنة
+يمكن مشاركة مواقيت الصلاة ليوم معين كصورة في منصات التواصل مثل الواتساب أو سنات شات أو اسنتجرام Stickers
+يمكن مشاركة أو تحميل مواقيت الصلاة لشهر معين بصيغة ملف PDF
+متى رمضان القادم و عيد الفطر و عيد الاضحى 
+مناسبات هجرية 
+الأيام البيض وقتها و فضلها 
+السنن الرواتب 
+دعاء ختم القرآن 
+دعاء القنوات
+اضافة التاريخ الهجري على ايقونة التطبيق
+تغير شكل ايقونة التطبيق 
+تغير لون الخلفية",2020-04-11T07:00:00Z,2025-11-18T20:56:54Z
+af,Afghanistan,Reference,6006,21,1116457496,Quran Farsi قرآن فارسی,TopOfStack Software Limited,https://apps.apple.com/af/app/quran-farsi-%D9%82%D8%B1%D8%A2%D9%86-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/id1116457496?uo=4,0.0,4.75,4,Reference,"Assalamu alaikum to everyone. Do you recite the Holy Quran Sharif regularly? If it’s yes, then we are here to help you reciting Quran majid more convenient way. 
+
+You can get the whole Quran Sharif in our Quran Farsi application. Interested readers may access this application with just a few touches that will help them add more inclination to Quran. We are now leading busiest life that sometimes we can not carry holy Quran mazeed in our tiny bag. In this circumstance, if we need any ayat of Quran at any moment, then the medium or something like the medium of Quran we need, that can hold the whole holy Quran in a body. You can just use this application to eradicate this kind of difficulty. This is how this application can help you.
+
+Every one knows that, there are totally 6236 ayats in Al-Quran and a reader will get ten sawab for one letter of Quran. Recitation of the holy Quran Sharif: ""There is no doubt that Quran Sharif is the best guide in this world"". Our Quran Farsi application maintains the way like the book form of Quran majeed maintains itself. So a reader might not face any problem in the time of recitation. Hence, with honour and respect, you can keep it reading through this Quran Farsi application as like as you read the book of Quran Sharif before.
+
+With this Islamic book app, you are getting Hafizi quran with real page-curl experience. This is not just a textual app, it is an audio Quran app. You can listen telwat of Quran ayats continuously (internet connection required). You can search words or topic in Farsi on this Quran app. Bookmark the ayat / verse you like / quote. Share the ayat / verse you want.
+
+MAIN FEATURES:
+• Al Quran (قرآن): The Holy Quran with audio recitations, phonetics, tafsir and translations.
+• Salat Times (اوقات نماز): Accurate prayer times based on your current location.
+• Tasbih (تسبیح): Beautifully animated counter to count your daily dhikr.
+• Qibla Finder (قبله): Animated Qibla compass to show you the direction to Makkah.
+• 99 Names of Allah (اسماء حُسنی)
+• Dark Mode
+
+Feature details:
+Al Quran (قرآن): 
+- Read Complete Quran Majeed 114 Surah and 30 para part by part.
+- Listen Holy Al Qur'an Ayat in Arabic Audio with at least 17 Quran Reciters.
+- Quran recitation with audio translation.
+- 6 widely-used high quality Quranic prints (Hafizi-Quran).
+- Verse selection, bookmark, share feature.
+- Comprehensive search feature
+- Word by Word Quran.
+- World renowned reciters (Sheikh Abdul Basit Abdul Samad, Ali Abdur-Rahman Al Hudhaify, Maher Al-Mueaqly,  Abdullah Ali Jabir, Abdul Rahman Al-Sudais, Mishary Rashid Alafasy, Saud Al-Shuraim, Saad Al-Ghamdi, Yasser Al-Dosari, Sheikh Ayman Suwayd, Raad Mohammad Al Kurdi, Muhammad Siddiq Al-Minshawi, Abdullah al Juhany etc.)
+
+Salat Times:
+- Shows Muslim Prayer Times: Tahajjud, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Ishraq, Duha (Chast), Iftar and Sahri.
+- Four juristic methods (Mazhab): Hanafi, Shafii, Maliki, Hanbali.
+- Options to adjust the prayer times.
+
+Qibla Finder: 
+Find the accurate Qibla direction Finder from the compass.
+-Qibla direction app shows you where the Qibla is, even in an offline mode with the help of its compass feature.
+- Find Kaaba/Makkah Direction from the any part of the world.
+
+Tasbih:
+- Very useful tool to count zikr.
+-Keep tracking of Tasbih count and also calculate how many times and when you recited names of Allah.
+
+99 Names of Allah:
+- Read 99 Names of Allah (Asma Ul Husna) in Arabic and meanings in your native language.
+- Listen to the audio for each name and easy to play/pause
+
+
+
+
+قرآن، مسلمان، اسلام، عربی، محمد، الله، قرآن، دعا، قرآن، نماز، اذان، نماز، رمضان، قرآن حافظی، رمضان، حج، مصحف، تجوید، مدنی، سعودی، تجوید، ., كوردی,سوورەت,ئایەت,نوێژ,تەسبیح,موسحەف,ئیسلام,تەفسیر,حافیزی,ڕەمەزان,دوا,مصطفی خرمدل,حسین انصاریان,عبدالمحمد آیتی,فولادوند,مهدی الهی قمشه‌ای,بهاءالدین خرمشاهی,ناصر مکارم شیرازی,محمد صادقی تهرانی,حسین تاجی گله داری",2020-04-10T07:00:00Z,2024-03-19T15:56:29Z
+af,Afghanistan,Reference,6006,22,578547597,Hadith حديث‎ - Sahih Bukhari,Pakistan Data Management Services,https://apps.apple.com/af/app/hadith-%D8%AD%D8%AF%D9%8A%D8%AB-sahih-bukhari/id578547597?uo=4,0.0,4.54545,33,Reference,"أقوال النبي محمد (ص)، هذا التطبيق يحتوي على كتب الحديث الستة الرئيسية: صحيح البخاري، صحيح المسلم، جامع الترمذي، سنن ابي داود،  سنن النسائي، سنن ابن ماجة في اللغة العربية.
+
+Sayings of Prophet Muhammad (SAW), this app contains six major hadith books: sahih bukhari, sahih muslim, jameh tarmidhi, sunan ibe dawood, sunan nisai, sunan ibn maja in Arabic language.
+
+◉ Sahih Bukhari is now also available in English & Urdu translation
+
+Terms & Conditions
+https://pakdata.com/terms-and-conditions/
+
+Privacy Policy
+https://pakdata.com/privacy-policy/",2020-04-10T07:00:00Z,2024-10-17T16:21:59Z
+af,Afghanistan,Reference,6006,23,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/af/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,3,2,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+af,Afghanistan,Reference,6006,24,1454509502,Azkar - اذكار : Athan & Prayer,Hamza Oqbah,https://apps.apple.com/af/app/azkar-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1-athan-prayer/id1454509502?uo=4,0.0,4.74674,154,Reference,"Azkar App is your daily companion for enhancing spirituality and facilitating Islamic practices. It provides a comprehensive collection of authentic Athkar (remembrances) and supplications from the Qur’an and Sunnah, along with innovative features designed to meet the needs of Muslims in their daily lives.
+
+Join millions of users and experience a complete spiritual journey with Azkar App, crafted to serve every Muslim.
+
+Key Features
+- Morning & Evening Athkar, Sleep & Wake-up Athkar, Prayer Athkar, and more: A modern and user-friendly interface with an audio player and repetition counter.
+- My Athkar Section: Create and customize your own Athkar according to your needs.
+- Qur’an (Reading, Tafsir, and Audio): Enjoy an eye-friendly reading experience with font and color customization, translations in multiple languages, and easy-to-understand Tafsir. You can also listen or download recitations by your favorite reciter.
+- Khatmah: Set a Qur’an completion plan with daily reading reminders.
+- Prayer Times, Qibla Direction, and Hijri Calendar: View the Islamic calendar, accurate prayer times, and Qibla direction, with a monthly prayer calendar that can be shared.
+- Adhan & Full Adhan Alerts: Choose from a variety of Adhan voices with pre-Adhan reminders.
+- Reminders Section: Create reminders for specific Athkar, supplications, or important events with customizable sound and repetition options.
+- Daily Content Updates: Get Dua of the Day, Ayah of the Day, and Video of the Day with valuable tips and inspiring stories.
+- Various Azkar: A variety of supplications with customizable backgrounds, ready for sharing.
+- Ramadan Section: Essential Ramadan features including Prayer & Fasting Tracker, Daily Duas, Zakat Calculator, and more.
+- Daily Quranic Benefits: Daily insights into Qur’anic verses for contemplation.
+- Worship Trackers: Tools to track Athkar, fasting, and prayers, helping you stay consistent and improve commitment.
+- Tasbih Counter: Perform electronic Dhikr with an easy-to-use digital Tasbih.
+- Ruqyah (Islamic Healing): Authentic Ruqyah texts from the Qur’an and Sunnah, with an audio listening option.
+- Prophet Muhammad’s (PBUH) Biography in Videos: Engaging video content about the life of Prophet Muhammad (PBUH).
+- 99 Names of Allah.
+- Surah Al-Kahf Reminder for Fridays.
+- Hajj & Umrah Guide: Step-by-step instructions for performing Hajj and Umrah.
+- Islamic & Ramadan WhatsApp Stickers: Updated Islamic and Ramadan sticker packs with easy export to WhatsApp.
+- Istighfar (Forgiveness) Alerts: Get reminders for seeking forgiveness and making Dhikr at customizable intervals (e.g., every 10 minutes or once a day).
+- Qiyam-ul-Layl (Night Prayer) Alerts.
+- Live Activities & Widgets: Quick access to features like prayer times, Hijri date, various azkar, Khatmah, prayer tracker, fasting tracker, and more from the home screen and lock screen.
+- Professional & Customizable Design: Choose your favorite background, and enable dark mode for a better visual experience.
+- …and many more great features you’ll love!
+
+Why Azkar App?
+Azkar App is a comprehensive Islamic tool, combining authenticity with modern technology to fulfill your spiritual and daily needs.
+
+Take this opportunity to increase your daily rewards and strengthen your connection with Allah. Download Azkar App now and embark on an uninterrupted spiritual journey filled with Dhikr and supplication.
+
+
+Privacy Policy:
+https://hamzaaa.com/azkar/privacy.html
+
+Terms of Use:
+https://hamzaaa.com/azkar/terms-of-use.html",2020-04-13T07:00:00Z,2025-02-13T12:12:49Z
+af,Afghanistan,Reference,6006,25,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/af/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.68444,225,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2020-04-10T07:00:00Z,2025-11-10T12:15:36Z

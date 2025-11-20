@@ -1,0 +1,461 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+af,Afghanistan,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/af/app/testflight/id899247664?uo=4,0.0,4.66667,192,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2020-04-13T07:00:00Z,2025-10-07T14:12:50Z
+af,Afghanistan,Developer Tools,6026,2,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/af/app/apple-developer/id640199958?uo=4,0.0,4.36364,11,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2020-04-13T07:00:00Z,2025-09-02T17:00:48Z
+af,Afghanistan,Developer Tools,6026,3,1477376905,GitHub,GitHub,https://apps.apple.com/af/app/github/id1477376905?uo=4,0.0,4.71429,7,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-04-12T07:00:00Z,2025-11-18T20:36:27Z
+af,Afghanistan,Developer Tools,6026,4,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/af/app/app-store-connect/id1234793120?uo=4,0.0,4.28571,7,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2020-04-13T07:00:00Z,2025-10-01T17:36:02Z
+af,Afghanistan,Developer Tools,6026,5,1606772645,Google Play Console,Google LLC,https://apps.apple.com/af/app/google-play-console/id1606772645?uo=4,0.0,3,1,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+af,Afghanistan,Developer Tools,6026,6,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/af/app/koder-code-editor/id1447489375?uo=4,0.0,5,11,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2020-04-15T07:00:00Z,2022-04-19T17:39:08Z
+af,Afghanistan,Developer Tools,6026,7,6738763423,Webview Simulator - Hybrid,Sungil Kim,https://apps.apple.com/af/app/webview-simulator-hybrid/id6738763423?uo=4,0.0,0,0,Developer Tools,"Are you a developer considering hybrid app implementation or already working on one? Look no further—this app is designed to be your go-to tool. Built with the power of Flutter's webview library, it streamlines your development process by allowing you to easily check if your project runs seamlessly within webview environments. Not only does it ensure that your app's functionality is on point, but it also helps you verify that the design elements are rendered perfectly across different platforms. Whether you're optimizing for mobile or fine-tuning your hybrid app's performance, this tool will elevate your workflow, giving you more control and confidence in delivering a polished product.",2024-12-02T08:00:00Z,2024-12-11T20:21:06Z
+af,Afghanistan,Developer Tools,6026,8,1601434613,Store Redirect,翔 何,https://apps.apple.com/af/app/store-redirect/id1601434613?uo=4,0.0,4.5,2,Developer Tools,"Store Redirect helps developers to view their apps in multiple countries and regions. 
+Developers can easily query ranks, reviews, featured app, stories and more.
+By checking the apps in each countries and regions, developers can better localize apps.",2022-01-12T08:00:00Z,2022-02-23T16:01:14Z
+af,Afghanistan,Developer Tools,6026,9,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/af/app/termux/id6738933789?uo=4,0.0,5,2,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+af,Afghanistan,Developer Tools,6026,10,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/af/app/ish-shell/id1436902243?uo=4,0.0,0,0,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+af,Afghanistan,Developer Tools,6026,11,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/af/app/o-kam-pro/id1602054864?uo=4,0.0,0,0,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+af,Afghanistan,Developer Tools,6026,12,1661004679,WebView - Tester,Tommy Gaessler,https://apps.apple.com/af/app/webview-tester/id1661004679?uo=4,0.0,0,0,Developer Tools,"Easily test webpages in a Safari or WebKit WebView. Save time by not having to spin up your own iOS WebView environment to test your webpage's functionality in a WebView.
+
+This app has camera and microphone permission support, which is useful for testing the Zoom Video SDK and Zoom Meeting SDK embedded in a WebView.",2022-12-22T08:00:00Z,2024-08-18T12:48:28Z
+af,Afghanistan,Developer Tools,6026,13,1526436386,BlueTools Bluetooth Assistant,仕华 罗,https://apps.apple.com/af/app/bluetools-bluetooth-assistant/id1526436386?uo=4,0.0,0,0,Developer Tools,"BlueTools Bluetooth Assistant is a high-efficiency Bluetooth debugging application specifically designed for developers and technology enthusiasts. The app aims to help you easily connect, test, and find Bluetooth Low Energy (BLE) devices.
+
+Main Features:
+
+1. Device Discovery: Quickly scan and identify nearby BLE Bluetooth devices.
+2. Read Information: Get key information about connected devices, including device name, signal strength (RSSI), services and characteristics.
+3. Data Display: Supports multiple data formats (Hex, Binary, String, Numbers, etc.).
+4. Send & Listen: Send various formats of data to Bluetooth devices, or listen for data changes.
+5. Find Bluetooth Devices: Display signal strength and device direction in a chart to help you infer the direction of the target device.
+
+Why Choose BlueTools Bluetooth Assistant?
+
+- User-friendly Interface: An intuitive and simple interface makes operation more convenient.
+- Powerful Sending Features: Supports multiple data formats, flexible switching between types and services, with favourite and history features.
+- Chat Mode: Quickly view received and sent data, quickly select read and send content.
+- Continuous Updates: We continuously update the app, adding new features and improving existing ones to ensure you get the best user experience.
+
+Download BlueTools Bluetooth Assistant now and make your Bluetooth device development and debugging more efficient!
+
+Subscription Features:
+
+The app offers a subscription membership service. After subscribing, you can enjoy features like ad removal. Upon purchase confirmation, payment will be charged to your iTunes account. Unless you turn off auto-renew at least 24 hours before the end of the current subscription period, the subscription will automatically renew. Your account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. After purchase, you can manage your subscription and turn off auto-renewal in your account settings.
+
+Privacy Policy: https://bluetools.savequan.com/2022/01/13/BlueTools-Privacy-Policy
+Terms of Service: https://bluetools.savequan.com/2023/10/21/BlueTools-Terms-Of-Service",2020-08-08T07:00:00Z,2025-11-05T22:18:17Z
+af,Afghanistan,Developer Tools,6026,14,1312014438,JSBox - Learn to Code,颖 钟,https://apps.apple.com/af/app/jsbox-learn-to-code/id1312014438?uo=4,0.0,5,1,Developer Tools,"* JSBox is featured by: sspai.com, Price Tag, AppSolution etc
+
+# What's JSBox?
+
+JSBox is an Integrated Development Environment for JavaScript. You can learn to code JavaScript here, as we provide tons of utilities to enhance the development experience.
+
+JSBox is amazing for both beginners and experienced engineers. Don't you wanna try it out?
+
+Don't hesitate to create cool stuff—do it now!
+
+# What can JSBox do?
+
+Of course you can write JavaScript, but the most important thing is that you can create native iOS utilities, such as:
+
+- Upload photos you have just taken to the server
+- Create a widget to check bus information
+- Schedule tasks by leveraging date-based or location-based notifications
+- Design an extension for the Photos app to search photos directly
+- Design your own widget and keyboard
+- Make a real-time tool to query the exchange rate
+- Collect your most important contacts and handle it on the widget
+
+There are many possibilities; we believe you can create coolest stuff.
+
+# What's in JSBox?
+
+JSBox is not only a full-fledged environment for standard JavaScript, but also provides many utilities:
+
+- A safe environment to run JavaScript natively with incredible performance
+- A beautiful editor to write JavaScript, multiple themes, auto-completion, and snippets...
+- Many advanced development tools: lint, prettier, diff viewer and database viewer...
+- A desktop extension to write code extremely fast and comfortable
+- Almost all the cool tech in iOS: Siri/Shortcuts, Today Widget, Action Extension, 3D Touch, Home Screen Shortcut...
+- A lot of awesome examples for beginner
+
+We are still working on it and will introduce cooler features in the future.
+
+# Terms of Use
+
+https://jsboxbbs.com/d/1035-terms-of-service
+
+# Privacy Policy
+
+https://jsboxbbs.com/d/1034-privacy-policy
+
+# Contact us!
+
+Please contact us in the following ways. Don't hesitate to report any issues. Thank you!
+
+- [Community](https://en.jsboxbbs.com)
+- [Email](mailto:log.e@qq.com)
+- [Twitter](https://twitter.com/cyanapps)
+- [Weibo](https://weibo.com/0x00eeee)",2020-04-10T07:00:00Z,2023-09-14T02:53:28Z
+af,Afghanistan,Developer Tools,6026,15,6504843668,Terminux: SSH Client,Pooja Hariyani,https://apps.apple.com/af/app/terminux-ssh-client/id6504843668?uo=4,0.0,0,0,Developer Tools,"Terminux – Your Ultimate Tool for Professional Server Management
+
+Terminux is a cutting-edge SSH client designed to simplify and enhance your remote server management experience. Perfect for IT professionals, developers, and anyone needing reliable SSH access, Terminux combines a user-friendly interface with a robust feature set.
+
+Key Features:
+
+Intuitive Interface: Navigate effortlessly with our clean, user-friendly design for straightforward and efficient server management.
+Multiple Sessions: Manage multiple SSH sessions simultaneously with tabbed and split-view options, enabling you to multitask like a pro.
+Advanced Security: Ensure secure connections with key-based authentication, two-factor authentication, and strong encryption protocols.
+Customizable Terminal: Personalize your terminal environment with themes, fonts, and colours to enhance readability.
+Scripting and Automation: Automate repetitive tasks with built-in scripting capabilities and save time with custom macros and shortcuts.
+File Transfer: Seamlessly transfer files between your local machine and remote servers using integrated SFTP and SCP support.
+Session Management: Save and organize your sessions with profiles and bookmarks for quick and easy access to frequently used servers.
+Performance Monitoring: Monitor your server’s real-time performance with detailed analytics and monitoring tools.
+Why Choose Terminux?
+
+Terminux is more than just an SSH client; it’s your comprehensive solution for efficient and secure server management.
+
+Privacy Policy:- https://www.freeprivacypolicy.com/live/de501fa3-782a-48dd-b33f-83d8bc220c5c
+Terms of use:- https://www.privacypolicies.com/live/ec0062f6-bde6-4a8d-b665-9df7cf6f5d6e
+
+Feel free to adjust the text according to any additional features or specific highlights you want to promote please email as at help.app007@gmail.com.",2024-06-28T07:00:00Z,2025-11-14T23:52:55Z
+af,Afghanistan,Developer Tools,6026,16,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/af/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,3.16667,6,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+af,Afghanistan,Developer Tools,6026,17,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/af/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.33333,3,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+af,Afghanistan,Developer Tools,6026,18,1063100471,Tutorials for iOS programming,发展 李,https://apps.apple.com/af/app/tutorials-for-ios-programming/id1063100471?uo=4,0.0,4,5,Developer Tools,"WHAT IS XCODE AND SWIFT TUTORIALS? 
+
+WHAT IS XCODE AND SWIFT TUTORIALS brings you simple, funny, interactive learning app for Xcode and Swift. 
+The app teaches you about each of the features of Xcode and show you how to use them in detail. With candid, jargon-free advice and step-by-step guidance, you’ll get everything from the core aspects of working to advanced techniques for refined workflows and professional results. It's like having your own personal tutor teaching you the newest version of Xcode. You'll learn how to express yourself and create great Apps quickly and directly! It’s the first and only app to bring the whole process together in such a clear, concise, and interactive way. 
+There is no faster, more straight-to-the-point, or more fun way to learn Xcode than with this app. 
+
+In addition to the Interactive-Mode, app supports the Inspector-Mode, it converts the app to be 20 hours video tutorials, a great added value! 
+
+
+WHAT IS IN XCODE AND SWIFT TUTORIALS? 
+
+XCODE AND SWIFT TUTORIALS includes 1146 self-paced lessons that allow you to progress at your own speed(tip:The first lesson teach you how to use the app): 
+- Get familiar with the Xcode + Swift + Objective-C 
+- Discover all the things you can do with the UIControls 
+- Explore the use of UIView, UIViewController 
+- Find out how to make a fantastic animation 
+- Learn how to get the app version, device font list 
+- Steps for creating POST/GET HTTP Request 
+- Cool things to do with UITableViews 
+- Details how to save your data in the device 
+- Shortcuts, tricks, and tips that let you work smarter and faster 
+- A whole chapter on how to work with music, movie, animation 
+- UITapGestureRecognizer Single Tap, Double Tap, Long Press 
+- Instructions for using simulator 
+- Debugging your app 
+- Details how to Work with SQLIte and NSKeyedArchiver 
+- Explore the use of property list file 
+- The newest and coolest features of Xcode
+- Plus, there are so many other things throughout the app that you’ll be bursting with new ideas! Have fun discovering! 
+
+
+WHO IS INTERACTIVE TUTORIALS FOR XCODE FOR? 
+
+Ever wonder how that Great Apps was created, or how they created that cool mobile games? Or maybe you just want to know how to do some really awesome stuff in Xcode. Well, then, this app is for you! 
+Whether you’re a programmer, designer, or even an artist, there’s something here for you. 
+
+[Products]
+Interactive Tutorials for Photoshop, Illustrator
+https://itunes.apple.com/us/app/id794405356
+
+Interactive Tutorials for Excel, Word and Powerpoint
+https://itunes.apple.com/us/app/id1090726089
+
+Interactive Tutorials for Photoshop Script
+https://itunes.apple.com/us/app/id987231882
+
+
+[Help? Comments? Suggestions? Contact us]
+Email:tapinfinity@gmail.com",2020-04-20T07:00:00Z,2025-07-08T12:12:00Z
+af,Afghanistan,Developer Tools,6026,19,1568442831,Desktop Browser • Zoomable,Actowise LLC,https://apps.apple.com/af/app/desktop-browser-zoomable/id1568442831?uo=4,0.0,5,5,Developer Tools,"Zoomable is a browser that provides a full desktop web experience. It simulates a large and resizable screen and shows the desktop version of websites, so you can stay away from those bad mobile web experiences.
+
+• Zoom freely between 1x and 3x.
+• Seamless transitions between portrait and landscape mode.
+• Supports full screen mode.
+• Save and manage favorites.
+• Lightning fast and super small install size.
+• Supports UI customization for both portrait and landscape mode.
+• Respects user privacy; the app only collects anonymous diagnostic data unrelated to browsing, and you can opt out.
+• [Pro] Multiple tabs.
+• [Pro] Customize themes.
+
+The app is designed for everyone, it works great with many websites. However, it is particularly useful for developers. For example, accessing App Store Connect and Firebase Console works great in this app because of the screen scale feature.",2021-05-23T07:00:00Z,2025-10-06T11:01:20Z
+af,Afghanistan,Developer Tools,6026,20,6450625811,WiFi Analyzer Signal Strength,Product Growth LLC,https://apps.apple.com/af/app/wifi-analyzer-signal-strength/id6450625811?uo=4,0.0,5,2,Developer Tools,"WiFi Tester & Network Analyzer is a comprehensive tool designed to enhance your WiFi network experience. With powerful features and intuitive interface, it is the ultimate app for optimizing your wireless network performance.""
+
+""Discover, analyze, and monitor all the devices connected to your WiFi network with the WiFi Device Scanner. Identify potential security threats, optimize signal strength, and troubleshoot connectivity issues effortlessly.""
+
+Key Features:
+
+WiFi Device Scanner: Scan and identify all devices connected to your WiFi network. Get detailed information about each device, including IP address, MAC address, device type, and manufacturer.
+
+Network Analyzer: Analyze your network's performance with advanced diagnostics. Measure signal strength, network speed, and latency. Identify congested channels and troubleshoot connectivity issues.
+
+Signal Strength Optimization: Optimize your WiFi signal strength by identifying signal dead zones and interference sources. Find the best placement for your router and boost coverage throughout your home or office.
+
+Security Assessment: Detect unauthorized devices on your network and ensure your WiFi is secure. Identify potential threats and take appropriate actions to protect your network and personal data.
+
+Speed Test: Measure your network's upload and download speeds. Identify bottlenecks and ensure you're getting the maximum performance from your Internet Service Provider.
+
+Network Monitoring: Keep track of your network's performance over time. Receive real-time notifications for any network outages or unusual activities.
+
+
+Privacy Policy: https://docs.google.com/document/d/1uvl8DLdyOXX_e-Ws0aGdbbDkMKS4D5_-6Ya-RaNULNk/
+Terms Of Use: https://docs.google.com/document/d/12F_Q8ZjSz3ZIh0zxnC1BOoxQehpmzma5QZzYlqLVxj0/",2023-07-14T07:00:00Z,2025-03-06T00:18:14Z
+af,Afghanistan,Developer Tools,6026,21,1436650069,Pyto IDE,Develobile S.p.A.,https://apps.apple.com/af/app/pyto-ide/id1436650069?uo=4,0.0,0,0,Developer Tools,"Pyto is an IDE for iPhone and iPad with a Python 3.10 Interpreter and all of the standard libraries plus more than 100 third party packages, as well as a C & C++ compiler and bitcode interpreter. Includes a terminal with standard UNIX commands, a code editor with code completion, support for Shortcuts, Picture in Picture, a graphical interface builder and a debugger.
+
+* Full version exclusive third party modules *
+
+- Cython, cryptography, typed_ast, cv2, _cffi_backend, kiwisolver, matplotlib, numpy, pandas, lxml, Bio, sklearn, skimage, scipy, erfa, pywt, nacl, bcrypt, statsmodels, zmq, regex, gensim, astropy, emd, wasm3, yaml
+
+* Built-in UNIX commands *
+
+- alias, awk, cat, chflags, chmod, cksum, clang, compress, cp, curl, date, diff, dig, du, egrep, env, fgrep, find, grep, gunzip, gzip, head, host, ifconfig, link, lli, llvm-link, ln, ls, md5, mkdir, mv, nc, nslookup, open, openurl, pbcopy, pbpaste, ping, printenv, pwd, readlink, rlogin, rm, rmdir, say, scp, sed, sftp, sort, ssh, ssh-keygen, stat, sum, tail, tar, tee, telnet, touch, tr, unalias, uname, uncompress, uniq, unlink, uptime, wc, whoami, whois, wol
+
+Take advantage system features with the following modules:
+
+  - pyto_ui - Build an user interface
+  - widgets - Home Screen Widgets
+  - file_system - iOS file system
+  - notifications - Schedule notifications
+  - remote_notifications - Receive remote notifications
+  - background - Run code in background
+  - pasteboard - Clipboard access
+  - userkeys - Save values on disk
+  - sound - Play sounds
+  - music - Access the Apple Music library
+  - photos - Accessing photos and the camera
+  - location - Access user's location
+  - motion - Motion sensors
+  - multipeer - Peer to peer wireless connection
+  - apps - Open third party apps
+  - xcallback - Interact with other apps
+  - sf_symbols - A list of SF Symbols names
+  - watch - Complications and static user interfaces for the Apple Watch",2020-04-10T07:00:00Z,2024-06-09T14:11:52Z
+af,Afghanistan,Developer Tools,6026,22,1483790257,Text Editor.,TAPUNIVERSE LLC,https://apps.apple.com/af/app/text-editor/id1483790257?uo=4,0.0,5,1,Developer Tools,"This is a simple yet powerful text editor that let you browse and edit any kind of text on your device and on the cloud (including iCloud, Google Drive, Box and more).
+
+FEATURES:
+—————
+◆  Browse and edit all kinds of text on your device and on the cloud
+◆  Support TXT, RTF or any file that can be read as text like HTML, CSS, JS
+◆  View text in any font and style
+◆  Rich Text editing
+◆  Share your files anywhere
+◆  Dark Mode support
+
+
+
+
+Text Editor+:
+
+
+• You can subscribe to unlock dark mode and unlimited usage.
+
+• Subscription auto-renew at the end of current period, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
+
+
+Terms of use: https://tapuniverse.com/terms/
+
+Privacy policy: https://tapuniverse.com/policy/",2020-04-13T07:00:00Z,2024-12-23T12:34:50Z
+af,Afghanistan,Developer Tools,6026,23,6470105015,DNS测速,兴龙 张,https://apps.apple.com/af/app/dns%E6%B5%8B%E9%80%9F/id6470105015?uo=4,0.0,0,0,Developer Tools,"曾经选取DNS就是能用就行？你知道吗，不同的DNS不仅会影响你首次连接服务器、首次打开网页的速度，而且还影响着不同的服务器。错误的DNS会将你连接到较远的服务器，让你的延迟更高。
+是时候用DNS测速工具来优化你的网络了！在路由器的DHCP中选择合适的DNS，或者在计算机的网络设置中更改为正确的DNS，即可轻松享受网络延迟的降低，优化自己的网络环境。
+
+功能：
+DNS延迟测试
+DNS解析结果的延迟测试
+TCP连通性测试",2023-10-26T07:00:00Z,2025-10-09T15:03:35Z
+af,Afghanistan,Developer Tools,6026,24,6444545478,C++ Shell - C++ code compiler,"Phoenix Lab Technology Co., Ltd.",https://apps.apple.com/af/app/c-shell-c-code-compiler/id6444545478?uo=4,0.0,0,0,Developer Tools,"A software development tool for compiling and running C++ on mobile devices, with built-in basic environment integrating Python and Lua.
+Support the execution of Linux basic commands on the console.
+
+The implementation principle adopts the compilation mode of llvm and clang.
+https://github.com/phoenixlabcn/llvm-project
+
+
+Function introduction:
+The code is highlighted, which is more intuitive
+Split screen display is supported in horizontal screen mode
+Console output and input, supporting the output of specific error stack information
+Theme and font size setting, moving cursor, convenient reading and simple operation
+
+Supported Linux commands include:
+ls,lli,ifconfig,ping,readlink,chmod,clang,telnet,host,du,link,dig,egrep,bc,date,gzip,nslookup,python2,fgrep,mv,md5,say,luac,ssh-keygen,xargs,diff,cd,tee,chksum,lua,touch,dc,tar,chflags,rm,sort,uniq,awk,printenv,chgrp,find,mkdir,tail,df,pwd,opt,chown,gunzip,compress,llvm-link,nc,uptime,sed,setenv,stat,uname,sum,head,wc,cat,echo,unsetenv,unlink,rmdir,uncompress,curl,ln,cp,whoami,rlogin,tr,env,whois,python,grep,nm,clear,sh,exit,open,python3
+
+
+
+------------------------------------------------
+C++ Shell Month Unlock
+
+【Unlimited code runs】
+【Unlimited use of console】
+【Unlimited use of modules】
+【Support custom theme setting】
+【Continuous access to more advanced functions】
+
+Support free trial for 3 days. After the trial period, this subscription will be renewed automatically for $[4.49]/month unless you actively close or cancel the subscription. You will be charged in your local currency at the prevailing exchange rate as defined by iTunes .The account will confirm and charge you for renewal within 24 hours before the end of the current subscription period. Payment will be deducted from iTunes account upon confirmation of subscription. You can cancel your subscription at any time. You can cancel it at least 24 hours before the trial period or the end of the subscription period to avoid deduction. Any unused part of the trial period after payment will be discarded. After purchase, you can go to the AppStore account settings to manage or cancel your subscription.
+
+Privacy policy:
+https://phoenixlab.com.cn/protocol/PrivacyStatement.html
+
+Terms of Use: 
+ https://phoenixlab.com.cn/protocol/TermsOfUse.html",2022-11-21T08:00:00Z,2024-06-06T06:29:18Z
+af,Afghanistan,Developer Tools,6026,25,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/af/app/stikdebug/id6744045754?uo=4,0.0,0,0,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
