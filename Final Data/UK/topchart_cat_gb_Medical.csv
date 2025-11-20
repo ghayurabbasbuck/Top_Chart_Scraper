@@ -1,0 +1,660 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+gb,United Kingdom,Medical,6020,1,1388411277,NHS App,NHS Digital,https://apps.apple.com/gb/app/nhs-app/id1388411277?uo=4,0.0,3.06522,15393,Medical,"The NHS App gives you a simple and secure way to access a range of NHS services on your smartphone or tablet. 
+
+You can use the app if you are aged 13 or over. You must be registered with an NHS GP surgery in England or the Isle of Man.
+
+You can also log in through the NHS website on a computer to use NHS App services.
+
+Access NHS services 
+----------------------
+Use the NHS App to access your NHS services, anytime and anywhere. You can request repeat prescriptions, use 111 online, find nearby NHS services and more.
+Depending on your GP surgery, you may also be able to book appointments and contact your surgery about a health problem.
+
+Manage your health 
+--------------------
+The NHS App gives you a convenient way to view your GP health record, including your test results.
+You can manage your upcoming appointments and prescription requests. You can also make choices about your health, like your organ donation decision.  
+
+Receive messages 
+-------------------
+You can get important messages from your GP surgery and other NHS services through the app. Turning on notifications can alert you to new messages.  
+
+Manage services for other people 
+--------------------------------- 
+You can switch profiles to access services for other people in the NHS App, such as a child or family member. Your GP surgery needs to give you access and you must both share the same surgery.  
+
+Log in securely 
+---------------
+The NHS App will guide you through setting up an NHS login if you do not have one already. You will be asked to prove who you are. The app will then securely connect to information from your NHS services.  If your iPhone or iPad supports Touch ID or Face ID, you can use it to log in, every time you use the app.",2018-12-31T18:38:02Z,2025-11-10T09:51:48Z
+gb,United Kingdom,Medical,6020,2,382952264,MyChart,Epic Systems Corporation,https://apps.apple.com/gb/app/mychart/id382952264?uo=4,0.0,4.57198,17789,Medical,"MyChart puts your health information in the palm of your hand and helps you conveniently manage care for yourself and your family members. With MyChart you can:
+•	Communicate with your care team.
+•	Review test results, medication, immunisation history, and other health information.
+•	Connect your account to Apple Health to pull health-related data from your personal devices right into MyChart.
+•	View your After Visit Summary® for past visits and hospital stays, along with any clinical notes your clinician has recorded and shared with you.
+•	Book and manage appointments, including in-person visits and video visits.
+•	Get price estimates for the cost of care.
+•	View and pay your medical bills.
+•	Securely share your medical record from anywhere with anyone who has Internet access.
+•	Connect your accounts from other healthcare organisations so you can see all your health information in one place, even if you've been seen at multiple healthcare organizations.
+•	Receive push notifications when new information is available in MyChart. You can check whether push notifications are enabled under the Account Settings within the app.
+Select features are also available on Apple Watch. 
+
+Note that what you can see and do within the MyChart app depends on which features your healthcare organisation has enabled and whether they’re using the latest version of Epic software. If you have questions about what’s available, contact your healthcare organisation.
+
+To access MyChart, you must create an account with your healthcare organisation. To sign up for an account, download the app and search for your healthcare organisation or go to your healthcare organisation’s MyChart website. After you’ve signed up, turn on Face ID, Touch ID, or a four-digit passcode to quickly log in without needing to use your MyChart username and password each time. Then, make sure you have push notifications enabled to receive updates on your device when new information is available in MyChart. 
+  
+For more information about MyChart’s features or to find a healthcare organisation that offers MyChart, visit www.mychart.com.
+
+Have feedback about the app? Email us at mychartsupport@epic.com.",2014-11-07T02:51:28Z,2025-11-17T15:26:03Z
+gb,United Kingdom,Medical,6020,3,612905214,Patient Access,EGTON MEDICAL INFORMATION SYSTEM LIMITED,https://apps.apple.com/gb/app/patient-access/id612905214?uo=4,0.0,4.73154,682019,Medical,"Patient Access connects you to healthcare services when you need them most. Book GP appointments, order repeat prescriptions and explore your local pharmacy services. 
+
+NEW: You can now create a Patient Access account without linking to your UK GP practice and enjoy the following features: 
+
+• If you’re feeling under the weather, search for symptoms and find patient information articles  
+• Self-refer to NHS services such as talking therapies, sexual health, antenatal care and drug and alcohol addiction services 
+• Choose from over 30 services provided by your local community pharmacy and book in the app 
+• Access and read medical advice and healthy living tips from the experts 
+• Sign in quickly, easily and securely with Touch or Face ID 
+• Swiftly check if you can link to your GP 
+
+If you are able to link your Patient Access account to your GP practice, you can also get access to the following features where they are made available by your practice: 
+
+• Book face-to-face or remote online appointments with your GP, nurse or clinician at a time that suits you 
+• Request repeat prescriptions online, with convenient delivery to your preferred pharmacy 
+• View your medical record, including test results, immunisations and allergies 
+• Securely share your medical record with healthcare professionals of your choosing, without the need to contact your practice 
+• Look after your loved ones and act on their behalf to book appointments and repeat prescriptions 
+• Message your GP directly from within Patient Access at home or on the move 
+• Where your practice has enabled it, book a remote video consultation with your GP, nurse or clinician 
+ 
+You must be a registered patient at a participating practice to use the GP-linked features in Patient Access.",2013-03-12T10:01:31Z,2025-09-09T14:06:38Z
+gb,United Kingdom,Medical,6020,4,1053068613,Badger Notes,Clevermed Ltd,https://apps.apple.com/gb/app/badger-notes/id1053068613?uo=4,0.0,4.58493,30374,Medical,"Badger Notes allows you real time access to your maternity, child or neonatal records.
+
+The information that appears is generated in real-time from your hospital based system using details entered by your midwife or other health professionals involved in your care.",2015-11-16T16:06:06Z,2025-11-18T12:36:34Z
+gb,United Kingdom,Medical,6020,5,883158179,Pharmacy2U,Pharmacy2U Ltd,https://apps.apple.com/gb/app/pharmacy2u/id883158179?uo=4,0.0,4.79514,56573,Medical,"Take control of your healthcare with Pharmacy2U. 
+
+NHS PRESCRIPTION DELIVERY
+Manage the whole family’s prescriptions online
+Set up in minutes
+Free delivery every time
+Reminders so you never run out
+Track your orders 24/7
+
+HEALTH & WELLNESS SHOP
+Thousands of products from over 500 brands
+Shop popular categories including skincare, beauty, fragrances, and electricals
+Everyday savings and multibuy offers
+Next-day delivery or Click & Collect available
+Free delivery when you spend £30
+
+ONLINE DOCTOR
+Effective treatments for 17 conditions
+Free, online no-obligation consultations 24/7
+Get support with skin conditions, weight management, and sexual health
+Ongoing support from clinicians
+Get started with no appointment needed
+
+NHS SERVICES
+Free healthcare services from our pharmacists
+Advice and treatment recommendations for common conditions
+Online pharmacy contraception service
+Guidance and support around your newly prescribed medicines
+Same-day appointments available
+
+AND MORE FROM THE APP
+Personalised offers and exclusive savings
+Your own account dashboard to track and manage orders
+Pet prescriptions and healthcare products delivered to your door
+Expert health advice from our pharmacists through Health Hub
+Access to live chat for help and support
+
+
+* According to the NHS BSA
+
+** Service only available to patients registered with a GP in England and if your surgery needs you to order directly, we'll tell you how to do this.
+
+*** As of January 2024",2014-06-29T04:48:00Z,2025-09-24T12:35:18Z
+gb,United Kingdom,Medical,6020,6,505864483,Pregnancy + | Tracker App,Philips Digital UK Limited,https://apps.apple.com/gb/app/pregnancy-tracker-app/id505864483?uo=4,0.0,4.81668,38735,Medical,"Download the world's leading pregnancy tracker app today, for free week-by-week pregnancy information and articles!
+
+The Pregnancy+ app features expert advice, daily articles, healthcare tips and interactive 3D models so you can track your baby's development. Our pregnancy app has been downloaded over 80 million times by expecting families. Join our worldwide community today! 
+
+Baby Development
+► Unique, interactive 3D models showing your baby's development 
+► Baby Size Guide helps you visualise your baby's size in fruits, animals & sweets
+► Pregnancy Week-by-Week Guides explain what to expect in each pregnancy week
+► Simple & informative Pregnancy Timeline highlighting important milestones
+
+Pregnancy Guides & Information
+► In-depth Pregnancy Guides covering breastfeeding, exercise, food, twins & more 
+► Daily Pregnancy Articles, tailored to your pregnancy stage
+► 2D & 3D Scans by pregnancy week for you to browse
+► Daily Blog Posts with tips, tricks & helpful advice
+► Upload photos in My Bump to create a visual pregnancy diary
+
+Pregnancy Tools
+► Pregnancy Due Date Calculator helps you work out when your bundle will arrive
+► Kick Counter tracks your baby's movements & activity
+► Pregnancy Weight Log helps you keep an eye on changes in your weight
+► Contraction Timer measures contractions throughout your labour
+
+Organise & Plan
+► Pregnancy Calendar enables you to plan & document your prenatal appointments
+► Hospital Bag helps you prepare your hospital visit, for Mother, Birth Partner & Baby
+► Birth Plan allows you to customise, organise & export your needs & wishes
+► To-Do List & Baby Shopping List for ideas of what you need to do & buy
+► Search thousands of Baby Names for inspiration & share your favourites
+
+Our EXCLUSIVE 3D Models
+Enjoy our unique 3D models showing your pregnancy's week-by-week development, from blastocyst to foetus to baby. Our 3D models truly help you to connect with the baby growing inside you. 
+► Choose from multiple ethnicities
+► Zoom in or out & rotate to see the baby's intricate detail
+► Watch guided pregnancy week-by-week walk-throughs
+► Tap to see baby movements
+
+Pregnancy Articles & Guides
+If you're feeling overwhelmed by all the advice out there, don't worry. Our Pregnancy + tracker app will guide you through your pregnancy, week-by-week, keeping you up to date with your baby's development and helping you stay healthy through pregnancy and beyond. The Pregnancy+ app content is written in-house, with the help of medical experts, lactation consultants, midwives and, of course, parents.
+
+Share your journey with friends & family
+Our pregnancy tracker app can be personalised so your partner, future grandparents or best friend can join in the fun and follow your baby's development in the womb, from bump to birth! Keep everyone up to date with your pregnancy by inviting them to download the app today.
+
+Follow us on Social Media
+Facebook: facebook.com/PregnancyPlusApp
+Instagram: @pregnancyplus
+
+◆ Download Pregnancy+ App today ◆
+
+Privacy Policy
+https://info.philips-digital.com/PrivacyNotice?locale=en&country=GB
+
+Terms of Use
+https://info.philips-digital.com/TermsOfUse?locale=en&country=GB
+
+This app is not intended for medical use, or to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalised medical advice. If you have any concerns about your pregnancy, consult with your doctor or midwife.
+
+The Pregnancy + tracker app wishes you a healthy, full-term pregnancy and a safe delivery.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+gb,United Kingdom,Medical,6020,7,1042280626,myGP®,iPlato s.r.o.,https://apps.apple.com/gb/app/mygp/id1042280626?uo=4,0.0,4.78543,186870,Medical,"“Easy to use. A great way of seeing your records making appointments and ordering repeat prescriptions”
+Download today and start managing your health at your fingertips – anytime, anywhere.
+
+Key Features:
+With NHS login, you can now access myGP via the NHS’s secure identity verification process. Just look for and follow the NHS login link to get instant access to your NHS medical records, order your repeat prescriptions and more. It’s that simple.
+Healthcare Marketplace - offering you exclusive benefits from a range of services, including physiotherapy, nutrition and fitness, and talking therapies.
+Order Repeat Prescriptions – never run out again! Order repeat medication online and have it sent directly to your pharmacy of choice or straight to your door – whatever works best for you!
+View Your Medical Records – can’t remember when you last had a vaccine? View your medical records on the go and export sections as PDFs to share with loved ones and healthcare professionals.
+Manage Your Appointments - book and cancel your GP appointments, receive appointment reminders and add the details directly to your calendar.
+Build Your Health Network - manage appointments for your family and dependents. Set Medication Reminders – forgetful? Set reminders and track your medication adherence and view weekly and monthly trends.
+Medication Insights – set medication reminders and track progress and share these with your Doctor.
+Track Your Weight & Blood Pressure - manage your weight and blood pressure with daily recordings and easily share with your healthcare professional or carers.
+NHS assured online GP services:
+All your services in one place! Easy access to useful NHS services such as organ donation, e-referral and pharmacy finder.
+*** Please note ***
+• You must be age 16 or over to register for myGP • You will need a valid UK mobile number and identification to register via NHS login • Your mobile number and date of birth should be registered with a GP surgery in England • You can only add your children or people you care for to your health network if they are registered at the same GP with the same mobile number as you • myGP is a patient-facing service that is approved by the NHS. Any data that you enter is controlled by you and hosted in a safe and secure environment",2016-01-24T09:16:21Z,2025-10-20T10:02:26Z
+gb,United Kingdom,Medical,6020,8,1636689276,NHS Wales App,DIGITAL HEALTH AND CARE WALES,https://apps.apple.com/gb/app/nhs-wales-app/id1636689276?uo=4,0.0,2,183,Medical,"Bydd Ap GIG Cymru yn galluogi pobl sy’n byw yng Nghymru i gael mynediad at wasanaethau iechyd, gofal a llesiant, gan reoli pob agwedd ar eu hiechyd yn ddiogel. Gallwch ddefnyddio’r Ap yn Gymraeg ac yn Saesneg i archebu eich meddyginiaethau rheolaidd, trefnu apwyntiadau yn eich practis meddyg teulu a gweld eich cofnod iechyd.
+
+Noder: Noder bod y gallu i drefnu apwyntiadau ac archebu meddyginiaethau trwy Ap GIG Cymru yn dibynnu ar eich practis meddyg teulu yn sicrhau bod y swyddogaeth hon ar gael.
+
+The NHS Wales App will allow people living in Wales to access health, care and wellbeing services, proactively managing every aspect of their health safely and securely.  You can use the App in Welsh and English to order your repeat medicines, book appointments at your GP practice and view your health record. 
+
+Note: Please note that the ability to book appointments and order medicines via the NHS Wales App depends on this functionality being made available by your GP practice.",2023-04-17T07:00:00Z,2025-02-13T20:27:41Z
+gb,United Kingdom,Medical,6020,9,1169136078,Huckleberry: Baby & Child,Huckleberry Labs Inc.,https://apps.apple.com/gb/app/huckleberry-baby-child/id1169136078?uo=4,0.0,4.91043,12527,Medical,"Huckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide. 
+
+From baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family’s unique journey. We turn restless nights into restful routines, making more space for everyday magic.
+
+TRUSTED SLEEP GUIDANCE & TRACKING
+
+Your baby's sleep and daily rhythms are unique. Our comprehensive baby tracker helps you understand their natural patterns while providing expert sleep guidance every step of the way. From breastfeeding to nappies, our newborn tracker gives you peace of mind in those early days and beyond.
+
+SWEETSPOT®: YOUR SLEEP TIMING COMPANION
+
+A most-loved feature that predicts your baby's ideal nap times with remarkable accuracy. No more guessing about sleep windows or watching for tired cues—SweetSpot® learns your child's unique rhythms to suggest optimal sleep times. Available with Plus and Premium memberships.
+
+BERRY: 24/7 PARENTING GUIDANCE 
+
+Instant parenting backup that adapts to what you need, when you need it. Using expert-vetted and AI-powered guidance, Berry can work through the messiness of parenting with you. You can solve challenges, get reassurance, and easily track multiple things at once—all in one AI chat. No matter the moment or mood, you always have backup.
+
+FREE APP FEATURES
+
+• Simple, one-touch baby tracker for sleep, nappy changes, feedings, pumping, growth, potty training, activities and medicine
+• Complete breastfeeding timer with tracking for both sides
+• Sleep summaries and history, plus average sleep totals
+• Track multiple children with individual profiles
+• Reminders when it’s time for medication, feedings, and more
+• Sync with multiple caregivers across different devices
+
+PLUS MEMBERSHIP
+
+• All free features, and:
+• SweetSpot®:  Predicts the ideal time for sleep (2+ months)
+• Schedule Creator: Plan age-appropriate sleep schedules
+• Insights: Data-driven tips and miniplans for sleep, feedings, and milestones (0-17 months)
+• Enhanced Reports: Discover your child’s trends
+• AI Logging: Track your child’s day through text, voice message, or photo
+
+PREMIUM MEMBERSHIP
+
+• Everything in Plus, and:
+• Berry: 24/7 guidance with our expert-vetted AI chat
+• Custom Sleep Plans: expert-designed plans built for your child, with weekly progress check-ins and ongoing support as they grow 
+
+GENTLE, EVIDENCE-BASED APPROACH
+
+Our sleep guidance never requires ""crying it out."" Instead, we blend trusted sleep science with gentle, family-centered solutions that respect your parenting style. Every recommendation is made for your family's needs and comfort level.
+
+PERSONALIZED PARENTING SUPPORT
+
+• Expert newborn tracker tools and analytics
+• Get custom sleep schedules based on your baby's age and patterns
+• Science-backed guidance for common sleep challenges
+• Navigate sleep regressions with confidence
+• Receive timely recommendations as your baby grows
+• Help your newborn develop healthy sleep habits from day one
+
+AWARD-WINNING RESULTS
+
+The Huckleberry baby tracker app ranked #1 in the iOS medical category globally. Today, we help families across 179 countries achieve better sleep. Up to 93% of families using our baby sleep tracking report improved sleep patterns.
+
+Whether you're navigating newborn sleep, infant solids or toddler milestones, Huckleberry provides the tools and guidance your family needs to flourish.
+
+Terms of Use: https://www.huckleberrycare.com/terms-of-use
+Privacy Policy: https://www.huckleberrycare.com/privacy-policy",2017-07-04T18:17:53Z,2025-11-18T17:29:46Z
+gb,United Kingdom,Medical,6020,10,963066469,getUBetter.,GET U BETTER LTD,https://apps.apple.com/gb/app/getubetter/id963066469?uo=4,0.0,4.46976,2580,Medical,"getUBetter provides local digital self-management support for all common musculoskeletal injuries and conditions such as back, neck, or knee pain as well as pelvic floor health. 
+
+
+
+It is offered to patients free of change and provides content tailored by their local NHS clinical team. 
+
+
+
+The app aims to support patients in building trust in the own recovery, gaining a better understanding of when and where to seek help if necessary, and developing the confidence to manage potential future episodes. 
+
+
+The app is suitable for: 
+•	People with any new, recurrent, or ongoing muscle or joint problem
+•	People over 18 years of age
+•	People who would benefit from self-management support 
+•	In some areas of the NHS, you might be provided getUBetter to support pelvic floor dysfunction
+
+
+The app is not suitable for:
+•	People under the age of 18 years of age
+•	People with severe, worsening symptoms where self-management is not advised by a clinician 
+•	People with an injury or condition that requires regular physiotherapy or medical management e.g., after surgery or an Anterior Cruciate Ligament (ACL) rupture 
+•	People with worsening neurological symptoms (numbness, weakness, an unexplained new onset of bladder and bowel symptoms) 
+•	People with a known diagnosis such as infection, rheumatological conditions, neurological problems, cancer, or fracture
+
+
+
+How does it work?
+
+-We provide personalised treatment to guide you through your recovery; day by day and 24/7
+
+-We support you through:
+o Safety netting (screening and monitoring your symptoms)
+o Recovery (personalised and targeted content, day by day)
+o Referral (we will refer you to local treatments and healthcare providers or services when appropriate)
+o Rehabilitation (we will connect you to your local rehab programs, when available)
+o Prevention (when you are better, we support prevention and any new episodes)
+
+-Treatment includes:
+o Exercise videos
+o Advice
+o Information, guidance and support
+
+
+
+Is it safe and secure?
+
+- Designed and run by NHS physiotherapists and clinicians
+- Backed up with the latest research and years of clinical experience
+- Adheres to strict UK government code of conduct for data-driven healthcare and technology.
+- Your privacy is important to us. Data we collect is only used to enhance your experience and never sold on to third parties. If we share data, it is with third parties to provide our “service”. This includes enabling you to book local treatment or services and “getUBetter” to update your health professional or refer you to a local treatment or service when necessary.
+- Please see our privacy policy: https://www.getubetter.com/privacy-policy)
+
+
+
+How can I get started?
+
+1. Your local Healthcare Provider (e.g., GP practice, Physio or Occupational Health service) will prescribe the app to you for a specific problem such as lower back pain, neck pain or knee pain (sometimes more than one)
+2. You can also self-refer from your healthcare provider’s website
+3. Register using the email you provided to your healthcare provider 
+4. Once you’ve registered, you will be automatically linked to your local region and can begin your recovery, prevention, and support journey.
+
+
+
+“This app is brilliant, all the right messages. Will recommend to staff, patients, and friends.” Clinical Lead Physiotherapist
+
+“A rather clever app from getUBetter, giving patients a managed Back Pain recovery program” Backcare.org.uk
+
+
+
+Please note: We aim to support you though your recovery journey. Our app is not a substitute for medical assessment or treatment and if at any point you have any concerns, please seek medical advice. This app requires access to the internet",2015-12-01T19:59:20Z,2025-11-12T10:47:04Z
+gb,United Kingdom,Medical,6020,11,1485686894,Help@hand,SQUARE HEALTH LTD,https://apps.apple.com/gb/app/help-hand/id1485686894?uo=4,0.0,4.7763,10407,Medical,"Help@hand is brought to you by Unum and Square Health.
+
+Founded by doctors, Square Health has over 20 years of experience within the healthcare sector, with access to over 5,000 medical specialists across the UK.
+
+Unum is a specialist employee benefits provider offering health and financial protection through the workplace.",2019-11-07T08:00:00Z,2025-11-18T04:46:46Z
+gb,United Kingdom,Medical,6020,12,1307017454,FreeStyle LibreLink – GB,Abbott Diabetes Care Inc,https://apps.apple.com/gb/app/freestyle-librelink-gb/id1307017454?uo=4,0.0,2.71078,2849,Medical,"The FreeStyle LibreLink app is approved for use with FreeStyle Libre and FreeStyle Libre 2 system sensors. You can check your glucose by scanning your sensor with your phone. Now FreeStyle Libre 2 system sensor users can get automatic glucose readings in the FreeStyle LibreLink app, updated every minute and also receive alarms when your glucose is low or high. [1] [2]
+
+You can use the FreeStyle LibreLink app to:
+
+* View your current glucose reading, trend arrow and glucose history
+* Receive low or high glucose alarms with FreeStyle Libre 2 system sensors [2]
+* See reports, such as Time in Range and Daily Patterns
+* Share your data with your doctor and family, with your permission [3]
+
+SMARTPHONE COMPATIBILITY
+Compatibility may vary between phones and operating systems. Learn more about compatible phones at http://FreeStyleLibre.com.
+
+USING YOUR APP AND READER WITH THE SAME SENSOR
+Alarms can only be issued on your FreeStyle Libre 2 reader or your phone (not both). To receive alarms on your phone, you must start the sensor with the app. To receive alarms on your FreeStyle Libre 2 reader, you must start the sensor with your reader. Once the sensor has been started with the reader, you can also scan that sensor with your phone.
+
+Remember that the app and reader do not share data with each other. For complete information on a device, scan your sensor every eight hours with that device; otherwise, your reports will not include all your data. You can upload and view data from all of your devices on LibreView.com.
+
+APP INFORMATION
+FreeStyle LibreLink is intended for measuring glucose levels in people with diabetes when used with a sensor. For more information on how to use FreeStyle LibreLink, refer to the User’s Manual, which can be accessed through the app. If you require a printed User’s Manual, contact Abbott Diabetes Care Customer Support.
+
+Consult a healthcare professional to confirm if this product is right for you or if you have questions about how to use this product to make treatment decisions.
+
+Learn more at http://FreeStyleLibre.com.
+
+[1] If you are using the FreeStyle LibreLink app, you must also have access to a blood glucose monitoring system, as the app does not provide one.
+
+[2] Alarms that you receive do not include your glucose reading, so you must scan your sensor to check your glucose.
+
+[3] Use of FreeStyle LibreLink and LibreLinkUp requires registration with LibreView.
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+For additional legal notices and terms of use, go to http://FreeStyleLibre.com.
+
+========
+
+To resolve any technical or Customer Service issues that you are having with a FreeStyle Libre product, please contact FreeStyle Libre Customer Service directly.
+
+-----------",2018-02-05T16:55:21Z,2025-08-18T19:13:32Z
+gb,United Kingdom,Medical,6020,13,1045514038,BNF + BNFC,Royal Pharmaceutical Society of Great Britain,https://apps.apple.com/gb/app/bnf-bnfc/id1045514038?uo=4,0.0,4.23198,694,Medical,"British National Formulary (BNF) and BNF for Children (BNFC) are the first choice for concise medicines information and trusted by healthcare professionals to support confident decision-making at the point of care.
+
+The BNF + BNFC app makes it easy to access up-to-date BNF and BNFC guidance on prescribing, dispensing and administering medicines, even when you are offline.
+
+The app use is exclusive to UK-based individuals undertaking work (or training) for the NHS. Downloading the app will indicate your acceptance of the Terms and Conditions [http://www.bnf.org/products/bnfbnfcapp/bnf-bnf-app-terms-and-conditions/]. If you do not agree to the Terms and Conditions, you may not use the app.
+
+The BNF + BNFC app provides:
+
+• Simple search or browse interface, allowing you to easily switch between adult and child content, colour-coded to aid navigation
+• Full functionality online and offline
+• Powerful interactions checker tool
+• BNF + BNFC content updated every month",2017-06-26T10:16:03Z,2025-11-13T08:17:36Z
+gb,United Kingdom,Medical,6020,14,695307170,Studybugs,Studybugs Ltd,https://apps.apple.com/gb/app/studybugs/id695307170?uo=4,0.0,3.13636,44,Medical,"A better, safer way to report when your child’s sick and off school. With a few quick taps, you can give the school all they need to know to record your child’s absence.
+
+• Automatically updates the school’s electronic registers, so if any children are unaccounted for, they’ll know right away
+• Improves safeguarding by enabling your identity to be verified
+• Provides guidance about your child’s illness and whether they should be kept off school
+• Reminds you to keep the school posted
+
+When you first sign in, we’ll automatically create you a free account on Studybugs and you’ll also have access to additional features on the Studybugs website, including a map showing illnesses going around near you.
+
+Questions, problems or feedback? Get in touch at feedback@studybugs.com.",2013-09-01T01:25:55Z,2025-11-14T11:18:22Z
+gb,United Kingdom,Medical,6020,15,1609616897,SJA First Aid Fast,Class Publishing Ltd,https://apps.apple.com/gb/app/sja-first-aid-fast/id1609616897?uo=4,0.0,4.09999,10,Medical,"First Aid FAST is a practical app available for anyone attending St John Ambulance’s First Aid at Work and Paediatric First Aid courses, and for St John Ambulance Community First Aiders, who can use the app as part of their role supporting communities. Whether you’re an office worker with a colleague who has suffered a cardiac arrest or an SJA volunteer providing first aid at an event, with First Aid FAST you have reference and reassurance at your fingertips.
+
+
+Key features of the app:
+
+•	News articles
+•	Bookmarks and search functionality for easy-to-find information
+•	Ask Me videos and success stories
+•	Topics covered include CPR, stroke, head injuries, choking, bone injuries, extremes of heat, burns, fainting, scene safety and self-care
+•	Over 80 full-colour illustrations 
+•	Access to further resources on specific patient presentations
+
+
+After downloading the app, enter your St John Ambulance course code to register for an account. For St John Ambulance community first aiders, log in using your SJA details (no course code required).",2022-03-22T07:00:00Z,2025-11-03T09:41:17Z
+gb,United Kingdom,Medical,6020,16,1532076241,Vitality GP UK,Vitality Corporate Services Limited,https://apps.apple.com/gb/app/vitality-gp-uk/id1532076241?uo=4,0.0,4.93335,43178,Medical,"The Vitality GP app gives you quick and convenient access to a GP. Use it to book video consultations where you can speak to a doctor about any aspect of your health, get fast referrals to specialist care, as well as instant private digital prescriptions you can collect from a pharmacy of your choice.
+
+Features:
+
+- 24/7 Health Advice Line
+
+- GP video consultations normally available within 48 hours and up to 4 days in advance. This includes evenings and Saturdays
+
+- View information, such as health plan details and consultation history
+
+- Self-referral options for physio and mental health support
+
+- Prescription service available
+
+- Up to £100 each plan year for minor diagnostic tests and private prescriptions.
+
+
+Please note:
+
+To use this app you need to be a VitalityHealth member and registered on the Member Zone at member.vitality.co.uk. You also need to have completed your online Health Review. Then, log into the Vitality GP app with your Member Zone username and password. Functionality in the app will depend on your Vitality plan.",2020-11-26T08:00:00Z,2025-11-10T07:51:09Z
+gb,United Kingdom,Medical,6020,17,877303791,Contraction Timer & Counter 9m,Aleksei Neiman,https://apps.apple.com/gb/app/contraction-timer-counter-9m/id877303791?uo=4,0.0,4.73738,11964,Medical,"*** Most downloaded Contraction Timer app in the world! Number 1 in the UK, USA, Australia, Canada, Italy and elsewhere! ***
+
+This is the simplest-to-use contraction timer. The app will help to track your contractions and determine when it's time to go to the hospital.
+If you plan on having a home birth, the app will tell you what stage of labor you are in at any given moment.
+
+Keep track of your labor by tapping a single button at the start and at the end of each contraction. The Contraction Timer analyzes the duration and frequency of contractions and will notify you when it's time to go to the hospital.
+
+Thousands of pregnant women around the world have become mothers using our app.
+
+Always consult your doctor to orient yourself in terms of contraction frequency and duration.
+This app is not a medical device and our recomendations are based on standard indicators. Your labor may occur differently. Therefore, do not rely exclusively on our app.
+If the duration and frequency of contractions do not yet correspond to the necessary indicators but labor pains become unbearable, it is better to go to the hospital as soon as possible rather than give birth at home or on the way there. Trust what your body is telling you.
+
+If you have any questions or suggestions, please email us at neumandev@gmail.com. Your feedback is very important to us.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+gb,United Kingdom,Medical,6020,18,1597064213,Oticon Companion,Oticon,https://apps.apple.com/gb/app/oticon-companion/id1597064213?uo=4,0.0,4.54387,2142,Medical,"This app lets you control your hearing aids from your mobile device. It comes with an app for Apple Watch helping you discreetly change programs and adjust volume (when within Bluetooth range).
+
+Just a note: some features may be available depending on your hearing aid model. Check below for details.
+
+•	Adjust sound volume for each hearing aid together or separately
+•	Mute surroundings for better focus
+•	Switch between programs set by your hearing care professional
+•	Check battery levels
+•	Use SpeechBooster to reduce background noise and enhance speech (available for all hearing aid models except Oticon Opn™) 
+•	Stream calls, music, and podcasts directly to your hearing aids (availability may vary depending on your phone model)
+•	Find your hearing aids if lost (requires location services always turned on)
+•	Access app support and troubleshooting solutions
+•	Meet your hearing care professional for an online visit (by appointment)
+•	Adjust streaming sounds with streaming equalizer (available for all hearing aid models except Oticon Opn™ and Oticon Siya)
+•	Adjust sounds around you with sound equalizer (available for Oticon Intent™ and Oticon Real™ models)
+•	Track your progress with HearingFitness™ feature (available for Oticon Intent™ and Oticon Real™ models)
+•	Handle wireless accessories paired with your hearing aids such as TV Adapters, Oticon EduMic or ConnectClip
+•	Connect to and adjust an Auracast™ broadcast (available for Oticon Intent™ and Oticon Zeal™ models) 
+
+First use:
+You need to pair your hearing aids with this app to use it to control your hearing aids. 
+
+App availability:
+The app is compatible with most hearing aid models. If you have hearing aids from 2016-2018 and haven't updated them yet, a hearing aid update is required for this app to work. We recommend regular hearing aid updates during your routine check-up with your hearing care professional.
+
+For optimal performance, we recommend updating your device to iOS 15.2 or later.
+To check the latest list of compatible devices, please visit:
+https://www.oticon.com/support/compatibility",2023-02-09T08:00:00Z,2025-11-03T09:39:23Z
+gb,United Kingdom,Medical,6020,19,1505554652,My Invisalign,"Align Technology, Inc.",https://apps.apple.com/gb/app/my-invisalign/id1505554652?uo=4,0.0,4.72049,3567,Medical,"Looking to transform your smile with the most advanced clear aligner in the world? Now, you can get the most out of your Invisalign treatment with the only app that keeps you informed, inspired and supported as you improve your smile.
+
+Already had your teeth scanned?
+
+• View the ClinCheck treatment plan in the app shared by your doctor- available by doctor's invitation only. 
+• Get use and care tips on Invisalign aligners.
+• Provide ratings and feedback on your experience with the app.
+
+Already an Invisalign patient?
+
+• View the ClinCheck treatment plan in the app shared by your doctor. This feature is available by doctor's invitation only.
+• Stay on track with your new smile by using Invisalign Virtual Care to share photos and receive feedback from your doctor. This feature is available by doctor's invitation only.
+• Monitor your wear-time progress with weekly, monthly, and yearly views.
+• Personalize your treatment calendar to keep track of your appointments and other events! 
+• Track your daily and historical aligner wear time with a custom timer.
+• Receive reminders and notifications when it’s time to change your aligners.
+• View and share your progress video and before & after photos with friends and family.
+• Provide rating and feedback on your experience with the app.
+
+Please note some features might not be available in your region. For more information on Invisalign clear aligners, visit us at https://www.invisalign.eu/",2020-04-24T07:00:00Z,2025-11-14T15:30:37Z
+gb,United Kingdom,Medical,6020,20,882607302,Doctor Care Anywhere,Doctor Care Anywhere Ltd.,https://apps.apple.com/gb/app/doctor-care-anywhere/id882607302?uo=4,0.0,4.74109,13630,Medical,"Doctor Care Anywhere is a private digital health service founded by doctors, providing you and your family with the confidence and reassurance to manage your health, no matter where you are or when you need us. Our team of UK-qualified registered doctors and Advanced Nurse Practitioners are available for video and phone appointments at a time that suits you. Additionally, we offer a prescription delivery service, instant referrals, 24/7 secure access to your medical records, and more. We empower you to take control of your health by putting you in charge of your healthcare needs.
+
+
+
+Appointment times to suit you
+You can book an appointment with Doctor Care Anywhere easily by logging in to our platform through your device. Our service is available 24/7, 365 days a year, so you can find a time that works for you and book your appointment instantly. We understand that your time is valuable, which is why we make it easy for you to see a doctor or Advanced Clinical Practitioner at a time that suits you.
+
+
+Our Clinical team
+Doctor Care Anywhere offers you the ability to choose your preferred clinician from our team of UK-registered doctors and Advanced Nurse Practitioners. You can search for a clinician based on their area of expertise, their name if you have seen them before, or their gender if you prefer to speak to a male or female clinician. All our clinicians are UK-registered with the General Medical Council (GMC) and are qualified with the Royal College of General Practitioners (RCGP). They are also specially trained in virtual consultation skills, ensuring that you receive the highest quality of care during your consultation.
+
+
+Same day medication
+You can have your prescription medicine delivered to your door or get it sent to your nearest local UK pharmacy for you to pick up at a time that suits you.
+Instant referrals
+Following a thorough consultation, if appropriate, the clinician will write you an instant referral and email you to let you know it has been stored securely on your patient record. You can then download this to share with your specialist or insurer.
+
+
+24/7 secure access to your patient record
+You can access your patient record at any time, update it as necessary and use it to download notes and referrals for future consultations. We can also share your notes with your NHS GP with your consent.
+
+
+What our patients say
+""The advice from the GP was excellent and thorough and the whole service is refreshingly immediate. I have already recommended it to friends and family and will continue to do so.""
+Charlie from Fulham
+
+
+
+""I’m delighted my days of stuffy waiting rooms are over! I was able to make an appointment really quickly and easily with a doctor who really took the time to answer my questions fully and gave really informed and relevant advice.""
+Lucy from Surrey
+
+
+
+""Doctor Care Anywhere has changed the way I view GP medical care from both a personal and professional perspective. Their online service is incredibly easy to use yet still maintains the highest level of personal care and privacy.""
+Lara from Warwickshire
+
+
+
+“There are times when it can be difficult to get to the doctor, especially for parents juggling home, work and small children. Having access to Doctor Care Anywhere, a service that allows you to consult with a doctor online or over the phone seven days a week is both handy and helpful, at the times when you need it most.""
+Justine Roberts, CEO Mumsnet",2014-06-04T16:38:26Z,2025-11-17T15:19:36Z
+gb,United Kingdom,Medical,6020,21,1332662924,myPhonak,Sonova AG,https://apps.apple.com/gb/app/myphonak/id1332662924?uo=4,0.0,4.3449,17385,Medical,"The new myPhonak comes with improved functionality and a new design to make your hearing experience as seamless and as tailored to your needs as possible. myPhonak provides you access to enhanced hearing controls and personalization options for your Phonak hearing aid(s) in addition to tracking your health data.*
+
+The Remote Control enables you to easily make changes to your hearing aid(s) to suit your personal preferences for various listening situations. You can easily adjust the volume and various hearing aid features (e.g., noise reduction and microphone directionality) or select pre-defined programs according to the different listening situation you are in. Additionally, you can make quick adjustments to the pitch of the sound in the equalizer by using the presets (default, comfort, clarity, softer, etc.) or more personalized adjustments using the sliders (bass, middle, treble). 
+
+The Remote Support allows you to meet with your hearing care professional through a live video call and have your hearing aids adjusted remotely. (by appointment) 
+
+Numerous functions are available within the Health section such as Steps* and Wearing time*, including Optional goal setting*, Activity levels*, Heart rate tracking**, Distance walked and ran***. 
+
+* Available on Paradise Rechargeable, Audéo Fit, Lumity and Infinio devices
+** Available on Audéo Fit only
+***Available on  Audéo Fit , Lumity and Infinio devices
+
+Finally, myPhonak allows for configuration of Tap Control, setting up cleaning reminders and provides additional information, such as battery level and status of connected hearing aids and accessories. 
+
+Hearing aid compatibility: 
+myPhonak is compatible with Phonak hearing aids with Bluetooth® connectivity.  
+
+myPhonak can be used with:
+• Phonak Virto™ I (Infinio)
+• Phonak Audéo™ I (Infinio)
+• Phonak CROS™ I (Infinio)
+• Phonak Sky™ L (Lumity)
+• Phonak Naída™ L (Lumity)
+• Phonak Terra™+
+• Phonak CROS™ L (Lumity)
+• Phonak Audéo Fit™ (Lumity)
+• Phonak Slim™ L (Lumity)
+• Phonak Audéo™ L (Lumity) 
+• Phonak Audéo Life™ (Lumity) 
+• Phonak CROS™  P (Paradise)
+• Phonak Audéo Fit™  (Paradise) 
+• Phonak Audéo Life™ (Paradise) 
+• Phonak Virto™ P-312 (Paradise) 
+• Phonak Naída™ P (Paradise) 
+• Phonak Audéo™ P (Paradise) 
+• Phonak Audéo™ M (Marvel) 
+• Phonak Bolero™ M (Marvel) 
+• Phonak Virto™ M-312 (Marvel) 
+• Phonak Naída™ M-SP (Marvel) 
+• Phonak Naída™ Link M (Marvel) 
+• Phonak Audéo™ B-Direct*** 
+
+***Advanced Remote Control and Remote Support not available  
+
+Device compatibility: 
+
+iPhone 6s and newer running iOS Version 15.0 or newer. Phones with Bluetooth low energy (BT-LE) capability required. 
+If you want to check if your smartphone is compatible, please visit our compatibility checker: https://www.phonak.com/en-int/support/compatibility
+
+Please find the Instruction for Use on https://www.phonak.com/en-int/hearing-devices/apps/myphonak. 
+
+IOS is a trademark of Cisco, Inc.
+The Bluetooth® word mark and logos are registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks by Sonova AG is under license.
+
+Always seek the advice of a doctor in addition to using this app and before making any medical decisions.
+
+The app is only available in countries where the compatible hearing instruments have received official approval for distribution.
+
+myPhonak supports integration with Apple Health when connected to a compatible hearing aid such as Phonak Audéo Fit.",2018-09-01T02:23:40Z,2025-09-29T07:34:43Z
+gb,United Kingdom,Medical,6020,22,1536116883,AXA Doctor At Hand,Doctor Care Anywhere Ltd.,https://apps.apple.com/gb/app/axa-doctor-at-hand/id1536116883?uo=4,0.0,4.70559,6756,Medical,"AXA Doctor at Hand is a 24/7 service, available wherever and whenever you need it. From a choice of appointments with GP’s or Advanced Clinical Practitioner for advice, prescriptions, tests or eligible referrals, AXA Doctor at Hand takes care of things seamlessly. 
+
+
+
+
+Anytime appointments
+With AXA Doctor at Hand, appointments are available 24 hours a day, seven days a week, 365 days a year. You can see GP’s and Advanced Clinical Practitioner by video or phone. Advanced Clinical Practitioner appointments are available from 8am – 10pm* 
+There’s no need to fit in with fixed opening hours or be left hanging on the phone to make an appointment or to get the support you need.
+
+
+
+Hand-picked network of healthcare professionals
+
+Appointments are with qualified doctors and advanced clinical practitioner; experienced healthcare professionals handpicked by Doctor Care Anywhere. You can even choose whether you see a male or female clinician. All our clinicians are UK-registered with either the General Medical Council (GMC) or Nursing and Midwifery Council ( NMC). They are also specially trained in virtual consultation skills, ensuring that you receive the highest quality of care during your consultation. 
+
+
+
+See a clinician from anywhere
+
+Booking appointments through the app couldn’t be easier. AXA Doctor at Hand
+appointments are usually available within a few hours, and you can join from anywhere
+in the world – at home or when you’re away.
+
+
+
+Medical records at a touch
+
+You will have a copy of your appointment notes uploaded directly to your patient record,
+so you’ve got a reminder of the conversation you had with the clinician. Your full medical
+notes can be sent to your NHS GP to make sure that everyone’s in the picture. Doctor-patient confidentiality is paramount. Your notes will be stored securely in your patient record.
+
+
+
+When asked for an activation code, activate using your AXA Health membership number if you have one (found on your AXA Health membership documentation) or, if you don’t have an AXA Health membership number, use the activation code emailed to you by Doctor Care Anywhere.
+
+
+
+To view all the features of AXA Doctor at Hand and for more information please visit
+www.doctorcareanywhere.com/axa
+
+
+
+Full Terms and Conditions can be found at www.doctorcareanywhere.com/terms-conditions-axa",2020-11-05T08:00:00Z,2025-11-17T15:19:21Z
+gb,United Kingdom,Medical,6020,23,6447954935,Eolas Medical,Eolas Medical LTD,https://apps.apple.com/gb/app/eolas-medical/id6447954935?uo=4,0.0,4.87723,1906,Medical,"Eolas App is a tool to help innovate the way we educate our healthcare professionals and how we care for our patients. Access specific guidelines, online learning, and other useful resources from the palm of your hand. Streamline your department's induction and departmental teaching processes and knowledge sharing to save time and make everyone's work more efficient.",2023-04-28T07:00:00Z,2025-11-17T09:19:22Z
+gb,United Kingdom,Medical,6020,24,1279161221,BeMore – for your hearing aids,GN Hearing Care Corporation,https://apps.apple.com/gb/app/bemore-for-your-hearing-aids/id1279161221?uo=4,0.0,4.53881,4007,Medical,"﻿The BeMore app lets you control your hearing aids directly from your mobile device. You can change programs, and make simple or more advanced sound adjustments and save them as favorites. The app helps you learn what you can do and how to do it. It can even help you find your hearing aids if you lose them. Last, but not least, you can have your hearing care professional update your hearing aid programs and send you new hearing aid software without taking a trip to the clinic.
+
+BeMore mobile device compatibility:
+Please consult the BeMore app website for up-to-date compatibility information: www.gnhearing.com/guides/app-support
+
+Use the BeMore app to: 
+•	Enjoy optimization anywhere with online services: Request help with your hearing aid settings from your hearing care professional and receive new settings and software updates. 
+•	Adjust volume settings on your hearing aids
+•	Mute your hearing aids
+•	Adjust volume of your streaming accessories
+•	Adjust speech focus as well as noise and wind-noise levels with Sound Enhancer (feature availability depends on your hearing aid model and the fitting by your hearing care professional)
+•	Change manual and streamer programs
+•	Edit and personalize program names 
+•	Adjust treble, middle and bass tones to your preferences
+•	Save your preferred settings as a Favorite – you can even tag to a location
+•	Monitor the battery status of your rechargeable hearing aids
+•	Help locate lost or misplaced hearing aids
+•	Tinnitus manager: Adjust sound variation and frequency of the Tinnitus Sound Generator. Select Nature Sounds (feature availability depends on your hearing aid model and the fitting by your hearing care professional)
+
+For more information please visit the support website via the link in the app store.",2018-08-12T23:02:06Z,2025-07-24T14:07:33Z
+gb,United Kingdom,Medical,6020,25,6748039739,myHealthNet,HEALTHNET HOMECARE UK LIMITED,https://apps.apple.com/gb/app/myhealthnet/id6748039739?uo=4,0.0,1.30233,43,Medical,"Through the app you can:
+- Book and confirm your medicine deliveries
+- Change your registered contact details and delivery information
+- Check your order and prescription statuses
+- Amend or cancel nursing appointments
+- Access supporting materials",2025-10-09T07:00:00Z,2025-11-18T02:22:53Z

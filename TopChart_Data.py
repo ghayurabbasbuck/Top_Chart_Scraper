@@ -13,7 +13,7 @@ from typing import List, Optional
 # -----------------------
 # Config
 # -----------------------
-COUNTRY = "us"  # <-- Your selected country will now appear in output CSV
+COUNTRY = "gb"  # <-- Your selected country will now appear in output CSV
 LIMIT = 50
 INPUT_CSV = "app_store_non_game_categories.csv"
 OUTPUT_NAME_TPL = "topchart_a_{cat}.csv"
