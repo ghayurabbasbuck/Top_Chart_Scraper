@@ -39,12 +39,34 @@ USE_SCRAPER = False               # Use app_store_scraper for extra fields
 Create `app_store_non_game_categories.csv` with one category per row:
 
 ```
-category
+Books
 Books
 Business
+Developer Tools
 Education
 Entertainment
 Finance
+Food & Drink
+Graphics & Design
+Health & Fitness
+Lifestyle
+Kids
+Magazines & Newspapers
+Medical
+Music
+Navigation
+News
+Photo & Video
+Productivity
+Reference
+Safari Extensions
+Shopping
+Social Networking
+Sports
+Travel
+Utilities
+Weather
+
 ```
 
 Or as a simple list (auto-detected):
