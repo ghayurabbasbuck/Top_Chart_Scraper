@@ -1,0 +1,795 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bm,Bermuda,Productivity,6007,1,6755351555,FluidDensityFlow,Nguyen Thi Cuong,https://apps.apple.com/bm/app/fluiddensityflow/id6755351555?uo=4,0.0,0,0,Productivity,"FluidDensityFlow is a simple and handy app designed for engineers and technicians working with valves, pipes, and flow systems. It helps you perform quick calculations related to fluid flow, pressure, temperature, and mechanical strength — all in one place. The app includes useful tools like mass flow rate, pipe velocity, and valve size suggestion to make your work faster and easier. You can also check choked flow, leakage rate, and pressure ratios with just a few inputs. For mechanical checks, it calculates safety factors and actuator power demands with simple formulas. FluidDensityFlow is built to save time, reduce manual work, and support accurate results in daily engineering tasks. It’s your easy companion for smart and reliable flow system calculations.",2025-11-16T08:00:00Z,2025-11-16T09:51:30Z
+bm,Bermuda,Productivity,6007,2,6755326834,ViscosityOptimiserTool,Burhan KEMER,https://apps.apple.com/bm/app/viscosityoptimisertool/id6755326834?uo=4,0.0,0,0,Productivity,"ViscosityOptimiserTool is a  easy-to-use app for pump and fluid engineers. It helps you quickly analyse how viscosity and cavitation affect pump performance. The tool includes simple calculators for viscosity correction, suction performance, and cavitation checks. You can easily estimate inducer size, eye diameter, and inlet blade angles for better pump design. It also helps assess tip speed effects, impeller trimming impact, and non-Newtonian flow behaviour. With clear inputs and instant results, the app saves time and improves accuracy. Whether for design, testing, or troubleshooting, ViscosityOptimiserTool makes fluid calculations simple and reliable.",2025-11-15T08:00:00Z,2025-11-15T10:08:37Z
+bm,Bermuda,Productivity,6007,3,6755326531,SpanSurveyTrker,Yakup SANAY,https://apps.apple.com/bm/app/spansurveytrker/id6755326531?uo=4,0.0,0,0,Productivity,"SpanSurveyTrker is a field app to help teams check and record power line patrols with less hassle and fewer mistakes. Inspectors can log each patrol with date, time, GPS spot, span or tower number, weather, issues found, and how serious the problem is, all in one place. Wire height checks are easy too, with simple forms for span ID, GPS, measured height, tool used, and field notes. The app keeps all patrol and wire height records tidy and ready to review later. Built-in converters let you switch load and force units (N, kN, kgf, lbf) and angle units (degrees, radians, slope %) in a few taps. You can also change GPS coordinates between DMS and decimal degrees without leaving the app. Extra tools convert speed (m/s, km/h, mph), tension (kN, lbs, daN), and elevation or height (m, ft), so field staff do not need a calculator. SpanSurveyTrker keeps line survey work simple, clear, and fast for people working outdoors.",2025-11-15T08:00:00Z,2025-11-15T10:50:46Z
+bm,Bermuda,Productivity,6007,4,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/bm/app/chatgpt/id6448311069?uo=4,0.0,4.86555,476,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+bm,Bermuda,Productivity,6007,5,422689480,Gmail - Email by Google,Google LLC,https://apps.apple.com/bm/app/gmail-email-by-google/id422689480?uo=4,0.0,4.70995,231,Productivity,"The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.
+
+With the Gmail app, you can:
+• Make Gmail your default email app on iOS
+• Use Gemini* in Gmail to summarise emails, craft or refine responses, or search your inbox to find what you're looking for
+• Automatically block more than 99.9% of spam, phishing, malware and dangerous links from ever reaching your inbox
+• Undo send, to prevent embarrassing mistakes
+• Turn on Google Chat to connect, create and collaborate with others
+• Get more done as a group in Spaces – a dedicated place for organising people, topics and projects
+• Enjoy high-quality video calling with Google Meet
+• Respond to emails quickly with Smart Reply suggestions
+• Switch between multiple accounts
+• Get notified of new mail fast, with notification centre, badge and lock screen options
+• Search your mail faster with instant results, predictions as you type and spelling suggestions
+• Organise your mail by labelling, starring, deleting and reporting spam
+• Swipe to archive/delete, to quickly clear out your inbox
+• Read your mail with threaded conversations
+• Auto-complete contact names as you type from your Google contacts or your phone
+• Respond to Google Calendar invites right from the app
+
+Gmail is part of Google Workspace, allowing you and your team to easily connect, create and collaborate. You can:
+• Connect with colleagues via Google Meet or Google Chat, send an invite in Calendar, add an action to your task list and more without leaving Gmail
+• Use suggested actions – like Smart Reply, Smart Compose, grammar suggestions and nudges – to help you stay on top of work and take care of simple tasks, so you can be more efficient with your time
+• Stay safe. Our machine-learning models block more than 99.9% of spam, phishing and malware from reaching our users
+
+*Google One AI Premium subscription and Internet connection required. Language and country availability may vary. Check responses for accuracy.",2011-11-02T17:13:30Z,2025-11-17T19:37:28Z
+bm,Bermuda,Productivity,6007,6,6477489729,Google Gemini,Google LLC,https://apps.apple.com/bm/app/google-gemini/id6477489729?uo=4,0.0,4.70769,65,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+bm,Bermuda,Productivity,6007,7,983156458,Microsoft Authenticator,Microsoft Corporation,https://apps.apple.com/bm/app/microsoft-authenticator/id983156458?uo=4,0.0,4.76596,94,Productivity,"Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.
+
+Getting started with multi-factor authentication
+
+Multi factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app. The OTP codes have a 30 second timer counting down. This timer is so you never have to use the same time-based one-time password (TOTP) twice and you don’t have to remember the number. The OTP doesn’t require you to be connected to a network, and it won’t drain your battery. You can add multiple accounts to your app, including non-Microsoft accounts like Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub, and more.
+
+Getting started with passwordless
+
+Use your phone, not your password, to log into your Microsoft account. Just enter your username, then approve the notification sent to your phone. Your fingerprint, face ID, or PIN will provide a second layer of security in this two-step verification process. After you’ve signed in with two factor authentication (2FA), you’ll have access to all your Microsoft products and services, such as Outlook, OneDrive, Office, and more.
+
+Getting started with autofill
+
+Microsoft Authenticator app can also autofill passwords for you. Sign-in on the Passwords tab inside the Authenticator app with your personal Microsoft account to start syncing passwords, including the passwords saved in Microsoft Edge. Make Microsoft Authenticator the default autofill provider and start autofilling passwords on apps and sites you visit on your mobile. Your passwords are protected with multi-factor authentication in the app. You will need to prove yourself with your fingerprint, face ID, or PIN to access and autofill passwords on your mobile. You can also import passwords from Google Chrome and other password managers.
+
+Microsoft personal, work or school accounts
+
+Sometimes your work or school might ask you to install the Microsoft Authenticator when accessing certain organization resources. You will need to register your device to your organization through the app and add your work or school account. Microsoft Authenticator supports cert-based authentication by issuing a certificate on your device. This will let your organization know that the sign-in request is coming from a trusted device and help you seamlessly and securely access additional Microsoft apps and services without needing to log into each.",2015-05-30T09:25:44Z,2025-11-13T23:54:23Z
+bm,Bermuda,Productivity,6007,8,951937596,Microsoft Outlook,Microsoft Corporation,https://apps.apple.com/bm/app/microsoft-outlook/id951937596?uo=4,0.0,4.69481,1350,Productivity,"Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.
+
+Here's what you'll love about Outlook for iOS:
+
+- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.
+- Swipe to quickly schedule, delete and archive messages.
+- Share your meeting availability with just a tap and easily find times to meet with others.
+- Find everything you're looking for, including files, contacts, and your forthcoming trips.
+- View and attach any file from your email, OneDrive, Dropbox, and more, without having to download them to your phone.
+- Open Word, Excel, or PowerPoint attachments to edit them directly in the corresponding app and attach them back to an email.
+- Recap extra-long email threads in an instant with Summarise with Copilot*
+- Type a few words to have Copilot* jump-start your writing with an outline or draft
+- Before sending off your email, use Coaching with Copilot* to get tips and suggestions that help improve the overall tone, sentiment, and clarity
+ 
+*Microsoft 365 Personal/Family subscription or business account enabled with Copilot required to use Copilot features
+
+--
+
+Outlook for iOS works with Microsoft Exchange, Office 365, Outlook.com (including Hotmail and MSN), Gmail, Yahoo Email, and iCloud.
+
+--
+
+To make an in-app purchase of an Office 365 Home or Personal subscription, open the app, go to Settings and tap on Upgrade next to your Outlook.com or Hotmail.com account. Subscriptions begin at USD 6.99 a month in the US, and can vary by region. With an Office 365 subscription, you get 1 TB of storage for each user, access to all features in Word, Excel and PowerPoint on iPad, iPhone and iPod touch, and you can install Word, Excel, PowerPoint, Outlook and OneNote on PCs or Macs.
+
+Office 365 subscriptions purchased from the app will be charged to your iTunes account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. To manage your subscriptions or to disable auto-renewal, after purchase, go to your iTunes account settings. A subscription cannot be cancelled during the active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy and Cookies: https://go.microsoft.com/fwlink/?LinkId=521839 
+Terms of Use: http://go.microsoft.com/fwlink/?LinkID=530144",2015-01-29T05:22:59Z,2025-11-19T17:36:59Z
+bm,Bermuda,Productivity,6007,9,586449534,Microsoft PowerPoint,Microsoft Corporation,https://apps.apple.com/bm/app/microsoft-powerpoint/id586449534?uo=4,0.0,4.5641,78,Productivity,"The PowerPoint app gives you access to the familiar slideshow maker tool you already know. Create, edit, view, present, or share presentations quickly and easily from anywhere.
+
+Need to access your PowerPoint files quickly while on the go? PowerPoint provides a quick view of your recent slides and presentations for easy access on any device.
+
+Worried about multiple file versions when you work on PowerPoint mobile? Syncing is seamless across devices via OneDrive.
+
+PowerPoint lets you make a lasting impression with powerful and customizable slides and presentations that make you stand out. Create slideshows and present with confidence from anywhere.
+
+Making a delightful and impactful presentation has never been easier. PowerPoint gives you templates to work from and automatic design ideas for your presentations.
+
+Master your presentation with Presenter Coach, a AI tool designed to help with public speaking. Practice your presentation and get real-time suggestions to adjust your pacing, avoid “umms” and speak confidently. Requires an active Microsoft 365 subscription.
+
+Customize your presentations on the go, collaborating with others in real time. Sync your PowerPoint documents via OneDrive, share with coworkers and create amazing presentations as a team.
+
+Get the power of AI with Copilot1 in your favorite apps when you sign in with your Microsoft 365 subscription. Create, edit and share presentations with ease when you download Microsoft PowerPoint today.
+
+Present with confidence
+• Never miss a beat with PowerPoint on the go. You can make new presentations or continue working on existing ones.
+• PowerPoint syncs your presentations to OneDrive, so you can start a presentation on your PC, then edit using PowerPoint mobile.
+• A new Presenter Coach designed to provide feedback and assistance for your presentations.
+
+Customizable Slideshow Maker
+• With the powerful and highly customizable experience in PowerPoint, creating presentations that will make an impression and help you stand out is easy.
+• Create a slideshow from a template or make a presentation from scratch.
+
+Collaborate on Presentations
+• PowerPoint makes it easy to collaborate with others.
+• With 1-click sharing, quickly invite others to edit, view, or provide feedback on your slides.
+• Easily manage permissions and see who’s working on your presentation.
+• Stay on top of changes and feedback with integrated comments within the slides.
+• Compare changes to see how your presentation has evolved over time.
+
+Download Microsoft PowerPoint now and get the best way to create, edit and share slideshows and presentations from your iPhone or iPad.
+
+To create or edit documents, sign in with a free Microsoft account on devices with a screen size smaller than 10.1 inches.
+Unlock the premium Microsoft 365 experience with a qualifying subscription for your phone, tablet, PC, and Mac.
+
+Monthly Microsoft 365 subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.
+
+This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.
+
+Please refer to the Microsoft Software License Terms for Microsoft 365. See “License Agreement” link under Information. By installing the app, you agree to these terms and conditions.",2014-03-27T19:39:54Z,2025-11-17T05:08:57Z
+bm,Bermuda,Productivity,6007,10,507874739,Google Drive – online backup,Google LLC,https://apps.apple.com/bm/app/google-drive-online-backup/id507874739?uo=4,0.0,4.69751,562,Productivity,"Google Drive, part of Google Workspace, lets you securely store, intelligently organise and collaborate on files and folders from anywhere, on any device.
+
+With Drive, you can:
+• Safely store and access your files anywhere
+• Edit and store 100+ file types, including PDFs, Office files, videos and more
+• Quickly access recent and important files
+• Scan and upload paper documents using your device’s camera
+• Search for files by name and content
+• Filter files by type, last modified date and more
+• Share and set permissions for files and folders
+• View your content on the go while offline
+• Receive notifications about important activity on your files
+
+Google Workspace subscribers have access to additional Drive functionality, including:
+• Security and management controls for admins to help meet data compliance needs
+• Sharing files and folders directly with groups or teams within your organisation
+• Creating a shared drive to store all of your team’s content
+
+Learn more about Google Apps update policy: https://support.google.com/a/answer/6288871
+
+Google accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.
+
+Storage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.
+
+Google Privacy Policy: https://www.google.com/intl/en_GB/policies/privacy
+Google Drive Terms of Service: https://www.google.com/drive/terms-of-service
+
+Follow us for more:
+X: https://x.com/googleworkspace and https://x.com/googledrive
+LinkedIn: https://www.linkedin.com/showcase/googleworkspace
+Facebook: https://www.facebook.com/googleworkspace/",2012-06-28T17:40:50Z,2025-11-17T16:38:37Z
+bm,Bermuda,Productivity,6007,11,469284907,HP,HP Inc.,https://apps.apple.com/bm/app/hp/id469284907?uo=4,0.0,4.69193,409,Productivity,"The go-to app for your HP devices. Set up your new printer, personalize your experience, print, scan, and contact support—all in one place. 
+
+Formerly HP Smart, the new HP app[1] offers you more ways to get more from your HP devices. 
+
+Easy Setup, Wherever You Are  
+New device? No problem. Get up and running fast with a guided setup that does the heavy lifting for you. Once you are ready to go, you can manage your HP printer and computer and stay on top of the essentials, like checking your ink levels. 
+
+Make the Most of Your Device 
+Stay informed with top recommendations. Plus, you can adjust your device settings and discover HP products that match your needs—it is all about making your tech work just the way you like it. 
+
+Print and Scan, On Your Time 
+Print a school form from the kitchen or a last-minute birthday card. Even, scan receipts in seconds and send it straight to your email. Whether you are at home or at the office, completing your print tasks is a click away. 
+
+Instant Help Whenever You Need It 
+When something goes wrong, help is right there—make a quick call, message live chat or find answers in the app[1]. You’ll be back to what matters before you know it. 
+
+ 
+But wait, your experience just gets better and better! 
+
+• Unlock a world of creativity with HP Printables[2]. Explore tons of cards, coloring pages, educational worksheets, and fun crafts projects. 
+
+• Adjust and edit your documents before you hit print. 
+
+• Set up custom shortcuts for print tasks you use often. 
+
+• Automatically correct images, name files, flatten pages, extract text, and scan multiple pages at the same time with the HP app.[3] 
+
+• Get a notification when your printer is low on ink or paper and easily order more to keep printing uninterrupted. 
+
+We're always adding cool new features to the app. Make sure you turn on auto-updates, so you don't miss all the latest improvements!  
+
+Disclaimers
+
+1. HP Smart and myHP are now the HP app, available for download on macOS devices; and for iOS mobile phones and iPads. The HP app requires download available at www.hp.com/hp-app. Not all HP devices, services, apps are available in the HP app. Certain features are available in English language only, and may vary by printer and PC model/country, and between desktop/mobile applications. HP reserves the right to introduce charges for use of select HP app functionality. Internet access required. HP account required for full functionality. Fax sending capability only. Live chat and phone support are available during business hours and varies by country. Chat service is localized in supported regions, and where not supported, will default to English. Supported conferencing features vary by device and device configuration. For complete Terms of Service see: www.hp.com/hp-app-terms-of-use. 
+
+2. Printables are for personal use only and may not be distributed for any commercial purpose. 
+
+3. Choose HP+ at setup to activate benefits. HP+ requires an HP account, ongoing connection to the internet, and the use of only Original HP ink for the life of the printer. More at hp.com/plus",2011-10-19T03:50:49Z,2025-11-04T20:12:27Z
+bm,Bermuda,Productivity,6007,12,1370293473,VPN - Super Unlimited Proxy ™,Mobile Jump Pte Ltd,https://apps.apple.com/bm/app/vpn-super-unlimited-proxy/id1370293473?uo=4,0.0,4.5931,145,Productivity,"FREE VPN FEATURES
+Experience the best free VPN: no ad interruptions and limits
+- Unlimited speed, bandwidth, and time at no cost
+- Access content from 40+ server locations (20+ US cities)
+- Fast VPN: 5,000+ servers dedicated to free users
+- No Activity Logs
+- Military-grade encryption
+- Optimized for iOS devices with 16.0+ (iPhone, iPad, Mac, Apple Vision)
+- No registration needed
+
+First time users get a 7-day free trial to our monthly and yearly plans.
+
+WHAT IS A VPN?
+
+VPNs create an encrypted tunnel for your data and protect your online identity by hiding your IP address. VPNs can help you
+- secure your connection on public WiFi - such as in school, at work, or traveling
+- protect your privacy from your Internet Service Provider or at work
+- access messaging services (e.g., WhatsApp, Telegram, Messenger, Discord)
+- access social media (e.g., Instagram, Tik Tok, Facebook, Snap, Twitter, X, Reddit
+- access streaming services (e.g., Netflix, HBO, Hulu, YouTube)
+- access mobile games (e.g., Plato, Honor of Kings, Genshin Impact, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Mobile Legends: Bang Bang, Free Fire, Roblox, )
+
+VPN PROTOCOLS
+- We offer up to 4 VPN protocols for free users (depending on location)
+- Users are recommended to select “Auto” and our VPN will choose the best protocol for you
+- We support OpenVPN, IKEv2, Super, and V2Ray (new protocol)
+
+VPN SERVER LOCATIONS WORLDWIDE
+
+Choose from over 5,000+ servers across 55+ countries, including:
+- North America: USA (40+ cities), Canada (3 cities), Mexico
+- Europe: Austria, Belgium, Bulgaria, Switzerland, Czechia, Germany, Denmark, Estonia, Spain, Finland, France, United Kingdom (3 cities), Greece, Croatia, Hungary, Ireland, Iceland, Italy, Lithuania, Luxembourg, Latvia, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Russian Federation, Slovakia, Sweden, Ukraine
+- Asia: Australia, Malaysia, Singapore, South Korea, Japan, Hong Kong, Indonesia, India, Israel, Kazakhstan, Taiwan, Vietnam, Turkey, Philippines
+- South America: Brazil, Chile, Colombia, Peru
+- Africa: Egypt, South Africa
+
+PREMIUM VPN FEATURES
+- Ultra fast 10Gbps servers
+- No ads
+- Servers in 55+ countries
+- 40+ US city-level servers
+- City-level servers in Canada and the UK
+- Premium users can protect up to 10 devices
+
+PREMIUM PLANS (no ads, 10G servers, and more):
+Weekly: $9.99/week
+Monthly: $11.99/month (7-day free trial)
+Yearly: $79.99/year (7-day free trial)
+
+PRIVACY COMMITMENT
+VPN - Super Unlimited Proxy is committed to privacy with zero activity logs. We don't collect or retain any information that could compromise your online security.
+
+Links to our Terms of Service and Privacy Notice can be found below:
+
+- Privacy Notice: https://www.vpnsuper.com/privacy-notice
+- Terms of Use: https://www.vpnsuper.com/terms-of-service
+
+Download the top free iPhone VPN to:
+
+- jump through gaming levels faster than you can say biubiu
+- express yourself on social media
+- browse the internet faster than a proton
+- shield yourself on hotspots
+- turbo charge your tunneling
+- break the filters with our proxy master
+- hide your internet activity better than an ostrich",2018-05-15T11:50:11Z,2025-11-12T07:55:44Z
+bm,Bermuda,Productivity,6007,13,608834326,"Calendars・Daily Planner, To do",Readdle Technologies Limited,https://apps.apple.com/bm/app/calendars-daily-planner-to-do/id608834326?uo=4,0.0,5,8,Productivity,"Calendars by Readdle is the all-in-one calendar, task manager, daily planner, and habit tracker — seamlessly working across all your Apple devices: Mac, iPhone, iPad, and Apple Watch.
+Plan your day, build better habits, boost productivity, and stay organized with powerful features and smooth sync between all your devices.
+
+
+What you can do with Calendars:
+ • View and manage your calendar with daily, weekly, and monthly views
+ • Create events, set reminders, and never miss important dates
+ • Use the built-in agenda planner to focus on what matters most
+ • Organize your to-do list and manage your tasks with ease
+ • Quickly add events or to-do items using natural language
+ • Build routines and track your habits to stay consistent
+ • Take a guided productivity course to improve time management and focus
+ • Sync across devices with Google Calendar, iCloud, and more
+ • Customize your planner calendar with color coding and widgets
+ • Join Zoom, Google Meet, or GoToMeeting directly from your calendar
+ • Stay in control of your time, wherever you are
+Whether you're planning a busy workday, building new habits, or working on personal growth, Calendars brings everything together to help you own your time — across all your Apple devices.
+
+Privacy Policy: https://readdle.com/calendars/legal/privacy
+Terms of Service: https://readdle.com/calendars/legal/terms
+
+Have questions, comments, or issues? Don’t hesitate to reach out to us at http://readdle.com/contact",2013-03-05T00:43:57Z,2025-11-13T17:05:33Z
+bm,Bermuda,Productivity,6007,14,6458735203,Noteshelf 3: AI Digital Notes,Fluid Touch Pte. Ltd.,https://apps.apple.com/bm/app/noteshelf-3-ai-digital-notes/id6458735203?uo=4,0.0,0,0,Productivity,"Elevate your digital note-taking experience with Noteshelf 3! Create beautiful handwritten notes, annotate & markup PDFs, record audio notes and level up your note-taking with Noteshelf AI.
+
+Noteshelf 3 is the preferred note-taking app for students, teachers, professionals, artists & bullet journal enthusiasts worldwide, to create and organize digital notes.
+
+PERSONALIZE YOUR NOTE-TAKING EXPERIENCE
+- Craft beautiful handwritten notes with a range of lifelike pens & highlighters. Try our fountain pen for an aesthetic touch to your handwriting.
+- Take notes on lined, dotted, or grid papers in any color or line spacing.
+- Personalize your digital notebooks with multiple cover options - from classic designs to custom ones of your own images or artwork.
+- Enjoy a fully customizable toolbar! Add, remove, or re-arrange tools according to your unique workflow.
+- Choose from a vast library of 200+ exclusive templates for study planners, class notes, wellness trackers, bullet journals, etc., created by the Noteshelf team.
+- Plan and organize your daily tasks with configurable digital diaries & journals.
+
+WRITE, TYPE, DRAW, OR RECORD - YOUR CHOICE!
+- Transform your strokes into flawless shapes or choose geometric shapes to create flowcharts and diagrams.
+- Type your notes in various styles and formatting options, bulleted/numbered lists & checklists.
+- Record audio as you take notes and never miss anything important - great for lectures & meetings!
+- Convert handwriting into text and search handwritten notes with handwriting recognition in 65 supported languages!
+- Make every page uniquely yours with fun emojis & stickers.
+- Find the perfect visuals to complement your notes from the UNSPLASH & PIXABAY libraries.
+- Use advanced image editing features like background removal and freeform cropping.
+
+DISCOVER THE BLISS OF PAPERLESS ORGANIZATION
+- Organize your notebooks into folders and subfolders, and sort them in your preferred order.
+- Bookmark important pages, name them, and add colors to create your personalized table of contents.
+- Use tags as a fast & flexible way to categorize and organize your notes.
+- Find your notes easily with smart folders that automatically collect photos, audio recordings, and bookmarks from all your notebooks.
+- Create links between multiple notebooks or pages within a notebook, to connect ideas & concepts effectively.
+- Multi-task and work on two notebooks simultaneously with multiple windows support.
+
+ANNOTATE LIKE A PRO
+- Import and highlight, underline, or annotate PDFs, DOCs, PPTs & images with precision.
+- Use the built-in document scanner to quickly digitize physical documents.
+- Export and share your notes as images & PDFs.
+
+LET NOTESHELF AI DO THE HEAVY LIFTING
+- Generate handwritten notes effortlessly on any topic with Noteshelf AI.
+- Use Noteshelf AI to summarize whole pages, translate text into different languages, explain complex terms, and more.
+
+KEEP YOUR NOTES SAFE & ACCESSIBLE
+- Secure your notes with passwords, Face ID or Touch ID.
+- Access your notes across your iPad, iPhone, and Mac devices with iCloud sync.
+- Auto-backup your valuable notes to popular cloud storage devices like Google Drive, OneDrive, Dropbox, and WebDAV.
+- Auto-publish notes to Evernote and access them from anywhere.
+
+SHARE IDEAS WITH PRESENTATION MODE
+- Project your notes & slides via external display.
+- Use the Laser Pointer and a range of markers to highlight key points in real-time.
+
+---
+
+Noteshelf 3 is free to use with some limits. Go Premium and unlock the full experience:
+- Unlimited Notebooks
+- Handwriting recognition and search
+- Auto-Backup to Google Drive, Dropbo, OneDrive, and WebDAV
+- Templates, Digital Diaries and Sticker packs
+- 100 monthly AI credits
+
+By using this app, you agree to Apple’s Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+
+---
+
+Have a suggestion? Reach out to us at noteshelf[at]fluidtouch.biz. We’d love to hear from you!
+
+Happy note-taking!",2023-08-18T07:00:00Z,2025-11-18T04:34:47Z
+bm,Bermuda,Productivity,6007,15,6743227246,ListenMe - Text to Speech,SCALEUP YAZILIM HIZMETLERI ANONIM SIRKETI,https://apps.apple.com/bm/app/listenme-text-to-speech/id6743227246?uo=4,0.0,0,0,Productivity,"ListenMe – Convert Text to Speech & Listen Anywhere
+
+ListenMe is your all-in-one text-to-speech (TTS) solution that transforms any written content into natural, high-quality voice. Whether you're tired of endless reading, want to save time, or just prefer to listen while doing other tasks, 
+ListenMey helps you turn text into smart, accessible audio. With offline playback, translation, note-taking, and customizable voice settings, you can enjoy a hands-free reading experience anytime, anywhere.
+
+Top Features of ListenMe
+• Text to Speech (TTS) – Turn any text into clear, human-like audio.
+• Import Text Easily – Add content by typing, uploading files (PDF, DOC, TXT), scanning documents, or sharing URLs.
+• Audio Speed Control – Slow down or speed up the audio to suit your pace and focus.
+• Accessibility-Friendly – Designed to support users with visual impairments, dyslexia, ADHD, and other reading difficulties.
+
+Who is ListenMe for?
+• Professionals who need to process large documents quickly
+• Students who prefer listening to studying
+• Language learners looking to improve comprehension
+• People with dyslexia, ADHD, or low vision
+• Anyone who wants to multitask while consuming content
+• Anyone tired of screen fatigue or long reading sessions
+
+
+Use ListenMe to:
+• Convert blog posts, emails, PDFs, notes, and articles into voice
+• Create MP3 versions of your reading list for mobile access
+• Improve focus by listening instead of reading
+• Turn written lectures and study materials into audio
+• Learn new languages with text to speech content
+
+
+Enjoy screen-free reading during workouts, chores, or commutes
+
+
+ListenMe gives you the freedom to listen rather than read, making content consumption more flexible and efficient. Whether you need a voice reader, a text to speech converter, or just an easy way to multitask with audio, ListenMe is the app you can rely on.
+
+With ListenMe, enjoy the most seamless text to speech experience tailored to your daily needs. Whether you’re looking for a reliable text reader to read text from articles, emails, or books, or you simply want a smart way to turn long documents into audio, ListenMe is your perfect companion. 
+
+The app supports advanced text-to-speech technology to ensure every word sounds natural and clear. Easily transform your notes, webpages, or PDF files into engaging audio content — perfect for turning any PDF to audiobook in seconds. ListenMe is not just another text to speech tool; it’s your go-to text reader for multitasking, learning, or relaxation. Use it to read text aloud while commuting, or let it serve as a PDF to audiobook converter for your study sessions. With multiple text-to-speech voices and customizable reading speeds, you’re always in control. From quick reads to full-length documents, ListenMe makes every text to speech interaction smooth, smart, and efficient.No more staring at screens. 
+
+No more lost time. Just open ListenMe, import your content, and hit play.
+
+ListenMe offers a powerful text to speech engine that makes it easy to listen to your favorite content anytime. Use it as your daily text reader to read text from books, notes, and websites with natural-sounding voices. Whether you're studying, commuting, or relaxing, ListenMe turns your routine into an audiobook experience. Instantly convert any PDF to audiobook and enjoy hands-free reading. The app’s smart text-to-speech features ensure smooth playback, even for long documents. With multiple voices, reading speeds, and offline support, ListenMe is more than just a text to speech app — it’s your all-in-one text reader and PDF to audiobook converter.
+
+
+Privacy Policy: https://listenme.co/privacy
+Terms of Service: https://listenme.co/terms
+Do you have a question for us?
+support@listenme.co",2025-06-17T07:00:00Z,2025-09-29T08:51:19Z
+bm,Bermuda,Productivity,6007,16,1497465230,Opal: Screen Time Control,OPAL OS CORPORATION,https://apps.apple.com/bm/app/opal-screen-time-control/id1497465230?uo=4,0.0,5,1,Productivity,"Achieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.
+
+5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.
+
+**As of November 2024, Opal has saved humanity 120 Million hours from less screen time. **
+
+Many of the world's top teams and companies trust Opal to help protect their focus. You can too.
+
+**Opal cut my screen time by 2 hours per day – Marketing at Google **
+
+**You need this app. When I first got opal my daily screen-time was about 8 1/2 hours a day. Now it's 1 hour. **
+
+**Opal has become an indispensable tool in my quest for productivity and mindful technology usage **
+
+**Get Opal! - Ali Abdaal, productivity expert**
+
+BENEFITS
+
+Save 1 hour and 23 minutes per DAY from less screen time, on average.
+
+94% of Opal members are less distracted
+
+93% are more productive thanks to the app
+
+90% experience improved mental health
+
+Added benefits:
+
+- Better screen time control
+- Better productivity at work
+- Reduce stress, be more mindful
+- Better manage ADHD
+- Set daily work hours, sleep, and routines
+- Block apps to unplug and detox
+- Stay in focus when you need it most
+- You're happy and in control of your screen time
+
+FEATURES
+
+- #1 Screen Time Control: the most loved app for screen time control with 4.8/5.
+- #1 App Blocker: Instantly Block apps and websites you choose at a specific time of day throughout the week to organize your time.
+- Focus Difficulty: Make it hard, or make it a bit easier. Deep Focus won't let you cancel or bypass at all.
+- App Limits: Set daily usage limits on apps and websites to automatically block them and prevent overuse.
+- Mindful Block Screens: Discover quotes, puns and more every time you try to open an app or website you really shoudn't.
+- Blocklist & Allowlist: Easily pick any app, game or website you want to block or allow during your Blocks.
+- Focus Report: Measure your progress with clear metrics, actionable screen time stats, and benchmark against your peers.
+- Focus Score: Check your screen time and focus level at any point  easily spotting Focus and Distracted time.
+- Calendar: Set daily working hours, sleep and routines, block apps automatically, so you don’t have to remember.
+- Precious Rewards: Unlock unique MileStones you can share with friends.
+- Leaderboard: Challenge friends to top the leaderboard, enhancing productivity, focus and keeping each other motivated.
+- Breaks: Choose the app you want to use, write your intention, and set a timer.
+- Focus Mode Integration: Sync your Opal Focus Sessions with iPhone Focus Mode to block apps.
+- Shortcut Integration: Connect iPhone shortcut automations to start/stop Focus Sessions based on app opens, time, location and more!
+- Focus Reminders: Get timely reminder notifications when you get distracted or reach a time limit.
+- Deep Focus: Need ultimate focus? Deep Focus is the maximum level of protection — you can’t bypass or cancel.
+- More Fun: Opal is guilt-free and fun.
+- Widget: Have Opal on your home screen!
+
+CREATE A PERSONALIZED APP BLOCK LIST
+
+Easily pick any app, game or website you want to block or allow to Block Apps.
+
+PRIVATE & SAFE
+
+We use Apple's Screen Time API in order to monitor and block apps you use. Installation is easy and takes a few seconds on your iPhone.
+
+Unlike most apps, Opal works entirely on your phone and personal browsing data never leaves your device.
+
+TERMS, PRIVACY & CONDITIONS
+
+Read on https://opal.so/terms & https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-12-15T08:00:00Z,2025-11-17T14:13:05Z
+bm,Bermuda,Productivity,6007,17,1246703610,VPN Master Proxy by VeePN,Veepn Corp,https://apps.apple.com/bm/app/vpn-master-proxy-by-veepn/id1246703610?uo=4,0.0,0,0,Productivity,"VeePN takes away all worries about online security! Safeguard your personal data with an advanced VPN solution.
+
+3-DAY FREE TRIAL
+
+Download it for free to try on all your devices
+
+Main features include:
+• Unlimited traffic and bandwidth.
+• Secure and ultra-fast 2500 servers in 89 locations.
+• Lightning fast application, one-tap connection.
+• Automatic configuration after installation.
+• Multiplatform VPN app with support for up to 10 devices under a standard subscription plan.
+• Strict no logs and no ads policy.
+
+VeePN - a sleek all-in-one solution to protect your privacy and valuable data, make content streaming comfortable and maintain a super-high connection speed.
+
+To ensure a smooth connection, we have created an elaborate network of servers in 89 locations. You can switch between servers in a few seconds without sacrificing connection speed and security.
+
+1) We aim to be simple. Our VPN proxy app won't give you headaches caused by the tedious setup process. VPN app automatically finds the best encryption protocols and configuration for a particular device. You can always change the settings, though, if you want to.
+
+2) Protection for every device you have. Connect up to 10 devices while maintaining the same high VPN speed and military-grade protection. VeePN supports all platforms and the most popular browsers.
+
+3) No logs and no ads. We want to provide our users with superb VPN service experience. We don't record your online activity, browsing history, IP and location. We can't disclose any information to third parties because we don't have any. We also strive to be the best ad-free VPN app on the market.
+
+4) Easy-to-use VPN app. Download VeePN and see for yourself that VPN setup can take just a few minutes. Pick a server and connect in one tap.
+
+5) We offer two subscription options so that you can choose the right one for you (weekly access renewal or lifetime). You can cancel your subscription at any moment in your iTunes account settings, but refunds will not be provided for any unused portion of the terms. Payment will be charged to your iTunes Account at purchase confirmation. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+All subscriptions have a 3-DAY FREE TRIAL.
+
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Account will be charged for renewal within 24 hours prior to the end of the current period. The cost depends on the selected plan.
+- Should the user choose to renew prior to the end of a free trial, any remaining time will be forfeited and replaced by the purchased subscription period.
+- During the active subscription period, cancellation of the current subscription will not be possible.
+
+Terms of Use: https://veepn.com/terms-of-service/
+Privacy Policy: https://veepn.com/privacy-policy/",2017-07-13T21:11:25Z,2025-11-05T11:04:46Z
+bm,Bermuda,Productivity,6007,18,1219660920,Clean Email — Inbox Cleanup,"Clean Email, LLC",https://apps.apple.com/bm/app/clean-email-inbox-cleanup/id1219660920?uo=4,0.0,0,0,Productivity,"Overwhelmed by emails? 
+
+Take back control with Clean Email – the all-in-one trusted inbox organizer tool that helps you unsubscribe, block, bulk-delete, and automate email cleanup in minutes.
+
+***Join 1.5 million people who’ve cleaned hundreds of billions of unwanted emails and finally enjoy a stress-free inbox!***
+
+""Of the handful I tested, I liked Clean Email best. Before using Clean Email, I had 17,677 unread emails. Now, it’s a fraction of that."" - Nicole Nguyen, Wall Street Journal.
+ 
+- - - - - - - - - - - 
+Why Clean Email?
+
+Other apps trade your privacy for “free.” We don’t. Clean Email is Google-verified, certified secure, and never sells, analyzes, or reads your data. Just a powerful tool to keep your inbox organized and your mind at ease.
+
+With Clean Email, you can:
+
+* BULK CLEAN EMAILS IN MINUTES — delete 10k, 50k, even 100k+ emails with just a few clicks — or archive, label, star, move, and more.
+* UNSUBSCRIBE FROM UNWANTED SENDERS — stop newsletters and spam.
+* BLOCK and SCREEN SENDERS - decide who can reach you.
+* AUTOMATE YOUR INBOX — set Auto Clean rules so junk never clogs your inbox again.
+* SAVE TIME AND STRESS — open your inbox and see only what matters.
+* STAY PROTECTED —get instant alerts if your email appears in a data breach.
+* SEND, REPLY, FORWARD important emails directly from within the app.
+* FOLLOW SMART CLEANING SUGGESTIONS to keep your inbox effortlessly tidy.
+
+Clean Email works with your email address and favorite email apps, so there’s no need to change anything to get a clean inbox:
+- Gmail and Google Workspace
+- iCloud
+- Yahoo Mail
+- Hotmail, Outlook, Office 365
+- AOL, Fastmail, GMX Mail, and any IMAP account.
+
+***Try Clean Email FREE***
+We won’t charge you a penny to clean your first 1,000 emails. Clean Email will also unsubscribe you from 25 newsletters and run Screener and Auto Clean rules for 14 days, so you can see how they help keep you on track at no cost.
+
+Choose an auto-renewing subscription to receive all of our powerful email cleaning and unsubscribing features. Prices start at just $9.99/month for one email account or take advantage of our special $29.99/year plan, saving you 75% over the monthly rate. 
+
+Clean Email is the advanced email organizer you and your team have been waiting for.
+
+EULA and Terms of Service: https://clean.email/privacy",2017-09-22T17:46:41Z,2025-09-26T23:10:06Z
+bm,Bermuda,Productivity,6007,19,6746355733,PDF to Calendar Converter,Rick-y Media AB,https://apps.apple.com/bm/app/pdf-to-calendar-converter/id6746355733?uo=4,0.0,0,0,Productivity,"Turn any schedule photo into organized calendar events with Photo to Calendar's powerful AI technology.
+
+SMART FEATURES:
+• Advanced AI extracts dates, times, and descriptions
+• Works with class schedules, meeting agendas, event programs
+• Choose which calendar to import events
+• Export ICS files for sharing
+• Clean, intuitive interface
+
+PERFECT FOR:
+• Students managing class schedules
+• Professionals tracking meetings
+• Event planners organizing programs
+• Anyone with busy schedules
+
+HOW IT WORKS:
+1. Take a photo of any schedule or timetable
+2. AI analyzes and extracts all events
+3. Review and select events to add
+4. Import directly to your calendar
+
+Save hours of manual entry and never miss important events again. Photo to Calendar makes schedule management effortless with cutting-edge AI technology.
+
+Privacy focused. No personal data stored.
+
+You need a subscription to download the ICS.
+Privacy Policy: https://muxoai.com/privacy-policy-for-virtual-clothes-try-on-ai/
+Terms of Use: https://muxoai.com/licensed-application-end-user-license-agreement/",2025-05-28T07:00:00Z,2025-08-31T11:31:14Z
+bm,Bermuda,Productivity,6007,20,1369995577,Smart Selangor Parking,Menteri Besar Selangor Incorporated,https://apps.apple.com/bm/app/smart-selangor-parking/id1369995577?uo=4,0.0,0,0,Productivity,"SSP is a convenience for the public in Selangor and Kuala Lumpur. In just 2 steps away, you've paid your parking anytime, anywhere or for hassle free, you can easily pay your parking summons anytime you like. Reload through in-application secure banking or credit card and you can start paying parking or summons at the convenience of your finger tip.
+Features at a glance:
+- Multiple councils support
+- 3 languages support - Bahasa Malaysia, English and Chinese
+- 2-step payment - select vehicle number, select duration
+- Running timer on remaining time
+- Alert when parking time almost expires
+- Digital receipt stores online and can be emailed whenever necessary
+- Credit reload from application directly
+- Store multiple vehicles for convenience
+- Ability to pay multiple vehicles at the same time
+- Will not accidentally pay for parking during non-payment hours or holidays
+- Direct purchase monthly passes up to 6 months
+- Compound payment by scanning the bar code, entering compound number or your vehicle number
+- Transfer credits to your friends
+- Check your location and warn you when you don't pay at the right councils
+- Able to pay 2 hours before parking validity window starts (i.e beginning at 6am but timer starts counting at 8am)",2018-04-23T17:05:44Z,2024-05-08T02:07:38Z
+bm,Bermuda,Productivity,6007,21,909319292,Google Calendar: Get Organised,Google LLC,https://apps.apple.com/bm/app/google-calendar-get-organised/id909319292?uo=4,0.0,4.66667,3,Productivity,"The official Google Calendar app helps you stay organised and plan your day with easy event creation, multiple calendars, customisable views, widgets and tasks.
+
+With Google Calendar, you can:
+• Get events automatically added to your calendar from Gmail, including flight, hotel, concert and restaurant reservations.
+• Go from using Calendar on your iPhone, iPad or Apple Watch to your computer without missing a beat when you're logged in to the same Google Account.
+• Consolidate and view Google Calendar events side by side with other calendars on your device, including Exchange and iCloud.
+• Keep family, friends and colleagues in the loop with shared calendars, so that they can view, add or modify events.
+• Quickly switch between month, week and day views.
+• Stay on top of to-dos by creating and managing tasks alongside your events in Calendar.
+• Personalise your Google Calendar with light or dark mode or by colour-coding your events
+• Always know what's next while on the go with Google Calendar on Apple Watch. Customise your watch face with Calendar complications or add widgets.
+
+Google Calendar is part of Google Workspace, allowing you and your team to easily connect, create and collaborate across all your favourite Google tools. You can:
+• Collaborate in a hybrid work environment by adding a Google Meet video call to a calendar event
+• Get access to professional booking pages to easily book clients and customers*.
+• Schedule meetings with teammates by checking their availability or layering their calendars in a single view
+• Add your working location to your calendar to make it easier for your teammates to schedule meetings with you*.
+• Keep everyone on track for a meeting by attaching meeting notes, pre-read materials and other documents directly to a calendar event.
+• Use Google Calendar with confidence, knowing it's supported by Google's enterprise-level privacy, user safety and data security.
+
+* Requires a Google Workspace or Google One AI Premium subscription",2015-03-10T16:50:41Z,2025-11-17T08:30:22Z
+bm,Bermuda,Productivity,6007,22,842842640,Google Docs,Google LLC,https://apps.apple.com/bm/app/google-docs/id842842640?uo=4,0.0,4.71875,224,Productivity,"Create, edit, and collaborate on online documents with the Google Docs app.
+
+Work together in real time
+• Share documents with your team
+• Edit, comment, and add action items in real time
+
+Create anywhere, anytime—even offline
+• Capture spontaneous ideas on the fly
+• Get things done, even on the go, with offline mode
+• Save time and add polish with easy-to-use templates
+
+Edit and share multiple file types
+• Open a variety of files, including Microsoft Word files, right in Google Docs
+• Frictionless collaboration, no matter which application your teammates use
+• Convert and export files seamlessly
+
+Google Docs is part of Google Workspace: where teams of any size can chat, create, and collaborate.
+Google Workspace paid subscribers have access to additional Google Docs features, including:
+
+Use Gemini in Docs to quickly draft and edit content
+• Draft outlines, blog posts, briefs, and more on the go
+• Improve your writing with AI-powered suggestions
+
+Learn more about Google Docs: https://workspace.google.com/products/docs/
+
+Follow us for more:
+• X: https://x.com/googleworkspace
+• Linkedin: https://www.linkedin.com/showcase/googleworkspace
+• Facebook: https://www.facebook.com/googleworkspace",2014-04-30T16:02:23Z,2025-11-17T16:10:34Z
+bm,Bermuda,Productivity,6007,23,1365309175,Turbo VPN Private Browser,INNOVATIVE CONNECTING PTE.LIMITED,https://apps.apple.com/bm/app/turbo-vpn-private-browser/id1365309175?uo=4,0.0,4.13333,15,Productivity,"Do you want complete security and privacy while browsing? Turbo VPN Private Browser client provides an encrypted network. Now with Turbo VPN Private Browser, you can browse all your favorite websites smoothly and with complete anonymity! 
+
+Turbo VPN Private Browser - a private explorer that hides your true IP address which means your privacy is secure. With high VPN speed, You can protect your online privacy from losing online identity while using public Wi-Fi hotspots at airports, hotels, and coffee shops. Turbo VPN Private Browser protect your privacy with no logs, you can try Premium features (no ads) free for 3 days.
+
+Benefits of using Turbo VPN Private Browser
+In addition to the security provided by Turbo VPN Private Browser, you also get these benefits:
+
+* Ease of Use
+- One tap to connect to VPN proxy server
+- Choose or enter your favorite websites
+- Enjoy smooth and private web browsing
+- Easily find your favorite server
+
+* Safe & Smooth Browse
+- Access websites, apps and videos privately
+- Surf the web anonymously
+- Protect your internet connection
+- Secure your web sessions at WiFi hotspots
+
+* Stable Web Surfing
+- Lots of cloud proxy VPN servers to provide better private web browser service
+- Unlimited VPN proxy ensure super fast VPN speed to access websites
+
+For policy reason, this service is not available in China. We apologize for any inconvenience caused.
+
+Additional Subscription Information
+
+- Subscription may be cancelled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. 
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. 
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+- Offer limited to one 3 day trial per user. After the first 3 days, subscription renews automatically unless cancelled before the end of the 3 day trial. 
+
+Privacy Policy & Terms of Use
+
+Privacy Policy: https://turbovpn.com/ios/privacy_policy.html
+Terms of Use: https://turbovpn.com/terms-of-service
+______________________
+
+Download Turbo VPN Private Browser!
+Enjoy smooth and private browsing at your fingertips now!
+Protect your online privacy by surfing anonymously now!
+We never store or share your IP address.",2018-04-10T16:34:39Z,2025-10-14T02:13:56Z
+bm,Bermuda,Productivity,6007,24,1617429757,"糖果手帐 - 多彩手帐本,电子笔记日记本",楠 董,https://apps.apple.com/bm/app/%E7%B3%96%E6%9E%9C%E6%89%8B%E5%B8%90-%E5%A4%9A%E5%BD%A9%E6%89%8B%E5%B8%90%E6%9C%AC-%E7%94%B5%E5%AD%90%E7%AC%94%E8%AE%B0%E6%97%A5%E8%AE%B0%E6%9C%AC/id1617429757?uo=4,0.0,0,0,Productivity,"糖果手帐，是一款精美有趣的可爱手帐日记本。
+收藏你的小记忆，记录你的小习惯，陪伴你一起成长！
+
+— APP功能 —
+
+1、手帐功能：便捷制作手帐，记录美好生活；
+
+2、贴纸素材：精美好看的素材贴纸，丰富你的日记，
+
+3、习惯添加：自定义添加自己的习惯；
+
+4、心情日历：用可爱的小表情，记录每天的小心情；
+
+5、翻页时钟：多款翻页时钟，习惯养成更简单；
+
+6、打卡明细：展示所有打卡明细和习惯；
+
+7、农历日历：方便查询时间，重要的日子不再错过；
+
+8、密码功能：特色密码功能，保护你的私人领域。
+
+
+此订阅将通过您的iTunes账号自动续订，在当前订阅期结束前24小时内按您的套餐扣除续订费。您可于账户设置处管理或取消自动续订，取消自动续订需在当前订阅期结束前至少提前24小时。如果您的试用还未结束，剩余的天数在您开始订阅后会自动失效。开启订阅，您需要同意以下条款：
+
+服务条款：https://dongnan2022.github.io/posts/dongnan/fuwu
+隐私条款：https://dongnan2022.github.io/posts/dongnan/privacy",2022-04-07T07:00:00Z,2025-06-25T08:09:55Z
+bm,Bermuda,Productivity,6007,25,6483293628,Voicenotes AI Notes & Meetings,Coping Hard Inc.,https://apps.apple.com/bm/app/voicenotes-ai-notes-meetings/id6483293628?uo=4,0.0,4,2,Productivity,"Voicenotes is the easiest way to take notes — whether you’re in a meeting, on a walk, or processing a thought out loud.
+Just hit record. Voicenotes transcribes your speech instantly, summarizes what matters, and lets you ask your AI to recall anything later.
+
+Record everything. Remember anything.
+
+Use Voicenotes to:
+Record meetings, reflections, ideas, and conversations
+Get accurate transcriptions in 100+ languages
+Summarize long recordings into short, clear takeaways
+Ask your AI to remember details, dates, and decisions
+Create content directly from your notes
+Search across everything you’ve recorded
+
+Works across all your devices:
+iOS
+MacOS
+WatchOS
+
+Works with your favorite tools:
+Notion
+Todoist
+Readwise
+WhatsApp (via bot)
+Zapier for custom workflows
+
+Great for journaling, team meetings, personal reminders — or just getting your thoughts down.
+
+Privacy Policy: https://help.voicenotes.com/en/articles/9196879-privacy-policy
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Reddit: https://www.reddit.com/r/Voicenotesai/
+
+X: https://x.com/voicenotesai",2024-04-16T07:00:00Z,2025-11-13T05:12:25Z

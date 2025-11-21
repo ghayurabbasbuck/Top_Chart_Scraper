@@ -1,0 +1,477 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bb,Barbados,Developer Tools,6026,1,899247664,TestFlight,Apple Inc.,https://apps.apple.com/bb/app/testflight/id899247664?uo=4,0.0,4.53846,117,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+bb,Barbados,Developer Tools,6026,2,640199958,Apple Developer,Apple Inc.,https://apps.apple.com/bb/app/apple-developer/id640199958?uo=4,0.0,0,0,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+bb,Barbados,Developer Tools,6026,3,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/bb/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+bb,Barbados,Developer Tools,6026,4,6745097949,v0,"Vercel, Inc",https://apps.apple.com/bb/app/v0/id6745097949?uo=4,0.0,0,0,Developer Tools,"This is your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",2025-10-23T07:00:00Z,2025-11-18T16:33:04Z
+bb,Barbados,Developer Tools,6026,5,1477376905,GitHub,GitHub,https://apps.apple.com/bb/app/github/id1477376905?uo=4,0.0,4.5,2,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+bb,Barbados,Developer Tools,6026,6,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/bb/app/scriptable/id1405459188?uo=4,0.0,0,0,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+bb,Barbados,Developer Tools,6026,7,6740775687,Bloom - Build Apps with AI,"Bloom Labs, Incorporated",https://apps.apple.com/bb/app/bloom-build-apps-with-ai/id6740775687?uo=4,0.0,0,0,Developer Tools,"Make your ideas reality with Bloom. 
+
+Bloom empowers you to instantly create and edit real native mobile apps, no coding, developer accounts, or installs required. Simply describe your idea and Bloom brings it to life, letting you open, preview, and use your custom apps right from your phone. Perfect for creators, designers, entrepreneurs, and anyone who wants to turn ideas into working apps.
+
+With Bloom, your apps are always at your fingertips, ready to launch or share with others in a tap. Experience the fastest, easiest way to build and share mobile apps.",2025-05-15T07:00:00Z,2025-11-13T08:27:43Z
+bb,Barbados,Developer Tools,6026,8,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/bb/app/o-kam-pro/id1602054864?uo=4,0.0,5,1,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+bb,Barbados,Developer Tools,6026,9,1606772645,Google Play Console,Google LLC,https://apps.apple.com/bb/app/google-play-console/id1606772645?uo=4,0.0,0,0,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+bb,Barbados,Developer Tools,6026,10,1340755176,Quick Chat - Web Chat Access,Manani Jyotiben,https://apps.apple.com/bb/app/quick-chat-web-chat-access/id1340755176?uo=4,0.0,2.5,2,Developer Tools,"Quick Chat - Web Chat Access – Elevate Your Messaging Experience
+Since 2018, Quick Chat - Web Chat Access has been the go-to app for iPhone users seeking to enhance their messaging. We've crafted a powerful suite of tools designed to streamline communication, foster positive interactions, and bring unparalleled convenience to your fingertips. With our latest update, we've refined the user interface, strengthened security, and introduced exciting new features that make managing your messages easier and more enjoyable than ever.
+Key Features
+* Seamless Synchronization – Instantly sync your iPhone with messaging services using a simple QR code scan. Our effortless setup ensures you can start enjoying your messaging experience without delay.
+* AI Chatbot Assistant – Engage with our intelligent chatbot to help you manage your messages more efficiently. Whether you need quick answers, reminders, or help with organizing conversations, the AI assistant is ready to assist 24/7.
+* Extensive Status Library – Browse through a vast collection of status updates, from motivational quotes to heartfelt messages. Perfect for sharing across your messaging apps and social media platforms.
+* Custom Chat Creation – Craft personalized chat conversations to entertain, inspire, or engage your social network in creative ways. Let your imagination run wild!
+* Stylish Text with Creative Fonts – Make your messages stand out with unique fonts that add personality and flair to your chats. Express yourself like never before.
+* Secure Image-to-Text Conversion – Utilize our offline OCR technology to extract text from images without uploading data to the cloud, ensuring complete privacy and data security.
+* Advanced Security Options – Protect your messages with passcode and biometric authentication. Keep your conversations secure and accessible only to you.
+* Promoting Positive Communication – We foster a safe and supportive messaging environment, encouraging respectful and meaningful interactions.
+How It Works
+1. Open Quick Chat - Web Chat Access on your iPhone to display the QR code.
+2. Use another device to scan the QR code and sync your messaging service effortlessly.
+Feedback & Support
+We love hearing from you! If you're enjoying Quick Chat - Web Chat Access, please consider leaving us a rating. For questions or suggestions, reach out to us directly through the app—we're here to help.
+Streamline your messaging with Quick Chat - Web Chat Access—where security, creativity, and convenience come together.
+Privacy & Security
+Your privacy is our top priority. Quick Chat - Web Chat Access does not collect, store, or share any user data. All data related to your usage of the app, including downloads and interactions, is stored locally on your device and is never transmitted to external servers.
+Disclaimer:
+Quick Chat - Web Chat Access is an independent app and is not affiliated with WhatsApp Inc. or any other third-party platforms. Our app is designed to enhance your messaging experience. We encourage users to respect privacy and copyright when sharing content. Always obtain permission before reusing content from downloaded statuses.",2018-01-31T11:13:46Z,2025-02-28T17:02:54Z
+bb,Barbados,Developer Tools,6026,11,1234793120,App Store Connect,Apple Inc.,https://apps.apple.com/bb/app/app-store-connect/id1234793120?uo=4,0.0,0,0,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+bb,Barbados,Developer Tools,6026,12,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/bb/app/expo-go/id982107779?uo=4,0.0,4,1,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+bb,Barbados,Developer Tools,6026,13,6742786598,iProxy - Sys admin tools,"N-LAB, OOO",https://apps.apple.com/bb/app/iproxy-sys-admin-tools/id6742786598?uo=4,0.0,0,0,Developer Tools,"iProxy: privacy and speed in one app
+
+Enjoy secure and anonymous internet browsing with iProxy!
+
+-Protestion First:
+iProxy hides your IP address, blocks trucks, and shields you from malicious therapies. Your personal data repair security guard.
+
+-Privacy Without Compromises:
+Working, traveling, or relaxing? Stay connected, stream content, and chat securely — with zero risk to your digital safety.
+
+-Compatibility & Versatility:
+Works on all iOS devices and supports popular protocols (HTTP, HTTPS, SOCKS5). Seamlessly integrates with browsers, apps, and cloud services.",2025-03-12T07:00:00Z,2025-08-25T17:20:04Z
+bb,Barbados,Developer Tools,6026,14,1063100471,Tutorials for iOS programming,发展 李,https://apps.apple.com/bb/app/tutorials-for-ios-programming/id1063100471?uo=4,0.0,0,0,Developer Tools,"WHAT IS XCODE AND SWIFT TUTORIALS? 
+
+WHAT IS XCODE AND SWIFT TUTORIALS brings you simple, funny, interactive learning app for Xcode and Swift. 
+The app teaches you about each of the features of Xcode and show you how to use them in detail. With candid, jargon-free advice and step-by-step guidance, you’ll get everything from the core aspects of working to advanced techniques for refined workflows and professional results. It's like having your own personal tutor teaching you the newest version of Xcode. You'll learn how to express yourself and create great Apps quickly and directly! It’s the first and only app to bring the whole process together in such a clear, concise, and interactive way. 
+There is no faster, more straight-to-the-point, or more fun way to learn Xcode than with this app. 
+
+In addition to the Interactive-Mode, app supports the Inspector-Mode, it converts the app to be 20 hours video tutorials, a great added value! 
+
+
+WHAT IS IN XCODE AND SWIFT TUTORIALS? 
+
+XCODE AND SWIFT TUTORIALS includes 1146 self-paced lessons that allow you to progress at your own speed(tip:The first lesson teach you how to use the app): 
+- Get familiar with the Xcode + Swift + Objective-C 
+- Discover all the things you can do with the UIControls 
+- Explore the use of UIView, UIViewController 
+- Find out how to make a fantastic animation 
+- Learn how to get the app version, device font list 
+- Steps for creating POST/GET HTTP Request 
+- Cool things to do with UITableViews 
+- Details how to save your data in the device 
+- Shortcuts, tricks, and tips that let you work smarter and faster 
+- A whole chapter on how to work with music, movie, animation 
+- UITapGestureRecognizer Single Tap, Double Tap, Long Press 
+- Instructions for using simulator 
+- Debugging your app 
+- Details how to Work with SQLIte and NSKeyedArchiver 
+- Explore the use of property list file 
+- The newest and coolest features of Xcode
+- Plus, there are so many other things throughout the app that you’ll be bursting with new ideas! Have fun discovering! 
+
+
+WHO IS INTERACTIVE TUTORIALS FOR XCODE FOR? 
+
+Ever wonder how that Great Apps was created, or how they created that cool mobile games? Or maybe you just want to know how to do some really awesome stuff in Xcode. Well, then, this app is for you! 
+Whether you’re a programmer, designer, or even an artist, there’s something here for you. 
+
+[Products]
+Interactive Tutorials for Photoshop, Illustrator
+https://itunes.apple.com/us/app/id794405356
+
+Interactive Tutorials for Excel, Word and Powerpoint
+https://itunes.apple.com/us/app/id1090726089
+
+Interactive Tutorials for Photoshop Script
+https://itunes.apple.com/us/app/id987231882
+
+
+[Help? Comments? Suggestions? Contact us]
+Email:tapinfinity@gmail.com",2015-12-12T01:00:12Z,2025-07-08T12:12:00Z
+bb,Barbados,Developer Tools,6026,15,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/bb/app/termius-modern-ssh-client/id549039908?uo=4,0.0,5,2,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-09T21:25:26Z
+bb,Barbados,Developer Tools,6026,16,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/bb/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,5,1,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+bb,Barbados,Developer Tools,6026,17,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/bb/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,0,0,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+bb,Barbados,Developer Tools,6026,18,1552567648,App Reviews - iOS & Android,David Ochmann,https://apps.apple.com/bb/app/app-reviews-ios-android/id1552567648?uo=4,0.0,0,0,Developer Tools,"Welcome to App Reviews, your all-in-one solution for staying on top of user feedback across the App Store and Google Play. Harness the power of insightful reviews with a suite of features designed to make app monitoring seamless and efficient./n/nKey Features:/n/nAUTOMATIC REVIEW TRANSLATIONS/nBreak language barriers effortlessly. Our app automatically translates user reviews, ensuring you understand and respond to feedback from around the globe./n/nAPP STORE & PLAY STORE SUPPORT/nStreamline your feedback analysis. Access and manage reviews from both the App Store and Google Play Store in one centralized location./n/nPODCAST REVIEW SUPPORT/nDive deeper into listener insights. Engage with your audience by monitoring shows feedback./n/nSTANDBY WIDGET SUPPORT/nStay informed at a glance. The StandBy Widget keeps you updated on the latest reviews right from your lock screen, providing instant insights without opening the app./n/nSHARE YOUR SETUP THROUGH AND APP CLIP/nShare and collaborate effortlessly. With App Clips, you can easily share your review inbox setup with team members, fostering collaboration and ensuring everyone is on the same page./n/nIMAGE SHARING OF REVIEWS/nSee the bigger picture. Users often include screenshots in their reviews; now you can too. Share and discuss user-provided images for a comprehensive understanding of their experiences./n/nFILTER SUGGESTIONS BASED ON ML ANALYTICS /nLeverage the power of machine learning. Our app analyzes reviews and suggests filters to help you prioritize and focus on the most critical user sentiments./n/nNOTIFICATION UPDATES/nNever miss an important review. Receive real-time notifications for new reviews, allowing you to stay proactive in addressing user concerns and celebrating positive feedback./n/nDownload App Reviews now and take control of your app's reputation. Turn user feedback into actionable insights and enhance your app's user experience like never before. Your success starts with understanding, and App Reviews is here to help you every step of the way.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2021-02-18T08:00:00Z,2025-11-11T20:48:12Z
+bb,Barbados,Developer Tools,6026,19,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/bb/app/a-shell-mini/id1543537943?uo=4,0.0,0,0,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+bb,Barbados,Developer Tools,6026,20,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/bb/app/ish-shell/id1436902243?uo=4,0.0,0,0,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+bb,Barbados,Developer Tools,6026,21,6751625515,VibeCode - AI Code Generator,Passio Technology Limited,https://apps.apple.com/bb/app/vibecode-ai-code-generator/id6751625515?uo=4,0.0,0,0,Developer Tools,"VibeCode AI – Build Websites Instantly with AI
+Bring your website ideas to life through natural conversation. VibeCode AI introduces Vibe Coding, a simple and intuitive way to create websites without learning complex programming. Just describe what you want, and the AI builds it for you.
+
+What You Can Do with VibeCode AI
+- Chat-to-Website: Describe your idea and instantly generate a functional website.
+- Remix & Customize: Explore community websites, modify them, and make them your own.
+
+Why Choose It
+- Save time and skip complicated coding steps.
+- Ideal for students, creators, and entrepreneurs who want quick results.
+- Focus on creativity while AI handles the technical details.
+- Perfect for prototyping, personal projects, or learning web design concepts.
+
+Get Started Today
+ Turn your ideas into live websites in minutes. With VibeCode AI, creating a website is as easy as chatting with a friend.
+
+A subscription is required to access all features.
+Automatic subscription service instructions：
+1. Subscription service: VibeCode Pro（1 Month / 1 Week）
+2. Subscription price: 
+- VibeCode Pro Weekly: $24.99
+- VibeCode Pro Monthly: $89.99
+You will be charged in your local currency at the prevailing exchange rate as defined by iTunes.
+3. Payment: Subscriptions can be managed by the user, and the payment will be credited to the iTunes account after the user confirms the purchase and payment.
+4. Renewal: Apple's iTunes account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period.
+5. Unsubscribe: please open the ""Settings"" section of your Apple phone 24 hours before the expiration of the current subscription period, enter the ""iTunes Store and App Store"" section, click on ""App ID"", select ""View Apple ID"", enter the ""Account Settings"" page, click ""Subscribe"", and choose to unsubscribe. If you do not unsubscribe at least 24 hours before the end of the subscription period, your subscription will be automatically renewed.
+
+Privacy Policy：https://app.passiohk.com/help/VibeCode/PrivacyPolicy
+Terms of Use：https://app.passiohk.com/help/VibeCode/TermsOfUse
+
+We value your feedback and are always working to improve.
+ Feel free to reach out to us at support@passiohk.com.",2025-09-01T07:00:00Z,2025-09-01T09:32:49Z
+bb,Barbados,Developer Tools,6026,22,1663675754,GDevelop - Create & Play Games,GDEVELOP FRANCE,https://apps.apple.com/bb/app/gdevelop-create-play-games/id1663675754?uo=4,0.0,4,1,Developer Tools,"Play a growing world of quirky, joyful indie games.
+Discover, play and support games made by independent creators from around the world... and create your own!
+
+Play and help shape the next indie gem:
+- Unlimited indie games instantly in-app, no install needed
+- Sharing feedback with creators
+- Explore new games every week, from around the world
+
+Every game in the app was built with GDevelop: the no-code and AI powered, open-source game engine used by thousands of creators, artists, and independent developers.
+Start exploring. Play something small. Or weird. Or wonderful.
+
+Create your own games. Or play any game you're dreaming of!
+
+It's fast, easy, and no technical knowledge is required to get started.
+Try it, or get a GDevelop subscription to unlock every feature!
+
+- Explore dozens of game templates or start from scratch.
+- Use AI to help you build your game step by step.
+- Use your own characters, or choose from a library of pre-made objects such as characters, animations, sounds, and music.
+- Quickly add pre-made logic to your game objects with GDevelop's Behaviors.
+- Write game logic with GDevelop's innovative event system based on ""if / then"" actions and conditions.
+- Publish your game in a few seconds and share it with your friends, colleagues, or customers.
+- Allow players to submit their scores with ready-to-use leaderboards or make online multiplayer games.
+
+Dozens of thousands of games are made every month with GDevelop.
+Unleash your creativity, and create all kinds of games: platformers, shoot’em up, strategy, 8-bit, or hyper-casual games... the sky is the limit.
+
+GDevelop is a powerful game engine that will transform you into a game designer:
+- Add explosions and effects with particles.
+- Use visual effects (""shaders"").
+- Pathfinding and advanced movements (bounce, elliptic movement, screen wrap, projectiles...).
+- Advanced rendering engine that can handle pixel-art games, modern 2D games, 2.5D isometric games and 3D games.
+- Text objects for scores, dialogues, with optional typewriter effects.
+- Transitions and smooth movement for objects.
+- Leaderboards and Real-time Multiplayer.
+- Platformer engine.
+- Realistic 2D and 3D physics engine.
+- Sound effects and music handling.
+- Ready-to-use objects for your game interface: text input, buttons, joysticks, progress bars...
+- Complete documentation available for each feature.
+- Dozens of extensions that give new behaviors, new actions, and new conditions: checkpoints, object shaking, 3D flip effects...
+
+GDevelop makes game development easy, even for those with no prior experience.
+Download the app and join a community of 400k+ monthly creators: gamers, hobbyists, teachers, and professionals.
+GDevelop's unique design makes game creation fast and fun!
+
+Our Terms & Conditions: https://gdevelop.io/page/terms-and-conditions
+Our Privacy Policy: https://gdevelop.io/page/privacy-policy",2023-04-10T07:00:00Z,2025-11-05T20:33:21Z
+bb,Barbados,Developer Tools,6026,23,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/bb/app/device-monitor/id1522870046?uo=4,0.0,5,2,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+bb,Barbados,Developer Tools,6026,24,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/bb/app/userscripts/id1463298887?uo=4,0.0,0,0,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+bb,Barbados,Developer Tools,6026,25,6746490337,HTML Editor +,Yan Kin LEUNG,https://apps.apple.com/bb/app/html-editor/id6746490337?uo=4,0.0,0,0,Developer Tools,"Discover the ultimate HTML Editor and Live Preview app, designed for beginners and developers alike! Write, preview, and share your HTML code seamlessly on your iOS device. Whether you're learning HTML, prototyping web designs, or experimenting with code on the go, this app provides a sleek and intuitive platform to bring your ideas to life.
+
+Features
+
+- Real-Time Preview: Instantly see your HTML code rendered in a live web view as you type.
+
+- Flexible View Modes: Choose between Split View (editor and preview side-by-side), Editor Fullscreen, or Preview Fullscreen for a tailored coding experience.
+
+- Easy Sharing: Share your HTML creations with a single tap via email, messages, or other apps.
+
+- Persistent Storage: Your code is automatically saved, so you can pick up right where you left off.
+
+- Clean Interface: A minimalist design with a focus on usability, perfect for coding on the go.
+
+- Download now and start coding HTML anywhere, anytime!",2025-05-29T07:00:00Z,2025-08-05T02:48:23Z

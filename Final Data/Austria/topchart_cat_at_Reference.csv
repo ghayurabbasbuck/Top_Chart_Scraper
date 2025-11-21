@@ -1,0 +1,895 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+at,Austria,Reference,6006,1,414706506,Google Übersetzer,Google LLC,https://apps.apple.com/at/app/google-%C3%BCbersetzer/id414706506?uo=4,0.0,4.06696,1135,Reference,"Übersetzungen in bis zu 249 Sprachen. Die Funktionsunterstützung variiert je nach Sprache:
+• Texte: Texte über die Tastatur eingeben und übersetzen
+• Offline: Ohne Internetverbindung übersetzen
+• Kamera-Sofortübersetzung: Texte in Bildern sofort übersetzen, indem du die Kamera darauf richtest
+• Fotos: Text in aufgenommenen oder importierten Fotos übersetzen
+• Spracheingabe: Gesprochene Wörter und Wortgruppen übersetzen
+• Unterhaltungen: zweisprachige Unterhaltungen direkt übersetzen
+• Transkribieren: Gesprochene Texte in anderen Sprachen durchgängig und nahezu in Echtzeit übersetzen
+• Handschrift: Buchstaben und andere Zeichen handschriftlich eingeben, anstatt die Tastatur zu verwenden
+• Wortschatz: Übersetzungen von Wörtern und Sätzen zur künftigen Verwendung markieren und speichern
+
+Hinweis zu Berechtigungen:
+• Mikrofon für die Funktion „Live-Dolmetscher“
+• Kamera für die Übersetzung von Texten mit der Kamera
+• Fotos für das Importieren von Fotos von deiner Fotogalerie
+
+Es werden Übersetzungen zwischen folgenden Sprachen unterstützt:
+Abchasisch, Aceh, Acholi, Afar, Afrikaans, Albanisch, Alur, Amharisch, Arabisch, Armenisch, Aserbaidschanisch, Assamesisch, Awadhi, Awarisch, Aymara, Balinesisch, Bambara, Baoulé, Baschkirisch, Baskisch, Belarussisch, Belutschi, Bemba, Bengalisch, Betawi, Bhojpuri, Bikol, Birmanisch, Bosnisch, Bretonisch, Bulgarisch, Burjatisch, Cebuano, Chamorro, Chichewa, Chinesisch (traditionell), Chinesisch (vereinfacht), Chuukesisch, Dänisch, Dari, Deutsch, Dhivehi, Dinka, Dioula, Dogri, Dombe, Dzongkha, Englisch, Esperanto, Estnisch, Ewe, Färöisch, Fidschianisch, Filipino, Finnisch, Fon, Französisch, Französisch (Kanada), Friesisch, Fulfulde, Furlanisch, Ga, Galizisch, Georgisch, Griechisch, Guarani, Gujarati, Haitianisch, Hakha Chin, Hausa, Hawaiisch, Hebräisch, Hiligaynon, Hindi, Hmong, Iban, Igbo, Ilokano, Indonesisch, Inuktitut (lat. Alphabet), Inuktut (Silbenschrift), Irisch, Isländisch, Italienisch, Jakutisch, Jamaikanisches Kreolisch, Japanisch, Javanisch, Jiddisch, Jingpo, Kalaallisut, Kannada, Kantonesisch, Kanuri, Kapampangan, Karo-Batak, Kasachisch, Katalanisch, Kekchí, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kirgisisch, Kirundi, Kituba, Kokborok, Komi, Konkani, Koreanisch, Korsisch, Kreolisch (Mauritius), Krimtatarisch (Kyrillisch), Krimtatarisch (lat. Alphabet), Krio, Kroatisch, Kurdisch (Kurmandschi), Kurdisch (Sorani), Lao, Latein, Lettgallisch, Lettisch, Ligurisch, Limburgisch, Lingala, Litauisch, Lombardisch, Luganda, Luo, Luxemburgisch, Maduresisch, Maithili, Makassar, Malagasy, Malaiisch (Jawi), Malayalam, Malaysisch, Maltesisch, Mam, Manx, Maori, Marathi, Marshallesisch, Marwari, Mayathan, Mazedonisch, Meitei (Manipurisch), Minangkabauisch, Mizo, Mongolisch, N’Ko, Nahuatl (Ost-Huasteca), Ndau, Ndebele (Süd), Nepal Bhasa (Newari), Nepalesisch, Niederländisch, Nord-Sotho, Norwegisch, Nuer, Odia (Oriya), Okzitanisch, Oromo, Ossetisch, Pangasinensisch, Panjabi (Gurmukhi), Panjabi (Shahmukhi), Papiamentu, Paschtu, Persisch, Polnisch, Portugiesisch (Brasilien), Portugiesisch (Portugal), Quechua, Riograndenser Hunsrückisch, Romani, Rumänisch, Russisch, Samisch (Nord), Samoanisch, Sango, Sanskrit, Santali (lat. Alphabet), Santali (Ol Chiki), Schlesisch, Schottisch-Gälisch, Schwedisch, Serbisch, Sesotho, Setswana, Seychellenkreol, Shan, Shona, Simalungun-Batak, Sindhi, Singhalesisch, Siswati, Sizilianisch, Slowakisch, Slowenisch, Somali, Spanisch, Sundanesisch, Susu, Swahili, Tadschikisch, Tahitianisch, Tamazight, Tamazight (Tifinagh), Tamil, Tatarisch, Telugu, Tetum, Thailändisch, Tibetisch, Tigrinya, Tiv, Toba-Batak, Tok Pisin, Tongaisch, Tschechisch, Tschetschenisch, Tschiluba, Tschuwaschisch, Tsonga, Tulu, Tumbuka, Türkisch, Turkmenisch, Tuwinisch, Twi, Udmurtisch, Uigurisch, Ukrainisch, Ungarisch, Urdu, Usbekisch, Venda, Venetisch, Vietnamesisch, Walisisch, Waray-Waray, Wiesenmari, Wolof, Xhosa, Yoruba, Zapotekisch, Zulu",2011-02-08T18:59:55Z,2025-11-18T17:48:56Z
+at,Austria,Reference,6006,2,1552407475,DeepL Übersetzer,DeepL SE,https://apps.apple.com/at/app/deepl-%C3%BCbersetzer/id1552407475?uo=4,0.0,4.81792,2098,Reference,"- Echtzeitübersetzung per Kamera: Richten Sie einfach Ihre Kamera auf einen Text, um ihn sofort übersetzen zu lassen (erfordert iOS 15).
+- Fotoübersetzung: Übersetzen Sie Text in aufgenommenen oder importierten Fotos.
+- Diktat: Lassen Sie übersetzen, was Sie sagen.
+- Text-to-Speech: Lassen Sie sich den übersetzten Text laut vorlesen.
+- Dokumentübersetzung: Übersetzen Sie Text aus Dateien.
+- Schnelle Erkennung: Die Übersetzung wird direkt beim Tippen angezeigt.
+- Alternative Übersetzungen: Lassen Sie sich verschiedene Optionen für einzelne Wörter oder Redewendungen anzeigen.
+- Gespeicherte Übersetzungen: Speichern Sie Wörter oder Redewendungen für die künftige Verwendung.
+- Verlauf: Über den Verlauf können Sie frühere Übersetzungen leicht wiederfinden, bearbeiten und weiterverwenden.
+- Lateinische Umschrift: Lassen Sie sich z. B. japanische oder russische Übersetzungen in lateinischen Zeichen anzeigen.
+- Glossarfunktion: Legen Sie bestimmte Übersetzungen für wichtige Begriffe fest (nur mit kostenpflichtigem Paket).
+- Anredeform: Wählen Sie zwischen formeller oder informeller Anredeform (nur mit kostenpflichtigem Paket verfügbar).
+- Handschrifterkennung: Geben Sie Zeichen und Wörter handschriftlich ein, anstatt sie einzutippen (verfügbar auf dem iPad).
+- DeepL Write: Erhalten Sie intelligente Verbesserungsvorschläge, mit denen Sie mühelos klare, fehlerfreie und überzeugende Inhalte verfassen können.
+
+
+Ob die Funktion unterstützt wird, hängt von der Sprache ab. Derzeit verfügbar: Acehnesisch, Afrikaans, Albanisch, Arabisch, Aragonesisch, Armenisch, Aserbaidschanisch, Assamesisch, Aymara, Baschkirisch, Baskisch, Belarussisch, Bengalisch, Bhojpuri, Bosnisch, Bretonisch, Bulgarisch, Birmanisch, Cebuano, Chinesisch (vereinfacht)*, Chinesisch (traditionell)*, Dänisch, Dari, Deutsch*, Englisch (amerikanisch)*, Englisch (britisch)*, Esperanto, Estnisch, Finnisch, Französisch*, Galicisch, Georgisch, Griechisch, Guarani, Gujarati, Haitianisch-Kreolisch, Hausa, Hebräisch, Hindi, Igbo, Indonesisch, Irisch, Isländisch, Italienisch*, Japanisch*, Javanisch, Kantonesisch, Kapampangan, Kasachisch, Katalanisch, Konkani, Koreanisch*, Kroatisch, Kurdisch (Kurmandschi), Kurdisch (Sorani), Kirgisisch, Latein, Lettisch, Lingala, Litauisch, Lombardisch, Luxemburgisch, Malagasy, Malaiisch, Maithili, Maltesisch, Maori, Marathi, Mazedonisch, Mongolisch, Nepali, Niederländisch, Norwegisch (Bokmål), Okzitanisch, Pangasinensisch, Paschtu, Persisch, Polnisch, Portugiesisch*, Portugiesisch (brasilianisch)*, Quechua, Rumänisch, Russisch, Sanskrit, Serbisch, Setswana, Sizilianisch, Slowakisch, Slowenisch, Spanisch*, Spanisch (lateinamerikanisch), Sundanesisch, Suaheli, Schwedisch, Tadschikisch, Tagalog, Tamil, Tatarisch, Telugu, Tschechisch, Tsonga, Türkisch, Turkmenisch, Ukrainisch, Ungarisch, Urdu, Usbekisch, Vietnamesisch, Walisisch, Wolof, Xhosa
+* Auch verfügbar für DeepL Write 
+
+Kostenloser Download – die wichtigsten Funktionen stehen Ihnen kostenfrei zur Verfügung.
+
+- Für erweiterte Übersetzungsfunktionen benötigen Sie ein DeepL‑Konto.
+- Sie können sich per SSO beim Teamkonto Ihrer Organisation anmelden.
+- Für den Zugriff auf alle Funktionen benötigen Sie möglicherweise ein kostenpflichtiges DeepL-Paket.
+
+Allgemeine Geschäftsbedingungen: https://www.deepl.com/app-terms
+Datenschutzerklärung: https://www.deepl.com/privacy
+DeepL-Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+at,Austria,Reference,6006,3,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/at/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.59016,61,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+at,Austria,Reference,6006,4,1634551626,CoinSnap: Münzwert bestimmen,Next Vision Limited,https://apps.apple.com/at/app/coinsnap-m%C3%BCnzwert-bestimmen/id1634551626?uo=4,0.0,4.72286,1566,Reference,"Mit über 300.000 verschiedenen Münztypen, einer Erkennungsgenauigkeit von über 99 % und einer KI-gestützten Datenbank ist CoinSnap der ideale Partner für Münzliebhaber weltweit. Ob es um seltene Fehlprägungen, historische Münzen oder Sammlerstücke geht – oder einfach darum, die eigene Münzsammlung digital zu organisieren: CoinSnap eröffnet Ihnen die faszinierende Welt der Numismatik.
+
+Hauptmerkmale:
+KI-gestützte Münzerkennung
+Erkennen Sie Münzen aus aller Welt im Handumdrehen – einfach per Schnappschuss oder Foto aus Ihrem Fotoalbum. Dank einer umfangreichen Datenbank mit über 240.000 alten und neuen Münztypen aus der ganzen Welt sowie einer hocheffizienten KI-Bilderkennungstechnologie mit über 99 % Genauigkeit erhalten Sie präzise Bestimmungsergebnisse – sowohl zu Hause als auch unterwegs.
+
+Detaillierte Münzinformationen
+Erhalten Sie umfassende Informationen zu Ihren Münzen, darunter geschätzte Werte, Künstler, Ausgabeland, Prägejahr, Seltenheitsgrad, Varianten, Materialien, Maße und viele weitere interessante Details. Münzsammler haben zudem die Möglichkeit, ihr Wissen durch unsere umfangreichen Münzenzyklopädien weiter zu vertiefen.
+
+Professionelle Münzanalyse
+Profitieren Sie von der Expertise unserer erfahrenen Numismatiker, die Ihnen helfen, Fehlprägungen sowie seltene Münzen zu identifizieren. Durch detaillierte Analysen und geschätzte Preise, die auf aktuellen Marktwerten basieren, erhalten Sie wertvolle Einblicke in den Wert Ihrer Münzen.
+
+Intelligente Sammlungsverwaltung
+Einfache Verwaltung Ihrer Münzsammlung. Exportieren und teilen Sie Ihre persönliche Sammlung bequem mit anderen. Organisieren Sie Ihre Münzen nach Serien, Ländern oder Nennwert und behalten Sie den aktuellen Gesamtwert Ihrer Sammlerstücke immer im Blick.
+
+Warum CoinSnap wählen?
+Blitzschnelle und präzise Münzerkennung: Erhalten Sie Bestimmungsergebnisse mit über 99% Genauigkeit.
+Umfassende Datenbank: Entdecken Sie historische und moderne Münzen aus der ganzen Welt.
+Die Rundum-Sorglos-Lösung: Profitieren Sie von einer integrierten Lösung zur Identifikation, Bewertung und Verwaltung Ihrer Sammlung.
+ 
+Über CoinSnap Premium
+
+-Abonnementname: CoinSnap Premium (Jährlich mit Testversion)
+-Abonnementdauer: 1 Jahr (7 Tage Testversion)
+-Abonnementbeschreibung: Alle Premium-Funktionen freischalten.
+
+• Die Zahlung wird bei Kaufbestätigung dem iTunes-Konto belastet
+• Das Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ablauf der aktuellen Periode deaktiviert
+• Das Konto wird innerhalb von 24 Stunden vor Ablauf der aktuellen Periode für die Verlängerung belastet, und die Kosten der Verlängerung werden identifiziert
+• Jeglicher ungenutzte Teil einer kostenlosen Testphase, falls angeboten, verfällt, wenn der Benutzer ein Abonnement für diese Publikation erwirbt, wo zutreffend
+• Abonnements können vom Benutzer verwaltet werden, und die automatische Verlängerung kann nach dem Kauf des Abonnements in den Kontoeinstellungen des Benutzers deaktiviert werden.
+Bitte beachten Sie, dass die Allgemeinen Geschäftsbedingungen sowie unsere Datenschutzrichtlinie gelten.
+Nutzungsbedingungen: https://app-service.coinidentifierai.com/static/user_agreement.html
+Datenschutzrichtlinie: https://app-service.coinidentifierai.com/static/privacy_policy.html
+Kontaktieren Sie uns: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+at,Austria,Reference,6006,5,1036725690,Sprachübersetzer: AI Translate,BP Mobile LLC,https://apps.apple.com/at/app/sprach%C3%BCbersetzer-ai-translate/id1036725690?uo=4,0.0,4.22445,998,Reference,"Sprachübersetzung war noch nie zuvor so leicht! Reisen Sie um die Welt und kommunizieren Sie auf einfache Weise in jedem Land – „Stimm-Übersetzer“ wird unmittelbar übersetzte Redewendungen aussprechen und zwar im Handumdrehen! Sie können im Ausland die Speisekarte in einem schicken Restaurant nicht lesen? Diese Zeiten sind nun vorbei, dank unserer Kamera-Sofort-Übersetzung!
+
+Kommunizieren Sie reibungslos am Flughafen, im Hotel, an der Tankstelle, im Supermarkt oder jedem anderen Ort. Lassen Sie sich Straßen- und Hinweisschilder, Bedienungsanleitungen für im Ausland erworbene Produkte oder auch jedes bereits in ihrem Smartphone gespeicherte Bild sofort übersetzen. Haben Sie Ihren ganz persönlichen Übersetzer immer dabei, um auf alle Übersetzungsanforderungen vorbereitet zu sein.
+
+„Stimm-Übersetzer“ ist eine unverzichtbare Lernhilfe für Kinder und Erwachsene – lernen Sie neue Redewendungen und hören Sie sich die korrekte Aussprache an. 
+
+Fangen Sie jetzt an, „Stimm-Übersetzer“ zu nutzen, und Sie brauchen nie wieder die richtigen Redewendungen im Wörterbuch nachzuschlagen – sagen Sie irgendeine Redewendung und Ihr Dolmetscher wird die Übersetzung laut aussprechen!
+
+Funktionen:
+– Unmittelbare Übersetzung von Echtzeit-Unterhaltungen
+– Verwenden Sie Ihre Kamera für eine Sofort-Übersetzung
+– Übersetzen Sie Text in Fotos und Bilddateien
+– Direktübersetzung beim Eingeben von Nachrichten in jedem Ihrer Lieblingsmessenger
+– Umfassender Offline-Sprachführer
+– Spracherkennung für Text-zu-Text-Modus 
+– Über 100 Sprachen im Sprache-zu-Sprache und Text-zu-Text-Modus
+– Sie können Ihren Text ansagen oder eingeben, um ihn übersetzen zu lassen
+– Intelligenter Text-zu-Text-Modus
+– Beschleunigen Sie Ihre Texteingabe mit Tipp-Hinweisen​
+– Wandeln Sie Texte mit nichtlateinischem Alphabet um
+– Betrachten Sie den Unterhaltungsverlauf
+– Kopieren, einfügen und teilen Sie Übersetzungen mit einer Berührung
+– Lesen Sie den übersetzten Satz laut vor
+– Steuern Sie die Geschwindigkeit der Stimme
+– Männliche und weibliche Stimmen verfügbar 
+– Mensch-zu-Haustier- und Haustier-zu-Mensch-Modus (nur zu Unterhaltungszwecken) Übersetzen Sie das Miauen oder Bellen Ihres Haustieres in Ihre Sprache.
+
+Derzeit werden Sprache-zu-Sprache-Übersetzungen unterstützt:
+
+Arabisch (Saudi-Arabien)
+Katalanisch (Spanien)
+Chinesisch (Vereinfacht)
+Chinesisch (Traditionell)
+Chinesisch (Kantonesisch)
+Tschechisch (Tschechien)
+Dänisch (Dänemark)
+Niederländisch (Niederlande)
+Englisch (Australien)
+Englisch (Kanada)
+Englisch (Indien)
+Englisch (GB)
+Englisch (USA)
+Finnisch (Finnland)
+Französisch (Kanada)
+Französisch (Frankreich)
+Deutsch (Deutschland)
+Griechisch (Griechenland)
+Hebräisch (Israel)
+Hindi
+Italienisch (Italien)
+Japanisch (Japan)
+Koreanisch (Südkorea)
+Norwegisch (Norwegen)
+Polnisch (Polen)
+Portugiesisch (Brasilien)
+Portugiesisch (Portugal)
+Rumänisch (Rumänien)
+Russisch (Russland)
+Slowakisch (Slowakei)
+Spanisch (Mexiko)
+Spanisch (Spanien)
+Schwedisch (Schweden)
+Thailändisch (Thailand)
+Türkisch (Türkei)
+und mehr
+
+Sie können eine kostenlose Probeversion wählen, bei der alle Funktionen verfügbar sind.
+
+ABO MIT UNBEGRENZTEM ZUGANG
+
+• Sie können ein Abo mit unbegrenztem Zugang zu allen Funktionen in „Stimm-Übersetzer“. abschließen. 
+• Abos können je nach Rate auf dem jeweiligen Abonnement-Plan wöchentlich, monatlich, vierteljährlich oder jährlich abgerechnet werden.
+
+Teile des Services werden von Google Translate™ übersetzt.
+
+Datenschutzerklärung: http://bpmob.com/voicetranslator/privacy
+Nutzungsbedingungen: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+at,Austria,Reference,6006,6,396838427,LEO Wörterbuch,LEO GmbH,https://apps.apple.com/at/app/leo-w%C3%B6rterbuch/id396838427?uo=4,0.0,4.13565,258,Reference,"Diese APP bietet kostenlosen Zugriff auf LEOs Wörterbücher, Vokabeltrainer und Foren.
+
+
+Suchst du nach einem Wörterbuch? Bei LEO findest du umfangreiche Wortschätze mit diversen hochwertigen Beispielen, die von unseren Muttersprachlerinnen und Muttersprachlern vertont wurden.
+
+
+Oder möchtest du eine erlernte Sprache vertiefen? Mit unserem kostenlosen Vokabeltrainer kannst du jederzeit im Karteikastensystem lernen.
+
+
+In LEOs Forum kannst du dir zudem Rat zu Sprachfragen holen, die über eine reine Wörterbuchfunktion hinausgehen.
+
+
+Unsere Wörterbücher beinhalten etwa 2.944.000 Einträge, die ständig erweitert werden.
+
+
+
+* Englisch ⇔ Deutsch (840.000 Einträge)
+* Französisch ⇔ Deutsch (280.000 Einträge)
+* Spanisch ⇔ Deutsch (261.000 Einträge)
+* Italienisch ⇔ Deutsch (258.000 Einträge)
+* Chinesisch ⇔ Deutsch (238.000 Einträge)
+* Russisch ⇔ Deutsch (373.000 Einträge)
+* Portugiesisch ⇔ Deutsch (171.000 Einträge)
+* Polnisch ⇔ Deutsch (99.000 Einträge)
+* Englisch ⇔ Spanisch (232.000 Einträge)
+* Spanisch ⇔ Portugiesisch (77.000 Einträge)
+* Englisch ⇔ Französisch (61.000 Einträge)
+* Englisch ⇔ Russisch (54.000 Einträge)
+
+LEOs Wörterbücher können mehr! Zu unseren umfangreichen und ständig erweiterten Übersetzungen bieten wir zusätzlich:
+
+
+* Flexionstabellen (z.B. Plural, Zeitformen etc.)
+* natürliche Aussprache (nicht­ computergeneriert!)
+* Begriffserklärung/Definitionen
+* Grammatik & Etymologie
+
+sowie ergänzende Informationen aus dem Umfeld des Suchbegriffs:
+
+
+* orthographisch ähnliche Wörter
+* mögliche Grundformen flektierter Wörter
+* Forumsdiskussionen, die den Suchbegriff enthalten
+
+
+Vokabeltrainer
+
+
+Mit unserem kostenlosen Vokabeltrainer kannst du dich perfekt auf den nächsten Vokabeltest vorbereiten – oder auf den nächsten Urlaub. Mit einem kostenlosen Benutzerkonto kannst du sofort los legen.
+
+
+* Nutze unsere kostenlosen Wortschätze, unter anderem speziell für Realschulen und Gymnasien
+* Lerne Vokabeln mit LEOs automatischem Karteikastensystem
+* Erstelle deine individuelle Sammlung – ob für die Schule, den Beruf oder den Urlaub
+* Lege deine Lernziele fest und lerne in deinem eigenen Tempo
+* Erweitere langfristig und nachhaltig dein Sprachwissen
+* Keine Begrenzung der Vokabelsammlung – auch in der kostenlosen Version der App!
+
+Forum
+
+
+Im LEO-Forum kannst du dir Rat zu Sprachfragen holen, die über die Wörterbuchfunktion hinausgehen. Um selbst Kommentare im Forum einstellen zu können, brauchst du ein kostenloses LEO-Benutzerkonto.
+
+
+Die APP beinhaltet Werbung, diese lässt sich über eine In-APP-Abogebühr abschalten. Die Nutzungsbedingungen für In-App-Käufe findest du unter https://www.apple.com/legal/itunes/appstore/dev/stdeula 
+
+
+Eine ausführliche Beschreibung aller Funktionen findest Du auf unserer Webseite ­https://www.leo.org",2010-10-14T01:46:54Z,2025-06-04T14:07:08Z
+at,Austria,Reference,6006,7,1672111368,"CoinIn: Münzen Erkennen, Wert",Vortemol Limited,https://apps.apple.com/at/app/coinin-m%C3%BCnzen-erkennen-wert/id1672111368?uo=4,0.0,4.51579,95,Reference,"Sind Sie ein Münzsammler und möchten Ihren neuesten Fund identifizieren? Oder sind Sie zufällig auf eine Münze gestoßen und möchten ihren Wert wissen? Nun, suchen Sie nicht weiter! Wir stellen den neuen Coin Identifier vor – Ihr One-Stop-Shop für alles, was mit Münzen zu tun hat. Mit nur einem Schnappschuss kann unsere App Ihre Münze identifizieren, detaillierte Informationen über ihre Geschichte bereitstellen, den Münzwert schätzen und Sie sogar mit Münzverkäufern und -käufern verbinden. Kein stundenlanges Durchsuchen endloser Münzkataloge oder stundenlanges Durchforsten des Internets mehr. Unsere App macht das Sammeln von Münzen einfach, unterhaltsam und profitabel.
+
+Wichtige CoinIn-Funktionen:
+
+Identifizieren Sie Münzen blitzschnell
+Sie müssen nicht stundenlang in Fachbüchern suchen oder im Internet nach einer visuellen Bestätigung suchen.
+
+Identifizieren Sie über 270.000 Münzen genau
+Unsere große Datenbank enthält mehr als 270.000 Münzen und ermöglicht Ihnen die Identifizierung jeder Art von Münze. Der CoinIn-Scanner berücksichtigt die Art des Materials, den Zeitpunkt der Herstellung und den Zustand der Münze, um Ihnen die genauesten und zuverlässigsten Informationen zu liefern.
+
+Erkennen Sie seltene, ausländische und fehlerhafte Münzen
+Egal, ob Sie zu den erfahrenen Münzsammlern gehören, die auf der Suche nach einem seltenen Edelstein sind, oder ein Neuling, der gerade erst anfängt, bei CoinIn sind Sie an der richtigen Adresse.
+
+Bewerten Sie den Wert der Münzen und verfolgen Sie die Preise in Echtzeit
+Erhalten Sie eine Schätzung der Preise identifizierter Münzen und eine Vorstellung vom Gesamtwert Ihrer Sammlung. Der CoinIn-Finder verwendet eine API, um Ihnen einen Preis-Tracker von Numismatikplattformen zur Verfügung zu stellen, sodass Sie genau wissen, wie viel Ihre Münzen wert sind.
+
+Kaufen und verkaufen Sie Ihre Münzen
+CoinIn verbindet Sie mit Verkäufern und Käufern, sodass Sie Münzen sicher kaufen und verkaufen können.
+
+Verfolgen Sie die Trends beim Münzsammeln
+Bleiben Sie mit der Münzsammlungsserie auf dem Laufenden und fügen Sie als Erster neue Gold- und Metallmünzen zu Ihrem Bestand hinzu.
+
+Erstellen Sie eine personalisierte Online-Sammlung
+Erfassen, speichern und greifen Sie jederzeit und überall direkt in der App auf Ihre Sammlungen zu.
+
+Mit CoinIn können Sie Ihre Münzsammlung in eine Schatzkammer verwandeln – legen Sie noch heute los!
+
+Über das CoinIn-Abonnement:
+- Wenn Sie ein CoinIn-App-Abonnement erwerben, wird die Zahlung nach Bestätigung Ihrem iTunes-Konto belastet.
+- Das Abonnement verlängert sich automatisch, es sei denn, Sie deaktivieren die Option zur automatischen Verlängerung mindestens 24 Stunden vor dem Ende des aktuellen Zeitraums.
+- Die Kosten für die Verlängerung werden innerhalb von 24 Stunden vor Ablauf des aktuellen Zeitraums ermittelt und Ihrem Konto belastet.
+- Wenn ein Teil des angebotenen kostenlosen Testzeitraums nicht genutzt wird, verfällt dieser beim Kauf eines Abonnements für die Publikation.
+- Sie können Ihre Abonnements verwalten und die automatische Verlängerung deaktivieren, indem Sie nach dem Kauf auf Ihre Kontoeinstellungen zugreifen.
+
+Sind Sie bereit, Münzen einfach zu identifizieren? Holen Sie sich CoinIn noch heute!
+
+
+Bitte beachten Sie, dass die Allgemeinen Geschäftsbedingungen sowie unsere Datenschutzerklärung gelten.
+Datenschutzrichtlinie: https://legal.coininapp.com/privacy-policy.html
+Nutzungsbedingungen: https://legal.coininapp.com/terms-of-service.html
+
+Kontaktieren Sie uns: support@coininapp.com",2023-03-16T07:00:00Z,2025-11-14T08:39:59Z
+at,Austria,Reference,6006,8,6738304985,Übersetzer - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/at/app/%C3%BCbersetzer-translate-ai/id6738304985?uo=4,0.0,4.125,32,Reference,"Überwinden Sie Sprachbarrieren mit AI Translator – Ihr Live-Übersetzer in Echtzeit.
+
+Sprechen, scannen und übersetzen Sie jetzt – jederzeit, überall – mit Translate AI, dem ultimativen KI-Übersetzer für Kommunikation, Reisen, Business und Lernen. Egal, ob Sie ein neues Land erkunden oder mit Freunden im Ausland chatten, dieser leistungsstarke Live-Übersetzer hilft Ihnen, alles zu verstehen. Mit modernster KI für Übersetzungen bietet 
+
+Translate AI einen Echtzeit-Stimmenübersetzer, einen KI-Foto-Übersetzer per Kamera, Textübersetzung und ein Offline-Wörterbuch – alles in einer App.
+
+Hauptfunktionen:
+Echtzeit-Stimmen- & Audio-Übersetzer: Erleben Sie fließende Zwei-Wege-Kommunikation. Sprechen Sie natürlich und erhalten Sie sofortige Ergebnisse mit unserer KI-Engine für automatische Übersetzung.
+
+KI-Kamera- & Foto-Übersetzer: Richten Sie Ihre Kamera auf einen beliebigen Text (Menüs, Schilder) und Translate AI wird ihn sofort erkennen und übersetzen. Nutzen Sie unsere KI-Bildübersetzer-Technologie, um die Welt in Ihrer Sprache zu sehen.
+
+KI-Text-Übersetzer: Geben Sie Text ein oder fügen Sie ihn ein, um schnelle, genaue Übersetzungen zu erhalten. Von einzelnen Wörtern bis zu ganzen Sätzen, unser Übersetzer sorgt jedes Mal für Klarheit.
+
+Audio mühelos übersetzen: Der integrierte Audio-Übersetzer macht die mündliche Kommunikation schnell und flüssig.
+
+Unterstützt über 100 Sprachen: Von Englisch, Spanisch und Französisch bis Chinesisch, Japanisch, Türkisch und mehr, Translate AI gibt Ihnen Zugriff auf über 100 Sprachen.
+
+Offline-Wörterbuch: Speichern Sie wichtige Sätze und greifen Sie auch ohne Internet darauf zu.
+
+Warum Translate AI wählen?
+Schneller und intuitiver KI-Übersetzer für Sprache, Text und Bilder
+All-in-One-Live-Übersetzer mit Sprach-, Kamera- und Tippoptionen
+Übersetzen Sie jetzt ohne Verzögerungen oder Komplikationen
+Idealer KI-Chat-Übersetzer für alltägliche Gespräche
+Innovativer Auto-Übersetzer, der Ihre Sprachmuster lernt
+Anwendungsfälle:
+
+Reisen: Navigieren Sie selbstbewusst an neuen Orten. Nutzen Sie Ihren Live-Übersetzer, um Schilder oder Speisekarten sofort zu verstehen.
+
+Business: Erleichtern Sie die globale Kommunikation in Meetings mit Ihrem zuverlässigen KI-Übersetzer.
+
+Lernen: Fördern Sie Ihr Sprachenlernen mit KI-Schnellübersetzungs-Tools.
+
+Tägliche Kommunikation: Nutzen Sie den KI-Chat-Übersetzer für Textnachrichten oder soziale Medien in jeder Sprache.
+Überwinden Sie die Sprachbarriere. Sprechen Sie frei. Übersetzen Sie jetzt. Laden Sie AI Translator - Translate AI noch heute herunter und erkunden Sie die Welt mit Selbstvertrauen.
+
+Datenschutzerklärung: https://heyos.co/privacy 
+Nutzungsbedingungen: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+at,Austria,Reference,6006,9,282935706,Bibel,Life.Church,https://apps.apple.com/at/app/bibel/id282935706?uo=4,0.0,4.90543,19765,Reference,"Es ist schwierig sich auf Gott und Sein Wort zu fokussieren. Deshalb bietet dir die kostenlose YouVersion Bibel App Werkzeuge, mit denen du täglich Gottes Herz suchen kannst: Höre Audio-Bibeln, erstelle Gebete, lerne mit Freunden, erkunde mehr als 2.000 Bibelübersetzungen und vieles mehr. Jetzt herunterladen!
+
+Auf mehr als 400 Millionen Geräten auf der ganzen Welt lesen, hören, schauen und teilen Menschen die Bibel mit der Bibel App. Über 2.000 Bibelübersetzungen in mehr als 1.300 Sprachen. Tausende von Leseplänen, in über 65 Sprachen.
+
+Richte die Bibel App nach deinen Wünschen ein. Greife auf alles online zu oder lade Übersetzungen zur Offline-Nutzung herunter.
+
+Entdecke die Bibel mit deinen engsten Freunden. Teile ehrliche Gespräche über die Schrift mit einer vertrauenswürdigen Gemeinschaft.
+
+Mache Beten zur täglichen Gewohnheit
+- Verwende Gebetskarten, um deine Gebete in der Bibel App zu verfolgen.
+- Organisiere Gebetslisten auf einfache Art und Weise.
+- Halte deine Gebete privat oder teile sie mit Freunden.
+- Feiere beantwortete Gebete mit deinen Bibel App-Freunden.
+
+Entdecke die Bibel
+- Wähle aus tausenden verfügbaren Bibelübersetzungen in über 1.300 Sprachen.
+- Wähle die Oberfläche der Bibel App aus über 60 Sprachen.
+- Wähle aus beliebten Übersetzungen wie der Lutherbibel (DELUT), Hoffnung für alle (HFA), NeÜ Bibel Heute (NBH), Neue Genfer Übersetzung (NGU), Schlachter (SCH) und anderen aus.
+- Offline-Bibeln: Lies, auch wenn du gerade keine Internetverbindung hast (verfügbar für ausgewählte Übersetzungen).
+- Höre Audio-Bibeln und freue dich über die Bedienelemente zum Überspringen, Anpassen der Wiedergabegeschwindigkeit und die Timer-Steuerung. (Hörbibeln sind für ausgewählte Übersetzungen verfügbar und können nicht heruntergeladen werden.)
+
+Verbinde dich mit Freunden
+- Stelle die Schrift in den Mittelpunkt deiner Freundschaften.
+- Schaue dir die Aktivitäten in der Bibel App an. Lies die Notizen, die deine Freunde erstellen, oder die Verse, die sie markieren oder für die sie Lesezeichen anlegen.
+- Erstelle Kommentare um Fragen zu stellen und freue dich über aussagekräftige Konversation in der Bibel App, wenn ihr gemeinsam Gottes Wort studiert.
+
+Lies die Bibel!
+- Tausende von Leseplänen: Andachten und Lesepläne, die dich durch bestimmte Themen, Teile der Bibel oder die gesamte Bibel in einem Jahr führen (sowohl Bibel in einem Jahr als auch die One Jahr® Bible).
+- Sieh dir Videoclips aus „The Bible Project“ dem Film „Jesus“, „The Lumo Project“ oder andere an und teile sie.
+- Durchsuche die Bibel mit Hilfe von Schlagwörtern.
+
+Passe deine Bibel an.
+- Mit Farbschemen kannst du die Bibel App in deiner Lieblingsfarbe erleben.
+- Versbilder verwandeln Bibelverse in teilbare Kunst.
+- Markiere mit benutzerdefinierten Farben - genau wie in einer gedruckten Bibel.
+- Setze Lesezeichen und markiere Abschnitte. Teile sie, lerne sie auswendig und behalte so den Überblick über deine Lieblingsstellen.
+- Teile über soziale Netzwerke, per E-Mail oder SMS/Textnachricht Verse mit deinen Freunden.
+- Erstelle Notizen: Erstelle sie privat, sodass nur du sie sehen kannst, oder erstelle sie öffentlich und teile sie mit Freunden.
+- Cloud-Synchronisierung: Mit einem kostenlosen YouVersion-Konto kannst du alle deine Notizen, Markierungen, Lesezeichen und Lesepläne auf jedem deiner Gerät ansehen.
+- Einfaches Lesen: Passe Einstellungen wie Schriftarten, Abstände und Textgröße an und lies auch im dunklen Modus.
+
+Verbinde dich mit YouVersion
+- Kontaktiere den Support direkt aus der Bibel App.
+- Triff die @youversion Gemeinschaft auf Instagram, Facebook, Twitter, TikTok & Pinterest.
+- Informiere dich auf blog.youversion.com über die neuesten Entwicklungen
+- Greife über bible.com online auf die Bibel zu.
+
+Lade die weltweit beliebteste Bibel App kostenlos herunter und genieße das Bibel-Erlebnis, wie Millionen andere Menschen auch!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+at,Austria,Reference,6006,10,6740403566,Deen Buddy – Koran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/at/app/deen-buddy-koran-chat/id6740403566?uo=4,0.0,4.73737,99,Reference,"Deen Buddy ist dein KI-gestützter Koranbegleiter. Erhalte sofortige Antworten auf Koranfragen, tägliche inspirierende Verse und genaue Gebetszeiten.
+
+KI-Koran-Chat
+• Stelle Fragen rund um den Koran und erhalte KI-gestützte Antworten.
+• Verstehe Bedeutungen, Tafsir und historischen Kontext mit Leichtigkeit.
+• Personalisierte Antworten aus authentischen Quellen.
+
+Tägliche Koranverse
+• Erhalte täglich inspirierende Koranverse.
+• Setze Lesezeichen und teile deine Lieblingsverse ganz einfach.
+• Vertiefe dein Koranverständnis Vers für Vers.
+
+Gebetszeit-Benachrichtigungen
+• Präzise Gebetszeiten basierend auf deinem Standort.
+• Anpassbare Adhan-Benachrichtigungen, damit du kein Gebet verpasst.
+• Unterstützt mehrere Berechnungsmethoden für höchste Genauigkeit.
+
+Warum Deen Buddy wählen?
+• KI-gestützter Koran-Chat für sofortige Erkenntnisse.
+• Tägliche Verse für spirituelle Inspiration.
+• Gebetszeit-Erinnerungen für pünktliches Gebet.
+• Minimalistisches und ablenkungsfreies Nutzererlebnis.
+
+Lade jetzt Deen Buddy herunter und stärke deine Verbindung zum Koran.
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+at,Austria,Reference,6006,11,6738537088,YarnPal – Häkeln für Anfänger,PIXELCELL PTE. LIMITED,https://apps.apple.com/at/app/yarnpal-h%C3%A4keln-f%C3%BCr-anf%C3%A4nger/id6738537088?uo=4,0.0,4.71698,53,Reference,"Tauche ein in die kreative Welt des Häkelns und Strickens! Mit YarnPal meisterst du Häkeln für Anfänger wie ein Profi. Mach einfach ein Foto, folge Häkelanleitung-Schritten und gestalte personalisierte Projekte – jederzeit, überall! 
+
+YarnPal ist dein täglicher Begleiter zum Stricken und Häkeln lernen, mit Tutorials, Mustern und Design-Inspiration. Teste jetzt kostenlos und entdecke eine Welt voller Stiche, Muster und kreativer Möglichkeiten – perfekt für Anfänger und Profis!
+
+Was YarnPal kann:
+1. Foto machen, Masche lernen
+Siehst du eine Masche, die dir gefällt? Mach ein Foto und YarnPal verrät dir ihren Namen und wie sie gearbeitet wird. Neue Maschen zu lernen ist schnell und einfach!
+
+2. Schritt-für-Schritt-Musterhilfe
+Muster zu komplex? Lade es in YarnPal hoch. Die App zerlegt es für dich Schritt für Schritt und hilft dir, deinen Fortschritt im Blick zu behalten. Du kannst sogar das Tempo an deine Bedürfnisse anpassen.
+
+3. Kreative KI-Tools
+• Musterideen erhalten: Brauchst du Inspiration? Lass KI von YarnPal neue Muster für Schals, Tücher oder andere tolle Projekte vorschlagen.
+• Fehler beheben: Dir ist ein Fehler unterlaufen? YarnPal kann ihn finden und dir helfen, ihn zu beheben.
+• Diagramme und Symbole verstehen: Ein Diagramm gibt dir Rätsel auf? YarnPal erklärt die Symbole, damit du folgen kannst.
+
+4. Frag den KI-Trainer
+Hast du eine Frage zum Stricken oder Häkeln? Frag den KI-Trainer einfach alles! Von Grundmaschen bis zu fortgeschrittenen Techniken – erhalte sofort Antworten und Ratschläge.
+
+5. Projekte personalisieren
+Möchtest du etwas Einzigartiges erschaffen? Ändere Größen, Stile und Muster nach deinen Vorstellungen. YarnPal hilft dir, einzigartige Werke zu gestalten.
+
+Für wen ist YarnPal?
+Anfänger: 
+Neu im Stricken oder Häkeln? Mit YarnPal wird das Lernen leicht. Es bietet klare Schritte und Tipps, damit du selbstbewusst starten kannst.
+Hobbyisten: 
+Stricken und Häkeln macht dir bereits Spaß? Nutze YarnPal, um neue Techniken auszuprobieren, knifflige Probleme zu lösen und deine Projekte individuell zu gestalten. Bring deine Fähigkeiten auf ein neues Level!
+Experten: 
+Auch als Fortgeschrittene*r kann dir YarnPal Zeit sparen und neue Ideen liefern. Entwirf bessere Muster, behebe Probleme schneller und bleibe motiviert.
+
+Warum YarnPal?
+Mit YarnPal wird Handarbeit:
+Einfach: Lerne Stiche und Muster ohne Stress.
+Spaßig: Werde kreativ und probiere Neues aus.
+Organisiert: Verfolge deine Projekte und Fortschritte mühelos.
+
+Werde Teil der YarnPal-Community!
+ Tausche dich mit Strickern und Häklern aus, zeige deine Kreationen und finde Inspiration. Mit YarnPal bist du niemals allein beim Handarbeiten.
+
+Starte noch heute mit YarnPal!
+Lade jetzt die Häkel App herunter und entdecke, was du erschaffen kannst. Ob dein erster Schal oder ein komplexes Design – YarnPal begleitet dich bei jedem Schritt. Lass uns gemeinsam etwas Großartiges machen!
+
+[Über YarnPal Premium]
+- Das iTunes-Konto wird nach der Kaufbestätigung mit dem Zahlungsbetrag belastet.
+- Das Abonnement verlängert sich automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor Ende des laufenden Zeitraums deaktiviert.
+- Das Konto wird innerhalb von 24 Stunden vor Ende des laufenden Zeitraums mit dem Zahlungsbetrag für die Verlängerung belastet.
+- Jeder nicht genutzte Teil einer kostenlosen Probezeit, falls angeboten, verfällt, wenn der Nutzer ein Abonnement erwirbt.
+- In den Abonnement-Einstellungen bei iTunes kann der Nutzer seine Abonnements verwalten und die automatische Verlängerung deaktivieren.
+
+Nutzungsbedingungen: https://app-service.knit-ai.com/static/EuropeanUnion/user_agreement.html
+Datenschutzrichtlinie: https://app-service.knit-ai.com/static/EuropeanUnion/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+at,Austria,Reference,6006,12,548055880,Der Die Das Artikel,L Mikusiak,https://apps.apple.com/at/app/der-die-das-artikel/id548055880?uo=4,0.0,4.79091,1100,Reference,"Beherrschen Sie Artikel deutscher Substantive. Verbessern Sie Ihre Leistung im Deutschunterricht und / oder beeindrucken Sie Ihre deutsch sprechenden Freunde.
+
+SUCHEN
+Tippen Sie die ersten Buchstaben eines Wortes ein und der richtige Artikel erscheint umgehend. Die App enthält ein Wörterbuch mit mehr als 18.000 Wörtern.
+Optional können Sie die Deklination, Übersetzung oder Definition des Wortes anzeigen lassen.
+
+FAVORITEN
+Um sich auf problematische Wörter zu konzentrieren, fügen Sie diese zu Ihren Favoriten hinzu, um später darauf zurückgreifen zu können.
+
+REGELN
+Obwohl die Artikel willkürlich erscheinen, stimmt das nicht ganz. 
+Lernen Sie nützliche Regeln und Richtlinien zur Bestimmung der Artikel.
+
+SPIEL
+Bestimmen oder erraten Sie die Artikel der Substantive, die in zufälliger Reihenfolge angezeigt werden.",2012-11-02T01:44:45Z,2025-07-17T07:09:43Z
+at,Austria,Reference,6006,13,1137963102,"Muslim: Gebetszeiten, Qibla",Assistant App Teknoloji Anonim Sirketi,https://apps.apple.com/at/app/muslim-gebetszeiten-qibla/id1137963102?uo=4,0.0,4.77032,3248,Reference,"Muslim Assistant: Ihr täglicher islamischer Begleiter – Spezial Ramadan-Edition
+
+Die Muslim Assistant-App wurde entwickelt, um die täglichen Bedürfnisse von Muslimen zu erfüllen und bietet in der gesegneten Zeit des Ramadan eine Reihe von speziellen Funktionen, die Sie spirituell bereichern.
+
+Hauptfunktionen für den Ramadan:
+Gebetszeiten: Präzise Gebetszeiten basierend auf Ihrem Standort mit wunderschönen Ramadan-Designs. Erhalten Sie spezielle Benachrichtigungen für Suhoor (Frühmahlzeit) und Iftar (Fastenbrechen).
+
+Qibla Finder: Finden Sie die exakte Richtung zur Kaaba mit einem Ramadan-inspirierten Kompass, verziert mit Mondsicheln und Laternen, auch offline.
+
+Der Heilige Koran: Lesen und hören Sie den Koran mit Ramadan-Hintergründen. Setzen Sie sich tägliche Rezitationsziele für ein spirituelles Ramadan-Erlebnis.
+
+Hadith des Tages: Erhalten Sie täglich inspirierende Hadithe, die speziell für den Ramadan ausgewählt wurden.
+
+Tasbih-Zähler: Verfolgen Sie Ihren Dhikr mit einem eleganten Ramadan-Interface, um Ihre täglichen Gebete und Lobpreisungen zu optimieren.
+
+Moscheen in der Nähe: Finden Sie Moscheen in Ihrer Nähe für gemeinschaftliche Taraweeh-Gebete während der gesegneten Nächte des Ramadan.
+
+Islamischer Kalender: Bleiben Sie mit wichtigen Ereignissen des Ramadan wie Laylat al-Qadr und Eid al-Fitr auf dem Laufenden.
+
+Kaaba-Livestream: Spüren Sie die spirituelle Verbundenheit durch den Live-Stream der Kaaba, mit einer Ramadan-Atmosphäre.
+
+Zusätzliche Ramadan-Funktionen:
+Gesegnete Freitagskarte: Versenden Sie inspirierende Ramadan Mubarak-Nachrichten an Familie und Freunde.
+
+Asma-ul-Husna: Lernen Sie die 99 Namen Allahs mit Ramadan-inspirierten Designs und ruhigen Dhikr-Melodien.
+
+Dua-Sammlung: Zugriff auf spezielle Ramadan-Duas zur Stärkung Ihrer spirituellen Praxis.
+
+Ramadan-Countdown: Verfolgen Sie die verbleibenden Tage des Ramadan bis zum Eid.
+
+Wichtige Hinweise:
+Um die Qibla-Richtung genau zu bestimmen, halten Sie Ihr Telefon auf einer flachen Oberfläche und fern von Metallgegenständen. Aktivieren Sie GPS und Standortdienste, um präzise Gebetszeiten und Qibla-Richtungen zu erhalten.
+
+Berechtigungen:
+Standort: Für genaue Gebetszeiten und Moschee-Suche.
+
+Speicher: Um Koran-Rezitationen und Gebetszeiten zu speichern.
+
+In-App-Käufe: Für Premium-Funktionen während des Ramadan.
+
+Werden Sie Teil der Muslim Assistant Community:
+https://www.facebook.com/muslimassistant/
+
+https://www.instagram.com/muslimassistant/
+
+Möge dieser Ramadan voller Frieden, Segen und spirituellem Wachstum für Sie sein. Ramadan Kareem!
+
+Datenschutzrichtlinie & Nutzungsbedingungen: 
+https://www.muslimassistant.com/privacy-terms.html",2016-08-03T17:49:14Z,2025-11-15T10:29:52Z
+at,Austria,Reference,6006,14,6749890021,Сhісkеn Rоаd,"Neocode, TOO",https://apps.apple.com/at/app/%D1%81h%D1%96%D1%81k%D0%B5n-r%D0%BE%D0%B0d/id6749890021?uo=4,0.0,0,0,Reference,"Chyvo ist nicht einfach nur eine Reise-App, sondern Ihr ultimativer Reisebegleiter. Vernetzen Sie sich mit Gleichgesinnten, entdecken Sie neue Reiseziele und erleben Sie unvergessliche Erlebnisse. Egal, ob Sie eine neue Stadt erkunden oder Ihr nächstes Abenteuer planen – mit Chyvo lernen Sie Gleichgesinnte kennen, planen spannende Treffen und unterhalten sich in Echtzeit über Reisen.
+
+Warum Chyvo?
+
+Vernetzen Sie sich mit Gleichgesinnten: Chyvo hilft Ihnen, Reisende mit denselben Reisezielen und Interessen zu finden. Stöbern Sie durch Profile und senden Sie eine Nachricht, um Chats mit anderen Entdeckern zu starten – und knüpfen Sie authentische Kontakte basierend auf gemeinsamen Reiseerlebnissen.
+
+Entdecken Sie lokale Treffen und Veranstaltungen: Nehmen Sie an lokalen Veranstaltungen, Touren oder Aktivitäten anderer Reisender teil oder schließen Sie sich Treffen anderer Chyvo-Nutzer an. Ob Sie einen neuen Reisepartner suchen, eine kulturelle Veranstaltung besuchen oder ein Geheimtipp in einer Stadt entdecken möchten – Backpackr macht es Ihnen leicht, an spannenden Abenteuern teilzunehmen.
+
+Reiseziele entdecken: Entdecken Sie detaillierte Reiseprofile anderer Nutzer mit den Reisezielen, die sie bereits besucht haben oder besuchen möchten. Teile deine eigenen Reisegeschichten und inspiriere andere mit Empfehlungen für sehenswerte Orte, Restaurants oder Erlebnisse.
+
+Winken, Matchen und Chatten: Jemandem zuzuwinken ist der erste Schritt zu sinnvollen Reisekontakten. Wenn die Person zurückwinkt, könnt ihr chatten, um euer nächstes Treffen zu planen oder Tipps zu euren Reisen auszutauschen.
+
+Datenschutz steht an erster Stelle: Chyvo legt Wert auf deine Privatsphäre. Es sind keine Fotos erforderlich, und du kannst dein Profil so einfach oder detailliert gestalten, wie du möchtest. Deine Verbindungen basieren auf gemeinsamen Interessen und Reisezielen, nicht auf persönlichen Daten.
+
+Unterhaltsame und spannende Funktionen: Verfolge deine Reisen, lerne neue Leute kennen und entdecke neue Reiseziele mit lustigen Herausforderungen und Reise-Streaks. Chyvo hilft dir, motiviert und engagiert zu bleiben, während du dein nächstes Abenteuer planst und startest.",2025-08-20T07:00:00Z,2025-08-26T14:19:32Z
+at,Austria,Reference,6006,15,976505454,e-Devlet,Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı,https://apps.apple.com/at/app/e-devlet/id976505454?uo=4,0.0,4.19048,21,Reference,"Yeni e-Devlet Kapısı iOS uygulaması ile www.turkiye.gov.tr adresindeki hizmetler artık mobil cihazınızda.
+ 
+Uygulamayı kullanabilmek için e-Devlet Şifresi veya Mobil İmza sahibi olmalısınız. e-Devlet Şifrenizi PTT şubelerine geçerli kimliğiniz ile birlikte şahsen başvurarak temin edebilirsiniz. Mobil İmza aboneliği için hizmet aldığınız operatöre başvurmalı ve gerekli prosedürü tamamlamalısınız.
+
+Uygulamayla, www.turkiye.gov.tr adresinde en sık kullanılan hizmetleri kullanabilir, favori hizmetlerinizi görebilir, profil bilgilerinizi düzenleyebilir, anlık bildirim alabilir, kamu kurumları ve belediyelere ait bilgi ve hizmetlere hızlı bir şekilde ulaşabilirsiniz.
+
+ 
+En Sık Kullanılan Hizmetler
+
+- SGK 4A Hizmet Dökümü
+- Adalet Bakanlığı Mahkeme Dava Sorgulama
+- Gelir İdaresi Başkanlığı Vergi Borcu Sorgulama
+- SGK GSS Prim Borcu Sorgulama
+- Maliye Bakanlığı e-Bordro Hizmeti",2015-04-11T01:42:53Z,2025-11-20T06:42:14Z
+at,Austria,Reference,6006,16,6448849666,Bible Chat - Die Bibel Deutsch,BookVitals APP SRL,https://apps.apple.com/at/app/bible-chat-die-bibel-deutsch/id6448849666?uo=4,0.0,4.86423,523,Reference,"Bible Chat: Für Christen gemacht, die Gottes Stimme im Lärm des Alltags hören wollen
+
+Hast du dir heute Zeit für Gottes Wort genommen? Schließe dich Millionen von Gläubigen an, die sich für die Nr. 1 Glaubens-App der Welt entschieden haben. Lade noch heute Bible Chat herunter!
+
+Das Leben ist laut. Schnell. Überfordernd. Selbst wenn du versuchst, Gott nahe zu bleiben, ist es leicht, sich geistlich abgeschnitten zu fühlen.
+
+Bible Chat ist die ultimative All-in-One-Christen-App, die Bibellesen, Gebet und christliche Gemeinschaft zu einem Teil deines Alltags macht. Für Christen, die echten Frieden suchen – verankert im Wort Gottes.
+
+
+Egal, ob du dein ganzes Leben Christ warst oder gerade erst beginnst – Bible Chat gibt dir alles, was du brauchst, um:
+
+• Die Bibel besser zu verstehen – Erfahre, was die Bibel wirklich bedeutet, mit hilfreichen Leitfäden und einfachen Erklärungen, die Gottes Wort verständlicher und anwendbar machen.
+
+• Deine Gebetsgewohnheit aufzubauen – Entwickle eine regelmäßige Gebetsroutine mit täglicher Inspiration und der Kraft einer betenden Gemeinschaft.
+
+• Glauben in deinen Alltag zu integrieren – Bereichere deinen Tag mit geistlichen Impulsen, christlichen Kalendererinnerungen und Glaubenswerkzeugen für die ganze Familie.
+
+• Deine mentale Gesundheit zu unterstützen – Finde Ruhe und Frieden in stressigen Momenten mit einfachen Tools, die dich auf Gottes Stärke fokussieren.
+
+• Glauben interaktiv und unterhaltsam zu machen – Entdecke einfache und kreative Wege, wie Glaube in dein tägliches Leben passt.
+
+
+Wichtige Funktionen zum Entdecken:
+
+• Tagesplan: Bleib auf Kurs mit deinem Glauben. Folge einem einfachen Tagesplan, der dich Schritt für Schritt näher zu Gott bringt.
+
+• Strukturierte Bibellesepläne: Folge praktischen Bibelleseplänen für den Alltag. Themen: Heilung, Weisheit, Führung, Trauer und mehr.
+
+• Heiliger Kalender: Sieh wichtige christliche Tage im Monatsüberblick. Verpasse nie wieder ein Fest, einen Heiligentag oder ein kirchliches Ereignis.
+
+• Panikknopf: Hast du mit Stress oder Versuchung zu kämpfen? Tippe auf den Panikknopf für geführte Atemübungen zur Beruhigung und Angstlinderung.
+
+• Live-Gebet: Teile deine Gebetsanliegen, und lass uns gemeinsam beten, um Gott näherzukommen.
+
+• Segen senden: Sende einen Bibelvers mit einer lieben Botschaft direkt auf das Handy eines Freundes. Füge ein Herz oder eine Zeichnung hinzu, um es persönlich zu machen.
+
+• Bibelgeschichten für Kinder: Verwandle Bildschirmzeit in Glaubenszeit! Zeige deinen Kindern unterhaltsame, bibelbasierte Geschichten und Videos.
+
+• Mehrere Bibelversionen: Lies die Bibel so, wie es dir am besten gefällt. Verfügbar: Die Bibel, NKJV, KJV, WMB, FBV, World English Bible, Amplified, NASB.
+
+• Bibelvers-Widget: Sieh jeden Tag einen neuen Bibelvers – direkt auf deinem Sperrbildschirm oder Startbildschirm.
+
+• Bibel-Quiz: Fordere dein Bibelwissen heraus und erweitere es mit interaktiven Quizspielen.
+
+• Vers-Finder: Suchst du einen bestimmten Vers? Finde ihn schnell – samt Bedeutung.
+
+• Personalisierte Andachten & Gebete: Starte deinen Tag mit persönlichen Andachten und schreibe deine eigenen Gebete, um Gott nahe zu bleiben.
+
+• Biblische Personenprofile: Erfahre mehr über Menschen in der Bibel – ihre Geschichten, Kämpfe und wie Gott in ihrem Leben wirkte.
+
+• Lass uns über Glauben sprechen: Tritt ehrlichen Gesprächen bei, wie Glaube im echten Leben wirkt – in Arbeit, Familie und Beziehungen.
+
+
+Mehr erleben mit Premium:
+Schalte unbegrenzte Gespräche, vollständigen Zugriff auf alle Funktionen und exklusive Designs für deine täglichen Gebets-Widgets frei. Starte mit einer kostenlosen 7-tägigen Testversion und wähle dann den Wochenplan für €5.99 oder längere Pläne für mehr Ersparnis.
+
+
+Datenschutzrichtlinie & Nutzungsbedingungen:
+https://thebiblechat.com/privacy-policy/
+https://thebiblechat.com/terms-and-conditions/",2023-05-11T07:00:00Z,2025-11-17T20:04:23Z
+at,Austria,Reference,6006,17,1518858487,Kennzeichensammler,Oliver Rohde,https://apps.apple.com/at/app/kennzeichensammler/id1518858487?uo=4,0.0,3.4,10,Reference,"Sammeln Sie mit dieser App alle Kennzeichen, denen Sie begegnen. Vergleichen Sie ihre Sammlung mit Freunden, Familie und Kollegen. 
+Natürlich können Sie diese App auch einfach nur dazu nutzen, Ihnen sofort Landkreis, Ableitung des Kennzeichens und Bundesland anzuzeigen, natürlich alles auch offline!
+
+
+Aktuell unterstützte Länder: Deutschland, Österreich, Schweiz, Bulgarien, Frankreich, Großbritannien, Griechenland, Kosovo, Kroatien, Italien, Irland, Moldawien, Montenegro, Norwegen, Nordmazedonien, Polen, Rumänien, Russland, Serbien, Slowakei, Slowenien, Tschechien, Türkei, Ukraine, Weißrussland",2020-06-26T07:00:00Z,2025-10-21T12:11:49Z
+at,Austria,Reference,6006,18,577741918,PONS Übersetzer & Wörterbuch,PONS Langenscheidt GmbH,https://apps.apple.com/at/app/pons-%C3%BCbersetzer-w%C3%B6rterbuch/id577741918?uo=4,0.0,4.67178,2675,Reference,"Der kostenlose Übersetzer von PONS
+
+Schnell und zuverlässig übersetzen - in über 50 Wörterbüchern von PONS und einer Textübersetzung für insgesamt 40 Sprachen. Der Übersetzer bietet Lösungen für jede Suchanfrage.
+
+Die App umfasst die PONS-Wörterbücher für Arabisch, Bulgarisch, Chinesisch, Deutsch, Englisch, Finnisch, Französisch, Griechisch, Isländisch, Italienisch, Japanisch, Kroatisch, Latein, Niederländisch, Persisch, Polnisch, Portugiesisch, Rumänisch, Russisch, Serbisch, Slowakisch, Slowenisch, Spanisch und Türkisch. Neben Wörterbüchern in der Kombination mit Deutsch findest du auch Wörterbücher für Kombinationen wie Spanisch-Englisch, Französisch-Polnisch oder Portugiesisch-Spanisch. Insgesamt hast du Zugriff auf über 50 Wörterbücher. Die integrierte Textübersetzung beinhaltet alle Sprachen des Online-Wörterbuchs von PONS sowie 12 zusätzliche Sprachen wie Hebräisch oder Koreanisch.
+
+INTELLIGENTE SUCHE
+Tippe oder sprich deinen Suchbegriff ein und erhalte Vorschläge für Wörter und Phrasen für ein bequemes und schnelles Nachschlagen. Findet die App kein Ergebnis in den PONS-Wörterbüchern, liefert die integrierte Textübersetzung das passende Ergebnis. 
+Auch ohne Eintippen suchen: Mit der Kamera deines Telefons kannst du Text auf Speisekarten, Schildern usw. sofort übersetzen.
+
+KOMMUNIKATIONSHILFE
+Lass dir die korrekte Aussprache der Wörterbuch-Übersetzung vorsprechen. Mit der Zoom-Funktion kannst du die Übersetzung vergrößern und auf dem Gerät zeigen. Besonders hilfreich auf Reisen!
+Neuer Konversationsmodus: der PONS Übersetzer erfasst deine Stimme und übersetzt in die gewünschte Sprache. Kommunizieren war noch nie so einfach!
+
+BEQUEMES NACHSCHLAGEN
+Speichere häufig gesuchte oder wichtige Einträge in deiner Favoritenliste ab - diese kannst du auch offline nutzen. Im Suchverlauf findest du deine zuletzt durchgeführten Suchvorgänge. Kopiere die Übersetzung in die Zwischenablage, um sie in anderen Anwendungen nutzen zu können.
+
+SATZBEISPIELE
+Informationen zum Sprachgebrauch und Verwendungshinweise helfen bei der Suche nach der richtigen Übersetzung. 
+
+OPTIMALE ERGÄNZUNG
+Kopiere die Übersetzungen in den kostenlosen PONS Vokabeltrainer, um die gesuchten Wörter zu lernen. 
+
+REDAKTIONELL GEPRÜFTE QUALITÄT
+Unsere Wörterbuchinhalte werden von unseren Lexikografen redaktionell geprüft und ständig erweitert.
+
+AUCH OFFLINE UND WERBEFREI
+Lade dir bestimmte Wörterbücher herunter und nutze die App unabhängig von einer Internetverbindung. Per In-App-Kauf kannst du hier zwischen verschiedenen Abo-Laufzeiten* wählen. Du erhältst das gewünschte Wörterbuch und schaltest dabei auch für die Online-Suche die Werbung komplett ab. Möchtest du Werbung verzichten, aber kein Wörterbuch herunterladen, bieten wir zusätzliche Abonnements zur werbefreien Nutzung an. 
+WICHTIG: Auch ohne In-App-Käufe kannst du den Online-Übersetzer immer uneingeschränkt und vollkommen kostenlos nutzen.
+
+* Verschiedene Wörterbücher können für 1 Monat und 1 Jahr abonniert werden.  Abos werden automatisch verlängert, außer sie werden mindestens 24 Stunden vor dem Ende des aktuellen Zeitraums gekündigt. Dein Konto wird innerhalb von 24 Stunden vor Ende des aktuellen Zeitraums für die Verlängerung belastet. Die Zahlung wird über den Apple-Account abgerechnet. Abos können nach dem Kauf in den Kontoeinstellungen des Nutzers verwaltet bzw. gekündigt werden. Jeglicher ungenutzte Anteil eines kostenlosen Probeabos, falls angeboten, verfällt, wenn der Nutzer ein Abo für diese Veröffentlichung erwirbt.
+
+Besuche unsere Website www.pons.de für mehr Informationen zum kostenlosen Online-Wörterbuch, dem PONS Vokabeltrainer und unseren Apps.
+
+Nutzungsbedingungen: https://de.pons.com/p/nutzungsbedingungen
+Information zum Datenschutz: https://de.pons.com/p/privacy-policy",2012-11-18T23:49:34Z,2025-10-16T06:54:44Z
+at,Austria,Reference,6006,19,388389451,Muslim Pro: Gebetszeiten Quran,Bitsmedia Pte Ltd,https://apps.apple.com/at/app/muslim-pro-gebetszeiten-quran/id388389451?uo=4,0.0,4.63747,10046,Reference,"Dein ultimativer Begleiter für Koran und Gebet
+
+Verbessere deinen täglichen Glauben mit Muslim Pro – der umfassendsten App für all deine islamischen Bedürfnisse. Greife auf verifizierte Gebetszeiten, den vollständigen Heiligen Koran, Athan-Benachrichtigungen, die Qibla-Richtung und vieles mehr zu. Schließe dich Millionen von Muslimen weltweit an und stärke deine Verbindung zu Allah.
+
+Wichtige Funktionen für jeden Nutzer:
+Genaue Gebetszeiten & Benachrichtigungen – Erhalte Echtzeit-Erinnerungen basierend auf deinem Standort.
+Der Koran (Lesen, Hören & Auswendiglernen) – Erkunde den gesamten Heiligen Koran mit Audio-Rezitationen, mehreren Übersetzungen und hilfreichen Tools zum Auswendiglernen und Nachdenken.
+Qibla-Finder & Kalender – Finde ganz einfach deine Gebetsrichtung und bleibe über wichtige islamische Daten informiert.
+Duas & Dhikr – Greife auf eine umfangreiche Sammlung täglicher Bittgebete und Gedenkformen zurück.
+Gebets- & Fasten-Tracker – Protokolliere und überwache deine täglichen Gebete und Fastentage, mit Erinnerungen und Erfolgsserien.
+Muslimische Inhalte auf Qalbox (Videos, Podcasts & Live-Sessions) – Erweitere dein Wissen mit Filmen, Serien, Livestreams und kindgerechtem Content für Muslime.
+Gamifizierte Quests & Belohnungen – Verdiene Sterne & Halbmonde durch tägliche religiöse Aktivitäten.
+Islamischer Kalender – Präzise Hijri-Datumsberechnung mit allen wichtigen islamischen Feiertagen.
+Tagebuchfunktion – Reflektiere deinen persönlichen Weg mit Stimmungstrackern, Foto-Tagebuch und Notizen.
+Ummah Pro – Teile Duas und Gedanken, und vernetze dich mit anderen Nutzern in einem sicheren, moderierten Raum.
+Academy by Muslim Pro – Kostenloser Zugang zu sorgfältig kuratierten Kursen.
+Halal-Restaurants & Gebetsräume in deiner Nähe – Finde überall Halal-Lokale und Gebetsmöglichkeiten.
+Deen-Modus-Timer – Ein Countdown für Essenszeiten und nächtliche Reflektionen, integriert mit Rezitationen und Duas.
+Umrah mit Muslim Pro – Plane deine Umrah-Reise mit einem sicheren und vertrauenswürdigen Buchungsservice.
+Schalte die vollständige Muslim Pro-Erfahrung mit Premium frei
+
+Werbefreie Nutzung: Genieße ununterbroften Zugriff auf alle Funktionen.
+
+Exklusive Tools: Offline-Zugriff, Audio-Rezitationen, anpassbare Gebets-Widgets und interaktive Lektionen.
+
+Premium-Abonnements:
+12,99 $ pro Monat
+34,99 $ pro Jahr
+
+Diese Preise gelten für Kunden in den Vereinigten Staaten. Die Preise können in anderen Ländern variieren und in die jeweilige Landeswährung umgerechnet werden.
+Abonnements verlängern sich automatisch, sofern die automatische Verlängerung nicht mindestens 24 Stunden vor Ablauf deaktiviert wird.
+Verwalte dein Abo und die Einstellungen direkt über dein Apple-Konto.
+
+Unterstützte Sprachen
+Muslim Pro ist in mehreren Sprachen verfügbar, darunter Englisch, Bahasa Indonesia, Bahasa Melayu, Französisch, Arabisch, Urdu und viele mehr.
+
+Tipps für das beste Erlebnis:
+Halte die App aktuell, um die genauesten Gebetszeiten und Leseoptionen zu nutzen.
+Aktiviere die automatische Standorterkennung für standortbasierte Benachrichtigungen.
+Öffne die App täglich für den sofortigen Zugriff auf verifizierte Gebetszeiten, Qibla-Werkzeuge, Gebetsraumfinder und Halal-Restaurants.
+
+Bleibe in Verbindung:
+Webseite: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Entdecke Muslim Pro – Deine vertrauenswürdige App für Gebetszeiten, Rezitationen, Qibla, Halal-Finder und mehr.
+Verbessere deine Gebetsroutine und erleichtere deine spirituelle Reise.
+Lade Muslim Pro noch heute herunter und erlebe den Unterschied!
+
+Datenschutzerklärung: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Nutzungsbedingungen: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2010-08-21T00:45:05Z,2025-11-13T13:29:55Z
+at,Austria,Reference,6006,20,477971748,MyHeritage: Stammbaum & DNA,MyHeritage Ltd,https://apps.apple.com/at/app/myheritage-stammbaum-dna/id477971748?uo=4,0.0,4.83463,1669,Reference,"Erkunden Sie Ihre Familienwurzeln, finden Sie neue Verwandte und machen Sie große Entdeckungen. Treten Sie unserer globalen Community bei und erstellen Sie Ihren eigenen Familienstammbaum. Mit unseren Stammbaum-Vorlagen ist das Erforschen Ihrer Familiengeschichte einfach und intuitiv. 
+ Erstellen Sie Ihren Stammbaum 
+Beginnen Sie Ihren Stammbaum, indem Sie einige Namen eingeben. MyHeritage erledigt den Rest. Unsere passenden Technologien finden automatisch neue Informationen für Sie in unserer vielfältigen Sammlung aus 90 Millionen Stammbäumen, die von Nutzern auf der ganzen Welt erstellt wurden, und in unserer riesigen Datenbank mit 19 Milliarden historischen Aufzeichnungen. 
+
+ Sie machen sofort Entdeckungen in Ihrer Familiengeschichte 
+MyHeritage kann Ihren Stammbaum problemlos mit anderen Stammbäumen und historischen Aufzeichnungen abgleichen, um Ihnen aussagekräftige neue Erkenntnisse über Ihre Vorfahren zu liefern. Bereichern Sie Ihren Stammbaum mit den leistungsstarken Such- und Matching-Technologien von MyHeritage:
+Smart Matches™: Eine einzigartige Technologie, die Ihren Stammbaum automatisch mit anderen Stammbäumen vergleicht und neue Informationen über Ihre Familiengeschichte findet.
+Record Matches: Eine innovative Technologie, die neue Informationen über Ihre Vorfahren in unserer globalen Sammlung historischer Aufzeichnungen findet.
+Instant Discoveries™: Eine nützliche Funktion, mit der Sie mit einem Klick ganze Zweige und Fotos zu Ihrem Stammbaum hinzufügen können.
+
+ Finden Sie Ihre Vorfahren in historischen Aufzeichnungen
+Einfach und schnell Vorfahren suchen. Entdecken Sie Ihre Familiengeschichte in der umfangreichen Datenbank von MyHeritage mit 21 Milliarden historischen Aufzeichnungen aus der ganzen Welt. Die historischen Aufzeichnungen umfassen wichtige Aufzeichnungen (Geburts-, Heirats- und Sterbeurkunden) aus 66 Ländern; 
+
+ MyHeritage-DNA 
+Tief im Inneren Ihrer DNA befindet sich Ihre einzigartige ethnische Zusammensetzung. Der Test besteht aus einem einfachen Wangenabstrich und zeigt, woher Ihre Vorfahren aus 2114 geografischen Regionen stammen. Sie sehen Ihre Familienwurzeln auf eine ganz neue Weise. Es findet in unserer DNA-Datenbank bestehend aus 4,8 Millionen Menschen auch Übereinstimmungen mit neuen Verwandten. Sehen Sie sich Ihre DNA-Ergebnisse in der App an. Sie sind privat und sicher und werden ohne Ihre Zustimmung niemals weitergegeben.
+
+ Wir präsentieren Deep Nostalgia™ 
+Wie wäre es, wenn Sie Ihre alten Familienbilder zum Leben erwecken könnten? Alte Fotos Ihrer Vorfahren animieren und ihnen neues Leben einhauchen? Mit Deep Nostalgia™  der neuen Fotobearbeitung von MyHeritage ist das möglich. Schauen Sie zu, wenn Ihre alten Familienbilder zum Leben erweckt werden und sich bewegen.
+
+Restaurieren Sie historische Fotos und erleben Sie erneut die schönen Momente aus Ihrer Familiengeschichte. Die fortschrittlichen Foto-Tools von Deep Nostalgia™ ermöglichen es, die Familienbilder in Ihren alten Fotoalben, die bereits Jahrzehnte oder sogar Jahrhunderte alt sind, zu erhalten. Erwecken Sie Ihre Familiengeschichte zum Leben, lassen Sie die Erinnerungen an Ihren Vorfahren aufleben. Entdecken Sie Ihre Geschichte und die der Generationen, die vor Ihnen da waren und erforschen Sie so Ihre eigene Herkunft.
+Betreiben Sie auf MyHeritage, von überall aus, Familienforschung. Deep Nostalgia™ bearbeitet alte Familienfotos, damit Sie und Ihre Verwandten eine Bindung zu Ihrer Familiengeschichte und Vorfahren herstellen können. 
+Laden Sie noch heute unsere Stammbaum-Vorlagen herunter und nutzen Sie sie, um die Herkunft Ihrer Familie zu erforschen. Ihre Vorfahren warten auf Sie.",2011-11-12T00:14:59Z,2025-11-16T15:44:00Z
+at,Austria,Reference,6006,21,6747442689,HoloDex - TCG Scan & Collect,MAVELLI  - FZCO,https://apps.apple.com/at/app/holodex-tcg-scan-collect/id6747442689?uo=4,0.0,0,0,Reference,"HoloDex is the fastest way to scan and organize your card collection. Whether you're managing a childhood binder or flipping alt arts from the latest set, HoloDex gives you real-time prices, powerful organization tools, and instant card recognition, right from your phone.
+
+Instant Pokémon Card Scanning
+Just point your camera and scan. Identify any card in seconds, from Base Set to Scarlet & Violet.
+
+Real-Time Card Values
+Check live market prices instantly. Know exactly what your cards are worth before you buy, trade, or sell.
+
+Organize Your Collection
+Build your portfolio, track duplicates and create your wishlist. Your digital collection stays synced and accessible anywhere.
+
+Secure Cloud Backup
+Your collection is safe and available across all devices. Never lose track of a card again.
+
+Whether you're a casual fan or serious collector, HoloDex helps you stay organized, make smarter trades and track your collection with confidence.
+
+#Key Features:
+
+- Pokémon card scanner with instant recognition
+- Real-time market price tracking
+- Collection organization
+- Value your portfolio
+- Wishlist 
+- Multi-device sync
+- Multi currency support
+- Track profits and losses 
+
+#In-App Purchases Unlock:
+
+- Unlimited card scans
+- Export your data
+- Exclusive filters
+- Early access to new features
+
+Built for collectors. Backed by data.
+
+Start scanning your cards today with HoloDex.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-09-08T07:00:00Z,2025-11-17T10:19:52Z
+at,Austria,Reference,6006,22,885982973,FamilySearch Stammbaum,FamilySearch International,https://apps.apple.com/at/app/familysearch-stammbaum/id885982973?uo=4,0.0,4.59517,373,Reference,"Mit dem Familienstammbaum von FamilySearch kann man schnell und einfach seine Zweige des Stammbaums der Menschheit entdecken und dokumentieren. Dabei kann man auch ganz einfach Erinnerungen an die Familie in Form von Fotos, niedergeschriebenen Geschichten und Audioaufnahmen bewahren.
+
+ Gehe die Zweige deines Stammbaums einmal durch – vielleicht findest du Bilder von Verwandten, die du noch gar nicht kanntest.
+ Du kannst da viel Interessantes über deine Vorfahren entdecken, auch Dokumente, Geschichten, Fotos oder sonstige Aufnahmen.
+ Füge ganz einfach neue Ereignisse aus dem Leben deiner Angehörigen sowie Fotos, Geschichten und Audioaufnahmen von ihnen hinzu.
+
+Die App „Familienstammbaum“ von FamilySearch ist und bleibt kostenlos. Man kann damit lehrreiche Geschichten aus der Familie, die eine Verbindung von Herz zu Herz schaffen, ganz leicht und bequem finden und an andere weitergeben. Solche Begebenheiten werden Ihr Leben und das Ihrer Lieben tief berühren.
+
+HINWEIS: Jegliche Inhalte, die Sie zu Verstorbenen angeben, sind für jedermann sichtbar. Näheres dazu können Sie in unseren Datenschutzrichtlinien nachlesen.",2014-07-15T07:00:00Z,2025-11-05T19:21:05Z
+at,Austria,Reference,6006,23,1447056625,Namaz App: Learn Salah Prayer,Nursultan Askarbekuly,https://apps.apple.com/at/app/namaz-app-learn-salah-prayer/id1447056625?uo=4,0.0,4.87207,1110,Reference,"Learn Salah/Namaz from scratch, memorize surahs of the Quran, learn Dua, and check prayer times. Suitable for beginners.
+
+What is Namaz?
+Namaz is the daily muslim prayer, also known as Salat or Salah. It is one of the five pillars of Islam and the best way of worshipping Allah the Almighty.
+
+Description:
+This app is an audio player for you to listen to the correct pronunciation of the prayers in Arabic. It will help you to learn the dua-invocations and parts of the Quran that are read inside the prayer. You will also have the texts in English transliteration and some illustrations to help you navigate through the process. All content is in accordance with the rules of the Hanafi school of law.
+
+Important to understand, that this is a companion app, and it is not sufficient to fully learn the prayer on its own. We also strongly recommend that you learn to read Arabic, as English letters and phonemes are not sufficient to convey all sounds found in Arabic. Learning to read Arabic will allow you to perform your prayers in the best way and will give you access to the Holy Quran. The easiest and most effective way to learn both prayer and reading Arabic is to find a good teacher.
+
+Attribution:
+- Prayer images were kindly provided by the Muslim web portal Azan.kz
+- Prayer times are fetched from the open API of Aladhan.com
+- The Charity elements icon pack used in the ""Support us"" module was created by Eucalyp - Flaticon (https://www.flaticon.com/packs/charity-elements-4)
+- The Calendar icon  used in the ""Recurring Donation"" screen was created by Freepik - Flaticon (https://www.flaticon.com/free-icons/year)
+
+The Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2018-12-21T00:57:19Z,2025-11-11T23:36:12Z
+at,Austria,Reference,6006,24,1348028646,Übersetzer - Jetzt übersetzen,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/at/app/%C3%BCbersetzer-jetzt-%C3%BCbersetzen/id1348028646?uo=4,0.0,4.63872,2350,Reference,"Live-Übersetzer für Text, Sprache und Bilder in 320 Sprachen – mit Jetzt Übersetzen. Plus: ein Tastatur-Übersetzer für müheloses Tippen.
+
+Egal ob auf Reisen, bei der Arbeit, im Studium oder in alltäglichen Gesprächen – Jetzt Übersetzen ist dein ultimativer KI-Übersetzer. Beseitige Sprachbarrieren sofort mit den umfassenden Tools von Jetzt Übersetzen und gestalte jede mehrsprachige Interaktion mühelos.
+
+Hauptfunktionen
+
+▶ Freihändiger Sprachübersetzer für Live-Gespräche
+ Überwinde Sprachbarrieren im Handumdrehen mit einem Echtzeit-Übersetzer und freihändigem KI-Audioübersetzer. Sprich einfach in dein Gerät und erhalte eine sofortige wechselseitige Übersetzung – für fließende Unterhaltungen in jeder Sprache.
+▶ Foto-, Bild- und Kamera-Übersetzer für Sofort-Übersetzungen
+ Übersetze Speisekarten, Schilder und Dokumente augenblicklich. Mache einfach ein Foto und erhalte sofort eine Übersetzung – ideal für Reisen oder das Lesen fremdsprachiger Inhalte.
+▶ Tastatur-Übersetzer für mehrsprachiges Chatten
+Tippe in deiner Muttersprache und versende Live-Übersetzungen in über 60 Sprachen direkt in jeder App – für nahtloses Messaging.
+▶ KI-Textübersetzer für sofortiges Verständnis
+Übersetze Texte mit KI-optimierter Genauigkeit, phonetischer Unterstützung und kontextbezogener Übersetzung in über 320 Sprachen.
+▶ AR-Kamera-Übersetzer für ein intensives lokales Erlebnis
+Nutze deine Kamera und Augmented Reality für Echtzeitübersetzungen – für ein noch intuitiveres Sprachenlernen und Reisen.
+▶ KI-gestütztes Wörterbuch & Grammatikassistent
+Erweitere deinen Wortschatz mit kontextbezogenen Bedeutungen und erhalte Grammatik-Korrekturen in Echtzeit für präzise Übersetzungen.
+
+Jetzt Übersetzen bietet verschiedene KI-Übersetzungsmodelle, ein Phrasenbuch, eine Watch-App, eine Übersetzungserweiterung, einen Offline-Modus, Dunkelmodus, Siri-Kurzbefehle, interaktive Widgets und SharePlay.
+
+Lade Jetzt Übersetzen herunter, dein ultimativer KI-Sprachübersetzer! Erlebe nahtlose Übersetzungen in Echtzeit. Texte, sprich und übersetze mühelos zwischen Englisch, Spanisch, Latein, Deutsch, Türkisch, Französisch, Arabisch, Polnisch, Griechisch, Italienisch, Ungarisch und vielen weiteren Sprachen!
+
+Erlebe mehr mit Air Apps One, dem ultimativen Abonnement. Ein Abo – über 30 leistungsstarke Tools für Produktivität, Lernen, Fitness und Kreativität, ganz ohne Zusatzkosten. Vereinfache deinen Alltag mit nahtlosem Zugriff, exklusiven Rabatten und smarter Integration. Jetzt abonnieren – für ein kompromissloses All-in-One-Erlebnis!
+---
+Abonnementzahlungen werden deinem iTunes-Konto beim Kauf und bei der Verlängerung in Rechnung gestellt. Kostenlose Testzeiträume verlängern sich automatisch zu kostenpflichtigen Abonnements, sofern sie nicht mindestens 24 Stunden vor Ablauf der aktuellen Periode gekündigt werden. Die Kündigung wird nach Ablauf der aktuellen Periode wirksam und stuft dich auf den kostenlosen Service zurück. Nicht genutzte Teile der kostenlosen Testphase verfallen beim Kauf eines Premium-Abonnements.
+
+Bitte beachte, dass alle Abonnements über deine Apple-ID abgewickelt und verwaltet werden – einschließlich Kündigungen, Rückerstattungen und Änderungen. Für weitere Hilfe wende dich bitte an den Apple-Support.
+
+Hinweis für Einwohner der Europäischen Union: Du kannst deine Bestellung innerhalb von 14 Tagen widerrufen, indem du den Vorgang im Apple App Store befolgst. Bitte beachte, dass Stornierungen und Rückerstattungen nicht möglich sind, wenn du die App bereits heruntergeladen und mit der Nutzung begonnen hast.
+
+Verbinden Sie sich mit uns über:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Datenschutzrichtlinie: https://airapps.co/privacy
+Nutzungsbedingungen: https://airapps.co/terms
+Support: Kontaktieren Sie uns unter support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+at,Austria,Reference,6006,25,1663862037,EveryScan・KI Erkennung,Conlan Limited,https://apps.apple.com/at/app/everyscan-ki-erkennung/id1663862037?uo=4,0.0,4.20833,48,Reference,"Hier ist EveryScan – Ihre ultimative und mobile Begleit-App, die Ihr Smartphone in ein umfassendes visuelles Lexikon verwandelt. Nutzen Sie die Macht hochmoderner KI-Bilderkennung für sich, identifizieren Sie im Nu Gegenstände und erhalten Sie Einblicke in die Welt um Sie herum – direkt auf Ihrem Mobilgerät.
+
+Tierbestimmung
+Haben Sie sich schon einmal gefragt, welches Tier Sie da wohl vor sich haben könnten? Mit EveryScan können Sie Tierarten sofort bestimmen, inklusive spezifischer Rassen und Merkmale. Diese mobile App ist ein unverzichtbares Werkzeug für die umfassende Tierbestimmung, bis hin zu einzelnen Katzen- und Hunderassen.
+
+Erkennung von Insekten und Reptilien
+Mit unserem Insektenidentifikator tauchen Sie ein in die Welt der Insekten. Nehmen Sie mit Ihrem Mobilgerät Bilder von Raupen, Spinnen und Schlangen auf und erfahren Sie mit unserem Schlangenidentifikator, der Fragen wie „Was für eine Schlange ist das?“ beantwortet, mehr über Merkmale und mögliche Risiken.
+
+Informationen zu Pflanzen und Pilzen
+Machen Sie einfach ein Foto, um Pflanzen und Pilze zuverlässig mit Ihrem Handy zu identifizieren. Die Pflanzen- und Pilzbestimmungsfunktionen unserer App bieten Ihnen detaillierte Pflegetipps und Sicherheitshinweise und erweitern so direkt Ihr botanisches Wissen.
+
+Untersuchung von Schmuck und Münzen
+Scannen Sie mühelos Münzen und Schmuck mit Ihrem Smartphone, um deren Wert und Geschichte zu erfahren und Antworten auf Fragen wie „Wie viel bekomme ich dafür?“ zu erhalten. Mit unserer Münzscanner-Funktion können Sie den Wert und die Herkunft Ihrer Münzen schnell feststellen.
+
+Kulinarische Entdeckungen
+Identifizieren Sie Lebensmittel, Gerichte und Rezepte und rufen Sie die Nährwertangaben direkt von Ihrem Mobilgerät ab. So können Sie Gerichte und deren Kaloriengehalt problemlos erkennen und Ihr kulinarisches Know-how vertiefen.
+
+KI-gesteuerte Funktionen
+– Akkurate Bilderkennung, zugeschnitten auf die Verwendung mit dem Smartphone
+– Sofortige Objekterkennung mit Ihrem Smartphone
+– Universelle Objektbestimmung: Insektenbestimmer, Hunderassenbestimmer, Pflanzenbestimmer, Spinnen- und Schlangenbestimmer usw.
+– Echzeitsuche und -scan mit Ihrem Smartphone
+– Umfassende Informationen zu allen Objekten, von Tieren bis zu Alltagsgegenständen
+– Für leichten Mobilzugriff können Favoriten markiert und gespeichert werden
+
+Effiziente Erkundungen
+Lassen Sie Suchmaschinen links liegen – machen Sie stattdessen einfach ein Foto und identifizieren Sie Gegenstände sofort per Smartphone. EveryScan integriert sich nahtlos in Ihr Mobilgerät und bietet einen All-in-one-Bildidentifikator sowie eine KI-Bildsuchfunktion. Entschlüsseln Sie neugierig und souverän die Geheimnisse, die Sie umgeben. Laden Sie EveryScan noch heute herunter und entdecken Sie eine Welt des Wissens, die nur einen Fingertipp entfernt liegt.
+
+Datenschutzrichtlinien: http://aiscanner.co/pp
+Nutzungsbedingungen: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z

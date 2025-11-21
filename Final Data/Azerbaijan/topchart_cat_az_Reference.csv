@@ -1,0 +1,707 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+az,Azerbaijan,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/az/app/google-translate/id414706506?uo=4,0.0,4.26958,779,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-07-10T07:33:15Z,2025-11-18T17:48:56Z
+az,Azerbaijan,Reference,6006,2,1339135422,Tevekkulvakti,sedat sevinmis,https://apps.apple.com/az/app/tevekkulvakti/id1339135422?uo=4,0.0,4.46875,32,Reference,"Birbirinden zengin içerikleri bünyesinde barından çok kapsamlı Mobil uygulamamıza göstermiş olduğunuz yoğun ilginiz, desteğiniz ve tavsiyeleriniz için herkese çok teşekkür ederiz.
+Günün koşuşturmacası içinde sizlere gönderdiğimiz farkındalık oluşturan anlık bildirimlerimizle bir dost gibi her zaman yanınızdayız. Bazen bir uyarıcı, bazen de bir dost gibi size manevi destek olan bir programdır.
+İnstagram başta olmak üzere Sosyal Medya da sizler tarafından çok sevilen yüzbinlerce takipçisi olan 
+Tevekkülvakti uygulaması siz değerli kullanıcıların hizmetine sunuyor.
+
+Zengin Uygulamamızın İçeriği
+Kur'an-ı Kerim Türkçe Meali
+Kur'an-ı Kerim Tefsiri
+Kur'an-ı Kerim Pdf Formatı
+Kur'an-ı Kerim Sesli Dinleme Özelliği
+Esmaul Husna (99 İsim) Detaylı açıklamalı
+Peygamber Efendimizin Hayatı
+Hadis-i Şerif (Kütübü Sitte)
+Günlük Okunacak Dualar
+İlmihal
+Namaz (Resimli ve Videolu Anlatım)
+Sesli Kitap
+Dini Kitaplar
+Müziksiz İlahiler
+Zikirmatik
+Dini Günler
+Dini Hikayeler
+Mesnevi Şerif
+Canlı Yayın (Mekke -Medine)
+Foto Galeri (Mekke-Medine -Kudus)
+Aşr-ı Şerifler
+Mesajlar (Cuma, Kandil, Bayram, Kadir Gecesi için özel mesajlar)
+Arapça Dersleri
+Online Radyo
+Dini Günler Listesi
+Sıkça Sorulan Sorular Bölümü
+Not Defteri 
+Favorilere Ekleme
+Yapılacaklar Listesi 
+Sosyal Medya Hesaplarımız
+İnternet Sitemiz",2018-01-31T08:28:44Z,2021-03-30T16:00:56Z
+az,Azerbaijan,Reference,6006,3,976505454,e-Devlet,Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı,https://apps.apple.com/az/app/e-devlet/id976505454?uo=4,0.0,4.5,8,Reference,"Yeni e-Devlet Kapısı iOS uygulaması ile www.turkiye.gov.tr adresindeki hizmetler artık mobil cihazınızda.
+ 
+Uygulamayı kullanabilmek için e-Devlet Şifresi veya Mobil İmza sahibi olmalısınız. e-Devlet Şifrenizi PTT şubelerine geçerli kimliğiniz ile birlikte şahsen başvurarak temin edebilirsiniz. Mobil İmza aboneliği için hizmet aldığınız operatöre başvurmalı ve gerekli prosedürü tamamlamalısınız.
+
+Uygulamayla, www.turkiye.gov.tr adresinde en sık kullanılan hizmetleri kullanabilir, favori hizmetlerinizi görebilir, profil bilgilerinizi düzenleyebilir, anlık bildirim alabilir, kamu kurumları ve belediyelere ait bilgi ve hizmetlere hızlı bir şekilde ulaşabilirsiniz.
+
+ 
+En Sık Kullanılan Hizmetler
+
+- SGK 4A Hizmet Dökümü
+- Adalet Bakanlığı Mahkeme Dava Sorgulama
+- Gelir İdaresi Başkanlığı Vergi Borcu Sorgulama
+- SGK GSS Prim Borcu Sorgulama
+- Maliye Bakanlığı e-Bordro Hizmeti",2015-04-11T01:42:53Z,2025-11-20T06:42:14Z
+az,Azerbaijan,Reference,6006,4,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/az/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.81703,13341,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2011-07-10T00:14:22Z,2025-11-13T13:29:55Z
+az,Azerbaijan,Reference,6006,5,6636468891,InstantTranslator:AI Translate,APPLABS LIMITED,https://apps.apple.com/az/app/instanttranslator-ai-translate/id6636468891?uo=4,0.0,1,1,Reference,"InstantTranslator: AI Translate – Translate with Spanish, Japanese and other languages!
+
+Translate Text, Picture & Camera Instantly – Anytime, Anywhere!
+
+InstantTranslator is a powerful AI-driven translation app designed to break language barriers effortlessly. Whether you're traveling, studying, working, or chatting with international friends, our smart translator makes communication easy and seamless. With support for over 20 languages, including Spanish, Japanese, Korean, Chinese, Arabic, and more, you can instantly translate text, speech, and images with high accuracy.
+
+Now with Picture-in-Picture Subtitle Translation – Perfect for Watching Shows!
+Enjoy your favorite foreign-language videos with real-time subtitle translation in a floating window. Whether you’re streaming drama, tutorials, or YouTube clips, our PiP mode helps you understand without switching screens.
+
+[Key Features]
+• Text Translator
+Powered by Microsoft and ChatGPT engines, translate written content between multiple languages. Ideal for documents, emails, chats, and webpages with one-tap accuracy.
+
+• Voice & Speech Translator
+AI-powered speech recognition instantly translates spoken words. Perfect for conversations, meetings, and travel.
+
+• Camera & Photo Translator
+Capture text from signs, menus, or documents and receive instant translations. Eliminate language barriers while traveling.
+
+• Picture-in-Picture Subtitle Translation
+Watch videos in other languages while a floating translation box displays subtitles in real time. Great for learning and entertainment.
+
+• Live Conversation Mode
+Real-time two-way translation for fluid bilingual communication.
+
+• Document & PDF Translator
+Full document translation for PDFs, papers, and files. Essential for students and professionals.
+
+• Multi-Language Support
+Supports Spanish, Japanese, Korean, Chinese (Simplified & Cantonese), Tagalog, Vietnamese, Arabic, French, Russian, Portuguese, German, Greek, Hebrew, Italian, Polish, Thai, Haitian Creole, and more. Powered by DeepSeek, Google, ChatGPT, and Microsoft.
+
+• Speed & Privacy
+Instant translations with widget access. Ad-free experience with strict data protection.
+
+[Use Cases]
+
+Travel: Translate menus, signs, and hotel info
+
+Business: Communicate with global partners
+
+Education: Study foreign materials instantly
+
+Daily Life: Multilingual chats with friends
+
+Entertainment: Translate subtitles while watching foreign shows in real time
+
+[Why Choose Us?]
+• Advanced AI translation accuracy
+• Instant text/speech/image results
+• Picture-in-picture subtitle support
+• Offline translation capability
+
+Download Now to experience borderless communication — even while watching your favorite shows!
+
+Subscriptions  
+Weekly: $9.99 | Annual: $34.99  
+Auto-renewal can be managed in account settings.
+Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage your subscriptions and turn off auto-renewal in your account settings after purchase.
+
+Privacy Policy: https://instanttranslator-6e103.web.app/privacy_policy.txt
+Terms of Use: https://instanttranslator-6e103.web.app/term_of_use.txt",2024-08-22T07:00:00Z,2025-11-20T11:52:38Z
+az,Azerbaijan,Reference,6006,6,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/az/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.5287,1080,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+az,Azerbaijan,Reference,6006,7,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/az/app/deepl-translate/id1552407475?uo=4,0.0,4.78195,133,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+az,Azerbaijan,Reference,6006,8,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/az/app/yandex-translate/id584291439?uo=4,0.0,4.83615,531,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+az,Azerbaijan,Reference,6006,9,6752773778,HappyMood - All Games Library,Calliope State School,https://apps.apple.com/az/app/happymood-all-games-library/id6752773778?uo=4,0.0,1,1,Reference,"HappyMood – Discover Games Made for You
+
+Are you a true gamer looking for one place to explore everything about games? HappyMoods is your ultimate companion! With a huge database of games, you can easily search, discover, and enjoy all the details you need in one simple app.
+Explore a Massive Library HappyMood Browse through a wide range of games across different styles and categories. Whether you love action, adventure, puzzle, or strategy, HappyMods brings everything together in one place.
+Watch Trailers & Gameplay Before playing, get a real taste of the game! Watch trailers and gameplay videos to see exactly what the game looks like.
+Save Your Favorites HappyMood Build your own personalized collection of favorite games. Add the ones you love and come back to them anytime.
+Track Games You Like Never lose track of a game again. Follow the games you’re interested in and keep them organized in your list.
+Choose Your Mood Not sure what to play? Select your mood and HappyMod will recommend games that match how you feel at that moment. Fun, relaxing, scary, or exciting – there’s always a game waiting for you.
+Test Your Knowledge Think you know everything about games? Try our quiz and challenge yourself with fun questions to see how much of a gaming expert you are.
+All-in-One Gaming Experience HappyMood makes it easy for you to discover new games, keep track of your favorites, enjoy videos, and even test your knowledge. It’s everything a gamer needs – simple, clear, and always fun.
+With HappyMod, finding the perfect game has never been easier.",2025-10-02T07:00:00Z,2025-10-02T13:25:12Z
+az,Azerbaijan,Reference,6006,10,1163540034,Yol nişanları,Elit Solutions LLC,https://apps.apple.com/az/app/yol-ni%C5%9Fanlar%C4%B1/id1163540034?uo=4,0.0,4.60541,185,Reference,"Sürücülük vəsiqəsi imtahanına hazırlıq üçün köməkçi Yol nişanları proqramı
+
+Sürücülük vəsiqəsi imtahanına hazırlıq üçün Yol nişanları proqramı Azərbaycan Respublikasında yollardakı bütün yol nişanlarını və izahlarını öyrədən tətbiqdir. Tətbiq içində test edərək öyrəndiklərinizi yoxlaya bilərsiniz.
+
+Tətbiqdəki nişanlar və izahları DYP-nin saytından götürülüb və müntəzəm olaraq yenilənir.
+
+Tətbiqi birbaşa sürücülük vəsiqəsi üçün imtahana hazırlıq üçün yox, köməkçi kimi istifadə etmək daha uyğundur. Proqramdan istifadə edərək yol hərəkət qaydalarını və yol nişanlarını daha yaxşı öyrənə və sürücülük vəsiqəsi almaq üçün sürücülük (""prava"") imtahanında faydalana bilərsiniz. Həmçinin, nişanları öyrənərək yol polisinin sizi saxlamasının və cərimə yazmasının qarşısını ala bilərsiniz.
+
+Proqramda test funksiyası var. Suallara cavab verməklə yol nişanları biliklərinizi test edə bilər və nəticəni dostlarınızla paylaşa bilərsiniz.
+
+Əgər proqram xoşunuza gəldisə, xahiş edirik, dəstək olmaq üçün proqrama 5 ulduz (səs) verəsiniz. Proqramı dostlarınızla paylaşaraq onların da bu proqramdan faydalanmağına və yollardakı nişanları tanımağına kömək edin.",2016-10-13T03:24:54Z,2022-07-15T13:01:17Z
+az,Azerbaijan,Reference,6006,11,1143984303,Azerbaijani Quran,RAVINDHIRAN SUMITHRA,https://apps.apple.com/az/app/azerbaijani-quran/id1143984303?uo=4,0.0,4.92028,138,Reference,"The Azerbaijani Quran is a beautiful translation of the Holy Quran in the Azerbaijani language, making the timeless wisdom and guidance of Islam accessible to millions of Azerbaijani people around the world.
+
+The Azerbaijani Quran is not just about the words; it’s about connecting deeply with the teachings of Islam in a language that resonates with the heart. Whether you're a new learner or someone looking to strengthen your faith, the Azerbaijani Quran helps you understand and reflect on the messages of peace, love, and guidance that Islam offers. It's a bridge to a more personal, meaningful relationship with the Quran while still preserving the depth and beauty of the original Arabic text.
+
+Before the Azerbaijani Quran translation, the Quran was primarily recited and taught in Arabic. However, for many Azerbaijani people, understanding the Quran’s meaning was a challenge due to the language barrier. This was the main reason behind producing translations of the Quran and other Islamic texts in Azerbaijani.
+
+ 
+
+DAILY VERSES
+
+● After setting the reminder, you’ll get daily notifications to read your daily Quran verses.
+QURAN VIDEOS
+● Here you can find many Quran videos available.
+ 
+WALLPAPERS
+● A wide variety of beautiful wallpapers are available.
+QUOTES
+
+● We have Quran quotes in the form of images and text.
+ 
+MY LIBRARY
+● My library has all the highlighted verses, notes, and bookmarks that you make.
+CALENDAR
+● Contains all the festival dates.
+ 
+VERSE GRAPHICS
+● Quranic verses with images are available; select and share them with friends and family on social media.",2016-09-08T12:52:36Z,2025-03-05T14:53:40Z
+az,Azerbaijan,Reference,6006,12,6569255136,Clone App - Multiple Accounts,Siddharth bhadani,https://apps.apple.com/az/app/clone-app-multiple-accounts/id6569255136?uo=4,0.0,4.81818,88,Reference,"Clone App - Multiple Accounts Manager is your ultimate solution for managing multiple accounts on a single device. With our app, you can easily clone apps and use dual messenger to run parallel space for dual WhatsApp, Facebook, Instagram, and other social media platforms. This powerful app cloner allows you to maintain multiple profiles without the hassle of constantly logging in and out.
+
+Experience the convenience of secure dual space where your private space remains protected. Whether you need multiple social media profiles or multiple gaming accounts, Dual Space: Multiple Account Manager has you covered. The app's simple interface makes managing work and personal accounts effortless, while ensuring your cloned apps operate smoothly without any interference.
+
+Designed for efficiency, our app is fast and lightweight, ensuring minimal battery and memory usage while running dual app manager functionalities. Whether you're looking to manage dual Facebook or dual Twitter accounts, our app provides the perfect parallel space solution. Download Dual Space: Multiple Account Manager today and revolutionize the way you handle multiple accounts and parallel apps on your device.
+
+Key Features:
+
+- Clone Apps: Easily create a clone of any app, including social media, messaging, and gaming apps.
+- Dual Messenger: Use two accounts for WhatsApp, Facebook, Instagram, and other messaging apps on the same device.
+- Parallel Space: Run multiple instances of the same app simultaneously without interference.
+- Privacy and Security: Protect your cloned apps with a secure lock. Keep your data safe and private.
+- Simple Interface: User-friendly design makes it easy to manage all your accounts in one place.
+- Fast and Lightweight: Efficient performance ensures minimal battery and memory usage.
+
+Managing Dual Space multiple accounts has never been easier. Download Dual Space: Multiple Account Manager now and experience the convenience of parallel space, dual messenger, and app cloning. Perfect for professionals, gamers, and social media enthusiasts.
+
+subscription info:
+
+Read our full Terms of Service and our Privacy Policy at:
+
+
+Link to Privacy Policy: https://sbapps001.blogspot.com/p/privacy-policy.html
+
+
+Link to Terms of use: https://sbapps001.blogspot.com/p/terms-conditions.html",2024-07-24T07:00:00Z,2024-08-09T17:49:09Z
+az,Azerbaijan,Reference,6006,13,6740017050,Translate Ease,GOOD STUDY NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/az/app/translate-ease/id6740017050?uo=4,0.0,4.625,32,Reference,"In this globalized world, overcoming language barriers has become more important. Our Translate Ease is committed to providing you with accurate and fast translation services, allowing you to easily solve any language translation problems you need, no matter where you are.
+
+Applicable scenarios:
+Travel: Whether it is a restaurant menu, traffic signs, or interactions with locals, the translation app can help you quickly understand.
+Business: When communicating with multinational companies and customers, the translation app allows you to easily handle emails, documents, and calls in various languages.
+Learning: A must-have for partners learning new languages, translate words, phrases, and sentences anytime, anywhere to accelerate the language learning process.
+Daily life: Translate shopping tags, recipes, news, etc. to help you better understand content in different languages.
+
+Why choose us?
+High accuracy: Using advanced translation algorithms to ensure accurate translation results.
+User-friendly: The simple interface design makes it easy for you to get started and quickly find the functions you need.
+Fast and efficient translation experience, easily cope with various scenarios such as daily conversations, business emails, travel routes, etc.
+Voice translation function allows you to speak the language directly without typing, and the application will instantly recognize and translate, bringing a smoother communication experience.
+
+Let communication without borders, experience seamless global communication. Download the Translate Ease app now and make every communication simple and hassle-free!",2025-01-11T08:00:00Z,2025-09-09T20:40:43Z
+az,Azerbaijan,Reference,6006,14,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/az/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.80609,1707,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+az,Azerbaijan,Reference,6006,15,1164826566,Cloud Music-Download Songs Lab,国文 李,https://apps.apple.com/az/app/cloud-music-download-songs-lab/id1164826566?uo=4,0.0,4.09211,76,Reference,"Also it allows you to download songs from your cloud storages. It supports Dropbox®.
+
+It is easy to use and useful. You can enjoy listening to songs without wifi.
+
+Main Features: 
+√ Download songs from your cloud storages.
+√ Play downloaded songs with a powerful player.
+√ Play local iPod songs with a powerful player.
+√ Provide 3 play modes: normal, single, shuffle.
+√ Manage your playlists.
+
+How to use:
+1. On the tab 'Cloud' choose the cloud platform Dropbox.
+2. Click the Sign In icon button at the right top corner of the cloud platform section.
+3. Connect to Dropbox and use your account. (If you have no account, you should register one.)
+4. Get songs from your cloud storage. (You should upload your preferred songs to your cloud storage by yourself.)
+5. Choose a downloaded songs to play and enjoy it.",2016-10-14T16:56:49Z,2019-10-25T16:17:18Z
+az,Azerbaijan,Reference,6006,16,6498551215,2Accounts: Dual Parallel Space,Roya Waqas,https://apps.apple.com/az/app/2accounts-dual-parallel-space/id6498551215?uo=4,0.0,4.2,15,Reference,"2Account: Dual Parallel Space
+
+Effortlessly Manage Multiple Accounts!
+With 2Account, switch between social media and messaging profiles on your iPhone without the hassle of logging in and out. Enjoy seamless account management with just a tap!
+
+Key Features:
+
+“Profile Switching”
+ Switching between Facebook, WhatsApp,  Instagram , and more.
+
+“Unique Fonts & Styles”
+  Personalize your messages with creative fonts and text styles.
+
+“Easy Account Management”
+  Organize work and personal profiles effortlessly.
+
+“Explore More Quotes!”
+  Access a collection of motivational quotes to add positivity and encouragement to your chats.
+
+
+Experience the convenience of managing multiple accounts with 2Account—stay organized, secure, and connected!",2024-04-29T07:00:00Z,2025-10-03T14:51:56Z
+az,Azerbaijan,Reference,6006,17,1214860760,Билеты ПДД 2026: экзамен ГИБДД,Amayama Auto LLC,https://apps.apple.com/az/app/%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D1%8B-%D0%BF%D0%B4%D0%B4-2026-%D1%8D%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD-%D0%B3%D0%B8%D0%B1%D0%B4%D0%B4/id1214860760?uo=4,0.0,4.86813,273,Reference,"Подготовься к сдаче экзамена в ГИБДД по бесплатным билетам от Дром ПДД!
+
+Чем сильно приложение:
+— Актуальные билеты (AB и CD категории) за 2026 год.
+— Все билеты ПДД доступны бесплатно. 
+— Нет рекламы.
+— Режим прохождения экзамена, как в ГАИ/ГИБДД РФ.
+— Статистика успеваемости и прогресса. 
+— Комментарии специалиста к каждому вопросу.
+— Живое общение в чате.
+— Напоминалки, мотивируют больше учить.
+— Режим марафона, все 800 вопросов.
+— Работа над ошибками по билету.
+— Добавление вопросов в избранное.
+— Работает и без Интернета сразу с телефона.
+— Приложение учит сдавать экзамен и знать правила. 
+
+Получи права с приложением ПДД 2025/2026 от Дрома
+Знай правила дорожного движения и забудь про штрафы.",2017-03-23T23:53:52Z,2025-11-17T07:55:36Z
+az,Azerbaijan,Reference,6006,18,6477208852,"Beyt: Qibla, Quran, Namaz",Kamran Bakirov,https://apps.apple.com/az/app/beyt-qibla-quran-namaz/id6477208852?uo=4,0.0,4.94602,1408,Reference,"Beyt – The Most Beloved App for Muslims
+
+Features:
+
+- Prayer Times & Notifications
+View prayer times for any location in the world and receive reminders with adhan sounds and heartwarming messages.
+
+- Accurate Qibla Compass
+Find the direction of the Kaaba using a precise Qibla compass, complete with step-by-step instructions to ensure accuracy.
+
+- Daily Ayah Notifications
+Receive inspiring Quranic ayahs on your device every day.
+
+- Iftar Countdown
+Track the time remaining until Iftar right on your home screen.
+
+- Global Prayer Time Calculation Methods
+Choose from over 10 recognized prayer time calculation methods, including the Muslim World League, Umm Al-Qura, and more.
+
+- Mosque & Prayer Room Locator
+Find nearby mosques and prayer rooms on the map, and add new ones for others to discover.
+
+- Quran Translation
+Read the Holy Quran in over 140 languages.
+
+- Create Ayah Images
+Create and share beautiful images of Quranic ayahs with friends.
+
+Send your feedback through the Suggestions section in the app or email us at salam@beyt.app
+We carefully review every message.
+
+Privacy Policy: https://www.beyt.app/privacypolicy/
+Terms and Conditions: https://www.beyt.app/termsofuse/",2024-02-08T08:00:00Z,2025-11-14T23:59:35Z
+az,Azerbaijan,Reference,6006,19,6751138152,"Lok L0k: Watch TV drama, Movie",Liam Calder,https://apps.apple.com/az/app/lok-l0k-watch-tv-drama-movie/id6751138152?uo=4,0.0,4.66667,6,Reference,"Lok L0k — Your All-Access Pass to the World of Movies.
+
+This ultimate movie companion is designed for film lovers who want it all — discovery, excitement, and a front-row seat to every story.
+
+- Browse Your Way – Explore films by genre, rating, or release date, and find exactly what fits your mood.
+
+- Never Miss a Premiere – Get instant alerts for new releases and upcoming must-see premieres.
+
+- Your Watchlist, Your Rules – Save the titles you can’t wait to see and track the ones you’ve conquered.
+
+- Rate & Relive – Share your take on movies and TV shows, and watch reviews from critics and fans alongside cast info and full details.
+
+- IPTV Smart Player – Enjoy smooth, integrated playback with a built-in, smart viewing experience.
+
+Download the app and step into a cinematic universe like never before.
+
+Data Source Transparency
+
+All movie and TV details — including images, ratings, and descriptions — are powered by The Movie Database (TMDB).
+We use the TMDB API to bring you this rich library of content, but we are not endorsed or certified by TMDB.
+
+Important Disclaimer
+
+This app is an entertainment guide, not a streaming service.
+We are not affiliated with, or endorsed by, any third-party content providers or film studios.
+No movies or TV shows are streamed or hosted within the app.
+All trademarks, copyrights, and other intellectual property remain the property of their respective owners.",2025-08-27T07:00:00Z,2025-09-06T05:48:54Z
+az,Azerbaijan,Reference,6006,20,1360117854,Номерограм – проверка авто,Avto Assist OOO,https://apps.apple.com/az/app/%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D0%B0%D0%B2%D1%82%D0%BE/id1360117854?uo=4,0.0,4.89407,236,Reference,"Проверять гос номер авто важно перед покупкой машины.
+
+Приложение «Номерограм» позволяет найти историю продаж и отдельные фото машины в Интернете по гос номеру. Пробить по гос номеру авто у нас можно бесплатно.
+
+Установите «Номерограм». Введите в поиск гос номер, и мы найдём вам историю продажи машины или отдельные её фото из Интернета. Покажем даты размещения объявления, цену и пробег.
+
+В нашей базе свыше 25 000 000 номеров. Фотографии в «Номерограм» приходят как от людей (можно добавить фото машины с гос номером через приложение), так и с досок объявлений, социальных сетей и других сайтов. Всё из открытых источников.
+
+«Номерограм» найдёт для вас по гос номеру:
+
+Пробег автомобиля.
+
+Если автомобиль ранее размещался на авито, автору, дром и т.д., мы найдём его фотографии и покажем пробег, который указал продавец в объявлении. Наша база непрерывно пополняется. 
+
+Цена машины.
+
+Также мы сможем показать вам цену машины. А если она продавалась несколько раз, то вы сможете увидеть историю изменения цены. Это полезная информация, которая поможет вам поторговаться.
+
+Город продажи.
+
+Мы можем находить не только пробеги и цены, но и города продажи автомобиля. Всегда интересно узнать, где бегала машина ранее. 
+
+Фото ДТП и ремонтов.
+
+«Номерограм» мониторит не только доски объявлений, но и другие ресурсы. Поиск по номеру может помочь вам увидеть фото ДТП или процесс ремонта автомобиля.
+
+Ещё вы можете по фото выяснить, что машина бегала в такси.
+
+Несколько показательных примеров:
+
+Скрутил 100 000 километров пробега — А 774 СО 716
+Жёсткое ДТП, машину восстановили — А 714 НТ 38
+Была в ДТП и работала в такси — Т 146 УС 56
+Бесславный конец японской гонки — О 461 ЕА 125
+
+И это не всё!
+
+Мы хотим сделать мир лучше и помочь покупателям подержанных машин. Всё-таки приятно подстраховать себя перед покупкой авто, а не играть в лотерею. Для этого «Номерограм» и сделан.
+
+Добавляйте фото машин с гос номерами в «Номерограм» и радости в жизни прибавится!",2018-03-20T01:10:54Z,2025-05-22T07:48:15Z
+az,Azerbaijan,Reference,6006,21,1346573843,Bildilçin,Kibrit.Tech MMC,https://apps.apple.com/az/app/bildil%C3%A7in/id1346573843?uo=4,0.0,4.68675,83,Reference,"Çox sayda müxtəlif təyinatlı Azərbaycan dili lüğətləri bir oflayn-proqram daxilində!  Sizə aşağıda sadalanan imkanları təqdim edəcək pulsuz proqrama sahib olun:
+
+•	Azərbaycan dili sözlərinin izahını, sinonimlərini, omonimlərini, antonimlərini və müxtəlif xarici dillərə tərcüməsini asanlıqla tapmaq;
+•	Xarici dil sözlərinin Azərbaycan dilində qarşılığını seçmək;
+•	Lazım olan sözləri yalnız baş hərflərinə görə deyil, həm də son və ya ortadakı hərflərə görə tapmaq;
+•	Lazım olan sözləri və söz birləşmələrini təkcə lüğət məqalələrinin başlıqlarında yox, məzmununda da axtarmaq;
+•	Xoşunuza gəlmiş lüğət məqalələrini “Əlfəcinlər” siyahısına daxil etmək;
+•	Əvvəl baxdığınız sözləri “Tarix” siyahısından asanlıqla tapmaq;
+•	Lüğətləri söndürmək/qoşmaqla və onların əks etdirilmə ardıcıllığını dəyişməklə proqramı özünüzün fərdi tələblərinə uyğun xüsusiləşdirmək;
+•	Yeni (izahlı, tərcümə və terminoloji) lüğətlər çıxdıqca, onları yükləmək.
+
+Bunlardan əlavə, interfeys üçün sizi qane edən dil (Azərbaycan, Rus və ya İngilis) və zahiri görünüş – “mövzu”, təyin etmək imkanı proqram ilə işinizi daha da rahat və xoş edəcək!
+
+Qeyd. Proqramın imkanlarından tam surətdə faydalana bilməyiniz üçün mobil qurğunuza Azərbaycan dili klaviaturasını quraşdırmağınızı tövsiyə edirik.",2018-05-05T10:13:26Z,2018-08-04T16:34:55Z
+az,Azerbaijan,Reference,6006,22,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/az/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,5,1,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+az,Azerbaijan,Reference,6006,23,1128061975,Quran Azərbaycan,TopOfStack Software Limited,https://apps.apple.com/az/app/quran-az%C9%99rbaycan/id1128061975?uo=4,0.0,3.69531,128,Reference,"Assalamu alaikum to everyone. Do you recite the Holy Quran Sharif regularly? If it’s yes, then we are here to help you reciting Quran majid more convenient way. 
+
+You can get the whole Quran Sharif in our Quran Azərbaycan application. Interested readers may access this application with just a few touches that will help them add more inclination to Quran. We are now leading busiest life that sometimes we can not carry holy Quran mazeed in our tiny bag. In this circumstance, if we need any ayat of Quran at any moment, then the medium or something like the medium of Quran we need, that can hold the whole holy Quran in a body. You can just use this application to eradicate this kind of difficulty. This is how this application can help you.
+
+Every one knows that, there are totally 6236 ayats in Al-Quran and a reader will get ten sawab for one letter of Quran. Recitation of the holy Quran Sharif: ""There is no doubt that Quran Sharif is the best guide in this world"". Our Quran Azərbaycan application maintains the way like the book form of Quran majeed maintains itself. So a reader might not face any problem in the time of recitation. Hence, with honour and respect, you can keep it reading through this Quran Azərbaycan application as like as you read the book of Quran Sharif before.
+
+With this Islamic book app, you are getting Hafizi quran with real page-curl experience. This is not just a textual app, it is an audio Quran app. You can listen telwat of Quran ayats continuously (internet connection required). You can search words or topic in Azərbaycan on this Quran app. Bookmark the ayat / verse you like / quote. Share the ayat / verse you want.
+
+MAIN FEATURES:
+• Quran: The Holy Quran with audio recitations, phonetics, tafsir and translations.
+• Salat Times (Namaz Vaxtlari): Accurate prayer times based on your current location.
+• Tasbih (Təsbih): Beautifully animated counter to count your daily dhikr.
+• Qibla Finder (Qiblə): Animated Qibla compass to show you the direction to Makkah.
+• 99 Names of Allah (Allahın gözəl adları)
+• Dark Mode (Qaranlıq rejim)
+
+Feature details:
+Al Quran (Қуръон):
+- Read Complete Quran Majeed 114 Surah and 30 para part by part.
+- Listen Holy Al Qur'an Ayat in Arabic Audio with at least 17 Quran Reciters.
+- Quran recitation with audio translation.
+- 6 widely-used high quality Quranic prints (Hafizi-Quran).
+- Verse selection, bookmark, share feature.
+- Comprehensive search feature
+- World renowned reciters (Sheikh Abdul Basit Abdul Samad, Ali Abdur-Rahman Al Hudhaify, Maher Al-Mueaqly,  Abdullah Ali Jabir, Abdul Rahman Al-Sudais, Mishary Rashid Alafasy, Saud Al-Shuraim, Saad Al-Ghamdi, Yasser Al-Dosari, Sheikh Ayman Suwayd, Raad Mohammad Al Kurdi, Muhammad Siddiq Al-Minshawi, Abdullah al Juhany etc.)
+
+Salat Times (Namaz Vaxtlari):
+- Shows Muslim Prayer Times: Təhəccüd, Sübh, Günəşin, Zöhr, Əsr, Gün batımı, Məğrib, İşa, Ishraq, Duha (Chast), İftar, Suhur.
+- Four juristic methods (Məzhəb): Hənəfi, Şafi, Maliki, Hənbəli.
+- Options to adjust the prayer times.
+
+Qibla Finder (Qiblə):
+Find the accurate Qibla direction Finder from the compass.
+-Qibla direction app shows you where the Qibla is, even in an offline mode with the help of its compass feature.
+- Find Kaaba/Makkah Direction from the any part of the world.
+
+Tasbih (Təsbih):
+- Very useful tool to count zikr.
+-Keep tracking of Tasbih count and also calculate how many times and when you recited names of Allah.
+
+99 Names of Allah (Allahın gözəl adları):
+- Read 99 Names of Allah (Asma Ul Husna) in Arabic and meanings in your native language.
+- Listen to the audio for each name and easy to play/pause",2016-06-28T18:30:49Z,2024-04-10T18:09:55Z
+az,Azerbaijan,Reference,6006,24,6450644539,Azerbaijani/English Dictionary,FB PUBLISHING LLC,https://apps.apple.com/az/app/azerbaijani-english-dictionary/id6450644539?uo=4,0.0,4.84347,115,Reference,"Discover your linguistic prowess with our Azerbaijani-English and English-Azerbaijani Dictionary!
+
+Instantly Accessible: Why wait? Get immediate translations by simply tapping on the word you're curious about.
+
+Comprehensive Vocabulary: Dive into our abundant database boasting over 100,000 words. Amplify your understanding and widen your communicative horizons.
+
+Offline Capability: No internet? No issue. Obtain translations anytime, anywhere - even without an internet connection.
+
+Modern & Up-to-date: Keep pace with the evolving language as our database continually refreshes with contemporary terms and expressions.
+
+Lightweight: We respect your device's storage. Our app, weighing only 16 Mb, installs rapidly and won't strain your device's memory.
+
+Indispensable for Quick Translations: When speed and efficiency are what you require, our app is your ultimate tool.
+
+Completely Free: We are committed to making this potent tool available to everyone, free of charge! This app is ad-supported, ensuring it stays open to all. Enabling app tracking across other companies' apps and websites allows us to offer you personalized ads attuned to your interests, enriching your overall app experience.
+
+Download now and step into a world where language ceases to be a hurdle!",2023-06-26T07:00:00Z,2023-11-27T19:07:19Z
+az,Azerbaijan,Reference,6006,25,6469106673,"Translator, Translate App",长兴 邓,https://apps.apple.com/az/app/translator-translate-app/id6469106673?uo=4,0.0,4.80435,230,Reference,"Translator is your multi-language communication tool, supporting translation between 100+ languages, allowing you to communicate easily in every corner of the world. It not only provides standard text translation, but also provides a variety of powerful functions to meet various language needs.
+
+Feature Highlights:
+1. Text translation: Easily realize text translation between languages through keyboard input. No outside help required, everything is under control.
+2. Real-time conversation translation: Multi-language conversation is no longer an obstacle. It can instantly translate the words between you and your conversation partner, enabling barrier-free communication.
+3. Voice input: If you don’t want to enter text, you can use the voice function to write characters directly on the screen, and they will be translated into text.
+
+Privacy: https://www.merriam-webster.com/i/privacy-policy
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-04-17T07:00:00Z,2024-11-06T01:46:39Z

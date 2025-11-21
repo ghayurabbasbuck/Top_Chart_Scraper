@@ -30,7 +30,7 @@ except Exception:
 # -----------------------
 # Config
 # -----------------------
-COUNTRY = "au"           # two-letter country code (e.g. 'us', 'gb', 'pk')
+COUNTRY = "bt"           # two-letter country code (e.g. 'us', 'gb', 'pk')
 LIMIT = 50               # how many apps per category
 INPUT_CSV = "app_store_non_game_categories.csv"
 OUTPUT_NAME_TPL = "topchart_cat_{country}_{cat}.csv"

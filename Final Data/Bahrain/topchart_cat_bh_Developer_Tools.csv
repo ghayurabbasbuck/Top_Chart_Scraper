@@ -1,0 +1,428 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bh,Bahrain,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/bh/app/testflight/id899247664?uo=4,0.0,4.60464,1940,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+bh,Bahrain,Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/bh/app/github/id1477376905?uo=4,0.0,4.70587,17,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+bh,Bahrain,Developer Tools,6026,3,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/bh/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.88889,9,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+bh,Bahrain,Developer Tools,6026,4,1544172686,My Device Identifiers,Kochava Inc.,https://apps.apple.com/bh/app/my-device-identifiers/id1544172686?uo=4,0.0,0,0,Developer Tools,Experiment with ATT (AppTrackingTransparency) to view and copy device identifiers such as the IDFA and IDFV.,2020-12-11T08:00:00Z,2025-08-28T14:44:44Z
+bh,Bahrain,Developer Tools,6026,5,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/bh/app/stikdebug/id6744045754?uo=4,0.0,0,0,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+bh,Bahrain,Developer Tools,6026,6,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/bh/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,5,1,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-18T23:02:56Z
+bh,Bahrain,Developer Tools,6026,7,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/bh/app/python-editor-app/id1672453872?uo=4,0.0,4.16129,31,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+bh,Bahrain,Developer Tools,6026,8,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/bh/app/expo-go/id982107779?uo=4,0.0,4.42856,7,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+bh,Bahrain,Developer Tools,6026,9,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/bh/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.53333,15,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+bh,Bahrain,Developer Tools,6026,10,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/bh/app/o-kam-pro/id1602054864?uo=4,0.0,4.52941,17,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+bh,Bahrain,Developer Tools,6026,11,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/bh/app/rork/id6746410361?uo=4,0.0,5,1,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+bh,Bahrain,Developer Tools,6026,12,6469385251,Xogot: Godot for iPad & iPhone,"Xibbon, Inc",https://apps.apple.com/bh/app/xogot-godot-for-ipad-iphone/id6469385251?uo=4,0.0,0,0,Developer Tools,"Xogot brings the full power of the Godot game engine to iPad — and now iPhone.
+
+With a native mobile experience designed for touch, you can create, test, and share games wherever inspiration strikes.
+
+And the best part? You can now use core Xogot functionality for free — start building games right away, no subscription required.
+
+Whether you’re making a pixel-perfect 2D platformer, a roguelike deck-builder, or an immersive 3D world, Xogot gives you everything you need to create, edit, and share games — all from your iPad or iPhone.
+
+Xogot makes game development fun, approachable, and fully mobile — no laptop required.
+
+Build for 2D and 3D
+- Make stunning 2D games with tile maps and a dedicated 2D engine, or dive into rich 3D worlds with advanced lighting and physics.
+
+Start Fast with Templates
+- Want to make an FPS, platformer, or RPG? Pick a ready-to-go template and have a playable game in minutes.
+
+Learn as You Go
+- Integrated API docs help you master game development step by step — no need to leave the app.
+
+Works Seamlessly with Godot on Desktop
+- Import projects from iCloud, USB drives, or GitHub (via Working Copy) and keep building on the go. Projects made in Xogot open in Godot on your computer, and vice versa — no lock-in.
+
+Fully Native Mobile Experience
+- Optimized for touch, Xogot supports Apple Pencil, Stage Manager, external monitors, and iPad multitasking — everything feels right at home.
+
+Play with Controllers & More
+- Test your games with Bluetooth controllers, keyboards, and mice for a full gameplay experience.
+
+Open Source Runtime
+- Xogot uses Godot’s open-source runtime, so you can distribute your games freely — no strings attached.
+
+Take your game ideas from concept to creation — anywhere, anytime.
+
+Terms of Service: https://xogot.com/terms-of-service
+Privacy Policy:  https://xogot.com/privacy-policy",2025-05-05T07:00:00Z,2025-11-07T22:26:22Z
+bh,Bahrain,Developer Tools,6026,13,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/bh/app/apple-developer/id640199958?uo=4,0.0,5,6,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+bh,Bahrain,Developer Tools,6026,14,1312141691,Stream - Network Debug Tool,Stream Lab Inc.,https://apps.apple.com/bh/app/stream-network-debug-tool/id1312141691?uo=4,0.0,0,0,Developer Tools,"Before downloading this App, We hope you can read the following introductions seriously.
+
+1. Stream is designed for f2e developers, mobile developers, backend developers, sa engineers, qa engineers and users who have a certain network analyze abilities.
+2. Stream is only designed for network debugging. Meanwhile, turning on Stream requires you to authorize VPN permissions.
+3. Stream will never upload any user data, and we also expect you to spread to users who also trust us.
+
+If you do not agree with the above instructions, we recommend you consider seriously before downloading.
+
+
+Features:
+
+Stream is an iOS side network debugging tool, only for QA & development. 
+
+1. Sniff HTTP & HTTPS requests, meanwhile sniffing HTTPS requests needs you to install CA certificates.
+2. Capture History, preview request body, and response body, supports text / JSON / files / forms.
+3. Compose HTTP requests and Replay sniffed requests.
+4. Support Hosts configuration, similar to Hosts in the PC features, for f2e developer and mobile developer to switch test environment and online environment easily.
+5. Simple support on HAR files, you can export Charles / Fiddler / Chrome / Firefox network records to HAR file and then open in Stream and replay requests.
+6. Compatible with iPhone X and iPad MutiTask.",2018-01-04T16:29:42Z,2020-04-06T19:00:38Z
+bh,Bahrain,Developer Tools,6026,15,1436650069,Pyto IDE,Develobile S.p.A.,https://apps.apple.com/bh/app/pyto-ide/id1436650069?uo=4,0.0,4.5,2,Developer Tools,"Pyto is an IDE for iPhone and iPad with a Python 3.10 Interpreter and all of the standard libraries plus more than 100 third party packages, as well as a C & C++ compiler and bitcode interpreter. Includes a terminal with standard UNIX commands, a code editor with code completion, support for Shortcuts, Picture in Picture, a graphical interface builder and a debugger.
+
+* Full version exclusive third party modules *
+
+- Cython, cryptography, typed_ast, cv2, _cffi_backend, kiwisolver, matplotlib, numpy, pandas, lxml, Bio, sklearn, skimage, scipy, erfa, pywt, nacl, bcrypt, statsmodels, zmq, regex, gensim, astropy, emd, wasm3, yaml
+
+* Built-in UNIX commands *
+
+- alias, awk, cat, chflags, chmod, cksum, clang, compress, cp, curl, date, diff, dig, du, egrep, env, fgrep, find, grep, gunzip, gzip, head, host, ifconfig, link, lli, llvm-link, ln, ls, md5, mkdir, mv, nc, nslookup, open, openurl, pbcopy, pbpaste, ping, printenv, pwd, readlink, rlogin, rm, rmdir, say, scp, sed, sftp, sort, ssh, ssh-keygen, stat, sum, tail, tar, tee, telnet, touch, tr, unalias, uname, uncompress, uniq, unlink, uptime, wc, whoami, whois, wol
+
+Take advantage system features with the following modules:
+
+  - pyto_ui - Build an user interface
+  - widgets - Home Screen Widgets
+  - file_system - iOS file system
+  - notifications - Schedule notifications
+  - remote_notifications - Receive remote notifications
+  - background - Run code in background
+  - pasteboard - Clipboard access
+  - userkeys - Save values on disk
+  - sound - Play sounds
+  - music - Access the Apple Music library
+  - photos - Accessing photos and the camera
+  - location - Access user's location
+  - motion - Motion sensors
+  - multipeer - Peer to peer wireless connection
+  - apps - Open third party apps
+  - xcallback - Interact with other apps
+  - sf_symbols - A list of SF Symbols names
+  - watch - Complications and static user interfaces for the Apple Watch",2018-09-24T03:14:38Z,2024-06-09T14:11:52Z
+bh,Bahrain,Developer Tools,6026,16,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/bh/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+bh,Bahrain,Developer Tools,6026,17,6446215341,Cookie-Editor,Christophe Gagnier,https://apps.apple.com/bh/app/cookie-editor/id6446215341?uo=4,0.0,0,0,Developer Tools,"Cookie-Editor is designed to have a simple to use interface that let you do most standard cookie operations. It is ideal for developing and testing web pages or even manual management of cookies for your privacy.
+
+Be careful! Do not share your cookies with anyone you do not trust! Cookies can contain very sensitive information like your login information. If you share your cookies with someone, they could gain full access to your account and compromise it.
+
+Feature list:
+- List all cookies for the current tab.
+- Search your cookies.
+- Create, edit and delete your cookies.
+- Import and export your cookies in many formats (JSON, Netscape, Header string)
+- Quickly delete all cookies for the current tab.
+- Customizable: chose what extra data to see, what theme to use (light or dark), the amount of detail to see (advanced mode).
+
+Cookie-Editor can help you:
+- Develop web pages.
+- Improve your SEO work.
+- Manage your cookies for privacy.
+- Improve your browsing experience.
+
+Cookie-Editor believes in privacy. Your Cookies are safe and all of your data remains offline.
+
+For all feature requests or bug report, please visit the GitHub repository and fill an issue https://github.com/Moustachauve/cookie-editor",2023-03-13T07:00:00Z,2024-02-25T18:59:04Z
+bh,Bahrain,Developer Tools,6026,18,1038574481,Kodex,Bruno Philipe Resende Silva,https://apps.apple.com/bh/app/kodex/id1038574481?uo=4,0.0,0,0,Developer Tools,"Kodex is an advanced code editor which brings powerful and desktop-class editor features to your iPad or iPhone:
+
+* Multi-caret editing, to quickly transform code selections.
+* Regex search and replace, with template matching and replace-all-matches.
+* Minimap which allows quick scroll navigation though the document.
+* Multiple window support
+* Syntax highlighting for over 150 languages.
+* Trackpad support with custom gestures to add cursors (ctrl+shift+click).
+* Auto complete feature (currently only for HTML).
+* Add as many guide columns as you wish (default 80 and 120 characters).
+* Configurable tab size (default 4 spaces), or insert spaces when pressing tab.
+* Draw hints for invisible characters such as new lines, tabs, and spaces.
+* Customizable key bindings, so you can configure Kodex to use the same key combos you are already used to.
+* Kodex smartly preserves your open documents so that your work stays as you left it between launches.
+* Light and Dark modes.
+
+Kodex is integrated with the Files app, so you can easily open files from any other app, and from your iCloud documents folder.
+
+You can launch Kodex QuickEdit from any file sharing view in any app to edit its contents without launching the main Kodex App (be aware this functionality depends on the host app implementing the sharing activity properly).
+
+Included are 10 editor themes, and several monospaced fonts for code editing (you can install your own preferred fonts using system profiles). Font size and line spacing are adjustable, so you can configure Kodex to best fit your preferred screen size, arrangement, and orientation.
+
+Kodex is not a compiler, and you can not build or run the code you edit from it. Think of Kodex as a NotePad++ or Sublime Text substitute for iPhone and iPad.
+
+Kodex is currently optimized for external keyboards, such as Apple's Smart Keyboard for the iPad Pro, or any bluetooth/USB keyboard. More virtual keyboard features will be added in a future version.",2018-03-19T21:26:05Z,2024-04-01T20:38:40Z
+bh,Bahrain,Developer Tools,6026,19,1507309511,Spck Editor,Zeb Zhao,https://apps.apple.com/bh/app/spck-editor/id1507309511?uo=4,0.0,0,0,Developer Tools,"Explore fun JavaScript labs on-the-go with Spck Editor. A simple, yet feature-filled code editor that lets you access your projects from Github, Bitbucket, Gitlab, and more! With Spck Editor, you can edit, commit, checkout, push, and run simple JavaScript projects.
+
+This tiny editor is packed with useful features from powerful, intelligent code completion of HTML, JavaScript, and CSS. Other features include:
+
+- Local file access
+- Project-wide searching (with file filters)
+- Code snippets
+- Keyword completion to 20+ languages
+- Advance code completion for JavaScript/TypeScript & CSS
+- Context-sensitive hinting for JS/TS
+- Syntax Validation
+- Light/Dark Theme
+- Integrated JS Console
+- Git repo cloning, commits, checkout, push/pull
+- Git branches, logs, and remotes interfaces
+- Extra keyboard for code navigation
+- Dynamic keyboard for JS/HTML/CSS editing
+- AI Coding Assistants based on the latest models
+
+Terms of Use: https://spck.io/terms",2020-04-12T07:00:00Z,2025-10-11T11:06:54Z
+bh,Bahrain,Developer Tools,6026,20,1568442831,Desktop Browser • Zoomable,Actowise LLC,https://apps.apple.com/bh/app/desktop-browser-zoomable/id1568442831?uo=4,0.0,3.5,4,Developer Tools,"Zoomable is a browser that provides a full desktop web experience. It simulates a large and resizable screen and shows the desktop version of websites, so you can stay away from those bad mobile web experiences.
+
+• Zoom freely between 1x and 3x.
+• Seamless transitions between portrait and landscape mode.
+• Supports full screen mode.
+• Save and manage favorites.
+• Lightning fast and super small install size.
+• Supports UI customization for both portrait and landscape mode.
+• Respects user privacy; the app only collects anonymous diagnostic data unrelated to browsing, and you can opt out.
+• [Pro] Multiple tabs.
+• [Pro] Customize themes.
+
+The app is designed for everyone, it works great with many websites. However, it is particularly useful for developers. For example, accessing App Store Connect and Firebase Console works great in this app because of the screen scale feature.",2021-05-23T07:00:00Z,2025-10-06T11:01:20Z
+bh,Bahrain,Developer Tools,6026,21,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/bh/app/bluetooth-terminal/id1058693037?uo=4,0.0,0,0,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+bh,Bahrain,Developer Tools,6026,22,1450994949,Carnets - Jupyter,Nicolas Holzschuch,https://apps.apple.com/bh/app/carnets-jupyter/id1450994949?uo=4,0.0,0,0,Developer Tools,"Jupyter notebooks are a powerful tool used in education and research. You can write small snippets of Python code and observe the result on screen, combine with paragraphs of text, using Markdown.
+
+Carnets provides a complete, stand-alone, implementation of Jupyter notebooks. Everything runs on your device, using the embedded Python interpreter; you do not need an internet connection. You can chose between Jupyter notebooks and the more advance Jupyterlab using Settings.
+
+Numpy, Sympy, Matplotlib, Pandas, lxml, bokeh, nbextensions (including ipywidgets) and many other packages are pre-installed. To see the full list of installed packages, type ""%pip list"" in a code window. You can add more packages using ""%pip install packageName"", but only if they are pure Python.
+
+If you need scipy, seaborn or scikit-learn, please use our other App, ""Carnets - Jupyter (with scipy)"".
+
+You can share your notebooks with other apps and also open notebooks or directories managed by other apps. 
+
+Partial list of installed packages: astropy, babel, bokeh, cryptography, cvxopt, Fiona, geopandas, geopy, lxml, matplotlib, numpy, openCV, pandas, pillow, pyFFTW, pyproj, rasterio, regex, shapely, sympy, wordcloud.",2019-04-17T21:42:44Z,2025-11-04T10:30:36Z
+bh,Bahrain,Developer Tools,6026,23,6753701067,ProScan: PDF Scanner,PSCD TECHNOLOGY DEVELOPMENT COMPANY LIMITED,https://apps.apple.com/bh/app/proscan-pdf-scanner/id6753701067?uo=4,0.0,0,0,Developer Tools,"ProScan – Your Smart PDF, Word & Text Scanning Assistant
+ProScan helps you scan, convert, and manage documents quickly and professionally – right from your phone.
+Whether you’re studying, working, or handling urgent paperwork, the app delivers a smooth, convenient experience for scanning, compressing, merging, splitting, and sharing files effortlessly.
+
+KEY FEATURES
+Smart Document Scanning
+Open the camera to capture documents with auto edge detection.
+Instantly convert images into PDF / Word / Text formats.
+Edit before saving: crop, rotate, enhance, and apply black-and-white filters.
+Export high-quality files, ready for sharing or printing.
+Flexible PDF Compression
+Reduce PDF file size without losing image quality.
+Choose compression level: Low / Medium / High to fit your needs.
+Save storage space and share files faster.
+Easy PDF Merge & Split
+Select multiple files and combine them into a single PDF in just a few taps.
+Split PDFs by page range – fast, accurate, and convenient.
+Efficient File Management
+Rename, delete, share, or open PDFs directly within the app.
+Keep your documents organized and easy to find.
+View and interact with PDFs seamlessly.
+
+ADVANCED IMAGE PROCESSING TECHNOLOGY
+Automatically detects and aligns document edges using AI.
+Enhances scan quality by reducing shadows and improving sharpness.
+Accurately recognizes text (OCR), allowing you to extract content from images.
+
+
+ WHY YOU’LL LOVE ProScan
+Turn paper documents into digital files in seconds.
+Easily edit, compress, and merge your files.
+Work and study efficiently — no computer needed.
+Simple, clean interface that anyone can use.
+
+DATA SECURITY
+All files are stored locally on your device.
+You can delete them anytime — no uploads to external servers.
+No user data collection – complete privacy guaranteed.
+PROSCAN IS PERFECT FOR:
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.
+
+ProScan – Faster, Smarter, and Safer Document Scanning!
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.",2025-11-18T02:56:46Z,2025-11-18T02:56:46Z
+bh,Bahrain,Developer Tools,6026,24,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/bh/app/app-store-connect/id1234793120?uo=4,0.0,4.90698,43,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+bh,Bahrain,Developer Tools,6026,25,1581290510,Code Editor - Compiler & IDE,Rhythm Software,https://apps.apple.com/bh/app/code-editor-compiler-ide/id1581290510?uo=4,0.0,0,0,Developer Tools,"Code editor is optimized text editor focused on coding. It contains necessary features including syntax highlight, code assist, auto-complete, compile and execute, etc.
+
+Features:
+
+- Syntax highlighting for over 110 languages (C++, Java, JavaScript, HTML, Markdown, PHP, Perl, Python, Lua, Dart, etc).
+- Include online compiler, can compile and run over 30 common languages (Python, PHP, Java, JS/NodeJS, C/C++, Rust, Pascal, Haskell, Ruby, etc).
+- Code assist, folding and auto-completion.
+- Easily navigate between multiple tabs.
+- Undo and redo changes without limit.
+- Search and replace with regular expressions.
+- Show or hide line numbers.
+- Highlight matching parentheses.
+- Automatic indent and outdent.
+- Displays invisible characters.
+- Open files from recently opened file collections.
+- Preview HTML and Markdown files.
+- Includes Emmet support for web development.
+- Access files from FTP and WebDAV.
+- Evaluate JavaScript code with built-in JavaScript console.
+- Integrate and easy access to GitHub and GitLab.
+- Access files from Google Drive, Dropbox, and OneDrive.
+- Dark and light themes and over 30 syntax highlighting styles.
+
+If you run into any issues or have any suggestions, please feel free to contact us: support@rhmsoft.com",2022-04-03T07:00:00Z,2025-11-14T16:48:28Z

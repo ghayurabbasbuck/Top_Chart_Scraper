@@ -1,0 +1,595 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+az,Azerbaijan,Lifestyle,6012,1,429047995,Pinterest: Lifestyle Ideas,"Pinterest, Inc.",https://apps.apple.com/az/app/pinterest-lifestyle-ideas/id429047995?uo=4,0.0,4.86615,30071,Lifestyle,"Pinterest is a place of endless possibilities. You can:
+- Discover everyday inspiration
+- Shop styles you love
+- Try and learn something new
+
+Create boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? 
+
+It's Possible.",2011-07-10T12:50:39Z,2025-11-19T16:28:23Z
+az,Azerbaijan,Lifestyle,6012,2,6443623307,Bakcell,BAKCELL MMC,https://apps.apple.com/az/app/bakcell/id6443623307?uo=4,0.0,4.82735,80197,Lifestyle,"1. Məlumat səhifəsi – Mövcud balansınız və digər paketlərin həcmi ilə bağlı məlumatlar, xəttinizin və tarifinizin statusu;
+2. Tariflər – Özünüzə uyğun tarifi aktivləşdirmək, dəyişmək, deaktivasiya etmək imkanı və ətraflı məlumat hamısı bir arada;
+3. Sürətli internet və SMS paketləri – İstifadə tərzinizə uyğun paket seçmək imkanı;
+4. Bildirişlər – “Bakcell”in məhsulları, xidmətləri ilə bağlı ən son bildirişləri almaq, güzəştlərdən və kampaniyalardan hamıdan əvvəl faydalanmaq imkanı;
+5. Bir neçə nömrəyə nəzarət – Bir tətbiqdə bir neçə nömrəni qeydiyyatdan keçirmək, nəzarət və istifadə etmək imkanı;
+6. eSIM – Plastik SIM kartdan yeni nəsil eSIM nömrəyə keçmək imkanı;
+7. Balansın artırılması – Asanlıqla balansı artırmaq imkanı;
+8. CINKredit | KlassKredit – Balansda kifayət qədər vəsait olmayanda CINKredit yaxud KlassKredit vasitəsilə əlaqə saxlamaq imkanı;
+9. Rouminq – Xarici səfərlərdə daim ünsiyyətdə qalmaq üçün bütün imkanlar;
+10. Pulköçürmə – Öz balansınızdan digər CIN yaxud Klass abunəçisinin balansının artırmaq imkanı;
+11. Pulsuz SMS – Günlük 15 şəbəkədaxili və 10 şəbəkəxarici SMS pulsuz göndərmə imkanı;
+12. İstifadəçi səhifəsini tənzimləmək – Mobil tətbiqdə adınıza açdığınız hesabı rahatlıqla tənzimləmək imkanı;
+13. İstifadə tarixçəsi – İstifadə etdiyiniz mobil xidmətlər haqqında ümumi və ətraflı tarixçəni əldə etmək imkanı;
+14. Əməliyyatlar tarixçəsi – Mobil xidmətlər üçün etdiyiniz xərclərin tarixçəsini əldə etmək imkanı;
+15. “Mənə zəng et” xidməti – Balansınız bitsə belə, istənilən mobil nömrəyə sorğu göndərib, sizə zəng etməyi xahiş edə bilərsiniz;
+16. Xidmət mərkəzləri – Sizə yaxın olan xidmət mərkəzləri və rəsmi tərəfdaşlarımızın ünvanlarını anında görmək imkanı;
+17. STAR+ – Bonus kampaniyası. Mobil tətbiqdən istifadə və dostlarınızı tətbiqdən istifadəyə dəvət etməklə bonuslar toplamaq və hədiyyələrə dəyişmək imkanı;
+18. Dəyərləndirmə və bonus – Bizim tətbiqi dəyərləndirməklə bonus əldə etmək imkanı;
+19. Onlayn çat – “Bakcell”in rəqəmsal kanallar üzrə xidmət təmsilçiləri ilə ünsiyyət quraraq müraciətlərinizi birbaşa ünvanlamaq imkanı.
+
+Qeydlər
+- “Bakcell” tətbiqindən istifadə pulsuzdur, yalnız tətbiq daxilində xarici linklərə istinad və rouminqdə istifadə zamanı balansınızdan tarifinizə uyğun olaraq xidmət haqqı tutulacaq;
+- ""Qayda və Şərtləri"" qəbul etməklə siz abunəçi öhdəliklərinə məsul şəxs hesab olunursunuz.",2022-10-06T07:00:00Z,2025-11-12T07:51:26Z
+az,Azerbaijan,Lifestyle,6012,3,6444889671,Nar+,Azerfon MMC,https://apps.apple.com/az/app/nar/id6444889671?uo=4,0.0,2.29538,325,Lifestyle,"""Nar+"" tətbiqimizi sizə təqdim edirik! Istifadəçi kabinetinizi idarə etmək üçün ən asan yol! Hesabınızı idarə etmək artıq bir toxunuş qədər asandır. Təkmilləşdirilmiş xüsusiyyətlər və sadələşdirilmiş naviqasiya ilə nəzarəti heç vaxt olmadığı kimi əlinizə götürün. İstər, qalıq istifadənin nəzarəti, istər, tənzimləmələrin idarə olunması və ya xüsusi imtiyazlara keçid imkanı, ehtiyacınız olan hər şeyi sizə təmin edirik. İndi yükləyin və hər zaman əlinizin altında olan rahatlığın bütün gücünü kəşf edin.
+
+Tətbiq vasitəsi ilə nömrəndə müxtəlif tarifləri və paketləri müqaisə edə və sənə ən uyğununu seçib aktiv edə bilərsən. Paketlərin və xidmətlərin istifadə  müddətini, yenilənmə tarixini, statusunu daha rahat yoxlaya bilərsən. Artıq balansı artırmaq, kredit götürmək və balans köçürməsi etmək üçün şifrə yığmağa ehtiyac yoxdur. Nömrədən edilən zənglər, internet istifadəsi və bundan əlavə ümumi sərfiyyatı öyrənmək üçün Nar mərkəzinə yaxınlaşmadan tətbiq vasitəsi ilə məlumat ala bilərsən. Müxtəlif SİM kart əməliyyatları üçün sənə ən yaxın Nar satış və xidmət mərkəzinin ünvanını öyrənmək üçün sadəcə tətbiqə daxil olmaq kifayətdir. Əgər sualın yaranarsa, onlayn çat xidmətindən yararlana bilərsən.",2022-12-17T08:00:00Z,2025-11-20T21:26:19Z
+az,Azerbaijan,Lifestyle,6012,4,547702041,Tinder Dating App: Meet & Date,Tinder LLC,https://apps.apple.com/az/app/tinder-dating-app-meet-date/id547702041?uo=4,0.0,4.78524,12940,Lifestyle,"MATCH, CHAT & DATE. IT STARTS WITH A SWIPE™.
+With 97+ billion matches to date, Tinder® is the top free dating app and the best place to meet new people, with safety features that work to help you date more safely. Looking for love? An open relationship? Trying to find a date or new friends to chat with? Connect with local people everywhere on Tinder and get the best out of your dating experience:
+
+Come As You Are: whether you're straight, gay, bisexual or anything in between, you can be who you are and find who you want on Tinder.
+Date Beyond Photos: share your interests and learn more about your matches to get the conversation started.
+Seek What You’re Looking For: set your relationship goals and make connections on your terms.
+
+HOW TINDER WORKS
+It’s easy and fun to find new people on Tinder®. Express yourself to make your personality shine in your profile and stand out to potential matches. Answer a prompt, share a little about you and show your face in your pics to increase your match-making potential. Use the Swipe Right™ feature to like and the Swipe Left™ feature to nope. If they like you back, It’s a Match! And with our double opt-in feature, it’s only a match if the interest is mutual.
+
+PUT SAFETY FIRST
+Try some of our safety features to help you make connections more confidently:
+
+– Share My Date: share date plans with friends and fam, so they know who you’re planning to meet up with and where
+– Get Photo Verified: verify your photos to help potential matches know it’s really you in that cute pic & increase your chances of matching
+– Are You Sure / Does This Bother You: Tinder detects inappropriate language so people think twice before sending a disrespectful message
+– Report a Profile: quickly report and block profiles with suspicious activity or inappropriate behaviour
+– Block Contacts: take control and block anyone (like an ex) you don’t want to see on the app
+– Video Chat: hitting it off in chat? Test your online dating chemistry and meet new people from home!
+
+TRY TINDER PLUS
+– Unlimited likes for you to catch feelings for as many new people as you want
+– Use Passport Mode™ to match and chat with locals anywhere in the world before you arrive
+– Unlimited Rewinds to undo your last like or nope
+– Go Incognito and be seen only by the people you like
+
+EXPERIENCE TINDER GOLD
+– Get everything in Tinder Plus™, and try it out for a week before you commit to a monthly subscription
+– See who likes you and match with them on the spot for faster connections
+– Monthly Boost puts your profile to the top for 30 minutes to help increase your profile views
+– Weekly Super Likes, because sometimes you really, really like someone
+
+UPGRADE TO TINDER PLATINUM
+Get most of Tinder’s premium features: join Tinder Platinum™ to get your likes prioritised with potential matches, send them a compliment before matching and more.
+
+So what are you waiting for? Join millions of people worldwide! Tinder offers the most daters, increasing your chances of finding exactly what you're looking for. Download the best free dating app today!
+
+––––––––––––––––––––
+If you choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, payment will be charged to your Apple account, and your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, you can simply continue using Tinder for free.
+
+All photos are of models and used for illustrative purposes only.
+
+Privacy: https://www.gotinder.com/privacy
+Terms: https://www.gotinder.com/terms
+Visit: https://www.tinderlove.com/",2012-08-03T01:43:39Z,2025-11-20T18:10:28Z
+az,Azerbaijan,Lifestyle,6012,5,957323480,Xiaomi Home,"Beijing Xiaomi Co., Ltd",https://apps.apple.com/az/app/xiaomi-home/id957323480?uo=4,0.0,3.97661,171,Lifestyle,"A professional app to help you manage your intelligent devices. 
+•  Add new devices with a few easy steps
+•  Control your device wherever you are 
+•  Get the status of you devices in real time
+•  Share your devices with friends and family members
+•  Set up and perform intelligent tasks
+•  Continued use of GPS running in the background can dramatically decrease battery life
+
+【Mi Cloud Storage Automatic Renewal Service Description 】
+- Renewal Service:7-day overwriting Renewal storage plan,30-day overwriting Renewal storage plan
+- Renewal period:one month
+- Renewal price: 7-day overwriting Renewal storage plan for 10 yuan/month, 30-day overwriting Renewal storage plan for 24 yuan/month
+- Payment: after confirming the subscription, your Apple ID account will be debited;
+- Cancel renewal:If you cancel the renewal, please manually turn off the automatic renewal function in the iTunes/AppleID settings management 24 hours before the current subscription period expires. Specific path:Please open the Apple mobile phone""settings""-->enter""iTunes store and AppStore""-->click""Apple ID"",select""View Apple ID"",enter the ""Account Settings""page,click""subscribe"",select Mi Cloud Storage unsubscribe. If you cancel within 24 hours before the expiration, the subscription fee will be charged;
+- Renewal: Apple ID account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period;
+- Mi Cloud Storage Automatic Renewal Service Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/auto_renew-en.html，
+- Mi Cloud Storage User Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/user_licence-en.html
+- About Cloud Storage Automatic Renewal: https://camera.api.io.mi.com/cloud-service/app/my_cloud.html?channel=iosinfo&locale=en#/renew
+- Terms of Use and User Agreement: https://g.home.mi.com/views/user-terms.html?locale=en&type=userLicense
+- Privacy Policy: https://g.home.mi.com/views/user-terms.html?locale=en&type=userPrivacy
+
+【HealthKit】
+- Your record after each weighing: BMI (body mass index), body fat percentage, weight, lean body mass will be shared to Apple Health.",2015-01-27T18:32:39Z,2025-11-20T14:37:49Z
+az,Azerbaijan,Lifestyle,6012,6,1000744017,Namaz vaxti,Samir Shagavatov,https://apps.apple.com/az/app/namaz-vaxti/id1000744017?uo=4,0.0,4.44148,487,Lifestyle,"Namaz vaxtı proqramı Azərbaycanın şəhər və rayonları üçün namaz və oruc vaxtlarını göstərən proqramdır.
+Proqram oflayn (offline) rejimdə işləyir, internet bağlantısına ehtiyac yoxdur. Həm namaz vaxtları, həm də ramazan təqvimi (oruc - imsak və iftar vaxtları) üçün istifadə oluna bilər. Azan vaxtı xəbərdarlıq etməsi üçün aşağıda ""Azan vaxtını bildirsin"" seçmək lazımdır. Paylaş düyməsi vasitəsilə proqramı facebook və digər sosial şəbəkələrdə paylaşa bilərsiniz.
+
+DİQQƏT: Azanın işləməsi üçün proqramın bildiriş göndərməsinə (Notifications) icazə verilməlidir.
+
+Vaxtlar qafqazislam.com (Qafqaz Müsəlmanları İdarəsinin rəsmi saytı) saytından götürülmüşdür.
+
+İlk açılanda Bakı üçün bu günün namaz vaxtları görünür, yuxarı sol tərəfdə siyahıdan digər şəhər/rayonu seçə bilərsiniz. Tarixin solunda və sağında düymələri basmaqla dünən və sabah üçün namaz vaxtlarına baxa bilərsiniz.
+
+Seçimlər bölməsində bildiriş səsi üçün müxtəlif azan və xəbərdarlıq səsi seçə bilərsiniz. Bundan əlavə 5 vaxtdan hansılarda azan bildirişi olmasını da seçə bilərsiniz. Əlavə olaraq imsak vaxtını göstərməsini seçimlərdə aktiv edə bilərsiniz.",2015-06-12T02:00:12Z,2025-09-01T15:28:06Z
+az,Azerbaijan,Lifestyle,6012,7,1584104523,We Power,VVE AZ MMC,https://apps.apple.com/az/app/we-power/id1584104523?uo=4,0.0,3.33784,74,Lifestyle,"WePower - это городской сервис аренды Пауэрбанков в Турции , Азербайджане, России 
+Это еще никогда не было так просто, как с нашим сервисом WePower, 
+1. Загрузите наше приложение пройдите невероятно простую регистрацию в три нажатия  и выберите метод оплаты .  
+2. Сканируй QR код на терминале и получи полностью заряженный внешний аккумулятор с проводом на type-c, micro-USB, lightning для всех Iphone 
+3. Заряди свой телефон и верни его в любой поблизости  Терминал WePower,  в любом городе и даже стране там где мы есть . Обращайтесь мы всегда рядом !  
+
+ Поддержка: info@wepower.cc",2021-10-27T07:00:00Z,2025-11-06T12:28:24Z
+az,Azerbaijan,Lifestyle,6012,8,6749755045,Fast Charge - power on the go,FAST CHARGE MMC,https://apps.apple.com/az/app/fast-charge-power-on-the-go/id6749755045?uo=4,0.0,4.5,24,Lifestyle,"""FAST CHARGE – a powerful and intuitive application designed to charge your devices in the shortest possible time, with maximum energy efficiency. It is simple to use, functional and ensures safety.""",2025-08-26T07:00:00Z,2025-11-10T01:34:04Z
+az,Azerbaijan,Lifestyle,6012,9,6478117640,CityCar az,CT Mobility Solutions - F.Z.E,https://apps.apple.com/az/app/citycar-az/id6478117640?uo=4,0.0,1.65354,127,Lifestyle,"Welcome to CityCar – Your Reliable Car Sharing Service in Baku!
+
+CityCar offers a convenient, eco-friendly, and affordable way to navigate the city. With over 100 BYD Dolphin electric cars, we are set to revolutionize your urban travel experience.
+
+Features of the CityCar App:
+
+Ease of Use: Register in just a few minutes and start using car sharing services immediately. Our app is designed for intuitive and easy use.
+Availability: CityCar is available 24/7, allowing you to rent a car at any time of the day or night.
+Eco-Friendly: BYD Dolphin is a modern electric vehicle that provides a clean and quiet ride without emissions.
+Transparent Pricing: No hidden charges and complex tariffs. Pay only for the time you use the car.
+Safety: All vehicles are regularly serviced to ensure your safety and comfort on the road.
+Customer Support: Our support team is always available to assist you in any situation.
+How it Works:
+
+Download the CityCar app and register.
+Find the nearest BYD Dolphin electric car through the app.
+Unlock the car using the app and start your journey.
+At the end of your trip, simply park the car in an authorized area and end the rental through the app.
+
+Join the Car Sharing Revolution with CityCar!
+
+Download the app now and start traveling smarter.",2024-03-02T08:00:00Z,2024-04-11T16:40:28Z
+az,Azerbaijan,Lifestyle,6012,10,6749490756,We Power,VVE AZ MMC,https://apps.apple.com/az/app/we-power/id6749490756?uo=4,0.0,5,3,Lifestyle,"WePower is an urban power bank rental service available in Turkey, Azerbaijan, and Russia.
+It has never been this easy before — with our WePower service:
+
+Download our app, complete the incredibly simple registration in just three taps, and choose your payment method.
+
+Scan the QR code at the terminal and receive a fully charged power bank with built-in Type-C, Micro-USB, and Lightning cables for all iPhones.
+
+Charge your phone and return the power bank to any nearby WePower terminal — in any city or even in another country where we are present. We’re always close by when you need us!
+
+Support: info@wepower.cc",2025-10-13T07:00:00Z,2025-11-18T06:38:40Z
+az,Azerbaijan,Lifestyle,6012,11,351331194,Badoo: Dating app & Friends,Badoo Software Ltd,https://apps.apple.com/az/app/badoo-dating-app-friends/id351331194?uo=4,0.0,4.77517,2215,Lifestyle,"Boost your dating confidence with Badoo— the dating app that makes it easy to express your true self.
+ 
+It’s an encouraging, safe space that’s designed to help you make more meaningful connections.
+ 
+How? By keeping it simple, helping you take action with confidence, and giving you the features and support you need to find whatever you’re searching for. Whether that’s dates, a long-term relationship, new friends, or chats.
+
+Plus, with our latest tech that aims to block fake, scam, and spam accounts, you can say hello to a fun and authentic dating experience. 
+ 
+Download Badoo to take your dating confidence to another level.""
+
+Back yourself
+On Badoo, it’s all about celebrating you and staying true to your needs. With our various features, it’s easy to put yourself out there with confidence.
+Trust your experience
+Badoo is a platform that prioritises authenticity. Profile photos can be verified and there are strict user guidelines in place.
+
+How Badoo works
+Focusing on who you are and what you want, here are some features making it easier for you to meet your kind of people:  
+-Advanced Filters: Finesse your search, and save your time
+-Profile Questions: Easily champion your personality
+- People Nearby: Meet daters around you
+- Encounters: Straight forward swiping, right to connect and left for skip
+- Video Chat: Connect with your matches through face to face video calling
+- Verified profiles: We have a three-step verification process which, once completed, you can choose to only interact with other verified profiles and find friends
+- Blur intimate photos: Using AI, our Private Detector feature detects explicit photos and will let you decide if you want to view or block the image
+- Deception Detector: Our new tech that aims to block fake, scam, and spam accounts, so you can have a fun and authentic dating experience""
+
+Go Premium
+Maximise your dating experience. When you upgrade to Badoo Premium, you’ll unlock plenty of features that will make it even easier to find meaningful connections:
+
+- See who's already liked you
+- Find exactly what you’re looking for with unlimited Advanced Filters
+- Get your messages read first
+- Send unlimited likes
+ - Control who sees your profile with Invisible Mode
+- Undo accidental left swipes  
+- And much more...
+
+The price varies by country and may change without notice, but you can always see the exact price in the app. We will charge your card and your subscription will be automatically renewed unless you deactivate the automatic recharge a minimum of 24 hours before the end of your current subscription period. Badoo Premium is flexible and adapts to your needs - you can cancel your subscription at any time.
+ 
+For more information, read our Privacy Policy and Terms of Use:
+https://www.badoo.com/privacy
+https://badoo.com/terms
+ 
+
+Bumble Inc. is the parent company of Badoo, along with Bumble and Fruitz",2022-01-19T08:00:00Z,2025-11-17T01:03:35Z
+az,Azerbaijan,Lifestyle,6012,12,6621272550,Alice AI,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/az/app/alice-ai/id6621272550?uo=4,0.0,4.54167,24,Lifestyle,"Alice AI: texts, neural network, fresh ideas, knowledge, Russian-language AI chat.
+
+Powerful Yandex AI on your phone helps with everyday chores and tackles tasks for study, work, and creativity.
+
+Explore what the neural network can do with Alice—everything you expect from a smart chat in Russian.
+
+Alice AI is Yandex’s family of generative models that power Alice. It includes:
+- Alice AI LLM — a language model for answering questions and generating text;
+- Alice AI ART — an image model for creating visuals;
+- Alice AI VLM — a multimodal vision-language model for analyzing images, answering questions, and solving image-related tasks.
+
+Ask questions, write and edit text—the Alice AI neural network responds accurately and comprehensively, and can enrich answers with images and source links. Speak by voice or type in chat.
+
+Work with files (DOC, DOCX, PDF, TXT), structure information, and turn it into clear, usable reports. The Alice AI assistant quickly extracts key insights.
+
+Work with photos—recognize text in images, identify objects, and get fast visual analysis. The AI chat assistant can pull data from a receipt photo, explain what’s in a shot, and convert it into an editable text format for further use.
+
+Solve complex problems—reasoning mode produces not just quick and detailed answers, but thoughtful conclusions. You get well-founded solutions with expert-level analysis.
+
+Create compelling English-language copy, ask questions, translate, and edit. Yandex Alice’s AI assistant helps draft anything—from personal emails and school assignments to business proposals.
+
+Find inspiration: generate new project ideas, run brainstorms, craft descriptions and messages, and build your own text templates. Let Alice handle the routine. The AI assistant can write a letter, a script for an event or talk, suggest a post title, or even a name for your pet.
+
+Create images and AI video—Yandex ART generates visuals or animates photos on request. Alice helps you produce striking social posts, a logo, or a birthday card.
+
+Use AI chat for professional work. The assistant helps with programming and code, offering multiple solution approaches. Alice AI teaches logic, explains logical problems clearly, and shares interesting facts. Get advice and recommendations on any topic—Alice answers in detail, suggests step-by-step actions, and helps you plan.
+
+Ask questions, type text, attach photos, videos, and files—or talk through the camera in real time with Live Mode. With the Pro option, show Alice what you see in Live Mode and get instant answers and ideas. Just open the Alice AI app and point your phone’s camera at whatever you want to learn about.
+
+Alice AI can be your guide to landmarks, your kitchen co-pilot for “what can I cook with this?”, or your stylist for picking shoes to match your trousers. Ask anything and switch topics as needed. The neural network keeps context, recognizes objects in the frame, and delivers fast, in-depth answers.",2024-10-13T07:00:00Z,2025-11-01T08:52:32Z
+az,Azerbaijan,Lifestyle,6012,13,6754170588,Мой отзыв,Alena Rostova,https://apps.apple.com/az/app/%D0%BC%D0%BE%D0%B9-%D0%BE%D1%82%D0%B7%D1%8B%D0%B2/id6754170588?uo=4,0.0,0,0,Lifestyle,"Ваше мнение важно! Делитесь впечатлениями, читайте отзывы и выбирайте с умом. ""Мой отзыв"" - платформа для честных оценок.",2025-11-16T08:00:00Z,2025-11-17T06:38:54Z
+az,Azerbaijan,Lifestyle,6012,14,6754551851,Deep Sea Fish Notes or Task,Komal Bahadur Bhandari,https://apps.apple.com/az/app/deep-sea-fish-notes-or-task/id6754551851?uo=4,0.0,0,0,Lifestyle,"Start from your Home Screen, where your nickname, profile icon, and level indicator reflect your progress. Each completed task, created note, or opened card adds to your achievements and brings you closer to the next level from Beginner to Master.
+
+In the Diary, you can create your own cards with names, images, and notes. These cards are saved in your Gallery, joining twelve beautifully designed cards divided into four themed sections:
+• Marine Fish Species learn about salmon, tuna, and halibut, the travelers and giants of the sea.
+• Biology and Behavior explore feeding habits, reproduction, and migration patterns that shape ocean life.
+• Fishing Methods discover how humans interact with marine nature through spinning, bottom gear, and nets.
+• Seafood Recipes cook delicious dishes like lemon-baked tuna, herb salmon, or halibut with mashed potatoes.
+
+Set your own Tasks and Goals, track them in the “In Progress” tab, and mark them as completed. Each finished goal boosts your stats and fills the Statistics Window, showing how many cards and tasks you’ve created.
+
+In your Profile, personalize your journey edit your nickname, choose your avatar, adjust sound or music, and monitor your achievements. Earn points, level up, and see your rank rise with each discovery.
+
+The ocean is vast, and learning never ends. With every note, every card, and every goal achieved, you navigate deeper into a world of knowledge, discipline, and curiosity. Explore, create, and master the sea one card at a time.",2025-11-01T07:00:00Z,2025-11-01T07:00:00Z
+az,Azerbaijan,Lifestyle,6012,15,1201725025,Faladdin: Tarot & Horoscopes,NUMBER 33 TECHNOLOGY - FZCO,https://apps.apple.com/az/app/faladdin-tarot-horoscopes/id1201725025?uo=4,0.0,4.79021,19224,Lifestyle,"From the heart of the mystical realm to the world, Faladdin is your personal in-pocket fortune teller.
+
+With over 25 million users, 5 million active users worldwide, and 1 million readings every day, Faladdin is taking the astrology world by storm! We combine in-depth ancient knowledge, with the motivation of constantly enlightening our users about their past, present, and future, to bring you incredibly unerring tarot card readings, horoscopes, and many more eye-opening in-app features such as clairvoyant, coffee cup readings, even your own Genie in a lamp!
+
+Check out our features & why our users love Faladdin so much:
+
+► DAILY HOROSCOPE
+We present your daily horoscope through your zodiac sign and boundless insights of the stars. By using Faladdin’s daily horoscope feature, you can illuminate your experiences throughout life and recognize how the planet’s movements can trigger life-changing transformations. Taking into consideration the positions of the Sun, Moon, planets, astrological aspects, and sensitive angles at the time of an event, such as the moment of a person's birth; by using your zodiac we are even able to provide you with great advice concerning your relationship, love, and compatibility with your partner, and use your astrology chart to do so.
+
+► LIVE CHAT
+Discover the future with Faladdin Live Chat Fortune Telling, our newest feature combining Faladdin’s prediction abilities with AI! Ask about your dreams, daily horoscopes, and what the future holds, and get instant responses. Enjoy personalized readings and uncover the secrets of the universe through interactive chat sessions. Dive into astrology, tarot cards, dream interpretations, and palm readings—all in real-time.
+
+► THE GENIE OF THE LAMP
+Rub your lamp and let loose your genie! This incredible prophecy feature provides you with your very own psychic fortune teller. Apart from cracking jokes and telling you outright common facts, your psychic genie can predict your future and provide a sense of comfort for your past.
+
+► TAROT CARDS
+Tarot & Astrology, two tools working from the same energy source in perfect harmony that can't be denied. We provide you with tarot card readings that are sure to be a beautiful and mystical experience, helping you to better understand your unique journey in this world. You can even choose your subjects of readings such as under the love, career, money or general title.
+
+► CLAIRVOYANT
+All of the questions you’re longing to find answers to are now just a clairvoyant reading away. Wondering when you’ll be in a happy relationship and find love? where your career is heading, or what opportunities are around the corner? Select any of the clairvoyant reading subjects and let Faladdin enlighten you.
+
+► COFFEE CUP READINGS
+What do the shapes in your coffee cup tell you? Cup reading - an ancient art of fortune-telling. Interpreting patterns made by coffee grounds left in the cup, it is a fun and healthful way to understand thyself.
+
+►DREAM INTERPRETATION
+
+Faladdin's latest charm! Now featuring Dream Interpretation — your guide to understanding the hidden meanings and messages in your dreams. 
+
+►PALM READING 
+Simply scan your palm using the app, and unlock a world of insights into your life's journey. Explore the intricate patterns of your hand lines and uncover their hidden meanings. Experience the magic of palmistry today with Faladdin!
+
+Faladdin is far beyond just any ordinary zodiac astrology app. It has the ability to help people understand and make complex choices in their lives, understand compatibility in romantic relationships, and most importantly; it gives you advice along with spiritual awareness tools to enhance the power that you have within yourselves.
+
+We’re so grateful to be a part of your motivational journey. 
+
+For Privacy Policy & Terms of Use : https://www.faladdin.com/terms-and-conditions",2017-03-23T22:49:11Z,2025-11-16T10:45:35Z
+az,Azerbaijan,Lifestyle,6012,16,1462875428,Roborock,"Beijing Rockrobo Technology Co., Ltd.",https://apps.apple.com/az/app/roborock/id1462875428?uo=4,0.0,4.91737,2917,Lifestyle,"Roborock App is a dedicated application designed to control Roborock’s smart hardware devices. 
+It supports network-enabled products in Roborock’s robotic vacuum cleaners, wet and dry vacuum cleaners, and molecular sieve-based washer dryers.
+You can remotely control smart devices and check their status and cleaning progress through this app anytime, anywhere.
+Easily unlock more advanced features through the Roborock app.
+
+【Roborock Robotic Vacuum Cleaner】
+· Check the cleaning map and path anywhere and anytime you want, and control the cleaning progress in real-time. 
+· Choose from various personalized cleaning methods, including room cleaning, zone cleaning, scheduled cleaning, and spot cleaning routines.
+· Set up frequently used cleaning tasks as routines for one-tap starts. 
+· Choose multiple cleaning preferences, including Vacuum, Mop, Vac & Mop, SmartPlan (applicable to certain models only), and Customize mode. 
+· Set up a personalized cleaning plan by adjusting suction power, water flow, cleaning frequency, and route (applicable to certain models only).
+· Enables you to edit a map based on your home and set names for thresholds, carpets, floor types, furniture, and rooms. 
+· Set up invisible walls and no-go zones and your robot will not cross or enter them during cleaning.
+· Enjoy a variety of fun features, including remote viewing, obstacle photos, pet snapshots, cruise mode, pet search, and custom tones (applicable to select models only).
+
+【Roborock Wet and Dry Vacuum Cleaner】
+· Adjust water flow, suction power, roller speed, and detergent level (applicable to select models only) based on the floor and dirt level.
+· Smart scheduled self-cleaning and drying: automatically initiates self-cleaning and drying based on historical operation records.
+
+【Roborock Washer Dryer】
+· Check the washing progress and operating status anywhere and anytime you want.
+· Choose from over 20 smart washing and drying programs to meet the professional needs of various fabrics and clothing, ensuring optimal washing performance.
+· Set one program as the App Program for quick access on the control panel.
+
+【Permissions】
+To provide certain services, you need to enable the relevant permissions on your mobile device. We will only need the relevant permissions and access your personal information (if relevant) when you use the relevant functions. For the optional permissions, you can refuse or withdraw these permissions at any time, for which you may not be able to use the corresponding services, but this will not affect other functions of the App. The current permissions that the app may need are as follows: 
+· Location (Optional)
+Accesses location information to connect to WiFi, find nearby devices ready for connection, and retrieve details about the current WiFi connection.
+· Camera (Optional)
+Enables the camera to scan QR codes for easier WiFi connection.
+· Photos (Optional)
+Allows access to photos for uploading profile pictures and attaching images when providing feedback. If your device supports features like downloading obstacle images, taking screenshots, or recording during remote viewing, photos and videos can be stored.
+· Microphone (Optional)
+Used for sound transmission on devices that support remote viewing.
+· WLAN (Optional)
+Facilitates connection to WiFi networks emitted by smart devices for communication and connectivity.
+· Bluetooth (Optional)
+Enables connection to Bluetooth signals from smart devices for communication and device connecting.
+· Notifications (Optional)
+Allows the app to send you device and system notifications.
+· Local Network (Optional)
+When connecting devices on the iOS local network, grants access to the local network to connect to WiFi networks emitted by smart devices.
+· Siri & Search (Optional)
+When opening Siri on iOS, interacts with Siri to control the starting and moving of devices based on the Routines set up in the mobile device.",2019-06-18T06:57:57Z,2025-11-19T09:35:50Z
+az,Azerbaijan,Lifestyle,6012,17,993504342,LG ThinQ,LG Electronics,https://apps.apple.com/az/app/lg-thinq/id993504342?uo=4,0.0,4.82134,806,Lifestyle,"Connect your IoT home appliances to the LG ThinQ app.
+Enjoy effortless product control, smart care, and convenient automation in one simple solution.
+
+■ Discover the convenience of smart home appliances through the Home tab.
+ - Control your IoT home appliances from anywhere with our app.
+ - Get personalized recommendations for managing appliances based on usage history.
+ - Find out ways to better make use of the app's features from ""Explore""
+■ Upgrade your products from ThinQ Play.
+ - Use your products more efficiently and with greater ease by introducing new features to products you are currently using.
+ - Upgrade your products based on your lifestyle and personal preferences.
+■ Monitor your energy consumption data quickly.
+ - Use Energy Monitoring to compare your power usage with your neighbors’.
+ - Set energy saving goals and get usage status notifications to help save energy more efficiently.
+ - Receive care services for your products all in one place.
+■ Handle everything from troubleshooting to service requests directly from the app.
+ - Use the Smart Diagnosis function to check your product’s status.
+ - Book a service visit from a professional engineer for an accurate diagnosis and inspection.
+■ Conveniently reference LG home appliance manuals in one place.
+ - Access a range of content, including function descriptions and essential usage solutions for products.
+
+※ Services and features may vary depending on your product model and your country or region of residence.
+
+The following access permissions are necessary for the ThinQ app. 
+All the access permissions requested are optional access permission, so even if you do not allow them, you can still use the app except for the related services. (Including OS Request Permissions such as ""Siri & Search"", ""Notification"", ""Background App Refresh"", and ""Cellular Data"")
+
+[Optional Access Permissions]
+• Location
+- To find and connect to nearby Wi-Fi when registering the product.
+- To set and save the home location in Manage Home
+- To search for and use information about current locations, such as weather.
+- To check your current location in the ""Smart Routines"" function.
+
+• Camera
+- To take a profile picture
+- To share a home or account scanned from a QR code.
+- To take and attach photos in ""1:1 Inquiry.""
+- To record and store purchase receipts when registering additional information about the product..(미국 Only)
+- To use the AI oven Cooking Record feature.
+- To use in “Chat with LG” when entering the product and serial number information 
+
+• Photo, Media, File
+- To use the smartphone's storage when downloading the information of the product to be connected
+- To take and attach photos in ""1:1 Inquiry.""
+- To record and store purchase receipts when registering additional information about the product.
+- To view photo/video on your smartphone on the TV.
+- To use in “Chat with LG” to save photos/videos of product symptoms or proof of purchase
+- To use in “Chat with LG” when entering the product and serial number information
+
+• Media and Apple Music
+- To view photo/video on your smartphone on the TV.
+
+• Microphone
+- To check product status via Smart Diagnosis
+- To use in “Chat with LG” when inputting through the microphone in the input window and using STT.
+
+• Local Network
+- To obtain the device connecting Wi-Fi info when adding devices
+
+• Bluetooth
+- To find and connect to nearby Bluetooth devices when adding a product to the app.
+
+• HomeKit
+- To add IoT-based products
+
+• Notifications
+- Notifications are essential for receiving updates on product status, important notices, benefits, and information.",2016-09-08T08:25:28Z,2025-11-20T06:39:26Z
+az,Azerbaijan,Lifestyle,6012,18,6502763303,iVolt,"ITICKET, MMC",https://apps.apple.com/az/app/ivolt/id6502763303?uo=4,0.0,5,10,Lifestyle,"iVolt is a pioneering electric vehicle (EV) charging solutions provider based in Azerbaijan, dedicated to accelerating the adoption of electric vehicles through innovative and accessible charging infrastructure. Established in March 2024, iVolt has quickly positioned itself as a key player in the EV ecosystem, focusing on delivering seamless and efficient charging services to both individual and corporate clients.\n
+
+Our Vision and Mission
+
+Vision: To become the leading provider of electric vehicle charging solutions in Azerbaijan and expand our reach globally, driving the transition towards sustainable transportation. Mission: To provide reliable, efficient, and accessible EV charging solutions, fostering the widespread adoption of electric vehicles and contributing to a cleaner, greener future. Core Business Directions
+
+iVolt operates across three main business directions:
+
+iVolt App (Platform):
+
+B2C and B2B Payments and Reporting: The iVolt app serves as a comprehensive platform for managing payments and generating detailed reports for both individual EV owners and corporate clients. It ensures a smooth and user-friendly experience, simplifying the process of finding and using charging stations. Operator of Charging Stations:
+
+Nationwide Infrastructure: iVolt owns and operates a network of charging stations across Azerbaijan. These stations are strategically located to maximize accessibility and convenience for EV drivers, ensuring they can charge their vehicles whenever and wherever needed.
+
+Operational Excellence: Beyond installation, iVolt takes on the role of an operator, managing the day-to-day operations, monitoring station performance, and providing 24/7 customer support to ensure optimal service delivery and user satisfaction.
+
+Services to Third-Party Charging Station Owners:
+
+Platform Integration: iVolt offers integration services to third-party charging station owners, allowing them to leverage the iVolt platform for enhanced functionality and user engagement. Installation and Servicing: iVolt provides comprehensive installation and maintenance services, ensuring that all charging stations are operating at peak efficiency and reliability. Innovative Partnership Models
+
+iVolt has developed flexible partnership models to cater to the diverse needs of its business clients:
+
+App Only Model: Partners can use the iVolt app for managing their existing charging stations, benefiting from scalable usage fees and performance-based discounts. Ownership and Profit Sharing Models: iVolt collaborates with partners by providing and installing infrastructure, with revenue-sharing agreements tailored to ensure mutual growth and profitability. Corporate and Retail Client Solutions
+
+B2C Retail Clients: Individual EV owners can easily locate, reserve, and pay for charging services through the iVolt app, enjoying a hassle-free charging experience. B2B Corporate Clients: Large EV fleets and taxi companies receive preferential rates and dedicated services, optimizing their operations and reducing costs. Commitment to Sustainability
+
+At iVolt, sustainability is at the core of everything we do. By promoting the use of electric vehicles and expanding the charging infrastructure, we aim to reduce carbon emissions and support a greener, more sustainable environment for future generations.
+
+Conclusion
+
+As a forward-thinking company, iVolt is committed to innovation, excellence, and sustainability in the EV charging industry. With our robust platform, extensive network, and customer-centric approach, we are poised to lead the way in transforming transportation and driving the future of electric mobility.
+
+For more information, visit our website at www.ivolt.az.",2024-06-20T07:00:00Z,2025-10-28T17:43:45Z
+az,Azerbaijan,Lifestyle,6012,19,930441707,Bumble Dating app: Meet People,Bumble Holding Limited,https://apps.apple.com/az/app/bumble-dating-app-meet-people/id930441707?uo=4,0.0,4.71515,660,Lifestyle,"The dating app bringing people closer to love
+
+Bumble is the dating app where people meet, make connections, and start their love stories. We believe meaningful relationships are the foundation of a happy, healthy life — and we're here to help you find yours with a commitment to member safety and tools that empower confident dating.
+
+Match with the right people, date, and find meaningful connection
+
+Bumble is a free app for meeting singles and building connections grounded in mutual respect and trust. Whether you’re ready to find the one or date for fun, Bumble can help you connect with real people to build something authentic.
+
+As champions of love, we prioritize creating a space where our members feel respected, confident, and empowered to make connections
+
+- Our members are at the heart of everything we do
+- We put safety first — so you can date with confidence, knowing you’re connecting with verified matches
+- Respect, courage, and joy guide how we show up — and inspire others to do the same
+
+Try our free features — built to make dating easier
+- For better connections, conversations, and dates, personalize your profile with interests and prompts to showcase who you are, what you’re into, and what you’re looking for
+- Trust that the person you’re talking to is real with ID Verification
+- Feel confident with expert-backed dating advice designed to help you succeed
+- See what music you bond over by linking your Spotify account
+- Video chat and share your favorite pictures with your matches to get to know them better
+- Chat with peace of mind — knowing that when you’re talking to new people, all messages must meet our community guidelines
+- Get extra reassurance by sharing the details of your meetups with someone you trust
+- If you’re ever in need of a dating break, hide your profile with the Snooze Mode (you'll still keep all your matches)
+
+Want even more ways to connect? Bumble Premium unlocks extra features to boost your dating experience
+- See everyone who likes you
+- Use Advanced Filters like “What are they looking for?” to meet people who share your values, hobbies, and goals
+- Rematch with expired connections — so you don’t miss out on a great potential date
+- Browse anonymously with Incognito Mode and only seen by who you want to see you
+- Extend your matches by 24 hours
+- Swipe as much as you like to meet more people
+- Tap into dating scenes around the world with Travel Mode
+- Stand out and get noticed with free SuperSwipes & Spotlights, refreshed weekly
+
+Inclusivity is key
+At Bumble, we promise to support and include all forms of love: straight, gay, lesbian, queer, and beyond. We want everyone in our community to feel safe and welcome. So no matter how you identify, if you're looking for a place to chat, date, and find real love, we’ve got what you’re looking for.
+
+---
+Bumble is a free dating app to download and use. We offer optional subscription packages (Bumble Boost & Bumble Premium) and non-subscription, single, and multi-use paid features (Bumble Spotlight & Bumble SuperSwipe). Your personal data is securely processed in line with our privacy policy and applicable laws—be sure to read our privacy policy and terms and conditions.
+https://bumble.com/en/privacy
+https://bumble.com/en/terms
+Bumble Inc. is the parent company of Bumble, Badoo, and BumbleBFF, social networks, and dating apps free to download and use.",2015-02-25T19:54:05Z,2025-11-17T09:23:19Z
+az,Azerbaijan,Lifestyle,6012,20,333206289,Alipay - Simplify Your Life,"Alipay (Hangzhou) Technology Co., Ltd.",https://apps.apple.com/az/app/alipay-simplify-your-life/id333206289?uo=4,0.0,3.91667,12,Lifestyle,"Alipay is a leading open platform for payments and digital services in China.
+
+Users with a Chinese ID and bank account can use Alipay to make payments online and in person at various merchants outside of China as they travel for leisure, business, or study. 
+
+Foreign visitors to China can connect their credit card to take advantage of Alipay’s widespread acceptance by tens of millions of merchants across the country. Alipay is not designed or intended for use by foreign users in their home country or anywhere outside of China.",2011-07-08T03:24:17Z,2025-11-20T03:00:12Z
+az,Azerbaijan,Lifestyle,6012,21,1582810683,Дом с Алисой,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/az/app/%D0%B4%D0%BE%D0%BC-%D1%81-%D0%B0%D0%BB%D0%B8%D1%81%D0%BE%D0%B9/id1582810683?uo=4,0.0,4.90308,227,Lifestyle,"Дом с Алисой — приложение, в котором удобно настраивать умный дом и управлять им даже в дороге. Подключайте лампочки, пылесосы, датчики и тысячи других устройств — и контролируйте их здесь или через колонку.
+
+• ВСЁ В ОДНОМ ПРИЛОЖЕНИИ
+Добавляйте и удаляйте самые разные устройства, от колонок с Алисой до кондиционеров, меняйте названия и расположение — и настраивайте, как вам нравится.
+
+• УДАЛЁННОЕ УПРАВЛЕНИЕ
+Дом под контролем, даже если вы далеко: скажем, по дороге на дачу можно заранее включить обогреватель.
+
+• ОДНА КОМАНДА ДЛЯ ВСЕГО
+Запускайте нескольких устройств одной фразой — например, «Алиса, скоро буду дома». Настройте сценарий, и по этой команде включится кондиционер, пылесос начнёт уборку, а в коридоре зажжётся свет.
+
+• ДОМ, КОТОРЫЙ САМ О ВАС ЗАБОТИТСЯ
+Подключайте датчики — к примеру, температуры и влажности, — и проверяйте, как дела дома. Создайте сценарий, добавьте обогреватель и что-нибудь ещё — и дом будет сам следить, чтобы в нём хорошо дышалось.
+
+• РУТИННЫЕ ДЕЛА ПО РАСПИСАНИЮ
+Поручите часть домашних дел Алисе. Достаточно один раз настроить расписание, и она будет сама поливать цветы и включать перед сном увлажнитель.
+
+• СЦЕНАРИЙ В ОДНО КАСАНИЕ
+Добавьте сценарий в виджет — и кнопка управления будет всегда под рукой, на главном экране телефона.
+
+• ТЫСЯЧИ РАЗНЫХ УСТРОЙСТВ
+Подключайте сколько угодно домашних приборов разных производителей: в магазине вы узнаете эти устройства по отметке «Работает с Алисой».",2022-05-23T07:00:00Z,2025-11-13T06:42:33Z
+az,Azerbaijan,Lifestyle,6012,22,1459550704,"Kismet - Tarot, Astrology",Somon Teknoloji ve Yazilim Hizmetleri Anonim Sirketi,https://apps.apple.com/az/app/kismet-tarot-astrology/id1459550704?uo=4,0.0,4.84149,2208,Lifestyle,"Looking for a fun and unique way to explore your destiny? Look no further than Kismet! Our free psychic fortune telling app offers a variety of features, including tarot card readings, daily horoscopes, zodiac signs, palm readings, birth charts, and even fun quizzes! Discover what the future holds and unlock the mysteries of the universe with Kismet!
+
+Kismet is a unique psychic fortune telling app that offers tarot card readings, daily horoscope or zodiac signs, free palm readings, birth chart, as well as personality tests. If you want a free and personal experience, download Kismet for free.
+
+Tarot Card Reading: Tarot card reading is a psychic practice that makes use of tarot cards to gain insight about your past, present or future, depending on your questions. We will draw and read your tarot cards.
+
+Free Palm Reading: Palmistry, also known as palm reading, is the practice of fortune telling through studying the palm and the lines on it. Palmistry is a part of our psychic and astrology app too, for free! Our fortune tellers mesmerize you!
+
+Free, Daily, Weekly & Yearly Horoscope Readings: Would you like to read your daily horoscope? Or you may want to read weekly, monthly or yearly horoscopes since Kismet has all! Simply download our app and get personalized horoscope insights that could help you better understand your life and the challenges and opportunities that come your way. Whether you're seeking clarity for the day or planning ahead for the future, Kismet has got you covered with its accurate and insightful horoscope readings.
+
+Angel Card Reading: Angel cards consist of 36 luminous angels that will assist and support you. Pick your cards and choose the topic that you want to get help from your angels, such as love, money and family. Then let our fortune tellers read your cards.
+
+Zodiac Compatibility, Love Compatibility Between Zodiac Signs: We not only talk about your horoscope, but also talk about your loved one’s horoscope too! Explore the unique dynamic between you and your partner's zodiac signs and unlock insights into your relationship that you never knew before. Check if your zodiac signs are compatible now!
+
+Birth Chart: Unlock the secrets of the universe with Kismet's free birth chart feature! Simply enter your birth date, time, and place to discover how the position of the stars and planets at your birth may influence your destiny. Our expert astrologers will interpret your chart and provide insight into your unique strengths and challenges.  
+
+Games: You can also have fun playing classic hit games like Solitaire, Pipe Connect, and Word Ring, all while earning coins to enjoy free readings. Kismet's games section offers many options to suit all tastes, ensuring that you will never get bored while waiting for your reading! 
+
+Quizzes: Kismet not only offers you a free unique psychic or astrology experience, but also offers you a fun experience, so you will never get bored while waiting for your tarot card reading or free palm reading! You can find quizzes that are related to any topic such as zodiac signs, horoscopes, personality tests! 
+
+Daily Affirmations: We are not just an ordinary astrology or psychic fortune telling app! We want to help you in your daily life too! Check the affirmations page for free and you will be amazed how your life changes!
+
+Dreams: Get insights from your dreams with dream interpreter and visualize them with dream painter.
+
+Mood Journal: Track your feelings, embrace positivity for a fresh start every day.
+
+Breathing Exercises: Relax with personalized breathing routines designed to bring you calm and balance.
+
+Kismet offers a variety of things; free daily horoscope, weekly and yearly horoscopes, free fortune telling and future tellers, tarot reading or tarot card reading, free palm reading or palmistry, fun personality tests, zodiac compatibility, natal chart, or birth chart and more, all for free!
+
+EULA - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2019-08-29T07:00:00Z,2025-11-05T22:09:10Z
+az,Azerbaijan,Lifestyle,6012,23,1471508186,"EZMatch:18+ Dating,Meet&Flirt",QUANG VU MINH,https://apps.apple.com/az/app/ezmatch-18-dating-meet-flirt/id1471508186?uo=4,0.0,4.73303,663,Lifestyle,"EZMatch is a dating app for adults over 18. Designed to suit a wide range of people, EZMatch has everything you are looking for. Whether you are looking for friends, lovers or a short-term fun relationship, everything is available on EZMatch. With smart algorithms, AI-powered suggestions, EZMatch brings you the best experience. Fast, convenient, safe, EZMatch helps you find what you are looking for whether you are at school, at work or at home, anywhere you can use EZMatch. Download EZMatch now and enjoy!
+
+EZMatch - One of the best dating apps for adults. Easy to make friends, easy to chat, easy to meet. Helps you find your other half after only 30 days of using our application.
+
+Here are some reasons why EZMatch is your best choice:
+- Free and safe to meet new people
+- Face authentication, helps increase credibility and safety when using the application
+- See people near you or people you bump into
+- Easy to chat, just need 1 person to speak and 2 people can talk to each other
+- Give you suitable recommendations based on artificial intelligence analysis
+- Voice introduction feature helps you hear other people's voices
+- Advanced search feature helps you find the most suitable person
+- Regular updates with new features
+- For Teens: EZMatch is designed to be suitable for teens and to be one of the best dating apps for teens
+- LGBT support. LGBT friends can find each other on the app
+
+NOTE: Currently, there are many bad guys taking advantage of dating apps like Tinder, Badoo, Bumble, EZMatch,etc.... to lead to other apps like Telegram, Whatsapp or Imessage to scam. Therefore, avoid going to other platforms like Telegram, Whatsapp, Imessage ,etc... before getting to know each other well. Luring users to other apps like Telegram, WhatsApp, etc... to scam will result in your account being permanently locked.
+
+By choosing to purchase, you agree to our Privacy Policy and Terms of Use.
+
+When purchasing an account upgrade, payment will be charged to your iTunes account. Premium account plans start at $4.99/week, including 1 week, 1 month, 6 months and 1 year. The account upgrade package will automatically renew at the same price within 24 hours before the package period ends. You may turn off auto-renewal by going to your iTunes Store settings after purchase. Any unused free trials (if any) will be forfeited when you subscribe to the respective account upgrade plan. Prices are shown in USD, may vary depending on the country you live in, and are subject to change without notice. You cannot cancel or change the purchased package while it is still valid. If you do not choose to purchase account upgrades or coin and diamond packages, you can still continue using EZMatch for FREE.
+
+Privacy policy: https://ezmatch.dating/privacy-policy.html
+Terms of use: https://ezmatch.dating/service-terms.html
+Website: https://ezmatch.dating/
+Facebook: https://facebook.com/ezmatch.dating
+Email support: support@ezmatch.dating",2019-07-31T07:00:00Z,2025-11-20T11:56:16Z
+az,Azerbaijan,Lifestyle,6012,24,1596550932,NGL: ask me anything,"Streaming Clips, Inc",https://apps.apple.com/az/app/ngl-ask-me-anything/id1596550932?uo=4,0.0,4.8456,1794,Lifestyle,"How to use NGL:
+1. Share your NGL Link
+2. Friends answer right on your story
+3. Get responses on NGL
+
+To ensure the safety of our users, NGL leverages Hive Moderation’s automated moderation solution as the first line of defense to scan messages for inappropriate content. 
+
+-
+
+NGL Pro members have access to:
+- Exclusive access to Pro games
+- Hints about who sent each of their messages
+- Early access to new features
+
+NGL Pro is a paid renewable subscription.
+
+-
+
+Terms of service: https://ngl.link/terms-of-service
+Privacy policy: https://ngl.link/privacy-policy",2021-12-10T08:00:00Z,2025-11-19T16:22:50Z
+az,Azerbaijan,Lifestyle,6012,25,1103530261,Precious - Baby Photo Art,Curious Creators Co.,https://apps.apple.com/az/app/precious-baby-photo-art/id1103530261?uo=4,0.0,4.87296,1047,Lifestyle,"Precious is the cutest way to track your baby milestones and see your baby's development. This app AUTOMATICALLY organizes your baby photos into adorable monthly pictures, growth slideshows, a photo calendar journal, and MUCH more — all with no work required from you.
+
+Precious uses Artificial Intelligence to find the absolute best photos of your baby and uses them to create photo stories that will melt your heart.
+
+You can watch your baby grow up with the then vs now feature, smile at a slideshow of last weekend’s activities, or effortlessly browse older baby pictures in the Photo Calendar. Every one of your baby's monthly milestones is accompanied by beautiful photo frames & collages, made for you. Have fun with your photos by exploring the hundreds of unique stickers we have available to mark the fun activities you and your baby share. 
+
+You just keep taking baby photos. Let Precious handle the rest.
+
+--
+
+Contact us:
+If you have questions or suggestions, please email us at contact@preciousapp.com
+
+--
+
+SUBSCRIPTION PRICING & TERMS
+Precious is free to download. Everyone is welcome to a free 3-day trial period of the Baby Art Unlimited in-app-purchase. A free trial or purchase is required to access content.
+- Subscribing to Baby Art Unlimited gives you unlimited access to our premium content and features
+- There are monthly and annual subscription options, with prices as listed in your localized app store ($4.99 per month in the United States)
+- Payment will be charged to your iTunes Account at confirmation of your subscription
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and at the cost of the chosen package
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during active subscription period
+- Links to Your Privacy Policy and Terms of Use at https://www.preciousapp.com/privacy-policy and https://www.preciousapp.com/terms-conditions 
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication
+- At the end of your subscription, you will be able to keep any content that your received while your subscription was active.",2016-04-21T20:12:43Z,2025-11-19T19:00:21Z
