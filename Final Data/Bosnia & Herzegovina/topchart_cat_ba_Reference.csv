@@ -1,0 +1,865 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ba,Bosnia and Herzegovina,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/ba/app/google-translate/id414706506?uo=4,0.0,3.97059,34,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2020-04-16T07:00:00Z,2025-11-18T17:48:56Z
+ba,Bosnia and Herzegovina,Reference,6006,2,879490940,Pravoslavni Kalendar,Ivan Marinkovic,https://apps.apple.com/ba/app/pravoslavni-kalendar/id879490940?uo=4,0.0,2.875,8,Reference,"Pravoslavni Kalendar objedinjuje:
+
+- Crkveni kalendar, u periodu od 2012. do tekuće godine. sa dnevnim prikazom datuma po gregorijanskom i julijanskom kalendaru, mesečeve mene i vrste posta. Crkveni kalendar automatski prilagođava pokretne praznike i postove za svaku godinu prema Vaskrsu kao i mesečeve mene.
+- Praznike i krsne slave. Svaki praznik i krsna slava, osim datuma sadrže i ikonu kao i žitije sveca.
+- Molitvenik, sa više od pedeset molitvi.
+- Izračunavanje datuma Vaskrsa, kao i katoličkog Uskrsa, jednostavnim unosom godine.
+- Lista višednevnih i jednodnevnih postova za odabranu godinu sa datumima po novom i starom kalendaru.
+- Lista svih vašara u Srbiji grupisanih po mesecima.
+- Lista svih pazarnih dani u Srbiji grupisanih po danu u nedelji.
+
+- ""Today Widget""
+- Stikeri za iMessage
+
+---
+
+The Pravoslavni Kalendar comprises:
+
+- The church calendar, for the period between 2012. and current year, with daily date review according to Gregorian and Julian calendar, the moon phases and fast types. The church calendar automatically adjusts moveable holidays and fasts for every year according to Easter as well as the moon phases.
+- Holidays and Patron saints day dates. Every Holiday and Patron saints day, besides the date, also contain the saint icon as well as his biography.
+- Prayer book, with more than fifty prayers.
+- Easter date calculation, as well as Catholic Easter date, by simply entering the year.
+
+- ""Today Widget""
+- Stickers fro iMessage App
+
+Application is in Serbian language.",2020-04-15T07:00:00Z,2022-07-25T14:58:53Z
+ba,Bosnia and Herzegovina,Reference,6006,3,282935706,Bible,Life.Church,https://apps.apple.com/ba/app/bible/id282935706?uo=4,0.0,4.95131,534,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2020-04-18T07:00:00Z,2025-11-19T16:02:20Z
+ba,Bosnia and Herzegovina,Reference,6006,4,1137404650,口袋游戏视频 - 泰拉瑞亚 tr Terraria edition,仕劲 李,https://apps.apple.com/ba/app/%E5%8F%A3%E8%A2%8B%E6%B8%B8%E6%88%8F%E8%A7%86%E9%A2%91-%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A-tr-terraria-edition/id1137404650?uo=4,0.0,0,0,Reference,"这是一个送给喜欢泰拉瑞亚的玩家的礼物。
+
+－－－－－－－－－－－－－－－－
+在这里，世界是这样的：
+
+小到座椅板凳，大到高楼大厦，都是你打造的对象，你在这个世界种敲下的所有物块，他都是组合成一件或者几十件物品的素材。
+
+随着时间的推移，条件的满足，会有更多的NPC入住这个你造的建筑群，他会因为你的打造慢慢的成为真正的据点，成为你冒险和守护的原点，怪物会袭击你的村落，你得击败敌人，打倒BOSS得到丰厚的奖励。
+
+《泰拉瑞亚》是由Re-Logic公司开发的一款高自由度的沙盒游戏，于2011年5月16日在PC上发行。 玩家可以在游戏中做很多事情：制造武器战胜各种各样的敌人及群落；挖掘地下寻找器材配件、金钱和其他有用的东西；收集木材，石材，矿石等资源；用世界里的一切创造你需要的东西并守护它。
+
+－－－－－－－－－－－－－－－－
+
+[个性推荐]
+精彩过后难免意犹未尽？我们都安排好了
+
+[精彩播单 ＋ 热门排行榜]
+在这个信息爆炸的时代，让精彩不再错过
+不知道从哪里开始，就从这里开始吧
+
+[收藏 & 缓存]
+精彩内容，随时回顾",2020-04-11T07:00:00Z,2020-04-11T07:00:00Z
+ba,Bosnia and Herzegovina,Reference,6006,5,1164826566,Cloud Music-Download Songs Lab,国文 李,https://apps.apple.com/ba/app/cloud-music-download-songs-lab/id1164826566?uo=4,0.0,4.5,2,Reference,"Also it allows you to download songs from your cloud storages. It supports Dropbox®.
+
+It is easy to use and useful. You can enjoy listening to songs without wifi.
+
+Main Features: 
+√ Download songs from your cloud storages.
+√ Play downloaded songs with a powerful player.
+√ Play local iPod songs with a powerful player.
+√ Provide 3 play modes: normal, single, shuffle.
+√ Manage your playlists.
+
+How to use:
+1. On the tab 'Cloud' choose the cloud platform Dropbox.
+2. Click the Sign In icon button at the right top corner of the cloud platform section.
+3. Connect to Dropbox and use your account. (If you have no account, you should register one.)
+4. Get songs from your cloud storage. (You should upload your preferred songs to your cloud storage by yourself.)
+5. Choose a downloaded songs to play and enjoy it.",2020-04-19T07:00:00Z,2020-04-19T07:00:00Z
+ba,Bosnia and Herzegovina,Reference,6006,6,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/ba/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.85541,249,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2020-04-10T07:00:00Z,2025-11-10T12:15:36Z
+ba,Bosnia and Herzegovina,Reference,6006,7,6740403566,Deen Buddy - Quran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/ba/app/deen-buddy-quran-chat/id6740403566?uo=4,0.0,4.91803,61,Reference,"Deen Buddy – AI Quran, Daily Verses & Prayer
+
+Deen Buddy is your AI-powered Islamic companion. Get instant answers to Quranic questions, receive daily inspirational verses, and stay on track with accurate prayer time notifications.*
+
+AI Quran Chat
+• Ask any Quran-related question and get AI-powered answers.
+• Understand meanings, tafsir, and historical context easily.
+• Personalized responses based on authentic sources.
+
+Daily Quran Verses
+• Receive daily inspirational Quranic verses.
+• Bookmark and share your favorite ayahs effortlessly.
+• Enhance your understanding of the Quran one verse at a time.
+
+Prayer Time Notifications
+• Accurate prayer time alerts based on your location.
+• Customizable Athan notifications so you never miss a Salah.
+• Supports multiple calculation methods for accuracy.
+
+Why Choose Deen Buddy?
+• AI-powered Quran chat for instant insights.
+• Daily Quran verses to keep you inspired.
+• Prayer time alerts for timely worship.
+• Minimalist and distraction-free experience.
+
+Download Deen Buddy now and strengthen your connection with the Quran.
+
+**Access to Deen Buddy requires a paid subscription**
+
+Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+ba,Bosnia and Herzegovina,Reference,6006,8,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/ba/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,3,2,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+ba,Bosnia and Herzegovina,Reference,6006,9,1561598617,Dhikr & Dua,Amanat Charity Trust,https://apps.apple.com/ba/app/dhikr-dua/id1561598617?uo=4,0.0,4.9672,61,Reference,"As-salāmu ‘alaykum,
+
+Welcome to the Dhikr & Dua app by Life With Allah, a da‘wah initiative of Ummah Welfare Trust.
+
+A beautiful app with a stunning modern design to help you read dhikr and duas on a daily basis and on key occasions.
+
+The app is totally FREE with NO annoying ads.
+
+Wide Selection
+The app features a collection of 500+ du‘ās and dhikr, each of them carefully assigned to a relevant category.
+
+Easy Navigation
+The app provides easy navigation through the various collections of duas & dhikr. Just swipe left and right to go to the next or previous dhikr & du‘a. Or go immediately to your preferred dhikr or du‘a by using the index page. 
+
+Translation, Transliteration, Hadith/Virtue
+Each dhikr and dua features the above so you can help you read and understand what you are reading. The explanation of each dua and dhikr is coming soon inshallah.
+
+Audio
+Running out of time? Find it difficult to read the Arabic? We’ve got you covered. Listen to each du‘a and dhikr individually or simply play the whole collection!
+
+Articles
+Over 100 articles on dhikr, dua, the Qur’an, ruqyah and more, for you to read from.
+
+Emotions
+Feeling anxious or angry? Confused or worried? You can now select whatever emotion you’re feeling and recite the du‘a related to it.
+
+Daily Reminder
+The daily reminders which are shared on our social media platforms will also be made available for users on the app. Simply go to the ‘Daily Reminder’ tab to view and share.
+
+Share
+Share your favourite dua or dhikr as text and also as an image.
+
+Counter
+Each dua or dhikr which needs to be recited multiple times will have a dedicated counter.
+A separate stand-alone counter. Simple and easy to use. Just select the preset amounts or choose your custom amount and tap away!
+
+Customisation
+Find the Arabic hard to read? Is reading on a screen too difficult? You can change the font of the Arabic text to whatever suits you best. Audio too fast or too slow? Customise the speed of the audio to whatever you're most comfortable with.
+
+
+Publications
+Download a range of FREE publications which are also available on lifewithallah.com
+
+MORE EXCITING FEATURES COMING SOON INSHALLAH.
+
+
+Please rate the app and share it with your loved ones if you find it beneficial.
+
+If you find any errors or bugs, please let us know by emailing feedback@lifewithallah.com with the details.",2021-05-01T07:00:00Z,2025-10-28T04:28:51Z
+ba,Bosnia and Herzegovina,Reference,6006,10,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/ba/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,5,4,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+ba,Bosnia and Herzegovina,Reference,6006,11,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/ba/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.76923,26,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2020-04-10T07:00:00Z,2025-11-03T07:39:48Z
+ba,Bosnia and Herzegovina,Reference,6006,12,6738706805,IKEA Assembly Guide,"Unrepped, Inc.",https://apps.apple.com/ba/app/ikea-assembly-guide/id6738706805?uo=4,0.0,0,0,Reference,"We Make It Simple.
+Follow step-by-step Text and Audio instructions to build furniture faster and stress-free
+
+Works With All Major Brands!
+From IKEA to Amazon, Wayfair, Target, Ashley Furniture, Crate & Barrel, Pottery Barn, AllModern, and many more!
+
+
+HOW IT WORKS:
+1. Take a Photo of any step in your furniture manual.
+2. Instant, Clear Text Instructions tailored to your furniture.
+3. Listen Hands-Free with easy-to-follow audio guides!
+
+Perfect for Building:
+Beds, Desks, Shelves, Tables, Chairs, Shoe Racks, and more!!
+
+Why Choose the IKEA Assembly Guide?
+- SAVE TIME: No more wasting hours deciphering unclear diagrams.
+- USER-FRIENDLY: Clear instructions that anyone can follow.
+- HANDS-FREE MODE: Listen while you work.
+- ALL-PURPOSE: Works with any brand, any piece of furniture.
+
+
+Get Ready to Enjoy Your New Furniture Fast and Stress-Free! Download IKEA ASSEMBLY GUIDE today and make your next DIY project a breeze!",2024-11-28T08:00:00Z,2024-12-09T10:37:42Z
+ba,Bosnia and Herzegovina,Reference,6006,13,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/ba/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.78041,296,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2020-04-10T07:00:00Z,2025-11-13T13:29:55Z
+ba,Bosnia and Herzegovina,Reference,6006,14,1663862037,EveryScan・Identifier & AI Lens,Conlan Limited,https://apps.apple.com/ba/app/everyscan-identifier-ai-lens/id1663862037?uo=4,0.0,5,1,Reference,"Introducing EveryScan — your ultimate mobile companion app that transforms your smartphone into an advanced visual encyclopedia. Harness the power of cutting-edge AI image recognition to swiftly identify and gain insights on the world around you, directly from your mobile device.
+
+Animal Identification
+Curious about ""what animal is this""? Use EveryScan to instantly identify animals, including specific breeds and characteristics. From cat breed recognizers to dog breed identifiers, this mobile app is your essential tool for comprehensive animal recognition.
+
+Insect and Reptile Recognition
+Dive into the insect world with our bug identifier. Capture images of caterpillars, spiders, and snakes using your mobile device, and learn about their characteristics and safety through our snake identifier, addressing questions like ""what kind of snake is this?""
+
+Mushroom and Plant Insights
+Simply snap a picture to identify plants and fungi safely with your phone. Our app's flower and mushroom identifiers provide detailed care tips and safety information, directly enhancing your botanical knowledge.
+
+Coin and Jewelry Examination
+Easily scan coins and jewelry with your mobile to determine their value and history, answering queries like ""how much are my coins worth?"" Our coin scanner feature helps you check your coins' worth and origins swiftly.
+
+Culinary Exploration
+Identify food items, dishes, and recipes while accessing nutritional details right from your mobile device. Recognize dishes and their caloric content with ease, enhancing your culinary knowledge.
+
+AI-Powered Features
+- Accurate image recognition tailored for mobile use
+- Instant object detection via your smartphone
+- Universal object identifier: insect identifier, dog breed identifier, flower identifier, spider, snake identifier, etc.
+- Real-time searching and scanning through your mobile
+- Comprehensive data on everything from animals to everyday items
+- Save and mark favorites for easy mobile access
+
+Effortless Exploration
+Skip search engines—just take a picture and identify items instantly using your phone. EveryScan integrates seamlessly with your mobile, offering an all-in-one picture identifier and AI image search capability. Unlock the secrets around you with curiosity and confidence. Download EveryScan today, and discover a world of knowledge at your fingertips.
+
+Privacy Policy: http://aiscanner.co/pp
+Terms of Use: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+ba,Bosnia and Herzegovina,Reference,6006,15,1369978974,Kalendar Pravoslavni,Nikola Corlija,https://apps.apple.com/ba/app/kalendar-pravoslavni/id1369978974?uo=4,0.0,4.9375,64,Reference,Srpski pravoslavni crkveni kalendar za period od 2015. do 2030. godine.,2020-04-10T07:00:00Z,2024-07-01T13:54:23Z
+ba,Bosnia and Herzegovina,Reference,6006,16,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/ba/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,5,3,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-02-07T08:00:00Z,2025-11-14T09:53:01Z
+ba,Bosnia and Herzegovina,Reference,6006,17,1559086853,Pillars: Prayer Times & Qibla,The Pillars Group Ltd,https://apps.apple.com/ba/app/pillars-prayer-times-qibla/id1559086853?uo=4,0.0,0,0,Reference,"Pillars is an app built by Muslims with a long-term vision to elevate our Ummah – starting with Prayer (salah). We have so much more planned! Join us on this journey.
+
+Features:
+
+No Ads – adverts don’t belong on a Prayer app. Period. That’s why our app includes no ads straight out of the box.
+
+Privacy-Focussed – Muslims are entitled to their privacy. That's why at Pillars we take your data very seriously. Not only do we promise not to collect it for malicious intent, we avoid collecting it in the first place!
+
+Muslim-Built – prayer apps should be built by Muslims. Why? Because we have your interests at heart and know the importance of Salah. We also best understand the issues Muslims face.
+
+Smart Qibla - find the correct direction to pray with our Qibla and integrated smart calibration feature
+
+Early & Late Asr Time – choose your Madhab (School of Thought) and tailor your prayer times to the earlier or later Asr time.
+
+Multiple Calculation Methods – choose the perfect Prayer calculation method for you depending on your location and preferences. 
+
+Prayer Notifications – get notified for each prayer time throughout the day. Option to disable notifications available.
+
+Beautiful Design – we want to beautify the act of Prayer, a key ibadah (act of worship) in Islam. Therefore, what better place to start than with an elegant prayer app.
+
+Widget Included – a beautifully designed widget for your home screen for quick access to prayer times
+
+Prayer Tracker – a great way to stay on top of your salah and the first step to developing your relationship with Allah. Perfect for new converts or those trying to improve their praying habits!
+
+Fasting Tracker - log your missed fasts with the reason and then tick them off when you make them up!
+
+Menstruation (pause) button - pause tracking and never miss out on a streak!
+
+Lock Screen Widget - get key information like the current and next prayer time with a quick glance of your lock screen! 
+
+
+Coming Soon:
+
+Local Mosque Prayer Times – get prayer times from your local mosque on the Pillars app, including notifications.
+
+More Widgets – more beautifully designed widgets in all shapes & sizes.
+
+At Pillars we're building features to help Muslims improve their individual condition in multiple aspects of their lives - from the spiritual to the non-spiritual.
+
+Download the app and join us on this journey inshaAllah.
+
+
+Get Pillars Supporter Subscription to unlock:
+
+- More themes (e.g. Fajr theme)
+- Apple Watch support
+- Supporter birds
+- Supporter app icon
+- Much more coming!
+
+Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2021-05-01T07:00:00Z,2025-11-04T10:10:27Z
+ba,Bosnia and Herzegovina,Reference,6006,18,6654890533,Faith - The Video Bible,Terrasoft Inc,https://apps.apple.com/ba/app/faith-the-video-bible/id6654890533?uo=4,0.0,5,1,Reference,"#1 Bible App of the Month.
+
+WHAT IS FAITH?
+Faith is the video Bible app. It's the only app where you can watch Bible stories. With Faith, you can talk with the Bible, chat with it, listen to it, and now - you can watch the Bible. 
+
+EXPERIENCE THE BIBLE LIKE NEVER BEFORE
+Watch the first video Bible in human history. With generative AI, Faith transforms ancient texts into vivid, modern experiences you can watch anywhere, anytime.
+
+FIND TRUE CONNECTION WITH GOD
+Live Voice Mode: Faith becomes your pastor in your pocket—pray, study scripture, receive spiritual guidance, or simply listen in times of need. It’s like having a trusted companion with you, always ready to help.
+
+Multi-Language Support: Connect in your preferred language, with voice support in 8 languages (including English, Spanish, Portuguese, and more) and text support in over 95 languages.
+
+Guided Spiritual Growth: Whether you’re seeking Bible stories, exploring faith traditions, or navigating life's challenges, Faith offers tailored content to grow and strengthen your relationship with God.
+
+Instant Answers & Chat Support: Have questions about scripture or need spiritual counsel? Faith is here with instant answers and thoughtful reflections, offering guidance when you need it most.
+
+YOUR SPIRITUAL COMPANION
+Faith is more than an app—it’s a transformative experience, bringing scripture, prayer, and God’s presence into your daily life in new and powerful ways.
+
+OUR MISSION
+Our mission is to use artificial intelligence to help people get closer to God.
+
+Download Faith* today and start experiencing your journey with God like never before
+
+If you have any questions, comments, or feedback, please email us at founders@faithappofficial.com
+
+*Access to all Faith features requires subscription.
+
+Terms of Service: https://faith.tiiny.site/",2024-09-30T07:00:00Z,2025-11-17T18:28:13Z
+ba,Bosnia and Herzegovina,Reference,6006,19,1454509502,Azkar - اذكار : Athan & Prayer,Hamza Oqbah,https://apps.apple.com/ba/app/azkar-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1-athan-prayer/id1454509502?uo=4,0.0,4.90977,133,Reference,"Azkar App is your daily companion for enhancing spirituality and facilitating Islamic practices. It provides a comprehensive collection of authentic Athkar (remembrances) and supplications from the Qur’an and Sunnah, along with innovative features designed to meet the needs of Muslims in their daily lives.
+
+Join millions of users and experience a complete spiritual journey with Azkar App, crafted to serve every Muslim.
+
+Key Features
+- Morning & Evening Athkar, Sleep & Wake-up Athkar, Prayer Athkar, and more: A modern and user-friendly interface with an audio player and repetition counter.
+- My Athkar Section: Create and customize your own Athkar according to your needs.
+- Qur’an (Reading, Tafsir, and Audio): Enjoy an eye-friendly reading experience with font and color customization, translations in multiple languages, and easy-to-understand Tafsir. You can also listen or download recitations by your favorite reciter.
+- Khatmah: Set a Qur’an completion plan with daily reading reminders.
+- Prayer Times, Qibla Direction, and Hijri Calendar: View the Islamic calendar, accurate prayer times, and Qibla direction, with a monthly prayer calendar that can be shared.
+- Adhan & Full Adhan Alerts: Choose from a variety of Adhan voices with pre-Adhan reminders.
+- Reminders Section: Create reminders for specific Athkar, supplications, or important events with customizable sound and repetition options.
+- Daily Content Updates: Get Dua of the Day, Ayah of the Day, and Video of the Day with valuable tips and inspiring stories.
+- Various Azkar: A variety of supplications with customizable backgrounds, ready for sharing.
+- Ramadan Section: Essential Ramadan features including Prayer & Fasting Tracker, Daily Duas, Zakat Calculator, and more.
+- Daily Quranic Benefits: Daily insights into Qur’anic verses for contemplation.
+- Worship Trackers: Tools to track Athkar, fasting, and prayers, helping you stay consistent and improve commitment.
+- Tasbih Counter: Perform electronic Dhikr with an easy-to-use digital Tasbih.
+- Ruqyah (Islamic Healing): Authentic Ruqyah texts from the Qur’an and Sunnah, with an audio listening option.
+- Prophet Muhammad’s (PBUH) Biography in Videos: Engaging video content about the life of Prophet Muhammad (PBUH).
+- 99 Names of Allah.
+- Surah Al-Kahf Reminder for Fridays.
+- Hajj & Umrah Guide: Step-by-step instructions for performing Hajj and Umrah.
+- Islamic & Ramadan WhatsApp Stickers: Updated Islamic and Ramadan sticker packs with easy export to WhatsApp.
+- Istighfar (Forgiveness) Alerts: Get reminders for seeking forgiveness and making Dhikr at customizable intervals (e.g., every 10 minutes or once a day).
+- Qiyam-ul-Layl (Night Prayer) Alerts.
+- Live Activities & Widgets: Quick access to features like prayer times, Hijri date, various azkar, Khatmah, prayer tracker, fasting tracker, and more from the home screen and lock screen.
+- Professional & Customizable Design: Choose your favorite background, and enable dark mode for a better visual experience.
+- …and many more great features you’ll love!
+
+Why Azkar App?
+Azkar App is a comprehensive Islamic tool, combining authenticity with modern technology to fulfill your spiritual and daily needs.
+
+Take this opportunity to increase your daily rewards and strengthen your connection with Allah. Download Azkar App now and embark on an uninterrupted spiritual journey filled with Dhikr and supplication.
+
+
+Privacy Policy:
+https://hamzaaa.com/azkar/privacy.html
+
+Terms of Use:
+https://hamzaaa.com/azkar/terms-of-use.html",2020-04-13T07:00:00Z,2025-02-13T12:12:49Z
+ba,Bosnia and Herzegovina,Reference,6006,20,6749448169,TranslateThis - AI Translator,Publisherr Limited,https://apps.apple.com/ba/app/translatethis-ai-translator/id6749448169?uo=4,0.0,5,1,Reference,"Break language barriers instantly with TranslateThis — your all-in-one voice, text, and camera translator. Communicate effortlessly in up to 140+ languages, wherever you are.
+
+
+• Text: Translate between languages by typing
+
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+
+• Photos: Translate text in taken or imported photos
+
+• Dictation: Translate spoken words and phrases
+
+• Conversations: Translate bilingual conversations on the fly
+
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+
+
+Perfect for travel, study, or everyday conversations — whether you’re abroad, chatting with friends, or learning a new language.
+
+
+Translations between the following languages are supported:
+
+AI Translate supports translations between 140+ languages, including:
+English, Spanish, French, German, Italian, Portuguese, Arabic, Chinese (Simplified & Traditional), Japanese, Korean, Hindi, Russian, Turkish, Swahili, Vietnamese, and many more.
+
+
+To access the full suite of translation features, subscribe to our App today.",2025-09-03T07:00:00Z,2025-11-19T21:45:03Z
+ba,Bosnia and Herzegovina,Reference,6006,21,885982973,FamilySearch Tree,FamilySearch International,https://apps.apple.com/ba/app/familysearch-tree/id885982973?uo=4,0.0,5,1,Reference,"Curious about your family history? Add branches to your family tree with FamilySearch Tree, the world’s largest online family tree. FamilySearch Tree makes it easy and convenient to discover and document your own branches of the world’s family tree while preserving family memories, such as photos, written stories, and audio recordings.
+
+Harness the power of a worldwide, crowd-sourced pedigree to discover your family story. As you add information, FamilySearch will start searching for your family members while looking at historical records like birth and death certificates. Share information that others might not know, and add sources to confirm correct information. Update information and records easily so that everyone has accurate information.
+
+Browse your family tree branches, and see portraits of relatives you’ve never seen before. Discover facts, documents, stories, photos, and recordings about your ancestors. Easily add new life details, photos, stories, and audio recordings for your relatives.
+
+Find and share meaningful, heart-turning family stories that will make an impact on your life and the lives of your loved ones.
+
+Genealogy at Your Fingertips
+Family history has never been easier to track and build.
+Build your family tree by finding or adding family members directly through the app.
+Once you add a deceased relative to the family tree, FamilySearch will try to connect you to any information it has about that person in its database.
+Discover new family members and descendants in the community tree.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Ancestors, Relatives, and Family
+Find your ancestors in the billions of records on FamilySearch.org to learn more details of your family story.
+Discover facts, documents, stories, photos, and recordings about your ancestors.
+Easily add new life details, photos, stories, and audio recordings for your relatives.
+See which ancestors FamilySearch has already found in historical records, and get ideas for what to do next.
+Discovering your own family history potentially helps others in their search.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Collaborate with Others
+Connect with other family members, and share information that others might not know.
+View, add, and edit information about your ancestors. 
+Enhance your tree by adding photos, stories, and documents.
+Add sources to confirm correct information.
+Communicate and collaborate with other FamilySearch users from within the app with in-app messaging.
+Connect with family near and far. You may find a relative who has visited the same graves, asked the same questions about—and even learned to love or admire—the same ancestors. 
+
+Watch your family tree grow. Discover family, learn your family history, and help map the family tree for mankind with FamilySearch Tree. 
+
+NOTE: Content you provide for deceased individuals will be publicly available. See our privacy policy for more details.",2020-04-16T07:00:00Z,2025-11-05T19:21:05Z
+ba,Bosnia and Herzegovina,Reference,6006,22,1123262654,Kur'an Bosanski,TopOfStack Software Limited,https://apps.apple.com/ba/app/kuran-bosanski/id1123262654?uo=4,0.0,2.42857,7,Reference,"Assalamu alejkum svima. Da li redovno recitovati Sveti Kur'an Sharif? Ako je odgovor da, onda smo tu da vam pomognemo recituje Kur'an Majid više prikladan način.
+
+cijeli Kur'an Sharif možete dobiti u našoj Kur'an Bosanski aplikacija. Zainteresovani čitaoci mogu pristupiti ovu aplikaciju sa samo nekoliko dodira koji će im pomoći da dodati više sklonosti za Kur'an. Mi se sada vodi najprometnijih život da ponekad ne možemo nositi sveti Kur'an mazeed u našim sitnim torbu. U takvim okolnostima, ako nam treba bilo ajetu Kur'an u svakom trenutku, onda je srednje ili nešto slično medij Kur'an nam treba, da mogu držati cijeli sveti Kur'an u tijelu. Možete jednostavno koristiti ovu aplikaciju za iskorijeni ovu vrstu problema. Ovo je kako ova aplikacija može vam pomoći.
+
+Svako zna da postoje potpuno 6236 ajeta u Kur'an i čitač će dobiti deset sawab za jedno slovo Kur'ana. Recitovanje svetog Kur'ana Sharif: ""Nema sumnje da je Kur'an Sharif je najbolji vodič u ovom svijetu"". Naša Kur'an Bosanski aplikacija održava na način kao što je knjiga oblik Kur'an majeed održava sebe. Dakle, čitalac možda neće suočiti bilo kakav problem u vremenu od recitacija. Stoga, uz čast i poštovanje, možete zadržati čitanja kroz ovaj Kur'an Bosanski aplikacija kao kao što ste pročitali knjigu Kur'an Sharif prije.
+
+Sa ovom islamske knjige aplikaciju, dobijate Hafizi Kur'ana sa stvarnim stranicu-curl iskustvo. Ovo nije samo tekstualne aplikacije, to je audio Kur'an aplikaciju. Možete slušati telwat Kur'ana Ayats kontinuirano (potrebna internet veza). Možete pretraživati ​​riječi ili tema u Bosanski na ovom Kur'an aplikaciju. Bookmark ajeti / stih želite / quote. Share ajeti / stih želite.
+
+karakteristike:
+1. Kur'an znači u Bosanski za 2 prevodioci:
+- Besim Korkut
+- Mustafa Mlivo
+2. Traži po Sura
+3. Traži po Tema / riječi
+4. Hafizi Kur'an (Para / Juz i Sura List)
+5. Igrajte audio stih po stih
+6. Bookmark ayat / stih
+7. Share ayat / stih
+8. Tri Qāri za stih po stih Kur'an Audio
+- Abdullah Ali Jabir
+- Maher al-Muaiqly
+- Abdur-Rahman kao-Sudais",2020-04-11T07:00:00Z,2020-04-11T07:00:00Z
+ba,Bosnia and Herzegovina,Reference,6006,23,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/ba/app/house-building-for-minecraft/id1497683446?uo=4,0.0,3,1,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-04-17T07:00:00Z,2025-11-05T14:26:20Z
+ba,Bosnia and Herzegovina,Reference,6006,24,1447056625,Namaz App: Learn Salah Prayer,Nursultan Askarbekuly,https://apps.apple.com/ba/app/namaz-app-learn-salah-prayer/id1447056625?uo=4,0.0,4.96296,54,Reference,"Learn Salah/Namaz from scratch, memorize surahs of the Quran, learn Dua, and check prayer times. Suitable for beginners.
+
+What is Namaz?
+Namaz is the daily muslim prayer, also known as Salat or Salah. It is one of the five pillars of Islam and the best way of worshipping Allah the Almighty.
+
+Description:
+This app is an audio player for you to listen to the correct pronunciation of the prayers in Arabic. It will help you to learn the dua-invocations and parts of the Quran that are read inside the prayer. You will also have the texts in English transliteration and some illustrations to help you navigate through the process. All content is in accordance with the rules of the Hanafi school of law.
+
+Important to understand, that this is a companion app, and it is not sufficient to fully learn the prayer on its own. We also strongly recommend that you learn to read Arabic, as English letters and phonemes are not sufficient to convey all sounds found in Arabic. Learning to read Arabic will allow you to perform your prayers in the best way and will give you access to the Holy Quran. The easiest and most effective way to learn both prayer and reading Arabic is to find a good teacher.
+
+Attribution:
+- Prayer images were kindly provided by the Muslim web portal Azan.kz
+- Prayer times are fetched from the open API of Aladhan.com
+- The Charity elements icon pack used in the ""Support us"" module was created by Eucalyp - Flaticon (https://www.flaticon.com/packs/charity-elements-4)
+- The Calendar icon  used in the ""Recurring Donation"" screen was created by Freepik - Flaticon (https://www.flaticon.com/free-icons/year)
+
+The Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-04-13T07:00:00Z,2025-11-11T23:36:12Z
+ba,Bosnia and Herzegovina,Reference,6006,25,475772902,Night Sky,iCandi Apps Ltd.,https://apps.apple.com/ba/app/night-sky/id475772902?uo=4,0.0,4.86275,51,Reference,"Night Sky is a powerful AI personal planetarium.
+
+Quickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you’re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!
+
+FEATURE SET: 
+
+- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you’re interested in, provide information on anything to do with astronomy, or even show you how the sky looks on the other side of the world!  With your own personal AI Super Astronomer right by your side, Night Sky Aura becomes the new natural way to interact with the sky above! 
+
+- SKY TAGS - Make Night Sky yours, by adding personal Sky Tags to the map!  Pin Sky Tags to objects in the sky to save for future reference, and share them via iMessage so others can find them!  Sky Tags can be categorized, and are completely personal to you.  Maybe you want to tag a star as a memorial to someone, or tag something you’d like to observe later that night.  You can even add Astrophotography photos and observation notes to your Sky Tags!  
+
+- CONNECTED STARGAZING (+ Feature) - Connected Stargazing is a revolutionary new feature that utilizes SharePlay in iOS 15.1, allowing you to stargaze with others when you are apart!  Start a FaceTime Audio call with those who you would like to stargaze with, then create a session by adding objects for everyone to find in the sky!
+
+- SPATIAL AUDIO OBJECT NAVIGATION - Using AirPods Pro or AirPods Max, search for an object when automatic sky tracking is on, and Night Sky will make the star, planet or constellation ‘chirp’ in the 360° soundscape, assisting you to navigate to the object with sound!
+
+- AR SKY WINDOW - Erase the ceiling of your bedroom, lounge or classroom with AR!  Night Sky intelligently detects the ceiling or other flat surface in a room, and can make it magically disappear to reveal the sky behind it!  
+
+- BILLIONS OF STARS!  (+ Feature) - Space is vast, so Night Sky has been hyper charged with over 1.7 BILLION STARS streamed from the cloud!  With a new super deep zoom (greater than 10X before), prepare to delve deeper into space than you ever imagined!
+
+- MAPS UI - A clean and familiar interface with Search features including Quick Find, intelligent Night Red Mode, Light Pollution indicator and easy to use menu, prepare to navigate Night Sky quicker than ever before!
+
+- AR PLANETARY PORTALS & AR GRAND ORRERY (+ Features) - Step onto the surface of other planets by placing AR portals around your room!  Or walk around the entire Solar System using the newly refreshed interactive Grand Orrery!
+
+- NIGHT SKY WATCH AR - Night Sky magically comes to life on Apple Watch, with Glass Constellations, Red Vision, and Night Sky Live Tours - all on your wrist! 
+
+- AR OBJECT EXPLORATION  - Pull Planets, Stars and Constellations out of the sky and look at them in detailed AR!
+
+- NIGHT SKY TOURS (+ Feature):  Get a live sky tour or create your own sky tours for any location and time in the world!  
+
+- NIGHT SKY MINDFULNESS (+ Feature) - A mindfulness stargazing experience adding mindfulness minutes with Apple HealthKit. 
+
+- AND MANY MORE FEATURES! 
+
+
+Subscription Information: 'Night Sky +' and 'Night Sky + Aura' are available as optional subscriptions. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in your App Store account settings.  Privacy policy: http://www.icandiapps.com/privacy-policy/  Terms and Conditions of Use: http://www.icandiapps.com/terms-conditions/",2020-04-10T07:00:00Z,2025-11-18T18:32:54Z

@@ -1,0 +1,542 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+vn,Viet Nam,Lifestyle,6012,1,6475181815,VNeTraffic,GLOBAL TECHNOLOGY - TELECOMMUNICATIONS CORPORATION,https://apps.apple.com/vn/app/vnetraffic/id6475181815?uo=4,0.0,2.64387,1272,Lifestyle,"VNeTraffic - Ứng dụng giao thông thông minh Việt Nam
+Các chức năng chính:
+
+o Ứng dụng VNeTraffic thuộc bản quyền của Cục Cảnh sát giao thông – Bộ Công an ủy quyền cho Tổng công ty Công nghệ - Viễn thông Toàn Cầu là doanh nghiệp trực tiếp phục vụ Quốc phòng, an ninh theo Quyết định số 1609/QĐ-TTg của Thủ Tướng Chính phủ được phép đăng tải các ứng dụng lên kho AppStore theo giấy ủy quyền Số: 0901/HĐUQ.
+
+o Ứng dụng VNeTraffic do Cục Cảnh sát giao thông phát triển dựa trên nền tảng cơ sở dữ liệu về giao thông, phục vụ cung cấp các thông tin giao thông cũng như các tiện ích giao thông cho người dân hướng đến chuyển đổi số quốc gia, hiện đại hóa lực lượng Công an nhân dân.
+
+o Ứng dụng VNeTraffic áp dụng dành cho công dân Việt Nam.
+
+o Ứng dụng VNeTraffic là kênh giao tiếp quan trọng giữa Công dân và lực lượng CSGT, cung cấp thông tin về giao thông, giúp Công dân gửi các phản ánh, thông tin thu thập về tình hình giao thông cũng như tố giác, phản ánh các vi phạm trật tự an toàn giao thông, tai nạn giao thông; theo dõi được tình trạng các phản ảnh, lịch sử đã phản ánh, lịch sử đã vi phạm, biển số đấu giá, tra cứu phạt nguội, gửi góp ý…
+
+o Quyền truy cập: Khi sử dụng Ứng dụng, người dùng đồng ý cho phép ứng dụng có quyền truy cập các chức năng sau:
+  ▪ (1) Truy cập vào Internet từ thiết bị người dùng.
+  ▪ (2) Truy cập camera để quét mã QRcode trên thẻ CCCD giúp rút ngắn thời gian nhập các thông tin cơ bản của Công dân và quét QRcode tại điểm quét để khai báo di chuyển.
+  ▪ (3) Truy cập vào ảnh, tệp, bộ nhớ và nội dung nghe, nhìn trên thiết bị để lưu trữ ảnh, file phục vụ việc gửi thông tin phản ánh giao thông đến cơ quan chức năng.
+  ▪ (4) Cho phép bật định vị GPS để xác định vị trí của người dùng khi gửi phản ánh về tình trạng giao thông.
+  ▪ (5) Gửi thông báo tới thiết bị của người dùng.
+
+o Thu thập thông tin cá nhân: Người dùng nhập liệu, phản ánh thông tin về tình trạng giao thông, vi phạm giao thông, tai nạn giao thông cần cung cấp thông tin cá nhân để đảm bảo tính chính danh của người cung cấp tin. Thông tin cá nhân bao gồm: Họ và tên, Số điện thoại, Căn cước công dân, tất cả những thông tin thu thập đều được sự cho phép của người dùng bằng cách nhập vào các biểu mẫu và gửi cho chúng tôi.
+
+o Người dùng tự chịu trách nhiệm về năng lực hành vi trong việc sử dụng, nhập liệu thông tin.
+
+o Bảo vệ sự riêng tư và bản quyền: Dữ liệu của người dùng sẽ được lưu trữ và bảo mật bởi Cục Cảnh sát giao thông - Bộ Công an và chỉ sử dụng vào mục đích phát triển Ứng dụng phục vụ chuyển đổi số quốc gia và hỗ trợ công dân, giúp cơ quan chức năng bảo vệ an ninh trật tự và an toàn giao thông, tuyệt đối không sử dụng vào mục đích thương mại, không xâm phạm đời tư, được bảo vệ bí mật thông tin riêng và thông tin theo quy định của pháp luật.
+
+o Ngoài các mục đích trên, đơn vị phát triển ứng dụng không thu thập, sử dụng thông tin của người dùng vào bất kỳ mục đích gì khác. Và sẽ không tiết lộ bất kỳ thông tin nào có thể gây tổn hại hoặc thực hiện bất kỳ hành vi bất hợp pháp nào về quyền riêng tư của người dùng theo luật pháp Việt Nam hoặc chính sách của ứng dụng.
+
+o Thu thập vị trí: VNeTraffic sẽ thu thập dữ liệu về vị trí của bạn để phục vụ việc xác định vị trí gửi phản ánh, từ đó đảm bảo điều kiện cho cơ quan chức năng xử lý các thông tin phản ánh này. Việc thu thập vị trí sẽ  được thông báo cho người dùng và do người dùng quyết định, không ảnh hưởng tới các tính năng của ứng dụng.
+
+o Xem điều khoản sử dụng và chính sách quyền riêng tư tại: https://sites.google.com/ots.vn/vnetraffic/home.",2024-02-01T08:00:00Z,2025-11-18T01:23:13Z
+vn,Viet Nam,Lifestyle,6012,2,6748601088,Amora: A Hint of Your Soulmate,Lit Apps LLC (Mobile),https://apps.apple.com/vn/app/amora-a-hint-of-your-soulmate/id6748601088?uo=4,0.0,4.80822,3457,Lifestyle,"Your soulmate revealed.
+
+Have you ever wondered what your soulmate looks like? Join thousands of people around the world and get a glimpse of your future love with a personalized drawing.
+
+Using advanced personality psychology and relationship science, Amora creates a realistic portrait of your soulmate and reveals insights about your ideal partner and your compatibility.
+
+And now – with our latest update – you can also explore your compatibility with friends and family. Amora is more than just a soulmate drawing app.
+
+Get started in minutes
+
+Download Amora
+Complete your profile
+Receive your drawing and personalized compatibility insights, including love language, attachment style, and warning signs
+Unlock the new feature and discover who in your circle might be your soulmate
+
+Terms of Use: https://litappslab.com/terms",2025-07-15T07:00:00Z,2025-11-19T07:58:08Z
+vn,Viet Nam,Lifestyle,6012,3,1071165451,Imou Life,Huacheng Network(hk) Technology Limited,https://apps.apple.com/vn/app/imou-life/id1071165451?uo=4,0.0,4.31771,41144,Lifestyle,"ABOUT IMOU LIFE
+Imou Life App is specially created for Imou cameras, doorbells, sensors, NVR and other smart IoT products, committed to creating a secure, simple, and smart life for everyone.
+
+HIGHLIGHTED FEATURES
+[Remote View and Control]
+- Watch live view or recorded playback from anywhere
+- Real-time communication via two-way talk
+- Turn on the built-siren or spotlight to warn off intruders
+
+[Intelligent Alert]
+- Get instant alerts whenever something happens
+- Avoid false alert with AI human detection
+- Set alert schedule
+
+[Security Guarantee]
+- Emphasize user privacy and comply with GDPR regulations
+- Encrypted audio and video transmission
+- Store the video to the cloud, so you can view it even if your device is lost
+
+[Easy Sharing]
+- Share device access to your friends and relatives
+- Custom share permissions
+- Share video clips and happy moments
+
+Basic：
+Imou Protect Basic Monthly (1 camera) Monthly $3.49 
+Imou Protect Basic Annual (1 camera) Yearly $34.99 
+Imou Protect Basic Monthly (2 cameras) Monthly $6.49 
+Imou Protect Basic Annual (2 cameras) Yearly $64.99 
+Imou Protect Basic Monthly (3 cameras) Monthly $9.29 
+Imou Protect Basic Annual (3 cameras) Yearly $92.99
+
+Plus：
+Imou Protect Plus Monthly (1 camera) Monthly $6.99 
+Imou Protect Plus Annual (1 camera) Yearly $69.99 
+Imou Protect Plus Monthly (2 cameras) Monthly $11.99 
+Imou Protect Plus Annual (2 cameras) Yearly $119.99 
+Imou Protect Plus Monthly (3 cameras) Monthly $16.99 
+Imou Protect Plus Annual (3 cameras) Yearly $169.99
+ 
+When subscription services are contracted with recurrence, the renewal shall be performed automatically, unless automatic renewal is deactivated at least 24 hours before the end of the current subscription period. The same amount will be automatically charged to your iTunes account to renew your subscription 24 hours before the end of the current subscription period. You can manage your subscriptions or disable auto-renewal by accessing your iTunes account settings after purchase.
+
+Privacy Policy: https://viewweb-ali-sg.oss-ap-southeast-1.aliyuncs.com/webFront/Base_easy4ipbaseapp/cloudStorage/privacyPolicyNew/privacy_policy_US.html
+Terms of Use: https://viewweb-ali-sg.oss-ap-southeast-1.aliyuncs.com/webFront/Base_easy4ipbaseapp/cloudStorage/register_privacy_cloudservice_enUS.html
+
+
+CONTACT US
+Address: 13/F Gloucester Tower, The Landmark, 15 Queen's Road Central Central, Hong Kong
+Customer Service: service.global@imoulife.com
+If you have any questions or suggestions, feel free to contact us! Thank you for your support!",2016-01-09T02:48:20Z,2025-10-16T09:15:48Z
+vn,Viet Nam,Lifestyle,6012,4,1498607143,Lemon8 - Lifestyle Community,TIKTOK PTE. LTD.,https://apps.apple.com/vn/app/lemon8-lifestyle-community/id1498607143?uo=4,0.0,4.79267,8209,Lifestyle,"Lemon8 is a lifestyle community focused app powered by TikTok, where you can discover and share authentic content on a variety of topics such as beauty, fashion, travel, food, and more. You can edit and share photos with great ease and engage in discussion with like-minded people. Lemon8 offers a space where you can connect, inspire, and support one another.
+
+[Find Your Tribe]
+- The content on your feed is customised according to your interests and preferences. In the ""For you"" section, you can discover content that fulfills your requirements and piques your curiosity.
+- Being authentic is at the core of Lemon8. Express yourself, your passions and motivations in a free space with other like-minded creatives within the community.
+
+[Create with Ease]
+- Tired of using multiple apps for creating, editing, and posting content? With Lemon8, you can easily compose texts and edit photos and videos all in the app.
+- You'll find a whole library of intuitive templates, stickers, filters and fonts for your photos and videos.
+- Say 'goodbye' to jumping between apps to make a single post and, say 'hello' to Lemon8!
+
+[Explore and Discover]
+- Hello hashtags! Our hashtags not only help your posts get discovered, but also help you easily discover content you like.
+- Our discover page and intuitive search helps you find trending content, top-performing creators and whatever answer you're browsing for.
+
+[Contact Us]
+- We welcome feedback and suggestions to improve Lemon8 into the app that meets your needs and preferences!
+- If you have any feedback, questions or concerns, contact us at any time using the following email: contact@lemon8-app.com",2020-03-12T07:00:00Z,2025-11-18T03:36:55Z
+vn,Viet Nam,Lifestyle,6012,5,1615245093,Thợ Điện Máy Xanh,THE GIOI DI DONG INFORMATION TECHNOLOGY LIMITED COMPANY,https://apps.apple.com/vn/app/th%E1%BB%A3-%C4%91i%E1%BB%87n-m%C3%A1y-xanh/id1615245093?uo=4,0.0,3.68966,203,Lifestyle,"Thợ Điện Máy XANH, thuộc Tập đoàn Thế Giới Di Động, là đơn vị cung cấp dịch vụ điện máy số 1 Việt Nam. 
+
+Ứng dụng cung cấp các dịch vụ giúp chăm sóc thiết bị của nhà bạn, như Vệ sinh máy lạnh, Thay lõi lọc nước, Bảo hành, Sửa chữa, Lắp đặt,... 
+
+Thợ Điện Máy XANH cam kết:
+- Đúng hẹn
+- Tay nghề giỏi
+- Trung thực
+- Thân thiện và vui vẻ",2022-04-11T07:00:00Z,2025-10-17T06:14:13Z
+vn,Viet Nam,Lifestyle,6012,6,1589555369,Quà Tặng VIP,THE GIOI DI DONG INFORMATION TECHNOLOGY LIMITED COMPANY,https://apps.apple.com/vn/app/qu%C3%A0-t%E1%BA%B7ng-vip/id1589555369?uo=4,0.0,4.77801,544688,Lifestyle,"Ứng dụng ""Quà Tặng VIP"" để khách hàng sử dụng các tiện ích và tích điểm.",2021-10-12T07:00:00Z,2025-10-31T02:13:21Z
+vn,Viet Nam,Lifestyle,6012,7,429047995,Pinterest: Lifestyle Ideas,"Pinterest, Inc.",https://apps.apple.com/vn/app/pinterest-lifestyle-ideas/id429047995?uo=4,0.0,4.78444,345521,Lifestyle,"Pinterest is a place of endless possibilities. You can:
+- Discover everyday inspiration
+- Shop styles you love
+- Try and learn something new
+
+Create boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? 
+
+It's Possible.",2011-04-28T15:51:13Z,2025-11-19T16:28:23Z
+vn,Viet Nam,Lifestyle,6012,8,981863450,Yoosee,"Shenzhen Gwelltimes Technology Co., Ltd.",https://apps.apple.com/vn/app/yoosee/id981863450?uo=4,0.0,4.38178,100547,Lifestyle,"Safe, stable Yoosee APP which has continuous innovation provides one-stop functional support and services for your smart home products, protecting your home anytime, anywhere.",2015-04-12T00:19:38Z,2025-11-17T01:31:23Z
+vn,Viet Nam,Lifestyle,6012,9,1189834496,inlove - Love Days Counter,Danh Huynh,https://apps.apple.com/vn/app/inlove-love-days-counter/id1189834496?uo=4,0.0,4.68274,231771,Lifestyle,"inlove is a D-day counter for couples. The app has a visual user-interface, soothing animation and easy to use, the app makes your love more exciting than ever.
+
++ FEATURES: +
+
+* D-Day counter
+* Remember anniversaries
+* View days as year / month / week
+* Widget and Bagde counter
+* Passcode Lock
+
+Connect with us: https://www.facebook.com/inlove.bikipyeu",2017-12-04T15:56:38Z,2024-09-13T05:38:56Z
+vn,Viet Nam,Lifestyle,6012,10,1493268178,DMSS,"Hangzhou Dong Bin Information Technology Co., Ltd.",https://apps.apple.com/vn/app/dmss/id1493268178?uo=4,0.0,4.78343,69451,Lifestyle,"The DMSS app can enhance your security management efficiency. You can watch real-time surveillance videos and play them back anytime, anywhere, via Wi-Fi or cellular networks. If a device alarm is triggered, DMSS will immediately push an instant notification to you.
+
+DMSS offers：
+1. Real-time Live View：
+You can view real-time surveillance videos from the added devices anytime, anywhere, to help you better monitor the safety of your home environment.
+
+2. Video Playback：
+You can quickly find the events you care about by date and event category, and playback the required historical video footage.
+
+3. Instant Alarm Notifications：
+You can subscribe to different alarm events according to your needs.  When an event is triggered, you will immediately receive the message notification.
+
+4. Device Sharing
+You can share the device with family members for shared use and assign them different usage permissions.
+
+5. Alarm Hub
+You can add a variety of peripheral accessories to the alarm hub to provide warnings for potential theft, intrusion, fire, water damage, and other situations. In case of an unforeseen event, DMSS can immediately activate alarms and send out danger notifications.
+
+6. Visual Intercom
+You can add visual intercom devices to engage in video calls between the device and the DMSS, as well as perform functions like locking and unlocking.
+
+7. Access Control
+You can add access control devices to check the current status of doors and view unlock records, as well as perform remote unlocking operations on the doors.",2020-01-10T08:00:00Z,2025-11-19T02:06:24Z
+vn,Viet Nam,Lifestyle,6012,11,6444884881,Viettel Home,Viettel Corporation,https://apps.apple.com/vn/app/viettel-home/id6444884881?uo=4,0.0,4.6723,52710,Lifestyle,"Viettel Home là ứng dụng cung cấp giải pháp toàn diện về nhà thông minh và giám sát an ninh cho gia đình bạn. 
+Ứng dụng cung cấp tiện ích điều khiển các thiết bị nhà thông minh và camera do Viettel cung cấp, điều khiển thiết bị từ xa, cảnh báo khi phát hiện người, phát hiện chuyển động vào khu vực camera giám sát. Dữ liệu người dùng được bảo mật trên hạ tầng cloud do Viettel cung cấp.",2022-12-05T08:00:00Z,2025-11-11T16:07:58Z
+vn,Viet Nam,Lifestyle,6012,12,6751166063,MaOceanRush,Hatan KUKLA,https://apps.apple.com/vn/app/maoceanrush/id6751166063?uo=4,0.0,1.66667,9,Lifestyle,"MaOceanRush is a dramatic surfing game that takes you on a journey to conquer the deep blue ocean. Players will control their character to surf on the waves, collect lots of coins to score points and unlock attractive rewards. On the way, you must skillfully dodge the ferocious sharks that are always lurking under the water, ready to attack at any time. With vivid graphics, realistic ocean sounds and easy-to-learn yet challenging gameplay, Ocean Rush will bring you a feeling of excitement and thrill in every round.",2025-08-17T07:00:00Z,2025-08-18T07:58:39Z
+vn,Viet Nam,Lifestyle,6012,13,6449207307,J&T Express VN Pro,THUAN PHONG EXPRESS COMPANY LIMITED,https://apps.apple.com/vn/app/j-t-express-vn-pro/id6449207307?uo=4,0.0,1.73882,693,Lifestyle,"J&T Express VN - Ứng dụng chuyển phát nhanh thế hệ mới từ J&T
+Tiếp nối phiên bản tiền nhiệm, J&T Express VN Pro cải tiến mạnh mẽ tính năng hiện tại và ra mắt thêm các tính năng mới. Hướng đến tối ưu phục vụ vì khách hàng - Các Shop kinh doanh online năng động.
+  J&T EXPRESS VN PRO ĐÃ CẢI TIẾN GÌ?
+Giao diện hoàn toàn mới, hiện đại, dễ sử dụng
+Dễ dàng xem thống kê đơn hàng giao nhận, tạo đơn hàng loạt và tra cứu nhanh chóng
+Thay đổi nội dung chức năng Quản lý tiền thu hộ COD, minh bạch rõ ràng
+  CÓ ĐIỀU GÌ MỚI?
+Ra mắt chức năng Chat trực tiếp với nhân viên J&T
+Cơ chế tích lũy điểm khi lên đơn, thăng hạng thành viên, nhận ngàn ưu đãi
+  VÀ CÒN NHIỀU ĐIỀU THÚ VỊ KHÁC
+Tải ngay ứng dụng nhé shop ơi!
+  ------
+  Phiên bản Website: shop.jtexpress.vn
+  Facebook: facebook.com/JTExpressVietnam
+  Hotline: 1900 1088
+  Email: cskh@jtexpress.vn",2023-08-14T07:00:00Z,2025-11-14T05:32:53Z
+vn,Viet Nam,Lifestyle,6012,14,6748046865,Sea Lend,Seabank Asset Management Company Limited,https://apps.apple.com/vn/app/sea-lend/id6748046865?uo=4,0.0,4.70463,281,Lifestyle,"Chào mừng đến với Sea Lend, chúng tôi là người trợ giúp đắc lực của bạn khi bạn gặp khó khăn về tài chính và cần vay vốn.
+ 
+Chúng tôi cung cấp các giải pháp tài chính nhanh chóng thông qua nền tảng cho vay cá nhân trực tuyến 100% kỹ thuật số, cho phép bạn vay tiền trong vài phút. Chúng tôi cam kết cung cấp cho bạn trải nghiệm nhanh chóng, thuận tiện và an toàn để đáp ứng nhu cầu tài chính của bạn.
+ 
+-Các tính năng của chúng tôi
+1. Nền tảng trực tuyến 100%, dễ truy cập.
+2. Đơn đăng ký miễn phí, không có phí ẩn.
+3. Quy trình đơn giản, linh hoạt và an toàn.
+4. Bảo vệ quyền riêng tư và quyền của người dùng.
+ 
+-Chi tiết khoản vay
+Số tiền khả dụng: Lên đến 30.000.000 VND
+Lãi suất phần trăm hàng năm tối đa (APR): 21,9%
+Thời hạn: 93 ngày - 181 ngày
+Không có phí ẩn
+ 
+-Ví dụ về khoản vay
+Nếu bạn đăng ký khoản vay 24.000.000 VND với thời hạn 120 ngày và lãi suất hàng năm là 18,25% (tương đương với lãi suất hàng ngày là 0,05%),
+Lãi suất hàng tháng: 21,9%/12=1,83%
+Lãi suất hàng tháng: 24.000.000 VND*21,9%/12=438.000 VND
+Số tiền trả nợ hàng tháng: 24.000.000 VND/4 + 24.000.000 VND*21,9%/12=6.438.000 VND
+Tổng lãi suất: 24.000.000 VND*21,9%/12*4=1.752.000 VND
+Tổng phí hoàn trả: 24.000.000 VND + 24.000.000 VND*21,9%/12*4= 25.752.000 VND
+ 
+-Điều kiện vay
+1. Công dân Việt Nam từ 18 tuổi trở lên.
+2. Có CMND hoặc CCCD còn hiệu lực.
+3. Có tài khoản ngân hàng tại Việt Nam.
+ 
+-Ứng dụng được phát triển hợp tác cùng các đối tác ngân hàng uy tín như SACOMBANK, TECHCOMBANK và VIB nhằm mang đến dịch vụ tài chính minh bạch, an toàn và hiệu quả.
+Chúng tôi hoạt động trong khuôn khổ pháp lý được giám sát bởi Ngân hàng Nhà nước Việt Nam (SBV) và tuân thủ quy định từ Trung tâm Thông tin Tín dụng Quốc gia (CIC).
+ 
+Liên hệ với chúng tôi:
+Đội ngũ chăm sóc khách hàng của chúng tôi luôn sẵn sàng hỗ trợ bạn. Nếu bạn có bất kỳ câu hỏi hoặc góp ý nào, vui lòng liên hệ với chúng tôi qua các phương thức sau:
+Công ty: Seabank Asset Management Company Limited
+Email: office@seabankassetcompany.com
+Tel: +84 806287289
+Website chính thức: www.seabankassetcompany.com
+Địa chỉ: 254C Thuy Khue Street, Thuy Khue Ward, Ha Noi",2025-10-23T07:00:00Z,2025-10-23T08:10:23Z
+vn,Viet Nam,Lifestyle,6012,15,1462404151,AEON Vietnam,AEON VIETNAM COMPANY LIMITED,https://apps.apple.com/vn/app/aeon-vietnam/id1462404151?uo=4,0.0,2.8273,857,Lifestyle,"Ứng dụng di động Aeon Vietnam - mang đến cho người dùng những trải nghiệm mua sắm hiện đại & tối ưu!
+
+Với ứng dụng này, khách hàng không cần phải mang theo thẻ cứng, không lo quên thẻ, trải nghiệm dịch vụ mua sắm trọn vẹn chỉ với một vài thao tác đơn giản:
+
+o	ĐĂNG KÍ THÀNH VIÊN MỚI NHANH CHÓNG:
+•	Không cần đến trực tiếp điểm đăng kí để làm thẻ, chỉ cần tải và thực hiện thao tác trên ứng dụng.
+
+o	TÍCH ĐIỂM – ĐỔI VOUCHER DỄ DÀNG:
+•	Quét mã vạch tích lũy điểm
+•	Kiểm tra điểm tích lũy
+•	Đổi ngay Evoucher
+
+o	QUẢN LÍ TÀI KHOẢN 24/7:
+•	Kiểm tra lịch sử tích điểm, đổi voucher
+•	Quản lí và cập nhật thông tin cá nhân nhanh chóng
+
+o	KHÔNG BỎ LỠ THÔNG TIN ƯU ĐÃI HẤP DẪN:
+•	Nhận thông báo các chương trình khuyến mãi, sự kiện nổi bật
+•	Xem ngay cẩm nang mua sắm trên điện thoại
+•	Cập nhật các tiện ích, dịch vụ chăm sóc khách hàng
+
+o	CÙNG NHIỀU TIỆN ÍCH KHÁC LUÔN ĐƯỢC CẬP NHẬT MỖI NGÀY. 
+•	Thông tin xe bus đến Aeon
+•	Giao lưu trao đổi qua tính năng Aeon channel
+•	Tìm đường đi nhanh nhất từ vị trí của bạn đến Aeon…
+
+Tải & trải nghiệm ngay ứng dụng Aeon Vietnam! Cùng Aeon nâng tầm dịch vụ - mua sắm trọn vẹn!",2019-06-15T01:50:01Z,2025-08-30T16:52:46Z
+vn,Viet Nam,Lifestyle,6012,16,1150954869,Thái Âm - Tử Vi 2025,Trung Bui,https://apps.apple.com/vn/app/th%C3%A1i-%C3%A2m-t%E1%BB%AD-vi-2025/id1150954869?uo=4,0.0,4.57306,1136,Lifestyle,"Thái Âm  Tử vi 2025 là ứng dụng xem tử vi toàn diện và chính xác, giúp bạn giải mã vận mệnh, định hướng tương lai và ra quyết định sáng suốt mỗi ngày.
+
+1.  Xem tử vi trọn đời
+- Phân tích lá số tử vi cá nhân dựa trên 12 cung mệnh và các vận quan trọng.
+-  Giải mã vận mệnh, sự nghiệp, tài lộc, tình duyên và sức khỏe trọn đời.
+-  Lời khuyên giúp tận dụng cơ hội và tránh rủi ro.
+
+2. Tử vi năm 2025 (Tiểu Vận)
+-  Dự đoán chi tiết vận hạn, cát hung trong năm mới.
+-  Phân tích công việc, tình cảm, tài chính và sức khỏe 
+-  Gợi ý giải pháp ứng phó thông minh để đón năm mới bình an và thịnh vượng.
+
+3. Tử vi tháng (Nguyệt Vận)
+- Dự đoán các vấn đề theo từng lĩnh vực trong cuộc sống
+- Gợi ý giải pháp và cách chuẩn bị để phòng tránh 
+
+4. Tử vi hàng ngày (Nhật Vận)
+-  Cập nhật dự đoán vận mệnh hằng ngày chính xác.
+-  Gợi ý thời điểm tốt/xấu để đưa ra quyết định quan trọng.
+-  Giúp bạn chủ động trong công việc và cuộc sống.
+
+5. Điểm huyền khí
+-  Đo lường chỉ số vận mệnh dựa trên ngày sinh và các yếu tố chiêm tinh .
+-  Phân tích sâu tiềm năng, thế mạnh và điểm cần cải thiện.
+-  Đưa ra hướng phát triển phù hợp với định mệnh cá nhân.
+
+6.  Chương trình giới thiệu bạn bè nhận thưởng
+-  Nhận thưởng khi giới thiệu bạn bè sử dụng Thái Âm.
+-  Cả bạn và người được mời đều nhận quà hấp dẫn khi mua gói thành công.
+-  Theo dõi số lượt giới thiệu và phần thưởng ngay trong ứng dụng.
+
+7.  Thử thách Huyền Khí Tranh Phong
+- Tham gia đua top tử vi với bạn bè để nhận phần thưởng hấp dẫn.
+- Chủ phòng được tặng 3 ngày Premium miễn phí.
+- Gắn kết cộng đồng người yêu tử vi.
+
+8.  Trải nghiệm linh hoạt
+-  Hai cấp độ giải thích: cơ bản (dễ hiểu cho người mới) và chuyên sâu (phù hợp người nghiên cứu tử vi).
+-  Nội dung sinh động, ngôn ngữ gần gũi.
+-  Giao diện tối ưu, tốc độ nhanh, dễ thao tác trên mọi thiết bị.
+
+Standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://www.thaiam.vn/privacy-policy",2016-09-28T00:36:35Z,2025-11-19T23:03:47Z
+vn,Viet Nam,Lifestyle,6012,17,547702041,Tinder Dating App: Meet & Date,Tinder LLC,https://apps.apple.com/vn/app/tinder-dating-app-meet-date/id547702041?uo=4,0.0,4.45471,166856,Lifestyle,"MATCH, CHAT & DATE. IT STARTS WITH A SWIPE™.
+With 97+ billion matches to date, Tinder® is the top free dating app and the best place to meet new people, with safety features that work to help you date more safely. Looking for love? An open relationship? Trying to find a date or new friends to chat with? Connect with local people everywhere on Tinder and get the best out of your dating experience:
+
+Come As You Are: whether you're straight, gay, bisexual or anything in between, you can be who you are and find who you want on Tinder.
+Date Beyond Photos: share your interests and learn more about your matches to get the conversation started.
+Seek What You’re Looking For: set your relationship goals and make connections on your terms.
+
+HOW TINDER WORKS
+It’s easy and fun to find new people on Tinder®. Express yourself to make your personality shine in your profile and stand out to potential matches. Answer a prompt, share a little about you and show your face in your pics to increase your match-making potential. Use the Swipe Right™ feature to like and the Swipe Left™ feature to nope. If they like you back, It’s a Match! And with our double opt-in feature, it’s only a match if the interest is mutual.
+
+PUT SAFETY FIRST
+Try some of our safety features to help you make connections more confidently:
+
+– Share My Date: share date plans with friends and fam, so they know who you’re planning to meet up with and where
+– Get Photo Verified: verify your photos to help potential matches know it’s really you in that cute pic & increase your chances of matching
+– Are You Sure / Does This Bother You: Tinder detects inappropriate language so people think twice before sending a disrespectful message
+– Report a Profile: quickly report and block profiles with suspicious activity or inappropriate behaviour
+– Block Contacts: take control and block anyone (like an ex) you don’t want to see on the app
+– Video Chat: hitting it off in chat? Test your online dating chemistry and meet new people from home!
+
+TRY TINDER PLUS
+– Unlimited likes for you to catch feelings for as many new people as you want
+– Use Passport Mode™ to match and chat with locals anywhere in the world before you arrive
+– Unlimited Rewinds to undo your last like or nope
+– Go Incognito and be seen only by the people you like
+
+EXPERIENCE TINDER GOLD
+– Get everything in Tinder Plus™, and try it out for a week before you commit to a monthly subscription
+– See who likes you and match with them on the spot for faster connections
+– Monthly Boost puts your profile to the top for 30 minutes to help increase your profile views
+– Weekly Super Likes, because sometimes you really, really like someone
+
+UPGRADE TO TINDER PLATINUM
+Get most of Tinder’s premium features: join Tinder Platinum™ to get your likes prioritised with potential matches, send them a compliment before matching and more.
+
+So what are you waiting for? Join millions of people worldwide! Tinder offers the most daters, increasing your chances of finding exactly what you're looking for. Download the best free dating app today!
+
+––––––––––––––––––––
+If you choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, payment will be charged to your Apple account, and your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, you can simply continue using Tinder for free.
+
+All photos are of models and used for illustrative purposes only.
+
+Privacy: https://www.gotinder.com/privacy
+Terms: https://www.gotinder.com/terms
+Visit: https://www.tinderlove.com/",2012-08-03T01:43:39Z,2025-11-20T18:10:28Z
+vn,Viet Nam,Lifestyle,6012,18,6753943928,Mahjong - Suit or Value,Ozden KAPLANCI,https://apps.apple.com/vn/app/mahjong-suit-or-value/id6753943928?uo=4,0.0,0,0,Lifestyle,"Match and eliminate all mahjong tiles on the board according to the selected game mode. Complete the game as quickly as possible to achieve a higher score!
+       
+Suit Mode
+• Match two tiles with the SAME SUIT
+• Suits: Bamboo (条罗), Dot (筒罗), Character (万罗)
+• The value doesn't matter, only the suit counts
+• Example: Bamboo-1 matches with Bamboo-5
+       
+       
+Value Mode
+• Match two tiles with the SAME VALUE
+• Values range from 1 to 9
+• The suit doesn't matter, only the value counts
+• Example: Bamboo-5 matches with Dot-5
+       
+       
+Scoring Rules
+Correct Match: +10 points
+Wrong Match: -2 points
+       
+Try to minimize mistakes to maximize your score!",2025-10-13T07:00:00Z,2025-10-13T12:47:19Z
+vn,Viet Nam,Lifestyle,6012,19,6754698538,Mahjong Brain Sort,Zoe TURNER,https://apps.apple.com/vn/app/mahjong-brain-sort/id6754698538?uo=4,0.0,4.66667,3,Lifestyle,"Fill in the missing tiles to complete the original combination.
+
+Rules:
+• Easy Mode: 6 tiles, 3 missing
+• Hard Mode: 8 tiles, 4 missing
+
+Gameplay:
+1. Observe the board with empty slots
+2. Select tiles from your hand
+3. Place them in the correct positions
+4. Check your arrangement
+5. Learn from mistakes and try again!
+
+Scoring:
+• Fewer attempts = Higher score
+• Complete challenges to climb the leaderboard!
+
+Good luck!",2025-10-30T07:00:00Z,2025-11-05T20:58:09Z
+vn,Viet Nam,Lifestyle,6012,20,1054302942,bTaskee - Home Services,bTaskee Company Limited,https://apps.apple.com/vn/app/btaskee-home-services/id1054302942?uo=4,0.0,4.91293,32410,Lifestyle,"bTaskee - the super household utility app trusted by over 1 million Customers in Vietnam, Thailand, Indonesia and Malaysia. From house cleaning, babysitting, and cooking to air conditioner and washing machine cleaning, bTaskee has all the home services you need!
+
+Enjoy a convenient and leisurely life with bTaskee's ecosystem of over 20 home services: Cleaning, deep cleaning, home moving, industrial cleaning, bBeauty, child care, elderly care, patient care, upholstery service, air conditioner cleaning, washing machine cleaning, office cleaning, office carpet cleaning, housekeeping, laundry, cooking, grocery assistant, disinfection service, and water heater cleaning.
+
+Housework is no longer a worry because there's bTaskee:
+
+1. Professional and reliable Taskers
+Experience high-quality home services provided by a team of over 10,000 well-trained, experienced, and fully background-checked Taskers.
+
+2. Convenient scheduling via the application
+No more time wasted searching or waiting; with just 30 seconds of scheduling, you'll have a Tasker assigned and arriving on time.
+
+3. Flexible hourly services
+Instant availability! Hourly services with flexible options allow users to easily adjust time, location... with just a few swipes.
+
+4. Rate and rebook favorite Taskers
+Rate Taskers directly through the app, easily reschedule with favorite Taskers using the Chat and Rebook feature.
+
+5. 98% Customers satisfaction
+Over 1 million Customers trust and use our services regularly, with 98% of users giving positive feedbacks about our services.
+
+6. Schedule anytime, anywhere
+bTaskee is now available in 20 provinces and cities in Vietnam, with coverage in Thailand, Indonesia, and beyond. We're ready to handle tasks throughout holidays, Tet, and weekends.
+
+7. Diverse payment methods
+Supporting a variety of payment gateways: bPay wallet, MoMo wallet, Visa/MasterCard, ZaloPay, cash, ShopeePay wallet, VNPAY, VietQR, and more.
+
+8. Prompt and efficient support
+Our Customer Service team is always ready to assist, answer questions, and help resolve user needs promptly across multiple channels and platforms.
+
+9. Exclusive benefits with bRewards
+Enjoy additional exclusive benefits from bTaskee and our partners through our loyalty program with bPoints, where you can earn and redeem vouchers.
+
+Download the bTaskee app and experience top-notch home services today, with a quality that sets us apart.
+
+You can contact bTaskee through:
+Website: https://www.btaskee.com/
+Hotline: (+84) 1900 636 736 or via email at support@btaskee.com",2015-12-17T19:36:45Z,2025-11-14T01:40:16Z
+vn,Viet Nam,Lifestyle,6012,21,1252603252,Lịch Vạn Niên 2025 & Lịch Âm,Quan Le Trong,https://apps.apple.com/vn/app/l%E1%BB%8Bch-v%E1%BA%A1n-ni%C3%AAn-2025-l%E1%BB%8Bch-%C3%A2m/id1252603252?uo=4,0.0,4.74932,190953,Lifestyle,"Lịch Vạn Niên 2025 - Lich Van Nien 2025 - Lịch Việt & Lịch Âm 2025 tốt nhất, chuẩn nhất, giúp tra cứu âm, dương, ngày lành tháng tốt, ngày kiêng kỵ thuận tiện và nhanh chóng.
+
+Lich Van Nien 2025 - Lịch Việt 2025 có nhiều tính năng nổi trội:
+    ● Xem Ngày lành tháng tốt, Ngày kiêng kỵ
+    ● Đổi ngày Âm Dương tiện lợi
+    ● Ghi chú theo Lịch Âm thuận tiện
+    ● Xem ngày giờ tốt xấu (hoàng đạo, hắc đạo)
+    ● Bói Quẻ Khổng Minh.
+    ● Văn hoá Việt, Trò chơi dân gian, Truyện cổ tích
+    ● Tự chọn hình nền độc nhất.
+    ● Tử Vi 12 con giáp hàng ngày, hàng tháng
+    ● Tử Vi 12 cung hoàng đạo
+    ● Tử Vi trọn đời, tử vi 2024, Tu vi 2025, Tử vi 2025, 2026
+
+Lich Van Nien 2025 - Lịch Vạn Niên 2025 xem Ngày Lành Tháng Tốt:
+    ● Xem Ngày Xuất Hành
+    ● Xem Ngày Động thổ, làm móng
+    ● Xem Ngày Khởi Công Xây dựng
+    ● Xem Ngày Đổ Trần
+    ● Xem Ngày Nhập Trạch
+    ● Xem Ngày Khai Trương
+    ● Xem Ngày Cưới Hỏi
+    ● Xem Ngày Mua Nhà
+    ● Xem Ngày Mua Xe
+
+Lịch Vạn Niên 2025 - Lich Am 2025 xem Tử Vi:
+    ● Xem Ngày Tốt làm đại sự
+    ● Xem Tuổi Vợ Chồng
+    ● Xem Tuổi đẹp để Kết Hôn
+    ● Xem Tuổi Làm Ăn
+    ● Xem Tuổi Xây Nhà
+    ● Xem Hướng Xây Nhà
+    ● Văn Khấn Thần Linh
+
+Lịch Việt 2025 - Lich Van Nien 2025 xem chi tiết:
+    ● Ngày giờ tốt xấu (hoàng đạo, hắc đạo)
+    ● Xem chi tiết về ngày: Tiết khí, tuổi xung, xuất hành, sao tốt - xấu
+    ● Những việc nên làm, kiêng cữ
+    ● Lịch xuất hành theo Lý Thuần Phong và Khổng Minh
+
+Lịch Âm 2025 - Lich Van Nien 2025 mục Lịch Tháng:
+    ● Chi tiết lịch dương, lịch âm
+    ● Sự kiện nổi bật trong tháng
+    ● Thêm ghi chú trực tiếp từ ngày trong tháng
+
+Lịch Vạn Niên 2025 - Lich Van Nien 2025 phần Khám Phá:
+    ● Văn hoá Việt, Phong tục và Lễ hội Việt Nam
+    ● Đổi lịch dương - lịch âm nhanh chóng, chính xác
+    ● Thêm sự kiện quan trọng, nhắc nhở tiện lợi
+    ● Xem sao giải hạn, chi tiết văn khấn dùng cho các dịp cúng lễ
+    ● Thông báo, nhắc nhở các ngày trong năm, các ngày rằm, mồng một hàng tháng
+    ● Cập nhật kết quả sổ xố hàng ngày
+    ● Xem tỷ giá ngoại tệ tức thời
+    ● Phong tục ngày tết, lời chúc và các tin nhắn SMS hay, ý nghĩa phù hợp với mọi lứa tuổi. Đặc biệt các cặp đôi vào những ngày lễ Tết
+    ● Xem hoa tay
+    ● Thờ cúng: Phòng thờ, thần tài
+    ● Xem sao: Bình sao, bình hạn
+    ● Bói cung hoàng đạo chi tiết, hấp dẫn
+    ● Phong tục, lễ hội truyền thống
+
+Lịch Vạn Niên 2025 - Lich Van Nien 2025, Lich Van Nien 2025, 2025 xem Tử Vi trọn đời, Tu vi 2025, Văn Hoá Việt, widget ngày, widget tháng, lịch âm dương, ghi chú, hẹn giờ, văn khấn, xem sao giải hạn, tất cả đều hiện hữu trong ứng dụng Lịch Vạn Niên 2025 - Lịch Việt của Zegome.
+Tải ngay và khám phá bằng sự thông minh tinh tế trong cách sử dụng ứng dụng của bạn. Hãy để lại đánh giá của bạn như là động lực để chúng tôi tiếp tục nâng cấp hoàn thiện hơn cho sản phẩm.",2017-08-26T00:56:41Z,2024-11-26T14:25:43Z
+vn,Viet Nam,Lifestyle,6012,22,6754703650,Mahjong Order Up,Mustafa SAHIN,https://apps.apple.com/vn/app/mahjong-order-up/id6754703650?uo=4,0.0,5,1,Lifestyle,"Mahjong Order Up — How to Play
+
+Core Loop
+- Memorize the sequence shown at the top for 3 seconds.
+- Then tap matching Mahjong tiles below in the same order.
+
+Modes
+- Classic (tiered difficulty):
+ - Novice: 3 numbers • Grid 3×3
+ - Adept: 4–5 numbers • Grid 4×4
+ - Master: 6–7 numbers • Grid 5×5
+- Time Attack:
+ - Start with 60s. Correct +5s, wrong −3s.
+ - The round ends when time reaches 0.
+
+Scoring
+- +10 points for every correct tap.
+- −5 points for a wrong tap.
+
+Special Tile
+- Wildcard can match any number.
+
+Utilities
+- Hint: Reveal the sequence once per round for 2 seconds.
+- Suit: Switch tile suit/skin anytime.",2025-10-30T07:00:00Z,2025-10-30T17:38:03Z
+vn,Viet Nam,Lifestyle,6012,23,333206289,Alipay - Simplify Your Life,"Alipay (Hangzhou) Technology Co., Ltd.",https://apps.apple.com/vn/app/alipay-simplify-your-life/id333206289?uo=4,0.0,3.9497,338,Lifestyle,"Alipay is a leading open platform for payments and digital services in China.
+
+Users with a Chinese ID and bank account can use Alipay to make payments online and in person at various merchants outside of China as they travel for leisure, business, or study. 
+
+Foreign visitors to China can connect their credit card to take advantage of Alipay’s widespread acceptance by tens of millions of merchants across the country. Alipay is not designed or intended for use by foreign users in their home country or anywhere outside of China.",2009-10-15T23:00:27Z,2025-11-20T03:00:12Z
+vn,Viet Nam,Lifestyle,6012,24,6450381746,Got It - Quà điện tử,DAYONE JOINT STOCK COMPANY,https://apps.apple.com/vn/app/got-it-qu%C3%A0-%C4%91i%E1%BB%87n-t%E1%BB%AD/id6450381746?uo=4,0.0,2.97727,132,Lifestyle,"CHỈ MỘT NƠI - MỞ LÀ DÙNG
+Got It app giúp bạn lưu và quản lý mọi voucher Got It của bạn một cách đồng bộ, tiện lợi và an toàn.
+
+Các tính năng nổi bật
+• Quản lý và sử dụng voucher: lưu mọi voucher vào tài khoản, đánh dấu đã dùng, ẩn/hiện mã thẻ quà,... tất tần tật mọi tính năng giúp bạn dùng voucher dễ dàng, nhanh chóng và tiện lợi.
+• Lưu tự động: sau khi tải app và đăng ký tài khoản, các voucher bạn được nhận sau đó sẽ tự động lưu vào tài khoản của bạn. Tránh quên hay thất lạc voucher.
+• Cập nhật các thông tin ưu đãi, thương hiệu mới... nổi bật ngay trên trang chủ, giúp bạn  tận dụng tối đa giá trị voucher.
+• Nhanh chóng hơn, bảo mật hơn: Got It app sử dụng số điện thoại để đồng bộ, xác minh sở hữu và bảo mật tất cả các voucher của bạn. Nhờ đó bạn có thể truy cập app để mở một voucher bất kỳ mà không cần chờ xác thực OTP như trước
+
+Và còn nhiều tính năng mới hay ho, sẽ sớm ra mắt bạn trong thời gian tới.",2023-08-23T07:00:00Z,2025-10-27T03:34:12Z
+vn,Viet Nam,Lifestyle,6012,25,957323480,Xiaomi Home,"Beijing Xiaomi Co., Ltd",https://apps.apple.com/vn/app/xiaomi-home/id957323480?uo=4,0.0,3.98191,7075,Lifestyle,"A professional app to help you manage your intelligent devices. 
+•  Add new devices with a few easy steps
+•  Control your device wherever you are 
+•  Get the status of you devices in real time
+•  Share your devices with friends and family members
+•  Set up and perform intelligent tasks
+•  Continued use of GPS running in the background can dramatically decrease battery life
+
+【Mi Cloud Storage Automatic Renewal Service Description 】
+- Renewal Service:7-day overwriting Renewal storage plan,30-day overwriting Renewal storage plan
+- Renewal period:one month
+- Renewal price: 7-day overwriting Renewal storage plan for 10 yuan/month, 30-day overwriting Renewal storage plan for 24 yuan/month
+- Payment: after confirming the subscription, your Apple ID account will be debited;
+- Cancel renewal:If you cancel the renewal, please manually turn off the automatic renewal function in the iTunes/AppleID settings management 24 hours before the current subscription period expires. Specific path:Please open the Apple mobile phone""settings""-->enter""iTunes store and AppStore""-->click""Apple ID"",select""View Apple ID"",enter the ""Account Settings""page,click""subscribe"",select Mi Cloud Storage unsubscribe. If you cancel within 24 hours before the expiration, the subscription fee will be charged;
+- Renewal: Apple ID account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period;
+- Mi Cloud Storage Automatic Renewal Service Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/auto_renew-en.html，
+- Mi Cloud Storage User Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/user_licence-en.html
+- About Cloud Storage Automatic Renewal: https://camera.api.io.mi.com/cloud-service/app/my_cloud.html?channel=iosinfo&locale=en#/renew
+- Terms of Use and User Agreement: https://g.home.mi.com/views/user-terms.html?locale=en&type=userLicense
+- Privacy Policy: https://g.home.mi.com/views/user-terms.html?locale=en&type=userPrivacy
+
+【HealthKit】
+- Your record after each weighing: BMI (body mass index), body fat percentage, weight, lean body mass will be shared to Apple Health.",2015-01-27T18:32:39Z,2025-11-20T14:37:49Z

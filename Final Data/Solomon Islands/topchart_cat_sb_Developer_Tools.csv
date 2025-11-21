@@ -1,0 +1,558 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+sb,Solomon Islands,Developer Tools,6026,1,1601434613,Store Redirect,翔 何,https://apps.apple.com/sb/app/store-redirect/id1601434613?uo=4,0.0,0,0,Developer Tools,"Store Redirect helps developers to view their apps in multiple countries and regions. 
+Developers can easily query ranks, reviews, featured app, stories and more.
+By checking the apps in each countries and regions, developers can better localize apps.",2022-01-12T08:00:00Z,2022-02-23T16:01:14Z
+sb,Solomon Islands,Developer Tools,6026,2,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/sb/app/termux/id6738933789?uo=4,0.0,0,0,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+sb,Solomon Islands,Developer Tools,6026,3,1475741280,"SSH Client: iSH, CMD, Terminal",Moon Technolabs Private Limited,https://apps.apple.com/sb/app/ssh-client-ish-cmd-terminal/id1475741280?uo=4,0.0,0,0,Developer Tools,"Here is one of the most intelligent & advanced SSH Client apps to manage and connect remote servers for your iOS and Mac devices
+
+About SSH Client:
+
+SSH Client is an on-the-go SSH-Telnet app with the best putty, console, and shell ios app with powerful remote access & terminal emulator. Our enterprise-grade mobile app is built for all kinds of server management needs. Our comprehensive features are not limited to terminal keyboard and language support, multi-session capability, and Bluetooth keyboard support but many more. Our SSH Client app can easily integrate with AWS, Azure, and Digital Ocean. 
+
+The app is most popular because of its administrator-friendly approach; we have also considered our valued customers suggestions and constantly released updates for SSH Client to become reliable and robust in real-world usage and development.
+• Private key files can now be directly imported in multiple formats (RSA, DSA, Putty) using iTunes sharing from other apps and Clipboard
+• RSA / DSA key generation and authentication and share it via email or Clipboard
+• Get 'Local Notification Alert or blink' before the connection starts terminating
+• Quick retrieval of the last top 3 connected servers to join instantly
+
+SSH Client Functionalities:
+• Launch (Run) a saved command/script at connection startup
+• Connect with your servers using username, password, or private key authentication through SSH
+• Configurable' Standard and Non-Standard' port
+
+Adaptive Terminal:
+• Customize Terminal like background, foreground, cursor colour selection
+• Standard Terminal features, including 'Terminal Emulator with Editor.'
+• Personalize Terminal Size
+• Support Terminal Screen copy/paste and easy text selection
+
+Server Folders:
+• Organized groupwise server to easily and freely manage and control interoperability in a blink. 
+
+Customizable Keyboard:
+• Fully External / Bluetooth keyboard support
+• Special keys such as Esc, Tab, Ctrl, /, :, -, !, |, $, *
+• Built-In keyboard keys with fixed keys like Ctrl, Alt, Tab, Esc, Up, Down, Left, Right and F1-12
+
+Easy Connect:
+• Run multiple prompt sessions at a time
+• Active connection counts indicator at App Badge
+• Configure and manage unlimited future sessions to reduce workload
+
+Gesture Control:
+• Pinch Scaling Terminal Screen
+• One touch on / off for Auto scroll
+• Single tap connection/disconnection from 'Home Screen'
+
+Key Handy Features of Free SSH Client (Best Putty, Console, Shell App):
+• Works over mobile Cellular or WiFi network
+• Use Custom or Mac Built-In fonts
+• Uninterrupted operationality in 'Portrait or Landscape modes
+• Multiple editors supported like Vi, vim, pico, nano, etc
+• Built-in Passcode features
+• Its 'Universal Binary,' hence, no need to buy 2 apps for iPhone and iPad
+
+SFTP Functionalities:
+• Quickly create, rename, and delete files & directories
+• Easily edit text files
+• Upload and Download files from your device to your server and server to your device
+
+What's New?
+• Perform batch execution by selecting the servers
+• Integrate DigitalOcean droplets to a group in SSH
+• Add VM servers from the account
+• Integrate AWS to a group in SSH
+• Integrate Azure to a group in SSH
+
+Know about supported technologies:
+Protocols: SSH, SFTP
+Channel types: Session Shell, Session SFTP, Local Forward
+iOS versions: 14
+
+Subscription Details:
+- Subscriptions allow users to have prompt access to all features with unlimited access to all platforms
+– Payment will be charged to iTunes Account
+– The free trial period lasts for 7 days and automatically renews unless auto-renew is turned off at least 24 hours
+- User can manage subscriptions & auto-renewal by turning it off from Account Settings after purchase
+- All features for all platforms will be disabled upon completion of the subscription
+
+Terms of use: http://moondialer.moontechnolabs.com/v1/ssh-terms 
+Contact us at support@moonapps.xyz
+We welcome suggestions or feedback, as we keep adding new features based on our customers' feedback and requests.",2019-10-12T07:00:00Z,2025-11-05T04:21:17Z
+sb,Solomon Islands,Developer Tools,6026,4,1554623088,Termux+,志鹏 潘,https://apps.apple.com/sb/app/termux/id1554623088?uo=4,0.0,0,0,Developer Tools,"Termux+ - Fully Featured SSH & SFTP Client for iOS
+
+Manage your servers effortlessly with Termux+, an all-in-one SSH and SFTP client that empowers you to access server files, open interactive terminals, and complete tasks on the go.
+
+Key Features:
+* Comprehensive Server Access: Connect to SSH and SFTP servers with support for SOCKS5 proxy and jump host functionality, ensuring secure and versatile connections.
+* File Management: Seamlessly copy, move, rename, and delete files on your servers. Directly manage remote files, and easily edit text files.
+* Effortless File Transfers: Import and export files between SFTP servers, iPhones, and iPads. Copy files across servers or your devices without hassle.
+* Customizable Themes: Switch between Dark and Light Themes to match your environment and preference.
+* Secure SSH Connections: Connect to SSH servers using passwords or secure key-based authentication.
+* Interactive SSH Terminal: Access your SSH terminal on the go, continuing your work from any location with full functionality.
+* Code Snippet Management: Save frequently used commands and scripts as snippets for quick execution with a single tap.
+* Multi-Server Snippet Execution: Run saved snippets on multiple servers at once, enhancing your productivity.
+* Text Editor Support: Use popular terminal-based text editors like Nano or Vim for seamless file editing directly from the terminal.
+* Full Keyboard Support: A complete virtual keyboard with all the special keys you need, mirroring the experience of a desktop keyboard.
+* iOS Integration: Upload photos and videos from photo library to your SFTP servers.
+* HTML Code Preview: Write and preview HTML, with support for HTML and SVG rendering, perfect for web development tasks.
+* Document Preview: View a variety of files, including images, PDFs, Word documents, Excel sheets, and PowerPoint presentations right within the app.
+
+Termux+ is designed to bring the power of server management and file transfers right to your mobile device, combining security, flexibility, and ease of use. Take your server tasks with you, wherever you go.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be done up to 24 hours before the end of an ongoing period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling of auto-renew, in the Account Settings after purchase.
+
+Privacy policy and terms of use https://srmapp.com/docs/terms.html",2021-02-22T08:00:00Z,2025-06-30T22:25:59Z
+sb,Solomon Islands,Developer Tools,6026,5,899247664,TestFlight,Apple Services Pte. Ltd.,https://apps.apple.com/sb/app/testflight/id899247664?uo=4,0.0,4.78571,14,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+sb,Solomon Islands,Developer Tools,6026,6,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/sb/app/resolutioner/id1563852783?uo=4,0.0,0,0,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z
+sb,Solomon Islands,Developer Tools,6026,7,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/sb/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,5,1,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+sb,Solomon Islands,Developer Tools,6026,8,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/sb/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+sb,Solomon Islands,Developer Tools,6026,9,6657984482,PIA S5 Control,MARS BROTHERS LIMITED,https://apps.apple.com/sb/app/pia-s5-control/id6657984482?uo=4,0.0,0,0,Developer Tools,"Group Control APP is a free group control app software for iOS launched by PIA S5 Proxy. It can batch control hundreds of iOS mobile devices through PIA S5 Proxy computer application, and realize the simultaneous operation of hundreds of devices. PIA S5 Proxy  Group Control APP is provided free of charge, without additional charge, and does not require the same network environment. It is suitable for e-commerce marketing, games, traffic acquisition, live broadcast and other scenarios, quickly access the Internet, and enhance your online privacy.
+
+√ Free to use
+√ No restrictions on the same network environment and the number of devices
+√ Support for use on real devices and simulators
+√ Simple operation, one computer can manage all mobile devices
+
+[Main features]
+Centralized management: Free batch management of iOS devices, unified configuration and control, and simplified management process.
+Security guarantee: Advanced encryption technology can ensure data transmission security.
+Device support: Support for use on real devices and simulators, one computer can manage all iOS devices.
+Real-time monitoring: Provide real-time device status monitoring to help enterprises and individuals grasp the operation status in time and optimize resource allocation.
+Flexible configuration: No restrictions on the same network environment and the number of devices.
+User-friendly: Simple and intuitive interface design, easy to use.
+
+[How to start using PIA S5 Proxy  Group Control APP]
+Step 1: Install  Group Control APP and log in to the same account on mobile devices and computers
+Step 2: Select the proxy or filter you want to use and save
+Step 3: Click Connect on your mobile device to start using the proxy
+That's it! You can now browse the Internet with unified configuration and control of multiple mobile devices.
+
+PS. If you have feature requests for PIA S5 Proxy  Group Control APP or want to report a bug, please contact us at support@piaproxy.com.",2024-08-28T07:00:00Z,2025-08-27T07:24:05Z
+sb,Solomon Islands,Developer Tools,6026,10,6753701067,ProScan: PDF Scanner,PSCD TECHNOLOGY DEVELOPMENT COMPANY LIMITED,https://apps.apple.com/sb/app/proscan-pdf-scanner/id6753701067?uo=4,0.0,0,0,Developer Tools,"ProScan – Your Smart PDF, Word & Text Scanning Assistant
+ProScan helps you scan, convert, and manage documents quickly and professionally – right from your phone.
+Whether you’re studying, working, or handling urgent paperwork, the app delivers a smooth, convenient experience for scanning, compressing, merging, splitting, and sharing files effortlessly.
+
+KEY FEATURES
+Smart Document Scanning
+Open the camera to capture documents with auto edge detection.
+Instantly convert images into PDF / Word / Text formats.
+Edit before saving: crop, rotate, enhance, and apply black-and-white filters.
+Export high-quality files, ready for sharing or printing.
+Flexible PDF Compression
+Reduce PDF file size without losing image quality.
+Choose compression level: Low / Medium / High to fit your needs.
+Save storage space and share files faster.
+Easy PDF Merge & Split
+Select multiple files and combine them into a single PDF in just a few taps.
+Split PDFs by page range – fast, accurate, and convenient.
+Efficient File Management
+Rename, delete, share, or open PDFs directly within the app.
+Keep your documents organized and easy to find.
+View and interact with PDFs seamlessly.
+
+ADVANCED IMAGE PROCESSING TECHNOLOGY
+Automatically detects and aligns document edges using AI.
+Enhances scan quality by reducing shadows and improving sharpness.
+Accurately recognizes text (OCR), allowing you to extract content from images.
+
+
+ WHY YOU’LL LOVE ProScan
+Turn paper documents into digital files in seconds.
+Easily edit, compress, and merge your files.
+Work and study efficiently — no computer needed.
+Simple, clean interface that anyone can use.
+
+DATA SECURITY
+All files are stored locally on your device.
+You can delete them anytime — no uploads to external servers.
+No user data collection – complete privacy guaranteed.
+PROSCAN IS PERFECT FOR:
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.
+
+ProScan – Faster, Smarter, and Safer Document Scanning!
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.",2025-11-18T02:56:46Z,2025-11-18T02:56:46Z
+sb,Solomon Islands,Developer Tools,6026,11,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/sb/app/expo-go/id982107779?uo=4,0.0,0,0,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+sb,Solomon Islands,Developer Tools,6026,12,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/sb/app/scriptable/id1405459188?uo=4,0.0,0,0,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+sb,Solomon Islands,Developer Tools,6026,13,1671592876,JavaScript Coding Editor IDE,HurryApp LTD,https://apps.apple.com/sb/app/javascript-coding-editor-ide/id1671592876?uo=4,0.0,0,0,Developer Tools,"ntroducing Javascript Editor, the ultimate JavaScript editor ! Designed with the modern developer in mind, Javascript Editor provides you with a streamlined and efficient editing experience, helping you code faster and smarter.
+
+With Javascript Editor, you'll enjoy lightning-fast performance, thanks to its optimized code architecture. The app offers real-time syntax highlighting for JavaScript, making it easy for you to identify and fix errors in your code. Javascript Editor also features an advanced text editor that supports customizable themes and font styles, allowing you to personalize your coding environment and adjust it to your liking.
+
+Whether you're a seasoned developer or just starting out, Javascript Editor has everything you need to take your JavaScript coding to the next level. With its advanced code completion and autocompletion features, you can code faster and more accurately, reducing the time you spend on repetitive tasks.
+
+In addition to its advanced editing capabilities, Javascript Editor includes a powerful debugger that helps you quickly locate and fix bugs in your code. With its intuitive user interface and step-by-step debugging process, you'll be able to identify and fix issues in no time.
+
+And that's not all! Javascript Editor also includes a wide range of other tools and features, such as code folding, line numbers, code commenting, and more. Whether you're working on a small script or a large project, Javascript Editor has everything you need to get the job done.
+
+So what are you waiting for? Download Javascript Editor today and experience the future of JavaScript editing !",2023-02-14T08:00:00Z,2025-02-21T01:37:21Z
+sb,Solomon Islands,Developer Tools,6026,14,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/sb/app/userscripts/id1463298887?uo=4,0.0,0,0,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+sb,Solomon Islands,Developer Tools,6026,15,640199958,Apple Developer,Apple Services Pte. Ltd.,https://apps.apple.com/sb/app/apple-developer/id640199958?uo=4,0.0,0,0,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+sb,Solomon Islands,Developer Tools,6026,16,1477376905,GitHub,GitHub,https://apps.apple.com/sb/app/github/id1477376905?uo=4,0.0,0,0,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+sb,Solomon Islands,Developer Tools,6026,17,1234793120,App Store Connect,Apple Services Pte. Ltd.,https://apps.apple.com/sb/app/app-store-connect/id1234793120?uo=4,0.0,0,0,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+sb,Solomon Islands,Developer Tools,6026,18,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/sb/app/device-monitor/id1522870046?uo=4,0.0,5,1,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+sb,Solomon Islands,Developer Tools,6026,19,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/sb/app/ish-shell/id1436902243?uo=4,0.0,0,0,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+sb,Solomon Islands,Developer Tools,6026,20,6742786598,iProxy - Sys admin tools,"N-LAB, OOO",https://apps.apple.com/sb/app/iproxy-sys-admin-tools/id6742786598?uo=4,0.0,0,0,Developer Tools,"iProxy: privacy and speed in one app
+
+Enjoy secure and anonymous internet browsing with iProxy!
+
+-Protestion First:
+iProxy hides your IP address, blocks trucks, and shields you from malicious therapies. Your personal data repair security guard.
+
+-Privacy Without Compromises:
+Working, traveling, or relaxing? Stay connected, stream content, and chat securely — with zero risk to your digital safety.
+
+-Compatibility & Versatility:
+Works on all iOS devices and supports popular protocols (HTTP, HTTPS, SOCKS5). Seamlessly integrates with browsers, apps, and cloud services.",2025-03-12T07:00:00Z,2025-08-25T17:20:04Z
+sb,Solomon Islands,Developer Tools,6026,21,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/sb/app/stikdebug/id6744045754?uo=4,0.0,5,1,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+sb,Solomon Islands,Developer Tools,6026,22,1038574481,Kodex,Bruno Philipe Resende Silva,https://apps.apple.com/sb/app/kodex/id1038574481?uo=4,0.0,0,0,Developer Tools,"Kodex is an advanced code editor which brings powerful and desktop-class editor features to your iPad or iPhone:
+
+* Multi-caret editing, to quickly transform code selections.
+* Regex search and replace, with template matching and replace-all-matches.
+* Minimap which allows quick scroll navigation though the document.
+* Multiple window support
+* Syntax highlighting for over 150 languages.
+* Trackpad support with custom gestures to add cursors (ctrl+shift+click).
+* Auto complete feature (currently only for HTML).
+* Add as many guide columns as you wish (default 80 and 120 characters).
+* Configurable tab size (default 4 spaces), or insert spaces when pressing tab.
+* Draw hints for invisible characters such as new lines, tabs, and spaces.
+* Customizable key bindings, so you can configure Kodex to use the same key combos you are already used to.
+* Kodex smartly preserves your open documents so that your work stays as you left it between launches.
+* Light and Dark modes.
+
+Kodex is integrated with the Files app, so you can easily open files from any other app, and from your iCloud documents folder.
+
+You can launch Kodex QuickEdit from any file sharing view in any app to edit its contents without launching the main Kodex App (be aware this functionality depends on the host app implementing the sharing activity properly).
+
+Included are 10 editor themes, and several monospaced fonts for code editing (you can install your own preferred fonts using system profiles). Font size and line spacing are adjustable, so you can configure Kodex to best fit your preferred screen size, arrangement, and orientation.
+
+Kodex is not a compiler, and you can not build or run the code you edit from it. Think of Kodex as a NotePad++ or Sublime Text substitute for iPhone and iPad.
+
+Kodex is currently optimized for external keyboards, such as Apple's Smart Keyboard for the iPad Pro, or any bluetooth/USB keyboard. More virtual keyboard features will be added in a future version.",2018-03-19T21:26:05Z,2024-04-01T20:38:40Z
+sb,Solomon Islands,Developer Tools,6026,23,1544728400,xTerminal - SSH Terminal Shell,婉媚 邵,https://apps.apple.com/sb/app/xterminal-ssh-terminal-shell/id1544728400?uo=4,0.0,0,0,Developer Tools,"xTerminal - Your Ultimate SSH Terminal Shell
+
+xTerminal is your all-in-one SSH terminal client for managing servers with speed and security. Whether you're an IT professional or a developer, xTerminal gives you the tools to easily connect, control, and manage your servers from anywhere.
+
+Key Features:
+* Interactive SSH Terminal: A fast, reliable terminal for executing commands on your servers. Eg: Use top to monitor system status or follow logs with tail -f.
+* Powerful Editor: Edit documents with vi/vim just like on a desktop, with full support for CTRL and arrow keys, making your SSH terminal experience smooth.
+* Multi-Session Management: Manage multiple SSH connections at once. Add, remove, and switch between sessions with ease, boosting your productivity.
+* Snippets: Save and organize frequently used SSH commands. Quickly search by name, command, or label, making repeated tasks quicker and simpler.
+* Device Management: Add your SSH servers, group them by labels, and search by name, host, or labels. Connect via password or public key authentication.
+* Advanced SSH Options: Support for SSH jump hosts and SOCKS5 proxies for enhanced security and flexible connections.
+* SFTP for File Management: Upload, download, edit, move, and delete files using the built-in SFTP, allowing you to manage files on your servers directly from the terminal.
+* Keep Sessions Alive: Use “Keep Awake” and “Keep Alive” features to maintain persistent SSH connections without interruptions.
+* User-Friendly Interface: Simple navigation with pull-to-refresh, search highlights, sortable lists, and drag-and-drop to reorder devices or snippets.
+* Live Ping Monitoring: Check device connectivity in real-time with ping stats, including ms and TTL, helping you monitor the health of your network.
+* Discover Network Devices: Easily find and save neighboring network devices for quick access later.
+* Secure Port Knocking: Add an extra layer of protection by using port knocking to guard your servers from unauthorized access.
+* Enhanced Security: Use TouchID/FaceID to protect your SSH sessions, ensuring secure access to your terminal on app launch or resume.
+* iCloud Sync: Backup and restore your device and snippet lists across all iOS devices, ensuring seamless access to your settings anywhere.
+* Copy & Paste: Effortlessly run commands from the clipboard or copy terminal output, streamlining your workflow in the terminal.
+* Universal App: Optimized for both iPhone and iPad, giving you a consistent experience across devices.
+* Secure Data Storage: All credentials and data are stored securely on your device, so you can rest assured your information is safe.
+* Batch Execution: Execute commands on multiple servers at once and view all the outputs in one go.
+* Startup Snippets: Set up essential commands to run on app startup, giving you immediate access to critical tasks as soon as you connect.
+
+xTerminal is built for anyone needing a fast, reliable, and secure SSH terminal. It’s perfect for managing remote servers on various platforms, including macOS, Linux, OpenBSD, FreeBSD, NetBSD, Solaris, and OpenVMS.
+
+Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Terms of use https://septudio.com/terms-of-use and privacy policy https://septudio.com/privacy-policy",2020-12-17T08:00:00Z,2025-09-30T12:35:06Z
+sb,Solomon Islands,Developer Tools,6026,24,1580431405,HTML Editor,Intrepid Corporation LTD,https://apps.apple.com/sb/app/html-editor/id1580431405?uo=4,0.0,0,0,Developer Tools,"HTML Editor is a lightweight HTML editor complete with syntax highlighting, focused code completion suggestions and a live preview panel.
+
+With HTML Editor, you can open any existing HTML document on your device or in your iCloud storage. Simply drop your existing HTML document onto our app icon to open that document within HTML Editor.
+
+Quickly insert tag elements via the menu, or comment out code dynamically with IntelliSense highlighted detection system.
+
+You can efficiently export your HTML document and share it with your teammates.
+
+HTML Editor comes with full iCloud and local support. HTML Editor is also available on iOS.
+
+We're always working on improving our apps and would love any feedback or suggestions that you may have.
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/57995653
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2021-08-10T07:00:00Z,2024-09-08T22:14:43Z
+sb,Solomon Islands,Developer Tools,6026,25,1340755176,Quick Chat - Web Chat Access,Manani Jyotiben,https://apps.apple.com/sb/app/quick-chat-web-chat-access/id1340755176?uo=4,0.0,0,0,Developer Tools,"Quick Chat - Web Chat Access – Elevate Your Messaging Experience
+Since 2018, Quick Chat - Web Chat Access has been the go-to app for iPhone users seeking to enhance their messaging. We've crafted a powerful suite of tools designed to streamline communication, foster positive interactions, and bring unparalleled convenience to your fingertips. With our latest update, we've refined the user interface, strengthened security, and introduced exciting new features that make managing your messages easier and more enjoyable than ever.
+Key Features
+* Seamless Synchronization – Instantly sync your iPhone with messaging services using a simple QR code scan. Our effortless setup ensures you can start enjoying your messaging experience without delay.
+* AI Chatbot Assistant – Engage with our intelligent chatbot to help you manage your messages more efficiently. Whether you need quick answers, reminders, or help with organizing conversations, the AI assistant is ready to assist 24/7.
+* Extensive Status Library – Browse through a vast collection of status updates, from motivational quotes to heartfelt messages. Perfect for sharing across your messaging apps and social media platforms.
+* Custom Chat Creation – Craft personalized chat conversations to entertain, inspire, or engage your social network in creative ways. Let your imagination run wild!
+* Stylish Text with Creative Fonts – Make your messages stand out with unique fonts that add personality and flair to your chats. Express yourself like never before.
+* Secure Image-to-Text Conversion – Utilize our offline OCR technology to extract text from images without uploading data to the cloud, ensuring complete privacy and data security.
+* Advanced Security Options – Protect your messages with passcode and biometric authentication. Keep your conversations secure and accessible only to you.
+* Promoting Positive Communication – We foster a safe and supportive messaging environment, encouraging respectful and meaningful interactions.
+How It Works
+1. Open Quick Chat - Web Chat Access on your iPhone to display the QR code.
+2. Use another device to scan the QR code and sync your messaging service effortlessly.
+Feedback & Support
+We love hearing from you! If you're enjoying Quick Chat - Web Chat Access, please consider leaving us a rating. For questions or suggestions, reach out to us directly through the app—we're here to help.
+Streamline your messaging with Quick Chat - Web Chat Access—where security, creativity, and convenience come together.
+Privacy & Security
+Your privacy is our top priority. Quick Chat - Web Chat Access does not collect, store, or share any user data. All data related to your usage of the app, including downloads and interactions, is stored locally on your device and is never transmitted to external servers.
+Disclaimer:
+Quick Chat - Web Chat Access is an independent app and is not affiliated with WhatsApp Inc. or any other third-party platforms. Our app is designed to enhance your messaging experience. We encourage users to respect privacy and copyright when sharing content. Always obtain permission before reusing content from downloaded statuses.",2018-01-31T11:13:46Z,2025-02-28T17:02:54Z

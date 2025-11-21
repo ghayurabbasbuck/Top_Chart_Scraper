@@ -1,0 +1,762 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bo,"Bolivia, Plurinational State of",Weather,6001,1,1161387262,Windy.com Meteorología y radar,"Windyty, SE",https://apps.apple.com/bo/app/windy-com-meteorolog%C3%ADa-y-radar/id1161387262?uo=4,0.0,4.78733,221,Weather,"UNA VISUALIZACIÓN ÚNICA DEL PRONÓSTICO DEL TIEMPO
+Mientras que la mayoría de las apps de pronóstico del tiempo dependen solo de modelos globales gratuitos, Windy ha ido más allá e invierte constantemente en los modelos más precisos disponibles, siempre con la mayor resolución posible, para ofrecer predicciones meteorológicas confiables.
+
+RADAR METEOROLÓGICO E IMÁGENES SATELITALES
+El radar meteorológico es una de las herramientas más solicitadas. Para ofrecer imágenes precisas, ampliamos constantemente nuestras fuentes para que la lluvia, la nieve o las tormentas no te sorprendan. Fuentes confiables incluyen: NOAA, Met Office, AROME, DWD, JMA, ACCESS y más.
+
+MÁS DE 50 MAPAS Y HERRAMIENTAS METEOROLÓGICAS
+- Pronóstico del viento (velocidad actual, rachas, acumulación, comparación de modelos, estaciones meteorológicas)
+- Temperatura, humedad, presión, punto de rocío, altitud de congelación
+- Lluvia, tormentas eléctricas, tipo de precipitación, índice CAPE
+- Radar meteorológico e imágenes satelitales (azul, infrarrojo, visible)
+- Nubes, altura y base de nubes, visibilidad (LIFR, IFR, MVFR, VFR), niebla
+- Olas, marejadas, corrientes
+- Mapas de actividad solar (potencia solar, índice UV, temperatura de bulbo húmedo)
+- Nieve acumulada, nieve nueva, densidad de nieve
+- NO₂, PM2.5, Aerosoles, SO₂, Capa de ozono, Ozono superficial, CO, partículas de polvo
+- Alertas meteorológicas y pronósticos extremos
+- Humedad del suelo, anomalías de humedad, intensidad de sequía, riesgo de incendios, humedad del combustible
+
+MODELOS METEOROLÓGICOS DISPONIBLES
+Globales:
+- ECMWF
+- GFS (NOAA)
+- ICON (DWD)
+
+Locales:
+- HRRR, NAM (NOAA)
+- HRDPS (MSC)
+- ICON-EU, ICON-D2 (DWD)
+- UKV (Met Office del Reino Unido)
+- AROME-HD (Météo France)
+- ALADIN (CHMI)
+- NEMS (meteoblue)
+- MSM (JMA)
+- ACCESS-C (BoM Australia)
+
+ALERTAS EN VIVO Y PERSONALIZADAS
+Recibe alertas en tiempo real antes de que llegue la tormenta. ¿Quieres anticiparte al clima? Configura alertas personalizadas según tus ubicaciones favoritas y los parámetros que más te interesen: viento, lluvia, temperatura.
+
+SEGUIMIENTO DE HURACANES Y TORMENTAS
+Con la herramienta de seguimiento de huracanes de Windy puedes ver el recorrido histórico y la trayectoria pronosticada. No dependemos de un solo modelo: te mostramos todos los disponibles.
+
+WIDGETS DEL CLIMA PARA iOS, iPadOS Y macOS
+Obtén una vista rápida del clima en tu iPhone, iPad o Mac con radar en vivo de NOAA, Met Office, Meteo France, JMA, DWD, ACCESS y más. Elige entre múltiples tamaños y estilos: radar, satélite, pronóstico de 3 a 5 días o widgets simples para la pantalla bloqueada.
+
+HERRAMIENTAS PARA PILOTOS
+- 16 niveles de altitud desde el suelo hasta 13.5 km / FL450
+- Más de 50,000 aeropuertos buscables por ICAO e IATA, info de pistas, METARs en crudo y decodificados, TAF y NOTAM
+- Airgrama y meteograma detallados
+- Pronóstico de térmicas
+- Meteograma con temperatura, punto de rocío, viento, presión, precipitación, nubosidad por altitud
+- Planificador de rutas
+
+WINDY PARA APPLE WATCH
+Pronóstico, radar, METARs, estaciones meteorológicas y viento en una interfaz compacta y elegante. Usa la carátula de Windy en tu Apple Watch y tenlo todo a la vista en cualquier momento.
+
+TÉRMINOS Y CONTACTO
+Términos de uso: https://account.windy.com/agreements/windy-terms-of-use
+Política de privacidad: https://account.windy.com/agreements/windy-privacy-policy
+
+Contáctanos:
+Únete a community.windy.com para compartir ideas, reportar errores o sugerir funciones. También puedes escribirnos a info@windy.com
+
+Síguenos:
+- Facebook: facebook.com/windyforecast
+- X: X.com/windycom
+- Threads: threads.net/@windy_forecast
+- Instagram: instagram.com/windy_forecast
+- YouTube: youtube.com/@Windyforecast",2016-10-31T20:29:54Z,2025-11-03T08:13:21Z
+bo,"Bolivia, Plurinational State of",Weather,6001,2,295646461,El Tiempo: The Weather Channel,The Weather Channel,https://apps.apple.com/bo/app/el-tiempo-the-weather-channel/id295646461?uo=4,0.0,4.69564,69,Weather,"The Weather Channel es el servicio de meteorología más preciso del mundo*. Ante el aumento de los climas extremos, prepárese para tormentas, huracanes e incendios. Lleve registro del pronóstico diario y reciba actualizaciones de radar en vivo, alertas de tormentas y actualizaciones por precipitaciones locales.
+
+Nuestros mapas de radar Doppler en vivo, la vigilancia de tormentas y el rastreador de huracanes te advierten sobre grandes tormentas, fuertes lluvias, olas de calor o una inundación. Las condiciones climáticas extremas son cada vez más frecuentes en todo el país: nuestras alertas te mantienen actualizado.
+
+Planifica con hasta 15 días de anticipación gracias al servicio de meteorología más preciso del mundo y hazlo con confianza**. Administra alertas meteorológicas personales, para recibir notificaciones importantes para ti.
+
+Descarga The Weather Channel para pasar la temporada de tormentas y huracanes.
+
+The Weather Channel presenta lo siguiente:
+
+Pronóstico del tiempo para hoy:
+
+-Pronóstico de 15 minutos sobre la intensidad de la lluvia hasta 7 horas y radar en la pantalla de inicio
+-¡Consulta el pronóstico hasta dos semanas antes!
+-Prepárate para tormentas y huracanes
+-Controle las condiciones de respiración con nuestro pronóstico del Índice de calidad del aire
+
+Características del widget y la pantalla de inicio:
+-Obtén más detalles del clima con solo un vistazo y accede al pronóstico con un solo toque
+-Verifica tu radar local, recibe alertas y verifica en tu pantalla de inicio el pronóstico para las próximas tres horas
+Otras características:
+-Detalles de los horarios de la puesta del sol
+-Prepárate para eventos climáticos extremos, huracanes y terremotos con noticias en vivo
+---
+Obtén The Weather Channel Premium para disfrutar de la experiencia más completa, dinámica y precisa. Acceso exclusivo a:
+-Clima sin anuncios publicitarios
+-Detalles del pronóstico de 15 minutos
+-Radar futuro con antelación de 72 horas
+-¡Y mucho más!
+
+Puedes cancelar la suscripción a The Weather Channel en cualquier momento en la configuración de tu cuenta de App Store o se renovará automáticamente. Debes hacerlo 24 horas antes del final del período de suscripción para evitar que se te cobre otra cuota. Los pagos de la suscripción se cargarán a tu cuenta de App Store en el momento de la confirmación de la compra y al inicio de cada período de renovación. Para obtener más información, consulta nuestra Política de privacidad y los Términos de uso.
+
+Privacidad y comentarios
+• Nuestra Política de privacidad: https://weather.com/en-US/twc/privacy-policy
+• Términos de uso: http://www.weather.com/common/home/legal.html
+- Si tienes alguna pregunta o sugerencia sobre el servicio meteorológico, escribe a iphonesupport@weather.com
+
+*The Weather Channel es el servicio de pronóstico meteorológico más preciso del mundo. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2021-2024, https://forecastwatch.com/AccuracyOverview2021-2024, a solicitud de The Weather Company.
+
+The Weather Channel® es una marca registrada de The Weather Company, LLC 2024.",2011-07-09T10:50:28Z,2025-11-20T12:31:11Z
+bo,"Bolivia, Plurinational State of",Weather,6001,3,300048137,AccuWeather: Clima y Tiempo,"AccuWeather International, Inc.",https://apps.apple.com/bo/app/accuweather-clima-y-tiempo/id300048137?uo=4,0.0,4.60672,506,Weather,"AccuWeather es tu radar del tiempo: obtén el pronóstico del clima con mapas, la temperatura real, además de noticias meteorológicas y mucho más.
+ 
+Puedes rastrear en vivo los cambios atmosféricos para saber con exactitud cuánto calor o frío hace donde quiera que vayas.
+ 
+Prepara tu día con la precisión de AccuWeather. ¿Te preocupa quemarte por el sol?: recibe alertas e informes climáticos mediante imágenes satelitales con información de radiación UV. Además, RealFeel Temperature® te ayuda a saber la sensación climática real en el exterior.
+ 
+Las siguientes razones hacen de AccuWeather una app única:
+ 
+1.  Recibe actualizaciones climáticas en todo el mundo y en todo momento con Superior accuracy™.
+2.  Las alertas atmosféricas de AccuWeather te ayudarán a prepararte en caso de emergencias climáticas.
+3.  RealFeel Temperature® te da a conocer la diferencia entre cómo se ve el ambiente y cómo se siente en verdad.
+ 
+Desde el índice de radiación UV, hasta el punto de rocío, la visibilidad, la precipitación y varios informes de calidad ambiental, con AccuWeather accede a toda la información que necesites.
+ 
+Puedes controlar el tipo de información que desees recibir, desde actualizaciones cada minuto hasta informes diarios. No hay razón para que los cambios climáticos te arruinen el día.
+ 
+Personaliza AccuWeather para que se ajuste a tus necesidades:
+ 
+•Recibe información ambiental desde cualquier lugar del mundo.
+•Puedes saber el estado meteorológico hasta con 15 días de anticipación.
+•Obtén la última información meteorológica cada minuto con MinuteCast®
+•El equipo noticioso de AccuWeather te mantendrá informado con las últimas novedades climáticas mediante videos.
+•Personaliza la app para que muestre solo las funciones que te interesan.
+ 
+Con superior accuracy™, conoce con exactitud la información climática para que no te pierdas un día de campo, un atardecer o esa ocasión especial al aire libre que planeaste. Recibe información ambiental confiable con AccuWeather.
+ 
+Descarga AccuWeather de forma gratuita y disfruta de su galardonada función superior accuracy™ para que recibas información meteorológica exacta en tu dispositivo iOS.",2011-07-09T10:13:37Z,2025-11-06T13:12:55Z
+bo,"Bolivia, Plurinational State of",Weather,6001,4,1050023752,UAV Forecast,Matthew LLOYD,https://apps.apple.com/bo/app/uav-forecast/id1050023752?uo=4,0.0,5,4,Weather,"¿Cuándo será bueno volar tu cuadricóptero? Consulta el pronóstico del tiempo, satélites GPS, actividad solar (Kp), zonas de exclusión aérea y restricciones de vuelo, todo en una herramienta conveniente. Perfecto para drones DJI Neo, Mini, Mavic, Air, Inspire, FPV y Hover, Autel y Skydio, y muchos otros Vehículos y Sistemas Aéreos No Tripulados.
+
+UAV Forecast es la herramienta original, mejor y clásica para pilotos de drones. Adecuada tanto para principiantes como para pilotos avanzados, recreativos y comerciales, las características incluyen:
+
+• Datos meteorológicos hiperlocales, incluyendo velocidades detalladas del viento y ráfagas a nivel del suelo y a cualquier altitud.
+• Datos de satélites GPS incluyendo Galileo y GLONASS, índice de clima solar (Kp) y más.
+• Pronósticos por hora hasta 15 días.
+• Análisis automático codificado por colores de las condiciones: verde para Bueno para Volar, rojo para No Bueno para Volar.
+• Umbrales totalmente configurables.
+• Temas Claro y Oscuro, con cambio automático al amanecer y al atardecer.
+• Búsqueda de ubicación y Ubicaciones Favoritas.
+• Soporte completo para tabletas.
+
+Nuestros usuarios también incluyen pilotos de parapente y paramotor.
+
+Conviértete en suscriptor para obtener pronósticos por hora de 24 horas, 7 días o 15 días y muchas otras características. El pago se cargará a la cuenta de iTunes al confirmar la compra. La suscripción se renueva automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual. La cuenta se cargará por la renovación dentro de las 24 horas previas al final del período actual al mismo precio que pagaste originalmente. Las suscripciones pueden ser gestionadas por el usuario y la renovación automática puede desactivarse yendo a la Configuración de la Cuenta del usuario después de la compra.
+
+Términos: https://www.uavforecast.com/terms",2015-11-18T17:33:14Z,2025-11-20T21:16:01Z
+bo,"Bolivia, Plurinational State of",Weather,6001,5,632040358,Earthquake,Nico Tranquilli,https://apps.apple.com/bo/app/earthquake/id632040358?uo=4,0.0,4.82192,73,Weather,"¡Hasta el día de hoy la mejor app de terremotos con mucha diferencia!
+¡Con más de 5M de descargas, Earthquake ha escalado hasta el top 10 en más de 60 países!
+Earthquake muestra datos sobre terremotos en todo el mundo con el mapa, línea de tiempo, información de eventos y notificaciones push, en una interfaz de usuario sencilla y fácil de usar. Incluye Earthquake para Apple Watch.
+Sus características principales incluyen:
+• datos sísmicos de diversas redes, como U.S. Geological Survey (USGS), European-Mediterranean Seismological Centre (EMSC), GeoScience Australia, GNS Science (GeoNet), Instituto Geográfico Nacional, Servicio Sismológico Nacional, British Geological Survey, GFZ GEOFON, Natural Resources Canada, NOAA
+• Boletines de Tsunami (NOAA)
+• Capas del mapa: placas tectónicas, orógenos, volcanes, plantas nucleares, densidad de población
+• Estimaciones de población para cada evento (100km)
+• buscar el catálogo de terremotos (todas las regiones del mundo, a partir de 1970)
+• notificaciones push: configura alertas en función de la ubicación o un límite de magnitud y recibe notificaciones push en tu teléfono en cuanto una fuente oficial tenga datos disponibles del evento.
+• vista de mapa con círculos de diferentes tamaños y colores que representan la magnitud y momento del evento
+• cronología del evento (hoy, ayer, días anteriores)
+• vista detallada de cada evento mediante mapa y vistas cronológicas
+• filtros de eventos locales y magnitud
+• exporta los datos a Google Earth u otras aplicaciones instaladas compatibles con archivos en formato kml
+• comparte en redes sociales: publica datos y mapas de eventos en Facebook, y Twitter o envíalos por correo electrónico
+• geocodificación inversa: los nombres de ubicaciones (si están disponibles) se calculan de forma automática en función de sus coordenadas geográficas
+• Widgets para su pantalla de inicio o vista de hoy, para mantener los datos sísmicos más recientes al alcance de su mano
+• Soporte Atajos de Siri - “Oye Siri, ¿Cuáles son los últimos terremotos en México?”
+• búsqueda en el catálogo de terremotos por fecha, ciudad, país, continente y fuente de datos
+• ""Alertas Críticas""
+• ""Modo Oscuro""
+• notificaciones basadas en informes de usuarios",2013-05-09T01:21:05Z,2025-03-10T15:56:09Z
+bo,"Bolivia, Plurinational State of",Weather,6001,6,1073082439,My Aurora Forecast,JRustonApps B.V.,https://apps.apple.com/bo/app/my-aurora-forecast/id1073082439?uo=4,0.0,5,4,Weather,"My Aurora Forecast es la mejor aplicación para ver la aurora boreal. Construido con un diseño oscuro y elegante, atrae tanto a los turistas como a los observadores de auroras serios al decirle lo que quiere saber, si esa es exactamente la probabilidad de que vea la aurora boreal o detalles sobre los vientos solares y las imágenes del sol de alta resolución. Con esta aplicación, verá la aurora boreal en poco tiempo.
+
+- Encuentre el índice KP actual y la probabilidad de que vea la aurora boreal.
+- Ver una lista de las mejores ubicaciones para ver desde ahora.
+- Mapa que muestra la intensidad de la aurora en todo el mundo, basado en el pronóstico de auroras de ovación de SWPC.
+- Notificaciones push gratuitas cuando se espera que la actividad auroral sea alta.
+- Pronósticos para la próxima hora, varias horas y varias semanas para que pueda planificar su visualización de la aurora boreal con mucha anticipación (sujeto a las condiciones climáticas).
+- Estadísticas del viento solar e imágenes del sol.
+- Información del recorrido, por lo que si está considerando ir a lugares como Islandia o incluso Alaska o Canadá, podrá encontrar recorridos que podemos recomendarle.
+- Completamente gratuito para todas las funciones, sin compras dentro de la aplicación.
+
+Si desea las últimas actualizaciones sobre la actividad geomagnética y disfruta viendo la aurora boreal, esta aplicación es adecuada para usted. Esta versión cuenta con publicidad.",2016-01-26T23:26:23Z,2025-11-19T17:42:40Z
+bo,"Bolivia, Plurinational State of",Weather,6001,7,975709372,My Earthquake Alerts & Feed,JRustonApps B.V.,https://apps.apple.com/bo/app/my-earthquake-alerts-feed/id975709372?uo=4,0.0,4.96774,31,Weather,"Mis Alertas de Terremotos es una app con información de terremotos fuertes que te proporciona toda la información que necesitas e incluye notificaciones push, todo esto sin cobro. También incluye un diseño hermosamente simple, optimizado para las últimas versiones de iOS.
+
+CARACTERÍSTICAS
+- Información en vivo de terremotos de todo el mundo.
+- Alertas push gratis, personalizadas para ti, sin restricciones.
+- ¡Poderoso motor de búsqueda para encontrar terremotos desde 1970!
+- Diseño hermoso y simple. Observa los terremotos en el mapa o en una lista.
+- Encuentra la ubicación exacta, la profundidad y la distancia de ti.
+
+Si necesitas información o notificaciones de los últimos terremotos cercanos a ti, descarga hoy Mis Alertas de Terremotos.",2015-04-03T20:40:11Z,2025-11-19T17:42:30Z
+bo,"Bolivia, Plurinational State of",Weather,6001,8,662297095,Wind Compass,"Maple Media Apps, LLC",https://apps.apple.com/bo/app/wind-compass/id662297095?uo=4,0.0,4,1,Weather,"Introducción de Wind Compass, la aplicación de referencia para rastrear y monitorear las condiciones de viento y clima. Con Wind Compass, puede obtener fácilmente las actualizaciones meteorológicas más recientes y precisas para cualquier ubicación.
+
+Ya sea que esté planeando una actividad al aire libre, verificando el clima durante un viaje por carretera o simplemente curiosamente sobre las condiciones exteriores, Wind Compass es la aplicación perfecta para ayudarlo a mantenerse informado. Entonces, ¿por qué esperar? Descargue Wind Compass hoy y comience a obtener la información meteorológica que necesita, justo a su alcance.
+
+La brújula eólica puede responder preguntas importantes relacionadas con el clima:
+ - Vea cuál es la velocidad y dirección del viento actual para su ubicación o destino
+ - Ver horario y horario de atardecer para que pueda atrapar la primera luz o la puesta de sol perfecta
+ - Aprenda cómo se siente la temperatura para que pueda planificar su día
+ - Obtenga el pronóstico por hora y diario para planificar mejor las salidas y los viajes
+
+Características clave de la condición del viento
+ - Obtenga lecturas de velocidad del viento en millas/hora, kilómetros/hora, nudos, fuerza de viento de Beaufort o metros por segundo
+ - Seleccione la declinación magnética de la brújula desde el norte verdadero o el norte magnético
+ - Elija la medición de la temperatura de Fahrenheit o Celsius
+ - Seleccione la dirección de la flecha del indicador del viento desde el soplado o proveniente de
+
+Características del pronóstico del clima superior
+ - Ver la temperatura actual y verificar los altibajos estimados
+ - Vea los tiempos del amanecer/al atardecer, más los tiempos """"First Light"""" y """"Last Light"""" para el día (también conocido como Náutico Twilight Start and End)
+ -pronóstico de 24 horas y 7 días que muestra tiempo, temperatura estimada, velocidad y dirección estimada del viento y % de posibilidades de precipitación
+
+Fondos personalizados
+ - Elija entre fondos de color estándar
+ - Agregue un mapa que muestre su ubicación actual
+ - Seleccione una superposición que muestre la vista de la cámara trasera
+ - Elija un gradiente de color que se ajuste automáticamente del calor a frío en función de la temperatura de donde está
+
+Características de Wind Compass Pro
+ - Guardar múltiples ubicaciones
+ - Pronósticos meteorológicos diarios
+ - Quitar anuncios
+
+Con la brújula eólica, puede mantenerse actualizado fácilmente sobre las condiciones climáticas a su alrededor. Como una ventaja adicional, la brújula del viento le muestra qué dirección está al norte, por lo que si está en interiores o giró, puede reorientarlo a sí mismo, así como verificar la dirección actual del viento.
+
+¡Gracias por usar Wind Compass! ¿Tiene preguntas o comentarios? Envíenos un correo electrónico a contact@maplemedia.io para obtener apoyo rápido y amigable.
+
+ 
+Créditos
+
+Datos meteorológicos impulsados ​​por Apple Weatherkit (https://weatherkit.apple.com/legal-attribution.html)
+
+Apple Weather y Weatherkit son marcas comerciales de Apple Inc., registradas en los Estados Unidos y otros países y regiones.
+
+Términos de suscripción: https://maplemedia.io/terms-of-service/
+
+Política de privacidad: https://maplemedia.io/privacy/",2013-07-02T21:18:58Z,2025-09-24T19:58:25Z
+bo,"Bolivia, Plurinational State of",Weather,6001,9,1560347507,"Sonuby: Clima, Atardecer, UV +",Julian Meier,https://apps.apple.com/bo/app/sonuby-clima-atardecer-uv/id1560347507?uo=4,0.0,0,0,Weather,"++ Recomendado por 9to5Mac e iPhone-ticker.de ++
+
+Sonuby es la app profesional de clima y pronóstico del tiempo con widget especializada para vuelo de dron (UAV), navegación en barco, ski y actividades dependientes del tiempo. Los pronósticos especializados proporcionan datos precisos para:
+
+PRONÓSTICO DE ATARDECER PARA FOTOGRAFÍA CON EL REPORTE DE FOTOGRAFÍA
+El reporte de fotografía ofrece pronósticos de atardecer y condiciones de luz perfectas para fotógrafos. Timing preciso de atardecer, hora dorada y condiciones del aire proporcionan las mejores oportunidades fotográficas en cualquier ubicación.
+
+PRONÓSTICOS DE UV Y SALUD CON EL REPORTE DE SALUD
+Perfecto para monitoreo de salud y protección UV. El reporte de salud proporciona índices UV detallados, calidad del aire, presión barométrica y condiciones del aire para cuidar tu salud en actividades al aire libre.
+
+REPORTES DISPONIBLES
+
+- Vida Diaria
+- Vuelo de Dron (UAV)
+- Navegación y Marina
+- Senderismo y Montañismo
+- Salud (incl. Calidad del Aire y Contaminación)
+- Paracaidismo
+- Deportes de Nieve (Ski y Snowboard)
+- Surf y Oleaje
+- Fotografía (Hora Dorada y Atardecer)
+
+WIDGETS DE CLIMA PERSONALIZABLES
+
+Widgets de pantalla de inicio para acceso instantáneo al tiempo:
+
+- Pronósticos Actuales y por Horas
+- Pronóstico de Múltiples Días
+- Específicos de Actividad: Dron (UAV), Navegación, Ski y Más
+- Personalizables
+
+Perfecto para planificación rápida de actividades sin abrir la app.
+
+CARACTERÍSTICAS DESTACADAS
+
+- Widgets de Tiempo: Widgets personalizables de pantalla de inicio para actividades como vuelo de dron, navegación, ski y más
+- Mapas Profesionales de Pronóstico: Mapas detallados con radar, oleaje y datos de montaña
+- Reportes de Calidad del Aire: Monitorea condiciones del aire para salud
+- Reportes Específicos de Actividad: Pronósticos para cada deporte y actividad
+- Clima de Altitud: Tiempo de montaña hasta grandes altitudes
+- Hora Dorada y Hora Mágica: Timing perfecto para fotografía en cualquier clima
+
+¿POR QUÉ SONUBY?
+Los datos de alta calidad de Sonuby provienen de meteoblue. El proveedor meteorológico combina inteligentemente diferentes modelos como DWD, ECMWF, NOAA y Met Office. Los datos meteorológicos de meteoblue han sido apreciados por expertos y son especialmente convincentes en terreno complejo como montañas.
+
+DATOS METEOROLÓGICOS COMPLETOS
+
+Variables Esenciales: Temperatura, humedad, presión barométrica, lluvia, velocidad del viento y ráfagas, índice UV, cobertura de nubes, visibilidad, riesgo de tormenta
+
+Datos Especializados: Profundidad de nieve y nevadas, altura y dirección del oleaje, pronósticos de marea, calidad del aire y contaminación, clima de montaña hasta grandes altitudes, predicción de hora dorada y atardecer para fotografía
+
+MAPAS METEOROLÓGICOS PROFESIONALES
+
+Mapas interactivos con radar, satélite, temperatura, viento, oleaje, profundidad de nieve y calidad del aire. Perfecto para pronósticos de área y planificación de actividades.
+
+Perfecto para pilotos de dron y UAV, navegantes, esquiadores, montañistas, entusiastas del paracaidismo, surfistas y fotógrafos. Los widgets de clima personalizables proporcionan acceso instantáneo a las condiciones que importan para tus actividades.
+
+¡Planifica tus actividades con confianza!
+
+---
+
+Aviso sobre compras dentro de la app:
+
+El pago se cargará a tu cuenta de Apple ID en la confirmación de compra. La suscripción se renueva automáticamente a menos que se cancele al menos 24 horas antes del final del período actual. Tu cuenta será cargada por la renovación dentro de las 24 horas antes del final del período actual. Puedes gestionar y cancelar tus suscripciones yendo a la configuración de tu cuenta de App Store después de la compra. No se permite la cancelación del período de suscripción activo actual.
+
+Términos de Uso: https://sonuby.com/terms-of-use-app/
+
+Política de Privacidad: https://sonuby.com/privacy-policy-app/",2023-10-02T07:00:00Z,2025-09-30T22:15:02Z
+bo,"Bolivia, Plurinational State of",Weather,6001,10,1268230658,BoosterAGRO,"Booster Ag Tech, Inc.",https://apps.apple.com/bo/app/boosteragro/id1268230658?uo=4,0.0,3.91667,12,Weather,"De forma gratuita y en un sólo lugar: toda la información climática, agronómica y productiva de tu campo. Descargala ahora!
+
+Con esta herramienta podrás: visualizar y comparar múltiples pronósticos del tiempo en la ubicación exacta de tu campo; monitorear el desarrollo y la salud de tus cultivos a través de imágenes satelitales e índices de vegetación, como el NDVI; observar en el mapa las lluvias registradas por otros usuarios en distintas zonas; acceder a informes climáticos exclusivos por región. ¡Y mucho más!
+
+Lo que encontrarás en nuestra app:
+* Comparador de pronósticos del tiempo:
+Mira y compara los pronósticos de clima más populares, en las coordenadas exactas de tu establecimiento.
+
+* Pronóstico combinado ponderado
+Accede al pronóstico promedio de todos los anteriores. Este sería el pronóstico estadísticamente más probable.
+
+* Recomendador de pulverización:
+Descubre los momentos adecuados para realizar labores de pulverización, según las condiciones meteorológicas (temperatura, húmedad, ráfaga de viento y lluvias).
+
+* Mapa de lluvias:
+Ve la lluvia acumulada de los últimos 7 días de las zonas cercanas a tus campos a través de los registros compartidos por otros usuarios.
+
+* Radar:
+Ve en tiempo real, mediante datos satelitales, las condiciones actuales de lluvia y nieve, sin necesidad de poseer ningún equipo, estación ó sensor instalado en el campo.
+
+* Planilla de registros climáticos:
+Ten un registro de las últimas precipitaciones, granizos, heladas u otros eventos climáticos acontecidos en tu campo.
+
+* Información colaborativa:
+Comparte datos e información acerca de tu cultivo con tu grupo de trabajo (técnicos, colaboradores, asesores y contratistas).
+
+Además, BoosterAGRO funciona sin conexión, es intuitiva, rápida y fácil de usar!
+
+Constantemente incorporamos nuevas herramientas, funcionalidades y contenido de alta calidad. Nuestro objetivo es ayudarte a simplificar la gestión diaria y la toma de decisiones en el campo.
+
+¡Ya son más de 400.000 descargas en toda Latinoamérica! Descarga ahora de forma GRATUITA la app de BoosterAGRO y únete a miles de otros usuarios que ya están tornando sus cultivos más eficientes y productivos.",2017-09-08T23:14:13Z,2025-09-11T16:30:43Z
+bo,"Bolivia, Plurinational State of",Weather,6001,11,6739888074,Profel Clima 3.0,Erick Panozo,https://apps.apple.com/bo/app/profel-clima-3-0/id6739888074?uo=4,0.0,0,0,Weather,"La primera y única plataforma meteorológica de Bolivia, integrada con sistemas científicos globales, que proporciona información actualizada y estandarizada para adaptarse a las necesidades específicas de los usuarios en el país, con un enfoque en la mejora continua.",2025-05-02T07:00:00Z,2025-10-28T14:47:43Z
+bo,"Bolivia, Plurinational State of",Weather,6001,12,1628751457,Sunlitt: Posición del Sol,Flipping Hues Srls,https://apps.apple.com/bo/app/sunlitt-posici%C3%B3n-del-sol/id1628751457?uo=4,0.0,5,1,Weather,"# Finalista de los Apple Design Awards
+# Destacado en el App Store
+# App del Día
+# Increíble en iOS 26
+# “Apps que amamos” por Apple
+
+Aprovecha el poder del Sol con Sunlitt:
+tu herramienta todo-en-uno para rastrear la posición, los movimientos y las sombras del sol, en cualquier lugar y en cualquier momento.
+
+→ Sigue la Ruta y Posición del Sol
+Accede a datos precisos y actualizados sobre la trayectoria solar, adaptados a tu ubicación, en cualquier momento, incluso sin conexión a internet.
+
+→ Analiza la Luz Solar y las Sombras
+Descubre cómo la luz solar interactúa con las sombras: perfecto para arquitectos, fotógrafos y entusiastas de las actividades al aire libre.
+
+→ Realidad Aumentada - AR
+Observa el recorrido del sol en tu entorno y utiliza Monolitt para visualizar en tiempo real el movimiento de las sombras directamente en tu escena.
+
+→ Horarios de Eventos Solares
+Mantente informado sobre eventos solares importantes como el amanecer, el atardecer, la hora dorada, la hora azul, los solsticios y equinoccios, con información detallada sobre los horarios.
+
+→ Mapa
+Explora más a fondo con herramientas poderosas como el Mapa de Sombras y visualiza la trayectoria del Sol sobre terreno o imágenes satelitales para un análisis visual completo.
+
+→ Sombras del terreno
+Descubre cómo colinas, montañas y valles afectan la luz solar al proyectar sombras reales en el mapa 3D. Se requiere PRO.
+
+→ Modo Monolitt
+Disfruta de una herramienta de seguimiento solar sencilla pero atractiva, perfecta para tareas diarias como encontrar un buen lugar para aparcar, elegir un área soleada para un picnic o conseguir el bronceado perfecto.
+
+Diseñado para creadores y exploradores, Sunlitt funciona sin conexión, se sincroniza en todos tus dispositivos y ofrece:
+
+• Compatible con Apple Watch, iPad, Mac y Vision Pro
+• Widgets para pantalla de bloqueo e inicio
+• Notificaciones y Actividades en vivo
+• App Intents y Atajos
+• Acceso gratuito a funciones esenciales de seguimiento solar
+
+Desbloquea aún más con Sunlitt PRO:
+Cambia la fecha, obtén detalles del crepúsculo, azimut, altitud, relación de sombras, previsiones meteorológicas, sombras en AR y mucho más.
+
+Ya seas fotógrafo, profesional inmobiliario, diseñador o entusiasta de las actividades al aire libre, Sunlitt es tu herramienta definitiva para seguir el recorrido del sol en el cielo.
+
+¿Tienes comentarios?
+¡Nos encantaría saber de ti! Contáctanos en hello@sunlitt.app
+
+¿Te encanta Sunlitt?
+¡Deja una reseña y comparte el amor!
+
+Términos de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2022-06-12T07:00:00Z,2025-11-07T19:30:56Z
+bo,"Bolivia, Plurinational State of",Weather,6001,13,997079492,Windy: Pronóstico del tiempo,Windy Weather World Inc,https://apps.apple.com/bo/app/windy-pron%C3%B3stico-del-tiempo/id997079492?uo=4,0.0,4.71698,53,Weather,"¡El pronóstico de viento más preciso en el mundo!!
+
+Windy.app es una aplicación útil para las personas adictas al viento que proporciona un preciso y claro pronóstico de viento mundial. Una aplicación imperdible para kiteboarders, windsurfers, navegantes, paracaidistas, parapentes, ciclistas y pescadores.
+
+Características de Windy:
+- pronóstico mundial de viento a 10 días con diferencias de 3 horas (similar a windguru NOAA GFS27 )
+- más de 30.000 lugares en la base de datos
+- búsqueda por lugares de fácil utilización en base a mapa y lugar o nombre del lugar
+- posibilidad de agregar lugares favoritos
+
+Ventajas de Windy:
+- ¡Creado por fanáticos del viento para fanáticos del viento!
+- ¡Interfaz agradable y simple!
+
+Hoja de ruta de Windy:
+- información real sobre el viento desde más de 8000 estaciones meteorológicas de todo el mundo
+- mapa interactivo: podrás ver cómo sopla el viento en el mapa
+- posibilidad de crear nuevos lugares
+- mayor resolución y precisión en el pronóstico(WRF, NAM,ECMWF,ICON)
+- mareas, olas, cobertura de nubes
+- fuerza del viento
+- notificación de buenas condiciones en tus lugares favoritos
+- chat del lugares
+- votación y calificación de lugares
+
+PERFECTO PARA:
+• Kitesurf (kitesurf)
+• Windsurf (windsurf)
+• Surf
+• Navegación (canotaje)
+• Navegación
+• Parapente
+• Pescar
+• Snowkite
+• Snowboarding
+• Esquí
+• Paracaidismo
+• Kayak (kayak)
+• Wakeboard
+• Ciclismo
+• Caza (caza)
+• Golf
+
+----------
+El pago por su suscripción a la cuenta de WINDY PRO se cargará a su cuenta de iTunes al momento de la compra. Su suscripción se renovará automáticamente cada 30 o cada 365 días.  Si nunca se ha suscrito a una suscripción de cuenta Premium mensual antes, tendrá la opción de obtener un período de prueba gratuito de 3/7 días. Al cancelar el período de prueba, usted deshabilita la suscripción inmediatamente. El pago por las renovaciones de su suscripción se cargará a su cuenta dentro de las 24 horas anteriores al fin del período actual. Usted puede deshabilitar la renovación de sus suscripción en los ajustes de su cuenta de iTunes, en su dispositivo. Al suscribirse, usted confirma que ha leído los Términos de Uso y la Política de Privacidad, y que está de acuerdo con cumplir con lo establecido en sus términos. 
+Términos de Uso:  https://windyapp.co/CustomMenuItems/34/en
+----------",2015-06-26T14:25:21Z,2025-11-19T08:26:52Z
+bo,"Bolivia, Plurinational State of",Weather,6001,14,288286079,AeroWeather Lite,Lakehorn AG,https://apps.apple.com/bo/app/aeroweather-lite/id288286079?uo=4,0.0,5,4,Weather,"*** AeroWeather: for pilots, aviation enthusiasts, and everyone who is serious about the weather!
+*** Current and precise weather conditions (METAR) and forecasts (TAF).
+
+AeroWeather Lite provides quick and intuitive access to METAR and TAF for airports worldwide. Data can be shown in its original (raw) format or as fully decoded and easy understandable texts. AeroWeather Lite is helpful for weather preflight-briefings, but also to just get very precise weather. All weather data is cached for offline access. There are many settings for units and format of METAR/TAF available.
+
+The app features a built-in airport database, which includes basic airport data like sunrise/sunset, twilight times, timezones etc. 
+
+AeroWeather Lite offers built-in groups for nearby stations, today widget (pre iOS 14), and earthquakes. Depending on your needs, groups can be shown or hidden in the main list view.
+
+METAR alert notifications** is an helpful feature to stay up-to-date. Define multiple alerts for each station with the following criteria: flight rule (US NOAA), wind speed, temperature, pressure, present weather, visibility, and ceiling (BKN and OVC). Notifications will be sent to your device if the criteria is met (e.g., when wind is greater/equal 10 kts, flight rule becomes IFR).
+
+Dedicated METAR/TAF** access is optionally available. METAR/TAF data comes primarily from a certified ANSP (air navigation service provider) and is provided reliably and fast from our dedicated, redundant servers (indicated by blue checkmark underneath METAR/TAF).
+
+Please consult our web-site for a full description of all features. In order to keep AeroWeather Lite free we added a small ad banner at the bottom of the screen. Consider getting AeroWeather Pro, subscribe the additional features**, or remove the ad banner through one-time unlock* to have an ad-free app.
+
+
+* Additional functionality which needs to be unlocked (one-time purchase). These purchases are not transferable between Lite, Pro, and Mac.
+
+** SUBSCRIPTIONS
+Additional features which generate recurring operation costs for us will be offered within a subscription. The following features are enabled while 'First' subscription is active:
+ - Dedicated METAR/TAF data source
+ - Meteograms
+ - Alert push notifications
+ - D-ATIS (bigger US airports only)
+ - Area Forecast Discussions (currently US only)
+ - RVR data (US and Germany only)
+ - Home Screen Widgets for METAR, Plot, Meteogram
+ - Imagery and Charts (requires 'Captain' subscription)
+ - SIGMETs (requires 'Captain' subscription)
+ - METAR/TAF from ADS-B receiver thru GDL 90 protocol (requires 'Captain' subscription)
+
+When using AeroWeather Lite also the following features are enabled:
+ - Remove ad banner
+
+The subscription varies in time periods (1 month, 12 months). The subscription is valid in both AeroWeather Lite and Pro. Cross app subscription support is only available if iCloud (with the same Apple ID) is enabled. Previously purchased unlock features are not affected and will work with or without subscription.
+
+Auto-renewal may be turned off at any time by going to your account settings. A payment will be charged to your iTunes account at the end of the free trial period. Your iTunes account will be charged for renewal within 24 hours prior to the end of the current period. No commitment - you can cancel any time.
+
+Pleas read the full “Subscription Terms of Use” at:
+https://www.lakehorn.com/subscription-terms-of-use/",2019-02-01T08:00:00Z,2025-10-30T08:40:00Z
+bo,"Bolivia, Plurinational State of",Weather,6001,15,1454249438,Calendario Lunar - MoonX,Vibes LLC,https://apps.apple.com/bo/app/calendario-lunar-moonx/id1454249438?uo=4,0.0,4.80952,21,Weather,"Imagínese llevar un pedazo de espacio en su bolsillo, lo que le otorga acceso a la información más precisa y precisa sobre la Luna y su profunda influencia en todos los aspectos de la vida. Bienvenido a MoonX, la aplicación diseñada para brindar respuestas simples a preguntas complejas, inspirada en la belleza y las maravillas del cielo. Nuestro dedicado equipo trabaja incansablemente para brindarte las mejores herramientas y conocimientos para una vida armoniosa y alegre llena de magia cósmica, todo en una sola aplicación.
+
+Descubre el poder de la Luna con MoonX:
+
+  • Programa Personal Lunar Challenge: Libera tu potencial con desafíos personalizados.
+  • Calendario Lunar Completo: Manténgase informado con las fases lunares diarias.
+  • Fases lunares y días lunares: realice un seguimiento de la fase.
+  • Luna vacía: reciba el consejo de astrólogos expertos para aprovechar al máximo estos períodos.
+  • Afirmaciones: Alinea tu energía con afirmaciones diarias elegidas según la influencia de la Luna.
+  • Tu Luna de Cumpleaños: Descubre cómo la Luna de tu cumpleaños da forma a tu personalidad.
+  • Análisis de la carta natal: explora las posiciones de los 12 planetas en tu carta natal.
+  • Compatibilidad zodiacal: descubra información sobre compatibilidad en el amor
+  • Inspiración Diaria: Comienza tu día con frases inspiradoras.
+  • Diario de gratitud: cultive la positividad con una práctica diaria de gratitud.
+  • Notas personales y planificación: planifique sus actividades en sincronización con las fases lunares.
+  • Aparición de la Luna: Visualice la Luna para cualquier fecha.
+  • Horas de salida y puesta del sol y la luna: manténgase conectado con los ritmos celestiales.
+  • Notificaciones personalizadas: reciba alertas sobre las fases lunares y los días festivos de Wiccan.
+  • Widgets y datos en tiempo real: acceda a los datos de Moon al instante con varios widgets.
+  • Moon Compass y Live Moon: navega por la Luna 
+  • Sueño y relajación: utilice las funciones de alarma y arrullo con una biblioteca de melodías relajantes.
+
+Desbloquee funciones premium con la suscripción MoonX:
+
+ • Consejos de vida: reciba consejos de expertos para negocios, relaciones, belleza y más.
+ • Calendario de estilo de vida: disfrute de aspectos destacados visuales de eventos lunares importantes.
+ • Period Tracker: Alinea tu ciclo menstrual con las fases lunares.
+ • Guía Lunar: Enfoca tus actividades según cada fase lunar.
+ • Contenido exclusivo: acceda a colecciones de meditaciones, artículos y rituales adaptados a la energía lunar.
+ • Ejercicios en vídeo: practique Surya Namaskar, Chandra Namaskar y más.
+ • Ejercicios Lunares: Trabajo de partes del cuerpo influenciadas por la posición de la Luna.
+ • Carta natal detallada: profundiza en la influencia de los 12 planetas en tu destino.
+ • Horóscopos: obtenga horóscopos diarios, mensuales y anuales.
+ • Compatibilidad avanzada: explore la compatibilidad detallada.
+ • Lecturas del Tarot: obtenga información valiosa con las lecturas de las cartas del Tarot.
+ • Noticias astrológicas: manténgase actualizado con lo último de los astrólogos modernos y las celebraciones wiccanas.
+
+Integración de salud de Apple:
+MoonX se integra perfectamente con HealthKit
+
+INFORMACIÓN DE SUSCRIPCIÓN:
+Los pagos de suscripción se cargarán a su cuenta de App Store al confirmar su compra. Las suscripciones se renovarán automáticamente y se le cobrará a menos que la renovación automática esté desactivada o que cancele al menos 24 horas antes del final de la suscripción actual o del período de prueba.
+Puede administrar sus suscripciones en la configuración de la cuenta en la App Store.
+
+Por favor, consulte la Política de privacidad, los Términos de uso y el EULA:
+
+ • Política de privacidad: https://moonx.app/privacy
+ • Términos de uso: https://moonx.app/terms-of-use
+ • EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Si tiene alguna pregunta o sugerencia, no dude en contactarnos en support@moonx.app",2019-05-09T06:29:57Z,2025-11-20T02:38:18Z
+bo,"Bolivia, Plurinational State of",Weather,6001,16,961390574,Clima CARROT: Alertas y Radar,Grailr LLC,https://apps.apple.com/bo/app/clima-carrot-alertas-y-radar/id961390574?uo=4,0.0,5,7,Weather,"CARROT Weather es una aplicación de pronóstico del tiempo increíblemente poderosa.
+
+** Ganadora del Premio a la Mejor Aplicación de Apple, del Apple Design Award y de la Elección de los Editores de la App Store **
+
+Precisa y Detallada
+Los datos meteorológicos súper precisos de CARROT te brindan un acceso ultrarrápido a tus pronósticos actuales, por hora y diarios. Y las pantallas de detalles fáciles de leer están repletas de bondades meteorológicas.
+
+Privacidad en Primer Lugar
+Tu información personal, incluidos los datos de tu ubicación, nunca se venderá a terceros.
+
+Llena de Personalidad
+Elige una de las cinco personalidades para CARROT, desde la comedida ""profesional"" hasta la excesivamente directa ""sin censura"". (Nota: los comentarios de CARROT están solo en inglés).
+
+Únete al Premium Club para desbloquear:
+
+- Más fuentes de datos meteorológicos, incluyendo Apple Weather, AccuWeather y Tomorrow.io
+- Notificaciones, incluyendo precipitaciones, alertas meteorológicas e impactos de rayos (cuando estén disponibles)
+- Widgets para la pantalla de bloqueo y de inicio
+- Actividades en vivo
+- Complicaciones para el Apple Watch y actualizaciones en segundo plano
+- Mapas meteorológicos con radares de la próxima hora, estaciones de radar individuales y diferentes capas (cuando estén disponibles)
+- Personalización de toda la interfaz de usuario
+- ¡Y mucho más!
+
+No enfades a CARROT. ¡Descárgala ahora!
+
+---
+
+CARROT Weather utiliza suscripciones renovables automáticamente.
+
+La versión Premium ofrece funciones adicionales, como fuentes de datos meteorológicos, notificaciones, personalización, widgets y complicaciones para el Apple Watch.
+
+La versión Premium Ultra incluye todas las funciones de la Premium, además de notificaciones de lluvia, rayos y células de tormenta (donde estén disponibles), un widget de mapas meteorológicos y un cambio rápido de fuente de datos.
+
+La versión Premium Family incluye todas las funciones de la Premium Ultra, con la ventaja adicional de poder compartirla con hasta cinco miembros de la familia a través del servicio Family Sharing de Apple.
+
+El pago se cargará a tu cuenta de Apple ID al confirmar la compra. La suscripción se renueva automáticamente a menos que se cancele al menos 24 horas antes del final del período actual. Tu cuenta se cargará para la renovación dentro de las 24 horas previas al final del período actual. Puedes gestionar y cancelar tus suscripciones yendo a la configuración de tu cuenta en la App Store después de la compra. No se permite la cancelación del período de suscripción activo actual.
+
+Términos de uso: http://support.meetcarrot.com/weather/terms.html
+Política de privacidad: http://support.meetcarrot.com/weather/privacypolicy.html",2015-03-19T02:42:25Z,2025-10-31T14:59:36Z
+bo,"Bolivia, Plurinational State of",Weather,6001,17,1533228338,Tiempo y Clima Weather Widget,Weather Maps LLC,https://apps.apple.com/bo/app/tiempo-y-clima-weather-widget/id1533228338?uo=4,0.0,4.72222,18,Weather,"¿Por qué debería uno instalar una aplicación meteorológica? Ya hay una integrada en el teléfono cuando lo compras en la tienda.
+
+Sin embargo, algunas personas quieren usar la misma aplicación en su teléfono y tableta, otras quieren letras más grandes y más contraste en el diseño de la aplicación, algunas personas provienen de países que usan diferentes unidades de medida; las necesidades específicas pueden ser diferentes.
+
+Entonces, la curiosidad y la búsqueda de nuevas opciones hacen su trabajo.
+
+Tiempo y Clima es una herramienta sencilla para comprobar el tiempo y la temperatura actuales en su ubicación. Combina un hermoso diseño con las últimas tecnologías para una experiencia de usuario óptima. Con esta aplicación, obtienes todos los datos meteorológicos relevantes de un vistazo.
+
+Esta aplicación podría ser su gurú meteorológico personal. Es una aplicación simple y elegante diseñada con una gran atención a los detalles, lo que garantiza que sus usuarios siempre estén actualizados con la última previsión meteorológica local para la ciudad de su elección. La aplicación ha sido diseñada con un diseño limpio y minimalista, pero al mismo tiempo brinda toda la información que uno necesita sobre las condiciones climáticas actuales, así como información detallada sobre temperatura, velocidad y dirección del viento, etc.
+
+Tiempo y Clima es una aplicación meteorológica de alto contraste, que puede ser realmente útil para personas que viven con baja visión, daltonismo o discapacidad visual. La aplicación incluye una opción de texto grande que permite una visualización clara y una lectura fácil.
+La aplicación se puede utilizar con funciones de accesibilidad como VoiceOver y Contenido leído.
+
+Interfaz familiar en todos los dispositivos que posee, alto contraste, todos los detalles lo suficientemente grandes como para que todos los noten: esta podría ser la aplicación meteorológica adecuada para ti.",2020-11-26T08:00:00Z,2025-11-21T06:28:17Z
+bo,"Bolivia, Plurinational State of",Weather,6001,18,6446953932,BigBlue Offshore Fishing,GeoPelagic LLC,https://apps.apple.com/bo/app/bigblue-offshore-fishing/id6446953932?uo=4,0.0,1,1,Weather,"•Welcome to BigBlue: Your Ultimate Sport Fishing Companion•
+
+Unlock the full potential of your fishing adventures with BigBlue, the cutting-edge app designed to get you on the fish fast, save fuel and catch the fish of a lifetime. We equip the best saltwater anglers with the data and tools they need to track fish, find rips and navigate to pelagic hot spots.
+
+
+•BigBlue: Raising the Bar in Sport Fishing Technology•
+
+Explore a comprehensive suite of features and best-in-class functionalities:
+• Unrivaled Global Coverage: Access comprehensive global charts with 9 daily sea surface temperature (SST) scans, 4 true color scans, and 3 chlorophyll scans, all updated in near-real-time as satellites orbit the Earth. Find seamounts, canyons and structure with our global bathymetry data.
+• Pinpoint Geospatial Information: Utilize high-resolution data contour lines wherever chlorophyll and sea surface temperature data is available, optimizing your knowledge of prime fishing locations.
+• Streamlined Navigation: Orient to waypoints with precise heading, course, and speed instruments designed to help increase efficiency and save gas.
+• Easily visualize your position relative to prime pelagic habitats, plan your route, and save your favorite fishing spots for future reference.
+• Expert Per-Species Habitat Information: Access in-depth habitat information for sport fish species, including various tuna, marlin, sailfish, wahoo, mahi mahi and more, curated by experts and backed by scientific research.
+• Versatile Applications: BigBlue has transformed the experiences of not only anglers but also scuba divers, free divers, marine biologists, whale watching guides, and ocean enthusiasts who seek insights into ocean temperatures, clarity, and marine life.
+• Offline (Offshore) Maps: Easily save and view the whole set of data charts for access offline for your custom region 
+
+Join the BigBlue community today to unlock a world of unparalleled fishing adventures and extraordinary success. Save time, conserve fuel, and catch more fish. Download BigBlue now and discover the difference! 
+
+
+Marine species covered in our guide:
+   Albacore Tuna (Thunnus alalunga)
+   Atlantic Bluefin Tuna (Thunnus thynnus)
+   Atlantic Sailfish (Istiophorus albicans)
+   Bigeye Tuna (Thunnus obesus)
+   Black Marlin (Istiompax indica)
+   Blue Marlin (Makaira nigricans/Makaira mazara)
+   Cobia (Rachycentron canadum)
+   Indo-Pacific Sailfish (Istiophorus platypterus)
+   Mahi Mahi (Coryphaena hippurus)
+   Pacific Bluefin Tuna (Thunnus orientalis)
+   Skipjack Tuna (Katsuwonus pelamis)
+   Striped Marlin (Kajikia audax)
+   Swordfish (Xiphias gladius)
+   Wahoo (Acanthocybium solandri)
+   White Marlin (Kajikia albida)
+   Yellowfin Tuna (Thunnus albacares)
+   Yellowtail Amberjack (Seriola lalandi)
+
+Apple's standard terms of use apply: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-04-13T07:00:00Z,2025-06-26T22:26:43Z
+bo,"Bolivia, Plurinational State of",Weather,6001,19,789651124,Магнитолог,Vasiliy Kozlov,https://apps.apple.com/bo/app/%D0%BC%D0%B0%D0%B3%D0%BD%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3/id789651124?uo=4,0.0,0,0,Weather,"«Магнитолог» – это приложение, позволяющее следить за прогнозом геомагнитных бурь и состоянием геомагнитного поля Земли.
+
+ПОЧЕМУ ЭТО ТАК ВАЖНО?
+
+Геомагнитные бури негативно влияют на самочувствие и здоровье людей. Они способны вызывать головные боли, головокружения, учащенный пульс, отклонения артериального давления от нормы.
+
+Особенно влиянию геомагнитных бурь подвержены люди с заболеваниями кровеносной, сердечно-сосудистой и вегетативной нервной систем.
+
+Степень влияния магнитных бурь на конкретного человека зависит от многих факторов, в их числе состояние здоровья, переносимые стрессы, физическая и эмоциональная усталость, природная предрасположенность.
+
+Геомагнитные бури способны оказывать негативное воздействие не только на человека, но и на системы связи, навигации, электроснабжения. 
+
+Принимая во внимание прогноз геомагнитных бурь, можно планировать принятие сложных решений, избегать повышенных физических нагрузок и обезопасить себя от влияния негативных последствий.
+
+В этом вам поможет наше приложение.
+
+О ПРИРОДЕ ГЕОМАГНИТНЫХ БУРЬ
+
+Изменения в геомагнитном поле Земли возникают под влиянием Солнца. Интенсивность влияния не постоянна и зависит от происходящих на поверхности Солнца процессов.
+
+Сила возмущений геомагнитного поля характеризуется значением Kp-индекса. Kp-индекс может принимать значения от 0 до 9, где 0 - характеризует отсутствие возмущений, а 9 - экстремально сильные возмущения геомагнитного поля Земли.
+
+Возмущения с Kp-индексом 5 и выше называются бурями.
+
+Количество геомагнитных бурь в год может достигать 50!
+
+БЛАГОДАРНОСТИ
+
+- David Howell за перевод на английский язык;
+- Johan Milani за перевод на французский язык.
+
+* Данные предоставлены: National Oceanic and Atmospheric Administration.",2014-01-04T03:36:24Z,2025-09-24T07:22:57Z
+bo,"Bolivia, Plurinational State of",Weather,6001,20,6532628267,UV Index: SPF Tan - Sun City,TITANO DIGITAL TEKNOLOJI LIMITED SIRKETI,https://apps.apple.com/bo/app/uv-index-spf-tan-sun-city/id6532628267?uo=4,0.0,5,3,Weather,"La forma más rápida de broncearte con la app de bronceado Beam. Esta app te ofrecerá la rutina más personalizada según el índice UV de tu ubicación actual para que consigas el mejor bronceado posible lo más rápido posible. También te sugerirá maneras de prevenir las quemaduras solares y minimizar el riesgo de exposición al sol. Recuerda usar siempre protector solar al exponerte al sol. La rutina personalizada y las sugerencias para prevenir la exposición al sol solo están disponibles con una suscripción de pago adicional dentro de la app. El índice UV basado en la ubicación actual es gratuito para todos los usuarios.
+
+Funciones (solo disponibles con un plan de suscripción de pago adicional):
+- Define tu tono deseado
+- Crea una rutina personalizada
+- Completa la rutina
+- Consigue el tono deseado
+
+Suscripciones:
+El pago se cargará a tu cuenta de iTunes al confirmar la compra. La suscripción se renueva automáticamente a menos que la renueve automáticamente se desactive al menos 24 horas antes del final del período actual. Se cobrará a tu cuenta la renovación dentro de las 24 horas previas al final del período actual e indicará el costo de la misma.
+
+El usuario puede gestionar las suscripciones y desactivar la renovación automática en la Configuración de su cuenta tras la compra. El usuario seguirá teniendo acceso a todas las funciones Pro hasta el final del periodo actual. La parte no utilizada del periodo de prueba gratuito, si se ofrece, se perderá al adquirir una suscripción a esa publicación, si corresponde.
+
+Privacy Policy: https://titanotechnology.com/privacy-policy/ 
+Terms of Use: https://titanotechnology.com/terms-of-use/
+
+Descargo de responsabilidad:
+El análisis y los consejos que ofrece esta aplicación son solo informativos. No ofrece diagnósticos médicos, consejos de tratamiento ni orientación. Si tiene alguna pregunta sobre los riesgos de la exposición al sol, consulte siempre con profesionales cualificados.
+
+La aplicación utiliza el servicio meteorológico de Apple para obtener información meteorológica como el índice UV, etc. Los usuarios pueden obtener más información sobre WeatherKit de Apple visitando este enlace: https://weatherkit.apple.com/legal-attribution.html",2024-07-13T07:00:00Z,2025-10-17T07:50:03Z
+bo,"Bolivia, Plurinational State of",Weather,6001,21,1578156888,Khmer Smart Weather Forecast,Vatana Chhorn,https://apps.apple.com/bo/app/khmer-smart-weather-forecast/id1578156888?uo=4,0.0,5,1,Weather,"BEST KHMER WEATHER FORECAST APP FOR CAMBODIANS.
+
+Khmer Smart Weather Forecast is an application that predicts what the atmosphere will be like in a particular area in Cambodia by using technology and scientific knowledge to make weather observations.
+
+Features:
+- 25 cities and provinces
+- 5 days prediction
+- Provides temperatures, wind speed, humidity, and a bunch more data 
+- Khmer Language 
+- Neat user interface 
+- User interface adapt to the local time 
+
+Get Khmer Weather Forecast now or you will regret it later.  
+
+*Shoutout to vectorkh for beautiful vectors*",2021-07-26T07:00:00Z,2022-08-15T00:19:53Z
+bo,"Bolivia, Plurinational State of",Weather,6001,22,1435501021,SpaceWeatherLive,Parsec vzw,https://apps.apple.com/bo/app/spaceweatherlive/id1435501021?uo=4,0.0,0,0,Weather,"SpaceWeatherLive is the ultimate app for those who dream of seeing the northern lights or want to know everything about the activity on our Sun. With this app you will be able to see and understand how active the aurora is right now and if there might be a good chance to spot the northern or southern lights in the coming days. You will never miss an aurora display again with this app in your pocket no matter where you go!
+
+Beginner friendly - While the SpaceWeatherLive app is filled with all the space weather information you can think of both for beginning and advanced space weather enthusiasts, every item has a pop up with additional information to help you along if something is unclear. Learn more as you go along!
+
+Everything in one app - Switch between the auroral activity and solar activity modes with just one click!
+
+Dark mode - Preserve your night vision with our special dark mode! Ideal for aurora chasing out in the field!
+
+Push notifications - Free push notifications informing you of significant space weather events like solar flares, geomagnetic storms, earth-facing coronal holes and much more! You can turn any notification on or off so if you don't want to receive any notifications at all or are only interested in specific notifications: we got you covered!
+
+Modern graphs - All the data that you are interested in are represented in sleek, responsive graphs. Dials don't cut it when you are out in the field, you want to know how the data looks like in the past and right now. Our graphs provide all the information you need in the blink of an eye!
+
+News - Not only do we provide a ton of different automated alerts, we even have a dedicated team of space weather enthusiasts who write detailed hand written reports during high solar or auroral activity!
+
+Extensive help section - Are you a beginner and does our app look a bit daunting when you first open it? Fear not, we have a dedicated help section with tons of articles and a FAQ section. Give it a read and soon you will be able to make your very own aurora forecasts!
+
+Huge space weather archive - Ever looked back at your old aurora pictures and wonder what space weather was like on that specific date? We got you covered! Take a dive in our space weather archive that is filled to the brim with geomagnetic and solar data from the year 1996 until yesterday. Dig around and discover large sunspot regions, extreme geomagnetic storms and exciting data from the past!
+
+Free for all - Best of all... Our app is completely free of charge! We do have ads but those can be removed by purchasing a subscription which in turn supports us to keep our services online!
+
+PRICE AND TERMS:
+Although the app is free, it does contain advertising at the bottom of the screen which helps us to keep our services online. Don't want the ads? No problem, with a simple in-app purchase you can remove them! A monthly subscription is $0.99, half-yearly subscription $5.49 and yearly subscription $9.99.
+
+These prices apply to United States residents. Prices may vary in other countries respecting your local currency exchange rate. Your subscription will be charged to your iTunes account. At the end of the term, unless auto-renewables subscriptions are disabled, your subscription will automatically renew in your iTunes account. You will be charged for the regular price of your subscription within 24 hours prior to the end of the current term. You can turn off automatic renewal in your iTunes account settings at any time, but you must do so at least 24 hours before the end of the current term. Refunds will not be provided for the unused portion of any term.
+Terms and conditions: https://www.spaceweatherlive.com/en/app/terms-and-conditions
+Privacy policy: https://www.spaceweatherlive.com/en/app/privacy-policy",2018-09-11T08:22:27Z,2025-08-11T14:59:56Z
+bo,"Bolivia, Plurinational State of",Weather,6001,23,1025307284,The Temperature,Meanterm Inc.,https://apps.apple.com/bo/app/the-temperature/id1025307284?uo=4,0.0,0,0,Weather,"1. Quick celsius-fahrenheit converter with scrolling.
+2. Simple thermometer shows the temperature of your place.",2015-08-07T23:08:43Z,2019-02-12T02:47:18Z
+bo,"Bolivia, Plurinational State of",Weather,6001,24,6738353943,ALERTAS LA PAZ,GOBIERNO AUTONOMO MUNICIPAL DE LA PAZ,https://apps.apple.com/bo/app/alertas-la-paz/id6738353943?uo=4,0.0,4,5,Weather,"¿Qué puedes hacer con esta aplicación?
+
+1. Consulta del clima: Accede a pronósticos actualizados para el municipio de La Paz con información precisa y confiable.
+2. Alertas hidrometeorológicas/geodinámicas: Todos los usuarios registrados podrán enviar reportes georreferenciados de condiciones extremas naturales relacionadas a inundaciones y/o deslizamientos, que puedan generar situaciones de riesgo.
+3. Alertas en tiempo real: Recibe notificaciones sobre alertas relacionadas con variaciones climatológicas y riesgos naturales como lluvias intensas, desbordamiento de ríos, etc.
+4. Información de áreas afectadas: Obtén información en tiempo real sobre zonas vulnerables a inundaciones y deslizamientos.
+5. Educación sobre riesgos: Recibe material educativo (imágenes y videos) para identificar amenazas hidrometeorológicas y geológicas como lluvias intensas, inundaciones y deslizamientos.
+
+Características adicionales:
+
+- Interfaz sencilla y accesible.
+- Pronósticos detallados y mapas interactivos del municipio de La Paz.
+- Alertas personalizadas y notificaciones de amenazas naturales.",2024-11-27T08:00:00Z,2025-07-28T04:46:12Z
+bo,"Bolivia, Plurinational State of",Weather,6001,25,1280984498,Ventusky: Tiempo & Radar,Ventusky s.r.o.,https://apps.apple.com/bo/app/ventusky-tiempo-radar/id1280984498?uo=4,0.0,4.79167,24,Weather,"La aplicación combina la previsión del tiempo clásico para una ubicación específica con un mapa que muestra el desarrollo del tiempo en un área más amplia de una manera muy interesante. Esto le permite ver de dónde proviene la precipitación o de dónde sopla el viento. La singularidad de la aplicación proviene de la cantidad de datos que se muestran. Previsión meteorológica, precipitaciones, viento, nubosidad, presión atmosférica, nieve y otros datos meteorológicos para diferentes altitudes está disponible para todo el mundo.
+
+ANIMACIÓN DEL VIENTO
+La aplicación Ventusky muestra el tiempo de una manera interesante. El viento se muestra utilizando líneas de corriente que representan claramente el desarrollo continuo de las condiciones meteorológicas. El flujo de aire en la Tierra siempre está en movimiento y las líneas de corriente representan este movimiento de una manera sorprendente. Esto hace evidente la interconexión de todos los fenómenos atmosféricos.
+
+PREVISIÓN METEOROLÓGICA
+La previsión meteorológica para los tres primeros días está disponible en la aplicación en franjas de una hora. Para otros días, está disponible en franjas de tres horas. Los usuarios también pueden buscar la hora de salida y puesta del sol en un lugar determinado.
+
+MODELOS DEL TIEMPO
+Gracias a la aplicación Ventusky, los visitantes obtienen datos directamente de los modelos numéricos que, hace sólo unos años, eran utilizados únicamente por meteorólogos. La aplicación recopila datos de tres modelos numéricos. Además de los datos relativamente conocidos del modelo americano GFS, también muestra datos del modelo canadiense GEM y del modelo alemán ICON, que es único gracias a su alta resolución para el mundo entero.
+
+LISTA DE CAPAS DEL TIEMPO
+• Temperatura (15 niveles)
+• Viento (16 niveles)
+• Ráfagas de viento
+• Precipitación (1 hora, 3 horas, acumulación a largo plazo)
+• Radar
+• Nubosidad (alta, media, baja, total)
+• Nieve
+• Humedad
+• Punto de rocío
+• Presión del aire
+• CAPE, CIN, LI, Helicidad (SRH)
+• Isoterma cero
+• Olas
+• Contaminación del aire (NO2, SO2, PM10, PM2.5, O3, CO)
+• UV-index",2017-09-12T00:53:29Z,2025-09-05T09:26:42Z

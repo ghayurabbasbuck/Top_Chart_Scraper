@@ -1,0 +1,705 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ky,Cayman Islands,Productivity,6007,1,6755330566,MetricsStraightTool,Vo Thi Ha Giant,https://apps.apple.com/ky/app/metricsstraighttool/id6755330566?uo=4,0.0,0,0,Productivity,"MetricsStraightTool is a handy app that helps you quickly check and understand your measurements. It lets you compare deviation against allowed tolerance and gives an instant Pass/Fail result. You can calculate percentage error, track drift over time, and see the average, minimum, and maximum of repeated readings. The app also gives you basic standard deviation and a simple combined uncertainty so you know how reliable your numbers are. A resolution vs tolerance checker shows if your instrument is fine enough for the job. For calibration work, you can do fast 2-point linear calibration to find slope and offset. You can also fit a straight line using 3 or more calibration points for better accuracy. An angle-to-offset calculator converts angle error into linear displacement, making alignment checks easy.",2025-11-15T08:00:00Z,2025-11-15T14:23:44Z
+ky,Cayman Islands,Productivity,6007,2,6755329446,ToleranceTimeMonitor,Horain satti Ali,https://apps.apple.com/ky/app/tolerancetimemonitor/id6755329446?uo=4,0.0,0,0,Productivity,"ToleranceTimeMonitor is a smart app to make measurement and calibration tasks easier. It helps users check tolerance, accuracy, and repeatability with clear and quick tools. The app includes useful calculators like Tolerance Checker Pro, Resolution Adequacy Checker, and Smart Percentage Error for fast checks. You can also find tools to handle multiple readings, monitor drift over time, and calculate standard deviation. For calibration work, it offers 2-Point and Multi-Point Curve Builders along with a handy Correction Table Generator. The Uncertainty Budget Mini helps you estimate total measurement uncertainty with ease. Our goal is to save your time, reduce manual errors, and make every calculation simple, accurate, and reliable.",2025-11-15T08:00:00Z,2025-11-15T13:40:14Z
+ky,Cayman Islands,Productivity,6007,3,6755351555,FluidDensityFlow,Nguyen Thi Cuong,https://apps.apple.com/ky/app/fluiddensityflow/id6755351555?uo=4,0.0,0,0,Productivity,"FluidDensityFlow is a simple and handy app designed for engineers and technicians working with valves, pipes, and flow systems. It helps you perform quick calculations related to fluid flow, pressure, temperature, and mechanical strength — all in one place. The app includes useful tools like mass flow rate, pipe velocity, and valve size suggestion to make your work faster and easier. You can also check choked flow, leakage rate, and pressure ratios with just a few inputs. For mechanical checks, it calculates safety factors and actuator power demands with simple formulas. FluidDensityFlow is built to save time, reduce manual work, and support accurate results in daily engineering tasks. It’s your easy companion for smart and reliable flow system calculations.",2025-11-16T08:00:00Z,2025-11-16T09:51:30Z
+ky,Cayman Islands,Productivity,6007,4,6755326834,ViscosityOptimiserTool,Burhan KEMER,https://apps.apple.com/ky/app/viscosityoptimisertool/id6755326834?uo=4,0.0,0,0,Productivity,"ViscosityOptimiserTool is a  easy-to-use app for pump and fluid engineers. It helps you quickly analyse how viscosity and cavitation affect pump performance. The tool includes simple calculators for viscosity correction, suction performance, and cavitation checks. You can easily estimate inducer size, eye diameter, and inlet blade angles for better pump design. It also helps assess tip speed effects, impeller trimming impact, and non-Newtonian flow behaviour. With clear inputs and instant results, the app saves time and improves accuracy. Whether for design, testing, or troubleshooting, ViscosityOptimiserTool makes fluid calculations simple and reliable.",2025-11-15T08:00:00Z,2025-11-15T10:08:37Z
+ky,Cayman Islands,Productivity,6007,5,6755326531,SpanSurveyTrker,Yakup SANAY,https://apps.apple.com/ky/app/spansurveytrker/id6755326531?uo=4,0.0,0,0,Productivity,"SpanSurveyTrker is a field app to help teams check and record power line patrols with less hassle and fewer mistakes. Inspectors can log each patrol with date, time, GPS spot, span or tower number, weather, issues found, and how serious the problem is, all in one place. Wire height checks are easy too, with simple forms for span ID, GPS, measured height, tool used, and field notes. The app keeps all patrol and wire height records tidy and ready to review later. Built-in converters let you switch load and force units (N, kN, kgf, lbf) and angle units (degrees, radians, slope %) in a few taps. You can also change GPS coordinates between DMS and decimal degrees without leaving the app. Extra tools convert speed (m/s, km/h, mph), tension (kN, lbs, daN), and elevation or height (m, ft), so field staff do not need a calculator. SpanSurveyTrker keeps line survey work simple, clear, and fast for people working outdoors.",2025-11-15T08:00:00Z,2025-11-15T10:50:46Z
+ky,Cayman Islands,Productivity,6007,6,6755328039,DynamicLoadCalci,Eda CEYLANI AR,https://apps.apple.com/ky/app/dynamicloadcalci/id6755328039?uo=4,0.0,0,0,Productivity,"DynamicLoadCalci is a smart app made to help engineers, students, and technicians with quick mechanical and load-related calculations. It brings together a set of easy tools like force, pressure, speed, and energy estimators all in one place. You can also check safety factors, plan calibration intervals, and compare instrument readings without any hassle. The app is designed with a clear layout and easy input fields, so anyone can use it without confusion. Whether you are studying mechanics or working in the field, DynamicLoadCalci saves your time and helps you get accurate results. It also includes a unit conversion hub for quick conversions during work. Our goal is to make technical calculations simple, fast, and reliable for everyone.",2025-11-15T08:00:00Z,2025-11-15T11:28:55Z
+ky,Cayman Islands,Productivity,6007,7,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/ky/app/chatgpt/id6448311069?uo=4,0.0,4.855,800,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+ky,Cayman Islands,Productivity,6007,8,6447682225,eGovPH,Department of Information and Communications Technology,https://apps.apple.com/ky/app/egovph/id6447682225?uo=4,0.0,4.84211,19,Productivity,"The eGovPH App serve as the single operating system unifying all government services in a single application. This one-stop-shop platform provides convenience to the public and facilitates effective transactions.
+
+This app is supported by several Republic Acts and simplifies government procedures, enhances transparency, reduces corruption and bureaucratic red tape, and promotes ease of doing business.
+
+An innovative solution that revolutionizes government services, promoting a more efficient transparent, and responsive government that benefits all Filipinos.",2023-05-31T07:00:00Z,2025-08-06T14:33:52Z
+ky,Cayman Islands,Productivity,6007,9,1370293473,VPN - Super Unlimited Proxy ™,Mobile Jump Pte Ltd,https://apps.apple.com/ky/app/vpn-super-unlimited-proxy/id1370293473?uo=4,0.0,4.6265,249,Productivity,"FREE VPN FEATURES
+Experience the best free VPN: no ad interruptions and limits
+- Unlimited speed, bandwidth, and time at no cost
+- Access content from 40+ server locations (20+ US cities)
+- Fast VPN: 5,000+ servers dedicated to free users
+- No Activity Logs
+- Military-grade encryption
+- Optimized for iOS devices with 16.0+ (iPhone, iPad, Mac, Apple Vision)
+- No registration needed
+
+First time users get a 7-day free trial to our monthly and yearly plans.
+
+WHAT IS A VPN?
+
+VPNs create an encrypted tunnel for your data and protect your online identity by hiding your IP address. VPNs can help you
+- secure your connection on public WiFi - such as in school, at work, or traveling
+- protect your privacy from your Internet Service Provider or at work
+- access messaging services (e.g., WhatsApp, Telegram, Messenger, Discord)
+- access social media (e.g., Instagram, Tik Tok, Facebook, Snap, Twitter, X, Reddit
+- access streaming services (e.g., Netflix, HBO, Hulu, YouTube)
+- access mobile games (e.g., Plato, Honor of Kings, Genshin Impact, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Mobile Legends: Bang Bang, Free Fire, Roblox, )
+
+VPN PROTOCOLS
+- We offer up to 4 VPN protocols for free users (depending on location)
+- Users are recommended to select “Auto” and our VPN will choose the best protocol for you
+- We support OpenVPN, IKEv2, Super, and V2Ray (new protocol)
+
+VPN SERVER LOCATIONS WORLDWIDE
+
+Choose from over 5,000+ servers across 55+ countries, including:
+- North America: USA (40+ cities), Canada (3 cities), Mexico
+- Europe: Austria, Belgium, Bulgaria, Switzerland, Czechia, Germany, Denmark, Estonia, Spain, Finland, France, United Kingdom (3 cities), Greece, Croatia, Hungary, Ireland, Iceland, Italy, Lithuania, Luxembourg, Latvia, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Russian Federation, Slovakia, Sweden, Ukraine
+- Asia: Australia, Malaysia, Singapore, South Korea, Japan, Hong Kong, Indonesia, India, Israel, Kazakhstan, Taiwan, Vietnam, Turkey, Philippines
+- South America: Brazil, Chile, Colombia, Peru
+- Africa: Egypt, South Africa
+
+PREMIUM VPN FEATURES
+- Ultra fast 10Gbps servers
+- No ads
+- Servers in 55+ countries
+- 40+ US city-level servers
+- City-level servers in Canada and the UK
+- Premium users can protect up to 10 devices
+
+PREMIUM PLANS (no ads, 10G servers, and more):
+Weekly: $9.99/week
+Monthly: $11.99/month (7-day free trial)
+Yearly: $79.99/year (7-day free trial)
+
+PRIVACY COMMITMENT
+VPN - Super Unlimited Proxy is committed to privacy with zero activity logs. We don't collect or retain any information that could compromise your online security.
+
+Links to our Terms of Service and Privacy Notice can be found below:
+
+- Privacy Notice: https://www.vpnsuper.com/privacy-notice
+- Terms of Use: https://www.vpnsuper.com/terms-of-service
+
+Download the top free iPhone VPN to:
+
+- jump through gaming levels faster than you can say biubiu
+- express yourself on social media
+- browse the internet faster than a proton
+- shield yourself on hotspots
+- turbo charge your tunneling
+- break the filters with our proxy master
+- hide your internet activity better than an ostrich",2018-05-15T11:50:11Z,2025-11-12T07:55:44Z
+ky,Cayman Islands,Productivity,6007,10,422689480,Gmail - Email by Google,Google LLC,https://apps.apple.com/ky/app/gmail-email-by-google/id422689480?uo=4,0.0,4.71556,334,Productivity,"The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.
+
+With the Gmail app, you can:
+• Make Gmail your default email app on iOS
+• Use Gemini* in Gmail to summarise emails, craft or refine responses, or search your inbox to find what you're looking for
+• Automatically block more than 99.9% of spam, phishing, malware and dangerous links from ever reaching your inbox
+• Undo send, to prevent embarrassing mistakes
+• Turn on Google Chat to connect, create and collaborate with others
+• Get more done as a group in Spaces – a dedicated place for organising people, topics and projects
+• Enjoy high-quality video calling with Google Meet
+• Respond to emails quickly with Smart Reply suggestions
+• Switch between multiple accounts
+• Get notified of new mail fast, with notification centre, badge and lock screen options
+• Search your mail faster with instant results, predictions as you type and spelling suggestions
+• Organise your mail by labelling, starring, deleting and reporting spam
+• Swipe to archive/delete, to quickly clear out your inbox
+• Read your mail with threaded conversations
+• Auto-complete contact names as you type from your Google contacts or your phone
+• Respond to Google Calendar invites right from the app
+
+Gmail is part of Google Workspace, allowing you and your team to easily connect, create and collaborate. You can:
+• Connect with colleagues via Google Meet or Google Chat, send an invite in Calendar, add an action to your task list and more without leaving Gmail
+• Use suggested actions – like Smart Reply, Smart Compose, grammar suggestions and nudges – to help you stay on top of work and take care of simple tasks, so you can be more efficient with your time
+• Stay safe. Our machine-learning models block more than 99.9% of spam, phishing and malware from reaching our users
+
+*Google One AI Premium subscription and Internet connection required. Language and country availability may vary. Check responses for accuracy.",2011-11-02T17:13:30Z,2025-11-17T19:37:28Z
+ky,Cayman Islands,Productivity,6007,11,507874739,Google Drive – online backup,Google LLC,https://apps.apple.com/ky/app/google-drive-online-backup/id507874739?uo=4,0.0,4.80964,788,Productivity,"Google Drive, part of Google Workspace, lets you securely store, intelligently organise and collaborate on files and folders from anywhere, on any device.
+
+With Drive, you can:
+• Safely store and access your files anywhere
+• Edit and store 100+ file types, including PDFs, Office files, videos and more
+• Quickly access recent and important files
+• Scan and upload paper documents using your device’s camera
+• Search for files by name and content
+• Filter files by type, last modified date and more
+• Share and set permissions for files and folders
+• View your content on the go while offline
+• Receive notifications about important activity on your files
+
+Google Workspace subscribers have access to additional Drive functionality, including:
+• Security and management controls for admins to help meet data compliance needs
+• Sharing files and folders directly with groups or teams within your organisation
+• Creating a shared drive to store all of your team’s content
+
+Learn more about Google Apps update policy: https://support.google.com/a/answer/6288871
+
+Google accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.
+
+Storage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.
+
+Google Privacy Policy: https://www.google.com/intl/en_GB/policies/privacy
+Google Drive Terms of Service: https://www.google.com/drive/terms-of-service
+
+Follow us for more:
+X: https://x.com/googleworkspace and https://x.com/googledrive
+LinkedIn: https://www.linkedin.com/showcase/googleworkspace
+Facebook: https://www.facebook.com/googleworkspace/",2012-06-28T17:40:50Z,2025-11-17T16:38:37Z
+ky,Cayman Islands,Productivity,6007,12,1250312807,X-VPN: VPN Free Connected ™,LIGHTNINGLINK NETWORKS PTE. LTD.,https://apps.apple.com/ky/app/x-vpn-vpn-free-connected/id1250312807?uo=4,0.0,4.66897,145,Productivity,"■ Available on all main operating systems.
+■ Secure your connection and protect your privacy with X-VPN.
+■ 700K+ 5-Stars Ratings and millions of users worldwide.
+
+Want total control over your online freedom?
+Stay private and browse with confidence with just one tap.
+Introducing X-VPN (VPN Free Connected™) — a fast, stable, and efficient VPN service built on modern security protocols to help protect your data.
+Connect securely, enjoy smooth performance, and keep your online activity private across all your devices.
+Trusted by millions worldwide. Download X-VPN today to get started!
+
+- No-Logs Policy — nothing tracked, nothing stored.
+- 9+ secure protocols to fit your needs.
+- Multi-device access — connect up to 5 devices at once.
+- Access 8,000+ servers (full access for subscribers)
+- Advanced security: Kill Switch, Double VPN, Static IP and more (subscription required).
+- High-speed servers designed for streaming & gaming performance.
+- Built-in tools: IP checker, DNS leak test, password generator, and more. 
+
+▶ One-tap secure access to your favorite apps and services
+- Messaging: Stay connected on WhatsApp, Telegram, Messenger, Discord and more — with private, encrypted connections.
+- Social networks: Use Instagram, TikTok, Facebook, Snapchat, X/Twitter, Reddit with enhanced privacy and peace of mind.
+- Streaming & gaming servers: Enjoy your favorite content with low latency and stable performance.
+
+▶ Secure your internet activity & Wi-Fi connections
+Anonymous browsing hides your online activity from ISPs and third parties. Whether you’re at home, at work, traveling, or using a public hotspot, X-VPN keeps your traffic encrypted and your mind at ease.
+
+▶ Exclusive protocol for stable, high-performance access
+X-VPN’s exclusive protocol builds a resilient, low-latency tunnel designed to deliver smooth performance for gaming, streaming, and critical browsing. Our advanced VPN protocol keeps your data flowing so you can browse securely and smoothly—at the tap of a connect button.
+
+▶ Maximum Protection & Control
+- Kill Switch — Immediately cuts internet traffic if the VPN disconnects, preventing any data leaks.
+- Double VPN — Double encryption for the highest level of protection.
+- Static IP — Receive the same secure IP address every time you connect.
+X-VPN: premium security with advanced controls: customizable profiles, flexible traffic management, and selectable encryption levels.
+
+▶ Strict Privacy Policy
+We are committed to protecting our users’ privacy and strictly adhere to local laws regarding online privacy protection. Our designated staff regularly review relevant regulations, rules, and legal changes to ensure continuous privacy protection.
+For requests or inquiries concerning user privacy, feel free to contact us at support@xvpn.io, we will respond to requests or inquiries within 48 hours.
+
+You can find more details about the privacy policy on our site:
+- Privacy Policy: https://xvpn.io/?n=best.free.xvpn.PrivacyPolicyPage
+- Terms of Services: https://xvpn.io/?n=best.free.xvpn.TermsOfServicePage
+- EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+
+Contact us
+If you have any suggestions, feel free to contact us in the app.
+
+Follow us:
+- YouTube: https://www.youtube.com/@xvpnteam
+- X (Twitter): https://twitter.com/xvpnteam
+- Facebook: https://www.facebook.com/xvpnteam
+
+X-VPN Premium Subscription
+- 1 Month
+- 1 Year
+
+Additional Subscription Information
+- Charged to iTunes account at purchase.
+- 7-day free trial.
+- Auto-renews unless canceled 24h before period ends.
+- Manage or cancel in iTunes/App Store settings.
+- Renewal charged within 24h before period ends.
+- Unused trial days are forfeited upon subscription",2017-06-27T13:17:12Z,2025-11-21T05:38:42Z
+ky,Cayman Islands,Productivity,6007,13,586447913,Microsoft Word,Microsoft Corporation,https://apps.apple.com/ky/app/microsoft-word/id586447913?uo=4,0.0,4.68553,830,Productivity,"Generate a draft with Copilot
+
+The trusted Word app lets you create, edit, view, and share your files with others quickly and easily. Send, view and edit Microsoft 365 docs attached to emails from your phone with this powerful word processing app from Microsoft.
+
+With Word, your office moves with you. Whether you’re a blogger, writer, journalist, columnist, student, or a project manager working on documentation, Word is as handy as you want it to be.
+
+Make impactful text documents, scripts, blogs, write-ups, or resumes. Customise your document, letter, CV or notes your way with robust tools that enable you to accomplish your best writing with the best format options and templates.
+
+Get the power of AI with Copilot1 in your favorite apps when you sign in with your Microsoft 365 subscription. Create and edit documents, collaborate and share with ease when you download Microsoft Word today.
+
+
+Create Documents
+
+• Use AI to turn a blank document into a polished draft with Copilot
+
+• Use rich formatting and layout options to note down your ideas and express them in writing.
+
+• Document formats and layouts stay pristine and look great on any device.
+
+
+ 
+Read, Write, & Edit Documents
+
+• Reading view lets you read lengthy docs, letters, scripts, and more on your device with ease.
+
+• Use familiar writing and editing tools as you’d find on a desktop word processor.
+
+ 
+Collaborate Anywhere
+
+• Share thoughts by commenting in docs right next to the text you’re discussing.
+
+• Everyone can collaborate and stay on top of changes to the text, layout, and formatting.
+
+• As you and your team make changes, you can revert to view earlier drafts with improved version history in Word.
+ 
+
+Simplified Sharing
+
+• Share files with a few taps to quickly invite others to edit or view your documents.
+
+• Easily manage permissions and see who’s working in a document.
+
+• Copy the content of your Word files directly into the body of an email message with its format intact or attach your docs to an email and make sharing easier.
+
+Download Microsoft Word now and get the best way to create, share and edit documents from your iPhone or iPad.
+
+To create or edit documents, sign in with a free Microsoft account on devices with a screen size smaller than 10.1 inches.
+
+Copilot in Microsoft Word iOS languages not supported: Hindi, Malay
+
+Unlock the premium Microsoft 365 experience with a qualifying subscription for your phone, tablet, PC, and Mac.
+ 
+Monthly Microsoft 365 subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.
+
+This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.
+ 
+Please refer to the Microsoft Software Licence Terms for Microsoft 365. See “Licence Agreement” link under Information. By installing the app, you agree to these terms and conditions.",2014-03-27T19:38:37Z,2025-11-17T05:09:31Z
+ky,Cayman Islands,Productivity,6007,14,951937596,Microsoft Outlook,Microsoft Corporation,https://apps.apple.com/ky/app/microsoft-outlook/id951937596?uo=4,0.0,4.74512,1848,Productivity,"Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.
+
+Here's what you'll love about Outlook for iOS:
+
+- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.
+- Swipe to quickly schedule, delete and archive messages.
+- Share your meeting availability with just a tap and easily find times to meet with others.
+- Find everything you're looking for, including files, contacts, and your forthcoming trips.
+- View and attach any file from your email, OneDrive, Dropbox, and more, without having to download them to your phone.
+- Open Word, Excel, or PowerPoint attachments to edit them directly in the corresponding app and attach them back to an email.
+- Recap extra-long email threads in an instant with Summarise with Copilot*
+- Type a few words to have Copilot* jump-start your writing with an outline or draft
+- Before sending off your email, use Coaching with Copilot* to get tips and suggestions that help improve the overall tone, sentiment, and clarity
+ 
+*Microsoft 365 Personal/Family subscription or business account enabled with Copilot required to use Copilot features
+
+--
+
+Outlook for iOS works with Microsoft Exchange, Office 365, Outlook.com (including Hotmail and MSN), Gmail, Yahoo Email, and iCloud.
+
+--
+
+To make an in-app purchase of an Office 365 Home or Personal subscription, open the app, go to Settings and tap on Upgrade next to your Outlook.com or Hotmail.com account. Subscriptions begin at USD 6.99 a month in the US, and can vary by region. With an Office 365 subscription, you get 1 TB of storage for each user, access to all features in Word, Excel and PowerPoint on iPad, iPhone and iPod touch, and you can install Word, Excel, PowerPoint, Outlook and OneNote on PCs or Macs.
+
+Office 365 subscriptions purchased from the app will be charged to your iTunes account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. To manage your subscriptions or to disable auto-renewal, after purchase, go to your iTunes account settings. A subscription cannot be cancelled during the active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy and Cookies: https://go.microsoft.com/fwlink/?LinkId=521839 
+Terms of Use: http://go.microsoft.com/fwlink/?LinkID=530144",2015-01-29T05:22:59Z,2025-11-19T17:36:59Z
+ky,Cayman Islands,Productivity,6007,15,1668000334,Perplexity - AI Search & Chat,Perplexity AI Inc.,https://apps.apple.com/ky/app/perplexity-ai-search-chat/id1668000334?uo=4,0.0,4.86486,37,Productivity,"Perplexity—Where Knowledge Begins. Accurate answers to any question, backed by sources and citations. 
+
+Cut through the clutter and get straight to credible, up-to-date answers. This free app syncs across devices and leverages the power of the top AI models from OpenAI, Anthropic, Meta, and more. 
+
+Features:
+
+· Perplexity Pro Search & Deep Research: Guided AI search for deeper exploration.
+
+· Thread Follow-Ups: Keep the conversation going for a deeper understanding.
+
+· Assistant: Draft emails, schedule appointments, book reservations, and more. 
+
+· Perplexity Labs: Bring your reports and projects to life faster than ever before.
+
+· Voice: Instant, up-to-date answers whether you type or say it. 
+
+· Trust Built In: Cited sources for every answer.
+
+· Discover: Learn new things from the community.
+
+· Your Library: More than search history, it's a curation of your discoveries.
+
+Download Perplexity now and continue your journey to better knowledge and understanding.
+
+In-app Subscriptions:
+
+If you decide to subscribe to Perplexity Pro, it will be applied to your iTunes account upon confirmation. Subscriptions will automatically renew unless canceled within 24 hours before the end of the current period. You can cancel anytime by visiting the 'Manage Subscription' section of your account. For more information, please refer to our Terms of Service and Privacy Policy.
+
+Terms of Service: https://www.perplexity.ai/tos
+Privacy Policy: https://www.perplexity.ai/privacy",2023-03-27T07:00:00Z,2025-11-20T04:01:14Z
+ky,Cayman Islands,Productivity,6007,16,1503038374,Topup Flow,Cable & Wireless Holdings Inc,https://apps.apple.com/ky/app/topup-flow/id1503038374?uo=4,0.0,4.5616,625,Productivity,"Official Flow app to easily recharge any Flow phone or purchase plans using your credit/debit card or PayPal account
+
+Top up any Flow number in a new and simple way. You will be able to Top up an amount or select a plan as you wish.
+Top up the Flow number in just 3 simple steps:
+
+1- Select Destination
+2- Choose Amount or Plan
+3- Enter your Payment details (Credit Card or Paypal)
+
+That's all. Your phone will be topped up faster than ever. Once you have made your first Top Up you will be able to repeat it just entering your payment details.",2020-03-18T07:00:00Z,2025-11-19T21:09:10Z
+ky,Cayman Islands,Productivity,6007,17,983156458,Microsoft Authenticator,Microsoft Corporation,https://apps.apple.com/ky/app/microsoft-authenticator/id983156458?uo=4,0.0,4.88976,127,Productivity,"Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.
+
+Getting started with multi-factor authentication
+
+Multi factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app. The OTP codes have a 30 second timer counting down. This timer is so you never have to use the same time-based one-time password (TOTP) twice and you don’t have to remember the number. The OTP doesn’t require you to be connected to a network, and it won’t drain your battery. You can add multiple accounts to your app, including non-Microsoft accounts like Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub, and more.
+
+Getting started with passwordless
+
+Use your phone, not your password, to log into your Microsoft account. Just enter your username, then approve the notification sent to your phone. Your fingerprint, face ID, or PIN will provide a second layer of security in this two-step verification process. After you’ve signed in with two factor authentication (2FA), you’ll have access to all your Microsoft products and services, such as Outlook, OneDrive, Office, and more.
+
+Getting started with autofill
+
+Microsoft Authenticator app can also autofill passwords for you. Sign-in on the Passwords tab inside the Authenticator app with your personal Microsoft account to start syncing passwords, including the passwords saved in Microsoft Edge. Make Microsoft Authenticator the default autofill provider and start autofilling passwords on apps and sites you visit on your mobile. Your passwords are protected with multi-factor authentication in the app. You will need to prove yourself with your fingerprint, face ID, or PIN to access and autofill passwords on your mobile. You can also import passwords from Google Chrome and other password managers.
+
+Microsoft personal, work or school accounts
+
+Sometimes your work or school might ask you to install the Microsoft Authenticator when accessing certain organization resources. You will need to register your device to your organization through the app and add your work or school account. Microsoft Authenticator supports cert-based authentication by issuing a certificate on your device. This will let your organization know that the sign-in request is coming from a trusted device and help you seamlessly and securely access additional Microsoft apps and services without needing to log into each.",2015-05-30T09:25:44Z,2025-11-13T23:54:23Z
+ky,Cayman Islands,Productivity,6007,18,6477489729,Google Gemini,Google LLC,https://apps.apple.com/ky/app/google-gemini/id6477489729?uo=4,0.0,4.74138,116,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+ky,Cayman Islands,Productivity,6007,19,6743953410,AI Chatbot & Design Assistant,SEVEN SEAS LINK PTE. LTD.,https://apps.apple.com/ky/app/ai-chatbot-design-assistant/id6743953410?uo=4,0.0,0,0,Productivity,"From AI chatbot conversations to AI-generated content, AI Chat is the ultimate AI assistant for productivity, creativity, and learning. 
+AI Chat is built on GPT-4o & GPT-4o mini, Grok, DeepSeek, Google Gemini, Claude and LLaMA technologies. It offers intelligent AI chat, AI writing, AI-generated images, web search, and more in one seamless app - available seamlessly across both desktop and mobile platforms.
+
+#Why Choose AI Chat?#
+
+Advanced AI Chatbot with Multi-Model Support
+- Chat with an intelligent AI chatbot built on Top AI models: GPT-4o & GPT-4o mini, Grok, DeepSeek, Google Gemini, Claude and LLaMA technologies. 
+- Experience human-like interactions with a highly responsive and engaging AI chat.
+
+AI Home Design & Smart House Designer
+-Design space simply by uploading photos of your rooms and get instant AI-powered renovation ideas.
+-Explore a wide range of popular interior design styles.
+
+AI Garden Design & Outdoor Visualization
+-Upload a photo of your garden and choose your favorite style and color palette.
+-Transform your outdoor space in seconds with the power of AI.
+
+AI Logo Maker & Image Generator
+- Generate stunning AI images based on text descriptions.
+- Create image in any style
+
+AI Tattoo Generator & Design Ideas
+- Create custom tattoo designs with AI in seconds. Just describe your idea, and get unique, high-quality tattoo concepts instantly. Explore styles from minimal to detailed.
+
+AI Photo Enhancer & Smart Blur Photo Editor
+-Improve your blur photo with advanced AI image enhancer.
+-Upload low-resolution images and fix blurry photo in seconds.
+
+AI Voice Chat Mode
+-Talk Naturally, Listen Clearly!
+-Say goodbye to typing fatigue! Now you can use voice chat with ai, enjoy smooth voice conversations with real-time speech interaction.
+
+AI Writing
+- Create high-quality content with AI writing, including blog posts, essays, emails, and social media captions.
+- Rewrite, summarize, and refine text with AI-powered suggestions.
+
+Web Search
+- Access real-time web search to find the latest news, research, and trends.
+- Ask AI for the most up-to-date information beyond the training data of standard AI chatbots.
+
+AI Math Solver & Smart Problem Solving
+-Solve math problems instantly with step-by-step explanations.
+-Learn faster and understand deeper with the power of AI guidance.
+
+Image Recognition & Analysis
+- Upload images and let AI recognize objects, extract text, and analyze content.
+- Translate scanned documents and identify key details instantly.
+
+Web & YouTube Content Summarization
+- Get quick AI-generated summaries of web pages and YouTube videos.
+- Save time by extracting key insights without reading or watching full content.
+
+DeepThinking for Complex Queries
+- Engage in deep conversations with AI chat that provides well-reasoned responses.
+- Use AI-powered critical thinking for brainstorming, problem-solving, and decision-making.
+
+Create & Chat with AI Characters
+- Interact with custom AI characters for fun, learning, or storytelling.
+- Explore different AI personalities and engage in unique roleplay experiences.
+
+Ask AI Anything – Your Smart AI Chat Assistant
+- Whether you need answers, advice, or ideas, just ask AI and get instant responses.
+
+Download AI Chat now and start your AI-powered journey today.
+
+#SUBSCRIPTION TERMS#
+
+- You may unlock premium features with flexible payment options: Weekly, Yearly, Lifetime.
+
+- Subscriptions will be charged to your Apple ID account at confirmation of purchase and will renew automatically unless canceled at least 24 hours before the end of the current period.
+
+- Manage your subscription and disable auto-renewal in your Apple ID account settings.
+
+
+By using AI Chat, you agree to our Privacy Policy and Terms of Service:
+
+Privacy Policy: https://app.chat-apps.ai/privacy.html
+
+Terms of Service: https://app.chat-apps.ai/useragreement.html",2025-03-30T07:00:00Z,2025-11-16T03:49:56Z
+ky,Cayman Islands,Productivity,6007,20,586683407,Microsoft Excel,Microsoft Corporation,https://apps.apple.com/ky/app/microsoft-excel/id586683407?uo=4,0.0,4.70167,238,Productivity,"Microsoft Excel, the spreadsheet app, lets you create, view, edit, and share your files quickly and easily. Manage spreadsheets, tables and workbooks attached to email messages from your phone with this powerful productivity app.
+
+Work in data analysis, accounting, auditing, or other fields confidently with anyone, anywhere. Quickly graph the most complex formulas, charts and tables with amazing features.
+
+Review spreadsheets and run data analysis on the go. Customize tables and spreadsheets the way you want with robust formatting tools and great features. The productivity app lets you build your spreadsheet to meet your specific needs.
+
+Get the power of AI with Copilot1 in your favorite apps when you sign in with your Microsoft 365 subscription. Create templates, edit spreadsheets, organize charts and share with ease when you download Microsoft Excel.
+
+Tables & Spreadsheets: Create, Calculate and Analyze
+• Jump-start your budget, task list, accounting, or financial analysis with Excel’s modern templates.
+• Quickly graph with familiar formulas to run calculations and analyze your data.
+• Rich productivity features and formatting options make your workbook easier to read and use.
+• Use Cards View to easily see and manage spreadsheets.
+
+Productivity App: Review, Edit, and Work Anywhere
+• Review your Excel files from any device.
+• Edit sheets and data or update your task list from anywhere.
+• Spreadsheet features like sort and filter columns help focus your reviews.
+• Create, duplicate, hide, and unhide sheets easily.
+
+Data Analysis
+• Analyze data using common charts and graphs.
+• Use spreadsheet features like add and edit chart labels to highlight key insights in your data.
+• Pie chart maker: create charts and graphs from your data.
+
+Finance: Budgeting & Accounting
+• Use agile spreadsheets and charts to help manage budgets.
+• Familiar tools to help you drill down to your exact finance needs.
+• Calculate tax estimates, personal finances and more.
+
+Draw and Annotate with Ink
+• Make notes, highlight your worksheet, create shapes, or write equations using the draw tab feature in Excel on devices with touch capabilities.
+
+Sharing made easy
+• Share your files with a few taps to quickly invite others to edit, view, or leave comments directly in your workbooks.
+• Copy the content of your worksheet in the body of an email message with its format intact or attach or copy a link to your workbook for other sharing options.
+
+Download Microsoft Excel and get the best way to create, organize and manage data and spreadsheets from your iPhone or iPad.
+
+To create or edit documents, sign in with a free Microsoft account on devices with a screen size smaller than 10.1 inches.
+Unlock the premium Microsoft 365 experience with a qualifying subscription for your phone, tablet, PC, and Mac.
+
+Monthly Microsoft 365 subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.
+
+This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.
+
+
+Please refer to the Microsoft Software License Terms for Microsoft 365. See “License Agreement” link under Information. By installing the app, you agree to these terms and conditions.",2014-03-27T19:41:57Z,2025-11-17T05:09:12Z
+ky,Cayman Islands,Productivity,6007,21,6472538445,Microsoft Copilot AI Assistant,Microsoft Corporation,https://apps.apple.com/ky/app/microsoft-copilot-ai-assistant/id6472538445?uo=4,0.0,4.8913,46,Productivity,"Microsoft Copilot: Your Personal AI Assistant for Every Task
+
+Copilot is your personal AI assistant and companion, ready to help with any task. From work projects to creative ideas to everyday questions, it's powered by cutting-edge OpenAI and Microsoft AI technology. Copilot makes getting things done easier, faster, and more intuitive.
+
+WHY CHOOSE COPILOT?
+
+More Than Just an AI Chatbot
+Experience AI chat conversations that feel natural and intuitive. Copilot understands context, adapts to your needs, and provides thoughtful responses that help you accomplish more. Whether you're chatting for fun or solving problems, this smart chatbot delivers.
+
+Mico: Your Visual AI Assistant
+Meet Mico, Copilot's breakthrough visual AI companion. It features live expressions that make interactions feel more personal and engaging. Get help in a whole new way with an AI assistant that truly connects.
+
+POWERFUL FEATURES
+Create Stunning Visuals
+Turn your ideas into beautiful images with AI image generator tools. Design logos, illustrations, and social media content with just a few words. Generate unique AI photos effortlessly to match your vision.
+
+See and Understand
+Use Vision to analyse images, get insights from AI photos, and search visually. Upload any image and let Copilot help you understand what you're seeing with AI-powered insight.
+
+Smart Learning Tools Built In
+• Flashcards for effective AI study sessions
+• Live Learn with Mico for interactive education
+• Quiz Mode to test your knowledge
+• Educational support tailored to your pace with AI study features
+
+Learn Through Listening
+Discover Podcasts created just for you. Get complex topics explained in easy-to-understand audio formats powered by AI.
+
+Work Smarter, Not Harder
+• Draft emails, presentations, and reports in seconds
+• Generate summaries of complex information
+• Translate and proofread in multiple languages
+• Create shopping lists, meal plans, and travel itineraries
+• Get writing assistance for CVs, covering letters, and reports
+
+Voice Chat Support
+Talk naturally with Copilot using AI chat and voice features. Brainstorm ideas, write content, or get quick answers hands-free.
+
+PERFECT FOR
+• Students seeking educational support and study tools
+• Professionals needing help with work tasks and productivity
+• Creative minds looking for inspiration and AI image generator capabilities
+• Anyone wanting a reliable AI assistant for daily life
+
+HOW COPILOT HELPS YOU
+Get straightforward answers to complex questions through simple AI chat conversations. Whether you're planning a trip, preparing for a presentation, or exploring new ideas, Copilot provides the support you need, when you need it. Experience AI that's designed to boost your confidence, spark creativity, and help you achieve more every day. You can even experiment with AI video creation tools and visual storytelling enhancements.
+
+Download Microsoft Copilot and discover your new AI companion today.",2023-12-29T08:00:00Z,2025-11-18T23:07:08Z
+ky,Cayman Islands,Productivity,6007,22,6443686328,Link to Windows,Microsoft Corporation,https://apps.apple.com/ky/app/link-to-windows/id6443686328?uo=4,0.0,3,2,Productivity,"You love your phone. So does your PC. Get instant access to everything you love on your phone, right from your PC. To get started, connect your iPhone with the Phone Link Feature on your Windows PC. 
+ Enjoy these Phone Link features on your PC:  
+ 
+ • Make and receive calls 
+ • Manage your phone's notifications  
+ • Read and reply to text messages 
+ • View your phone contacts 
+ • Share files between your phone and PC  
+ 
+Phone Link for iOS requires iPhone running iOS 16 or higher, and a PC with Bluetooth Low Energy (BLE) support running Windows 10 (with the May 2019 Update or later) or Windows 11. Not available for iPad (iPadOS) or MacOS. 
+ 
+ By installing this app, you agree to the Microsoft Terms of Use https://go.microsoft.com/fwlink/?LinkID=246338 and Privacy Statement https://go.microsoft.com/fwlink/?LinkID=248686",2023-02-28T08:00:00Z,2025-10-23T01:19:37Z
+ky,Cayman Islands,Productivity,6007,23,1497465230,Opal: Screen Time Control,OPAL OS CORPORATION,https://apps.apple.com/ky/app/opal-screen-time-control/id1497465230?uo=4,0.0,5,6,Productivity,"Achieve screen time control with the world’s most-loved screen time app! Opal is the fun, free Screen Time app to improve your focus and make the most out of every day.
+
+5 to 6 hours. That’s the average time you’ll spend looking at your phone today, often without realizing it. It's time to fight back. With a combination of screen time control, app limits, app blockers, real time data, leaderboards and rewards, you will focus better and accomplish your dreams, just like Opal’s members.
+
+**As of November 2024, Opal has saved humanity 120 Million hours from less screen time. **
+
+Many of the world's top teams and companies trust Opal to help protect their focus. You can too.
+
+**Opal cut my screen time by 2 hours per day – Marketing at Google **
+
+**You need this app. When I first got opal my daily screen-time was about 8 1/2 hours a day. Now it's 1 hour. **
+
+**Opal has become an indispensable tool in my quest for productivity and mindful technology usage **
+
+**Get Opal! - Ali Abdaal, productivity expert**
+
+BENEFITS
+
+Save 1 hour and 23 minutes per DAY from less screen time, on average.
+
+94% of Opal members are less distracted
+
+93% are more productive thanks to the app
+
+90% experience improved mental health
+
+Added benefits:
+
+- Better screen time control
+- Better productivity at work
+- Reduce stress, be more mindful
+- Better manage ADHD
+- Set daily work hours, sleep, and routines
+- Block apps to unplug and detox
+- Stay in focus when you need it most
+- You're happy and in control of your screen time
+
+FEATURES
+
+- #1 Screen Time Control: the most loved app for screen time control with 4.8/5.
+- #1 App Blocker: Instantly Block apps and websites you choose at a specific time of day throughout the week to organize your time.
+- Focus Difficulty: Make it hard, or make it a bit easier. Deep Focus won't let you cancel or bypass at all.
+- App Limits: Set daily usage limits on apps and websites to automatically block them and prevent overuse.
+- Mindful Block Screens: Discover quotes, puns and more every time you try to open an app or website you really shoudn't.
+- Blocklist & Allowlist: Easily pick any app, game or website you want to block or allow during your Blocks.
+- Focus Report: Measure your progress with clear metrics, actionable screen time stats, and benchmark against your peers.
+- Focus Score: Check your screen time and focus level at any point  easily spotting Focus and Distracted time.
+- Calendar: Set daily working hours, sleep and routines, block apps automatically, so you don’t have to remember.
+- Precious Rewards: Unlock unique MileStones you can share with friends.
+- Leaderboard: Challenge friends to top the leaderboard, enhancing productivity, focus and keeping each other motivated.
+- Breaks: Choose the app you want to use, write your intention, and set a timer.
+- Focus Mode Integration: Sync your Opal Focus Sessions with iPhone Focus Mode to block apps.
+- Shortcut Integration: Connect iPhone shortcut automations to start/stop Focus Sessions based on app opens, time, location and more!
+- Focus Reminders: Get timely reminder notifications when you get distracted or reach a time limit.
+- Deep Focus: Need ultimate focus? Deep Focus is the maximum level of protection — you can’t bypass or cancel.
+- More Fun: Opal is guilt-free and fun.
+- Widget: Have Opal on your home screen!
+
+CREATE A PERSONALIZED APP BLOCK LIST
+
+Easily pick any app, game or website you want to block or allow to Block Apps.
+
+PRIVATE & SAFE
+
+We use Apple's Screen Time API in order to monitor and block apps you use. Installation is easy and takes a few seconds on your iPhone.
+
+Unlike most apps, Opal works entirely on your phone and personal browsing data never leaves your device.
+
+TERMS, PRIVACY & CONDITIONS
+
+Read on https://opal.so/terms & https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-12-15T08:00:00Z,2025-11-17T14:13:05Z
+ky,Cayman Islands,Productivity,6007,24,6670324846,Grok­,X.AI Corporation,https://apps.apple.com/ky/app/grok/id6670324846?uo=4,0.0,4.84483,58,Productivity,"Grok is an AI-powered assistant, developed by xAI, designed to be maximally truthful, useful, and curious. Get answers to any question, generate striking images and videos, and let Grok search the web and X for you to gain a deeper understanding of the world. With Grok, the universe is in your hands!
+
+AI assistant
+- Ask anything and get fast replies, have Grok do deep research on the web for you, or solve the hardest problems in math, science, and coding with Grok 4.
+- Upload documents and photos, or paste links in the chat to have Grok analyze or help you understand the content.
+
+Grok Imagine
+- Imagine is a new, super fast, groundbreaking AI image and video generation experience. 
+- Generate 6-second videos with sound from text prompts, and turn static photos into videos.
+- Generate AI images using only your voice.
+
+Grok Voice Mode
+- Talk to Grok using your voice and get natural sounding replies as if you’re having a conversation with a human.
+- Live Camera: If you want Grok to see what you see, you can use Voice Mode with Live Camera to share your view in real-time.
+- Personalize your AI Assistant and choose between different personalities, like Assistant, Romantic, Storyteller, and more.
+
+Grok AI Companions
+- Have a chat with Ani, Rudi, or Valentine, our animated AI characters, each bursting with personality,
+- Rudi is a cheeky red panda with a sense of humor that you can banter with.
+- Valentine is a romantic male with poetic charm, perfect for deep and soulful conversations. 
+- Ani is a charmer who blushes and sends hearts as your bond grows.
+
+Real-time info from X
+- With access to X (previously Twitter) and web data, Grok is the AI assistant with the most up-to-date information, keeping you informed about the latest news and trends in the world, for any given topic.
+- You can also ask Grok to do advanced searches for you on X, letting you dive even deeper into what’s happening and what people are saying.
+
+Create and edit images
+- Generate striking images from simple text prompts, or upload images and ask Grok to edit them.
+- Remove objects, change the scenery, or apply any art style, like Ghibli or Anime.
+
+With Grok as your copilot and personal AI assistant, navigating the vast expanse of knowledge becomes exciting! Tap into X’s live trends, fire off bold questions, have fun conversations with AI Companions, or use the new AI image and video generation tool Imagine to explore your boundless creativity.
+
+
+Terms of Service: https://x.ai/legal/terms-of-service
+Privacy Policy: https://x.ai/legal/privacy-policy
+
+Grok by xAI",2025-02-11T08:00:00Z,2025-11-20T00:45:18Z
+ky,Cayman Islands,Productivity,6007,25,1569379048,WeTransfer: Transfer Files,WeTransfer BV,https://apps.apple.com/ky/app/wetransfer-transfer-files/id1569379048?uo=4,0.0,4.91303,23,Productivity,"WeTransfer is the simplest way to send (and receive) big files. Whether you’re at your desk or on the go, transfer up to 200 GB in one go. That’s about 2000 videos of your cat. Share photos and videos in their original format, including all the important EXIF metadata that originates from your camera. With WeTransfer, you can check the download status, forward, and delete transfers right from your phone. If you previously sent a transfer from your laptop, you can access the files and link in the app, so you can easily paste it into your favorite messaging app without needing to open your computer. Our Live Activity notifies you when a transfer finishes uploading, so you can multitask or play a quick game while sending huge files. Notifications let you know the minute you receive something so you can preview (or download) your files wherever you are.
+
+About us
+Having made our name in the game of quick and simple file-sharing, WeTransfer has grown into a collection of tools designed for and inspired by the creative process. Collect is the go-to app for saving and sharing inspiration in boards that organize your ideas. Portals makes it easy to request feedback on your in progress projects with Reviews that include asset markup and approval flows. WeTransfer is the original web platform, where creatives share their biggest files.
+
+Terms of Service: https://wetransfer.com/legal/terms
+Privacy policy: https://wetransfer.com/legal/privacy",2021-10-12T07:00:00Z,2025-11-17T09:17:09Z

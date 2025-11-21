@@ -1,0 +1,607 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+vg,"Virgin Islands, British",Productivity,6007,1,6755330566,MetricsStraightTool,Vo Thi Ha Giant,https://apps.apple.com/vg/app/metricsstraighttool/id6755330566?uo=4,0.0,0,0,Productivity,"MetricsStraightTool is a handy app that helps you quickly check and understand your measurements. It lets you compare deviation against allowed tolerance and gives an instant Pass/Fail result. You can calculate percentage error, track drift over time, and see the average, minimum, and maximum of repeated readings. The app also gives you basic standard deviation and a simple combined uncertainty so you know how reliable your numbers are. A resolution vs tolerance checker shows if your instrument is fine enough for the job. For calibration work, you can do fast 2-point linear calibration to find slope and offset. You can also fit a straight line using 3 or more calibration points for better accuracy. An angle-to-offset calculator converts angle error into linear displacement, making alignment checks easy.",2025-11-15T08:00:00Z,2025-11-15T14:23:44Z
+vg,"Virgin Islands, British",Productivity,6007,2,6755329446,ToleranceTimeMonitor,Horain satti Ali,https://apps.apple.com/vg/app/tolerancetimemonitor/id6755329446?uo=4,0.0,0,0,Productivity,"ToleranceTimeMonitor is a smart app to make measurement and calibration tasks easier. It helps users check tolerance, accuracy, and repeatability with clear and quick tools. The app includes useful calculators like Tolerance Checker Pro, Resolution Adequacy Checker, and Smart Percentage Error for fast checks. You can also find tools to handle multiple readings, monitor drift over time, and calculate standard deviation. For calibration work, it offers 2-Point and Multi-Point Curve Builders along with a handy Correction Table Generator. The Uncertainty Budget Mini helps you estimate total measurement uncertainty with ease. Our goal is to save your time, reduce manual errors, and make every calculation simple, accurate, and reliable.",2025-11-15T08:00:00Z,2025-11-15T13:40:14Z
+vg,"Virgin Islands, British",Productivity,6007,3,6755351555,FluidDensityFlow,Nguyen Thi Cuong,https://apps.apple.com/vg/app/fluiddensityflow/id6755351555?uo=4,0.0,0,0,Productivity,"FluidDensityFlow is a simple and handy app designed for engineers and technicians working with valves, pipes, and flow systems. It helps you perform quick calculations related to fluid flow, pressure, temperature, and mechanical strength — all in one place. The app includes useful tools like mass flow rate, pipe velocity, and valve size suggestion to make your work faster and easier. You can also check choked flow, leakage rate, and pressure ratios with just a few inputs. For mechanical checks, it calculates safety factors and actuator power demands with simple formulas. FluidDensityFlow is built to save time, reduce manual work, and support accurate results in daily engineering tasks. It’s your easy companion for smart and reliable flow system calculations.",2025-11-16T08:00:00Z,2025-11-16T09:51:30Z
+vg,"Virgin Islands, British",Productivity,6007,4,6755326834,ViscosityOptimiserTool,Burhan KEMER,https://apps.apple.com/vg/app/viscosityoptimisertool/id6755326834?uo=4,0.0,0,0,Productivity,"ViscosityOptimiserTool is a  easy-to-use app for pump and fluid engineers. It helps you quickly analyse how viscosity and cavitation affect pump performance. The tool includes simple calculators for viscosity correction, suction performance, and cavitation checks. You can easily estimate inducer size, eye diameter, and inlet blade angles for better pump design. It also helps assess tip speed effects, impeller trimming impact, and non-Newtonian flow behaviour. With clear inputs and instant results, the app saves time and improves accuracy. Whether for design, testing, or troubleshooting, ViscosityOptimiserTool makes fluid calculations simple and reliable.",2025-11-15T08:00:00Z,2025-11-15T10:08:37Z
+vg,"Virgin Islands, British",Productivity,6007,5,6755326531,SpanSurveyTrker,Yakup SANAY,https://apps.apple.com/vg/app/spansurveytrker/id6755326531?uo=4,0.0,0,0,Productivity,"SpanSurveyTrker is a field app to help teams check and record power line patrols with less hassle and fewer mistakes. Inspectors can log each patrol with date, time, GPS spot, span or tower number, weather, issues found, and how serious the problem is, all in one place. Wire height checks are easy too, with simple forms for span ID, GPS, measured height, tool used, and field notes. The app keeps all patrol and wire height records tidy and ready to review later. Built-in converters let you switch load and force units (N, kN, kgf, lbf) and angle units (degrees, radians, slope %) in a few taps. You can also change GPS coordinates between DMS and decimal degrees without leaving the app. Extra tools convert speed (m/s, km/h, mph), tension (kN, lbs, daN), and elevation or height (m, ft), so field staff do not need a calculator. SpanSurveyTrker keeps line survey work simple, clear, and fast for people working outdoors.",2025-11-15T08:00:00Z,2025-11-15T10:50:46Z
+vg,"Virgin Islands, British",Productivity,6007,6,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/vg/app/chatgpt/id6448311069?uo=4,0.0,4.76857,350,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+vg,"Virgin Islands, British",Productivity,6007,7,6755328039,DynamicLoadCalci,Eda CEYLANI AR,https://apps.apple.com/vg/app/dynamicloadcalci/id6755328039?uo=4,0.0,0,0,Productivity,"DynamicLoadCalci is a smart app made to help engineers, students, and technicians with quick mechanical and load-related calculations. It brings together a set of easy tools like force, pressure, speed, and energy estimators all in one place. You can also check safety factors, plan calibration intervals, and compare instrument readings without any hassle. The app is designed with a clear layout and easy input fields, so anyone can use it without confusion. Whether you are studying mechanics or working in the field, DynamicLoadCalci saves your time and helps you get accurate results. It also includes a unit conversion hub for quick conversions during work. Our goal is to make technical calculations simple, fast, and reliable for everyone.",2025-11-15T08:00:00Z,2025-11-15T11:28:55Z
+vg,"Virgin Islands, British",Productivity,6007,8,1528940523,VPN - Fast VPN Super ™,TOPAPPS TECH PTE LTD,https://apps.apple.com/vg/app/vpn-fast-vpn-super/id1528940523?uo=4,0.0,4.7375,80,Productivity,"VPN - Fast VPN Super
+Protect your security and privacy with ease. Stay safe and anonymous online with just one tap to connect.
+Our app ensures your online safety and anonymity effortlessly.
+
+■ Key Features:
+Effortless one-click connection for secure browsing
+Access to multiple high-speed dedicated VPN servers
+Unlimited bandwidth for seamless streaming and downloading
+Full unlimited VPN without any session limitations
+No registration required
+Stable connections at home and abroad
+Private and incognito browsing experience
+Lightning-fast VPN speeds for seamless connections
+Hotspot VPN protection for enhanced security
+Express VPN speeds comparable to a turbo for your VPN
+Private Internet Access with the convenience of a super VPN, all for free
+
+■ Security Highlights of of Fast VPN Super:
+Encrypted secure DNS to prevent unauthorized access
+Traffic encryption for enhanced security
+DNS & IP leak protection for secure connections
+Strict no-logs policy for complete privacy
+Instant IP change for enhanced anonymity
+Fast VPN Super is a free VPN proxy that offers limitless browsing capabilities.
+Enjoy unrestricted and secure browsing with our completely free virtual private network.
+Connect with a single tap and experience the internet like never before with Fast VPN Super,
+your trusted VPN companion.
+
+■ Where can you use Fast VPN Super ?
+The possibilities are endless. With numerous servers across different locations,
+Fast VPN Super caters to everyone's VPN needs.
+
+Experience seamless VPN performance across the globe with servers in:
+
+USA
+United Kingdom
+Netherlands
+Germany
+Singapore
+Spain
+France
+India
+Canada
+Japan
+Italy
+Austria
+Australia
+Switzerland
+Belgium
+Hong Kong
+UAE
+Discover the power of Fast VPN Super, a truly super VPN solution.
+
+Fast VPN Super, a genuinely free super power VPN.
+
+■ About Subscriptions
+You can become a premium user through an auto-renewable subscription
+
+Weekly: $1.99
+Monthly: $5.99
+Yearly: $53.99
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase
+• You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098 for more information
+• You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period
+• Any unused portion of a free-trial period, will be forfeited when the user purchases a subscription
+
+■ Terms of Service: https://www.supershell.me/about/tos.html
+■ Privacy Policy: https://www.supershell.me/about/privacy.html
+■ Contact Us: hotspotvpn.lab@gmail.com
+
+Install VPN - Fast VPN Super now to enjoy the internet with enhanced privacy and security!",2020-10-22T07:00:00Z,2025-11-19T11:00:42Z
+vg,"Virgin Islands, British",Productivity,6007,9,6477489729,Google Gemini,Google LLC,https://apps.apple.com/vg/app/google-gemini/id6477489729?uo=4,0.0,4.66279,86,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+vg,"Virgin Islands, British",Productivity,6007,10,6737597349,DeepSeek - AI Assistant,"Hangzhou DeepSeek Artificial Intelligence Co., Ltd",https://apps.apple.com/vg/app/deepseek-ai-assistant/id6737597349?uo=4,0.0,0,0,Productivity,"Experience seamless interaction with DeepSeek's official AI assistant for free!
+Powered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.
+
+Contact us:
+Twitter: @deepseek_ai
+Email: service@deepseek.com",2025-01-10T08:00:00Z,2025-11-10T11:19:24Z
+vg,"Virgin Islands, British",Productivity,6007,11,6497229487,Wispr Flow: AI Voice Keyboard,Wispr AI INC,https://apps.apple.com/vg/app/wispr-flow-ai-voice-keyboard/id6497229487?uo=4,0.0,0,0,Productivity,"Talk naturally. Flow writes perfectly. Trusted by business leaders, creatives, students, and professionals to boost productivity every day.
+
+Wispr Flow is the AI voice keyboard and speech to text app built for speed and accuracy. It works inside any app—including Slack, Messages, Email, WhatsApp, ChatGPT, and Docs—instantly turning your spoken words into polished, formatted writing. Whether you’re taking quick notes, drafting long messages, or capturing detailed transcriptions, Flow is 4x faster than typing.
+
+Whether you are walking, commuting, or whispering around others, Flow refines and writes what you say. No filler words, no autocorrect fumbles, no awkward phrasing. Just fast, fluent writing that sounds like you.
+
+Why people choose Flow
+
+ • World’s best voice‑first keyboard: Write with your voice in every application. Flow adapts tone and formatting for email, texting, and more.
+ • AI‑polished output: Your voice, cleaned up and ready to send. No edits required.
+ • Works in every app: From email to iMessage to Slack and Notion.
+ • Natural talking only: No weird commands. Flow handles punctuation and formatting for you.
+ • Learns your lingo: Add custom names, acronyms, and phrases with your personal dictionary.
+ • Whisper to it: Dictate quietly without disturbing anyone nearby.
+ • Quick capture notes: Use the shortcut to save ideas instantly and sync with the desktop app.
+ • 100+ languages supported.
+
+Great for
+
+ • Replying to emails while walking the dog
+ • Drafting long documents on your commute
+ • Responding to your team with full context, hands‑free
+ • Capturing ideas after meetings or before bed
+
+Free to use with a weekly word limit. Upgrade to Pro for unlimited dictation and advanced features. Syncs with desktop apps on Mac and Windows.
+
+TERMS, PRIVACY & CONDITIONS
+
+Read on https://wisprflow.ai/terms-of-service and 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-05-21T07:00:00Z,2025-11-21T02:16:49Z
+vg,"Virgin Islands, British",Productivity,6007,12,6755294628,Runedra,Scott Josef Mc Guire,https://apps.apple.com/vg/app/runedra/id6755294628?uo=4,0.0,0,0,Productivity,"Runedra is a handcrafted puzzle adventure where you trace elemental rune paths to awaken ancient sigils. Each level challenges your memory and focus as you sequence fire air water earth and new archetypes like storm lumina umbra and aqua nexus. Drag to connect glowing nodes, feel haptic pulses, and unlock lore explaining every elemental pairing. Use unlimited hints with gentle audio cues when you need guidance, then chase faster runs for more stars. Master thirty plus handcrafted grids that scale from relaxed meditations to intricate ritual boards. Track your personal progress in the Runedra log with time, move, and star history that stays on your device. Enjoy an atmospheric score, animated mystic background, and a design tuned for iPhone screens as far back as iOS 13.",2025-11-14T08:00:00Z,2025-11-21T02:04:09Z
+vg,"Virgin Islands, British",Productivity,6007,13,507874739,Google Drive – online backup,Google LLC,https://apps.apple.com/vg/app/google-drive-online-backup/id507874739?uo=4,0.0,4.69132,311,Productivity,"Google Drive, part of Google Workspace, lets you securely store, intelligently organise and collaborate on files and folders from anywhere, on any device.
+
+With Drive, you can:
+• Safely store and access your files anywhere
+• Edit and store 100+ file types, including PDFs, Office files, videos and more
+• Quickly access recent and important files
+• Scan and upload paper documents using your device’s camera
+• Search for files by name and content
+• Filter files by type, last modified date and more
+• Share and set permissions for files and folders
+• View your content on the go while offline
+• Receive notifications about important activity on your files
+
+Google Workspace subscribers have access to additional Drive functionality, including:
+• Security and management controls for admins to help meet data compliance needs
+• Sharing files and folders directly with groups or teams within your organisation
+• Creating a shared drive to store all of your team’s content
+
+Learn more about Google Apps update policy: https://support.google.com/a/answer/6288871
+
+Google accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.
+
+Storage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.
+
+Google Privacy Policy: https://www.google.com/intl/en_GB/policies/privacy
+Google Drive Terms of Service: https://www.google.com/drive/terms-of-service
+
+Follow us for more:
+X: https://x.com/googleworkspace and https://x.com/googledrive
+LinkedIn: https://www.linkedin.com/showcase/googleworkspace
+Facebook: https://www.facebook.com/googleworkspace/",2012-06-28T17:40:50Z,2025-11-17T16:38:37Z
+vg,"Virgin Islands, British",Productivity,6007,14,422689480,Gmail - Email by Google,Google LLC,https://apps.apple.com/vg/app/gmail-email-by-google/id422689480?uo=4,0.0,4.72785,158,Productivity,"The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.
+
+With the Gmail app, you can:
+• Make Gmail your default email app on iOS
+• Use Gemini* in Gmail to summarise emails, craft or refine responses, or search your inbox to find what you're looking for
+• Automatically block more than 99.9% of spam, phishing, malware and dangerous links from ever reaching your inbox
+• Undo send, to prevent embarrassing mistakes
+• Turn on Google Chat to connect, create and collaborate with others
+• Get more done as a group in Spaces – a dedicated place for organising people, topics and projects
+• Enjoy high-quality video calling with Google Meet
+• Respond to emails quickly with Smart Reply suggestions
+• Switch between multiple accounts
+• Get notified of new mail fast, with notification centre, badge and lock screen options
+• Search your mail faster with instant results, predictions as you type and spelling suggestions
+• Organise your mail by labelling, starring, deleting and reporting spam
+• Swipe to archive/delete, to quickly clear out your inbox
+• Read your mail with threaded conversations
+• Auto-complete contact names as you type from your Google contacts or your phone
+• Respond to Google Calendar invites right from the app
+
+Gmail is part of Google Workspace, allowing you and your team to easily connect, create and collaborate. You can:
+• Connect with colleagues via Google Meet or Google Chat, send an invite in Calendar, add an action to your task list and more without leaving Gmail
+• Use suggested actions – like Smart Reply, Smart Compose, grammar suggestions and nudges – to help you stay on top of work and take care of simple tasks, so you can be more efficient with your time
+• Stay safe. Our machine-learning models block more than 99.9% of spam, phishing and malware from reaching our users
+
+*Google One AI Premium subscription and Internet connection required. Language and country availability may vary. Check responses for accuracy.",2011-11-02T17:13:30Z,2025-11-17T19:37:28Z
+vg,"Virgin Islands, British",Productivity,6007,15,1250312807,X-VPN: VPN Free Connected ™,LIGHTNINGLINK NETWORKS PTE. LTD.,https://apps.apple.com/vg/app/x-vpn-vpn-free-connected/id1250312807?uo=4,0.0,4.59649,57,Productivity,"■ Available on all main operating systems.
+■ Secure your connection and protect your privacy with X-VPN.
+■ 700K+ 5-Stars Ratings and millions of users worldwide.
+
+Want total control over your online freedom?
+Stay private and browse with confidence with just one tap.
+Introducing X-VPN (VPN Free Connected™) — a fast, stable, and efficient VPN service built on modern security protocols to help protect your data.
+Connect securely, enjoy smooth performance, and keep your online activity private across all your devices.
+Trusted by millions worldwide. Download X-VPN today to get started!
+
+- No-Logs Policy — nothing tracked, nothing stored.
+- 9+ secure protocols to fit your needs.
+- Multi-device access — connect up to 5 devices at once.
+- Access 8,000+ servers (full access for subscribers)
+- Advanced security: Kill Switch, Double VPN, Static IP and more (subscription required).
+- High-speed servers designed for streaming & gaming performance.
+- Built-in tools: IP checker, DNS leak test, password generator, and more. 
+
+▶ One-tap secure access to your favorite apps and services
+- Messaging: Stay connected on WhatsApp, Telegram, Messenger, Discord and more — with private, encrypted connections.
+- Social networks: Use Instagram, TikTok, Facebook, Snapchat, X/Twitter, Reddit with enhanced privacy and peace of mind.
+- Streaming & gaming servers: Enjoy your favorite content with low latency and stable performance.
+
+▶ Secure your internet activity & Wi-Fi connections
+Anonymous browsing hides your online activity from ISPs and third parties. Whether you’re at home, at work, traveling, or using a public hotspot, X-VPN keeps your traffic encrypted and your mind at ease.
+
+▶ Exclusive protocol for stable, high-performance access
+X-VPN’s exclusive protocol builds a resilient, low-latency tunnel designed to deliver smooth performance for gaming, streaming, and critical browsing. Our advanced VPN protocol keeps your data flowing so you can browse securely and smoothly—at the tap of a connect button.
+
+▶ Maximum Protection & Control
+- Kill Switch — Immediately cuts internet traffic if the VPN disconnects, preventing any data leaks.
+- Double VPN — Double encryption for the highest level of protection.
+- Static IP — Receive the same secure IP address every time you connect.
+X-VPN: premium security with advanced controls: customizable profiles, flexible traffic management, and selectable encryption levels.
+
+▶ Strict Privacy Policy
+We are committed to protecting our users’ privacy and strictly adhere to local laws regarding online privacy protection. Our designated staff regularly review relevant regulations, rules, and legal changes to ensure continuous privacy protection.
+For requests or inquiries concerning user privacy, feel free to contact us at support@xvpn.io, we will respond to requests or inquiries within 48 hours.
+
+You can find more details about the privacy policy on our site:
+- Privacy Policy: https://xvpn.io/?n=best.free.xvpn.PrivacyPolicyPage
+- Terms of Services: https://xvpn.io/?n=best.free.xvpn.TermsOfServicePage
+- EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+
+Contact us
+If you have any suggestions, feel free to contact us in the app.
+
+Follow us:
+- YouTube: https://www.youtube.com/@xvpnteam
+- X (Twitter): https://twitter.com/xvpnteam
+- Facebook: https://www.facebook.com/xvpnteam
+
+X-VPN Premium Subscription
+- 1 Month
+- 1 Year
+
+Additional Subscription Information
+- Charged to iTunes account at purchase.
+- 7-day free trial.
+- Auto-renews unless canceled 24h before period ends.
+- Manage or cancel in iTunes/App Store settings.
+- Renewal charged within 24h before period ends.
+- Unused trial days are forfeited upon subscription",2017-06-27T13:17:12Z,2025-11-21T05:38:42Z
+vg,"Virgin Islands, British",Productivity,6007,16,1370293473,VPN - Super Unlimited Proxy ™,Mobile Jump Pte Ltd,https://apps.apple.com/vg/app/vpn-super-unlimited-proxy/id1370293473?uo=4,0.0,4.48162,272,Productivity,"FREE VPN FEATURES
+Experience the best free VPN: no ad interruptions and limits
+- Unlimited speed, bandwidth, and time at no cost
+- Access content from 40+ server locations (20+ US cities)
+- Fast VPN: 5,000+ servers dedicated to free users
+- No Activity Logs
+- Military-grade encryption
+- Optimized for iOS devices with 16.0+ (iPhone, iPad, Mac, Apple Vision)
+- No registration needed
+
+First time users get a 7-day free trial to our monthly and yearly plans.
+
+WHAT IS A VPN?
+
+VPNs create an encrypted tunnel for your data and protect your online identity by hiding your IP address. VPNs can help you
+- secure your connection on public WiFi - such as in school, at work, or traveling
+- protect your privacy from your Internet Service Provider or at work
+- access messaging services (e.g., WhatsApp, Telegram, Messenger, Discord)
+- access social media (e.g., Instagram, Tik Tok, Facebook, Snap, Twitter, X, Reddit
+- access streaming services (e.g., Netflix, HBO, Hulu, YouTube)
+- access mobile games (e.g., Plato, Honor of Kings, Genshin Impact, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Mobile Legends: Bang Bang, Free Fire, Roblox, )
+
+VPN PROTOCOLS
+- We offer up to 4 VPN protocols for free users (depending on location)
+- Users are recommended to select “Auto” and our VPN will choose the best protocol for you
+- We support OpenVPN, IKEv2, Super, and V2Ray (new protocol)
+
+VPN SERVER LOCATIONS WORLDWIDE
+
+Choose from over 5,000+ servers across 55+ countries, including:
+- North America: USA (40+ cities), Canada (3 cities), Mexico
+- Europe: Austria, Belgium, Bulgaria, Switzerland, Czechia, Germany, Denmark, Estonia, Spain, Finland, France, United Kingdom (3 cities), Greece, Croatia, Hungary, Ireland, Iceland, Italy, Lithuania, Luxembourg, Latvia, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Russian Federation, Slovakia, Sweden, Ukraine
+- Asia: Australia, Malaysia, Singapore, South Korea, Japan, Hong Kong, Indonesia, India, Israel, Kazakhstan, Taiwan, Vietnam, Turkey, Philippines
+- South America: Brazil, Chile, Colombia, Peru
+- Africa: Egypt, South Africa
+
+PREMIUM VPN FEATURES
+- Ultra fast 10Gbps servers
+- No ads
+- Servers in 55+ countries
+- 40+ US city-level servers
+- City-level servers in Canada and the UK
+- Premium users can protect up to 10 devices
+
+PREMIUM PLANS (no ads, 10G servers, and more):
+Weekly: $9.99/week
+Monthly: $11.99/month (7-day free trial)
+Yearly: $79.99/year (7-day free trial)
+
+PRIVACY COMMITMENT
+VPN - Super Unlimited Proxy is committed to privacy with zero activity logs. We don't collect or retain any information that could compromise your online security.
+
+Links to our Terms of Service and Privacy Notice can be found below:
+
+- Privacy Notice: https://www.vpnsuper.com/privacy-notice
+- Terms of Use: https://www.vpnsuper.com/terms-of-service
+
+Download the top free iPhone VPN to:
+
+- jump through gaming levels faster than you can say biubiu
+- express yourself on social media
+- browse the internet faster than a proton
+- shield yourself on hotspots
+- turbo charge your tunneling
+- break the filters with our proxy master
+- hide your internet activity better than an ostrich",2018-05-15T11:50:11Z,2025-11-12T07:55:44Z
+vg,"Virgin Islands, British",Productivity,6007,17,946659216,Betternet VPN: Unlimited Proxy,Betternet LLC,https://apps.apple.com/vg/app/betternet-vpn-unlimited-proxy/id946659216?uo=4,0.0,4.85714,21,Productivity,"Get super fast VPN protection with Betternet – the best VPN for security and privacy across all your iOS devices, available through free and premium plans.
+
+Betternet is a super fast VPN that delivers free and premium VPN access and enhanced privacy for your iPhone. Whether you're browsing from home, a public WiFi hotspot, or overseas, Betternet’s advanced VPN technology ensures fast, secure, and private connections. Stay anonymous, protect your personal data, and enjoy a high-speed experience across all your devices.
+
+With over 1800+ fast VPN servers and access to 125+ virtual locations worldwide, Betternet is the go-to choice for users who value both security and performance. Whether you’re looking for a free VPN, or an ad-free premium VPN experience that puts privacy first, Betternet is your ideal solution.
+
+Unlock seamless VPN connections worldwide including servers in: the USA, United Kingdom, Netherlands, Germany, Singapore, Spain, France, India, Canada, Japan, Italy, Austria, Australia, Switzerland, Belgium, Hong Kong, UAE, and beyond.
+
+Access a secure and fast VPN server in any of the listed countries to bypass geo-restrictions and experience super fast streaming, gaming, and browsing—wherever you are.
+
+Free VPN Features:
+• Access free with unlimited data; no credit card required when you choose our ad-enable free option
+• One-tap connect for instant fast VPN protection
+• No sign-up, no email, and no logs saved—ensuring your privacy
+• Auto-connects you to the fastest VPN server available in our network
+• Built-in protection against malware, phishing, and trackers
+• Includes Tor over VPN, DNS leak protection, split tunneling, PKI encryption, and more
+• Designed to protect your security and privacy on every network
+
+Go Premium for Supercharged Fast VPN Experience:
+• 1800+ super fast VPN servers worldwide
+• Connect to servers with speeds up to 1 Gbps
+• Access 125+ virtual VPN locations including all major regions
+• Advanced IKEv2 (IPSec) protocol for stronger security
+• Auto-connect when your iPhone starts up
+• Multiple VPN modes for fast gaming, streaming, and browsing
+• Use the VPN on up to 10 devices simultaneously
+• Enjoy a completely ad-free experience
+• Upgrade for better VPN security, unrestricted content, and ultimate privacy—all at blazing fast VPN speeds.
+
+Try Premium – 7 day free trial with our monthly plan. All plans come with a risk free 45 days money-back guarantee. 
+• Enjoy a 7-day free trial of Betternet Premium VPN before committing to a subscription. 
+• Choose from monthly or annual plans with easy cancellation via your iPhone’s
+App Store settings. Subscriptions auto-renew based on your selected subscription term unless disabled at least 24 hours before renewal. Trials convert to paid plans unless canceled.
+
+Why Choose Betternet?
+• Advanced VPN security and encryption for total online privacy
+• Super fast VPN with global access
+• Unlimited free VPN usage
+• Easy-to-use interface built for your iPhone
+• No tracking, no logs, no nonsense
+• Whether you're traveling, gaming, streaming, or working, Betternet gives you the fast, free, and secure VPN experience you need—backed by industry-leading privacy protection.
+
+Terms of Service: https://www.betternet.co/terms/
+Privacy Policy: https://www.betternet.co/privacy-policy/
+Contact Support: support@betternet.co
+
+Protect your digital life today with Betternet VPN – the super fast VPN that prioritizes your privacy, your security, and your freedom.",2014-12-17T06:48:11Z,2025-11-14T10:11:43Z
+vg,"Virgin Islands, British",Productivity,6007,18,879478102,Google Slides,Google LLC,https://apps.apple.com/vg/app/google-slides/id879478102?uo=4,0.0,4.91667,12,Productivity,"Create, edit, and collaborate on presentations with the Google Slides app. With Slides you can:
+
+* Create new presentations or edit existing ones
+* Share presentations and collaborate with others in the same presentation at the same time
+* Work anywhere, anytime - even offline
+* Add and rearrange slides, format text and shapes, and more
+* Present right from your device
+* Never worry about losing your work -- everything is automatically saved as you type
+* Present slides to video calls - scheduled meetings will automatically appear
+* Open, edit, and save PowerPoint files
+
+Google Slides is part of Google Workspace: where teams of any size can chat, create, and collaborate.
+ 
+Google Workspace subscribers have access to additional Google Slides features, including: 
+* Collaborating on a single presentation online with your business partner, your whole team, or external contacts. You control who gets permission to edit, view, or just add comments.
+* Starting from scratch or expediting the process by choosing a template. You can enhance your presentations with videos, images, drawings, and smooth transitions.
+* Working across PCs, Macs, mobiles, and tablets—View or even present your slides from your phone or tablet, so you have the option to practice your presentation up until the last minute.
+
+Permissions Notice
+Camera: This is used for camera mode in video calls and to insert images taken with the camera.
+Microphone: This is used to transmit audio in video calls.
+Photos: This is used to access photos under the control of Photos application to let the users pick images to insert into slides.",2014-08-26T09:20:43Z,2025-11-17T14:56:53Z
+vg,"Virgin Islands, British",Productivity,6007,19,1367959794,Госуслуги,"MINKOMSVYAZ ROSSII, FKU",https://apps.apple.com/vg/app/%D0%B3%D0%BE%D1%81%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8/id1367959794?uo=4,0.0,4.7931,29,Productivity,"Приложение «Госуслуги» — ваш помощник для взаимодействия с ведомствами и государством
+
+В приложении можно оплачивать штрафы и госпошлины, подавать заявления в ведомства, хранить личные документы и предъявлять их в бытовых ситуациях, сканировать товары, управлять согласиями на использование личных и биометрических данных и многое другое",2018-04-22T09:13:56Z,2025-11-10T16:30:20Z
+vg,"Virgin Islands, British",Productivity,6007,20,1193154948,VPN 360: Super Fast VPN Proxy,Pango GmbH,https://apps.apple.com/vg/app/vpn-360-super-fast-vpn-proxy/id1193154948?uo=4,0.0,4.5102,49,Productivity,"VPN 360: Your Unlimited VPN for Online Privacy and Security!
+
+VPN 360 is an unlimited VPN app designed to secure your privacy both online and on public Wi-Fi. Experience fast, reliable connections with our private VPN proxy, providing world-class security to protect your online identity from hackers and security threats. Whether you're browsing, gaming, watching your favorite videos, or shopping, VPN 360 keeps your online activity safe and your IP address hidden.
+
+With VPN 360, you get:
+• Unlimited VPN Access• One-Tap Security: effortlessly secure your Wi-Fi with encrypted VPN protocols
+• Malware and Phishing Protection: browse safely with built-in security features
+• Advanced Proxy Settings: maximize your Wi-Fi security for a worry-free experience
+• 24/7 Customer Support: we're here to help you anytime
+• No registration or credit card required for our free with ads option - enjoy free access and complete privacy with no saved logs or email requirements
+• No Registration Needed: 
+
+
+Premium Version includes:
+• 1800+ ultra fast VPN proxy servers across 125+ global locations
+• Speeds up to 1 Gbps
+• Optimized VPNs for enjoying your favorite video content and HD gaming with enhanced performance
+• Multi-device support: use VPN 360 across up to 10 devices simultaneously
+• Ad-free experience: enjoy unlimited access without interruptions
+
+Subscription fees for VPN 360 Premium are paid through the App Store at the point of enrollment and subscriptions automatically renew based on the subscription term you select, unless auto-renew is turned off at least 24-hours before the end of the subscription period. Any unused portion of a trial period will be forfeited upon purchasing a subscription.
+
+Privacy Policy: https://www.vpn360.com/legal/privacy-policy/
+Terms of Service: https://www.vpn360.com/legal/software-license-and-terms-of-service/",2017-01-21T00:10:31Z,2025-11-05T14:54:30Z
+vg,"Virgin Islands, British",Productivity,6007,21,541164041,Microsoft 365 Copilot,Microsoft Corporation,https://apps.apple.com/vg/app/microsoft-365-copilot/id541164041?uo=4,0.0,4.70455,88,Productivity,"The Microsoft 365 Copilot app is your AI-first productivity app for work and home. It provides one place for you to chat with your AI assistant, create content, manage projects, and quickly find files - helping you get more done, without doing more.  
+
+With the Microsoft 365 Copilot app, you can (1): 
+
+• Chat with your AI assistant – Ask Copilot to summarize a document, draft an email, or analyze a spreadsheet using natural language.  
+• Interact with voice – Talk to Copilot to help you prepare for your day, get answers, and brainstorm ideas hands-free. 
+• Find what matters fast – Find the strategy deck you were working on a month ago, a picture from your last family reunion, or a file that was attached to an email. 
+• Empower your learning – Ask Copilot to explain a concept, summarize recent trends, or help you prepare for a presentation. 
+• Get expert insights – Use built-in AI agents like Researcher and Analyst to generate research reports and analyze complex datasets. 
+• Create polished content – Create and edit images, posters, banners, videos, surveys and more with easy-to-use templates and tools. 
+• Scan files – Scan documents, photos, notes and more with your mobile app. 
+• Manage projects easily - Bring together ideas, documents, and links and ask Copilot to summarize and connect the dots with Copilot Notebooks. 
+
+Sign in with your work, school, or personal Microsoft account to start using the free app today. 
+
+(1) Availability of Microsoft 365 Copilot features may vary. Some capabilities require specific licenses or may be disabled by your organization's administrator. See this webpage for more information on feature availability by license. 
+
+Please refer to Microsoft's EULA for Terms of Service for Microsoft 365. By installing the app, you agree to these terms and conditions: https://support.office.com/legal?llcc=en-gb&aid=SoftwareLicensingTerms_en-gb.htm",2013-06-18T15:45:39Z,2025-11-20T00:09:03Z
+vg,"Virgin Islands, British",Productivity,6007,22,6737527615,Google NotebookLM,Google LLC,https://apps.apple.com/vg/app/google-notebooklm/id6737527615?uo=4,0.0,0,0,Productivity,"Turn complexity into clarity with NotebookLM, your brain’s new best friend. Join the millions of students, creators, researchers, professionals, CEOs, and more who are saving time, getting stuff done, and learning in new ways.
+
+“NotebookLM Blew Our Mind” – Hard Fork
+“One of the most compelling and completely flabbergasting demonstrations of AI’s potential yet.” – The Wall Street Journal
+
+Now, with the NotebookLM app, you can create and access notebooks, ask questions whenever you think of them, and listen to your podcast-style Audio Overviews on the go with background playback and offline support.
+
+UPLOAD SOURCES
+Upload all your long and complex PDFs, websites, YouTube videos, or text into a notebook.
+
+INSIGHTS YOU CAN TRUST
+NotebookLM becomes an expert on your sources, summarizing them and making interesting connections. Then, you can ask it questions about, well, anything — and you can trust the answers, since your sources are cited in-line.
+
+LEARN YOUR OWN WAY
+Long blocks of text not your preferred way to learn? Transform what you uploaded into something more your speed, like a podcast-style audio discussion with two engaging AI hosts. You can even join the show to ask questions or steer the conversation in a different direction.",2025-05-19T07:00:00Z,2025-11-18T21:10:05Z
+vg,"Virgin Islands, British",Productivity,6007,23,6443993125,Auto Clicker - Click Assistant,Hamza El karmouni,https://apps.apple.com/vg/app/auto-clicker-click-assistant/id6443993125?uo=4,0.0,4,1,Productivity,"Auto clicker includes clicks, curve swipes and pinch gestures, Anywhere on the custom web pages or web games you want with custom durations. 
+
+It's is an auto clicker that can Automate Clicker or swipe any position using a custom duration. It can help you with tasks that require repeated clicks or swipes and is suitable for users who want to use an Automatic Clicker tool for reading newspapers, surfing the web, and playing games.
+
+Auto clicker - Click Assistant Features:
+
+- Easy to use
+- Multi-Touch gestures - You can tap, swipe, pinch, or spread one or more fingers to perform useful actions
+- Recording gestures - You can easily record your gestures
+- The new interface allows you to stop, pause or resume the script at any time
+- Innovative curve swipes and two-finger zoom gestures
+- Personalization - You can adjust the size and opacity of the operating interface
+- Separately set the parameters of the clicks, such as delay, touch duration and number of repetitions
+- It can save/load scripts
+- Countdown timer
+
+Premium Features :
+
+- Unlimited click recording
+- Unlimited script repeat
+- Unlimited auto refresh
+- Unlimited auto scroll
+- More delay flexibility
+- Remove Ads
+
+Note:
+
+- Only support Web pages
+
+With this app you can easily auto click anything on the internet.
+
+With secure, fast and easy browsing.
+
+* Upon confirmation of purchase of your subscription, payment will be charged to your iTunes account.
+
+* Subscription will auto-renew unless auto-renew is turned off at least 24 hours before the end of the current period and payment is charged to your iTunes account.
+
+The renewal cost depends on your subscription plan. Our standard subscription plans:
+
+1 week subscription is $ 4.99
+
+For other currencies, the price matches the price level in the App Store Price Matrix.
+
+* Please note: Any unused portion of the three-day free trial period (if offered) will be forfeited when purchasing a premium subscription during the free trial period.
+
+* For any other information, see our privacy policy and terms of use.
+
+
+Privacy Policy : https://docs.google.com/document/d/1rBZrJANPwGF9zigHyAH3YjdRpRYOdbzFB-tGCVcnyb4/edit?usp=sharing
+
+Terms Of Use (EULA) : https://docs.google.com/document/d/1upUmc9uJxcTWeApTaX6mFEK1_DWHOSTCZHWDd95gY9U/edit?usp=sharing",2022-11-05T07:00:00Z,2025-10-16T09:08:05Z
+vg,"Virgin Islands, British",Productivity,6007,24,6446469736,Auto Clicker: Click & Tapper,秋霞 武,https://apps.apple.com/vg/app/auto-clicker-click-tapper/id6446469736?uo=4,0.0,5,1,Productivity,"Want to effortlessly click on any web? Auto Clicker has got you covered.
+Our simple and fast auto-clicker app makes it easy to automatically click on social media platforms, games, novels, and news websites on the web. Download Auto Clicker now and start exploring!
+
+WHY CHOOSE AUTO CLICKER？
+【Easy to Use】
+-With Auto Clicker, it helps you to do repeated taps at any location with any interval you specify.
+
+【Support Multiple Click Modes】
+-Auto Clicker supports single & multi-click modes, you can set the action interval and repeat mode, which includes infinitely/limit time/number of cycles;
+-Just tap a single position repeatedly at specified intervals, or set multiple clicks at different positions, and then drag the cursor to move it anywhere, and click to edit the interval;
+
+【Easily & Fast Slide Up】
+-You can easily swipe on any web page, such as social media platforms, games, novels, news...
+
+【More Auto Tools】
+-In addition to an automatic clicker, we also support an auto scanner, wooden fish, click counter, auto-save, and other functions, and are continuously updated.
+
+ABOUT SUBSCRIPTION
+-It will be charged from your iTunes account after the purchase.
+-The subscription will be auto-renewed 24 hours before the subscription period ends with the same kind of subscription you already bought at the same price. To avoid automatic renewal, you must cancel the subscription at least 24 hours before it expires.
+-You can manage or cancel your auto-renewable subscription by entering the user settings in iTunes after the purchase. It's not possible to abort the subscription during the time it's active.
+-Any unused portion of a free trial period, if offered, will be forfeited when you purchase the premium subscription.
+
+-Terms of Use:
+https://fair-chalk-fc5.notion.site/Term-of-use-05881bf99bd44f1fa8f6ed9d65c93c60
+-Privacy Policy: 
+https://fair-chalk-fc5.notion.site/Privacy-Policy-8fd5d116aa9b4101be47e23ccc2a6af4
+
+Contact us via skytech000@163.com for any suggestions or questions, we would be more than happy to hear from you.",2023-08-31T07:00:00Z,2024-11-28T02:16:58Z
+vg,"Virgin Islands, British",Productivity,6007,25,6745492622,Chatbot 5: AI Chat Assistant,Appsolut Limited,https://apps.apple.com/vg/app/chatbot-5-ai-chat-assistant/id6745492622?uo=4,0.0,5,1,Productivity,"Chatbot 5: AI Chat Assistant & Image Generator
+
+Powered by GPT-5, the most advanced AI model yet, Chatbot 5 is your all-in-one AI assistant — smart, creative, and always ready to help.
+
+ASK. CREATE. SOLVE.
+Whether you’re writing emails, essays, or code, generating images, or translating languages — Chatbot 5 makes everything faster and easier. It’s like chatting with a genius friend who never sleeps.
+
+WHY CHATBOT 5 STANDS OUT
+• Powered by GPT-5: Chat with one of the smartest AIs ever built
+• Boost productivity: Write, code, or brainstorm ideas instantly
+• Create images: Turn any idea into stunning visuals within seconds
+• Smart problem-solving: Get step-by-step help with tasks and learning
+• Natural conversations: Remembers context for smoother chats
+• Multilingual: Chat and translate in 100+ languages
+
+MORE THAN A CHATBOT — YOUR DAILY COPILOT
+• Write better: Emails, posts, and essays polished in seconds
+• Be creative: Stories, captions, slogans — just ask
+• Learn faster: Clear explanations and study assistance anytime
+
+PERFECT FOR WORK, STUDY & LIFE
+• Homework help and research guidance
+• Instant translations and travel support
+• Creative writing, advice, and fun chats
+
+Chatbot 5 offers premium plans for unlimited AI access.
+The subscription renews automatically unless turned off at least 24 hours before the end of the current period.
+
+Terms of Use: https://sites.google.com/view/agentix-terms-of-use/
+Privacy Policy: https://sites.google.com/view/agentix-privacy-policy/",2025-06-19T07:00:00Z,2025-11-17T15:05:43Z

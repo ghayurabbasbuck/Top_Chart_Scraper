@@ -1,0 +1,928 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+si,Slovenia,Health & Fitness,6013,1,1574669660,zVEM,NIJZ,https://apps.apple.com/si/app/zvem/id1574669660?uo=4,0.0,3.0241,166,Health & Fitness,"Aplikacija zVEM vam nudi hiter in preprost dostop do izvidov, receptov in drugih dokumentov znotraj sistema eZdravje. Omogoča vam naslednje storitve:
+
+- Pregledovanje zdravstvene dokumentacije (izvidi, pooblastila in druga dokumentacija)
+- Pregledovanje izdanih in uporabljenih eReceptov
+- Pregledovanje eNapotnic in eNaročil
+- Pregledovanje čakalnih dob
+- Funkcionalnost prejema potisnih obvestil o novih zdravstvenih dokumentih
+- Izdaja in shranjevanje digitalnih covid potrdil (DCP), ki se uporabljajo za potovanja znotraj EU in v nekaterih drugih državah
+
+Za uporabo aplikacije potrebujete dostop do spletnega portala zVEM na naslovu https://zvem.ezdrav.si, kjer boste s pomočjo kode QR avtorizirali uporabo na mobilnem telefonu. Za uporabo portala potrebujete račun SI-PASS in kvalificirano digitalno potrdilo (SIGEN-CA, PoštarCA ali drugo) oz. prijavni mehanizem SMS-pass. Več o računu SI-PASS si lahko preberete na https://www.si-trust.gov.si/sl/.
+
+Aplikacija je namenjena uporabnikom slovenskega zdravstvenega sistema, tako slovenskim državljanom kot tudi tujim državljanom, ki prebivajo v Sloveniji in uporabljajo zdravstvene storitve pri lokalnih izvajalcih.",2021-07-15T07:00:00Z,2025-10-29T07:57:40Z
+si,Slovenia,Health & Fitness,6013,2,6480417616,Cal AI - Calorie Tracker,Viral Development LLC,https://apps.apple.com/si/app/cal-ai-calorie-tracker/id6480417616?uo=4,0.0,4.79037,644,Health & Fitness,"HOW TO USE CAL AI:
+
+1) Answer lifestyle questions to build your plan
+
+2) Snap a photo of your meal*
+
+3) Get your nutritional breakdown*
+
+If you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.
+
+We aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.
+
+If you have any ideas or questions, please email us at team@calai.app.
+
+NOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.
+
+*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION
+TERMS: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-04-08T07:00:00Z,2025-11-18T20:13:13Z
+si,Slovenia,Health & Fitness,6013,3,1038369065,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,https://apps.apple.com/si/app/flo-period-cycles-tracker/id1038369065?uo=4,0.0,4.78629,5498,Health & Fitness,"Live in sync with your cycle using Flo, the world’s most popular female health app. Get personalised insights and predictions on your body.
+
+Whether you want to predict your period, get pregnant, track your pregnancy, or better understand your symptoms, Flo is your all-in-one female health partner. Join over 420 million members.
+
+With Flo, you can:
+- Keep your data safe: Flo is the first period and ovulation tracker to achieve dual ISO 27001 and ISO 27701 Certifications (aka gold standards in data protection).
+- Feel more understood: Share your Flo insights via Flo for Partners to feel more connected, understood, and supported.
+- Get an extra layer of protection: Anonymous Mode means no one, not even Flo, can identify you based on your health data.
+- Join a supportive community: Secret Chats is where members can discuss topics and connect with others on the same journey.
+- Access reliable health information: Flo collaborates with a globally recognised organisation dedicated to reproductive health and rights, ensuring trustworthy support for your health journey.
+
+With Flo Premium, you can enjoy:
+- Monthly cycle reports
+- Symptom predictions and patterns
+- Tailored prediction insights
+- Detailed pregnancy tracking
+- Full access to Flo for Partners
+- A 24/7 virtual Health Assistant
+- All articles, videos, and courses reviewed by 140+ health experts
+
+New! Flo supports perimenopause:
+- Know what might be perimenopause and how to tune in to your body’s changes.
+- Get clarity on common perimenopause symptoms and what can help.
+- Make more informed health decisions and identify what you need to feel your best.
+
+Start tracking your cycle for free today.
+
+Privacy Policy and Terms of Use:
+https://flo.health/privacy-policy  
+https://flo.health/terms-of-use 
+
+Connect with Flo:
+Web: flo.health
+TikTok: @flotracker
+Instagram: @flotracker
+
+Please note: Flo is not a diagnostic tool and should not be used as a method of contraception or to facilitate conception. Predictions and insights provided by the app are intended for informational purposes only and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any health concerns or decisions.
+
+Flo uses HealthKit to read menstrual cycle data and export your Flo activities to the Health app.
+
+If you have any difficulties using the app, contact Flo via support@flo.health.
+
+Notice of Access Permission:
+Flo may request permission for:
+- In-app notifications or reminders.
+- Uploading photos to specific forum discussions.
+- Uploading audio recordings to closed group chats.
+Content sharing is entirely optional. Flo does not automatically access your content. You can select what you want to share.",2015-10-03T22:28:36Z,2025-11-19T19:58:17Z
+si,Slovenia,Health & Fitness,6013,4,849854436,Veš kaj ješ za iPhone,Zveza potrosnikov slo,https://apps.apple.com/si/app/ve%C5%A1-kaj-je%C5%A1-za-iphone/id849854436?uo=4,0.0,3.28571,35,Health & Fitness,"Aplikacija je povezana z obsežno podatkovno bazo, ki vsebuje informacije o sestavi živil: s kamero pametnega telefona fotografirajte črtno kodo živila, aplikacija pa vam bo prikazala informacije o njegovi hranilni vrednosti, ki vam bodo v pomoč pri izbiri živil. V okviru pestre in uravnotežene prehrane je treba telesu zagotoviti ustrezno količino hranil. Priporočeno je omejevanje količine zaužitega sladkorja, soli in skupnih ter nasičenih maščob, zato aplikacija njihovo količino prikazuje v barvah semaforja. Nižje vrednosti so obarvane zeleno, visoke pa rdeče. Pri zadnjih bodite še posebej pozorni, da takšnih živil ne zaužijete preveč ali prepogosto. Da boste med živili lažje izbirali in izbrali, lahko z aplikacijo preprosto primerjate njihovo hranilno sestavo. Podatki o hranilni sestavi izdelka so v aplikaciji podani in ovrednoteni na 100 g živila oz. na 100 ml pijače. 
+URL do spletne strani aplikacije: https://veskajjes.si/",2014-04-05T06:25:33Z,2025-08-15T07:56:29Z
+si,Slovenia,Health & Fitness,6013,5,341232718,MyFitnessPal: Calorie Counter,"MyFitnessPal, Inc.",https://apps.apple.com/si/app/myfitnesspal-calorie-counter/id341232718?uo=4,0.0,4.77036,2591,Health & Fitness,"Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.
+
+MyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.
+
+Download and start your free 30-day Premium trial to access exclusive food tracking, fitness logging tools, and expert guidance. You’ll soon discover why MyFitnessPal is the #1 food and nutrition tracker in the U.S., a GQ 2020 Fitness Awards “Best Fitness App,” and has been featured in the New York Times, Wall Street Journal, the Today Show, and U.S. News & World Report.
+
+SO MUCH MORE THAN A CALORIE TRACKER & FOOD JOURNAL
+
+It’s like having a dietitian, personal trainer, and nutrition coach at your fingertips.
+
+Log Food – Easy-to-use tools make food tracking quick and simple
+Record Activity – Add workouts and steps with the fitness tracker
+Customize Your Goals – Weight loss, weight gain, weight maintenance, nutrition & fitness
+See Your Progress – Track at a glance, or analyze nutrition & calories in detail
+Learn From a Registered Dietitian – Meal Plans customized for your target calories, whether you want to lose or gain weight—with access to our Meal Planner tool
+Stay Inspired – 500+ healthy goal-focused recipes and 50 workouts keep routines fresh and fun
+Connect With Community – Find friends and motivation in our active forums
+
+A CLOSER LOOK AT FEATURES & BENEFITS
+
+Gain Valuable Insights Through Food Logging
+
+Discover which foods fuel you best. It’s not just a diet app, calorie counter to lose weight, or a faster way to fat loss—it’s about holding yourself accountable and understanding what you put in your body.
+
+One of the Largest Food Databases – Track calories in over 14 million foods (including restaurant dishes)
+Fast & Easy Food Tracker Tools – Type to search, add foods from your history, or quick-add calories
+Bar Code & Meal Scan: Log store-bought foods and entire meals using your phone’s camera
+Calorie Tracker – Automatically count calories and see your daily progress
+Macro Tracker – See carbs, fat & protein breakdown by gram or percentage—no need for a separate carb tracker or keto diet app!
+Nutrition Tracker and Insights – Analyze nutrition intake and set specific goals for macros, cholesterol, sodium, fiber & more
+Water Logging – Easily keep track of your water intake. 
+
+Customize Your App Experience
+
+Choose settings that help you achieve your goals.
+
+Custom Goals – Track calories by meal or day, set up macro goals & more
+Personalized Dashboards – Pick stats you want to see at a glance
+Net Carbs Mode/Carb Tracker – To simplify a low carb or keto diet, view net (not total) carbs
+Protein Counter – Set your protein goals and track how much you eat during the day
+Add Your Own Foods/Meal Tracker – Save recipes and meals for quick logging
+Connect 50+ Apps & Devices – From fitness tracker and smartwatch apps, including the Health app
+Track With Apple Watch – A calorie tracker, water tracker, and macro tracker on your watch face.
+
+SUBSCRIPTION PRICING & TERMS
+
+MyFitnessPal is free to download and use. If you upgrade to MyFitnessPal Premium, we offer monthly & annual auto-renewing subscriptions.
+
+Payment is charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless you turn off auto-renewal in iTunes Account Settings after purchase, or cancel your subscription at least 24 hours prior to the end of the subscription period.
+
+View our full terms & conditions and privacy policy: https://www.myfitnesspal.com/privacy-and-terms",2009-12-08T02:04:45Z,2025-11-18T18:49:57Z
+si,Slovenia,Health & Fitness,6013,6,426826309,"Strava: Run, Bike, Walk",Strava Inc.,https://apps.apple.com/si/app/strava-run-bike-walk/id426826309?uo=4,0.0,4.77677,990,Health & Fitness,"Strava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:
+
+• Record everything – runs, rides, hikes, yoga and over 30 other sport types. Think of Strava as the home of your movement.
+
+• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.
+
+• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.
+
+• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.
+
+• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.
+
+• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.
+
+• Sync your favourite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).
+
+• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.
+
+• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.
+
+• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.
+
+Strava includes both a free version and a subscription version with premium features.
+Strava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.
+
+You can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.
+
+Terms of Service: https://www.strava.com/legal/terms
+Privacy Policy: https://www.strava.com/legal/privacy",2011-03-24T02:04:17Z,2025-11-19T21:16:00Z
+si,Slovenia,Health & Fitness,6013,7,583446403,Garmin Connect™,Garmin International,https://apps.apple.com/si/app/garmin-connect/id583446403?uo=4,0.0,4.74566,806,Health & Fitness,"The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. 
+ 
+Once you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. 
+ 
+With Garmin Connect you can: 
+ 
+- Personalize your home screen, so the most helpful information is instantly visible 
+- Analyze your activities with detailed statistics(3)
+- Create customized workouts and courses 
+- Review trends in health metrics like heart rate and steps 
+- Earn badges for accomplishments 
+- Sync with other apps like Apple Health, MyFitnessPal and Strava 
+- Get support for Garmin devices and their features 
+ 
+Learn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. 
+ 
+(1) See compatibility requirements at Garmin.com/BLE 
+(2) See a full list of compatible devices at Garmin.com/devices
+(3) See Garmin.com/ataccuracy  
+ 
+Note: Continued use of GPS running in the background can dramatically decrease battery life.",2013-01-10T06:26:44Z,2025-11-14T16:42:53Z
+si,Slovenia,Health & Fitness,6013,8,1145935738,Cronometer: Calorie Counter,Cronometer Software Inc,https://apps.apple.com/si/app/cronometer-calorie-counter/id1145935738?uo=4,0.0,4.7931,145,Health & Fitness,"Cronometer is more than a calorie counter. Cronometer is a powerful health and fitness app that makes it easy to track your diet and exercise habits. With an extensive database of over 1.1 million verified foods, you can easily log your meals and get a detailed breakdown of the calories, vitamins & minerals you're consuming. The app also integrates with popular fitness tracking apps and devices, including Apple Health, Apple Watch, and Fitbit, so you can track your workouts and monitor your progress over time. 
+
+Whether you're trying to lose weight, build muscle, or simply improve your overall health, Cronometer is the perfect tool for tracking your daily nutrition and fitness goals.
+
+Cronometer is the calorie tracker of choice for many health professionals.
+
+Since its launch, Cronometer has been featured in Healthline, Prevention, Women’s Health, Good Housekeeping, Life Hacker, CNET, Men’s Health, Men’s Journal, and more.
+
+With Cronometer, you can:
+
+• Track your daily nutrition: Log your meals and see a detailed breakdown of the nutrients you're consuming, including calories, protein, carbohydrates, fat, and more. You can also see how your daily intake compares to recommended guidelines for various nutrients, so you can make sure you're getting the right balance of nutrients to support your health.
+
+• Create Diary Groups: Label your food diary entries by category like 'Breakfast', 'Lunch', or 'Snacks' to keep track of your eating habits and trends.
+
+• Set and track your fitness goals: Whether you're trying to lose weight, build muscle, or improve your overall health, Cronometer lets you set goals and track your progress over time. You can set targets for a variety of metrics, including weight, and see how you're tracking against your goals.
+
+• Connect with popular fitness tracking devices: The app integrates with a variety of fitness tracking apps and devices, so you can easily track your workouts and monitor your progress. You can connect your device to Cronometer and see all your fitness data in one place.
+
+• Enhanced sleep tracking features allow users to import sleep data from various devices. Access sleep metrics in the Diary, Dashboard, and Charts. Get insights into sleep duration, sleep stages, and recovery scores. Leverage this data to analyze correlations between sleep and nutrition, such as tracking alcohol or caffeine intake against sleep quality.
+
+• Get more insight with Cronometer Gold: Have an ad-free experience with greater customization and access to popular premium features. With Cronometer Gold you will have access to a Fasting Timer, Recipe Importer, Macro Scheduler, Time Stamps, Custom Charts, and much more!
+
+• Access an extensive database of foods: With over 1.1 million verified foods in our database, you can easily find and log the foods you're eating, so you can get a complete picture of your daily nutrition. Our database includes a wide variety of foods, from common grocery store items to restaurant dishes and more.
+
+Whether you're a fitness enthusiast or just looking to improve your overall health, Cronometer is the perfect tool for tracking your nutrition and fitness goals. Download the app today and start taking control of your health!
+
+SUBSCRIPTION DETAILS
+You will have the option to upgrade to our Gold version at any time.
+
+Payment will be charged to your iTunes Account at confirmation of purchase.
+
+You can pick your subscription term – monthly or annual. Your subscription will AUTO-RENEW based on your chosen term and price above. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+You can change or cancel your subscription under your iTunes Account Settings.
+
+Any unused portion of a free trial period, if offered, will be forfeited when a subscription is purchased. 
+
+By subscribing, you acknowledge to agree to the following: 
+
+Terms of Use: https://cronometer.com/terms/  
+Privacy Policyhttps://cronometer.com/privacy/",2016-09-09T21:18:55Z,2025-11-19T18:54:11Z
+si,Slovenia,Health & Fitness,6013,9,6474852610,HUAWEI Health: Europe,Aspiegel SE,https://apps.apple.com/si/app/huawei-health-europe/id6474852610?uo=4,0.0,4.78824,85,Health & Fitness,"The brand new ""HUAWEI Health: Europe"" app has been launched to bring the ""HUAWEI Health+"" membership features to all users across Europe, such as ""Workouts"", ""Yoga"", ""Mindful Meditation"", and ""Sleep Music"".
+
+Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep track of your health, or conveniently manage your smart wearable devices, the Huawei Health app has what you're looking for. Keep your data private, or share it with your loved ones, the power's yours. The latest in health and fitness technology, made simple, secure, and easy to use.
+
+Keeps Up with Your Every Move
+Keep track of your health journey. Huawei Health records your activity, supporting over 100 different sports, from beginner to advanced levels. See your workout data clearly every step of the way, so you can be sure you're reaching your goals. A wonderful world of fitness at the tip of your fingers.
+
+Run How You Want
+A simpler way to run that can benefit anyone. The app is able to record and map out your route as you're running, all while displaying key information so you can stay on target.
+
+An Amazing Journey
+Share your health journey with your friends and family. Your outdoor workout routes can be generated into videos with music for you to proudly share. Use Dynamic tracking to create videos to share on social media to inspire yourself and others with your fitness journey.
+
+A New View on Health
+See your life in amazing detail with Huawei Health stats. The app keeps records of your heart rate, weight, sleep quality, step count and more. All your data is shown in clear, dynamic graphs so you have a better understanding of your health in a more accessible way.
+
+[health package]
+·Synchronize with the weight data in healthkit. When you use the healthy weight data of Huawei mobile phone, this data will be synchronized and recorded in healthkit.
+·Synchronize with motion data in healthkit. You can automatically synchronize the exercise data recorded in Huawei health to healthkit. Similarly, Huawei sports health can also obtain the exercise data from healthkit.
+
+--------------------
+Huawei Health app is not intended for medical use, and all data is for reference only.
+You should seek a doctor’s advice in addition to using this app and before making any medical decisions.
+
+--------------------
+--Automatic renewal service agreement(EULA): https://consumer.huawei.com/minisite/cloudservice/health/monservice-terms.htm?country=CN&language=zh_Hans_CN
+--Membership Agreement (including user privacy agreement): https://consumer.huawei.com/minisite/cloudservice/health/member-terms.htm?country=CN&language=zh_Hans_CN",2024-07-26T07:00:00Z,2025-11-19T09:11:12Z
+si,Slovenia,Health & Fitness,6013,10,6670386021,CalDiet-AI Calorie Counter,HAPPY AI INC.,https://apps.apple.com/si/app/caldiet-ai-calorie-counter/id6670386021?uo=4,0.0,4.8547,117,Health & Fitness,"Whether you're aiming to lose weight, gain muscle, or maintain a balanced diet, CalDiet supports your goals with tailored advice and real-time analysis. Achieve a healthier lifestyle with CalDiet!
+
+KEY FEATURES:
+
+Personalized Plans: Create tailored plans based on your lifestyle and goals.
+
+Easy Nutrition Tracking: Simply snap a photo of your meals, then get your nutritional intake.
+
+Exercise Tracking: Track with Apple Watch, record your daily activity and track calories burned.
+
+See Your Progress: Track weight at a glance, or analyze nutrition & calories in detail
+
+Intermittent Fasting: Lose fat 80% faster with proven intermittent fasting!
+
+See Your Progress – Track weight at a glance, or analyze nutrition & calories in detail
+
+CalDiet is your partner in reaching your goals faster, making it easier and effort for everyone to become healthier. Success requires your hard work, we provide the tools, support, and information to help you reach your goals.
+
+Disclaimer: We do not provide medical advice. Always consult a healthcare professional before starting a new diet or fitness plan.
+
+*SUBSCRIPTION REQUIRED FOR ALL CORE FEATURES: FOOD RECOGNITION, FOOD DATABASE, WORKOUTS, AND WATER TRACKING.
+
+Terms of Service: http://landing.caldiet.online/terms-of-service.html
+Privacy Policy: https://landing.caldiet.online/privacy-policy.html",2024-09-24T07:00:00Z,2025-10-17T02:21:07Z
+si,Slovenia,Health & Fitness,6013,11,6590619083,StepBucks: Step into health,Flybrother Mobile Limited,https://apps.apple.com/si/app/stepbucks-step-into-health/id6590619083?uo=4,0.0,5,1,Health & Fitness,"StepBucks provides clear daily, weekly, and monthly progress charts, plus personalized fitness goals tailored to you. You can convert your steps into energy, which you can accumulate and redeem for gifts within the app.
+
+Precise Tracking: Accurately records your daily steps, calories burned, distance covered, and exercise duration.
+Comprehensive Data Visualization: Provides clear and easy-to-understand charts summarizing your progress daily, weekly, and monthly.
+Personalized Goal Setting: Offers customized fitness goals based on your individual needs and fitness level.
+Detailed Progress Monitoring: Allows you to track every step, calorie, and kilometer towards your health goals.
+Step Rewards: Convert your steps into energy point, and you can redeem energy for gift at the gift shop.
+Gift Shop: Redeem a variety of real rewards in gift shop, such as Amazon gift cards, watches, or switch.
+
+Every step counts towards a healthier lifestyle. Download the StepBucks now and start your journey to a healthier you.",2024-12-11T08:00:00Z,2025-09-17T07:17:49Z
+si,Slovenia,Health & Fitness,6013,12,1346247457,"Endel: Focus, Sleep, Relax",Endel Sound GmbH,https://apps.apple.com/si/app/endel-focus-sleep-relax/id1346247457?uo=4,0.0,4.775,80,Health & Fitness,"Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.
+
+Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.
+
+Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:
+
+
+• Focus – boosts your productivity by helping you concentrate for longer
+
+• Sleep – soothes you into a deep sleep with soft, gentle sounds
+
+• Relax – calms your mind to create feelings of comfort and safety
+
+• Move – feel grounded and present while walking, hiking, or running
+
+
+ENDEL PREMIUM SUBSCRIPTION
+
+
+Alongside the classics, the Premium package contains the following Endel Soundscapes and features:
+
+• Colored Noise – choose one of 9 colors of noise to focus, relax, sleep, and mask outside sound
+
+• Study – improves concentration and keeps you calm while studying or working
+
+• Dynamic Focus – get your perfect productivity support with real-time sound tuning
+
+• Hibernation – nourish your ears with cozy sounds for cold-season slumber
+
+• Nature Elements – nurture the mind with sounds of nature, your way
+
+• Rainy Outside – cozy up to the gentle patter of rain, blended with sleep-aiding sounds
+
+• Recovery – revives your wellbeing with sounds engineered to lower anxiety
+
+• Spatial Orbit – venture into a more peaceful dimension with an immersive Spatial Audio experience
+
+• Focus Timer – the famous interval work method, upgraded with science-backed Focus sounds
+
+
+On top of the much-loved original Endel soundscapes, Endel works with innovative artists and thinkers to create unique experiences. These collaborative Endel Soundscapes are available for Premium users:
+
+
+• James Blake: Wind Down – prepare your body for sleep with soothing sounds from an award-winning artist
+
+• Grimes: AI Lullaby – supports sleep for babies and adults with original sounds and vocals from Grimes
+
+• Plastikman: Deeper Focus – a deep focus techno soundscape created with Richie Hawtin
+
+• Alan Watts: Wiggly Wisdom – soothing and motivation spoken word soundscape, infused with the playful wisdom from Alan Watts
+
+• Miguel: Clarity Trip – elevate your every step with original sounds from Miguel
+
+Endel Pacific is the patented technology that powers our apps and integrations. 
+
+All soundscapes are available offline.
+
+Apart from the Premium sounds and features, Endel Premium users get access to the exclusive Apple Podcast shows.
+
+
+SUBSCRIPTION TERMS
+
+
+Skip the payment screen by tapping “X” in the top-right corner of the offer. The Free Edition of Endel will start automatically.
+
+You can get access to Endel Premium by subscribing to a recurrent plan of your choice or with a one-time Lifetime purchase.
+
+Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+
+Payment will be charged to your Apple account at confirmation of purchase.
+
+Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.
+
+Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+No cancellation of the current subscription is allowed during the active subscription period.
+
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+
+
+For more information:
+
+
+Terms of Use - https://endel.zendesk.com/hc/en-us/articles/360003558200
+
+Privacy Policy - https://endel.zendesk.com/hc/en-us/articles/360003562619",2018-06-21T07:00:00Z,2025-11-18T11:24:57Z
+si,Slovenia,Health & Fitness,6013,13,6751718000,MealScan - Calorie Tracker,Postaj j.d.o.o.,https://apps.apple.com/si/app/mealscan-calorie-tracker/id6751718000?uo=4,0.0,4.84211,19,Health & Fitness,"Snap your food, scan menus, track workouts, and reach your goals.
+CALORIE TRACKING THAT FITS A BUSY SCHEDULE
+
+HOW TO USE MEALSCAN
+	1.	Set your goals & lifestyle preferences
+	2.	Snap a photo, scan a barcode, or capture a restaurant menu
+	3.	Instantly get calories, macros, allergens & insights
+
+
+THE FUTURE OF CALORIE TRACKING
+
+MealScan is the fastest, smartest way to take control of your health. With AI-powered food recognition, barcode scanning, and full workout logging, you’ll finally have one app that does it all.
+
+Whether you’re focused on weight loss, muscle gain, Keto, Low Carb, or Vegan diets, MealScan adapts to your goals - giving you instant clarity and accurate tracking.
+
+
+KEY FEATURES
+
+• AI Food Scanner - snap a meal and get instant calories, macros & nutrients
+• Restaurant Menu Scanning - point your camera at menus and log items instantly
+• Barcode Scanner - track packaged foods with one quick scan
+• Allergen Detection - automatic warnings for gluten, peanuts, dairy, shellfish & more
+• Workout Logging - track exercise, calories burned & intensity
+• Personalized Nutrition Goals - set calorie & macro targets for your diet plan
+• Daily & Weekly Insights - monitor progress and stay accountable
+• Voice Logging - say your meal out loud and we’ll log it for you
+• Device Sync - connect with Apple Health, Fitbit, Garmin, and more
+
+WHY USERS LOVE IT
+
+“Finally an app that does everything in one place.”
+“Snapping a photo of a restaurant menu saved me so much time.”
+“Tracking workouts + meals in one app = game changer.”
+
+
+YOUR HEALTH, SIMPLIFIED
+
+MealScan isn’t another complicated diet app. It’s your all-in-one calorie counter, meal scanner, and fitness tracker - designed for speed, simplicity, and results.
+
+NOTE: MealScan does not provide medical advice. Always consult a healthcare professional before making dietary changes.
+
+Scanning & analysis features require a subscription.
+
+Under the following terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-09-17T07:00:00Z,2025-11-19T23:04:06Z
+si,Slovenia,Health & Fitness,6013,14,1625650675,Generali Zame,GENERALI d.d.,https://apps.apple.com/si/app/generali-zame/id1625650675?uo=4,0.0,2.85714,21,Health & Fitness,"Generali ZAME je lojalnostni program, ki vključuje popuste pri zavarovanjih, ugodnosti pri partnerjih s področja turizma, športa, zdravstva in prostega časa ter različne aktivnosti za zdrav in aktiven življenjski slog.
+
+Aplikacija je brezplačna, enostavna za uporabo in namenjena vsem, ki želijo izkoristiti ugodnosti in popuste, ne glede na to, ali so stranke zavarovalnice Generali ali ne. V njej so zbrane vse ključne informacije o Generali Programu prednosti ZAME, vključno z vašim številom zbranih Generali točk, vašim trenutnim nivojem zvestobe in nasveti, kako pridobiti dodatne točke.
+ 
+Generali ZAME vam prinaša koristi in ugodnosti s področij:
+•	popustov na izbrana zavarovanja,
+•	ugodnosti naših partnerjev (doživetja, zdravstvene storitve, ugodnosti za dom, avto in šport ...),
+•	zdravega načina življenja: zastavite si cilje za hojo, tek in kolesarjenje ter spremljate dnevni ali tedenski napredek,
+•	izzivov, ki vas spodbujajo k še aktivnejšemu vsakdanjiku, saj vam omogočimo vpogled v lestvico najboljših,
+•	sodelovanja v nagradnih igrah, kjer vas nagrajujemo za opravljene aktivnosti,
+•	osvajanja in zbiranja značk za dosežene cilje,
+•	osvajanja Klopc ljubezni po Sloveniji (omogočamo vam dostop do albuma osvojenih in neosvojenih Klopc ljubezni) in
+•	nasvetov za zdrav in aktiven življenjski slog.
+ 
+Kako do popustov in ugodnosti v Generali ZAME?
+•	Generali točke vam prinašajo popust na izbrane vrste zavarovanj. Poleg tega vam dodatni kuponi za zavarovalne prednosti omogočajo še nadaljnje znižanje premij vaših zavarovanj.
+•	Povežite se v Krog ZAME s člani v skupnem gospodinjstvu, kar omogoča delitev Generali točk in zvišanje nivoja zvestobe Generali ZAME.
+•	V razdelku Ugodnosti lahko pregledate, katere ugodnosti naših partnerjev vam pripadajo. Koriščenje ugodnosti in popustov je povsem enostavno – izberite ponudbo, naročite kupon in uživajte v zasluženih ugodnostih!
+•	Vsi kuponi so shranjeni tudi v mobilni aplikaciji, tako da so vedno pri roki.
+ 
+Enostavna spodbuda za aktivno in zdravo življenje: obiščite Klopce ljubezni!
+V mobilni aplikaciji najdete svoj album osvojenih in še neosvojenih Klopc ljubezni, ki vas čakajo na zanimivih lokacijah Slovenije in vam nudijo čudovitih razglede. Obiščite vsako posebej in skenirajte njeno QR kodo, da napolnite svoj album. Odkrijte vse lokacije. Klopce ljubezni vas čakajo!
+ 
+Vabimo vas, da si prenesete brezplačno aplikacijo Generali ZAME ter izkoristite ponujene ugodnosti in popuste, ki vam prinašajo pomembne prihranke in koristi za zdrav in ugoden način življenja.",2022-06-16T07:00:00Z,2025-09-09T18:53:12Z
+si,Slovenia,Health & Fitness,6013,15,1423628793,Clover - Period Tracker AI,Wachanga LTD,https://apps.apple.com/si/app/clover-period-tracker-ai/id1423628793?uo=4,0.0,4.75305,490,Health & Fitness,"Woman's calendar - a convenient period tracker for women. This is a top-rated menstrual tracker for women, and a period tracker for teenagers as well.
+ 
+For anyone who needs to make sure they are having a regular menstrual cycle, this is the perfect app to take out all the guess-work.
+
+- Menstrual cycle calendar, for teens or women trying to keep a regular cycle. 
+
+- Great period book to use as an irregular period tracker, a great period tracker for teenagers. For teens just getting used to pms, and a regular period cycle, you can use this period app to check period dates, amount of period blood, pms cycle, and know what days and how heavy your period should be.
+ 
+- Keep a period log – Always know when your next period should start, how long this cycle will last, check if you’re late, etc. A period calculator app means you can throw away those paper calendars, stop guessing and stop worrying.
+   
+With this amazing, easy-to-use all-in-one cycle tracker, calendar and calculator, everything is totally under control.
+
+* Supports transferring data to Health app.
+
+PREMIUM ACCOUNT IN THE APP
+- You can subscribe to a regularly updated set of skins, reports, and analysis
+- The subscription costs $4.99 per month, $9.99 per 3 months, and $19.99 per year
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2018-08-28T22:13:53Z,2025-11-17T16:03:06Z
+si,Slovenia,Health & Fitness,6013,16,1564694267,WalkPay: Walk & Earn Rewards,Rocketplan Technology Limited,https://apps.apple.com/si/app/walkpay-walk-earn-rewards/id1564694267?uo=4,0.0,1,1,Health & Fitness,"WalkPay: Walk & Earn Rewards
+
+Walk every step and earn real rewards — get motivated, stay active, and unlock exciting prizes.
+
+WalkPay is a smart pedometer and motivation tool that turns your daily steps into valuable rewards. Stay active, complete tasks, and collect energy to redeem gift cards and real-life prizes — all by simply walking.
+
+Key Features:
+Smart Step Counter
+Tracks your daily steps automatically, helping you stay fit and consistent.
+
+Reward System
+Complete simple walking tasks and daily activities to earn energy and unlock amazing gifts.
+
+Redeem Exciting Prizes
+Exchange your collected energy for gift cards and real-world rewards when goals are met.
+
+Goal Tracking
+Set your step goals and achieve them to stay motivated every day.
+
+Energy-Efficient Design
+Runs smoothly in the background with minimal battery usage.
+
+Basic Location Support
+Helps improve step accuracy and ensures safe account usage. Location sharing is always under your control.
+
+Tips for Better Use:
+Enable location services to improve step tracking accuracy.
+
+Allow “Always” location access for continuous background tracking.
+
+Our battery optimization ensures minimal power consumption during tracking.
+
+Privacy Protection
+Your privacy is important to us. Location and activity data are only used with your permission and never shared without your consent.
+
+Privacy Policy: http://resource.usdget.com/FP_FindNow_en/privacy.html
+
+Terms of Use:http://resource.usdget.com/FP_FindNow_en/service.html
+
+Email: FPFindNow@gmail.com",2021-06-11T07:00:00Z,2025-11-06T02:17:00Z
+si,Slovenia,Health & Fitness,6013,17,6746929680,CardiaLink-Heart rate&Health,"Hunan Anpai Information Technology Co., Ltd.",https://apps.apple.com/si/app/cardialink-heart-rate-health/id6746929680?uo=4,0.0,4.75,4,Health & Fitness,"CardiaLink – Heart Rate & Health
+Your Smart Companion for a Healthier Life
+
+Take control of your health like never before with CardiaLink — the all-in-one app designed to help you monitor, manage, and improve your well-being, right from your pocket.
+
+Why CardiaLink? Because your health deserves more than guesswork.
+
+-Real-Time Heart Rate Monitoring – Instantly check your heart rate and stay on top of your cardiovascular health anytime, anywhere.
+-Easy Blood Glucose Logging – Track your blood sugar levels daily and spot patterns that matter. Perfect for diabetes management or general health tracking.
+-Blood Pressure Insights – Record and review your blood pressure trends to better understand your body’s signals.
+-Smart BMI Tracking – Automatically calculate your Body Mass Index and follow your weight journey with clarity.- Insightful Health Trends – Get easy-to-read charts and reports that show how your health is evolving over time.
+
+-Tailored for You – Whether you're managing a chronic condition, aiming to lose weight, or just staying proactive, CardiaLink adapts to your goals.
+
+Join thousands of users choosing smarter health.
+Start your wellness journey with CardiaLink – because a healthier you starts today.
+
+Subscription:
+-Yearly: $39.99/year
+-Weekly: $9.99/week
+Payment will be charged to your iTunes account upon confirmation of purchase.
+
+Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. To cancel the subscription, please go to your Account Settings and turn off auto-renewal.
+
+Important Notes:
+The information provided in this app is for reference and personal health tracking purposes only. It is not intended to be used as a basis for medical diagnosis or treatment. If you experience any discomfort or health issues, please consult a qualified healthcare professional or visit a medical facility promptly.
+
+Privacy Policy:https://guardmasterfree.com/cardiaLink/privacy
+Terms of Service:https://guardmasterfree.com/cardiaLink/policy
+Subscription Terms:https://guardmasterfree.com/cardiaLink/subscription",2025-06-11T07:00:00Z,2025-10-22T07:40:54Z
+si,Slovenia,Health & Fitness,6013,18,6456176249,Bevel: All-In-One Health App,Starlight Tech LLC,https://apps.apple.com/si/app/bevel-all-in-one-health-app/id6456176249?uo=4,0.0,4.9,30,Health & Fitness,"Bevel is the #1 app for improving your health, performance, and longevity, trusted by thousands and backed by science.
+
+From sleep and recovery to stress and strength training, Bevel transforms your health data into personalized guidance you can actually use. Whether you're training for something big or just trying to feel better day to day, Bevel helps you move smarter, recover faster, and live longer without the guesswork.
+
+
+FEATURES
+Bevel Intelligence: Your smart health engine. Bevel Intelligence connects the dots across your data to give you instant feedback and personalized recommendations. It suggests when to train, when to rest, and what’s helping or hurting your progress so you can make better decisions with less effort.
+
+Recovery Score:
+Your daily readiness, simplified. Bevel helps you avoid overtraining, prevent injury, and build more sustainable habits by showing how prepared your body is to perform each day.
+
+Sleep Score:
+Track and understand your sleep with a single number. Bevel analyzes your sleep stages, duration, and interruptions to reveal how well you are actually resting each night. Bevel also features a smart alarm that wakes you at the optimal moment in your sleep cycle, so you start the day feeling refreshed.
+
+Strain Score:
+Measure how hard your body is working throughout the day. Your Strain Score is personalized based on your sleep and recovery, helping you train at the right intensity without burning out.
+
+Nutrition Score: Log meals via Barcode Scan, Image Search, Recipe Creation, Describe Meal, or by searching through our database of over 6 million foods. Set calorie, macro, and nutrient goals all in one place. Bevel also supports glucose tracking, allowing you to see how food affects your metabolism in real-time.
+
+Stress Score: See how stress shows up in your body. Bevel provides you with a real-time score, allowing you to understand your stress patterns during sleep, workouts, and daily life.
+
+Strength Builder: Train smarter with Bevel’s strength trainer. Choose from over 700 exercises, sync workouts between your watch and phone, and receive real-time feedback on muscular strain. You can even generate custom plans or log past workouts to keep your progress on track.
+
+Energy Bank: Think of it as your body’s battery. Bevel combines recovery, sleep, strain, and stress into a single metric to help you understand how your energy levels build and drain throughout the day.
+
+Biology: Your biology tells the story of how your body is adapting, performing, and recovering. Bevel helps you track key markers, such as VO2 max, HRV, and body composition, to monitor progress and stay in tune with your health over time.
+
+Journal: Track habits that impact your health. Use Journal to log hydration, sunlight, screen time, and more. Bevel shows you how small behaviors add up and affect your sleep and recovery.
+
+
+SUBSCRIPTION AND TERMS
+
+Bevel is available for free with the option to upgrade to Bevel Pro with an auto-renewing subscription. You may switch off auto-renew in your Apple ID Account Settings.
+
+Purchases of premium subscriptions will be charged using your Apple ID upon confirmation of purchase. Subscriptions renew on a monthly or yearly basis, unless canceled at least 24 hours before the end of the current period. If canceled, subscriptions remain valid until the end of the current period, and any unused portions are not valid for a refund.
+
+By completing your purchase, you affirm your understanding of the following:
+
+Terms of Service: https://docs.bevel.health/terms-of-service
+Privacy Policy: https://docs.bevel.health/privacy-policy
+
+Bevel is not a medical device and is not intended to diagnose, treat, cure, monitor, or prevent medical conditions or illnesses. Always consult your physician first. All information provided is for general informational purposes only.",2024-01-08T08:00:00Z,2025-11-20T16:19:39Z
+si,Slovenia,Health & Fitness,6013,19,896501514,Period & Cycle Tracker,ABISHKKING LIMITED.,https://apps.apple.com/si/app/period-cycle-tracker/id896501514?uo=4,0.0,4.96279,672,Health & Fitness,"** Top Rating Reproductive Health App ** 
+ 
+Check out the most widely-used period, ovulation & pregnancy tracker, which has been helping to improve the well-being of over 300,000,000 women across 45+ countries in the past decade. 
+ 
+We understand your concerns about your private data security, especially with the recent news.
+Here's how we protect your data:
+• You can use our app without creating an account.
+• You remain COMPLETELY ANONYMOUS while using our app.
+• You can DELETE ALL DATA in 1 click whenever you want.
+ 
+At every stage of your life, we safeguard your well-being. 
+ 
+PERIOD & CYCLE CALENDAR
+We'll remind you of the dates when your next period starts and ends on time. It's useful whether you have irregular or regular menses. Better? You'll receive tailored PMS advice and instant menstrual pain relief guidance.
+ 
+OVULATION & FERTILITY TRACKER
+We help you calculate your most fertile days and analyze your fertility window based on your unique cycle. You can get pregnant naturally ASAP by learning your CHANCE OF CONCEPTION every day.
+ 
+PREGNANCY MODE: WEEK-BY-WEEK 
+Follow your baby's weekly growth. Use our due date calculator to find out when your baby's BIG DAY will be and count down it.
+ 
+BIRTH CONTROL PLANNER
+Quickly record and stay on track with your contraceptive methods like pills, rings, patches, injections, IUDs, or implants. You can customize the reminder message for individual services.
+ 
+PILL REMINDER
+Set start date, interval, durations, and dose quantity for any medication, drugs, or supplements. So you won't forget to take pills when life gets busy.
+ 
+SYMPTOM PREDICTIONS & TIPS
+Record your symptoms during any life stage. Get predictions and courses to learn how to deal with them. Take breast self-exam monthly to find abnormalities early.
+ 
+>>Key Features:
+- Accurate prediction & reminders of menstruation & the most fertile days 
+- Track the cycle lengths, flow intensity, when you are ovulating, birth control methods, etc.
+- Log 58 symptoms, 67 moods, and energy levels to know your menstrual pattern
+- Track daily chance of getting pregnant with BBT, cervical mucus, ovulation & pregnancy test records
+- Baby's due date countdown
+- Baby's weekly growth tracker
+- Export a health report with charts for self-archive or doctors
+- Insights from fertility specialists
+- PIN code, Face ID, & Fingerprint lock to protect your private data
+- Daily health tracker: weight, hydration, sleep, mood, sex, steps, etc.
+- Breast self-exam guidance
+- Multiple accounts to track for different, for example, mother/daughter 
+- Unlimited app themes & pets
+- Available in 39 languages
+- Sync data with Apple Health
+- Backup and restore data between devices
+ 
+Note: Period Calendar should not be used to replace any form of contraceptive method.
+ 
+Subscription Terms and Details
+- Get unlimited access to all features for USD $49.99/year:
+	• Cycle predictions for each month
+	• Fertility analysis of each day
+	• Unlock all self-care content
+	• Kegel exercise for women
+	• Unlimited app themes and pets
+	• Remove ads forever
+- The payment will be charged to your iTunes account at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Subscription may be managed, and auto-renewal may be turned off by going to Account Settings after purchase.
+- The account will be charged for renewal within 24 hours prior to the end of the current period.
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+ 
+If you have any questions or concerns while using our app, please feel free to contact us via feedback in our app ( [Settings] -> [Bug Report&Feedback]) or write to us at abishkking.apple@gmail. 
+ 
+Privacy Policy: https://pc.abishkking.com/privacypolicy.html
+Terms of Use: https://pc.abishkking.com/terms.html",2014-09-30T23:41:17Z,2025-11-19T02:27:28Z
+si,Slovenia,Health & Fitness,6013,20,946099227,AI Calorie Tracker by Yazio,YAZIO GmbH,https://apps.apple.com/si/app/ai-calorie-tracker-by-yazio/id946099227?uo=4,0.0,4.80515,621,Health & Fitness,"Welcome to Yazio, the most effective calorie counter, food tracker and intermittent fasting app for losing weight without dieting!
+• Rated 4.6 stars based on 300,000+ reviews
+• Trusted by 100M+ people
+• App of the Day in the App Store
+Track calories, eat better and reach your goals with Yazio’s free calorie counter app.
+Whether you're working towards a calorie deficit, want to track your meals or just need a smart food tracker, Yazio is your all-in-one solution. Designed to support sustainable weight loss, muscle gain or weight maintenance, Yazio offers a science-backed approach to calorie counting that delivers long-term success without extreme diets.
+• Easy-to-use calorie counter and food tracker
+• Calorie deficit tracker to reach your weight goals
+• Huge database with 95% of all food items
+• Smart calorie tracker with barcode scanner
+• Meal planning, food tracker and personalised recipes
+• Integrated step and activity tracking
+• Water tracker with reminders
+• Instant access with no sign-up required
+• Nutrition tools for men and women
+• Regular updates with new calorie counter and calorie tracker features
+• Support for healthy muscle building and weight gain
+• Focus on long-term results, not yo-yo dieting
+Yazio supports your progress with 3 powerful tools:
+Calorie counter
+• Free and intuitive calorie tracker
+• Food diary with customisable calorie counter goals
+• Tracking for calories, macros and nutritional values
+• Food database with over 4 million searchable items
+• Barcode scanner for easy calorie tracking
+• Food ratings to support healthier choices
+• Custom meals and meal planning tools linked to your calorie tracker
+• Smart, simple calorie counting
+• Integrated tracking for steps, workouts and symptoms
+• Water tracker with reminders
+• Visual calorie counter analysis and calorie tracker history
+• Tips and tricks for efficient calorie tracking
+Healthy habits & intermittent fasting
+• Optional fasting tracker for various calorie tracker plans
+• Regular meal timing and eating reminders
+• Flexible plans, including 16:8 and 5:2
+• Helpful guidance on ketosis, autophagy and energy use
+• Seamless integration with your calorie counter, calorie tracker and food tracker
+• Detailed nutrition insights based on calorie tracker and food tracker data
+Recipes & meal planning
+• 2,900+ delicious, goal-friendly recipes
+• Weekly updates with new healthy meal ideas
+• Filters for low-carb, vegetarian and vegan options
+• Wide variety of meals including pizza, salads, desserts and more
+• Smart grocery list for quick, easy shopping
+• Step-by-step cooking mode for stress-free meal prep
+Want faster results? Go Pro.
+Try Yazio Pro to get advanced features that accelerate your progress.
+• Unlock advanced calorie tracker tools
+• See faster results with your custom food tracker plan
+• Access in-depth food and calorie analysis
+• Use advanced calorie deficit tracker and calorie counter tools
+• Get custom meal plans tailored to your goals
+• Sync with Fitbit, Garmin and more
+• Track your mood, symptoms and body metrics over time
+• Review progress with long-term trend insights
+• Enjoy an ad-free experience for better focus
+• Get the ultimate calorie counter experience
+• Help support the Yazio team
+Upgrade to Pro in the Yazio Calorie Counter App to unlock advanced features and insights. Pro is available as a subscription via in-app purchase and offers better value than other apps with calorie counters, calorie trackers, food trackers or intermittent fasting features.
+• App help: http://help.yazio.com
+• About our team: https://www.yazio.com/en/about-us
+Unlock the ultimate food tracker, calorie counter and healthy eating experience with Yazio!
+Help us make the Yazio Calorie Counter App even better as your go-to calorie counter, food tracker and weight loss tool. Have ideas or suggestions? We'd love to hear from you!",2015-02-04T00:19:51Z,2025-11-17T07:22:12Z
+si,Slovenia,Health & Fitness,6013,21,1458862350,Hevy - Gym Tracker Workout Log,Hevy Studios S.L.,https://apps.apple.com/si/app/hevy-gym-tracker-workout-log/id1458862350?uo=4,0.0,4.95495,222,Health & Fitness,"** Featured by Apple ** Join +9 million users!
+Hevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!
+
+WHAT USERS ARE SAYING
+•  ""Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos"" - Sam Ilelaboye
+•  ""Seeing what my friends and other athletes are working out at the gym has totally changed my experience. Now I can copy my friend's workouts and compare myself. It's super motivating"" - Jaume
+•  ""Tracking my workouts with Hevy has taken my training to the next level, I'm getting stronger every week. Being able to plan my routines really helps me being efficient at the gym."" - Carlos D.
+
+FEATURES
+•  Track your lifts with an intuitive, simple to use interface.
+•  Use the calendar to stay on top of your training schedule
+•  Hundreds of exercises with free high-quality videos for you to focus on your form
+•  Follow your friend's progress by following their lifts and copying their routines
+•  Create your own custom exercises for your workouts
+•  Set up your profile as a private profile or a public one
+•  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets
+•  Customize automatic rest timers for each exercise
+•  Analyze your workout sessions in detail with muscle group graphs
+•  Calculation of One Rep Max for all strength exercises
+•  Create an unlimited amount of routines
+•  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight & total reps
+•  Copy your friends' workouts
+•  Dark Mode
+•  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.
+
+APPLE WATCH
+•  Sync your Hevy routines to your Apple Watch
+•  Easily track your weight lifting sets
+•  Keep track of your heart rate during your workout
+•  Helpful timers for duration exercises
+•  Mark sets as Warmup, Normal, Drop sets, or Failure
+•  Watch workouts automatically save when reconnecting to iPhone
+
+DETAILS
+
+•  https://www.hevyapp.com
+•  https://www.instagram.com/hevyapp
+•  https://www.facebook.com/hevyapp
+•  https://www.twitter.com/hevyapp
+•  hello@hevyapp.com
+
+HEVY PRO
+•  Create unlimited routines
+•  Get unlimited access to graph history
+•  Create unlimited custom exercises
+
+The Hevy Pro subscription automatically renews if you do not cancel it at least 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription’s expiration. You can manage your subscription and disable automatic renewal at any time by adjusting your Apple account settings. You have the right to withdraw from your initial subscription within 14 days of starting it. By purchasing, you accept our Terms of Use and Privacy Policy.
+
+Terms & Conditions
+https://www.hevyapp.com/app-terms-conditions/
+
+Download Hevy and take your training to the next level!",2019-07-01T04:30:20Z,2025-11-20T21:21:08Z
+si,Slovenia,Health & Fitness,6013,22,287529757,Calorie Counter - MyNetDiary,MyNetDiary Inc.,https://apps.apple.com/si/app/calorie-counter-mynetdiary/id287529757?uo=4,0.0,4.88049,159,Health & Fitness,"Track calories, food, and macros with ease! MyNetDiary has a free barcode scanner, personal diet plans, and AI Meal Scan for instant logging — all in a smart, simple-to-use app. 
+
+MyNetDiary has the largest verified UK food database and UK food labels for accurate and reliable tracking.
+
+USERS SAY…
+
+The best
+Love this app! The best out of many food tracking apps that I have tried over the years. Love that it is free! The breakdown of the meal and daily nutrition is very informative. Try it you will love it!
+
+LOVE LOVE LOVE THIS APP
+Best app for tracking food, exercise! Consistently losing weight! I love how it shows you if you're on target for your goal. Great layout, great look, easy to use!!! I highly recommend this app if you're looking to be a healthier you!!!
+
+Fast, intuitive, user friendly
+I have tried other calorie tracking programs over the years and this app is by far the best I've come across. I highly recommend it. The free version is very good and I am now enjoying the extra functions through a paid subscription.
+
+RECOGNIZED EXCELLENCE
+• Ranked #1 in Forbes Health’s Best Weight Loss Apps of 2025.
+• Rated #1 by the American Journal of Preventive Medicine.
+• Praised by The New York Times as “simpler, quicker, and better-looking” than other apps.
+• Featured in Today’s Dietitian, alongside WW and Noom.
+
+DIFFERENT FROM OTHER DIET APPS
+• Simple & Generous Features: Packed with free tools, no ads.
+• Lightning-Fast Logging: Barcode scanner and AI Meal Scan make tracking effortless.
+• Verified Food Database: Over 1.7 million items with 108 nutrients for accuracy.
+• Privacy Focused: No account required.
+
+MyNetDiary puts you in control. You can pick a diet or a meal plan, follow our registered dietitians' easy tips, and follow the app's guidance. Or, you can turn them off and simply use MyNetDiary as the best free calorie-counting app in the world.
+
+PROVEN SUCCESS
+• Active members lose an average of 1.4 lbs/week
+• Over 25 million users have chosen MyNetDiary, many switched from other diet apps
+
+A few of the free version features:
+• Easy food, exercise, and water tracking.
+• Daily coaching tips and meal reminders.
+• Customizable dashboard for your goals.
+• iOS Health integration and Apple Watch support.
+• Shopping lists, nutrition articles, and how-to videos.
+
+If you need more support, MyNetDiary Premium provides all the guidance and features you may need. At your fingertips, you'll find:
+
+• Premium Diets, 600+ full-flavored Premium Recipes and Menus by RDs, including low-carb, keto, high-protein, Mediterranean, vegetarian, and more - with diet planners, guides, and feedback.
+• Intermittent fasting - full-featured, with fasting timer and different protocols.
+• Macros planning and cycling.
+• Planning and tracking up to 108 nutrients, including omegas and aminos.
+• Recipe import tool - easily load internet recipes and calculate complete nutrition.
+• Integrations with top fitness trackers - Fitbit, Garmin, and Withings.
+• In-depth reporting and analysis tools to improve your diet.
+
+Subscription Terms:
+The subscription period will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current subscription period. To turn this function off, turn off auto-renew in your iTunes account. Renewal payments will differ depending on subscription and pricing at the time of renewal. Your iTunes account will be charged when the purchase is confirmed.
+
+Privacy Policy: www.mynetdiary.com/privacy.html
+Terms of Use: www.mynetdiary.com/terms.html",2019-02-03T08:00:00Z,2025-11-17T13:18:30Z
+si,Slovenia,Health & Fitness,6013,23,6443740936,Lyfta: Gym Tracker & Planner,Lindberg Development AS,https://apps.apple.com/si/app/lyfta-gym-tracker-planner/id6443740936?uo=4,0.0,4.79412,34,Health & Fitness,"Join over 3 million gym and fitness enthusiasts and lift more with Lyfta – the free workout tracker, gym log, and strength training planner.
+
+Log your workouts, build routines, and track progress so you can focus on what matters most: getting stronger.
+
+What Our Users Are Saying:
+
+• ""I've tried probably 10 different gym apps over the years, and none of them clicked for me until Lyfta. It's crazy how much is available for free, from the unlimited custom free routines to their massive exercise library. It just has everything you need to actually stick with it."" – Ryan
+
+• ""I love how simple it is to plan my workouts in Lyfta. I used to feel lost at the gym, but the guided exercises keep me on track. And seeing my progress with the stats has me getting stronger every single week. It's so motivating!"" – Kady
+
+• ""Lyfta has made a huge difference in my consistency. I've never been able to stick with a routine until now. Seeing my friends' workouts and jumping into the community challenges gets me excited to come back, and I've honestly made some serious gains since I started."" – Rojaas
+
+Why choose Lyfta?
+• Free, simple, and ad-free workout tracker
+• Create and customize weightlifting programs & gym routines
+• Track progress in strength, volume, sets, reps, and PRs
+• Stay motivated with friends, challenges, and milestones
+
+Powerful Gym Workout Tracking
+• Log sets, reps, weight, RPE, and notes in seconds
+• 5,000+ exercises with HD video guides for perfect form
+• Build unlimited custom programs or follow proven ones like StrongLifts 5x5, nSuns, GZCL, Push/Pull/Legs, Rp Hypertrophy, German Volume Training, and more. Note: Lyfta is not affiliated with, endorsed by, or sponsored by any of these gym programs.
+• Add your own custom lifts with muscle groups & equipment
+• Track advanced sets: warm-ups, drop sets, supersets, AMRAP, and failure sets
+• Auto rest timers keep your sessions efficient
+• Built-in One-Rep Max calculator for all major lifts
+
+Stay Motivated & Connected
+• Share workouts, routines, and progress with friends
+• Follow your training partners and cheer them on
+• Monthly strength challenges and global leaderboards
+• Streaks and milestones to celebrate every achievement
+• Privacy controls: choose public or private profile
+
+Integrations & Compatibility
+• Apple Watch support for live workout tracking
+• Quick widgets and shortcuts for faster logging
+• Sync with Apple Health and Strava,
+• Seamless data sync across all devices
+
+If you like Lyfta, try Lyfta Pro free for 14 days! Unlock advanced analytics, expert programs, and progression tools to hit new personal bests.
+
+If you choose to purchase Lyfta Pro, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Whether you’re starting your first strength program, building muscle, or chasing new personal records – you belong here. Download Lyfta today, log your training, and reach your goals faster.
+
+Privacy Policy: https://www.lyfta.app/privacy
+Terms of Service: https://www.lyfta.app/terms",2022-10-10T07:00:00Z,2025-11-15T20:21:52Z
+si,Slovenia,Health & Fitness,6013,24,6642652233,BMI Calculator - HealthTracker,Trinh Mai Luong,https://apps.apple.com/si/app/bmi-calculator-healthtracker/id6642652233?uo=4,0.0,0,0,Health & Fitness,"Useful BMI Calculator: Health Tracker - check your ideal weight exactly
+Looking for a user-friendly app to track your weight and Body Mass Index (BMI)? Our BMI Calculator app is quick and convenient to use, motivate you to take steps to improve your health effectively.
+
+Why choose BMI Calculator: Health Tracker App?
+
+1. BMI score
+2. BMI history
+3. Healthy weight range
+4. Input height and weight easily
+5. Weight Tracker
+6. For everyone! Adults, teens and children
+
+3+ Key features of BMI Calculator: Health Tracker
+
+* Smart BMI Calculator
+
+Whether you're an adult, adolescent or even a child, our calculator provides accurate BMI results. BMI Calculator app quickly calculate your BMI by entering your height and weight. So you can understand whether you're underweight, normal, overweight or obese.
+
+* Track Your Weight History
+
+BMI Calculator: Health Tracker will record your weight daily to track weight gain/loss easily. Analyze your diary and adjust your weight plan more effectively.
+
+* Detailed body data chart
+
+The BMI weight history graph feature allows you to see your weight fluctuations over time. Choose any weekly, monthly or yearly chart to get an overview and adjust your weight accordingly.
+
+Download BMI Calculator: Health Tracker to have a better and healthier body!",2024-08-19T07:00:00Z,2025-11-21T02:30:47Z
+si,Slovenia,Health & Fitness,6013,25,976506047,Technogym - training & gym app,Technogym S.p.A,https://apps.apple.com/si/app/technogym-training-gym-app/id976506047?uo=4,0.0,4.88889,18,Health & Fitness,"Get the fitness, sports, and health results you want with the Technogym app and Technogym Coach.
+
+Whether you train at the gym, at home, or on the go, enjoy access to an on-demand library of 1,000+ workouts, personalized workout programs, classes, the Wellness Magazine, individual and community challenges, and more to stay on track with your goals and boost your performance. 
+
+
+GET A PERSONALIZED PRECISION PROGRAM 
+
+The AI-powered Technogym Coach gives you guidance and encouragement, whether you want to start working out, get stronger, tone up, play your favorite sport better, improve your athletic performance, or simply live a longer and healthier life. 
+
+Just tell Technogym Coach what your goals are, how much time you want to work out, and what equipment you have on hand, and you’ll get a personalized Precision Program you can adjust any time based on your location, equipment, needs, and progress.
+
+
+ACCESS 1000+ ON-DEMAND WORKOUTS
+
+A huge on-demand workout library – including HIIT, yoga, Pilates, strength training, mindfulness and stretching, and more – is just a swipe away with new workouts added each week.
+
+Browse workouts for any goal, muscle group, and level, whether you want self-guided exercises, to work out on equipment with instructor-led classes, do bodyweight workouts at home, or train outdoors. 
+
+
+CREATE YOUR OWN WORKOUTS 
+
+Decide your own training journey with the workout builder feature, whether your focus is on weightlifting, cardio, or bodyweight exercises. Create, save, and edit your own workouts for specific days, training needs, and goals, and track your progress over time. 
+
+
+GET WELLNESS TIPS & NEWS
+
+Stay up to date on the latest news and tips in the world of training, lifestyle, nutrition, and mindfulness with the Wellness Magazine.
+
+
+TEST YOURSELF WITH CHALLENGES
+
+A bit of healthy competition is a great way to test your limits and stay motivated. Join our challenges across a wide range of activities and sports and collect badges to show off.
+
+
+MONITOR YOUR PROGRESS
+
+The Technogym app is compatible with major third-party tracking devices and apps and heart rate monitors as well as Apple Health and Apple Watch so you can track your activities, health numbers and stats, and know where you are in your training journey. 
+
+You can also monitor your health information in your personal Wellness Passport area of the app; collect MOVEs (units that measure how active you are); and check your MOVERGY level (your two-week MOVEs average).
+
+Read our Terms of Use at https://cdnmedia.mywellness.com/privacy/v2/en/conditions.html and our Privacy Policy at https://cdnmedia.mywellness.com/privacy/v2/en/privacy.html",2015-04-30T12:20:08Z,2025-11-10T14:13:19Z

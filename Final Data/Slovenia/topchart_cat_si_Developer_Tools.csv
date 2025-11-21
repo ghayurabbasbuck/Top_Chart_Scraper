@@ -1,0 +1,472 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+si,Slovenia,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/si/app/testflight/id899247664?uo=4,0.0,4.81303,1888,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+si,Slovenia,Developer Tools,6026,2,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/si/app/o-kam-pro/id1602054864?uo=4,0.0,4.41667,48,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+si,Slovenia,Developer Tools,6026,3,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/si/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,4.83333,6,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-18T23:02:56Z
+si,Slovenia,Developer Tools,6026,4,1477376905,GitHub,GitHub,https://apps.apple.com/si/app/github/id1477376905?uo=4,0.0,4.875,112,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+si,Slovenia,Developer Tools,6026,5,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/si/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.2,5,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+si,Slovenia,Developer Tools,6026,6,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/si/app/bluetooth-terminal/id1058693037?uo=4,0.0,0,0,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+si,Slovenia,Developer Tools,6026,7,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/si/app/expo-go/id982107779?uo=4,0.0,4.625,16,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+si,Slovenia,Developer Tools,6026,8,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/si/app/app-store-connect/id1234793120?uo=4,0.0,4.67391,92,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+si,Slovenia,Developer Tools,6026,9,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/si/app/apple-developer/id640199958?uo=4,0.0,4.5,8,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+si,Slovenia,Developer Tools,6026,10,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/si/app/rork/id6746410361?uo=4,0.0,5,5,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+si,Slovenia,Developer Tools,6026,11,1406175528,MySQL Mobile Client,Filippo Maguolo,https://apps.apple.com/si/app/mysql-mobile-client/id1406175528?uo=4,0.0,5,1,Developer Tools,"DB Compass for MySQL allows you to access your MySQL database directly without any server setup. You can manage your data with a very clean and simple iOS user interface. 
+
+FEATURES:
+• Connection over TLS encryption and SSH tunnel
+• SSH authentication support Secure Enclave Key and U2F/FIDO NFC Key 
+• Assisted table creation and alter structure
+• Explore, filter, sort, and quick search table data
+• Query script with A.I. assisted composition and plan analysis
+• Database objects (tables, views, procedures, etc.)
+• Database statistics, sessions manager, server status graphs
+• ER Diagram Viewer
+• Advanced data grid for browse, edit, conditional formatting
+• Blob field preview, import and export
+• Job Activity Monitor
+• User list and Privileges
+• Import and Export in multiple formats
+• iCloud Sync for SQL and JS scripts
+• SQL plan analysis
+• Execute queries with Shortcuts App
+• User Charts
+• Widgets for User Charts
+
+OpenAI integration requires your key and is only available in allowed regions.
+Ollama integration requires your server to connect to.
+
+Tested on MySQL 5.7, 8 and 9.
+
+-- This is a Premium app and some features may require an in-app lifetime unlock -- 
+
+For feedback or suggestions contact info@dbcompass.net",2018-08-05T16:18:19Z,2025-10-06T23:06:33Z
+si,Slovenia,Developer Tools,6026,12,908054939,"html+css+js-web designer,html5",小文 黄,https://apps.apple.com/si/app/html-css-js-web-designer-html5/id908054939?uo=4,0.0,5,1,Developer Tools,"This is a learning tool for efficient HTML, CSS, and JS learning, fast programming, local execution, Git retrieval, iCloud storage, efficient transfer and sharing via LAN HTTP/FTP multi-point connections.
+(^.^) It aspires to help you who want to learn, develop, and improve! !!!(^.^)
+
+(^.^) Read a variety of learning materials at your leisure and run examples while learning, making it easy to understand and efficient.
+(^.^) Use code templates, autocomplate, auto-indentation, code coloring, symbol completion, a symbol keyboard, text search, multi-file search, multi-line indentation, and multi-line comments to make development more convenient.
+
+(^.^) Access iCloud easily and synchronize across multiple devices for efficient collaboration.
+(^.^) Retrieve source code projects from GitHub with Git.
+(^.^) Efficiently transfer files via LAN or Bluetooth connections via HTTP/FTP multi-point connections.
+
+(^.^) Find learning materials easily through the built-in browser. Simply select code in the built-in browser to run it.
+(^.^) Open file formats like txt, pdf, chm, mp3, m4v, zip, gif, png, html, py, doc, etc. easily through the file system.
+
+(^.^) Adjust code color, font size, and line spacing for a more comfortable reading experience.
+(^.^) Customize background images and colors, text color and shadow, text font, text size, background animation, interface transition animation, the number and order of tabs on the main interface to create your own personalized learning software.
+(^.^) Generate QR codes for HTML, CSS, and JS scripts and learning materials, and scan them to access them.
+(^.^) Share HTML, CSS, and JS scripts and learning materials via email, Weibo, Twitter, and Facebook.
+
+Code templates - The contents of a new file will copy the contents of the code template.",2014-09-24T03:02:40Z,2025-09-09T16:33:01Z
+si,Slovenia,Developer Tools,6026,13,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/si/app/python-editor-app/id1672453872?uo=4,0.0,3.83333,6,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+si,Slovenia,Developer Tools,6026,14,1580431405,HTML Editor,Intrepid Corporation LTD,https://apps.apple.com/si/app/html-editor/id1580431405?uo=4,0.0,5,5,Developer Tools,"HTML Editor is a lightweight HTML editor complete with syntax highlighting, focused code completion suggestions and a live preview panel.
+
+With HTML Editor, you can open any existing HTML document on your device or in your iCloud storage. Simply drop your existing HTML document onto our app icon to open that document within HTML Editor.
+
+Quickly insert tag elements via the menu, or comment out code dynamically with IntelliSense highlighted detection system.
+
+You can efficiently export your HTML document and share it with your teammates.
+
+HTML Editor comes with full iCloud and local support. HTML Editor is also available on iOS.
+
+We're always working on improving our apps and would love any feedback or suggestions that you may have.
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/57995653
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2021-08-10T07:00:00Z,2024-09-08T22:14:43Z
+si,Slovenia,Developer Tools,6026,15,6444286049,JavaScript Coding Editor & IDE,Cloudbit d.o.o.,https://apps.apple.com/si/app/javascript-coding-editor-ide/id6444286049?uo=4,0.0,0,0,Developer Tools,"A fully functioning offline node.js runtime on your mobile device.
+
+It lets you run JavaScript and TypeScript code and scripts offline on your phone, without any internet connection or server setup. 
+
+You can use it as a compiler, a console, an engine, a runtime, WebView, or an IDE. 
+
+Whether you are a professional developer, a student, or a hobbyist, JavaScript CodePad will help you practice and improve your coding skills anytime, anywhere.
+
+Built in tsc compiler transpiles your TypeScript code to JavaScript offline.
+
+Use the WebView mode to access the built-in Web Browser Window and DOM interface. Combine HTML, CSS, and JavaScript and learn building Web apps. 
+
+Organise your code into modules and run multiple JS files using Node.js as a runtime (Internet connection required).
+
+You can run, execute, and evaluate JS code and programs from this app.
+Lightweight app with full JavaScript syntax highlighting, code completion and editor actions like undo, redo, comment lines, and indent selection to enhance your developer productivity.
+
+Enhanced productivity with live JS and TS code analysis as you type. Catch errors before you run the code.
+
+Built-in AI Assistant, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can also refactor your code, clean it up, check it for bugs, write comments and documentation strings or just explain it.
+
+Blazing fast, all single script and Web View code is ran directly on the embedded node.js runtime or built in Web browser.
+
+Enhance your programming and JavaScript skills by solving built-in coding problems.
+Learn JavaScript with the MDN tutorial. Become a JavaScript coding master.
+Learn TypeScript with the official TypeScript handbook.
+
+Test your JavaScript and TypeScript knowledge, the app will tell you if you are writing valid JavaScript.
+
+With JavaScript CodePad, you can:
+
+- Write and execute JavaScript code with syntax highlighting and auto-indentation.
+- Run and compile TypeScript code and scripts
+- Test and debug your code with the built-in console and error messages.
+- Share and load your code snippets for later use
+- Customised keyboard with special keys and shortcuts for JavaScript and TypeScript
+- Code completion
+- Code formatting
+- Code linting
+- Solve built-in coding challenges
+- Access JavaScript and TypeScript tutorial and library reference from the app
+- Learn new concepts and techniques
+- Write HTML, CSS and JS code and run it in a built-in WebView
+- Run multiple JS files 
+
+Download it today and unleash your creativity with the most popular programming language in the world.
+
+Note that certain features like Code completion, WebView mode and project mode require paid Developer upgrade.",2022-11-09T08:00:00Z,2025-10-07T10:04:25Z
+si,Slovenia,Developer Tools,6026,16,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/si/app/a-shell-mini/id1543537943?uo=4,0.0,0,0,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+si,Slovenia,Developer Tools,6026,17,6737447574,XML Viewer & XML Editor,Utsav Mangla,https://apps.apple.com/si/app/xml-viewer-xml-editor/id6737447574?uo=4,0.0,0,0,Developer Tools,"XML Viewer - Open .XML Files on iPhone
+
+Looking for an easy way to open XML files on your iPhone? This XML Viewer app makes it simple to open and read .XML files with a clean, structured display and rich feature set.
+
+Features:
+► Open .XML Files on iOS – Seamlessly open XML files stored locally or in iCloud.
+► PDF View: Convert e-tax forms & invoices from XML to PDF format
+► Table View – Read XML files with attributes and child nodes displayed in an intuitive table format (requires upgrade).
+► Syntax Highlighting – View XML files like a pro with syntax highlighting, making it easy to identify tags, attributes, and values.
+► Breadcrumb – Easily navigate through complex XML structures with breadcrumbs, ensuring a smooth browsing experience for larger files.
+► Dark Mode – Protect your eyes with dark and light theme options, perfect for any lighting condition(requires upgrade).
+► Ad-Free Experience – Enjoy a distraction-free environment with no ads for enhanced productivity.
+
+Check out our privacy policy at https://sites.google.com/view/xml-viewer-editor-app/privacy-policy and our terms of use at https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+
+Download XML app now and get confident with XML on iOS!",2024-10-30T07:00:00Z,2025-11-19T13:59:54Z
+si,Slovenia,Developer Tools,6026,18,1668965682,PHP editor - instant output,Merbin Joe,https://apps.apple.com/si/app/php-editor-instant-output/id1668965682?uo=4,0.0,0,0,Developer Tools,"The best PHP editor app to edit your existing code and get its instant output of the given code. This application's main specialty is this it 100% works in an offline editor, so it can be called in PHP offline editor too.
+
+Most of the PHP command/syntax is supported and gives instant output.",2023-02-07T08:00:00Z,2024-01-30T16:07:59Z
+si,Slovenia,Developer Tools,6026,19,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/si/app/koder-code-editor/id1447489375?uo=4,0.0,4.8,10,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+si,Slovenia,Developer Tools,6026,20,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/si/app/scriptable/id1405459188?uo=4,0.0,4.81818,11,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+si,Slovenia,Developer Tools,6026,21,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/si/app/ish-shell/id1436902243?uo=4,0.0,5,9,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+si,Slovenia,Developer Tools,6026,22,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/si/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+si,Slovenia,Developer Tools,6026,23,6446215341,Cookie-Editor,Christophe Gagnier,https://apps.apple.com/si/app/cookie-editor/id6446215341?uo=4,0.0,0,0,Developer Tools,"Cookie-Editor is designed to have a simple to use interface that let you do most standard cookie operations. It is ideal for developing and testing web pages or even manual management of cookies for your privacy.
+
+Be careful! Do not share your cookies with anyone you do not trust! Cookies can contain very sensitive information like your login information. If you share your cookies with someone, they could gain full access to your account and compromise it.
+
+Feature list:
+- List all cookies for the current tab.
+- Search your cookies.
+- Create, edit and delete your cookies.
+- Import and export your cookies in many formats (JSON, Netscape, Header string)
+- Quickly delete all cookies for the current tab.
+- Customizable: chose what extra data to see, what theme to use (light or dark), the amount of detail to see (advanced mode).
+
+Cookie-Editor can help you:
+- Develop web pages.
+- Improve your SEO work.
+- Manage your cookies for privacy.
+- Improve your browsing experience.
+
+Cookie-Editor believes in privacy. Your Cookies are safe and all of your data remains offline.
+
+For all feature requests or bug report, please visit the GitHub repository and fill an issue https://github.com/Moustachauve/cookie-editor",2023-03-13T07:00:00Z,2024-02-25T18:59:04Z
+si,Slovenia,Developer Tools,6026,24,1663675754,GDevelop - Create & Play Games,GDEVELOP FRANCE,https://apps.apple.com/si/app/gdevelop-create-play-games/id1663675754?uo=4,0.0,5,4,Developer Tools,"Play a growing world of quirky, joyful indie games.
+Discover, play and support games made by independent creators from around the world... and create your own!
+
+Play and help shape the next indie gem:
+- Unlimited indie games instantly in-app, no install needed
+- Sharing feedback with creators
+- Explore new games every week, from around the world
+
+Every game in the app was built with GDevelop: the no-code and AI powered, open-source game engine used by thousands of creators, artists, and independent developers.
+Start exploring. Play something small. Or weird. Or wonderful.
+
+Create your own games. Or play any game you're dreaming of!
+
+It's fast, easy, and no technical knowledge is required to get started.
+Try it, or get a GDevelop subscription to unlock every feature!
+
+- Explore dozens of game templates or start from scratch.
+- Use AI to help you build your game step by step.
+- Use your own characters, or choose from a library of pre-made objects such as characters, animations, sounds, and music.
+- Quickly add pre-made logic to your game objects with GDevelop's Behaviors.
+- Write game logic with GDevelop's innovative event system based on ""if / then"" actions and conditions.
+- Publish your game in a few seconds and share it with your friends, colleagues, or customers.
+- Allow players to submit their scores with ready-to-use leaderboards or make online multiplayer games.
+
+Dozens of thousands of games are made every month with GDevelop.
+Unleash your creativity, and create all kinds of games: platformers, shoot’em up, strategy, 8-bit, or hyper-casual games... the sky is the limit.
+
+GDevelop is a powerful game engine that will transform you into a game designer:
+- Add explosions and effects with particles.
+- Use visual effects (""shaders"").
+- Pathfinding and advanced movements (bounce, elliptic movement, screen wrap, projectiles...).
+- Advanced rendering engine that can handle pixel-art games, modern 2D games, 2.5D isometric games and 3D games.
+- Text objects for scores, dialogues, with optional typewriter effects.
+- Transitions and smooth movement for objects.
+- Leaderboards and Real-time Multiplayer.
+- Platformer engine.
+- Realistic 2D and 3D physics engine.
+- Sound effects and music handling.
+- Ready-to-use objects for your game interface: text input, buttons, joysticks, progress bars...
+- Complete documentation available for each feature.
+- Dozens of extensions that give new behaviors, new actions, and new conditions: checkpoints, object shaking, 3D flip effects...
+
+GDevelop makes game development easy, even for those with no prior experience.
+Download the app and join a community of 400k+ monthly creators: gamers, hobbyists, teachers, and professionals.
+GDevelop's unique design makes game creation fast and fun!
+
+Our Terms & Conditions: https://gdevelop.io/page/terms-and-conditions
+Our Privacy Policy: https://gdevelop.io/page/privacy-policy",2023-04-10T07:00:00Z,2025-11-05T20:33:21Z
+si,Slovenia,Developer Tools,6026,25,6745097949,v0,"Vercel, Inc",https://apps.apple.com/si/app/v0/id6745097949?uo=4,0.0,5,1,Developer Tools,"This is your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",2025-10-23T07:00:00Z,2025-11-18T16:33:04Z

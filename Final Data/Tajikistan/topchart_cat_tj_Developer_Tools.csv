@@ -1,0 +1,475 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+tj,Tajikistan,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/tj/app/testflight/id899247664?uo=4,0.0,4.83922,311,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+tj,Tajikistan,Developer Tools,6026,2,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/tj/app/scriptable/id1405459188?uo=4,0.0,4.91667,12,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+tj,Tajikistan,Developer Tools,6026,3,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/tj/app/app-store-connect/id1234793120?uo=4,0.0,4.94444,18,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+tj,Tajikistan,Developer Tools,6026,4,1436650069,Pyto IDE,Develobile S.p.A.,https://apps.apple.com/tj/app/pyto-ide/id1436650069?uo=4,0.0,0,0,Developer Tools,"Pyto is an IDE for iPhone and iPad with a Python 3.10 Interpreter and all of the standard libraries plus more than 100 third party packages, as well as a C & C++ compiler and bitcode interpreter. Includes a terminal with standard UNIX commands, a code editor with code completion, support for Shortcuts, Picture in Picture, a graphical interface builder and a debugger.
+
+* Full version exclusive third party modules *
+
+- Cython, cryptography, typed_ast, cv2, _cffi_backend, kiwisolver, matplotlib, numpy, pandas, lxml, Bio, sklearn, skimage, scipy, erfa, pywt, nacl, bcrypt, statsmodels, zmq, regex, gensim, astropy, emd, wasm3, yaml
+
+* Built-in UNIX commands *
+
+- alias, awk, cat, chflags, chmod, cksum, clang, compress, cp, curl, date, diff, dig, du, egrep, env, fgrep, find, grep, gunzip, gzip, head, host, ifconfig, link, lli, llvm-link, ln, ls, md5, mkdir, mv, nc, nslookup, open, openurl, pbcopy, pbpaste, ping, printenv, pwd, readlink, rlogin, rm, rmdir, say, scp, sed, sftp, sort, ssh, ssh-keygen, stat, sum, tail, tar, tee, telnet, touch, tr, unalias, uname, uncompress, uniq, unlink, uptime, wc, whoami, whois, wol
+
+Take advantage system features with the following modules:
+
+  - pyto_ui - Build an user interface
+  - widgets - Home Screen Widgets
+  - file_system - iOS file system
+  - notifications - Schedule notifications
+  - remote_notifications - Receive remote notifications
+  - background - Run code in background
+  - pasteboard - Clipboard access
+  - userkeys - Save values on disk
+  - sound - Play sounds
+  - music - Access the Apple Music library
+  - photos - Accessing photos and the camera
+  - location - Access user's location
+  - motion - Motion sensors
+  - multipeer - Peer to peer wireless connection
+  - apps - Open third party apps
+  - xcallback - Interact with other apps
+  - sf_symbols - A list of SF Symbols names
+  - watch - Complications and static user interfaces for the Apple Watch",2018-09-24T03:14:38Z,2024-06-09T14:11:52Z
+tj,Tajikistan,Developer Tools,6026,5,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/tj/app/o-kam-pro/id1602054864?uo=4,0.0,5,1,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+tj,Tajikistan,Developer Tools,6026,6,6450932949,ProxyPin - Open Source Capture,"Minimalist Network Co., Ltd.",https://apps.apple.com/tj/app/proxypin-open-source-capture/id6450932949?uo=4,0.0,0,0,Developer Tools,"Features
+Mobile scan code connection: no need to manually configure WiFi proxy, including configuration synchronization. All terminals can scan codes to connect and forward traffic to each other.
+Proxy Domain name filtering: Only intercept the traffic you need, and do not intercept other traffic to avoid interference with other applications.
+Script: Support writing JavaScript scripts to process requests or responses.
+Request rewrite: Support redirection, support replacement of request or response message, and can also modify request or response according to the increase.
+Request mapping: Do not request remote services, use local configuration or scripts for response
+Request blocking: Support blocking requests according to URL, and do not send requests to the server.
+Search: Search requests according to keywords, response types and other conditions
+Others: Favorites, history, toolbox, etc.",2024-09-20T07:00:00Z,2025-10-29T19:48:29Z
+tj,Tajikistan,Developer Tools,6026,7,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/tj/app/apple-developer/id640199958?uo=4,0.0,4.83333,6,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+tj,Tajikistan,Developer Tools,6026,8,6742786598,iProxy - Sys admin tools,"N-LAB, OOO",https://apps.apple.com/tj/app/iproxy-sys-admin-tools/id6742786598?uo=4,0.0,0,0,Developer Tools,"iProxy: privacy and speed in one app
+
+Enjoy secure and anonymous internet browsing with iProxy!
+
+-Protestion First:
+iProxy hides your IP address, blocks trucks, and shields you from malicious therapies. Your personal data repair security guard.
+
+-Privacy Without Compromises:
+Working, traveling, or relaxing? Stay connected, stream content, and chat securely — with zero risk to your digital safety.
+
+-Compatibility & Versatility:
+Works on all iOS devices and supports popular protocols (HTTP, HTTPS, SOCKS5). Seamlessly integrates with browsers, apps, and cloud services.",2025-03-12T07:00:00Z,2025-08-25T17:20:04Z
+tj,Tajikistan,Developer Tools,6026,9,1477376905,GitHub,GitHub,https://apps.apple.com/tj/app/github/id1477376905?uo=4,0.0,4.71429,7,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+tj,Tajikistan,Developer Tools,6026,10,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/tj/app/koder-code-editor/id1447489375?uo=4,0.0,5,5,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+tj,Tajikistan,Developer Tools,6026,11,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/tj/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,3.85714,7,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+tj,Tajikistan,Developer Tools,6026,12,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/tj/app/ish-shell/id1436902243?uo=4,0.0,0,0,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+tj,Tajikistan,Developer Tools,6026,13,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/tj/app/resolutioner/id1563852783?uo=4,0.0,5,3,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z
+tj,Tajikistan,Developer Tools,6026,14,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/tj/app/expo-go/id982107779?uo=4,0.0,5,4,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+tj,Tajikistan,Developer Tools,6026,15,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/tj/app/python-editor-app/id1672453872?uo=4,0.0,4.25,16,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+tj,Tajikistan,Developer Tools,6026,16,1450994949,Carnets - Jupyter,Nicolas Holzschuch,https://apps.apple.com/tj/app/carnets-jupyter/id1450994949?uo=4,0.0,0,0,Developer Tools,"Jupyter notebooks are a powerful tool used in education and research. You can write small snippets of Python code and observe the result on screen, combine with paragraphs of text, using Markdown.
+
+Carnets provides a complete, stand-alone, implementation of Jupyter notebooks. Everything runs on your device, using the embedded Python interpreter; you do not need an internet connection. You can chose between Jupyter notebooks and the more advance Jupyterlab using Settings.
+
+Numpy, Sympy, Matplotlib, Pandas, lxml, bokeh, nbextensions (including ipywidgets) and many other packages are pre-installed. To see the full list of installed packages, type ""%pip list"" in a code window. You can add more packages using ""%pip install packageName"", but only if they are pure Python.
+
+If you need scipy, seaborn or scikit-learn, please use our other App, ""Carnets - Jupyter (with scipy)"".
+
+You can share your notebooks with other apps and also open notebooks or directories managed by other apps. 
+
+Partial list of installed packages: astropy, babel, bokeh, cryptography, cvxopt, Fiona, geopandas, geopy, lxml, matplotlib, numpy, openCV, pandas, pillow, pyFFTW, pyproj, rasterio, regex, shapely, sympy, wordcloud.",2019-04-17T21:42:44Z,2025-11-04T10:30:36Z
+tj,Tajikistan,Developer Tools,6026,17,1585539533,Http traffic capture,"Shenzhen Chenxi Information Technology Co., Ltd",https://apps.apple.com/tj/app/http-traffic-capture/id1585539533?uo=4,0.0,5,1,Developer Tools,"HTTP Traffic Capture is a lightweight HTTP & HTTPs packet capture tool for common users who have network analysis capabilities. 
+
+Features:
+1. Support HTTP and HTTPs traffic analysis
+2. Support HTML, Javascript, CSS, picture (webp, jpeg, png) preview, and binary data viewing
+3. Support for setting packet capture rules
+4. Support historical packet capture records
+5. Support filtering historical packet content
+6. Support exporting the captured packet content
+
+Instructions:
+1. The software can support HTTP packet capture by default. If you need to capture and parse HTTPs traffic, you need to install a certificate
+2. Click the start button, the system will create and connect to the vpn, and start the packet capture process; if you reject the vpn configuration, the packet capture cannot be performed
+3. Click the orange task bar to view the current session, and click the session to view the session request and response
+4. Click the request line and response line in the session to export the corresponding value
+5. You can filter the content of a specific domain name through the filter button
+6. You can export the session content through the export button
+7. Click the stop button, a history record will be generated for subsequent viewing
+8. If you need to clean up all data, you can go to the settings page and click the clear all data button
+
+
+How the software works:
+After opening the packet capture, the software will start a vpn and direct the vpn data packet to the local HTTP proxy server. Complete the analysis and storage of the data packet in the local proxy server. For HTTTPs data, you need to install and trust the certificate to successfully parse it.
+
+Data security:
+Since packet capture software involves user privacy data, privacy protection is the most important design consideration for software. To this end, we have made the following mechanism for this purpose:
+1. The software's CA key and CA certificate are dynamically and randomly generated by the software and stored in the sandbox. No one can know the user's CA private key.
+2. The certificate cannot be shared between different users.
+3. After reinstalling the application, the history will cause the certificate to become invalid, and the user can manually delete the certificate in the settings.
+4. The certificate is valid for one year. After the certificate expires, the user needs to regenerate it before it can be used.
+5. The HTTP data captured by the software is only stored locally and will not be uploaded to any other place.
+6. The user cannot modify the network request through the software to prevent some improper behavior.
+
+System configuration instructions:
+HTTP proxy server: 127.0.0.1:9080
+Certificate description file name: Traffic Capture YYYY-MM-dd HH:mm, where YYYY-MM-dd HH:mm is the time when the certificate is generated
+VPN description file name: ""Traffic Capture""",2021-10-13T07:00:00Z,2025-03-18T22:00:54Z
+tj,Tajikistan,Developer Tools,6026,18,1668447062,Server: Host Files Locally,Dumpling Software UG,https://apps.apple.com/tj/app/server-host-files-locally/id1668447062?uo=4,0.0,0,0,Developer Tools,"Start a web server on your mobile device and access it from other devices in your local network.
+
+FEATURES
+
+- Use folders stored locally on your iPhone/iPad or in iCloud
+- Serve static files and websites over HTTP
+- Run the server also while the app is in the background
+- Enable Directory Listing to browse the selected folder in your browser
+- Multitask in SplitView on iPad by eg. using the server and Safari at the same time
+- Add password to control access to shared content
+- Customize Directory Listing: theme, dotfile visibility, footer text
+
+HOW TO
+
+1. Choose a folder and press “start”
+2. Open the generated IP address in a browser on a device in the same WiFi network
+3. Done, there is no third step!
+
+USE CASES
+
+- Quickly share files on your iPhone/iPad with other devices in the same WiFi network
+- Host a static website, useful for eg. software developers working on the go
+- Send files to devices that have limited connectivity features (eg. GPS navigation, gaming consoles etc)
+- Create a small media server for your household
+
+TIPS
+- The server works on and is visible to other devices only on the same WiFi network (ie. connected to the same router)
+- This is a static server which means can’t be used as eg. a PHP or NodeJS backend server
+- The Background Mode requires an audio track played while the app is not visible. Go to settings to pick from a number of pleasant nature sounds!",2023-01-29T08:00:00Z,2023-02-13T03:21:11Z
+tj,Tajikistan,Developer Tools,6026,19,6753701067,ProScan: PDF Scanner,PSCD TECHNOLOGY DEVELOPMENT COMPANY LIMITED,https://apps.apple.com/tj/app/proscan-pdf-scanner/id6753701067?uo=4,0.0,0,0,Developer Tools,"ProScan – Your Smart PDF, Word & Text Scanning Assistant
+ProScan helps you scan, convert, and manage documents quickly and professionally – right from your phone.
+Whether you’re studying, working, or handling urgent paperwork, the app delivers a smooth, convenient experience for scanning, compressing, merging, splitting, and sharing files effortlessly.
+
+KEY FEATURES
+Smart Document Scanning
+Open the camera to capture documents with auto edge detection.
+Instantly convert images into PDF / Word / Text formats.
+Edit before saving: crop, rotate, enhance, and apply black-and-white filters.
+Export high-quality files, ready for sharing or printing.
+Flexible PDF Compression
+Reduce PDF file size without losing image quality.
+Choose compression level: Low / Medium / High to fit your needs.
+Save storage space and share files faster.
+Easy PDF Merge & Split
+Select multiple files and combine them into a single PDF in just a few taps.
+Split PDFs by page range – fast, accurate, and convenient.
+Efficient File Management
+Rename, delete, share, or open PDFs directly within the app.
+Keep your documents organized and easy to find.
+View and interact with PDFs seamlessly.
+
+ADVANCED IMAGE PROCESSING TECHNOLOGY
+Automatically detects and aligns document edges using AI.
+Enhances scan quality by reducing shadows and improving sharpness.
+Accurately recognizes text (OCR), allowing you to extract content from images.
+
+
+ WHY YOU’LL LOVE ProScan
+Turn paper documents into digital files in seconds.
+Easily edit, compress, and merge your files.
+Work and study efficiently — no computer needed.
+Simple, clean interface that anyone can use.
+
+DATA SECURITY
+All files are stored locally on your device.
+You can delete them anytime — no uploads to external servers.
+No user data collection – complete privacy guaranteed.
+PROSCAN IS PERFECT FOR:
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.
+
+ProScan – Faster, Smarter, and Safer Document Scanning!
+Students and teachers who need to scan study materials.
+Office workers, accountants, and administrative staff.
+Individuals who want to quickly store or share documents.
+Anyone who needs a convenient tool to scan, merge, compress, and manage PDFs anytime, anywhere.",2025-11-18T02:56:46Z,2025-11-18T02:56:46Z
+tj,Tajikistan,Developer Tools,6026,20,6753128770,Data Chat Mate: BI Copilot,ANDRES FELIPE SARRAZOLA VELEZ,https://apps.apple.com/tj/app/data-chat-mate-bi-copilot/id6753128770?uo=4,0.0,0,0,Developer Tools,"Turn data into decisions with a business intelligence copilot that lets you chat with any database using plain English or SQL. Connect in minutes, ask questions, and get live dashboards, KPIs, and reports—all with enterprise-grade security and automation.
+
+Connect your data instantly
+Works with PostgreSQL, MySQL, MongoDB, BigQuery, Oracle and Redshift—so your team can analyze everything in one place without moving data.
+
+Ask, analyze, act
+Type a question (“sales by region last quarter”) and get the answer as a chart or table. Power users can drop to raw SQL anytime.
+
+Dashboards & KPIs
+Track KPIs you care about, schedule shareable reports, and monitor trends across teams and markets.
+
+Automation & alerts
+Set smart rules that watch your data and notify you when something meaningful happens—anomalies, threshold breaks, or rapid changes.
+
+Built for teams
+Role-based access, audit logs, and secure connections keep your business intelligence reliable at scale.
+
+Bring clarity to your data—connect a database, ask a question, and ship your next decision faster.
+
+Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-20T08:00:00Z,2025-11-20T09:07:43Z
+tj,Tajikistan,Developer Tools,6026,21,6474501911,LongPomo: Developer Focus,Daniel Vela,https://apps.apple.com/tj/app/longpomo-developer-focus/id6474501911?uo=4,0.0,0,0,Developer Tools,"LongPomo: Focus for developers is the essential tool for software developers looking to maximize productivity and maintain a healthy work-life balance.
+
+KEY FEATURES:
+
+- Sync Across All Devices: 
+LongPomo harnesses the power of iCloud to synchronize your focus and rest timers across your iOS, watchOS, macOS, and tvOS devices. Switch devices without missing a beat in your development time.
+
+- Minimalist Design: 
+We focus on what matters. LongPomo offers an elegant and minimalist user experience with a black background and yellow controls. Simplicity is the key to maintaining your concentration.
+
+- Customizable Timers: 
+Tailor your focus and rest times to your work rhythm. Adjust timers for the perfect combination that suits your workflow.
+
+- Start or Stop with a Tap: 
+LongPomo simplifies time management. Start or stop your timers with a single tap, no hassle or unnecessary distractions.
+Smart Notifications: Receive discreet reminders and notifications to keep you on track, even when the app is in the background.
+
+- Compatible with Flowmodoro:
+Select 1/3, 1/5, 1/7,... to define the resting time based in a proportion in the time you have spend, instead selection a fixed resting time. This way when you press stop button, the resting time is calculated depending in the completed task time.",2024-01-05T08:00:00Z,2025-09-05T20:39:15Z
+tj,Tajikistan,Developer Tools,6026,22,6478315305,Python,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/tj/app/python/id6478315305?uo=4,0.0,5,1,Developer Tools,"The Ultimate Mobile Companion for Developers!
+
+Our app revolutionizes the way developers work by bringing the full power of python coding directly to your mobile device. Designed with both seasoned programmers and aspiring coders in mind, our app offers an unparalleled mobile coding experience that is both efficient and accessible, no matter where you are.
+
+Key Features:
+
+- Seamless Execution: Run python scripts effortlessly with our optimized mobile interpreter. Whether you're debugging, learning, or prototyping, our app ensures your code runs smoothly on the go.
+- AI Support: Get instant AI-powered assistance to debug your code, troubleshoot errors, and enhance your python skills effortlessly. Whether you're a beginner or an experienced programmer, the AI is here to help you write better code.
+- Challenges: Sharpen your python skills with a collection of practical coding challenges, ranging from beginner-friendly tasks to advanced problem-solving exercises. Progress through different difficulty levels and master python coding style step by step.
+- User-Friendly Interface: our app boasts an intuitive and clean interface designed for optimal coding efficiency on mobile devices. With customizable themes, fonts, and layouts, you can personalize your coding environment to suit your style.
+- Advanced Code Editor: Our advanced code editor features syntax highlighting, code completion, and error detection, making coding on a small screen not just possible, but a pleasure.
+- Cloud Sync and Storage: Save your work on the cloud with our integrated storage solutions. Access your python scripts anytime, anywhere, across all your devices.
+- Community and Support: Join a growing community of mobile coders. Share tips, solve challenges, and get support from fellow developers. Our app is more than just an app; it's a movement towards mobile programming.
+
+Our app is perfect for professionals looking to stay productive on the move, students learning programming outside the classroom, and anyone interested in data science, machine learning, or just coding for fun. With our app, your mobile device becomes a powerful coding workstation, enabling you to bring your ideas to life wherever you are.
+
+Say goodbye to the constraints of desktop computing and hello to the freedom of mobile development with our app. Download now and start your coding adventure today!
+
+SUBSCRIPTION:
+We offer auto-renewing subscription:
+- Length: Weekly-Monthly-Yearly
+- Payment will be charged to iTunes Account at confirmation of purchase
+- You will be able to access the Premium features of the app for the duration of the subscription
+- Subscription automatically renews for the same price and duration period as the original period unless auto-renew is turned off at least 24-hours before the end of the current period
+- The account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase
+- No cancellation of the current subscription is allowed during the active subscription period
+- You may cancel a subscription during its free trial period via the subscription setting through your Apple account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit https://support.apple.com/HT202039 for more information on how to proceed.
+- You may turn off the auto-renewal of your subscription via your Apple Account Settings. However, you are not able to cancel the current subscription during its active period
+
+Privacy Policy : https://mcanswers.ai/pythonify/privacy-policy
+Terms of Use : https://mcanswers.ai/pythonify/terms-of-use",2024-06-19T07:00:00Z,2025-10-08T14:04:39Z
+tj,Tajikistan,Developer Tools,6026,23,1606772645,Google Play Console,Google LLC,https://apps.apple.com/tj/app/google-play-console/id1606772645?uo=4,0.0,5,2,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+tj,Tajikistan,Developer Tools,6026,24,6753763875,Vip Proxy Server,Moad Slimani,https://apps.apple.com/tj/app/vip-proxy-server/id6753763875?uo=4,0.0,0,0,Developer Tools,"welcome to FF Vip Proxy Server
+FF Vip Proxy Server is an app for all users, all Vip Proxy Server tools for devs and modules saver free.",2025-10-09T07:00:00Z,2025-10-10T00:26:05Z
+tj,Tajikistan,Developer Tools,6026,25,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/tj/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,0,0,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z

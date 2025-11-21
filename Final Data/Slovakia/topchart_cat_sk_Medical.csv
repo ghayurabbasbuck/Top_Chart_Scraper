@@ -1,0 +1,657 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+sk,Slovakia,Medical,6020,1,1276020039,VšZP,"Vseobecna zdravotna poistovna, a.s.",https://apps.apple.com/sk/app/v%C5%A1zp/id1276020039?uo=4,0.0,4.46279,5510,Medical,"Aktuálne pre našich poistencov prinášame tieto funkcie:
+ • Základné zdravotné údaje potrebné v prípade poskytnutia prvej pomoci
+ • Podrobnosti o poskytnutých výkonoch u vášho lekára
+ • Vaše lieky a ich interakcie
+ • Možnosť podať reklamáciu na zdravotnú starostlivosť
+ • Preukaz poistenca v mobile
+ • Moji lekári a prevencia
+ • Recept v mobile a opakovaný recept
+ • Možnosť vyhľadania lekára, lekárne, pohotovosti, alebo pobočky VšZP
+ • Možnosť ohodnotiť návštevu u lekára
+ • Produkt Peňaženka zdravia na čerpanie benefitov
+ • Bezpečné prihlásenie do ePobočky (www.epobocka.com) pomocou mobilnej aplikácie VšZP a.s.
+• Možnosť úhrady poistného
+ • Pripomienky formou push notifikačných správ
+ • Možnosť Poistiť sa
+
+PODROBNÝ POPIS FUNKCIÍ:
+
+Do lekárne
+V tejto časti aplikácie poskytujeme zoznam nevybratých receptov. Stačí, ak ukážete v lekárni recept zo svojho mobilu, lekárnik nasníma čiarový kód z obrazovky a liek vám vydá. Ak k Vášmu predpísanému lieku existujú aj lacnejšie lieky s rovnakou účinnou látkou, v tejto časti Vám to zobrazíme spolu s informáciou o možnej úspore na doplatkoch a o liekových interakciách.
+
+V mojom okolí
+V sekcii V mojom okolí máte k dispozícii prehľad lekárov, lekární a pohotovostí, kedykoľvek to potrebujete a podľa toho, kde sa aktuálne nachádzate. Môžete si vyhľadať lekára podľa odbornosti, vzdialenosti, alebo podľa toho, či je poskytovateľ náš zmluvný partner.
+
+Pripomienky
+Upozornenia formou push správy Vám pripomenú nárok na preventívnu prehliadku, informáciu k predpísanému receptu, liekovým interakciám, možnosti ohodnotiť návštevu lekára, ako aj informáciu o vybavení reklamácie na zdravotnú starostlivosť.
+
+Preukaz poistenca
+V aplikácii máte Váš preukaz poistenca a zároveň preukazy Vašich detí, prípadne osôb, ktoré máte v opatere. Týka sa to aj Európskeho preukazu (EHIC). Informujeme Vás aj o nároku na zdravotnú starostlivosť.
+
+Pridanie dieťaťa
+Chcete mať prehľad aj o Vašom dieťati? Pridajte si dieťa cez mobilnú aplikáciu a získajte prístup k prehľadu o zdravotných výkonoch alebo liekoch, ktoré práve užíva. A preukaz budete mať vždy poruke.
+
+Moje zdravie
+Môžete si zobraziť svoju zdravotnú kartu, kartu Vašich detí alebo osôb, ktoré máte v opatere Ponúkame:
+• podrobnosti o poskytnutých výkonoch zdravotnej starostlivosti
+• podrobnosti o predpísaných liekoch
+• liekové interakcie
+• možnosť podať reklamáciu na poskytnutý výkon u lekára, alebo liek
+• možnosť ohodnotiť lekára
+
+Prihlásenie do ePobočky
+Aplikácia VšZP pomôže pri bezpečnom prihlásení do ePobočky. Na www.epobocka.com sa prihlásite pomocou svojho loginu a hesla a prístup potvrdíte v mobilnej aplikácii VšZP.
+
+SOS karta prvej pomoci
+V rámci SOS karty sa Vám aj na zamknutom telefóne zobrazujú základné zdravotné údaje, dôležité v prípade poskytnutia prvej pomoci. Súčasťou SOS karty je aj možnosť zavolať rýchlu zdravotnú službu na linke 155 a vďaka geolokácii bude možné určiť presnú polohu, kde sa nachádzate.
+
+Kontakty
+V tejto časti máte možnosť kontaktovať naše Call centrum zo Slovenska a krajín EÚ, môžete nám tiež napísať, alebo navštíviť nás v ktorejkoľvek pobočke zobrazenej v zozname.
+
+Nastavenia
+V nastaveniach máte možnosť zmeniť si svoj PIN kód, pridať si/zmeniť Vašu fotografiu a fotografie Vašich detí. Zároveň máte možnosť vypnutia/zapnutia zasielaných notifikácií a prihlasovania pomocou biometrie.
+
+Bezpečnosť
+Mobilná komunikácia je zabezpečená prístupovým PIN kódom, vďaka čomu sú údaje chránené.
+
+Peňaženka zdravia
+Služba, prostredníctvom ktorej je možné čerpať benefity poskytované VšZP, vytvoriť skupinu, pridávať členov skupiny a podávať žiadosť o úhradu nákladov v zmysle podmienok používania produktu.
+
+Platenie
+Ak ste SZČO alebo samoplatiteľ, v sekcii Poistné získate informáciu o stave Vášho saldokonta. Zároveň budete môcť uhradiť poistné alebo nedoplatky z ročného zúčtovania.",2017-10-18T08:56:20Z,2025-11-10T10:04:08Z
+sk,Slovakia,Medical,6020,2,1540233418,Dôvera,"DOVERA zdravotna poistovna, a. s.",https://apps.apple.com/sk/app/d%C3%B4vera/id1540233418?uo=4,0.0,4.63316,26224,Medical,"Aplikácia zdravotnej poisťovne Dôvera je zadarmo pre všetkých jej poistencov. Registráciou v aplikácii automaticky získate prístup aj do elektronickej pobočky Dôvery.
+
+
+
+S aplikáciou Dôvera máte stále po ruke praktické funkcie:
+
+
+•	jednoduché vybavenie benefitov, napr. Zdravé zuby, Zdravé oči, Fyzio vyšetrenie a iné
+•	pripomienky preventíviek
+•	preukaz poistenca dostupný aj bez internetu
+•	deti do 18 rokov v účte rodiča
+•	recepty stále poruke
+•	pohodlné platenie poistného
+
+
+
+Vaša Dôvera
+
+Samodiagnostika v mobilnej aplikácii nenahrádza kvalifikované lekárske vyšetrenie a slúži výlučne na informačné a vzdelávacie účely.",2023-02-02T08:00:00Z,2025-11-20T08:54:53Z
+sk,Slovakia,Medical,6020,3,6443469159,NTS SR,National Transfusion Service of the SR,https://apps.apple.com/sk/app/nts-sr/id6443469159?uo=4,0.0,3.55,80,Medical,"Funkcie pre registrovaného a neregistrovaného používateľa aplikácie:
+možnosť objednať sa na darovanie krvi a plazmy,
+prehľad kamenných a mobilných odberových pracovísk NTS SR s odberovými hodinami a kontaktami,
+praktické informácie o darcovstve ako: aktuálne usmernenia o krvi a o plazme,
+zobrazenie pracovísk na prehľadnej mape s možnosťou spustiť navigáciu k pracovisku v aplikácií Google Maps
+
+
+
+Funkcie pre registrovaného používateľa aplikácie:
+elektronický preukaz darcu krvi s evidenčným číslom, krvnou skupinou, fenotypom a čiarovým kódom,
+grafické znázornenie času zostávajúceho do ďalšieho možného termínu odberu celej krvi alebo plazmy (pri rozpore medzi najbližším odberom navrhnutým
+       aplikáciou a lekárom, rešpektujte pokyny lekára),
+údaje o absolvovaných odberoch, napr. dátum odberu, pracovisko, kde sa vykonal odber, odobraté množstvo krvi, dĺžka odberu,
+výsledky krvného obrazu s grafickým znázornením trendu parametrov v čase,
+výsledky krvného tlaku v grafickom znázornení,
+informácie o počte odberov a nároku na ocenenie, prehľad min. počtu odberov pre získanie jednotlivých ocenení,
+notifikácie o blížiacom sa termíne odberu celej krvi alebo plazmy",2022-09-26T07:00:00Z,2025-05-23T13:11:25Z
+sk,Slovakia,Medical,6020,4,1485091225,MEDDI app,MEDDI hub a.s.,https://apps.apple.com/sk/app/meddi-app/id1485091225?uo=4,0.0,3.53846,26,Medical,"The MEDDI app is a telemedicine app for everyone. The MEDDI app is a borderless medicine that gives you access to healthcare. Whether you are looking for a doctor, trainer or therapist, we are here for you.
+
+The MEDDI app is fully connected to Apple HealthKit and thus allows you to easily connect all smart devices to the MEDDI app and use them really smartly. You can share data from wearables with doctors, sharing is completely under your control.",2020-02-11T08:00:00Z,2025-09-05T06:26:56Z
+sk,Slovakia,Medical,6020,5,6504550038,Sociálna poisťovňa,Socialna poistovna,https://apps.apple.com/sk/app/soci%C3%A1lna-pois%C5%A5ov%C5%88a/id6504550038?uo=4,0.0,0,0,Medical,"Mobilná aplikácia Sociálnej poisťovne: Jedna aplikácia pre celý život
+Sociálna poisťovňa digitalizuje služby a prináša vám oficiálnu mobilnú aplikáciu, ktorá vám bude partnerom v kľúčových životných situáciách. Získajte moderný, jednoduchý, rýchly a bezpečný prístup k údajom vášho sociálneho poistenia kdekoľvek a kedykoľvek priamo z iPhonu. Stiahnutie a používanie aplikácie je úplne bezplatné.
+ 
+Čo získate vďaka aplikácii ako poistenec-občan?
+
+Prístup k vášmu Elektronickému účtu poistenca a s ním:
+•	Kompletný prehľad o vašom poistení: Poskytuje vám online prehľad o obdobiach vášho poistenia (dôchodkové, nemocenské, v nezamestnanosti), vyplatených dávkach a platbách poistného. Už žiadne osobné návštevy pobočiek.
+•	Informácie o dôchodku: Vďaka funkcii Príprava na dôchodok zistíte, koľko rokov máte odpracovaných a aká by bola orientačná suma vášho dôchodku, ak by ste odchádzali do dôchodku dnes. Ak ste poberateľom dôchodku, získate prehľad o vyplatených dávkach za zvolené obdobie.
+•	Sledovanie žiadostí: Máte pod kontrolou všetky vaše žiadosti o dávky. Aplikácia vás informuje o ich aktuálnom vybavovaní (napr. ePN – elektronická práceneschopnosť, dôchodok, či dávka v nezamestnanosti).
+•	Jednoduché platby: Ako samostatne zárobkovo činná alebo dobrovoľne poistená osoba uhradíte poistné a nedoplatky online priamo cez platobnú bránu aplikácie. Podporujeme platby kartou, Google Pay, Apple Pay.
+
+Čo získate vďaka aplikácii ako zamestnávateľ?
+•	Rýchlu predbežnú registráciu zamestnancov: Aplikácia je ideálnym pomocníkom aj pre zamestnávateľov. Umožňuje rýchlo a efektívne vykonať predbežné prihlásenie zamestnanca do Sociálnej poisťovne. Je to doplnková možnosť, ktorá zjednodušuje splnenie oznamovacej povinnosti.
+ 
+Ako si aktivujem a začnem používať mobilnú aplikáciu?
+
+•	Na aktiváciu aplikácie je potrebné, aby ste mali aktivovaný Elektronický účet poistenca (EUP). Po prihlásení sa do portálu eSlužieb Sociálnej poisťovne si vygenerujete QR kód, pomocou ktorého si aplikáciu jednoducho a bezpečne spárujete s vaším EUP. Po aktivácii sa do aplikácie prihlasujete pohodlne pomocou biometrie (napr. skenom tváre, odtlačkom prsta) alebo PIN kódom. Nemáte EUP? Ak používate elektronický občiansky preukaz (eID), prístup si vybavíte online bez návštevy pobočky. V opačnom prípade stačí navštíviť ktorúkoľvek pobočku Sociálnej poisťovne.
+•	Ste zamestnávateľ? Najskôr si určíte telefónne čísla, z ktorých budete vykonávať predbežnú registráciu. Aplikácia automaticky overí vaše prihlásenie pomocou telefónneho čísla a PIN kódu, ktorý vám pridelí Sociálna poisťovňa.
+
+Aplikácia Sociálnej poisťovne je navrhnutá tak, aby ste mali bezpečný prístup k svojim údajom okamžite a mali tak vaše sociálne poistenie doslova vo vrecku. Naďalej pracujeme na jej zlepšovaní a rozširovaní funkcií. O všetkých novinkách vás budeme včas informovať.",2025-11-20T08:00:00Z,2025-11-20T16:51:45Z
+sk,Slovakia,Medical,6020,6,1144871267,Pregnancy Tracker by Moms,Wachanga LTD,https://apps.apple.com/sk/app/pregnancy-tracker-by-moms/id1144871267?uo=4,0.0,4.81643,1400,Medical,"Discover one of the top pregnancy tracker apps designed specifically for women and expecting parents. This application will keep you calm throughout your pregnancy, providing daily insights into your baby's development and your own health. It will let you know what’s happening with you and your unborn baby—week after week—and offer guidance on how to handle new situations. New, helpful articles are posted every day to support your pregnancy journey!
+
+
+
+
+Keep track of your weight, blood pressure, tummy growth, baby's first movements, and contractions with our advanced tracking tools. Save all your important data in a single, easy-to-share report for your doctor, ensuring your pregnancy progress is well-documented.
+
+
+May your pregnancy be pleasant and wonderful! Our app provides the tools and resources expecting parents need to feel confident and prepared.
+
+
+
+The Most Interesting Features of the App:
+- Convenient Calendar: Schedule tests and doctor visits effortlessly.  
+
+- Pregnancy Diary: Use this tracker to log your weight, tummy size, blood pressure, mood, and sexual activity daily. Never miss appointments or key tests.  
+
+- Weekly Baby Development Updates: Find out when your baby becomes the size of a grapefruit, grows eyelashes, or when you can discover their gender. Get nutritional and lifestyle advice tailored for women and their babies.  
+
+- Daily Articles: Access a wealth of resources and tools with professional advice to help women navigate emotions, relationships, and health during pregnancy.  
+
+- Doctor Report: Compile all your tracking data into a comprehensive report, available as a PDF or on your phone, to share with your doctor.  
+
+- Checklists and To-Do Lists: Stay organized with trimester-specific checklists and to-do lists—perfect for expecting parents.  
+
+- Smart Gestational Age Calculator: Trusted by top medical professionals, this tool calculates fetal and obstetric terms with pinpoint accuracy.  
+
+- Kegel Exercises: Prepare for childbirth with guided exercises, an essential tool for women’s health during pregnancy.  
+
+- Contraction Counter: This intelligent tracker distinguishes real contractions from practice ones, ensuring you and your baby are ready for delivery.  
+
+- Health App Synchronization: Securely save your pregnancy tracking data with seamless integration.
+
+
+We’ve worked hard to create one of the best apps for expectant mothers. Send your feedback to team@wachanga.com (mailto:team@wachanga.com)—we’re here to support women and parents every step of the way.
+
+
+
+GOLD STATUS IN THE APP
+- The subscription costs $1.99 per month
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2017-03-20T02:32:27Z,2025-11-13T01:09:53Z
+sk,Slovakia,Medical,6020,7,1397905287,eČakáreň,"filpo, s.r.o.",https://apps.apple.com/sk/app/e%C4%8Dak%C3%A1re%C5%88/id1397905287?uo=4,0.0,4.33333,60,Medical,"Služba eČakáreň je online vyvolávací a rezervačný systém pre ambulancie.
+Pacienti už nemusia čakať v čakárni. Aplikácia umožní zaradiť sa do radu bez toho, aby prišli do čakárne, objednať sa vopred na konkrétny termín a požiadať o predpis receptu.
+
+Aktuálny zoznam ambulancií, kde môžete aplikáciu používať:
+» https://www.ecakaren.sk/lekari/ «
+
+Zoznam lekárov postupne rozširujeme. Odporučte eČakáreň svojim lekárom. Ďakujeme.",2018-08-04T14:38:41Z,2025-04-16T20:42:57Z
+sk,Slovakia,Medical,6020,8,1472316290,Pregnancy Tracker・My Pregnancy,Aleksei Neiman,https://apps.apple.com/sk/app/pregnancy-tracker-my-pregnancy/id1472316290?uo=4,0.0,4.72937,2169,Medical,"My Pregnancy is a week-by-week pregnancy tracker. Our app will help you over the course of your pregnancy. Stay on top of the changes happening inside your body. Find out how your baby is developing.
+
+Our app is completely free and does not contain advertising.
+
+This app includes:
+- week-by-week advice;
+- useful information on fetal development and changes in your body;
+- week-by-week fetal measurements and imaging;
+- a to-do list for each trimester;
+- a list of things you will need for hospital check-in, post-natal care and check-out;
+- a weight tracker you can use to follow weight gain;
+- a kick counter;
+- a contraction timer;
+- and much more
+
+We have created this app with love, specially for young mothers.
+
+This app is not intended for medical use and is not a substitute for medical consultation.
+
+If you have any questions or requests, please write to neumandev@gmail.com. We are eager to hear your comments on how to improve the app.",2020-02-28T08:00:00Z,2025-11-06T21:03:39Z
+sk,Slovakia,Medical,6020,9,1435038724,Anatomyka,Woodoo Art s.r.o.,https://apps.apple.com/sk/app/anatomyka/id1435038724?uo=4,0.0,4.79661,236,Medical,"The Anatomyka app offers two subscriptions: ATLAS and ATLAS PRO. The main advantage of the ATLAS PRO subscription is the ability to publish educational posters created in the app via a link directly to social media. The link is interactive, and when clicked, the poster opens directly in the app for the user. The ATLAS PRO subscription is intended mainly for teaching and patient education, as well as for students (teaching license, multi-user license, patient license). It can be used for work in a medical practice as well as for teaching at school.
+
+Using our cutting-edge 3D model, which is one of the most detailed in the world, ANATOMYKA allows you to get up close with human anatomy in all its breathtaking complexity on more than 13,000 anatomical structures with more than 500 pages of medical descriptions. Now in English, Spanish, Italian, Polish, Russian, Czech and Slovak localization.
+
+In the ANATOMYKA app, each anatomical system, organ and part is accompanied by detailed information about its structure, hierarchy, regions, including information about organs, clinical notes, related organs (vascular supply, innervation, syntopy) and a general description.
+
+Explore the general  anatomy, the entire skeletal system for FREE, with over 4500 landmarks on display with simplified guides and descriptions.
+If you want to learn about each organ, structure or anatomy system in even greater detail, try our 5-day free trial or subscribe!
+
+FOR FREE
+*** Skeletal system - A List of Landmarks is pinned directly to the corresponding bones with description, visualized foramina, correct audio pronunciation, and classification. You can also view them by hierarchy. Interactive I/O map for every bone.
+*** General anatomy - Discover the anatomy planes, axis locations, and directions that comprise the human body. Explore more than 80 body parts and regions, all of which have been clearly labelled and sorted according to their correct medical hierarchies. 
+
+*** ANATOMYKA TOP FEATURES ***
+
+LEARNING MODE
+Color-coded organs allow users to view high-resolution anatomical structures supplemented by informative descriptions from a comprehensive textbook  ‘Memorix Anatomy’. These are arranged into a proper anatomical hierarchy, meaning learning is structured and easy to understand. 
+
+RELATED ORGANS
+Display of blood supply, innervation and syntopia for all organs and muscles in a clear hierarchy and also on a 3D model
+
+E-POSTER GALLERY
+Save you interactive screen to gallery
+
+STYLES
+Choose from different themes for a better visual experience, including classic atlas, dark atlas, dark space and cartoon style.
+
+COLORIZE
+Set your own color for organs, structures or systems for more effective memorizing.
+
+LABELS
+Create labels and pin them to different parts of the body. Labels automatically highlight the name and color of the organ and are great for creating anatomical posters.
+- User-friendly interface: Zoom, rotate, scale, colorize, isolate, select, hide, and fade all anatomical structures
+- Multiple selection: Select multiple organs and structures at once
+- Draw and add images: Customize visuals by drawing or inserting images
+- Search: Look up terms in the Anatomyka ‘terms library’
+
+Anatomyka was made for you with love. Any ideas, comments, and constructive criticism are more than welcome :) Feel free to contact us at info@anatomyka.com
+
+If you choose to purchase a subscription, payment will be charged to your iTunes account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://www.anatomyka.com/privacy-policy/
+Terms of Service: https://www.anatomyka.com/terms-of-service/",2018-12-12T20:02:42Z,2025-08-26T23:46:47Z
+sk,Slovakia,Medical,6020,10,1514781228,Medevio,Medevio s.r.o.,https://apps.apple.com/sk/app/medevio/id1514781228?uo=4,0.0,4.9,40,Medical,"Contact your doctor via Medevio.
+
+You no longer have to try to call an overloaded office. Before visiting the doctor, you should open Medevio straight away, you will solve a lot of things right there:
+
+• Recipes
+• Requests
+• Ordering for an examination
+• Change the date of your visit
+• Order lunch
+• Interest in vaccination
+• And other requirements
+
+Spend less time traveling, arranging, or waiting. 
+The doctor can then focus on what is most important. To your health.
+
+Your doctor must use the Medevio system to communicate through the application. If Medevio is not used by your doctor, we will be happy if you recommend us.
+
+All communication between doctor and patient is encrypted in the same way as modern banking institutions, for example. 
+
+The app is always free for patients.",2022-05-18T07:00:00Z,2025-11-12T06:39:56Z
+sk,Slovakia,Medical,6020,11,1624921143,Contraction Timer and Tracker⁣,Wachanga LTD,https://apps.apple.com/sk/app/contraction-timer-and-tracker/id1624921143?uo=4,0.0,4.68421,38,Medical,"The best Contraction Counter App for a positive birth experience.
+
+This App has been designed for mothers facing childbirth to time the contractions easily.
+Just time several contractions and the app will tell you what stage of labor you are in.
+
+Millions of pregnant women around the world have become mothers using our apps.
+
+We want to hear about your experience. Please don’t hesitate to reach out to us if you have any feedback or questions. Email us at team@wachanga.com or contact support within the App. 
+
+IMPORTANT:
+This app does not provide medical advice. Our recommendations are based on standard indicators. Your labor may occur differently. Always consult your doctor to orient yourself in terms of contraction frequency and duration.
+
+Private Policy - https://wachanga.com/privacy
+Terms of Use - https://wachanga.com/terms",2022-05-26T07:00:00Z,2025-10-28T14:57:41Z
+sk,Slovakia,Medical,6020,12,1439575933,Baby Tracker,Aleksei Neiman,https://apps.apple.com/sk/app/baby-tracker/id1439575933?uo=4,0.0,4.86857,1149,Medical,"This app helps you monitor your baby's development. It can help you follow the baby's sleep patterns: how long they sleep and whether they are keeping to schedule. Breast feeding: how much and how often your baby eats. Pumping schedule. Diaper changes. Also, you can keep a record of your baby's health: temperature, illnesses, vaccinations and doctor's visits. Add notes on your baby's mood and important events, such as: first words, first laugh, etc. Record changes in weight, length and head size.
+
+Main Tracking Features: 
+* Feeding (by breast, bottle or baby food) 
+* Diaper changes 
+* Sleep, activity and mood changes 
+* Breast pump scheduling 
+* Extra notes for doctor's visits and vaccinations 
+* Add changes to size and weight 
+* Add photographs and comment on events 
+* Convenient layout and organization for journal and notes
+
+If you have any questions or requests, please write to neumandev@gmail.com. We are eager to hear your comments on how to improve the app.",2018-11-12T01:04:35Z,2025-11-12T23:30:31Z
+sk,Slovakia,Medical,6020,13,1243672846,Pregnancy App.,Amila Tech Limited,https://apps.apple.com/sk/app/pregnancy-app/id1243672846?uo=4,0.0,4.88966,145,Medical,"Pregnant? Just track your pregnancy week by week using Pregnancy App.
+
+With Pregnancy App you can easily: 
+- track your pregnancy;
+- get information about your pregnancy;
+- get current pregnancy week and use pregnancy calendar;
+- calculate due date (pregnancy date);
+- manage contractions with contraction counter
+- track kicks with kick counter
+- track your pregnancy weight
+
+Pregnancy Tracker is very helpful for a pregnant woman.
+Free pregnancy app. 
+Powered by Amila.",2017-06-12T13:06:38Z,2025-10-09T23:01:35Z
+sk,Slovakia,Medical,6020,14,877303791,Contraction Timer & Counter 9m,Aleksei Neiman,https://apps.apple.com/sk/app/contraction-timer-counter-9m/id877303791?uo=4,0.0,4.8007,843,Medical,"*** Most downloaded Contraction Timer app in the world! Number 1 in the UK, USA, Australia, Canada, Italy and elsewhere! ***
+
+This is the simplest-to-use contraction timer. The app will help to track your contractions and determine when it's time to go to the hospital.
+If you plan on having a home birth, the app will tell you what stage of labor you are in at any given moment.
+
+Keep track of your labor by tapping a single button at the start and at the end of each contraction. The Contraction Timer analyzes the duration and frequency of contractions and will notify you when it's time to go to the hospital.
+
+Thousands of pregnant women around the world have become mothers using our app.
+
+Always consult your doctor to orient yourself in terms of contraction frequency and duration.
+This app is not a medical device and our recomendations are based on standard indicators. Your labor may occur differently. Therefore, do not rely exclusively on our app.
+If the duration and frequency of contractions do not yet correspond to the necessary indicators but labor pains become unbearable, it is better to go to the hospital as soon as possible rather than give birth at home or on the way there. Trust what your body is telling you.
+
+If you have any questions or suggestions, please email us at neumandev@gmail.com. Your feedback is very important to us.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+sk,Slovakia,Medical,6020,15,1593953398,Anatomy Learning - 3D Anatomy,3DMedical OU,https://apps.apple.com/sk/app/anatomy-learning-3d-anatomy/id1593953398?uo=4,0.0,4.72727,44,Medical,"A true and totally 3D app for studying human anatomy, built on an advanced interactive 3D touch interface.
+
+Features:
+- You can rotate models to any angles and zoom in and out.
+- Remove estructures to reveal the anatomical structures below them.
+- 3D location quizzes to test your knowledge
+- Switch on/off different anatomy systems
+- Both male and female reproductive systems are available
+
+Contents:
+- Bones
+- Ligaments
+- Joints
+- Muscles
+- Circulation (arteries, vein and heart)
+- Central nervous system
+- Peripheral nervous system
+- Sense organs
+- Respiratory
+- Digestive
+- Urinary
+- Reproductive ( both male and female)",2021-11-09T08:00:00Z,2025-11-10T18:33:33Z
+sk,Slovakia,Medical,6020,16,1625157323,FreeStyle LibreLink – SK,Abbott Diabetes Care Inc,https://apps.apple.com/sk/app/freestyle-librelink-sk/id1625157323?uo=4,0.0,3.48485,33,Medical,"Aplikácia FreeStyle LibreLink je schválená na použitie so senzormi systému FreeStyle Libre a FreeStyle Libre 2.
+Svoju glukózu si môžete skontrolovať naskenovaním senzora telefónom.
+Teraz môžu používatelia senzora systému FreeStyle Libre 2 automaticky dostávať hodnoty glykémie v aplikácii FreeStyle LibreLink aktualizované každú minútu, a taktiež dostávať alarmy, keď je hladina glukózy nízka alebo vysoká. [1][2]
+
+Aplikáciu FreeStyle LibreLink môžete použiť na: 
+
+* Zobrazenie aktuálnych údajov glukózy, šípky trendu a histórie glykémie
+* Dostávanie alarmov nízkej alebo vysokej glukózy so senzormi systému FreeStyle Libre 2 [2]
+* Zobrazovanie správ, ako je napríklad Čas v rozsahu a Denné vzorce
+* Zdieľanie svojich údajov so svojím lekárom a rodinou na základe vašich povolení [3]
+
+KOMPATIBILITA S INTELIGENTNÝMI TELEFÓNMI
+Kompatibilita sa môže líšiť v závislosti od telefónu a operačného systému. Viac informácií o kompatibilných telefónoch nájdete na stránke http://FreeStyleLibre.com.
+
+POUŽÍVANIE APLIKÁCIE A ČÍTAČKY S ROVNAKÝM SENZOROM
+Alarmy môžu byť spustené len na čítačke FreeStyle Libre 2 alebo na telefóne (nie na oboch). Ak chcete prijímať alarmy v telefóne, musíte senzor spustiť pomocou aplikácie. Ak chcete prijímať alarmy v čítačke FreeStyle Libre 2, musíte senzor spustiť pomocou čítačky.  Po spustení senzoru pomocou čítačky môžete senzor skenovať aj pomocou telefónu.
+
+Nezabudnite, že aplikácia a čítačka sa medzi sebou nedelia o údaje. Kompletné informácie o zariadení získate tak, že senzor naskenujete každých 8 hodín. V opačnom prípade vaše prehľady nebudú obsahovať všetky vaše údaje. Údaje zo všetkých zariadení môžete nahrať a zobraziť na LibreView.com.
+
+INFORMÁCIE O APLIKÁCII
+Aplikácia FreeStyle LibreLink v kombinácii so senzorom je určená na meranie hladiny glukózy u ľudí s cukrovkou. Viac informácií o tom, ako používať aplikáciu FreeStyle LibreLink, nájdete v návode na obsluhu, ktorý je prístupný prostredníctvom aplikácie. Ak potrebujete vytlačený návod na obsluhu, obráťte sa na zákaznícku podporu spoločnosti Abbott Diabetes Care.
+
+Poraďte sa so zdravotníckym pracovníkom, aby ste si overili, či je tento produkt pre vás vhodný, alebo ak máte otázky týkajúce sa používania tohto produktu pri rozhodovaní o liečbe.
+
+Viac informácií nájdete na http://FreeStyleLibre.com.
+
+[1] Ak používate aplikáciu FreeStyle LibreLink, musíte mať tiež prístup k systému monitorovania glukózy v krvi, pretože táto aplikácia ho neposkytuje.  
+
+[2] Alarmy, ktoré prijímate, nezahŕňajú údaje o glukóze, takže na kontrolu glukózy musíte naskenovať senzor.
+
+[3] Používanie aplikácií FreeStyle LibreLink a LibreLinkUp vyžaduje registráciu v systéme LibreView.
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+Ďalšie právne upozornenia a podmienky používania nájdete na stránke http://FreeStyleLibre.com.
+
+========
+
+Ak chcete vyriešiť akýkoľvek technický problém, alebo zákaznícky problém s produktom FreeStyle Libre, obráťte sa priamo na zákaznícky servis spoločnosti FreeStyle Libre.
+
+-----------",2022-12-15T08:00:00Z,2025-08-18T19:03:30Z
+sk,Slovakia,Medical,6020,17,505864483,Pregnancy + | Tracker App,Philips Digital UK Limited,https://apps.apple.com/sk/app/pregnancy-tracker-app/id505864483?uo=4,0.0,4.85956,413,Medical,"Download the world's leading pregnancy tracker app today, for free week-by-week pregnancy information and articles!
+
+The Pregnancy+ app features expert advice, daily articles, healthcare tips and interactive 3D models so you can track your baby's development. Our pregnancy app has been downloaded over 80 million times by expecting families. Join our worldwide community today! 
+
+Baby Development
+► Unique, interactive 3D models showing your baby's development 
+► Baby Size Guide helps you visualise your baby's size in fruits, animals & sweets
+► Pregnancy Week-by-Week Guides explain what to expect in each pregnancy week
+► Simple & informative Pregnancy Timeline highlighting important milestones
+
+Pregnancy Guides & Information
+► In-depth Pregnancy Guides covering breastfeeding, exercise, food, twins & more 
+► Daily Pregnancy Articles, tailored to your pregnancy stage
+► 2D & 3D Scans by pregnancy week for you to browse
+► Daily Blog Posts with tips, tricks & helpful advice
+► Upload photos in My Bump to create a visual pregnancy diary
+
+Pregnancy Tools
+► Pregnancy Due Date Calculator helps you work out when your bundle will arrive
+► Kick Counter tracks your baby's movements & activity
+► Pregnancy Weight Log helps you keep an eye on changes in your weight
+► Contraction Timer measures contractions throughout your labour
+
+Organise & Plan
+► Pregnancy Calendar enables you to plan & document your prenatal appointments
+► Hospital Bag helps you prepare your hospital visit, for Mother, Birth Partner & Baby
+► Birth Plan allows you to customise, organise & export your needs & wishes
+► To-Do List & Baby Shopping List for ideas of what you need to do & buy
+► Search thousands of Baby Names for inspiration & share your favourites
+
+Our EXCLUSIVE 3D Models
+Enjoy our unique 3D models showing your pregnancy's week-by-week development, from blastocyst to foetus to baby. Our 3D models truly help you to connect with the baby growing inside you. 
+► Choose from multiple ethnicities
+► Zoom in or out & rotate to see the baby's intricate detail
+► Watch guided pregnancy week-by-week walk-throughs
+► Tap to see baby movements
+
+Pregnancy Articles & Guides
+If you're feeling overwhelmed by all the advice out there, don't worry. Our Pregnancy + tracker app will guide you through your pregnancy, week-by-week, keeping you up to date with your baby's development and helping you stay healthy through pregnancy and beyond. The Pregnancy+ app content is written in-house, with the help of medical experts, lactation consultants, midwives and, of course, parents.
+
+Share your journey with friends & family
+Our pregnancy tracker app can be personalised so your partner, future grandparents or best friend can join in the fun and follow your baby's development in the womb, from bump to birth! Keep everyone up to date with your pregnancy by inviting them to download the app today.
+
+Follow us on Social Media
+Facebook: facebook.com/PregnancyPlusApp
+Instagram: @pregnancyplus
+
+◆ Download Pregnancy+ App today ◆
+
+Privacy Policy
+https://info.philips-digital.com/PrivacyNotice?locale=en&country=GB
+
+Terms of Use
+https://info.philips-digital.com/TermsOfUse?locale=en&country=GB
+
+This app is not intended for medical use, or to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalised medical advice. If you have any concerns about your pregnancy, consult with your doctor or midwife.
+
+The Pregnancy + tracker app wishes you a healthy, full-term pregnancy and a safe delivery.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+sk,Slovakia,Medical,6020,18,1348313441,WBC Counter,Kazuyoshi Sasaoka,https://apps.apple.com/sk/app/wbc-counter/id1348313441?uo=4,0.0,0,0,Medical,"This application is WBC differential counter for daily clinical works in the animal hospital.
+
+- Touch cell button 
+- Count up & count down mode
+- A pop-up notification will appear when the total count reaches  100, 200, 500, and 1000
+- Include or exclude nRBC in the total count  
+- Calculate the number form the proportion of cells.
+
+Vibration and/or sound tell you counting while using microscopy.
+You can choice vibration and/or sound.
+
+If you notice any problem, please tell me.",2018-02-13T23:51:02Z,2024-02-06T08:37:10Z
+sk,Slovakia,Medical,6020,19,946052063,DentalMonitoring,Dental Monitoring,https://apps.apple.com/sk/app/dentalmonitoring/id946052063?uo=4,0.0,4.95033,302,Medical,"DentalMonitoring is designed to help dental professionals monitor the evolution of their patients’ orthodontic treatments remotely, between in-practice appointments. It can only be used under the supervision of a clinician, who provides patients with their personal login information. 
+The DentalMonitoring app is intended to be used with the patented DM ScanBox and DM Cheek Retractor, to maximize the quality of each intraoral picture taken with patients’ smartphones.
+
+If you’re a patient, the app provides:
+• Ease of use: No technical expertise is needed to use DentalMonitoring. An in-app tutorial is available explaining how to take good intra-oral pictures.
+• Convenience: With regular screening of the orthodontic treatment evolution, from the comfort of home.
+• Control: Regular monitoring can help prevent potential treatment complications.
+• Communication: Patients receive specific notifications and advice from their practitioner via the app, and can send messages, too.
+• Motivation: Patients see their treatment progress with a before/after comparison, and stay motivated throughout their treatment with achievement statistics.
+
+If you’re a dental professional, the app provides:
+• Control: Remotely monitor the evolution of patients’ treatments, track potential issues and set clinical goals for complete monitoring of treatment progression.
+• Time optimization: Prevent unexpected clinical situations by getting accurate notification according to your customized protocol
+• Workflow optimization: Use only one workflow and apply to all patients for increased efficiency, while ensuring an outstanding patient experience.
+• Patient compliance: Regular follow-ups lead to higher treatment adherence!",2015-03-12T00:32:49Z,2025-10-22T16:07:54Z
+sk,Slovakia,Medical,6020,20,1592824649,Program Konference AKUTNĚ.CZ,dsgn s.r.o.,https://apps.apple.com/sk/app/program-konference-akutn%C4%9B-cz/id1592824649?uo=4,0.0,0,0,Medical,"Program konference AKUTNĚ.CZ - aktuální oficiální program konference
+
+Dovolujeme si pozvat všechny příznivce akutní medicíny na konferenci AKUTNĚ.CZ, která se bude konat v prostorách Univerzitního kampusu Bohunice. Součástí programu jsou i letos posterové sekce lékařské i NLZP části. Účastníkům budou certifikáty zaslané elektronicky po skončení konference.
+
+Funkce aplikace
+- program Lékařské sekce
+- program nelékařské sekce
+- program SMAI
+- program Workshopů
+- vlastní program vč. notifikací před zahájením
+- kontaktní informace
+- mapové podklady pro jednotlivé místnosti
+- Workshop desk
+- posterová sekce
+- novinky konference",2021-11-14T08:00:00Z,2022-11-16T12:58:24Z
+sk,Slovakia,Medical,6020,21,1640037895,PMcardio for Individuals,POWERFUL MEDICAL s. r. o.,https://apps.apple.com/sk/app/pmcardio-for-individuals/id1640037895?uo=4,0.0,4.69231,26,Medical,"PMcardio – AI ECG Interpretation & Diagnosis Assistant.
+
+Get instant AI-powered ECG interpretations that offer reassurance anytime, anywhere. Trusted by over 100,000 healthcare professionals, PMcardio provides rapid, accurate ECG analyses right in your pocket, designed specifically for emergency physicians, general practitioners, nurses, paramedics and cardiologists.
+
+Why Choose PMcardio?
+• Instant AI ECG Image Analysis: Simply snap a photo of any 12-lead ECG—paper or screen—and get immediate diagnostic insights.
+• Trained on Millions of Patients, Backed by Leading Institutions: Trusted by leading institutions such as Mount Sinai, Duke Health, and Cardiocenter Aalst.
+• Detect Hidden STEMI Equivalents: Advanced Queen of Hearts™ model uncovers life-threatening occlusive myocardial infarctions (OMI) patterns even without clear ST elevation.
+• ECG AI Explainability Heatmaps (STEMI): Understand the diagnosis with lead-by-lead importance and heatmaps showing AI decision features with ECGxplain™. (Pro plan)
+• 36 Core Diagnoses: Includes advanced rhythms, arrhythmias, conduction abnormalities, heart-blocks and hypertrophies detection.
+• Clinically Validated in 19 Independent Studies: 2x more accurate than conventional ECG algorithms and Standard of Care ECG interpretation.
+• 12 Medical ECG / EKG Measurements: Get automatic readings of heart rate, cardiac axes, P wave, PR, QRS and QT/QTc intervals (for QT monitoring during antipsychotic drug therapy). (Pro plan)
+• AI Confidence Indicators: Know when an ECG result needs further review with visual confidence scores. (Pro plan)
+• Digitize & Share ECG Reports: PMcardio acts as your mobile ECG reader, enabling archiving and sharing of detailed diagnostic reports.
+
+Start for Free Today:
+• Enjoy the Free Plan with 5 free ECG analyses per month.
+• Upgrade to Pro Plan for ECG capacity that meets the needs of daily clinical workflows, with AI explainability (blue heatmap of AI decision), advanced ECG measurements, and extended report history.
+
+Download PMcardio now to join 100,000+ healthcare professionals using the world’s most advanced ECG reader app.
+
+PMcardio AI ECG Models are regulated as medical devices and are intended for use by healthcare professionals. Indications for use are available here: https://www.powerfulmedical.com/indications-for-use/
+
+Terms and Conditions: https://www.powerfulmedical.com/legal/pmcardio-terms/
+Privacy Policy: https://www.powerfulmedical.com/legal/pmcardio-privacy/",2023-02-28T08:00:00Z,2025-11-21T08:54:45Z
+sk,Slovakia,Medical,6020,22,1138808366,Mediately Databáza Liekov,"Modra Jagoda, spletno oblikovanje in razvoj mobilnih aplikacij d.o.o.",https://apps.apple.com/sk/app/mediately-datab%C3%A1za-liekov/id1138808366?uo=4,0.0,4.85669,949,Medical,"Aplikácia Mediately poskytuje okamžité informácie o liekoch, kódy MKCH a ďalší zdravotnícky obsah, aby vám ostalo viac času pre vašich pacientov.
+
+Mediately zjednodušuje zložitý zdravotnícky obsah, aby ste mohli ľahšie prijímať informované rozhodnutia. Vďaka Mediately získate prístup k registru liekov s viac ako 9.600 položkami a s jednoduchým vyhľadávaním ako aj k interaktívnym klinickým nástrojom a kalkulačkám dávkovania.
+
+Po inštalácii aplikácie vám okamžite budú k dispozícii:
+
+1. Získajte informácie o viac ako 9.600 liekoch. Pri každom lieku si môžete zobraziť podrobné informácie vrátane:
+
+• Základných informácií o lieku (účinná látka, zloženie, lieková forma, trieda, informácie o úhrade lieku zo systému verejného zdravotného poistenia);
+• Dôležitých informácií z dokumentu SmPC pre daný liek (indikácie, dávkovanie, kontraindikácie, interakcie, vedľajšie účinky, predávkovanie atď.);
+• Klasifikácie ATC a paralelné lieky;
+• Balenia a ceny;
+• Prístupu ku kompletnému dokumentu SmPC vo formáte PDF (vyžaduje pripojenie na internet).
+
+2. Upravte lieky pacienta tak, aby nespôsobovali žiadne závažné interakcie
+
+Prvé riešenie na trhu, ktoré vám umožňuje nahradiť lieky spôsobujúce problematické interakcie liekmi s menej a/alebo menej závažnými interakciami - len za niekoľko sekúnd. Použite zoznam navrhovaných alternatív alebo manuálne skontrolujte konkrétny liek.
+
+3. Získajte rýchly prístup k informáciám o obmedzeniach používania
+
+Ušetrite čas vďaka prehľadom s dôležitými informáciami o obmedzeniach používania pri poruche funkcie obličiek a pečene, tehotenstve a dojčení.
+
+4. Uľahčite si vyhľadávanie v kapitole dávkovanie
+
+Prechádzajte kapitolu o dávkovaní vďaka rýchlym odkazom na obmedzenia používania – porucha funkcie obličiek a pečene, staršia a pediatrická populácia a spôsob podávania. 
+
+5. Vyhľadávajte v rozsiahlej ponuke interaktívnych diagnostických nástrojov
+
+Okrem kompletnej databázy liekov aplikácia obsahuje množstvo interaktívnych klinických nástrojov a dávkovacích kalkulačiek užitočných v každodennej praxi:
+
+• CHA2DS2-VASc (Score for Atrial Fibrillation Stroke Risk, skórovací systém pre stratifikáciu rizika CMP u pacientov s fibriláciou predsiení);
+• GCS (Glasgow Coma Scale, škála hodnotiaca kvantitatívnu poruchu vedomia u dospelých);
+• GFR (odhad glomerulárnej filtrácie podľa rovnice MDRD);
+• HAS-BLED (skórovací systém na stanovenie rizika závažného krvácania u pacientov s fibriláciou predsiení);
+• MELD (Model for End-Stage Liver Disease, skórovací systém používaný na hodnotenie závažnosti chronických ochorení pečene);
+• PERC skóre (Pulmonary Embolism Rule-out Criteria, skórovací systém kritérií pre vylúčenie pľúcnej embólie);
+• Wellsove kritériá pre pľúcnu embóliu.
+
+Objavte nástroje, ktoré denne používajú tisíce lekárov.
+
+3. CME (Vzdelávanie)
+
+Prehĺbte svoje vedomosti a získajte kredity CME z pohodlia vášho domova alebo kancelárie.
+
+• Prečítajte si článok alebo si pozrite video, ktoré vás zaujme.
+• Prehľad tém je neustále aktualizovaný, aby ste získali užitočné poznatky z vášho odboru.
+
+Aplikácia obsahuje aj klasifikáciu chorôb podľa MKCH-10 a klasifikačný systém ATC. Pravidelne ju aktualizujeme, aby ste mali vždy k dispozícii najnovšie informácie.
+
+Upozornenie: Časti tejto aplikácie sú určené pre zdravotníckych pracovníkov ako nástroj na podporu rozhodovania. Nie je určená na používanie pacientmi a nenahrádza rady lekára.
+
+Podmienky používania: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2016-09-02T09:23:25Z,2025-11-15T01:20:03Z
+sk,Slovakia,Medical,6020,23,6612007783,OpenEvidence,OpenEvidence Inc.,https://apps.apple.com/sk/app/openevidence/id6612007783?uo=4,0.0,4.42856,7,Medical,"Clinical Decision Support for Healthcare Professionals (NPI Required).
+
+OpenEvidence is the world’s leading medical information platform for health care professionals, providing accurate and efficient answers at the point of care. Every answer on OpenEvidence is always sourced, cited, and grounded in the peer-reviewed medical literature.
+
+Now featuring New England Journal of Medicine (NEJM) published content, NEJM multimedia content, and NEJM invited review articles authored by the world’s leading clinical experts.
+
+• 160 medical specialties
+• 1,000+ diseases and therapeutic areas
+• 1m+ medical topics
+
+Trusted by medical professionals at 10,000+ care centers across the United States.
+
+OpenEvidence is only available for health care professionals. Users must verify their health care professional status before using OpenEvidence.
+
+AS SEEN IN
+
+Forbes: “OpenEvidence Keeps Doctors Up To Date On The Latest Science”
+
+TESTIMONIALS
+
+“I've been using OpenEvidence for the last week - it has been amazing! Able to narrow down on results quickly and find information that I wasn't able to do with Google/PubMed searches on my own.” - Dr. John Lee, MD. Physician & Faculty Member, Harvard Medical School
+
+“OpenEvidence can be the foundational technology to power all clinical decision tools.” - Dr. Antonio Jorge Forte, MD. Director of MayoExpert, Mayo Clinic
+
+“OpenEvidence is more up-to-date than UpToDate. And more useful regardless, since it’s interactive, and you can ask it questions, and get very specific answers about specific medical fact patterns in a patient case. It’s like having a curbside consult with a team of expert physicians, but that you can carry around with you in your pocket.” - Dr. Ram Dandillaya, MD. Clinical Chief, Department of Cardiology, Cedars-Sinai Medical Center
+
+“I am in community practice and medical director of a community cancer center. OpenEvidence has been an incredible lifeline for daily practitioners.” - C.J., Oncologist 
+
+“OpenEvidence is absolutely fantastic. I use it a gazillion times a day.” - J.A., Neurologist
+
+“OpenEvidence’s efforts to make medicine more evidence-based are invaluable. The shift from judgment to calculation can reduce the level of noise currently found in medicine.” - Daniel Kahneman, Nobel Prize Laureate (In Memoriam)
+
+“It is light years ahead of the next best medical oriented AI I have used.” - R.E.., Oncologist
+
+STAY SHARP & UP-TO-DATE
+
+• Find what you need, when you need it on a mobile-native platform.
+
+• The world’s most powerful medical search engine at your fingertips.
+
+• Discover and find exactly what you are looking for with deep search and a highly intuitive user interface that understands you and what you are asking.",2024-08-15T07:00:00Z,2025-11-20T21:17:11Z
+sk,Slovakia,Medical,6020,24,1478748485,Hilbi,Hilbi Health s.r.o.,https://apps.apple.com/sk/app/hilbi/id1478748485?uo=4,0.0,4.73332,15,Medical,"Hilbi is an advanced digital communication platform focused on gathering all patient's health data into one place.
+ 
+Secure, intuitive and accessible platform
+ 
+Hilbi is one of the first decentralized healthcare artificial intelligence platform to allow all users to share and use data in an anonymous way and under their full control. Hilbi is accessible on any iOS device or as a Web application with intuitive and easy to use environment.
+ 
+Hilbi's ecosystem consists of several UIs: chat as its most native form fulfilling especially the heuristic function to collect all medical data. Other platforms include medical records, decision trees, and emergency navigation.
+Hilbi's DNA is artificial intelligence encased in blockchain to achieve maximum decentralization of the whole ecosystem. Since only such an environment enables users to fully control their sensitive data while staying fully anonymous.
+ 
+Communicating platform
+Hilbi's chatting platform is aimed to collect, distribute, and evaluate medical data. It also serves as a social platform for users to share their experiences. Last but not least, it is a platform for online doctor services through which the patient/user contacts his/her doctor, shares his/her health problems and provides all necessary data he/she is willing to provide.
+ 
+Hilbi's Features
+· Communicating platform tailor-made for doctors, patients, and professional healthcare organizations.
+
+· Medical chat, Medical notes, Group chat, Medical forums - Chat with functions to exchange information about healthcare. Designed for communication between doctor to patient, doctor to doctor, and organizations to doctors.
+
+· Synchronizing messages and notes with the patient's medical card.
+
+· Life ID with all patient's data, accessible for sharing with selected doctors.
+
+· Sync with your favourite apps and devices such as Apple Health, Omron, and Fitbit.
+
+· Patient's Management provided by a doctor for giving e-recipes, e-diagnose, e-chat, e-prevention, integration for medical software for physicians, and emergency system.
+ 
+Disclaimer - Important legal information
+ 
+We periodically verify and update the content of our presentations and take every reasonable precaution to ensure its accuracy. However, the company cannot be held liable if the information in this document is outdated or incomplete.
+ 
+Opinions and comments of the authors reflect their current views or views of quoted market participants and experts. No representation is made that the information is accurate and/or complete. All information and the dates used in this document related to past or present market situations may change at any time without any prior warning. Statements made in this document are based on several factors that are subject to continuous change and therefore any information contained therein may become inaccurate.",2020-06-23T07:00:00Z,2025-10-13T08:04:31Z
+sk,Slovakia,Medical,6020,25,1259448817,Baby Tracker・Breastfeeding Log,Wachanga LTD,https://apps.apple.com/sk/app/baby-tracker-breastfeeding-log/id1259448817?uo=4,0.0,4.74164,329,Medical,"This App is a handy and reliable assistant for tracking your newborn baby’s daily activities. You can track breastfeeding, bottle feeding, solid food feeding and milk pumping. You can save diaper changes, sleeping periods and the results of your baby's height and weight measurements.
+
+With this baby care app, you get all of these incredible features:
+- Track feeding by one breast or by both, if you give your baby two breasts at one feeding
+- Track bottle feeding 
+- Fix solid food feeding - food and its amount
+- If you need to express your milk, you can fix how many ml/oz of each breast were pumped 
+- Fix diaper changing, you can note whether it is wet or dirty, or both :slightly_smiling_face:
+- Always know how many diapers were changed per day
+- Record baths, temperatures, walks, and medications
+- Handy breastfeeding timer and sleeping timer are easy to stop and to restart
+- Your baby's height and weight can be measured almost daily! They are also easily stored in the baby diary. 
+- Add a reminder for each event - periodic and easy-to-set
+- Log and track the activity of several babies. Supports twins!
+
+Being a FTM (first-time-mom), or mom in general, is very tiring and challenging! You’ve just made it home from the hospital, exhausted and overwhelmed by your new responsibilities, and need a little help. Don’t worry! In the first few months of your baby's life, it really revolves around eating, sleeping, diaper changes and occasional little doctor's visits. As a new mom, it’s not always easy to remember the last time you fed your baby or changed their diaper. We don’t blame you for falling asleep on the couch occasionally, so we’ve got you covered with handy alarms and reminders. Alarms and graphs are a great way to have an at-a-glance look at what you need to do without stressing over ""what if I forget?”.
+
+Our app will help you keep track of feedings, your baby’s weight and how long they were eating to make sure they’re gaining weight properly and at a normal rate. Unfortunately for some parents, it’s imperative that they track every last drop of food their baby eats since some infants are born with illnesses that make it harder to gain weight normally. Keeping track of diapers is also imperative to keeping your baby healthy. Everyone needs an easy way to check how often they’re changing diapers, and if everything looks normal during each change.
+
+Just click the appropriate button at the beginning of the feeding and other activities. Your baby care history will be reliably stored. All this information may be useful when you visit the pediatrician, as well as for the further development of your child.
+
+Check your baby’s day to day activities easily and efficiently. This baby care app will help you keep track of everything in one convenient place and help moms take care of themselves by having a peace of mind.
+
+Email us your comments and suggestions, and we'll implement them as soon as possible!
+
+GOLD STATUS IN THE APP
+- You can subscribe to regularly updated backup and synchronization with relatives
+- The subscription costs $2.49 per month, $11.49 per year, $4.99 and $9.99 for lifetime
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2018-04-22T11:28:44Z,2025-10-29T15:34:36Z

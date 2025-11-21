@@ -1,0 +1,939 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+cy,Cyprus,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/cy/app/google-translate/id414706506?uo=4,0.0,3.95833,192,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-07-10T07:33:15Z,2025-11-18T17:48:56Z
+cy,Cyprus,Reference,6006,2,6618158263,BuySell Cyprus,TRAFFIC ADVERTISING LTD,https://apps.apple.com/cy/app/buysell-cyprus/id6618158263?uo=4,0.0,3.6,20,Reference,"BuySell Cyprus – The No.1 Real Estate App in Cyprus!
+Find more properties in Cyprus than anywhere else with BuySell Cyprus, Cyprus' most popular real estate app. Search over 100,000 listings, access up-to-date market information, and connect directly with local estate agents to make the best property choices. Plus, get a free instant home valuation in under a minute!
+
+Why Choose the BuySell App?
+1.	Largest Property Database in Cyprus: Access the biggest selection of homes, apartments, villas, plots, and commercial properties. Our listings are updated daily, ensuring you always have the latest opportunities.
+2.	Advanced Search Tools: Filter by price, location, property type, size, amenities, and more. Find exactly what you're looking for in seconds.
+3.	Multiple Locations, One Search: Search across multiple locations and receive a single set of results, saving you time and effort.
+4.	Personalized Alerts: Set custom alerts and be the first to know when new properties match your criteria. Never miss out on your dream home!
+5.	Direct Communication with Sellers and Agents: Contact property owners, estate agents, or developers directly through the app. Arrange viewings, ask questions, and make offers quickly and easily.
+6.	Powerful Tools for Sellers: List your property for free, reach thousands of potential buyers, manage inquiries, and track your listing's performance—all from one convenient place.
+7.	Free Instant Home Valuation: Discover your home's current market value in less than a minute—completely free!
+8.	Fast, Secure, and User-Friendly: Experience a seamless, secure journey with our app's intuitive design, built for speed and simplicity.
+
+Unmatched Market Reach and Visibility
+•	Cyprus' Most Popular Property App: Trusted by millions of visitors every year, BuySell is the ultimate destination for property buyers. Our app attracts five times more buyers than any other platform in Cyprus.
+•	Proven Success for Sellers: 9 out of 10 home sellers trust BuySell to maximize their property's exposure, selling faster and often at the highest price.
+
+Property in Cyprus starts with the BuySell App!
+Don't miss out on the best properties and selling opportunities in Cyprus. Download the BuySell Cyprus app now and find your dream property or sell your home faster than ever.
+
+Download the BuySell App today and make your next move in Cyprus with confidence!",2024-09-27T07:00:00Z,2025-02-05T18:51:08Z
+cy,Cyprus,Reference,6006,3,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/cy/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.23684,304,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+cy,Cyprus,Reference,6006,4,6504798650,Bible Path: Daily Devotional,DEEP FLOW SOFTWARE SERVICES - FZCO,https://apps.apple.com/cy/app/bible-path-daily-devotional/id6504798650?uo=4,0.0,4.62962,27,Reference,"Bible Path is a thoughtfully designed app aimed at enriching your spiritual journey with scriptures that offer guidance and holy inspiration. Whether you seek daily inspiration, devotional reflections, or a deeper understanding of the scriptures, Bible Path provides a serene and supportive environment for personal growth.
+
+Key Features:
+
+Bible Chat:
+Engage in conversations about faith, prayers, and scriptures with Bible Chat. This feature allows you to explore different interpretations of the scripture, ask questions, and connect with a community of fellow seekers in a holy atmosphere. The chat interface makes it easy to share your thoughts on scriptures and devotional topics with others.
+
+Audio Bible:
+Immerse yourself in the holy scriptures through our audio Bible. Perfect for quiet moments of reflection or during daily activities, the narrated scriptures help you stay connected to the Word of God. Whether you’re listening to audio prayers or meditating on the scripture, the app makes it easy to integrate devotional practices into your routine.
+
+Inspirational Verses and Prayers:
+Receive a daily dose of inspiration with verses and prayers that uplift and guide you. Each scripture verse and prayer is carefully chosen to offer spiritual nourishment, guiding you in your devotional journey with the holy scriptures.
+
+Personalized Daily Reflections:
+Reflect on personalized insights based on the holy scriptures and prayers that resonate with your spiritual needs. These reflections are crafted to help you ponder biblical themes and integrate their teachings into your daily life through consistent devotional practices.
+
+Interactive Bible Studies:
+Deepen your understanding of the Bible with our interactive study guides. These resources provide comprehensive insights and context, suitable for both personal study and group discussion, focusing on the holy scriptures to enrich your devotional life.
+
+Faith Building Exercises and Prayers:
+Engage in exercises designed to strengthen your faith and understanding, complemented by powerful prayers. These activities encourage you to reflect on scriptures and apply them to your life, guiding you in devotional practices.
+
+Studies and Resources:
+Access a wide range of study materials and resources tailored to different levels of biblical knowledge. Whether you are just beginning your journey or seeking advanced understanding of the scriptures, Bible Path provides a supportive resource filled with devotional insights and reflections on the holy scriptures.
+
+Why Choose Bible Path?
+Bible Path is a spiritual companion, offering a calm and nurturing space for exploring the scriptures and growing in faith. With tools like chat, audio resources, and study guides, the app is designed to be a gentle guide, helping you find clarity, comfort, and deeper meaning in your spiritual journey.
+
+Download Bible Path and begin a journey of reflection, learning, and spiritual growth. Let this app be a quiet support in your daily life, offering holy guidance and wisdom from the scriptures through prayers, verses, and more.
+
+Privacy Policy: https://static.holy-bible.app/:privacy-en.html
+Terms & Conditions: https://static.holy-bible.app/:terms-conditions-en.html",2024-08-14T07:00:00Z,2025-11-21T08:20:04Z
+cy,Cyprus,Reference,6006,5,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/cy/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.67764,1002,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+cy,Cyprus,Reference,6006,6,282935706,Bible,Life.Church,https://apps.apple.com/cy/app/bible/id282935706?uo=4,0.0,4.78015,3930,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+cy,Cyprus,Reference,6006,7,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/cy/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.59999,10,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+cy,Cyprus,Reference,6006,8,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/cy/app/deepl-translate/id1552407475?uo=4,0.0,4.69564,161,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+cy,Cyprus,Reference,6006,9,365557665,Quran Majeed – القران الكريم,Pakistan Data Management Services,https://apps.apple.com/cy/app/quran-majeed-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id365557665?uo=4,0.0,4.73834,1116,Reference,"Most authentic Quran app since 2010.
+
+Recognized by more than 65 million Muslim users around the world.
+
+تطبيق القرآن الأكثر اعتمادا منذ عام ٢٠١٠.
+
+معترف به من قبل أكثر من ٦٥ مليون مستخدم حول العالم.
+
+Quran Majeed is an amazing Quran app that beautifies your life with the blessing of reading and listening to the Quran on the go. The latest version of the authentic Quran Majeed app for iPhone and iPad offers complete Quran in the elegant Uthmanic script, audio recitation, translations and English Tafsir Uthmani, proofread by a Muslim scholar ('alim).
+القرآن المجيد هو تطبيق مميز للقرآن الذي يجمل حياتك ببركة القراءة والاستماع إلى القرآن أثناء التنقل. الإصدار الأخير من تطبيق القرآن المجيد لأجهزة الآي فون والآيباد تقدم قرآنًا كاملاً في الكتابة العثمانية الأنيقة، وتلاوة الصوت، والترجمات، والتفاسير، وقام بمراجعته أحد العلماء
+
+● Worldwide Prayer Times clock with Azan/Adhan alarm options. Supports different prayer time calculation methods. Qibla direction. Ramadan Sehar/Iftar times
+أوقات الصلاة لجميع أنحاء العالم مع خيار تنبيه الأذان، ودعم طرق مختلفة لحساب أوقات الصلاة، وبوصلة القبلة، وأوقات السحور والإفطار
+
+● World famous reciters (Sheikh Abdul Basit, Sheikh As Sudays & As Shraym, Mishari Rashid, Saad Al Ghamdi, Abu Bakr Shatry, Sheikh Ahmed Ajmi, Sheikh Al-Huzaifi, Sheikh Mahir-al-Muayqali, Sheikh Minshawi, Sheikh Ayub, Khalil Husari, Mahmood AlBana, Salah Bukhatir & Sheikh Basfar).
+تلاوات القراء المعروفون عالميا.
+
+● Four English translations (Pickthal, Dr. Mohsin, Mahmood & Yusuf Ali) and forty-five language translations (AlBanian, Amazigh, Amharic, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Divehi, Dutch, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Malayalam, Malaysian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sindhi, Somali, Spanish, Swahili, Swedish, Tajik, Tamil, Tartar, Turkish, Urdu, Uyghur, Uzbek). 
+
+● Option to display any translation along with full Arabic text in hi-resolution, Retina graphics in both portrait and landscape viewing. Supports pinch/zoom feature for changing font size.
+خيار عرض أي ترجمة مع النص العربي الكامل بالدقة الممتازة في وضعي الأفقي والعمودي، دعم ميزة التصغير / التكبير لتغيير حجم الخط.
+
+● Islamic greeting messages (Eid Mubarak, Ramadan Kareem, ...)
+رسائل معايدة إسلامية (عيد مبارك، رمضان كريم، ...)
+
+● Qibla Direction — اتجاه القبلة
+
+● Hijri Converter — تحويل التاريخ
+
+● Quran TV feature with beautiful background videos
+تلفزيون القرآن مع مقاطع فيديو خلفية جميلة
+
+● Visual Quran feature with flip gesture
+المصحف المرئي مع إيماءة التقليب
+
+● Watch live coverage of Makkah & Madinah.
+شاهد التغطية المباشرة لمكة المكرمة والمدينة المنورة.
+
+● Selectable themes (Green, Blue, Classic-Green, Night Mode, Light & Brown).
+إمكانية اختيار الثيمات (أخضر، أزرق، الوضع الليلي، فاتح، بني)
+
+● Advanced audio options to help with memorization (repetition of ayah, Surah, number of repetitions, interval, and recitation speed).
+خيارات الصوت المتقدمة للمساعدة في الحفظ (تكرار الآية، وسورة، وعدد من حالات التكرار، وفاصل، وسرعة التلاوة).
+
+● Highly advanced “Search” feature that can help with searching any word (search exact word, affixes or all roots) in the Arabic text, any of the translations and English Tafsir.
+ميزة بحث متقدم يساعد في البحث عن أي كلمة ( الكلمة بالضبط، كل اللاحقات أو الجذور) في النص العربي، والترجمات والتفاسير
+
+● Bookmarking of Aya, translation and tafsir (supports iCloud synchronization that helps your bookmarks stay up to date on all your iOS devices).
+وضع علامة مرجعية على الأية، والترجمة، والتفسير للرجوع إليها
+
+● Quranic Aya and word highlighting during recitation.
+تظليل الآية والكلمة أثناء التلاوة
+
+● Social media sharing. Ability to share selected aya via email, twitter & Facebook.
+مشاركة في وسائل الإعلام الاجتماعية
+
+● iPad friendly interface
+تطابق واجهة أيباد
+
+Terms & Conditions
+https://pakdata.com/terms-and-conditions/
+
+Privacy Policy
+https://pakdata.com/privacy-policy/",2011-07-09T19:14:38Z,2025-11-17T05:55:37Z
+cy,Cyprus,Reference,6006,10,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/cy/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,4,3,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-02-07T08:00:00Z,2025-11-14T09:53:01Z
+cy,Cyprus,Reference,6006,11,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/cy/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,5,13,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+cy,Cyprus,Reference,6006,12,1634551626,CoinSnap: Coin Identifier,Next Vision Limited,https://apps.apple.com/cy/app/coinsnap-coin-identifier/id1634551626?uo=4,0.0,4.78125,160,Reference,"With 300,000+ coin types, 99% recognition accuracy, and an AI-powered database, CoinSnap is a companion for coin enthusiasts. Whether you're identifying a rare error coin, uncovering the value of a hidden gem, or organizing a collection of hundreds of coins, CoinSnap makes it fast, easy, and fun to explore the fascinating world of numismatics.
+
+Key Features:
+AI-Powered Coin Recognition
+Instantly identify coins from around the globe with a quick photo or upload.
+Coverage of over 240,000 coin types with an impressive 99% recognition accuracy.
+Supports high-resolution photography for precision results.
+
+Comprehensive Coin Information
+Receive detailed overviews, including coin name, origin, year of issue, mint count, and more.
+Check rarity levels and access up-to-date market prices.
+Explore multiple coin encyclopedias for in-depth knowledge.
+
+Professional Coin Analysis
+Identify rare misprinted coins with expert analysis reports.
+Access coin grading reports with detailed breakdowns and estimated market values.
+Backed by insights from professional numismatists.
+
+Smart Collection Management
+Create and manage your personalized coin collection effortlessly.
+Organize coins by series and track the total value of your collectibles.
+Keep your collection secure and accessible anytime.
+
+Why Choose CoinSnap?
+Lightning-fast and accurate coin recognition.
+Extensive database covering coins from every corner of the world.
+All-in-one solution for identification, grading, and collection management.
+
+About CoinSnap Premium 
+-Subscription Name: CoinSnap Premium (Yearly with Trial) 
+-Subscription Duration: 1 year (7 days trial) 
+-Subscription Description: Unlock all Premium features. 
+
+• Payment will be charged to iTunes Account at confirmation of purchase 
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period 
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal 
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable 
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase 
+
+Please note that terms and conditions, as well as our privacy policy, apply. 
+Terms of Use: https://app-service.coinidentifierai.com/static/user_agreement.html  
+Privacy Policy: https://app-service.coinidentifierai.com/static/privacy_policy.html 
+Contact us: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+cy,Cyprus,Reference,6006,13,6452190948,"PriceCharting: TCG, Games+",PriceCharting LLC,https://apps.apple.com/cy/app/pricecharting-tcg-games/id6452190948?uo=4,0.0,4.8,10,Reference,"The best of PriceCharting and SportsCardsPro now on iOS! Find out what your collectibles are worth. Track market prices of video games, sports cards, Pokemon, YuGiOh, Magic the Gathering, Lorcana, and other trading cards, comic books, US coins, LEGO, and more. Completely free. We track thousands of sales from the top auction sites: eBay, Heritage, PWCC, and more, filter and sort them by condition into easy to use price guides.
+
+PriceCharting allows you to:
+- View pricing for all conditions of an item.
+- View previous sales of collectibles from across the web. 
+- Add items to your Collection to track their value over time. 
+- Add items to your Wishlist  
+- Use Search By Photo or Barcode Scanner to instantly ID your trading card or comic. 
+- View all of the variations of your collectibles with our extensive photo catalog.
+- Share collectibles with your friends via text message.
+- Get notifications when items on your wishlist are listed below market value on eBay or our own marketplace
+- Create lots from any number of items, add markups, and share PDF receipts when you're at conventions or just a garage sale
+- Get grading recommendations for your ungraded collectibles that would gain the most value 
+
+Example video games console supported: Playstation, PS2, PS3, PS4, PS5, Nintendo NES, SNES, Wii, Wii U, Gameboy, GBA, Nintendo DS , Xbox, Sega Genesis, Dreamcast,  and many others. 
+
+Example Pokemon sets supported: Base Set, Scarlet & Violet, Pokemon 151, Vivid Voltage, Obsidian Flame, and every other Pokemon English and Japanese set.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-09-11T07:00:00Z,2025-10-29T17:23:19Z
+cy,Cyprus,Reference,6006,14,6448849666,Bible Chat: The Holy Scripture,BookVitals APP SRL,https://apps.apple.com/cy/app/bible-chat-the-holy-scripture/id6448849666?uo=4,0.0,4.75439,57,Reference,"Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life
+
+Have you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Download Bible Chat today!
+
+Life is noisy. Fast. Overwhelming. Even when you’re trying to stay close to God, it’s easy to feel spiritually disconnected.
+
+Bible Chat is the ultimate all-in-one Christian app designed to make Bible reading, prayer, and Christian community a part of your everyday life. It is for Christians who want peace - real peace - anchored in Scripture.
+
+
+Whether you're a lifelong Christian or just starting your journey, Bible Chat gives you everything you need to:
+
+• Understand the Bible Better - Learn what the Bible really means with helpful guides and simple explanations that make God's Word easier to follow and apply.
+
+• Grow Your Prayer Habit - Build a consistent prayer routine supported by daily  inspiration and the power of a praying community.
+
+• Make Faith Part of Your Day - Improve your daily routine with spiritual prompts, Christian calendar reminders, and faith tools designed for the whole family.
+
+• Support Your Mental Health - Find peace and calm in moments of stress with simple tools that help you refocus on God’s strength.
+
+• Make Faith Fun and Interactive - Enjoy fun and easy ways to learn, think, and talk about how faith fits into your everyday life.
+
+
+Key Features to Explore:
+
+• Daily Plan: Stay on track with your faith. Follow a simple daily plan that helps you grow closer to God, one step at a time.
+
+• Structured Bible Study Plans: Follow simple Bible reading plans made for real life. Some of the topics include: healing, wisdom, leadership, grief, and more.
+
+•  Holy Calendar: See important Christian days in a monthly view. Never miss a feast, saint day, or holy event again.
+
+• Panic Button: Struggling with stress or temptation? Tap the Panic Button for guided deep breathing exercises that calm the mind and provide anxiety relief.
+
+• Live Prayer: Share your prayer intentions, and let's pray together to grow closer to God.
+
+• Send a Blessing:  Send a Bible verse with a kind message straight to a friend’s phone. Add a heart or doodle to make it personal and uplifting.
+
+• Bible Stories for Kids: Turn screen time into faith time! Show fun, Bible-based stories and videos to your kids.
+
+• Multiple Bible Versions: Read the Bible the way you like best. Choose from NKJV, KJV, WMB, FBV, World English Bible, Amplified, and NASB.
+
+• Bible Verse Widget: See a new Bible verse every day, right on your lock screen or home screen.
+
+• Bible Trivia: Challenge and enhance your biblical knowledge through interactive trivia games.
+
+• Verse Locator: Looking for a verse? Search and find it fast, along with what it means.
+
+• Personalized Devotionals & Prayers: Start your day with custom devotionals and write your own prayers to stay closer to God.
+
+• Biblical Character Profiles: Learn about the people in the Bible: their stories, struggles, and how God worked in their lives.
+
+• Let's Discuss Faith: Join honest chats about how faith connects to your real life - like work, family, and relationships.
+
+
+Experience More with Premium:
+Unlock unlimited conversations, full access to every feature, and exclusive designs for your Daily Prayer Widgets. Start with a FREE 7-day trial, then choose our weekly plan at £4.99 or opt for extended plans for greater savings.
+
+
+Privacy Policy & Terms and Conditions:
+https://thebiblechat.com/privacy-policy/
+https://thebiblechat.com/terms-and-conditions/
+
+
+Join Our Thriving Community:
+Join a friendly community of people who love God or are just starting to learn. With Bible Chat and the new Send a Blessing Widget, you can make Bible verses and prayer part of your everyday conversations.",2023-05-11T07:00:00Z,2025-11-17T20:04:23Z
+cy,Cyprus,Reference,6006,15,6446212792,Orthodox Bible,"ByteBlocks, LLC",https://apps.apple.com/cy/app/orthodox-bible/id6446212792?uo=4,0.0,5,16,Reference,"The Orthodox Bible mobile app for every Orthodox Christian! This app is the perfect resource for those who want to study and explore the Orthodox Christian faith. With the Orthodox Bible app, you can access the full text of the Old and New Testament. The app also includes daily readings and a Orthodox Calendar of feasts and fasts, making it easy to stay connected to your faith every day. The Orthodox Bible app is an essential tool for everyone going through their own spiritual journey.
+
+Features: 
+ Daily readings
+ Daily prayers: morning, meal and evening prayers
+ Audio Psalms
+ 
+The translation of the Old Testament from the Septuagint into English is a process that involves both linguistic expertise and a deep understanding of the historical and cultural context of the original texts. The Septuagint, often abbreviated as LXX, is an ancient Greek translation of the Hebrew Bible, specifically the Old Testament, which holds significant importance in the history of biblical scholarship. 
+
+Use this app to track the dates of other religious holidays in the  Orthodox calendar such as Christmas, Epiphany, Theophany, and the Dormition of the Theotokos. These holidays are based on the liturgical Orthodox calendar, which is a cycle of readings and liturgical services that are used in the Orthodox churches. The liturgical Orthodox Calendar follows the same patterns and themes throughout the year, and it is closely tied to the life and teachings of Jesus Christ. Why follow the Orthodox calendar: mindfulness and introspection, humility recognizing one's own smallness in the grand scheme of God's plan and purpose.
+
+ - Build discipline and routine in one's spiritual practice
+-  Foster a deeper sense of connection to the divine
+- Take time to reflect on the sacrifices and teachings of Jesus Christ by observing religious holidays
+- Foster a sense of community and shared spiritual practice with other Eastern Orthodox believers.
+
+The Orthodox calendar, also known as the Julian calendar, is the calendar used by many Eastern Orthodox churches around the world to determine the dates of religious holidays and observances. It is based on the Julian calendar, which was introduced by Julius Caesar in 45 BC and is currently 13 days behind the Gregorian calendar. The Orthodox calendar has different dates for Easter and other religious holidays, which are based on the liturgical calendar. It is an important part of the religious tradition and culture of the Eastern Orthodox churches. The Orthodox calendar is currently 13 days behind the Gregorian calendar, which is widely used in the Western world. This difference is due to the fact that the Orthodox churches did not adopt the Gregorian calendar, which was introduced in 1582 by Pope Gregory XIII as a reform of the Julian calendar. The Gregorian calendar has a leap year rule that eliminates the accumulated error of the Julian calendar, so the Orthodox church still use the Julian calendar. The Orthodox calendar follows the same month names as the Julian calendar, which are: January, February, March, April, May, June, July, August, September, October, November and December. However, the Orthodox calendar has different dates for Easter, which is the most important religious holiday for Christians. The Orthodox Easter is always celebrated on the Sunday following the first full moon after the vernal equinox. This is different from the Western Easter, which is always celebrated on the Sunday following the first full moon on or after the vernal equinox. 
+
+Privacy Policy: https://www.orthodoxbible.app/privacypolicy.html
+ 
+
+Privacy Policy: https://orthodoxbible.app/privacypolicy.html
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-03-14T07:00:00Z,2025-10-20T11:13:40Z
+cy,Cyprus,Reference,6006,16,6754325101,Footywise,Ziv Elbaz,https://apps.apple.com/cy/app/footywise/id6754325101?uo=4,0.0,0,0,Reference,"Ever wondered if you truly understand the beautiful game? Footywise is your personal guide to football, from its historic roots to modern tactics and complex rules. Test your knowledge with interactive quizzes and master strategies with our visual field guides. Stop just watching and start understanding football like a real pro.",2025-10-28T07:00:00Z,2025-11-08T18:21:18Z
+cy,Cyprus,Reference,6006,17,477971748,MyHeritage: Family Tree & DNA,MyHeritage Ltd,https://apps.apple.com/cy/app/myheritage-family-tree-dna/id477971748?uo=4,0.0,4.86818,220,Reference,"Explore your roots, find new relatives, and make amazing discoveries with genealogical search tools and an intuitive family tree builder. Join our global community of users to map your ancestors and family history effortlessly.
+
+LiveMemory™
+Make your memories come to life as AI-powered videos with LiveMemory™! Turn photos into video clips with AI-powered photo animation and relive your favorite moments. Animate entire family photos and see your memories reimagined in lifelike videos. Our AI video generator creates animated memories that bring photos to life. Share on social media and amaze your family and friends!
+
+Build Your Family Tree
+Start your family tree by entering a few names, and MyHeritage will do the rest. Our matching technologies for genealogical research will automatically find new information for you in our diverse collection of 81 million family trees built by users all over the world, and in our huge database of 21 billion historical records. Watch your family history come to life and make fascinating discoveries with this family tree maker app.
+
+Make Instant Family History Discoveries
+MyHeritage’s genealogical search features can easily match your family tree to other family trees and historical records to provide you with meaningful new insights about your ancestors. Enrich your family tree with MyHeritage’s powerful search and matching technologies:
+
+Smart Matches™
+A unique technology that automatically matches your family tree to other family trees, revealing new information about your family origins.
+Record Matches: an innovative technology that finds new information about your ancestors in our global collection of historical records.
+Instant Discoveries™: a useful feature that adds entire branches and photos to your family tree in one click.
+
+Find Your Ancestors in Historical Records
+Explore your family history in MyHeritage’s vast database of more than 33 billion historical records from around the world. The historical record collections include vital records (birth, marriage, and death certificates) from 66 countries; census and immigration records; gravestone and burial records; and much more.
+
+MyHeritage DNA
+Locked inside your DNA is your unique ethnic makeup. The test consists of a simple cheek swab and reveals your genetic heritage across 2,114 geographic regions — more than any other test. It also matches you to relatives you never knew existed in our DNA database of 9 million people. View your DNA results on the app; they’re private and secure, and will never be shared or sold.
+
+Deep Nostalgia™
+Have you ever dreamed of bringing historical family photos to life? With MyHeritage’s Deep Nostalgia™ feature, your historical family photos will come to life and you’ll see your ancestors’ faces move! Deep Nostalgia™ uses AI technology to breathe new life into historical photos and recreate moments from your family history. Pull out those photo albums and discover your ancestry as you connect to cherished family memories and trace history across generations.
+
+Enrich Your Family Tree with Photos
+Capture and share your family memories, old and new. Scan your family photos directly from the app and use our AI-based photo tools to bring your family history to life. Repair scratched or damaged photos with Photo Repair, colorize your black and white photos, and bring blurry faces into focus with the MyHeritage Photo Enhancer. Record the stories behind your family photos with the Photo Storyteller™ and preserve them for generations to come.
+
+Download MyHeritage today to uncover your roots with an all-in-one family tree app, photo animator, and ancestry search tool.
+
+Terms of Use: https://www.myheritage.com/terms-and-conditions",2011-11-12T00:14:59Z,2025-11-16T15:44:00Z
+cy,Cyprus,Reference,6006,18,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/cy/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,5,1,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+cy,Cyprus,Reference,6006,19,6744892450,App Cloner: Dual Space,Himanshu Nariya,https://apps.apple.com/cy/app/app-cloner-dual-space/id6744892450?uo=4,0.0,5,1,Reference,"App Cloner: Dual Space is the ultimate solution for running multiple accounts, cloning apps, and managing dual apps on a single device. Whether you're managing personal and work social media, playing games with multiple IDs, or chatting across platforms, this app provides a smooth and secure experience without switching or logging out.
+
+Top Features:
+
+-  Dual App Support: Easily clone popular apps like WhatsApp, Facebook, Instagram, or Messenger and run two accounts simultaneously.
+-  Multiple Game Accounts: Enjoy gaming with different player profiles on the same phone.
+-  Custom App Icons & Names: Personalize cloned apps with custom names and icons for a clean, organized layout.
+-  Create Your Own Avatar: Design a fun digital version of yourself to use across your profiles or in cloned apps.
+-  App Locker (PIN Protected): Lock your cloned apps to protect personal chats and private data.
+-  Direct Chat Access: Send messages on WhatsApp or Telegram without saving contacts to your phone.
+-  Lite & Fast Performance: Designed to be lightweight, fast, and battery-efficient for smooth multitasking.
+
+App Cloner: Dual Space combines power, privacy, and performance, making it the perfect tool for users who want to keep work-life balance, multiple social identities, and private app spaces on a single device.
+
+Privacy Policy: https://happcloner.blogspot.com/2025/04/privacy-policy.html
+Terms & Condition: https://happcloner.blogspot.com/2025/04/terms-condition.html
+
+EULA:
+https://happcloner.blogspot.com/2025/04/eula.html
+
+Support US: himanshunariya22@gmail.com",2025-04-22T07:00:00Z,2025-05-20T08:28:59Z
+cy,Cyprus,Reference,6006,20,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/cy/app/yandex-translate/id584291439?uo=4,0.0,4.72165,194,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+cy,Cyprus,Reference,6006,21,976505454,e-Devlet,Turkiye Cumhuriyeti Cumhurbaskanlıgı Dijital Donusum Ofisi Baskanlıgı,https://apps.apple.com/cy/app/e-devlet/id976505454?uo=4,0.0,5,2,Reference,"Yeni e-Devlet Kapısı iOS uygulaması ile www.turkiye.gov.tr adresindeki hizmetler artık mobil cihazınızda.
+ 
+Uygulamayı kullanabilmek için e-Devlet Şifresi veya Mobil İmza sahibi olmalısınız. e-Devlet Şifrenizi PTT şubelerine geçerli kimliğiniz ile birlikte şahsen başvurarak temin edebilirsiniz. Mobil İmza aboneliği için hizmet aldığınız operatöre başvurmalı ve gerekli prosedürü tamamlamalısınız.
+
+Uygulamayla, www.turkiye.gov.tr adresinde en sık kullanılan hizmetleri kullanabilir, favori hizmetlerinizi görebilir, profil bilgilerinizi düzenleyebilir, anlık bildirim alabilir, kamu kurumları ve belediyelere ait bilgi ve hizmetlere hızlı bir şekilde ulaşabilirsiniz.
+
+ 
+En Sık Kullanılan Hizmetler
+
+- SGK 4A Hizmet Dökümü
+- Adalet Bakanlığı Mahkeme Dava Sorgulama
+- Gelir İdaresi Başkanlığı Vergi Borcu Sorgulama
+- SGK GSS Prim Borcu Sorgulama
+- Maliye Bakanlığı e-Bordro Hizmeti",2015-04-11T01:42:53Z,2025-11-20T06:42:14Z
+cy,Cyprus,Reference,6006,22,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/cy/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.69432,4086,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2011-07-10T00:14:22Z,2025-11-13T13:29:55Z
+cy,Cyprus,Reference,6006,23,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/cy/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,3.71429,7,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+cy,Cyprus,Reference,6006,24,1298384039,Instant Voice Translate,Erudite Education Group Limited,https://apps.apple.com/cy/app/instant-voice-translate/id1298384039?uo=4,0.0,4.54839,31,Reference,"""Instant Voice Translate"" is a free and user-friendly language translation app powered by cutting-edge ChatGPT technology. Whether you're traveling abroad or connecting with people who speak different languages, this ChatGPT-powered app is your reliable companion.
+
+===== FEATURES ===== 
+
+1. Voice Translation: Speak naturally and let the app provide instant translations in real-time. Communicate effortlessly and break down language barriers.
+
+2. Split-Screen: Talk easily with people from other cultures using the face-to-face feature. Have smooth bilingual chats and build connections easily.
+
+3. Image Translation: Translate text within photos by capturing or importing them. Whether it's signs, menus, or documents, this feature helps you navigate the world around you with ease and confidence.
+
+4. Text Translation: Obtain accurate and real-time translations for individual words or phrases, regardless of the context. No more language barriers hindering effective communication.
+
+5. Slow Audio Playback: Don't worry about keeping up with normal audio playback. Utilize this feature to listen to translated phrases at a slower speed, allowing for better language learning.
+
+6. ChatGPT Optimization: Boost the quality of translations using ChatGPT, ensuring more precise and natural translations.
+
+7. Offline Translation: Translate while traveling, even if you don't have access to the Internet. Ideal for travelers or anyone who requires offline translation support.
+
+Experience the remarkable capabilities of ""Instant Voice Translate"" and revolutionize your language interactions like never before. Download the app now and unlock a world of communication possibilities. Say goodbye to language barriers and hello to seamless conversations.
+
+Choose from over 70 languages for translation and learning: 
+▪ English
+▪ Chinese - 中文
+▪ French - Français
+▪ German - Deutsch
+▪ Hindi -  हिन्दी
+▪ Italian - Italiano
+▪ Japanese - 日本語
+▪ Korean - 한국어
+▪ Portuguese - Português
+▪ Russian - Русский
+▪ Spanish - Español
+There are more languages waiting for you to explore ...
+
+===== PREMIUM ===== 
+
+We offer premium subscription services on a monthly and yearly basis, granting users unlimited access to translation features and an ad-free experience. Upon subscribing:
+
+* Payment will be charged to iTunes Account at confirmation of purchase
+* Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+* Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+* Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+* Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+TERMS OF USE
+https://erudite.cc/terms-of-use/
+
+PRIVACY POLICY
+https://erudite.cc/privacy-policy/",2017-10-20T03:29:11Z,2025-02-07T15:14:13Z
+cy,Cyprus,Reference,6006,25,996239729,PSA | TCG and Sports Cards,"Collectors Universe, Inc",https://apps.apple.com/cy/app/psa-tcg-and-sports-cards/id996239729?uo=4,0.0,5,1,Reference,"Streamline your collecting journey from start to sold with the PSA app. Identify and price any sports or trading card in seconds, submit for grading, track progress, reveal grades, and quickly list on eBay with full-service consignment from the global leader in authentication and grading.
+
+
+SUBMIT FOR GRADING
+
+Streamlined Submissions: Build and manage grading submissions with ease.
+
+Real-Time Updates: Stay informed with order progress notifications.
+
+Thrilling Grade Reveals: Flip to reveal your grades with an interactive presentation.
+
+
+MANAGE YOUR COLLECTION
+
+Instantly Identify and Price: Get real-time market value with a quick scan.
+
+Sell on eBay: List cards seamlessly from grading or the PSA Vault.
+
+Track Your Collection: Monitor stats and real-time pricing data to manage your portfolio.
+
+Certify and Analyze: Scan PSA labels for instant verification and market insights.
+
+Enhance Card Images: Customize images of your cards with Slab Studio editing tools.
+
+
+For more info, please visit https://www.PSAcard.com/apps. Note that data entry errors may occasionally lead to conflicting database and card holder info. ",2015-06-04T06:40:53Z,2025-11-06T19:23:46Z

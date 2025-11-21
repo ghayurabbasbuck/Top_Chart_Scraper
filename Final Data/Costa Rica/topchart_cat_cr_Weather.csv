@@ -1,0 +1,817 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+cr,Costa Rica,Weather,6001,1,1161387262,Windy.com Meteorología y radar,"Windyty, SE",https://apps.apple.com/cr/app/windy-com-meteorolog%C3%ADa-y-radar/id1161387262?uo=4,0.0,4.82639,962,Weather,"UNA VISUALIZACIÓN ÚNICA DEL PRONÓSTICO DEL TIEMPO
+Mientras que la mayoría de las apps de pronóstico del tiempo dependen solo de modelos globales gratuitos, Windy ha ido más allá e invierte constantemente en los modelos más precisos disponibles, siempre con la mayor resolución posible, para ofrecer predicciones meteorológicas confiables.
+
+RADAR METEOROLÓGICO E IMÁGENES SATELITALES
+El radar meteorológico es una de las herramientas más solicitadas. Para ofrecer imágenes precisas, ampliamos constantemente nuestras fuentes para que la lluvia, la nieve o las tormentas no te sorprendan. Fuentes confiables incluyen: NOAA, Met Office, AROME, DWD, JMA, ACCESS y más.
+
+MÁS DE 50 MAPAS Y HERRAMIENTAS METEOROLÓGICAS
+- Pronóstico del viento (velocidad actual, rachas, acumulación, comparación de modelos, estaciones meteorológicas)
+- Temperatura, humedad, presión, punto de rocío, altitud de congelación
+- Lluvia, tormentas eléctricas, tipo de precipitación, índice CAPE
+- Radar meteorológico e imágenes satelitales (azul, infrarrojo, visible)
+- Nubes, altura y base de nubes, visibilidad (LIFR, IFR, MVFR, VFR), niebla
+- Olas, marejadas, corrientes
+- Mapas de actividad solar (potencia solar, índice UV, temperatura de bulbo húmedo)
+- Nieve acumulada, nieve nueva, densidad de nieve
+- NO₂, PM2.5, Aerosoles, SO₂, Capa de ozono, Ozono superficial, CO, partículas de polvo
+- Alertas meteorológicas y pronósticos extremos
+- Humedad del suelo, anomalías de humedad, intensidad de sequía, riesgo de incendios, humedad del combustible
+
+MODELOS METEOROLÓGICOS DISPONIBLES
+Globales:
+- ECMWF
+- GFS (NOAA)
+- ICON (DWD)
+
+Locales:
+- HRRR, NAM (NOAA)
+- HRDPS (MSC)
+- ICON-EU, ICON-D2 (DWD)
+- UKV (Met Office del Reino Unido)
+- AROME-HD (Météo France)
+- ALADIN (CHMI)
+- NEMS (meteoblue)
+- MSM (JMA)
+- ACCESS-C (BoM Australia)
+
+ALERTAS EN VIVO Y PERSONALIZADAS
+Recibe alertas en tiempo real antes de que llegue la tormenta. ¿Quieres anticiparte al clima? Configura alertas personalizadas según tus ubicaciones favoritas y los parámetros que más te interesen: viento, lluvia, temperatura.
+
+SEGUIMIENTO DE HURACANES Y TORMENTAS
+Con la herramienta de seguimiento de huracanes de Windy puedes ver el recorrido histórico y la trayectoria pronosticada. No dependemos de un solo modelo: te mostramos todos los disponibles.
+
+WIDGETS DEL CLIMA PARA iOS, iPadOS Y macOS
+Obtén una vista rápida del clima en tu iPhone, iPad o Mac con radar en vivo de NOAA, Met Office, Meteo France, JMA, DWD, ACCESS y más. Elige entre múltiples tamaños y estilos: radar, satélite, pronóstico de 3 a 5 días o widgets simples para la pantalla bloqueada.
+
+HERRAMIENTAS PARA PILOTOS
+- 16 niveles de altitud desde el suelo hasta 13.5 km / FL450
+- Más de 50,000 aeropuertos buscables por ICAO e IATA, info de pistas, METARs en crudo y decodificados, TAF y NOTAM
+- Airgrama y meteograma detallados
+- Pronóstico de térmicas
+- Meteograma con temperatura, punto de rocío, viento, presión, precipitación, nubosidad por altitud
+- Planificador de rutas
+
+WINDY PARA APPLE WATCH
+Pronóstico, radar, METARs, estaciones meteorológicas y viento en una interfaz compacta y elegante. Usa la carátula de Windy en tu Apple Watch y tenlo todo a la vista en cualquier momento.
+
+TÉRMINOS Y CONTACTO
+Términos de uso: https://account.windy.com/agreements/windy-terms-of-use
+Política de privacidad: https://account.windy.com/agreements/windy-privacy-policy
+
+Contáctanos:
+Únete a community.windy.com para compartir ideas, reportar errores o sugerir funciones. También puedes escribirnos a info@windy.com
+
+Síguenos:
+- Facebook: facebook.com/windyforecast
+- X: X.com/windycom
+- Threads: threads.net/@windy_forecast
+- Instagram: instagram.com/windy_forecast
+- YouTube: youtube.com/@Windyforecast",2016-10-31T20:29:54Z,2025-11-03T08:13:21Z
+cr,Costa Rica,Weather,6001,2,749133753,Clime: Radar del Tiempo,Mosaic S.r.l.,https://apps.apple.com/cr/app/clime-radar-del-tiempo/id749133753?uo=4,0.0,4.53903,1486,Weather,"Manténgase un paso por delante de la lluvia con un mapa de precipitación interactivo altamente sensible y obtenga acceso rápido a pronósticos meteorológicos precisos.
+
+MANTÉNGASE INFORMADO
+- El mapa de precipitación provee pronóstico de lluvias para las próximas 24 horas;      
+- El mapa de satélite ilustra la cobertura de nubes;
+- Escoja mapas de fondo (estándar, híbrido, satélite), busque ubicaciones, agréguelas a sus favoritos.
+
+VER DETALLES DEL TIEMPO:
+- Previsión de 24 horas y 7 días;
+- Temperatura actual, mínima y máxima para el día y sensación de temperatura;
+- Presión, humedad, velocidad del viento, visibilidad, información sobre el punto de rocío;
+- Probabilidad de precipitación;
+- Hora de amanecer y ocaso.
+
+Información de cobertura:
+Imágenes de radar: EE. UU. (EE. UU. continental, Alaska (excepto parte norte), Hawái, Islas Marianas del Norte y Puerto Rico), México (norte), Canadá (sur), Australia, Reino Unido, Irlanda, Alemania, Francia, Países Bajos, Italia (norte y noroeste), Dinamarca, Austria, Suecia, Finlandia, España, Portugal, Suiza, Noruega, Polonia, Andorra, Japón y más. Vea la lista completa en el sitio web del desarrollador.
+Mapas de precipitaciones, temperatura y satélite; mapa de viento; pronóstico de profundidad de la nieve; rastreadores de huracanes, rayos e incendios forestales; información detallada del tiempo, alertas de precipitaciones: en la mayor parte del mundo.
+Advertencias gubernamentales sobre condiciones meteorológicas extremas: Australia, Austria, Bélgica, Canadá, Dinamarca, Estonia, Finlandia, Francia, Alemania, Irlanda, Italia, Japón, Letonia, Luxemburgo, Países Bajos, Noruega, Polonia, Portugal, España, Suecia, Suiza, Reino Unido.
+
+Obtén Clime Premium:
+- Alertas de clima severo para todas las ubicaciones guardadas
+- Rastreador de huracanes
+- Previsión avanzada de precipitaciones
+- Rastreador de tormentas eléctricas
+- Mapa de temperatura
+- Alertas de lluvia
+- Índice de calidad del aire
+- Rastreo de incendios forestales
+- RainScope
+- Previsión horaria 
+- Previsión para 14 días
+- Mapa de viento animado
+- Pronóstico de profundidad de la nieve 
+- Sin anuncios
+ 
+Los pagos de la suscripción se cargarán en su cuenta de la App Store al confirmar su compra. Las suscripciones se renovarán automáticamente y se le cobrará a menos que se desactive la renovación automática o a menos que se cancele al menos 24 horas antes del final de la suscripción actual o del periodo de prueba. Cualquier parte no utilizada de un periodo de prueba gratuito se perderá si adquiere una suscripción prémium durante el periodo de prueba gratuito. El costo de la renovación depende del Plan de suscripción que elija. 
+Las suscripciones y la renovación automática pueden gestionarse accediendo a la Configuración de la cuenta después de la compra o poniéndose en contacto con el Servicio de atención al cliente.
+
+Política de privacidad: https://climeradar.com/privacyPolicy
+Términos: https://climeradar.com/terms",2013-11-25T23:46:36Z,2025-11-13T12:49:58Z
+cr,Costa Rica,Weather,6001,3,1073082439,My Aurora Forecast,JRustonApps B.V.,https://apps.apple.com/cr/app/my-aurora-forecast/id1073082439?uo=4,0.0,4.90798,163,Weather,"My Aurora Forecast es la mejor aplicación para ver la aurora boreal. Construido con un diseño oscuro y elegante, atrae tanto a los turistas como a los observadores de auroras serios al decirle lo que quiere saber, si esa es exactamente la probabilidad de que vea la aurora boreal o detalles sobre los vientos solares y las imágenes del sol de alta resolución. Con esta aplicación, verá la aurora boreal en poco tiempo.
+
+- Encuentre el índice KP actual y la probabilidad de que vea la aurora boreal.
+- Ver una lista de las mejores ubicaciones para ver desde ahora.
+- Mapa que muestra la intensidad de la aurora en todo el mundo, basado en el pronóstico de auroras de ovación de SWPC.
+- Notificaciones push gratuitas cuando se espera que la actividad auroral sea alta.
+- Pronósticos para la próxima hora, varias horas y varias semanas para que pueda planificar su visualización de la aurora boreal con mucha anticipación (sujeto a las condiciones climáticas).
+- Estadísticas del viento solar e imágenes del sol.
+- Información del recorrido, por lo que si está considerando ir a lugares como Islandia o incluso Alaska o Canadá, podrá encontrar recorridos que podemos recomendarle.
+- Completamente gratuito para todas las funciones, sin compras dentro de la aplicación.
+
+Si desea las últimas actualizaciones sobre la actividad geomagnética y disfruta viendo la aurora boreal, esta aplicación es adecuada para usted. Esta versión cuenta con publicidad.",2016-01-26T23:26:23Z,2025-11-19T17:42:40Z
+cr,Costa Rica,Weather,6001,4,300048137,AccuWeather: Clima y Tiempo,"AccuWeather International, Inc.",https://apps.apple.com/cr/app/accuweather-clima-y-tiempo/id300048137?uo=4,0.0,4.76818,729,Weather,"AccuWeather es tu radar del tiempo: obtén el pronóstico del clima con mapas, la temperatura real, además de noticias meteorológicas y mucho más.
+ 
+Puedes rastrear en vivo los cambios atmosféricos para saber con exactitud cuánto calor o frío hace donde quiera que vayas.
+ 
+Prepara tu día con la precisión de AccuWeather. ¿Te preocupa quemarte por el sol?: recibe alertas e informes climáticos mediante imágenes satelitales con información de radiación UV. Además, RealFeel Temperature® te ayuda a saber la sensación climática real en el exterior.
+ 
+Las siguientes razones hacen de AccuWeather una app única:
+ 
+1.  Recibe actualizaciones climáticas en todo el mundo y en todo momento con Superior accuracy™.
+2.  Las alertas atmosféricas de AccuWeather te ayudarán a prepararte en caso de emergencias climáticas.
+3.  RealFeel Temperature® te da a conocer la diferencia entre cómo se ve el ambiente y cómo se siente en verdad.
+ 
+Desde el índice de radiación UV, hasta el punto de rocío, la visibilidad, la precipitación y varios informes de calidad ambiental, con AccuWeather accede a toda la información que necesites.
+ 
+Puedes controlar el tipo de información que desees recibir, desde actualizaciones cada minuto hasta informes diarios. No hay razón para que los cambios climáticos te arruinen el día.
+ 
+Personaliza AccuWeather para que se ajuste a tus necesidades:
+ 
+•Recibe información ambiental desde cualquier lugar del mundo.
+•Puedes saber el estado meteorológico hasta con 15 días de anticipación.
+•Obtén la última información meteorológica cada minuto con MinuteCast®
+•El equipo noticioso de AccuWeather te mantendrá informado con las últimas novedades climáticas mediante videos.
+•Personaliza la app para que muestre solo las funciones que te interesan.
+ 
+Con superior accuracy™, conoce con exactitud la información climática para que no te pierdas un día de campo, un atardecer o esa ocasión especial al aire libre que planeaste. Recibe información ambiental confiable con AccuWeather.
+ 
+Descarga AccuWeather de forma gratuita y disfruta de su galardonada función superior accuracy™ para que recibas información meteorológica exacta en tu dispositivo iOS.",2008-12-22T03:25:52Z,2025-11-06T13:12:55Z
+cr,Costa Rica,Weather,6001,5,749083919,Tiempo En Vivo - Pronóstico,Mosaic S.r.l.,https://apps.apple.com/cr/app/tiempo-en-vivo-pron%C3%B3stico/id749083919?uo=4,0.0,4.69288,2569,Weather,"Con Tiempo En Vivo, planear tus actividades cotidianas es más fácil que nunca: simplemente elige los parámetros meteorológicos que quieras rastrear, el aspecto que prefieras ¡y obtén tu pronóstico del tiempo personalizado! Deleita tus ojos con los impresionantes fondos meteorológicos que hacen que el pronóstico sea tan visual como la naturaleza misma.
+
+EL CLIMA EN UNA MIRADA
+- Pronósticos precisos para hoy y los siete días siguientes con horarios locales para diferentes lugares, en todo el mundo;
+- Escenarios del clima animados que reflejan las condiciones meteorológicas;
+- Aspectos meteorológicos ajustables, elige qué parámetros climáticos te gustaría ver primero;
+- Informes del clima diarios con información importante.
+
+DETALLES PROFUNDOS
+
+- Temperatura mínima, máxima y sensación térmica de hoy;
+- Presión en pulgadas, mm, kPa o mbar;
+- Información sobre precipitación y humedad;
+- Velocidad y dirección del viento;
+- Hora de salida/puesta del sol y salida/puesta de la luna;
+- Hora mágica y hora azul;
+- Detalles sobre rayos UV y visibilidad;
+- Información sobre punto de rocío;
+- Viento helado;
+- Grados Fahrenheit/Celsius y millas/kilómetros;
+- Formato de 12 o 24 horas.
+
+FACILIDAD DE USO
+
+- Útil widget del clima: obtén el pronóstico detallado de la temperatura y las alertas de clima severo directamente en tu pantalla de inicio.
+- Útil aplicación para Apple Watch: ve las condiciones meteorológicas actuales y el pronóstico para las próximas horas justo en la carátula de tu reloj.
+
+¡Obtén Tiempo En Vivo y prepárate para cualquier clima!
+
+Por favor, note que algunas funciones adicionales en la versión básica (gratuita) están sujetas a limitaciones (p. ej., Índice de UV, Sol y luna, Visibilidad, etc.) Estas limitaciones también están sujetas a cambios.
+
+Consigue Tiempo En Vivo Premium:
+- Pronóstico por hora de 14 días; 
+- Mapas del tiempo interactivos;
+- Rastreador de huracanes;
+- Rastreador de tormentas eléctricas;
+- Widgets en la pantalla bloqueada y en la de inicio;
+- Gráfico de precipitaciones minuto a minuto como actividad en vivo;
+- Calidad del aire;
+- RainScope;
+- Permite reorganizar los bloques con detalles meteorológicos;
+- Experiencia sin anuncios.
+
+Los pagos de la suscripción se cargarán en su cuenta de la App Store al confirmar su compra. Las suscripciones se renovarán automáticamente y se le cobrará a menos que se desactive la renovación automática o a menos que se cancele al menos 24 horas antes del final de la suscripción actual o del periodo de prueba. Cualquier parte no utilizada de un periodo de prueba gratuito se perderá si adquiere una suscripción prémium durante el periodo de prueba gratuito. El costo de la renovación depende del Plan de suscripción que elija. 
+Las suscripciones y la renovación automática pueden gestionarse accediendo a la Configuración de la cuenta después de la compra o poniéndose en contacto con el Servicio de atención al cliente.
+
+Política de privacidad: http://www.apalon.com/privacy_policy.html
+EULA: http://www.apalon.com/terms_of_use.html
+Gestión anuncios: http://www.apalon.com/privacy_policy.html#4",2013-11-26T01:50:35Z,2025-11-12T09:52:08Z
+cr,Costa Rica,Weather,6001,6,957143504,Mareas Cerca De Mí,7th Gear,https://apps.apple.com/cr/app/mareas-cerca-de-m%C3%AD/id957143504?uo=4,0.0,4.81832,644,Weather,"¡Por fin una manera chula y simple de ver las mareas en tu dispositivo móvil! Además de las previsiones de mareas mundiales podrás ver datos lunares, la previsión del tiempo y el radar actual hará que planear tu siguiente aventura en el exterior sea fácil. 
+Por defecto, la aplicación cogerá la estación más cercana pero escoger una estación diferente es tan fácil como mirar el mapa de tu localización actual. También podrás seleccionar y cambiar rápidamente entre diferentes estaciones favoritas almacenadas si te hiciera falta. 
+
+¿No tienes internet fuera de casa? No pasa nada. ¡Esta app ha sido diseñada para darte las previsiones de mareas y lunares sin acceso a internet! 
+
+También incluye una “Extensión de hoy” para que puedas obtener información sin abrir la app.
+
+Soporte de Apple Watch!",2015-02-22T19:30:24Z,2022-06-07T14:51:14Z
+cr,Costa Rica,Weather,6001,7,490989206,Yr,Norsk Rikskringkasting As,https://apps.apple.com/cr/app/yr/id490989206?uo=4,0.0,5,1,Weather,"Yr på iPhone og iPad er ulikt alt annet du tidligere har sett innen værvarsling.
+
+Sveip deg gjennom en vakker og animert himmel og se hvordan været endrer seg time for time - samtidig som du får alle detaljene du trenger å vite. Og hvis det er varslet regn i løpet av de neste 90. minuttene, sier vi ifra i vårt nå-varsel.
+
+Sjekk detaljer dag for dag og time for time i langtidsvarslet, eller studer detaljene i grafen.
+
+Under «Rundt deg» får du oversikt over luftforurensning, pollenspredning og UV-varsel, i tillegg til de siste værobservasjonene i ditt område.
+
+Værvarslene i Yr er levert av Meteorologisk institutt.
+
+OM YR: Yr er et samarbeid mellom NRK og Meteorologisk institutt. Vår oppgave er å bidra til å sikre liv og verdier og gi brukerne våre troverdige værvarsler som gjør de klare for all slags vær. I år fyller vi 10 år, og med flere millioner brukere hver uke er vi stolte av å være en av de mest populære værtjenestene i verden.",2012-01-10T09:34:03Z,2025-10-06T08:52:19Z
+cr,Costa Rica,Weather,6001,8,1126370589,Fases de la Luna,Business City s.r.o.,https://apps.apple.com/cr/app/fases-de-la-luna/id1126370589?uo=4,0.0,4.91077,594,Weather,"Puedes averiguarlo:
+- La fase actual de la luna
+- La edad actual de la luna
+- tiempos de salida y puesta
+- Distancia actual a la luna
+
+Puede cambiar la fecha para conocer la fase lunar.
+Se puede cambiar la fase lunar para obtener su fecha.
+
+Términos y condiciones:
+http://kineticstars.com/terms.html",2016-06-28T03:53:19Z,2025-10-28T14:30:30Z
+cr,Costa Rica,Weather,6001,9,6443751900,Dronecast: UAV & Drone Weather,Pinverse LTD,https://apps.apple.com/cr/app/dronecast-uav-drone-weather/id6443751900?uo=4,0.0,4.88889,18,Weather,"Your ultimate drone pilot companion: Get real-time weather forecasts, wind and gust speeds at various altitudes, KP index, customisable drone limits, no-fly zone maps, and a wind compass.
+
+With a comprehensive suite of features, the app is designed to enhance your flying experience. Dronecast sets a new standard in drone pilot tools.
+
+Main features:
+- Pre-flight Report - Before your flight, check the weather conditions for any potential hazards.
+- Hyperlocal Weather Forecasts - Up-to-date weather forecasts updated every minute, provided by Apple Weather.
+- Wind & Gusts Speeds - Keep your drone safe by checking the wind and gust speeds before you fly at different altitudes.
+- No Fly Zones - Check if it's safe to fly in your area, with no-fly zones, flying advisories provided by DJI.
+- Search Worldwide - We provide accurate data in all major locations across the world, including the USA, UK, Europe, Asia, and more.
+- 7-Day Forecast - Look ahead and see a full 7-day forecast at hourly intervals.
+- Fully Configurable - Customise the settings to match your drone/UAV and flying ability.
+- Completely Ad-Free - We hate ads just as much as you do. Our app is ad-free, and will always remain so.
+
+Download Dronecast and transform your aerial adventures - take your drone and UAV piloting to the next level! Ensure safer flights with pre-flight reports, stay up-to-date with hyperlocal weather forecasts & navigate no-fly zones with confidence. Soar with confidence!
+
+---
+
+Website: 
+https://dronecast.app/
+
+Terms of Use: 
+https://dronecast.app/terms
+
+Privacy Policy: 
+https://dronecast.app/privacy",2022-11-14T08:00:00Z,2025-11-03T22:30:20Z
+cr,Costa Rica,Weather,6001,10,295646461,El Tiempo: The Weather Channel,The Weather Channel,https://apps.apple.com/cr/app/el-tiempo-the-weather-channel/id295646461?uo=4,0.0,4.77679,112,Weather,"The Weather Channel es el servicio de meteorología más preciso del mundo*. Ante el aumento de los climas extremos, prepárese para tormentas, huracanes e incendios. Lleve registro del pronóstico diario y reciba actualizaciones de radar en vivo, alertas de tormentas y actualizaciones por precipitaciones locales.
+
+Nuestros mapas de radar Doppler en vivo, la vigilancia de tormentas y el rastreador de huracanes te advierten sobre grandes tormentas, fuertes lluvias, olas de calor o una inundación. Las condiciones climáticas extremas son cada vez más frecuentes en todo el país: nuestras alertas te mantienen actualizado.
+
+Planifica con hasta 15 días de anticipación gracias al servicio de meteorología más preciso del mundo y hazlo con confianza**. Administra alertas meteorológicas personales, para recibir notificaciones importantes para ti.
+
+Descarga The Weather Channel para pasar la temporada de tormentas y huracanes.
+
+The Weather Channel presenta lo siguiente:
+
+Pronóstico del tiempo para hoy:
+
+-Pronóstico de 15 minutos sobre la intensidad de la lluvia hasta 7 horas y radar en la pantalla de inicio
+-¡Consulta el pronóstico hasta dos semanas antes!
+-Prepárate para tormentas y huracanes
+-Controle las condiciones de respiración con nuestro pronóstico del Índice de calidad del aire
+
+Características del widget y la pantalla de inicio:
+-Obtén más detalles del clima con solo un vistazo y accede al pronóstico con un solo toque
+-Verifica tu radar local, recibe alertas y verifica en tu pantalla de inicio el pronóstico para las próximas tres horas
+Otras características:
+-Detalles de los horarios de la puesta del sol
+-Prepárate para eventos climáticos extremos, huracanes y terremotos con noticias en vivo
+---
+Obtén The Weather Channel Premium para disfrutar de la experiencia más completa, dinámica y precisa. Acceso exclusivo a:
+-Clima sin anuncios publicitarios
+-Detalles del pronóstico de 15 minutos
+-Radar futuro con antelación de 72 horas
+-¡Y mucho más!
+
+Puedes cancelar la suscripción a The Weather Channel en cualquier momento en la configuración de tu cuenta de App Store o se renovará automáticamente. Debes hacerlo 24 horas antes del final del período de suscripción para evitar que se te cobre otra cuota. Los pagos de la suscripción se cargarán a tu cuenta de App Store en el momento de la confirmación de la compra y al inicio de cada período de renovación. Para obtener más información, consulta nuestra Política de privacidad y los Términos de uso.
+
+Privacidad y comentarios
+• Nuestra Política de privacidad: https://weather.com/en-US/twc/privacy-policy
+• Términos de uso: http://www.weather.com/common/home/legal.html
+- Si tienes alguna pregunta o sugerencia sobre el servicio meteorológico, escribe a iphonesupport@weather.com
+
+*The Weather Channel es el servicio de pronóstico meteorológico más preciso del mundo. ForecastWatch, Global and Regional Weather Forecast Accuracy Overview, 2021-2024, https://forecastwatch.com/AccuracyOverview2021-2024, a solicitud de The Weather Company.
+
+The Weather Channel® es una marca registrada de The Weather Company, LLC 2024.",2008-11-09T00:02:43Z,2025-11-20T12:31:11Z
+cr,Costa Rica,Weather,6001,11,6450721636,Surf Forecast by Surf-Forecast,Meteo365 Ltd.,https://apps.apple.com/cr/app/surf-forecast-by-surf-forecast/id6450721636?uo=4,0.0,4.9,20,Weather,"Surf-Forecast.com te ofrece pronósticos de surf simples, precisos y fáciles de leer para que tengas la mejor oportunidad de encontrar esas olas cuando estén en su punto.
+
+Creado por surfistas, para surfistas, y confiado por millones de surfistas durante más de 20 años, nuestra aplicación actualizada te permite ver todos tus puntos de surf favoritos de un vistazo. Proporcionando pronósticos detallados de surf para más de 7,000 puntos en todo el mundo, nuestras nuevas funciones te permiten ver más adelante que nunca, dándote mucha anticipación cuando las olas comiencen a llegar. Encuentra las mejores condiciones de surf cerca de ti y usa la herramienta de calificación para saber exactamente cuándo ir.
+
+– Funciones GRATUITAS de la App
+
+⁃ Pronósticos detallados de surf
+⁃ Mapa Wavefinder
+⁃ Enlaces a webcams en vivo
+⁃ Presentación de componentes múltiples de oleaje
+⁃ Horarios de mareas
+⁃ Mapeo detallado para localizar puntos cercanos
+
+– Beneficios de Surf Premium
+
+⁃ Acceso completo a los 12 días de nuestra nueva función Wavefinder
+⁃ Pronósticos por hora
+⁃ Pronósticos de 12 días
+⁃ Alertas de surf personalizadas
+⁃ Navegación sin anuncios en nuestro sitio web
+
+Entonces, ¿qué estás esperando? Agarra tu tabla y sal a explorar. ¡Nos vemos en el agua!
+
+Para los Términos y Condiciones completos de este servicio, visita: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-09-04T07:00:00Z,2025-06-20T21:51:38Z
+cr,Costa Rica,Weather,6001,12,632040358,Earthquake,Nico Tranquilli,https://apps.apple.com/cr/app/earthquake/id632040358?uo=4,0.0,4.78864,440,Weather,"¡Hasta el día de hoy la mejor app de terremotos con mucha diferencia!
+¡Con más de 5M de descargas, Earthquake ha escalado hasta el top 10 en más de 60 países!
+Earthquake muestra datos sobre terremotos en todo el mundo con el mapa, línea de tiempo, información de eventos y notificaciones push, en una interfaz de usuario sencilla y fácil de usar. Incluye Earthquake para Apple Watch.
+Sus características principales incluyen:
+• datos sísmicos de diversas redes, como U.S. Geological Survey (USGS), European-Mediterranean Seismological Centre (EMSC), GeoScience Australia, GNS Science (GeoNet), Instituto Geográfico Nacional, Servicio Sismológico Nacional, British Geological Survey, GFZ GEOFON, Natural Resources Canada, NOAA
+• Boletines de Tsunami (NOAA)
+• Capas del mapa: placas tectónicas, orógenos, volcanes, plantas nucleares, densidad de población
+• Estimaciones de población para cada evento (100km)
+• buscar el catálogo de terremotos (todas las regiones del mundo, a partir de 1970)
+• notificaciones push: configura alertas en función de la ubicación o un límite de magnitud y recibe notificaciones push en tu teléfono en cuanto una fuente oficial tenga datos disponibles del evento.
+• vista de mapa con círculos de diferentes tamaños y colores que representan la magnitud y momento del evento
+• cronología del evento (hoy, ayer, días anteriores)
+• vista detallada de cada evento mediante mapa y vistas cronológicas
+• filtros de eventos locales y magnitud
+• exporta los datos a Google Earth u otras aplicaciones instaladas compatibles con archivos en formato kml
+• comparte en redes sociales: publica datos y mapas de eventos en Facebook, y Twitter o envíalos por correo electrónico
+• geocodificación inversa: los nombres de ubicaciones (si están disponibles) se calculan de forma automática en función de sus coordenadas geográficas
+• Widgets para su pantalla de inicio o vista de hoy, para mantener los datos sísmicos más recientes al alcance de su mano
+• Soporte Atajos de Siri - “Oye Siri, ¿Cuáles son los últimos terremotos en México?”
+• búsqueda en el catálogo de terremotos por fecha, ciudad, país, continente y fuente de datos
+• ""Alertas Críticas""
+• ""Modo Oscuro""
+• notificaciones basadas en informes de usuarios",2013-05-09T01:21:05Z,2025-03-10T15:56:09Z
+cr,Costa Rica,Weather,6001,13,393782096,Surfline: Wave & Surf Reports,Surfline/Wavetrak,https://apps.apple.com/cr/app/surfline-wave-surf-reports/id393782096?uo=4,0.0,4.77707,157,Weather,"Surfline ha sido el sitio de referencia en el mundo del surf para pronósticos de olas e informes de surf desde 1985, ayudando a millones de surfistas a conseguir mejores olas, con más frecuencia. Utilice la aplicación Surfline para saberlo antes de ir, en cualquier momento y lugar.  
+
+Mantenga un registro de las condiciones actuales del surf.  
+- Vea cámaras de surf en vivo en más de 1000+ lugares en todo el mundo.  
+- Obtenga informes de surf diarios de nuestro equipo de expertos.  
+- Ver la altura de las olas, el viento en vivo, el clima, la temperatura del agua y la marea. 
+- Elija recibir notificaciones cuando sus lugares favoritos tengan las condiciones perfectas para usted con Surf Alerts.  
+
+Planifica futuras aventuras de surf.  
+- Utilice pronósticos a largo plazo de 16 días para planificar con anticipación.  
+- Lea el análisis de oleaje de nuestro equipo interno de pronóstico.  
+- Ver gráficos detallados de boyas y modelos cercanos a la costa.
+
+Revive tus sesiones y observa tus olas.  
+- Usa Cam Rewind para ver y descargar tus mejores olas (y aniquilamientos).  
+- Sincroniza tu Apple Watch para registrar sesiones de Surfline y recibir tus olas directamente en tu teléfono.*  
+- Ver análisis detallado de las olas surfeadas, duración del recorrido y velocidad.  
+- Comparte tus viajes con amigos y en las redes sociales.  
+
+Manténgase conectado con todo lo relacionado con el surf.  
+- Mira las mejores olas del mundo con cobertura en vivo de los principales eventos de Swell. 
+- Lea las últimas noticias sobre surf, viajes, capacitación y contenido sobre equipos.
+
+Tómalo de los profesionales: 
+
+“Surfline es mi recurso todos los días para saber adónde ir. Lo he usado desde el primer día y seré miembro Premium de por vida”. –Rob Machado 
+
+“Surfline es mi opción para obtener pronósticos de oleaje y condiciones de surf. También me encanta tener acceso a todas las cámaras HD para poder revisar varios lugares antes de subirme a mi auto. ¡Ni siquiera pienso en ir a surfear sin consultar Surfline primero! 
+- Keala Kennelly 
+
+""He confiado en los pronósticos de Surfline en el circuito durante años, y ahora cuento con Surfline Premium para conseguir buenas olas aquí en casa."" – Owen Wright 
+
+Surfline ha sido nombrada Aplicación del Día dos veces por la App Store. 
+
+*Esta función utiliza HealthKit para monitorear y registrar tus calorías y frecuencia cardíaca mientras navegas.  
+
+--
+Los pagos del plan Surfline Premium se cargarán a su cuenta de iTunes al momento de la confirmación de la compra. Los planes de membresía se renovarán automáticamente a $9,99 USD al mes o 95,99 USD al año (sin incluir impuestos), dependiendo de la selección del plan de membresía, a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual. Al utilizar el producto de Surfline, usted certifica que comprende y acepta los Términos de servicio de Surfline (http://www.surfline.com/terms_conditions.cfm) y la Política de privacidad (http://www.surfline.com/privacy.cfm). La renovación automática se puede desactivar en la configuración de su cuenta en iTunes después de la compra. Puede cancelar su suscripción actual en cualquier momento, pero no se permite ningún reembolso de su suscripción restante durante un período de suscripción activo. A un usuario mensual que cancela durante un mes de suscripción no se le cobrará el mes siguiente.",2010-10-12T16:50:08Z,2025-11-17T11:01:38Z
+cr,Costa Rica,Weather,6001,14,704237014,Termómetro++,Viachaslau Tysianchuk,https://apps.apple.com/cr/app/term%C3%B3metro/id704237014?uo=4,0.0,4.66587,422,Weather,"Convierte tu iPhone en un termómetro rápido y preciso.
+Consulta la temperatura exterior actual, la humedad, la presión y el viento en tu ubicación.
+¡Utilizada por más de 5 000 000 de personas en todo el mundo!
+
+La mayoría de las apps del tiempo solo muestran datos de la estación meteorológica más cercana, que puede estar a cientos de kilómetros y con más de una hora de retraso. Utilizamos tecnologías de IA para combinar datos de varias estaciones meteorológicas y ofrecer estimaciones precisas de la temperatura, la humedad, la presión y el viento en tu ubicación, en tiempo real.
+
+Funciones:
+
+- Muestra temperatura, humedad, presión y viento. Puedes usarla como termómetro, barómetro o higrómetro.
+
+- Usa tu ubicación actual o elige cualquier ubicación en el mapa.
+
+- Diseño minimalista: muestra solo los datos necesarios.
+
+- Muestra grados Celsius y Fahrenheit en una bonita imagen de termómetro.
+
+- Cambia entre grados Celsius y Fahrenheit con un toque.
+
+- Te ayuda a decidir rápidamente qué ponerte.
+
+- Te ayuda a seguir el tiempo durante olas de calor y de frío.
+
+Política de privacidad: https://www.singularioapps.com/thermometer-privacy/
+Términos del servicio: https://www.singularioapps.com/thermometer-terms/",2013-10-09T01:00:40Z,2025-11-17T02:31:37Z
+cr,Costa Rica,Weather,6001,15,6450627697,El Termómetro - Digital,Vida Apps Incorporated,https://apps.apple.com/cr/app/el-term%C3%B3metro-digital/id6450627697?uo=4,0.0,4.95,20,Weather,"Esta es una sencilla aplicación de medición digital de temperatura y humedad.
+Te proporciona la temperatura exterior, la humedad y la hora actual.
+La aplicación ofrece actualizaciones automáticas en intervalos regulares e información en tiempo real, lo que la hace conveniente de usar.
+Puedes obtener datos de temperatura y humedad para cualquier ubicación en todo el mundo.
+
+¿Qué puedes hacer con la aplicación ""El Termómetro""?
+- Diseño elegante que proporciona visibilidad instantánea de la temperatura exterior, la humedad y la hora actual.
+- Actualizaciones automáticas para mantenerte informado sobre la última temperatura y humedad exterior.
+- Opción para seleccionar la ubicación deseada para obtener datos precisos.
+- Esquema de colores personalizable, lo que te permite personalizar los colores de fondo y texto.
+- Capacidad para seleccionar entre Celsius y Fahrenheit.
+
+El plan premium te permite usar la aplicación de manera más cómoda.
+
+¿Qué puedes hacer con el Plan Premium?
+- Una función para guardar múltiples ubicaciones y verificar al instante la temperatura y humedad de cada una.
+- Sin anuncios.
+
+La aplicación ""El Termómetro"" te permite verificar rápidamente la temperatura y humedad exterior, a la vez que funciona como un reloj. Con la capacidad de personalizar los colores de la aplicación, puedes crear una pantalla elegante y personalizada que complemente el diseño interior.
+
+Términos de uso:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-06-26T07:00:00Z,2025-07-21T11:36:17Z
+cr,Costa Rica,Weather,6001,16,980123924,Alarma de Lluvia Tracker,MeteoLab Inc.,https://apps.apple.com/cr/app/alarma-de-lluvia-tracker/id980123924?uo=4,0.0,4.86957,23,Weather,"Creado por un pequeño equipo, Rain Viewer te ofrece las predicciones de lluvia a corto plazo más precisas e inmediatas, directamente desde datos de radar sin procesar. Sin intermediarios: nuestro procesamiento independiente de nivel profesional es de confianza para millones de usuarios, muchos desarrolladores indie y grandes empresas meteorológicas. Sumérgete en el mundo del clima con un detalle incomparable, datos en tiempo real y una interfaz elegante y moderna diseñada especialmente para fanáticos del clima.
+
+¿Por qué Rain Viewer?
+• Máxima precisión y velocidad: datos de radar de máxima resolución en calidad original, entregados al instante desde radares meteorológicos sin demora. Productos de radar profesionales, incluyendo reflectividad, velocidad, ancho de espectro, reflectividad diferencial, fase diferencial, coeficiente de correlación y más, en todas las elevaciones disponibles para radares de Estados Unidos y Europa selecta.
+• Experiencia pro: historial de radar de 48 horas, pronóstico de 2 horas (actualizaciones cada 5 minutos) y modelos a largo plazo (ICON, ICON-EU, GFS, HRRR, ECMWF) para precipitación y temperatura de 72 horas, además de pronóstico horario de 72 horas y perspectiva diaria de 14 días.
+• Datos independientes: procesamos cada píxel internamente, obteniendo feeds de radar sin procesar para una vista meteorológica completamente autónoma.
+• Experiencia moderna: interfaz intuitiva y limpia con mapas vectoriales a 60fps potenciados por Metal y flechas únicas de dirección de precipitación que muestran el movimiento de tormentas en tiempo real.
+• Personalización total: ajusta alertas, umbrales, esquemas de colores y configuraciones de múltiples ubicaciones según tus especificaciones exactas.
+
+Herramientas avanzadas:
+• App completamente gratuita e independiente para Apple Watch con radar, mapas satelitales, pronósticos, alertas severas y complicaciones, totalmente funcional sin necesidad de iPhone.
+• Widgets gratuitos de radar meteorológico para pantallas de inicio y bloqueo con flechas de dirección de precipitación.
+• Actividades en vivo con gráfico dinámico minuto a minuto de intensidad de lluvia.
+• Alertas de clima severo directamente de los Servicios Meteorológicos Nacionales.
+• Seguimiento de huracanes de primera clase con alertas programadas que te avisan exactamente cuándo el huracán estará más cerca de tu ubicación.
+
+Tu privacidad, nuestra promesa:
+Sin recopilación ni venta de datos. La ubicación se usa únicamente para pronósticos y alertas. Cada instalación comienza limpia, sin historial de usuario.
+
+Únete a millones que confían en Rain Viewer para caza de tormentas, senderismo o planes al aire libre. Observa la precipitación con precisión y claridad.
+
+Plan PRO: Mensual: $8.99 | Trimestral: $19.99 | Anual: $39.99 (la renovación automática puede deshabilitarse en la configuración de App Store).
+
+Privacidad: https://rainviewer.com/privacy.html
+Términos: https://rainviewer.com/terms.html
+
+Descarga ahora y domina la lluvia.",2015-07-22T17:33:34Z,2025-11-13T14:51:32Z
+cr,Costa Rica,Weather,6001,17,961390574,Clima CARROT: Alertas y Radar,Grailr LLC,https://apps.apple.com/cr/app/clima-carrot-alertas-y-radar/id961390574?uo=4,0.0,4.48148,27,Weather,"CARROT Weather es una aplicación de pronóstico del tiempo increíblemente poderosa.
+
+** Ganadora del Premio a la Mejor Aplicación de Apple, del Apple Design Award y de la Elección de los Editores de la App Store **
+
+Precisa y Detallada
+Los datos meteorológicos súper precisos de CARROT te brindan un acceso ultrarrápido a tus pronósticos actuales, por hora y diarios. Y las pantallas de detalles fáciles de leer están repletas de bondades meteorológicas.
+
+Privacidad en Primer Lugar
+Tu información personal, incluidos los datos de tu ubicación, nunca se venderá a terceros.
+
+Llena de Personalidad
+Elige una de las cinco personalidades para CARROT, desde la comedida ""profesional"" hasta la excesivamente directa ""sin censura"". (Nota: los comentarios de CARROT están solo en inglés).
+
+Únete al Premium Club para desbloquear:
+
+- Más fuentes de datos meteorológicos, incluyendo Apple Weather, AccuWeather y Tomorrow.io
+- Notificaciones, incluyendo precipitaciones, alertas meteorológicas e impactos de rayos (cuando estén disponibles)
+- Widgets para la pantalla de bloqueo y de inicio
+- Actividades en vivo
+- Complicaciones para el Apple Watch y actualizaciones en segundo plano
+- Mapas meteorológicos con radares de la próxima hora, estaciones de radar individuales y diferentes capas (cuando estén disponibles)
+- Personalización de toda la interfaz de usuario
+- ¡Y mucho más!
+
+No enfades a CARROT. ¡Descárgala ahora!
+
+---
+
+CARROT Weather utiliza suscripciones renovables automáticamente.
+
+La versión Premium ofrece funciones adicionales, como fuentes de datos meteorológicos, notificaciones, personalización, widgets y complicaciones para el Apple Watch.
+
+La versión Premium Ultra incluye todas las funciones de la Premium, además de notificaciones de lluvia, rayos y células de tormenta (donde estén disponibles), un widget de mapas meteorológicos y un cambio rápido de fuente de datos.
+
+La versión Premium Family incluye todas las funciones de la Premium Ultra, con la ventaja adicional de poder compartirla con hasta cinco miembros de la familia a través del servicio Family Sharing de Apple.
+
+El pago se cargará a tu cuenta de Apple ID al confirmar la compra. La suscripción se renueva automáticamente a menos que se cancele al menos 24 horas antes del final del período actual. Tu cuenta se cargará para la renovación dentro de las 24 horas previas al final del período actual. Puedes gestionar y cancelar tus suscripciones yendo a la configuración de tu cuenta en la App Store después de la compra. No se permite la cancelación del período de suscripción activo actual.
+
+Términos de uso: http://support.meetcarrot.com/weather/terms.html
+Política de privacidad: http://support.meetcarrot.com/weather/privacypolicy.html",2015-03-19T02:42:25Z,2025-10-31T14:59:36Z
+cr,Costa Rica,Weather,6001,18,997079492,Windy: Pronóstico del tiempo,Windy Weather World Inc,https://apps.apple.com/cr/app/windy-pron%C3%B3stico-del-tiempo/id997079492?uo=4,0.0,4.7374,377,Weather,"¡El pronóstico de viento más preciso en el mundo!!
+
+Windy.app es una aplicación útil para las personas adictas al viento que proporciona un preciso y claro pronóstico de viento mundial. Una aplicación imperdible para kiteboarders, windsurfers, navegantes, paracaidistas, parapentes, ciclistas y pescadores.
+
+Características de Windy:
+- pronóstico mundial de viento a 10 días con diferencias de 3 horas (similar a windguru NOAA GFS27 )
+- más de 30.000 lugares en la base de datos
+- búsqueda por lugares de fácil utilización en base a mapa y lugar o nombre del lugar
+- posibilidad de agregar lugares favoritos
+
+Ventajas de Windy:
+- ¡Creado por fanáticos del viento para fanáticos del viento!
+- ¡Interfaz agradable y simple!
+
+Hoja de ruta de Windy:
+- información real sobre el viento desde más de 8000 estaciones meteorológicas de todo el mundo
+- mapa interactivo: podrás ver cómo sopla el viento en el mapa
+- posibilidad de crear nuevos lugares
+- mayor resolución y precisión en el pronóstico(WRF, NAM,ECMWF,ICON)
+- mareas, olas, cobertura de nubes
+- fuerza del viento
+- notificación de buenas condiciones en tus lugares favoritos
+- chat del lugares
+- votación y calificación de lugares
+
+PERFECTO PARA:
+• Kitesurf (kitesurf)
+• Windsurf (windsurf)
+• Surf
+• Navegación (canotaje)
+• Navegación
+• Parapente
+• Pescar
+• Snowkite
+• Snowboarding
+• Esquí
+• Paracaidismo
+• Kayak (kayak)
+• Wakeboard
+• Ciclismo
+• Caza (caza)
+• Golf
+
+----------
+El pago por su suscripción a la cuenta de WINDY PRO se cargará a su cuenta de iTunes al momento de la compra. Su suscripción se renovará automáticamente cada 30 o cada 365 días.  Si nunca se ha suscrito a una suscripción de cuenta Premium mensual antes, tendrá la opción de obtener un período de prueba gratuito de 3/7 días. Al cancelar el período de prueba, usted deshabilita la suscripción inmediatamente. El pago por las renovaciones de su suscripción se cargará a su cuenta dentro de las 24 horas anteriores al fin del período actual. Usted puede deshabilitar la renovación de sus suscripción en los ajustes de su cuenta de iTunes, en su dispositivo. Al suscribirse, usted confirma que ha leído los Términos de Uso y la Política de Privacidad, y que está de acuerdo con cumplir con lo establecido en sus términos. 
+Términos de Uso:  https://windyapp.co/CustomMenuItems/34/en
+----------",2015-06-26T14:25:21Z,2025-11-19T08:26:52Z
+cr,Costa Rica,Weather,6001,19,395928613,"Terremoto+ Alertas, Mapa, Info",Slava Barouline,https://apps.apple.com/cr/app/terremoto-alertas-mapa-info/id395928613?uo=4,0.0,4.80667,150,Weather,"Earthquake+ es la aplicación líder para el monitoreo de terremotos y volcanes en tiempo real. Con datos de más de 30 fuentes confiables, incluidos USGS, EMSC y el Instituto Smithsoniano, ofrece las últimas actualizaciones sobre terremotos, tsunamis y erupciones volcánicas, tanto a nivel local como global.
+
+===================================
+VERSIÓN GRATUITA:
+====================================
+
+- Acceda a los últimos datos globales y locales sobre terremotos y volcanes.
+
+- Vea terremotos recientes, time-lapses sísmicos y erupciones volcánicas.
+
+- Vea el resumen semanal de los terremotos más significativos.
+
+- Realice un seguimiento de las actualizaciones de erupciones volcánicas en tiempo real.
+
+- Controle las alertas de tsunami.
+
+- Reciba notificaciones push ilimitadas (hasta 20 ubicaciones) sobre la actividad sísmica.
+
+- Guarda tus eventos sísmicos favoritos y busca ubicaciones sin esfuerzo.
+
+- Personaliza mapas, alertas, listas y filtros.
+
+- Explora el historial de terremotos (desde 2010) y datos tectónicos detallados, incluidas las fallas.
+
+- Comparte actualizaciones críticas sobre terremotos por SMS, correo electrónico o Facebook.
+
+- Accede al resumen diario de terremotos directamente a través del widget Inicio o Hoy.
+
+- Visualiza datos volcánicos y sísmicos con múltiples capas de mapas.
+
+- No te pierdas ninguna alerta de terremoto con opciones de sonido personalizadas.
+
+- Mantente actualizado sobre interrupciones en los viajes aéreos con alertas de erupciones volcánicas en tiempo real.
+
+====================================
+SUSCRIPCIÓN PREMIUM:
+=====================================
+
+- Ayúdanos a desarrollar la aplicación Earthquake+.
+
+- Elimina todos los anuncios.
+
+- Crea animaciones para eventos sísmicos.
+
+- Recibe alertas de terremotos críticos con opciones de sonido personalizadas.
+
+- Obtén acceso a más personalizaciones de mapas para adaptarlas a tus preferencias.
+
+- Usa el mapa con vista 3D y capas adicionales para una mejor visualización.
+
+- Evalúa rápidamente el impacto de un terremoto con ShakeMap, que muestra la gravedad del terremoto.
+
+- Monitorea nubes de ceniza volcánica en tiempo real.
+
+====================================
+¡Descarga Earthquake+ ahora!
+====================================
+
+Información de suscripción:
+
+Ofrecemos una suscripción a Earthquake+ auto-renovable que brinda acceso a las funciones de la aplicación Premium.
+
+Hay dos opciones disponibles en este momento: suscripción mensual y anual.
+
+A continuación, se incluye la información sobre la suscripción y los pagos:
+
+El pago se cargará a tu cuenta de iTunes al confirmar la compra.
+
+Tu suscripción se renovará automáticamente a menos que desactives la renovación automática al menos 24 horas antes del final del período de suscripción actual.
+
+Se cobrará a tu cuenta la renovación dentro de las 24 horas anteriores al final del período de suscripción actual.
+
+Puedes administrar tus suscripciones y desactivar la renovación automática yendo a la Configuración de tu cuenta en la App Store después de la compra.
+
+Cualquier parte no utilizada de un período de prueba gratuito se perderá cuando compres una suscripción.
+
+Nuestros Términos de uso se pueden encontrar aquí:
+http://earthquakesapp.com/terms.html",2010-10-08T20:52:16Z,2025-10-23T10:30:19Z
+cr,Costa Rica,Weather,6001,20,334634432,@Termómetro,Mobiquite,https://apps.apple.com/cr/app/term%C3%B3metro/id334634432?uo=4,0.0,5,8,Weather,"Práctico, rápido y preciso: el mejor termómetro para tu iPhone / iPad
+
+¡El termómetro n°1 de la App Store descargada más de 5.000.000 de veces!
+
+@Termómetro es la aplicación más exacta de App Store (al décimo de grado).
+
+@Termómetro ES LA ÚNICA aplicación desde 2009 que le proporciona la temperatura exterior al décimo grado correspondiente a su posición exacta en el mundo entero y en tiempo real.
+
+Para ello, @Termómetro utiliza numerosas fuentes de datos climáticas de su entorno inmediato y las combina gracias a nuestros propios algoritmos desarrollados en nuestros servidores meteorológicos.
+
+@Termómetro NO ES una aplicación más como las otras que le indican la temperatura de una ciudad más o menos cercana a usted, y cuyos datos hace una hora que están obsoletos, a menudo más...
+
+
+Principales características de la aplicación:
+
+- La temperatura más exacta de la App Store (al décimo de grado).
+
+- La temperatura que corresponde a su posición exacta en todo el mundo en tiempo real.
+
+- Rapidez de localización y de visualización de la temperatura.
+
+- Hay varios temas gráficos de alta calidad (HD - Pantalla Retina) disponibles para que pueda elegir el que más le convenga.
+
+- Posibilidad de visualizar la temperatura en grados Celsius o Fahrenheit.
+
+- Disponibles en numerosos idiomas.
+
+- Compatible con iPhone, iPod touch y iPad. Requiere iOS 5.0 o superior.
+
+- Es necesaria una conexión a Internet para visualizar la temperatura calculada en nuestros servidores meteorológicos.
+
+
+---
+
+La versión PREMIUM (compra en la aplicación) le ofrece las siguientes ventajas:
+- Desactivación total de la publicidad.
+- Visualización aún más rápida de la temperatura.
+- Acceso prioritario a la asistencia.
+¡y usted apoya directamente a nuestro equipo en el desarrollo de esta aplicación! 
+
+---
+
+No olvide que si le gusta nuestra aplicación @Termómetro, la puede puntuar y compartir su satisfacción con los demás usuarios.
+
+Si no obstante encuentra cualquier problema, le agradecemos que nos lo comunique por correo electrónico a la siguiente dirección: support@mobiquite.fr 
+
+ADVERTENCIA: ¡Si únicamente deja un comentario en la App Store, no podremos responderle directamente y por lo tanto no podremos ayudarle¡
+
+¡Gracias!
+
+--
+
+Disclaimer:
+Location data may be used for providing you more relevant ads.
+This app collects anonymous information about users to help us measure the usage of our app so we can better understand our audience and improve our service. This information does not contain information from which users can be identified. You can find a full description of our data collection and use practices in our Privacy and Security Policy http://www.mobiquite.fr/thermometre-confidentialite.html",2009-11-17T01:55:39Z,2024-11-09T17:47:43Z
+cr,Costa Rica,Weather,6001,21,1542742219,Clima ´,Apptico,https://apps.apple.com/cr/app/clima/id1542742219?uo=4,0.0,4.83333,6,Weather,"Obtén pronósticos con hasta 16 días de anticipación, con datos detallados hora a hora para las próximas 96 horas. Personaliza la experiencia para concentrarte en lo que más te importa: desde la temperatura y las precipitaciones hasta el viento, la humedad, el índice UV y la calidad del aire. Explora mapas de radar en tiempo real para rastrear la lluvia, la nieve, el hielo y los ciclones en tu zona. Mantente al tanto de las condiciones meteorológicas de hoy y del pronóstico para mañana.
+Ya sea que estés planeando una semana ajetreada, saliendo al aire libre o simplemente te preguntes si necesitarás una chaqueta, esta aplicación te ofrece información meteorológica precisa y confiable, rápida y fácil de leer.
+Optimizada para iPhone y iPad, con diseños adaptables para brindar la mejor experiencia en todos los tamaños de pantalla.
+
+# Pronósticos Precisos
+Mantente informado con pronósticos extendidos de 16 días y desgloses por hora de 96 horas. Accede a datos clave como la temperatura, la probabilidad de lluvia, la velocidad y dirección del viento, la nubosidad, la humedad, el índice UV y más, todo en una sola vista.
+
+# Mapas de Radar Interactivos
+Rastrea la lluvia, la nieve, el hielo y los ciclones en tiempo real con un radar de alta resolución. Sigue los patrones meteorológicos a tu alrededor y anticípate a los cambios antes de que ocurran.
+
+# Calidad del Aire en Tiempo Real
+Controla la calidad del aire con lecturas detalladas del ICA, incluyendo los niveles de PM2.5, PM10, ozono, dióxido de nitrógeno, monóxido de carbono y dióxido de azufre, actualizadas en vivo y con una presentación clara.
+
+# Interfaz Personalizable
+Personaliza la app. Elige las métricas que quieres mostrar, reorganiza los bloques de pronóstico, cambia entre unidades métricas e imperiales, y configura los informes meteorológicos matutinos y vespertinos a tu hora preferida.
+
+# Notificaciones
+Recibe alertas oportunas con resúmenes diarios del día actual y los próximos pronósticos, para estar siempre un paso adelante.
+
+# Múltiples Ubicaciones
+Consulta el clima en todos tus lugares favoritos. Tu ubicación actual se actualiza automáticamente mediante GPS, con acceso rápido a ubicaciones guardadas en todo el mundo.
+
+# Diseño Claridad
+Cada detalle está organizado para facilitar su uso, tanto para usuarios ocasionales como para expertos en meteorología. Una interfaz limpia y moderna facilita la consulta del pronóstico.
+
+
+***
+
+Some features, including Interactive Radar Maps and Real-Time Air Quality, are available with a paid subscription (3 days free, then $12.99/month or $29.99/year).
+
+Privacy Policy: https://www.apptico.fr/weather/privacy-policy
+Terms and Conditions: https://www.apptico.fr/weather/terms-and-conditions
+EULA: https://www.apptico.fr/weather/eula",2020-12-01T08:00:00Z,2025-05-01T10:49:31Z
+cr,Costa Rica,Weather,6001,22,1462255869,Clima Temperature: Weather Sky,LifeOverflow Inc.,https://apps.apple.com/cr/app/clima-temperature-weather-sky/id1462255869?uo=4,0.0,5,1,Weather,"La aplicación meteorológica más intuitiva y precisa con pronósticos meteorológicos detallados por hora y por día.
+Weather Sky es una aplicación meteorológica que proporciona información meteorológica variada (mapas, radares de nieve, rastreador de ventiscas).
+Siga su pronóstico del tiempo local.
+
+Creemos que el clima es una gran parte de la vida de todos y debería ser fácil de usar, intuitivo y rápido, sin mencionar la precisión. Nuestro objetivo es proporcionar los datos meteorológicos más confiables en menos de un segundo para que pueda planificar sus días de semana, fines de semana e incluso vacaciones de manera fácil y placentera.
+
+La alerta meteorológica diaria de Weather Sky te permite estar preparado para el día. Primavera verano Otoño Invierno. Esté preparado con el pronóstico diario o el cambio repentino en el clima con nuestra alerta diaria. Entonces, no importa cuán severas sean las condiciones climáticas (lluvia, nieve, viento o incluso huracanes), puede mantenerse a la vanguardia en todo momento con Weather Sky.
+
+¡Descubre 5 razones por las que deberías usar Weather Sky!
+1. Preciso: proporcionamos el pronóstico más preciso utilizando múltiples fuentes de datos meteorológicos y un software personalizado para ajustar la fuente de datos según la ubicación.
+2. Fácil de usar: ¿cansado de todas las aplicaciones meteorológicas complicadas? Sé exactamente cómo te sientes. Proporcionamos la información más simple, pero llena de clima en nuestra aplicación. Recuerde, nuestro objetivo es proporcionar toda la información meteorológica importante de un vistazo, para que pueda planificar su día más fácilmente.
+3. Pronóstico detallado por hora: temperatura, temperatura de sensación, cantidad de lluvia, UV, viento, humedad. Proporcionamos un pronóstico de 48 horas para todos estos datos.
+4. Alerta meteorológica diaria: todas las mañanas, le enviaremos un resumen meteorológico diario para que pueda ver la información meteorológica sin abrir la aplicación. Si hay algún problema climático importante, se asegurará de averiguarlo a primera hora de la mañana.
+5. El widget más amigable. Nuestros widgets proporcionan información meteorológica suficiente para que pueda mantener su pantalla limpia y simple.
+
+Sus sentimientos también son lo que más nos importa. Proporcionamos una redacción amigable para todas las métricas meteorológicas confusas.
+¿Cuánta lluvia hay 0.1 pulgada de lluvia?
+¿Qué tan fuerte es el viento de 9 millas por hora?
+Usamos palabras como ""Lluvia ligera"" o ""Brisa"" en lugar de métricas confusas.
+¡Nuestra misión es convertirnos en la aplicación meteorológica más fácil pero más informativa del mundo!
+
+Recuerde, nuestro objetivo principal es proporcionarle los datos meteorológicos más precisos de forma rápida e intuitiva.
+Descargue Weather Sky hoy de forma gratuita y disfrute de la aplicación meteorológica más simple e intuitiva del mundo.
+
+***** Privacidad y términos de uso *****
+▶ Política de privacidad
+- https://www.nalssinalssi.com/privacy_policy/weatherweather_privacy_policy.html
+▶ Condiciones de uso
+- https://www.nalssinalssi.com/terms/weather_terms_ko.html
+
+Gracias por usar nuestra aplicación!
+¡Ten un día maravilloso!",2019-08-18T16:29:01Z,2025-10-21T10:58:34Z
+cr,Costa Rica,Weather,6001,23,1673731295,Weather Navigation for Car!,BYSS mobile,https://apps.apple.com/cr/app/weather-navigation-for-car/id1673731295?uo=4,0.0,5,3,Weather,"Introducing the ultimate car Weather Navigation app with the revolutionary weather routing feature.
+
+• Live Weather Radar on CarPlay screen
+• Live Road Conditions
+• Supports CarPlay
+• Get ready for rain and snow on the road
+• Supports cars like Toyota, Ford, Chevrolet and more
+
+Say goodbye to the stress of driving in bad weather conditions, as this software takes the guesswork out of planning your route. With real-time weather data at its disposal, it will analyze the current and forecasted weather and suggest the safest and most efficient route for your journey.
+
+Whether it's heavy rain, snow, or flooding, this software will find a way around it and help you reach your destination with ease. No more worrying about road closures or dangerous hazards, Weather Navigation for CarPlay app has got you covered. Upgrade your driving experience today with the innovative weather routing feature!
+
+- Using real-time radar and weather forecasts, the app can adjust the route based on potential weather conditions.
+- Drivers can feel more confident with rain information directly on CarPlay audio, no matter what the weather throws their way.
+- The app can also provide alerts to drivers when severe weather is approaching.",2023-05-20T07:00:00Z,2025-11-12T08:40:07Z
+cr,Costa Rica,Weather,6001,24,858357174,Safety tips,RC Solution Co.,https://apps.apple.com/cr/app/safety-tips/id858357174?uo=4,0.0,0,0,Weather,"Note:
+Weather warnings and advisories area in Nara City, Nara Prefecture has changed.
+Please update to the latest version of Safety tips.
+Also, if you have set up Nara City, Nara Prefecture, please reset the location.
+
+This Application notifies a user with EEW, Tsunami Warnings, Volcanic Warnings, Weather Warnings, Heat illness Warnings and Civil Protection Information issued in Japan. It is a free application developed under the supervision of Japan Tourism Agency. 
+The Application provides various functions useful for foreign tourists in Japan. The application is available in five languages: English, simplified and traditional Chinese, Korean, and Japanese.
+
+＜Main functions and its utilization＞
+-Receiving Earthquake Early Warnings, Tsunami Warnings, Volcanic Warnings, Weather Warnings, Heat illness Warnings and Civil Protection Information.
+Before using the Application for the first time, select locations for which you wish to receive warnings from the Settings Menu (you may select a maximum of five locations (in Japan only))(*). Users will receive notifications when Earthquake Early Warning for local earthquakes of seismic intensity level 4 or greater, Tsunami Warning, Volcanic Warnings, Emergency Warnings , Heat illness Warnings, or Civil Protection Information are issued for the selected locations. Also, please make sure that the device which has not been changed a prediction point for more than 1 month from final change date of setting will not be able to receive notifications. If you turn automatic setting of a point on, you can receive notifications even in the case that it has been more than 1 month since you set a prediction point.
+(*) It is necessary to activate the Location Information Service (GPS), if you wish to set locations by using GPS. GPS is also used to display your current location on the map.
+
+-Earthquakes
+Information on past earthquakes. A maximum of ten records (seismic intensity level of 3 or higher.)
+
+-Weather Warnings
+Weather Warnings (heavy rain, flood, violent wind, severe snowstorm, heavy snow, high seas, storm surge) and Emergency Warnings (heavy rain, violent wind, severe snowstorm, heavy snow, high seas, storm surge) issued for the selected locations. 
+
+-Volcanic Warnings
+Currently issued Volcanic Warnings.
+
+-Heat illness Warnings
+Currently issued Heat illness Warnings.
+
+-Medical Institutions
+List of medical facilities accepting foreigners (Provided by the Japan Tourism Agency.)
+
+-Evacuation advice / instruction etc.
+Provides Evacuation advice / instruction information. Also provides Shelter Information. (Link to external application.)
+※Please note that information of municipalities using ""L alert"" will be displayed.
+
+-Learning Materials
+Knowledge you want to know before a disaster occurs.
+
+-Communication cards
+A set of question sentences that can be used when asking questions to people around you during a disaster.
+
+-Emergency Contacts
+Numbers to call in case of emergency.
+
+-Links
+Links to other sources of information that may be necessary during disaster situations (contact information of embassy, nearest tourist information centers, etc.), and other information concerning disasters and tourism.
+
+- Civil Protection Information
+Safety tips delivers information regarding ballistic missile attacks among civil protection information from Fire and Disaster Management Agency. 
+
+While the application and various types of information are free, communication charges related to download and use of Application shall be borne by the user.
+
+We will not be liable for any losses and/or damages resulting from the use of the Application.
+
+For support site of Safety tips, see here ->
+http://www.rcsc.co.jp/safetytips-sp",2014-06-01T07:00:00Z,2025-09-16T00:09:20Z
+cr,Costa Rica,Weather,6001,25,1137406490,Clima Pro ·,BUCKET LIST LABS S.L.,https://apps.apple.com/cr/app/clima-pro/id1137406490?uo=4,0.0,4.63478,115,Weather,"Presentamos Tiempo. La aplicación de tiempo más elegante que jamás hayas visto. Jamás. Disponible en la App Store.
+
+Ya sea que haga sol, esté nublado, llueva o incluso nieve, Tiempo te proporcionará sensacionales animaciones que reflejan las actuales condiciones meteorológicas en tu ciudad y en múltiples lugares de todo el mundo. 
+
+El buen o mal tiempo, cobrará vida como por arte de magia en la nítida pantalla de tu dispositivo iOS. Ni siquiera tendrás que asomarte por la ventana para saber el tiempo, ¡ya que Tiempo te hará sentir como si ya estuvieras fuera!
+
+This app contains subscription :
+- You can subscribe for premium account with detailed forecasts, premium maps and no ads
+- Subscription is from $39.99 USD yearly, with monthly and quarter plan available
+
+Links to our ToS and Privacy Policy
+https://sites.google.com/view/weatherpolicy",2017-08-16T17:28:49Z,2025-09-05T13:00:07Z

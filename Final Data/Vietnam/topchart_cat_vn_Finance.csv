@@ -1,0 +1,728 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+vn,Viet Nam,Finance,6015,1,1112407590,Zalopay - Quét Mọi QR,ZION JOINT STOCK COMPANY,https://apps.apple.com/vn/app/zalopay-qu%C3%A9t-m%E1%BB%8Di-qr/id1112407590?uo=4,0.0,4.73585,173808,Finance,"ZALOPAY - ỨNG DỤNG THANH TOÁN LÀM MỚI MỌI TRẢI NGHIỆM VỀ TIỀN
+Zalopay là ứng dụng thanh toán với đầy đủ các tiện ích và tính năng phục vụ mọi nhu cầu, mọi lúc mọi nơi, cho mọi người, từ mọi nguồn tiền.
+
+THANH TOÁN DỄ DÀNG KHÔNG LIÊN KẾT NGÂN HÀNG
+Bạn thích sử dụng theo cách truyền thống liên kết ngân hàng để nạp tiền vào tài khoản Zalopay; hay tinh gọn theo phương thức thanh toán mới chuyển khoản trực tiếp từ mọi ứng dụng ngân hàng - Zalopay có đủ!
+Người dùng sẽ được linh hoạt lựa chọn thanh toán từ tất cả các nguồn tiền, theo thói quen yêu thích như số dư Zalopay, Số dư sinh lời, Tài khoản trả sau, tài khoản ngân hàng đã liên kết, chuyển khoản trực tiếp từ ứng dụng ngân hàng bằng cách tải mã và thanh toán, Apple Pay, Visa, Mastercard...
+
+TÍCH THƯỞNG MỌI THANH TOÁN TỪ ỨNG DỤNG NGÂN HÀNG VỚI ZALOPAY PRIORITY
+Zalopay Priority là chương trình Hội Viên Ưu Tiên cung cấp những Đặc Quyền ngay trong tầm tay cho khách hàng thân thiết của Zalopay. Tất cả người dùng Zalopay, bao gồm người dùng sử dụng ứng dụng ngân hàng để quét và thanh toán qua Zalopay QR Đa Năng, đều có thể tham gia chương trình.
+Với mỗi hạng thành viên tương ứng (hạng Thành viên, Bạc, Vàng, Kim Cương), người dùng sẽ nhận về các đặc quyền hấp dẫn như tích điểm kép, chọn quà theo sở thích, đặc quyền tài chính dành riêng, tận hưởng các lối vượt ưu tiên đặc biệt, ...
+
+BẮT NHỊP TÀI CHÍNH LINH HOẠT TỪ SỐ TIỀN NHỎ
+Zalopay cung cấp đa dạng các sản phẩm tài chính vượt trội, hỗ trợ người dùng linh hoạt chi tiêu cùng Tiết kiệm - Chứng khoán - Vay tiêu dùng, với các bước đăng ký đơn giản, dễ dàng và an toàn.
+    - Số dư sinh lời với châm ngôn tiền tiêu hằng tháng sinh lời hằng ngày.
+    - Gửi tiết kiệm với lãi suất vượt trội thị trường, đặc biệt được linh hoạt rút gốc từng phần không mất lãi.
+    - Tài khoản chứng khoán để bạn bắt nhịp tài chính hiện đại khi có thể đầu tư chỉ từ 1 cổ phiếu.
+    - Tiêu trước trả sau, tinh gọn thủ tục để phục vụ mọi nhu cầu về tiền của bạn.
+
+TRẢI NGHIỆM MỌI DỊCH VỤ BẠN YÊU THÍCH
+Zalopay cung cấp hàng ngàn tiện ích thanh toán trực tuyến ngay trên ứng dụng:
+    - Chuyển & nhận tiền nhanh chóng từ ví điện tử và ứng dụng ngân hàng qua Zalopay QR Đa Năng.
+    - Mua thẻ điện thoại, nạp data với vô vàn ưu đãi hoàn tiền, chiết khấu thả ga.
+    - Tất toán mọi hóa đơn bạn có: Điện, Nước, Internet, Truyền hình, Vay tiêu dùng, Học phí, Phí chung cư...
+    - Mua vé du lịch chẳng lo giá cùng Vietjet Air, Bamboo Airlines, Gotadi, Agoda, Luxstay, Gotadi, chuỗi Reddoorz, Vé xe rẻ, Phương Trang (FUTA)...
+    - Thanh toán mọi ứng dụng VieOn, FPT Play, POPS, ClipTV, HDViet...
+    - Đặt vé phim trực tiếp đầy đủ các rạp CGV, Galaxy Cinema, Lotte,...
+    - Thanh toán nhanh gọn khi mua sắm trực tuyến Lazada, Tiki, TikTok Shop...
+    - Gọi xe đặt món với Grab, Be, Gojek, Ahamove, Loship...
+    - Đặt lịch khám tại các bệnh viện, trung tâm y tế ngay trong Zalopay
+
+BẢO MẬT CHUẨN QUỐC TẾ
+- Zalopay được Ngân hàng Nhà nước cấp phép hoạt động trong lĩnh vực trung gian thanh toán.
+- Thông tin được bảo mật quốc tế PCI DSS level 1 (cấp độ cao nhất thường chỉ dành cho các ngân hàng và các đơn vị phát hành thẻ).
+- Đạt chứng chỉ an ninh quốc tế cấp cao nhất ISO 27001.
+- Cơ chế bảo mật kép mật khẩu thanh toán và OTP, xác thực vân tay, FaceID.
+
+THÔNG TIN LIÊN HỆ
+Trung tâm chăm sóc khách hàng 24/7, sẵn sàng hỗ trợ các vấn đề liên quan đến bảo mật tài khoản, rủi ro giao dịch, giải đáp, tư vấn, khiếu nại:
+- Địa chỉ: Z06 Số 13, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh
+- Hotline: 1900 54 54 36
+- Email: hotro@zalopay.vn",2016-09-21T22:28:54Z,2025-11-06T02:55:55Z
+vn,Viet Nam,Finance,6015,2,6444787281,Liobank・Mobile Banking App,Orient Commercial Joint Stock Bank,https://apps.apple.com/vn/app/liobank-mobile-banking-app/id6444787281?uo=4,0.0,4.69366,19746,Finance,"Liobank is a digital bank in Vietnam powered by Orient Commercial Joint Stock Bank (OCB). We have made all banking processes really simple and offer you a convenient mobile banking app with a free 2-in1 bank card.
+
+Invite your friends to become Liobank clients and earn rewards together. When your friend activates their Liobank plastic card, both you and your friend will receive 50,000₫ each.
+
+26 reasons why Liobank will become your favorite bank:
+- 2-in-1 card with combined credit and debit features and instant cashback.
+- Credit limit of up to 200,000,000đ with zero interest for up to 62 days. Take out online credit loans with no paperwork.
+- Pay and get up to 20% cashback on your spending and mobile top-ups cashback.
+- Installment plans for up to 24 months with a low fee of only 1.7% per month. 
+- 5,4% interest on your personal funds with the Savings Account Feature.
+- Zero fees for fast money transfers, payments, mobile top-ups, and utility payments.
+- Lowest FX fees for international payments - just 2% with no fluctuation fee or minimum fee.
+- Supports Google Pay / Apple pay
+- Set your own lucky account number  – it's free!
+- Payment reminders and utilities payments notifications to pay for your bills.
+- ""Piggy"" to save for your dreams and earn 4,2% annual interest.
+- Control payments for linked services directly in the Liobank internet banking app with subscription management.
+- Shake your phone to pay and make transfers to people nearby without needing card or phone numbers.
+- Split bills for cafes or taxis among friends.
+- Seamlessly transfer money funds using your phone contact list.
+- Add beautiful photos to your money transfers and congratulate your friends in the most original way! 
+- Cancel a payment within 10 seconds if you make a mistake.
+- Respond to payments with a single touch and repeat previous payments instantly.
+- Manage your card in the mobile banking app: change your PIN, block/unblock your card and set internet spending limits.
+- Easily access and export card statements via the internet banking app.
+- Label expenses with tags and build convenient finance analytics.
+- Collect rewards for actively using your bank card.
+- Use ""Incognito"" mode for privacy, concealing your balance and transaction amounts.
+- Change your app background color with a tap.
+- Use dark mode.
+- React to payments with emojis instead of ""thank you"" or ""money received.""
+- Choose how we address you. It could be fun when you speak with support.
+- No chatbots - speak directly with our experienced support professionals anytime, anywhere.
+
+Get your perfect Liobank 2-in-1 credit and debit card today!
+
+Address: The Hallmark Building, 15 Tran Bach Dang Street, An Khanh Ward, Ho Chi Minh City. Tel: (84) 2 836 220 139. Company name Orient Commercial Joint Stock Bank (OCB). Business code: 0300852005",2023-03-01T08:00:00Z,2025-11-10T13:49:35Z
+vn,Viet Nam,Finance,6015,3,1205807363,MB Bank,MILITARY COMMERCIAL JOINT STOCK BANK,https://apps.apple.com/vn/app/mb-bank/id1205807363?uo=4,0.0,4.73888,1831331,Finance,"MBBank - Smart Financial Management
+
+Enjoy the perfect digital banking experience with APP MBBank! Our advanced banking app, smart interface, and user-friendly features bring you all the financial management utilities right at your fingertips.
+
+Key Features:
+- Smart Account and Asset Management: Check balances, track transactions, manage your accounts and assets within the MB Group anytime, anywhere.
+- Fast Money Transfers: Easily and securely transfer money 24/7, both domestically and internationally.
+- Bill Payments: Pay your electricity, water, internet bills, and other services within a few clicks.
+- Intelligent Savings: Automatically open savings accounts with attractive interest rates. Monitor and manage your savings effortlessly.
+- MB Membership: Affirm your status and enjoy interest rates on deposits and various payment vouchers.
+- Flexible Online Loans: Apply for loans online with a simple and fast process.
+- High Security:Protect your information and accounts with advanced security layers.
+- 24/7 Support: Our professional customer support team is ready to answer any questions you may have.
+- Download APP MBBank now and explore a modern, user-friendly, and optimized interface now!
+
+Contact Information:
+Hotline: 1900 545426
+Email: mb247@mbbank.com.vn
+Address: MB Grand Tower - 18 Le Van Luong, Hanoi, Vietnam",2017-04-10T06:50:33Z,2025-11-16T10:24:08Z
+vn,Viet Nam,Finance,6015,4,1548623362,Techcombank Mobile,VIETNAM TECHNOLOGICAL AND COMMERCIAL JOINT STOCK BANK,https://apps.apple.com/vn/app/techcombank-mobile/id1548623362?uo=4,0.0,4.78782,809752,Finance,"Techcombank Mobile is new app for retail banking customer by Techcombank. Enjoy money transfer, payments, transactions and financial management, all available within one device.
+ 
+PERSONALIZED BANKING EXPERIENCE
+·       Own a lucky account number and lifestyle card design
+·       Freely choose feng shui account background colors and zodiac symbols
+·       Flexibly change the app wallpaper as preferred
+·       Visual graph and chart for financial monitoring and budgeting
+·       Help you understand your spending habits and plan your savings for each daily transaction.
+ 
+MAKE PAYMENT IN JUST A BLINK
+·       Pay and transfer money using a personalized QR code
+·       Convenient money transferring via phone number
+·       Pay all your utility bills in just one place
+·       Set up auto-bill in just 1 second
+ 
+KEEP YOUR MONEY SAFE AND SECURE
+·       State-of-the-art technology biometric authentication is built in to ensure absolute security
+ 
+Also, enjoy zero transfers fee and unlimited cashback up to 2% on transactions via debit cards. Download Techcombank Mobile today!
+ 
+Head office:
+-          Hanoi: No 6 Quang Trung, Tran Hung Dao, Hoan Kiem
+-          Ho Chi Minh city: 23 Le Duan, District 1
+Techcombank’s credit rating: https://techcombank.com/en/about-us#credit-ratings",2021-09-28T07:00:00Z,2025-11-20T14:27:19Z
+vn,Viet Nam,Finance,6015,5,918751511,MoMo-Trợ Thủ Tài Chính với AI,ONLINE MOBILE SERVICES JOINT STOCK COMPANY,https://apps.apple.com/vn/app/momo-tr%E1%BB%A3-th%E1%BB%A7-t%C3%A0i-ch%C3%ADnh-v%E1%BB%9Bi-ai/id918751511?uo=4,0.0,4.34318,343654,Finance,"MoMo - Trợ thủ tài chính với AI giúp bạn làm được nhiều hơn với tiền
+
+1. Thanh toán tiện lợi
+- Nhanh chóng, mọi lúc mọi nơi: Dễ dàng thanh toán tại hàng ngàn điểm, từ cửa hàng đến dịch vụ trực tuyến.
+- Dịch vụ đa dạng: Thanh toán hóa đơn, nạp tiền, mua vé, đặt vé máy bay chỉ trong vài giây.
+- Liên kết ngân hàng dễ dàng: Hỗ trợ hầu hết các ngân hàng lớn tại Việt Nam.
+
+2. Dịch vụ tài chính đa dạng
+- Kiểm soát chi tiêu: Tự động phân loại, nhập chi tiêu nhanh, nhắc nhở tránh chi tiêu quá tay.
+- Tiết kiệm linh hoạt: Bắt đầu chỉ từ 10.000 đồng, sinh lời dễ dàng (*).
+- Vay nhanh, không cần chứng minh thu nhập: Duyệt trong 1 phút, hạn mức đến 50 triệu đồng (*).
+- Đầu tư đơn giản: Số vốn nhỏ, theo dõi dễ dàng trên ứng dụng (*).
+ 
+3. An toàn & Bảo mật
+- Công nghệ bảo mật 5 lớp AI: Bảo vệ tài khoản 24/7, phát hiện và ngăn chặn giao dịch bất thường.
+- Đối tác chiến lược của các ngân hàng lớn: Đảm bảo tiêu chuẩn bảo mật cao nhất PCI DSS.
+
+MoMo giúp bạn tiếp cận dịch vụ tài chính dễ dàng, chi phí hợp lý, xây dựng nền tảng tài chính ổn định và cuộc sống tốt hơn.
+
+CÔNG TY CỔ PHẦN DỊCH VỤ DI ĐỘNG TRỰC TUYẾN
+Địa chỉ: Tòa nhà Phú Mỹ Hưng, số 8 Hoàng Văn Thái, P. Tân Phú, Quận 7, TP. Hồ Chí Minh.
+
+(*) Dịch vụ do đối tác MoMo cung cấp và chịu trách nhiệm.
+MoMo sử dụng bộ công cụ và APL HealthKit để truy cập.",2014-09-24T20:04:25Z,2025-11-06T04:17:01Z
+vn,Viet Nam,Finance,6015,6,561433133,VCB Digibank,Joint Stock Commercial Bank for Foreign Trade of Vietnam,https://apps.apple.com/vn/app/vcb-digibank/id561433133?uo=4,0.0,3.3955,54303,Finance,"VCB Digibank is the digital banking application for personal customers by Vietcombank (the largest capitalized bank in Vietnam). VCB Digibank has been chosen by tens of millions of customers to conduct their daily financial transactions. 
+VCB Digibank incorporates numerous breakthrough technologies along with unique services, providing simple and exciting experiences for customers:
+- Online registration in just a few minutes.
+- No transfer fees, no registration fees, no maintenance fees.
+- Free account number matching phone number, free account nickname.
+- Personal finance management, group account.
+- Interface selection according to preference.
+- Transferring money, and cash withdrawal using QR code.
+- And hundreds of other financial transactions: Savings deposits; Loan disbursement; Payment of electricity/water/telecom bills; Mobile phone top-up; Investment and insurance; Booking taxis, plane tickets, train tickets...
+For more information, visit: 
+Website: https://www.vietcombank.com.vn
+Hotline: 1900 54 54 13
+Address: 198 Tran Quang Khai Street, Hoan Kiem District, Hanoi City, Vietnam",2012-10-02T16:24:13Z,2025-11-06T01:20:59Z
+vn,Viet Nam,Finance,6015,7,1061867449,BIDV SmartBanking,BANK FOR INVESTMENT AND DEVELOPMENT OF VIETNAM,https://apps.apple.com/vn/app/bidv-smartbanking/id1061867449?uo=4,0.0,3.86568,53319,Finance,"BIDV SMARTBANKING - NGÂN HÀNG SỐ CỦA TƯƠNG LAI
+
+BIDV SmartBanking phiên bản X ra mắt với giao diện hoàn toàn mới, mang đến trải nghiệm cá nhân hóa, mượt mà trên mọi điểm chạm cùng nhiều tiện ích vượt trội dành riêng cho khách hàng cá nhân.
+
+TRỢ LÝ AI LẦN ĐẦU XUẤT HIỆN TRÊN SMARTBANKING
+
+    Trợ lý AI được tích hợp giúp phân tích, dự đoán, gợi ý sản phẩm phù hợp theo từng nhu cầu riêng biệt.
+    Chatbot hoạt động 24/7, sẵn sàng hỗ trợ và tư vấn kịp thời mọi thắc mắc của khách hàng.
+
+TỰ ĐỘNG ĐẦU TƯ - TỐI ƯU SINH LỜI
+
+Tính năng đầu tư tự động lần đầu tiên ra mắt, cho phép khách hàng sử dụng hiệu quả dòng tiền nhàn rỗi bằng cách tự động gửi tiết kiệm mỗi ngày, đồng thời vẫn đảm bảo khả năng chi tiêu linh hoạt.
+
+QUẢN LÝ TÀI CHÍNH THÔNG MINH
+
+    Dễ dàng theo dõi thu – chi hàng tháng với báo cáo trực quan, chính xác.
+    Hỗ trợ phân bổ nguồn tiền hiệu quả thông qua các công cụ lập kế hoạch tài chính cá nhân linh hoạt.
+
+HỆ SINH THÁI TIỆN ÍCH HƠN CẢ 1 NGÂN HÀNG
+
+    Chỉ với một ứng dụng duy nhất, khách hàng có thể: Thanh toán hóa đơn điện, nước, viễn thông, truyền hình...
+    Mua sắm, đặt vé xem phim, đặt phòng khách sạn, giao hàng, giải trí,...
+    Hàng trăm tiện ích tích hợp sẵn sàng đáp ứng mọi nhu cầu sống hiện đại.
+
+AN TOÀN TUYỆT ĐỐI – BẢO MẬT TỐI ƯU
+
+    Đăng nhập duy nhất bằng số điện thoại và một mật khẩu trên mọi thiết bị: web, điện thoại, smartwatch, bàn phím thông minh.
+    Giao dịch an toàn với các phương thức xác thực: Smart OTP, sinh trắc học,...
+    Cảnh báo tức thời các giao dịch có dấu hiệu gian lận, lừa đảo.
+
+MIỄN PHÍ TOÀN DIỆN CÁC LOẠI PHÍ DỊCH VỤ
+
+    Phí chuyển tiền trong & ngoài hệ thống
+    Phí duy trì dịch vụ
+    Phí quản lý tài khoản mặc định
+    Phí tin nhắn OTT
+    Phí phát hành & phí thường niên trọn đời thẻ phi vật lý phát hành trên SmartBanking
+
+ĐĂNG KÝ DỄ DÀNG
+
+    Online bằng eKYC trên ứng dụng SmartBanking
+    Tại các điểm giao dịch BIDV trên toàn quốc
+
+Thông tin chi tiết:
+
+    Website: https://www.bidv.com.vn
+    Trụ sở chính: Tháp BIDV, 194 Trần Quang Khải, Hoàn Kiếm, Hà Nội
+    Tổng đài CSKH 24/7: 1900 9247",2015-12-12T22:48:16Z,2025-11-18T04:31:32Z
+vn,Viet Nam,Finance,6015,8,1032301823,ShopeePay - Vô vàn dịch vụ,VIETNAM ESPORTS DEVELOPMENT JOINT STOCK COMPANY,https://apps.apple.com/vn/app/shopeepay-v%C3%B4-v%C3%A0n-d%E1%BB%8Bch-v%E1%BB%A5/id1032301823?uo=4,0.0,3.92992,93730,Finance,"EXPLORE COUNTLESS SERVICES WITH SHOPEEPAY
+Download now to get a combo of discounts up to 300.000VNĐ!
+
+ShopeePay fulfills all your payment needs with a variety of convenient services:
+1. Enjoy payment & promotion from partners:
+- Entertainment: App Store, CGV, Ticketbox,...
+- Transportation: Be, Xanh SM, Vexere, Phuong Trang, Vietnam Airlines,...
+- Food & Beverages: The Coffee House, Highlands Coffee, Circle K,...
+- Shopping: Shopee, Con Cung,...
+2. Top-up mobile credit and 3G/4G data with daily promotions
+3. Settle utility bills: Electricity, water, Internet,...
+4. Transfer and receive money quickly and conveniently
+And many more services!
+
+Download ShopeePay now to experience smart payments and enjoy hot offers!",2016-02-03T07:01:46Z,2025-11-18T02:11:01Z
+vn,Viet Nam,Finance,6015,9,1209349510,VPBank NEO,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK,https://apps.apple.com/vn/app/vpbank-neo/id1209349510?uo=4,0.0,4.80611,290573,Finance,"Ứng dụng trên điện thoại (app) VPBank NEO đã được App Store xác nhận đủ điều kiện an toàn, bảo mật thông tin cho người dùng.
+
+VPBank là ngân hàng có tỷ lệ chuyển đổi số lớn nhất trên thị trường hiện nay. Kể từ tháng 7/2021, VPBank cho ra mắt Nền tảng Ngân hàng số toàn năng VPBank NEO để mang đến trải nghiệm hoàn toàn mới mẻ cho khách hàng sử dụng ngân hàng số.
+
+ 
+VPBank NEO là Ngân hàng số toàn năng của VPBank, được tích hợp toàn bộ các tiện ích, tính năng của ngân hàng số VPBank Online trước đây, bên cạnh đó còn được kết nối với các đối tác đa dạng thuộc hệ sinh thái của VPBank.
+
+ 
+VPBank NEO là Nền tảng Ngân hàng số toàn năng duy nhất và tiên tiến nhất hiện nay, sử dụng công nghệ nhận diện sinh trắc học, bảo mật giao dịch với Smart OTP và cung cấp hàng nghìn tiện ích khác chỉ trên một nền tảng số duy nhất.
+
+ 
+- SIÊU TỐC định danh eKYC 5 giây – Có tài khoản dùng ngay
+
+- MIỄN PHÍ toàn bộ các giao dịch chuyển tiền.
+
+- MIỄN PHÍ thanh toán mọi hóa đơn dịch vụ điện, nước, internet điện thoại, nạp thẻ điện thoại….
+
+- TIỆN ÍCH NGẬP TRÀN mua vé máy bay, đặt phòng khách sạn, thỏa thích mua sắm, trả góp chỉ trên 1 ứng dụng
+
+- ĐẦU TƯ DỄ DÀNG chuyển tiền chứng khoán miễn phí, tiết kiệm trực tuyến đa dạng.
+
+- DUY NHẤT TẠI VIỆT NAM – Duyệt vay tiêu dùng nhanh chóng sau 1 phút đăng kí online, Không cần hồ sơ giấy tờ bản cứng, không cần chứng minh tài chính
+
+- BẢO MẬT AN TOÀN thông tin cá nhân và lịch sử giao dịch.
+
+ 
+Cùng nhiều tiện ích khác đang chờ bạn khám phá!
+
+Chỉ với 1 phút đăng ký 100% online, khách hàng có thể dễ dàng quản lý và giao dịch tài chính online tiện lợi, nhanh chóng đồng thời sở hữu vô vàn tính năng vượt trội. Nhanh tay đăng ký VPBank NEO để trải nghiệm ngay hôm nay.
+
+ 
+VPBank NEO cam kết trải nghiệm mượt mà, dịch vụ ổn định vượt trội: gián đoạn không quá 15 phút/ lần, 60 phút/ năm (trừ các trường hợp bất khả kháng hoặc bảo trì, nâng cấp hệ thống được VPBank thông báo)
+
+Trụ sở chính: 89 Láng Hạ, Quận Đống Đa, Hà Nội.
+
+Thông cáo báo chí xếp hạng tín nhiệm VPBank: https://www.vpbank.com.vn/tin-tuc/thong-cao-bao-chi/2022/moody-xep-hang-tin-nhiem-vpbank-o-muc-trien-vong-tich-cuc
+
+VPBank NEO, cung cấp, tối thiểu gồm: thời gian gián đoạn cung cấp dịch vụ trong một lần, tổng thời gian gián đoạn cung cấp dịch vụ trong một năm trừ các trường hợp bất khả kháng hoặc bảo trì, nâng cấp hệ thống đã được đơn vị thông báo",2017-03-02T03:52:30Z,2025-11-12T03:38:19Z
+vn,Viet Nam,Finance,6015,10,689963454,VietinBank iPay,VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE,https://apps.apple.com/vn/app/vietinbank-ipay/id689963454?uo=4,0.0,4.37716,58628,Finance,"VietinBank iPay Mobile – Universal Digital Bank for Individual Customers of VietinBank.
+
+CONFIDENTIAL & ADVANCED TECHNOLOGY 
+- Electronic identification-eKYC: to open your online payment account
+- FacePay: top confidential & advanced technology applying biometrics and artificial intelligence to authenticate financial transactions and payments via iPay
+- Authenticate with SoftOTP quickly and safely
+ECOSYSTEM OF SUPERIOR FEATURES
+- Account management: Open your account online with eKYC; Choose your account number as per your wish; Choose a nickname for your account (Alias); Personalize your account’s QR code; 24/7 money transfers; Share account balance changes, etc.
+- Card management: Open/Close your payment card; pay credit card outstanding balance plus hundreds of offers up to 50%++ at our merchants when you pay with your card.
+- Diverse choices of online savings with preferential interest rates
+- Diverse online lending services: simple application, fast disbursement
+- Superior payment solutions: diverse choices of bill payment, automatic payment scheduling; QRPay, etc.
+- Connected to thousands of vendors/suppliers: cinemas, taxis, public transports, airlines, hotels, e-commerce with so many discount offers
+- VietinBank Loyalty: Earn Loyalty points flexibly and an attractive scheme of points-to-gifts/money in various categories
+ALL FREE
+- 0 fee charged for VietinBank iPay service maintenance; account management; money transfers in and out of VietinBank; account balance change OTT messages on VietinBank iPay
+VietinBank iPay Mobile also provides a list of partner sites and promotions, smart search for Branches & ATMs customized with the customer's address information, Big Data & AI-powered recommendations to customers.
+Download and explore the app now!
+
+VietinBank’s credit rating:
+https://investor.vietinbank.vn/InternationalRanking.aspx
+
+VietinBank in the press:
+https://baochinhphu.vn/fitch-ratings-nang-xep-hang-tin-nhiem-doi-voi-vietinbank-102221130155611431.htm
+
+Vietnam Joint Stock Commercial Bank for Industry and Trade - VietinBank
+Address: 108 Tran Hung Dao, Hoan Kiem, Hanoi 
+Hotline: 1900 558 868 | Email: Contact@vietinbank.vn",2013-08-30T11:17:46Z,2025-11-20T13:56:08Z
+vn,Viet Nam,Finance,6015,11,1344204781,Viettel Money,Viettel Corporation,https://apps.apple.com/vn/app/viettel-money/id1344204781?uo=4,0.0,4.72499,478394,Finance,"Viettel Money - Hệ sinh thái tài chính số
+
+Đáp ứng mọi nhu cầu chuyển tiền, thanh toán và tài chính. Tạo tài khoản chỉ bằng số điện thoại. Mọi dịch vụ trong 1 ứng dụng duy nhất. 
+
+1. THANH TOÁN TIỆN ÍCH: Thanh toán hóa đơn (điện, nước, truyền hình), nạp tiền điện thoại, mua data... với ưu đãi độc quyền dành cho người dùng Viettel
+2. CHUYỂN TIỀN MIỄN PHÍ: Chuyển tiền qua số điện thoại, liên ngân hàng nhanh chóng, dễ dàng
+3. TIẾT KIỆM LINH HOẠT: Gửi tiết kiệm, tích lũy online an toàn, lãi suất cạnh tranh, an toàn tuyệt đối
+4. ĐỔI VOUCHER MIỄN PHÍ: Sử dụng điểm Viettel++ để đổi miễn phí hàng triệu voucher từ các đối tác lớn: Highlands Coffee, McDonald's, PNJ...
+5. AN TOÀN – BẢO MẬT CAO: Đạt tiêu chuẩn bảo mật quốc tế
+
+Hotline: 18009000
+Tổng Công ty Dịch vụ số Viettel, trực thuộc Tập đoàn Công nghiệp - Viễn thông quân đội Viettel",2018-02-09T21:52:27Z,2025-11-10T10:15:13Z
+vn,Viet Nam,Finance,6015,12,450464147,TPBank Mobile,TienPhong Bank,https://apps.apple.com/vn/app/tpbank-mobile/id450464147?uo=4,0.0,4.45643,54865,Finance,"TPBank Mobile - Ứng dụng ngân hàng của Kỷ nguyên số
+ 
+Bạn có thể gói gọn cả ngân hàng vào chiếc điện thoại của mình nhờ có app TPBank Mobile. Dù ở nhà, đi dã ngoại, ở văn phòng hay ngồi café, bạn vẫn có thể mở tài khoản dùng ngay tại chỗ, thực hiện giao dịch ngân hàng ở bất kỳ nơi đâu. Tự hào là một sản phẩm digital tiên phong của TPBank – Ngân hàng của kỷ nguyên số, app TPBank Mobile được tin dùng bởi những lợi thế nổi bật:
+ 
+APP NGÂN HÀNG CÓ TRẢI NGHIỆM “CHILL” NHẤT:
+-          Mở tài khoản dễ dàng chỉ sau 5 giây định danh online.
+-          Lấy Nickname, Shopname làm Số tài khoản cực chất, đậm dấu ấn cá nhân
+-          Miễn phí vô địch: chuyển tiền trong & ngoài hệ thống 0đ phí, miễn phí đăng ký, miễn phí sử dụng
+-          Voucher nhiều như “biển”, giao dịch đầu tiên là được hoàn tiền 50%
+ 
+SỞ HỮU NHIỀU TÍNH NĂNG CÔNG NGHỆ ĐỘT PHÁ:
+-          Voice Pay: Chuyển tiền 100% bằng giọng nói vô cùng tiện lợi, đầu tiên trên thị trường
+-          Ứng dụng AI trong giao dịch chuyển tiền (gợi ý nội dung chuyển tiền), thống kê chi tiêu trực quan
+-          Voice search: tìm kiếm tính năng trong app bằng giọng nói.
+ 
+Dịch vụ ngân hàng đơn giản và thuận tiện nhất, hiện đại nhất đã có app TPBank Mobile! Tải app và trải nghiệm ngay!",2011-07-24T11:21:33Z,2025-11-14T13:24:58Z
+vn,Viet Nam,Finance,6015,13,6470750798,FE ONLINE 2.0,VPBank Finance Company Limited,https://apps.apple.com/vn/app/fe-online-2-0/id6470750798?uo=4,0.0,4.22591,6817,Finance,"FE ONLINE 2.0 – CÓ GÌ KHÁC BIỆT SO VỚI FE ONLINE 1.0?
+Ứng dụng FE ONLINE 2.0 với nhiều thay đổi so với phiên bản trước và không ngừng cải tiến để đem đến trải nghiệm khác biệt cho bạn.
+ 
+Giống nhau: Là ứng dụng chính thống của FE CREDIT hỗ trợ bạn đa dạng nhu cầu vay.
+Khác biệt khi dùng FE ONLINE 2.0:
+-	Hình thức nhận diện: Logo ứng dụng FE ONLINE 2.0 với màu chủ đạo xanh đỏ đúng theo màu của logo FE CREDIT, khác với bản FE ONLINE 1.0 với màu chủ đạo xanh lá cây.
+-	Giải ngân khoản vay thêm tiền mặt vào tài khoản ngân hàng số Übank, dễ dàng quản lý số dư và miễn phí chuyển khoản số tiền giải ngân.
+-	Thanh toán nợ khoản vay tiền mặt và thẻ tín dụng qua ngân hàng số Ubank.
+Lưu ý: Một số tính năng ở ứng dụng FE ONLINE 1.0 sẽ chưa có trên FE ONLINE 2.0 do ứng dụng đang trong quá trình cải tiến và cập nhật. Các tính năng này sẽ được tiếp tục cập nhật trong tương lai. Cụ thể ứng dụng FE ONLINE 2.0 chưa cập nhật:
+-	Chi trả khoản vay qua SmartPay.
+-	Đăng nhập bằng sinh trắc học.
+-	Cập nhật hồ sơ người dùng.
+-	Cuộc gọi đánh giá hồ sơ vay trên ứng dụng. Định vị địa điểm người dùng để đề xuất địa điểm giải ngân và thanh toán.
+
+Ứng dụng FE ONLINE 2.0 tích hợp nhiều tiện ích mới, hỗ trợ quản lý tài chính cá nhân toàn diện và hiệu quả.
+
+ỨNG DỤNG MỚI CHO MỌI NHU CẦU VAY 
+-	Vay tiền mặt nhanh chóng: đăng ký online, hồ sơ đơn giản chỉ cần CCCD, giải ngân nhanh trong ngày. Đặc biệt, khách hàng thân thiết khi vay thêm, chỉ cần thực hiện chữ ký điện tử để hoàn tất thủ tục và nhận giải ngân ngay về tài khoản ngân hàng số Übank được tích hợp trên ứng dụng.
+-	Mở thẻ tín dụng FE CREDIT dễ dàng, đăng ký rút tiền mặt online từ thẻ tín dụng tiện lợi.
+-	Vay mua xe máy, điện máy, điện thoại đơn giản với FE CREDIT, chỉ cần thực hiện chữ ký điện tử trên ứng dụng để hoàn tất thủ tục vay.
+
+ĐIỀU KIỆN VAY TIỀN MẶT ONLINE TRÊN ỨNG DỤNG FE ONLINE 2.0:
+-	Quốc tịch: Việt Nam 
+-	Độ tuổi: 20 – 60 tuổi
+-	Thu nhập: từ 3.000.000 đồng/tháng
+-	Hạn mức vay: từ 10.000.000 – 70.000.000 đồng
+-	Thời hạn vay linh hoạt: từ 12 tháng – 36 tháng
+-	Lãi suất hấp dẫn: từ 15% - 35%/năm (tùy thuộc vào hồ sơ từng khách hàng cụ thể và dựa trên dư nợ gốc)
+
+Ví dụ:
+-	Số tiền vay: 10.000.000 đồng 
+-	Thời gian vay: 12 tháng
+-	Lãi suất: 28%/năm.
+-	Khoản phải thanh toán hằng tháng: 1.066.667 đồng. 
+-	Tổng số tiền phải thanh toán: 12.800.000 đồng.
+
+TÍCH HỢP NGÂN HÀNG SỐ Übank
+-	Miễn phí mở tài khoản ngân hàng số Übank.
+-	Giao dịch nhanh chóng, miễn phí chuyển khoản liên ngân hàng.
+-	Thanh toán khoản vay FE CREDIT tiện lợi qua tài khoản Übank
+
+QUẢN LÝ BẢO MẬT THÔNG TIN, HỖ TRỢ TƯ VẤN
+
+-	NHANH CHÓNG: Thủ tục đăng ký đơn giản, 100% online.
+-	TIỆN LỢI: Lưu trữ hợp đồng, quản lý toàn diện khoản vay, thẻ tín dụng FE CREDIT, tài khoản ngân hàng số Übank. Theo dõi lịch thanh toán mọi lúc mọi nơi.
+-	AN TOÀN: Bảo mật toàn diện với phương thức nhận diện gương mặt, giao dịch an toàn với Smart OTP và công nghệ tokenization (tự động mã hóa số thẻ của khách hàng thành các dãy ký tự đặc biệt Token.)
+-	ƯU ĐÃI: Đề xuất cho khách hàng các khoản trả góp linh hoạt, đa dạng, nhiều chương trình ưu đãi tích điểm, đổi quà. 
+-	TƯ VẤN: Mọi thắc mắc, khách hàng có thể liên hệ tư vấn để được giải đáp nhanh chóng, rõ ràng.
+Tận hưởng tiện ích tài chính tín dụng từ FE CREDIT ngay hôm nay cùng ứng dụng FE ONLINE 2.0.
+
+LIÊN HỆ
+-	Website: https://fecredit.com.vn/
+-	Facebook: https://www.facebook.com/FECREDIT.VN/
+-	Zalo: zalo.me/fecredit
+-	Youtube: https://www.youtube.com/FECREDITVIETNAM
+-	Đường dây nóng:
+Sản phẩm vay: 19006535
+Sản phẩm thẻ: 19006939
+
+GIỚI THIỆU VỀ FE CREDIT
+FE CREDIT được thành lập vào tháng 02/2015 và là công ty con của Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank). Tháng 10/2021, VPBank hoàn tất hợp tác chiến lược với Công ty Tài chính Tiêu dùng SMBC (SMBCCF) thuộc tập đoàn Sumitomo Mitsui Financial Group Nhật Bản, FE CREDIT được đổi tên thành Công ty Tài chính TNHH Ngân hàng Việt Nam Thịnh Vượng SMBC.",2024-01-17T08:00:00Z,2025-11-10T15:39:54Z
+vn,Viet Nam,Finance,6015,14,1553761073,Home Credit Tài Chính Online,Home Credit Vietnam Finance Company Ltd.,https://apps.apple.com/vn/app/home-credit-t%C3%A0i-ch%C3%ADnh-online/id1553761073?uo=4,0.0,4.7808,141500,Finance,"Home Credit app supports fast loans with simple procedures and ensures absolute information security. Additionally, Home Credit offers a wide range of financial products, including Credit Cards, Home PayLater accounts, and 0% installment plans for electronics and motorbikes, helping you achieve your dreams.
+
+Benefits of Using the Home Credit App:
+· 100% online registration for financial products.
+· Loan approval within 3 minutes.
+· Quick loans with easy steps.
+· Online loans with attractive interest rates using just your ID card.
+· Loan limits range from 5 million to 250 million VND.
+· Flexible repayment terms from 3 to 57 months.
+· Flat interest rates range from 8.99% - 33.94% per year.
+
+Example Calculation:
+· Loan Amount: 40,000,000 VND
+· Loan Term: 12 months
+· Flat Interest Rate: 8.99%/year (depending on the product policy)
+· Monthly Payment: 3,651,000 VND (includes a 11,000 VND bank fee per month)
+· Total Payment Amount: 43,812,000 VND
+· Total Interest: 3,812,000 VND
+
+Eligibility for Online Loans, Fast Loans, and Credit Cards with Home Credit:
+· Must be a Vietnamese citizen.
+· Aged between 20 to under 60 years.
+· Possess an ID card or Citizen ID.
+
+About Us
+Home Credit Vietnam Finance Company Limited is a leading company in the fast online loan sector. With over 16 years of operation, we have established a presence in 63 provinces and cities across the country and gained the trust of more than 16 million customers.
+
+Through the Home Credit app, we provide:
+· Fast online loans.
+· Buy Now, Pay Later services.
+· Installment loans and credit solutions.
+· Loan management, bill payments for electricity, water, and phone top-ups.
+· Financial literacy resources.
+
+Why Choose Home Credit’s Fast Online Loans?
+· Over 16 million satisfied customers.
+· Secure online processes with high confidentiality.
+· Diverse loan options, including consumer loans, installment loans, and no-income-proof loans through the app.
+· Quick re-loan options tailored to meet all customer needs.
+· Professional, dedicated support staff.
+· Privacy and data security are top priorities.
+
+Privacy & Security
+Customer privacy is a top priority at Home Credit. We comply with Decree 13/2023/ND-CP on personal data protection, ensuring that customer information is safeguarded. Learn more about our privacy policy on our website.
+
+Home Credit Vietnam Finance Company Limited
+Address: Ground Floor, 8 & 10th Floors, Women Building, 20 Nguyen Dang Giai Street, Thao Dien Ward, Thu Duc City, HCMC · Website: https://www.homecredit.vn/ Email: info@homecredit.vn
+Hotline: 1900 633 999",2022-07-20T07:00:00Z,2025-11-03T03:57:24Z
+vn,Viet Nam,Finance,6015,15,935944952,Agribank Plus,VNPAY JSC,https://apps.apple.com/vn/app/agribank-plus/id935944952?uo=4,0.0,3.24424,33324,Finance,"Agribank Plus – Ngân hàng số phiên bản mới mang đến cuộc sống dễ dàng - tiện lợi dành cho bạn!
+Agribank Plus là ứng dụng ngân hàng số thông minh do Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam hợp tác cùng Công ty Cổ phần Giải pháp Thanh toán Việt Nam phát triển.
+Với giao diện hoàn toàn mới, hiện đại, thân thiện, thêm nhiều tiện ích và nâng cấp trải nghiệm người dùng, Agribank Plus hứa hẹn đáp ứng mọi nhu cầu tài chính cá nhân từ thanh toán, mua sắm đến giải trí… một cách ĐƠN GIẢN – DỄ DÀNG – THUẬN TIỆN – MỌI LÚC – MỌI NƠI.
+* ĐÁP ỨNG GIAO DỊCH TÀI CHÍNH CƠ BẢN:
+- Chuyển tiền nội bộ, liên ngân hàng nhanh gọn, miễn phí, 24/7, đặt lịch chuyển tiền, chuyển tiền cho nhiều người.
+- Gửi tiền trực tuyến linh hoạt, gửi tiền tích lũy.
+- Trả nợ tiền vay nhanh chóng, bảo mật
+- Gửi tiền mừng, lì xì cho nhiều người.
+- Quét mã VNPAY-QR, thanh toán đơn giản, nhanh chóng và nhận ưu đãi tại hơn 400.000 điểm chấp nhận trên toàn quốc.
+- Thanh toán hóa đơn: điện, nước, cước viễn thông, phí chung cư, học phí….
+- Nạp tiền điện thoại.
+- Nạp data 3G/4G.
+- Nạp tiền dịch vụ tài chính, nạp tiền giao thông…
+* MUA SẮM ĐƠN GIẢN - DI CHUYỂN MUÔN NƠI
+- Đặt vé máy bay, vé tàu hỏa, vé xe khách, vé tàu thủy, phòng khách sạn, gọi taxi nhanh chóng, dễ dàng.
+- Đặt vé xem phim, đặt hoa, đặt sân golf, giao hàng
+- Mua sắm trực tuyến VnShop.
+- Đặt khám y tế.
+- Đặt vé vui chơi giải trí, vé bóng đá, giải chạy.
+* CHỦ ĐỘNG QUẢN LÝ TÀI KHOẢN
+- Nhận tin OTT biến động số dư thuận tiện ngay trên ứng dụng, tránh các rủi ro giả mạo thương hiệu Ngân hàng.
+- Cài đặt Soft OTP bảo vệ giao dịch.
+- Cài đặt Face ID đăng nhập, xác thực giao dịch.
+- Cài đặt hạn mức.
+- Cài đặt mật khẩu, quản lý danh bạ.
+- Tra cứu thông tin hóa đơn, lãi suất, tỷ giá ngoại tệ, điểm giao dịch Agribank.
+- Tìm kiếm địa điểm ăn uống, mua sắm, cửa hàng tiện lợi, nhà thuốc, hiệu sách…
+* CHÍNH SÁCH MIỄN PHÍ
+- Miễn phí mở tài khoản trực tuyến/đăng ký dịch vụ; Miễn phí vấn tin quản lý/sao kê giao dịch qua tài khoản.
+- Miễn phí mở/đóng tài khoản tiền gửi tiết kiệm trực tuyến.
+- Miễn phí chuyển tiền nội bộ/liên ngân hàng/chuyển tiền qua mã VietQR.
+- Miễn phí giao dịch thanh toán VNPAY-QR.
+- Miễn phí giao dịch khi thanh toán hóa đơn (điện, nước, học phí...) đặt phòng khách sạn, mua vé tàu hỏa, mua vé xe khách, đặt vé xem phim, đặt vé tàu thủy, thể thao – giải trí, gọi Taxi, giao hàng, đặt hoa…
+- Miễn phí giao dịch khi mua mã thẻ, nạp tiền điện thoại, mua mã thẻ 3G/4G của các nhà mạng….
+Tên: Ngân hàng Nông nghiệp & Phát triển Nông thôn Việt Nam (Agribank)
+Địa chỉ: Số 2 Láng Hạ, Phường Thành Công, Quận Ba Đình, Hà Nội.",2014-12-03T01:39:26Z,2025-10-22T02:36:56Z
+vn,Viet Nam,Finance,6015,16,1190447960,VETC,VETC ELECTRONIC TOLL COLLECTION COMPANY LIMITED,https://apps.apple.com/vn/app/vetc/id1190447960?uo=4,0.0,2.9581,3699,Finance,"Mời bạn trải nghiệm VETC - Ứng dụng thanh toán dịch vụ thu phí tự động đường bộ và hỗ trợ tối ưu cho chủ phương tiện ô tô.
+VETC đem đến những hành trình liền mạch và đơn giản, giúp bạn tận hưởng cuộc sống hiện đại thật nhanh chóng và thông minh, thông qua các tiện ích:
+-	Thanh toán phí tự động đường bộ ETC.
+-	Nạp/rút/chuyển tiền linh hoạt trên tài khoản VETC.
+-	Mua vé tháng/quý.
+-	Tra cứu thông tin tài khoản, lịch sử xe qua trạm, biến động số dư.
+-	Thanh toán dịch vụ gửi xe không dừng trực tiếp qua Tài khoản VETC.
+-	Giải pháp thanh toán phí xăng dầu không tiền mặt tại các cửa hàng xăng dầu toàn quốc.
+-	Cập nhật tin tức giao thông nhanh nhất.
+-	Đăng ký lái thử & Trải nghiệm các thương hiệu xe nổi tiếng.
+-	Nhận voucher dành cho dịch vụ sửa chữa, bảo dưỡng.
+
+
+THÔNG TIN LIÊN HỆ:
+Dịch vụ chăm sóc khách hàng, hỗ trợ các vấn đề liên quan đến tài khoản, thanh toán; giải đáp, tư vấn:
+Hotline: 1900 6010
+Email: info@vetc.com.vn",2017-01-05T22:50:21Z,2025-11-09T22:21:23Z
+vn,Viet Nam,Finance,6015,17,436134873,MSB mBank,Vietnam Maritime Commercial Joint Stock Bank,https://apps.apple.com/vn/app/msb-mbank/id436134873?uo=4,0.0,4.04228,9840,Finance,"WELCOME TO MSB MBANK'S BRAND-NEW DIGITAL EXPERIENCE! 
+ 
+As the bank awarded ""Best Digital Transformation Bank in Vietnam 2022""(*), MSB strives every day to bring a simple, secure, and fast banking experience with numerous outstanding conveniences.
+There’s so much you can experience with the Mobile Banking app:
+ 
+*FREE LIFETIME CURRENT ACCOUNT
+- 01-minute register 100% online with a fast and modern eKYC process
+- Freely choose bank account number by phone number, birthday, or nickname
+- No minimum balance is required, and free lifetime services (Napas 247 internal & interbank online transfer, issuance of M-Pro domestic debit card, withdrawal at MSB ATM, and account maintenance fee).
+- Automatically separating online transactions 24/7 up to 10 billion VND/time just by a click
+ 
+*SAFE, ATTRACTIVE INTEREST RATE ONLINE SAVINGS
+- Attractive savings interest rates, diverse deposit terms & deposit products
+- No need for complicated paperwork, and no need to go to the branches.
+- +0.9% interest rate instantly when opening a savings account for the first time at MSB
+-  Packed with features to help manage, track, and check your savings balance online 24/7
+ 
+*UTILITY SERVICES ALL-IN-ONE APP
+- Pay and recharge automatically in 1 click
+- Monitor and manage monthly expenses
+- Schedule transfers, and future transfers easily
+- Find the nearest ATM and MSB’s branch right on the app
+ 
+*ATTRACTIVE PROMOTIONS FROM MSB AND OUR PARTNERS
+- Cashback of up to 1.2 million VND/year when paying bills & automatic top-up on Internet Banking/Mobile Banking applications
+- Receive up to 2 million VND when recommending friends to open an account via the MSB mBank application
+- And thousands of promotions from +300 partners as soon as opening an account
+ 
+Want a secure, easy way to bank on the go? Download the app today. It’s simple and convenient!
+ 
+(*) Award given by The Global Economic Magazine. See more MSB awards given: https://www.msb.com.vn/en/tin-tuc.html#awards 
+_________________________________________
+MSB – On real growth
+Hotline: 1900 6083
+Website: https://msb.com.vn/ 
+Zalo: https://zalo.me/msbvietnam",2011-05-15T07:00:00Z,2025-11-12T08:18:34Z
+vn,Viet Nam,Finance,6015,18,1551907051,CAKE - Digital Bankin‪g,VIETNAM PROSPERITY JOINT STOCK COMMERCIAL BANK,https://apps.apple.com/vn/app/cake-digital-bankin-g/id1551907051?uo=4,0.0,4.56619,43911,Finance,"WELCOME TO CAKE WORLD!
+
+Cake is the digital bank within the digital ecosystem of VPBank Group. As the sole representative of Vietnam in the top 100 best digital banks globally and the best digital bank in Vietnam in 2025 by The Asian Banker Global, Cake has been providing financial services by leveraging the power of AI to enhance banking operations and customer experiences. Cake Digital Bank pioneer in adhering to international management and security standards such as ISO, FIDO2, PCI DSS 4.0, while proactively developing and mastering its own technology. In Vietnam, Cake Digital Bank ranks among the top 4 developers of prominent Vietnamese language models (LLM) and is in the top 10 fine-tuned models for Vietnamese LLM on the VLMU rankings. Cake Digital Bank offers a comprehensive range of banking products, from payment accounts to savings, credit cards, consumer loans, and other innovative services that promote financial inclusion. This enables Cake Digital Bank to reach a diverse customer base.
+
+· CURRENT ACCOUNT: Register 100% online with a fast and modern electronic identification (eKYC) process; Account number is an easy-to-remember phone number; Enjoy lifetime free services (money transfer fee, withdrawal fee, account maintenance fee, SMS fee...).
+
+· DEBIT CARD: Plenty of card designs to choose from according to your preferences. Open card within only 2 minutes, free home delivery and many attractive offers.
+
+· TERM DEPOSIT: Deposit from VND 100,000, various tenants with attractive interest rates without complicated papers, no need to go to the bank branch. Easily settle a part of the deposit before maturity without losing interest.
+
+· CREDIT CARD: Only 2 minutes to register, 100% online, no income proof, no cumbersome paperwork, limit up to 100,000,000 VND and many attractive incentives from our partners.
+
+· UTILITIES PAYMENT: Top-up your phone, pay your Electricity/Water.. right on the CAKE BANK app.
+
+· Cake by VPBank is committed to delivering a seamless experience and superior service stability, ensuring that service disruptions do not exceed 15 minutes per occurrence and 60 minutes per year (except in cases of force majeure or scheduled maintenance and system upgrades as notified by the institution).
+
+#NextGen_AI_Bank #Easy_as_Cake - ENJOY NOW!
+
+CONNECT WITH CAKE:
+
+Email: chat@cake.vn
+
+Hotline: 1900 636 686 Website: https://cake.vn",2021-02-05T08:00:00Z,2025-11-17T02:19:05Z
+vn,Viet Nam,Finance,6015,19,6743163863,HATACO VAY,HATACO VNE TC TM DV COMPANY LIMITED,https://apps.apple.com/vn/app/hataco-vay/id6743163863?uo=4,0.0,4.62803,14036,Finance,"""HATACO VAY"" cam kết cung cấp dịch vụ vay trực tuyến nhanh chóng, linh hoạt cho các doanh nghiệp có nhu cầu hỗ trợ tiền mặt khẩn cấp. Nền tảng của chúng tôi đặc biệt phù hợp với các doanh nghiệp đang tìm kiếm giải pháp cho vay ngắn hạn nhằm đáp ứng nhu cầu tài chính đột xuất. Với ""HATACO VAY"", doanh nghiệp có thể tận hưởng giao diện trực quan và dễ sử dụng; cho dù bạn đang ở giai đoạn đầu khởi nghiệp, mở rộng hay phát triển kinh doanh, chúng tôi đều có thể giúp bạn thực hiện ước mơ của mình.
+
+Dưới đây là các bước để khởi chạy ứng dụng của bạn:
+	•	Tải ứng dụng ""HATACO VAY"" trên kho ứng dụng.
+	•	Điền vào mẫu đơn đơn giản, chỉ mất vài phút.
+	•	Gửi đơn xin vay tiền của bạn và chúng tôi sẽ xử lý ngay lập tức.
+	•	Sau khi được phê duyệt, số tiền vay sẽ được gửi trực tiếp vào tài khoản ngân hàng được chỉ định của bạn.
+
+Điều kiện đăng ký “HATACO VAY”:
+	1	Bạn phải có nguồn thu nhập ổn định.
+	2	Bạn phải có số tài khoản ngân hàng đang hoạt động và số liên lạc hợp lệ.
+	3	Cần hỗ trợ tài chính khẩn cấp.
+
+Tính năng và lợi ích của “HATACO VAY”:
+Phê duyệt khoản vay tức thì – Với ứng dụng cho vay trực quan và dễ sử dụng của chúng tôi, bạn có thể đăng ký khoản vay cá nhân và được phê duyệt chỉ sau 5 phút.
+Giải ngân nhanh chóng – Sau khi được phê duyệt, số tiền vay sẽ được chuyển ngay vào tài khoản ngân hàng của bạn, giúp bạn truy cập nhanh vào số tiền bạn cần.
+Nền tảng đáng tin cậy: Hàng triệu người dùng đã có được trải nghiệm dịch vụ hài lòng thông qua nền tảng của chúng tôi.
+An toàn 100%: Chúng tôi hứa rằng quy trình dịch vụ sẽ hoàn toàn minh bạch, không có phí ẩn và chúng tôi sẽ áp dụng các biện pháp bảo mật dữ liệu cấp cao để đảm bảo an toàn cho thông tin của bạn và cho phép bạn tận hưởng trải nghiệm cho vay mà không cần lo lắng.
+Phương thức thanh toán linh hoạt: “HATACO VAY” cung cấp nhiều phương thức thanh toán đa dạng bao gồm chuyển khoản ngân hàng, thanh toán trực tuyến,… giúp bạn linh hoạt sắp xếp kế hoạch thanh toán theo tình hình tài chính cá nhân.
+""HATACO VAY"" hợp tác với Vietcombank, Agribank, VietinBank, TPBank, MB, BIDV, Techcombank, Sacombank và các ngân hàng khác. Tất cả các giao dịch đều tuân thủ các tiêu chuẩn tuân thủ của các ngân hàng liên quan, cung cấp dịch vụ tài chính an toàn và đáng tin cậy cho người dùng.
+
+Chi tiết sản phẩm:
+	•	Thời hạn vay: Thời hạn vay linh hoạt, từ 93 ngày đến 365 ngày.
+	•	Số tiền cho vay: lên tới 20.000.000 đồng, số tiền thực tế được phê duyệt được xác định dựa trên kết quả xem xét của công ty.
+	•	Lãi suất hàng năm: Lãi suất tối đa hàng năm (APR) không vượt quá 15%/năm.
+	•	Tiện ích bổ sung: Không có phí ẩn hoặc tính năng bổ sung.
+
+Ví dụ về khoản vay:
+	•	Nếu bạn vay 20.000.000 VNĐ với lãi suất 15%/năm trong 120 ngày và không tính phí khác, bạn sẽ nhận được 20.000.000 VNĐ tiền mặt và thông tin thanh toán của bạn như sau:
+	•	Lãi suất tháng = 15%/12=1,25%
+	•	Lãi tháng = 20.000.000 VNĐ*15%/12=250.000 VNĐ
+	•	Phí tháng=20.000.000/4+20.000.000 VNĐ*15%/12=5.250.000 VNĐ
+	•	Tổng lãi = 20.000.000 VNĐ*15%/12*4=1.000.000 VNĐ
+	•	Tổng số tiền trả = 20.000.000 VNĐ + 20.000.000 VNĐ*15%/12*4 = 21.000.000 VNĐ
+
+Ví dụ này chỉ mang tính tham khảo; thời hạn vay thực tế sẽ được xác định dựa trên hồ sơ tín dụng cá nhân và phê duyệt khoản vay của bạn. ""HATACO VAY"" nhằm mục đích cung cấp cho người dùng dịch vụ cho vay nhanh chóng, minh bạch và thuận tiện để đáp ứng nhu cầu tài chính vào những thời điểm quan trọng.
+
+Cấp phép và quy định
+Ứng dụng này tuân thủ các yêu cầu quy định của Ngân hàng Nhà nước Việt Nam (NHNN), Bộ Tài chính (MOF), Trung tâm Thông tin Tín dụng Quốc gia Việt Nam (CIC) và các tổ chức liên quan khác để đảm bảo tính tuân thủ và bảo mật của dịch vụ.
+
+Thông tin liên hệ: suport@hatacocompany.com
+Giờ làm việc: Thứ Hai đến Thứ Sáu 08:00 - 17:00
+Địa chỉ: 6-8 Doan Van Bo, Ward 09, District 4, Ho Chi Minh City, Vietnam
+Tên doanh nghiệp: HATACO VNE TC TM DV COMPANY LIMITED
+Trang web chính thức:www.vne.hatacocompany.com",2025-05-12T07:00:00Z,2025-06-04T01:35:32Z
+vn,Viet Nam,Finance,6015,20,6504602514,Mar Vay,MARITIME BANK ASSET MANAGEMENT COMPANY LIMITED,https://apps.apple.com/vn/app/mar-vay/id6504602514?uo=4,0.0,4.72032,154619,Finance,"With Mar Vay, the higher the credit limit, the longer the term. Enjoy your fame wisely!
+
+About loan:
+-Credit limit: up to 26,000,000 VND
+- Time: 93 to 365 days
+Interest rate (APR): Annual interest rate up to 30%/year
+-VAT: 0
+- Commission: 0
+For example, for a loan of 200,000 VND to be repaid within 120 days, you only have to pay 19,726 VND (200,000*30%*120/365 = 19,726) in interest and the total amount owed is 219,726 VND.
+
+feature:
+1. High amount: Maximum amount: 26,000,000 VND
+2. High efficiency: You can submit your application online using your ID card + bank card without having to go to the office. The fastest time to access your account is three minutes. Great for emergency personal loans.
+3. Easy to use: Order and pay easily at any time.
+4. The product has a wide geographical scope and a large number of users: everyone in Vietnam can use it.
+5. New loan approval 100℅: New loan approval 100%.
+6. Trusted platform with privacy protection: We protect all user information. We will never give your information to anyone without your permission. We will never share your information without your prior permission. Mar Vay is a cash credit product that is safe and reliable enough.
+
+What do you need to borrow money for?
+- Over 18 years.
+- Be Vietnamese and live in Vietnam
+- Have a debit account (in your name) from a year ago.
+- Download this software.
+
+Contact us:
+Company address: 54A Nguyen Chi Thanh, Lang Thuong Ward, Floor 24, Hanoi
+Email: office@maritimebankassetmanagement.com
+Phone: +84 580203940",2024-07-23T07:00:00Z,2024-07-23T07:40:11Z
+vn,Viet Nam,Finance,6015,21,6749874696,LamVay – Ứng dụng vay vốn,DigitalWave Technology Company Limited,https://apps.apple.com/vn/app/lamvay-%E1%BB%A9ng-d%E1%BB%A5ng-vay-v%E1%BB%91n/id6749874696?uo=4,0.0,3.932,500,Finance,"LamVay là nền tảng dùng để gửi và xử lý yêu cầu khoản vay cá nhân.
+Người dùng có thể đăng ký khoản vay, theo dõi tiến độ xử lý và nhận thông báo kết quả qua điện thoại di động.
+
+Ứng dụng hỗ trợ quy trình xử lý khoản vay trực tuyến, bao gồm:
+● Nhập thông tin theo hướng dẫn từ hệ thống
+● Gửi yêu cầu khoản vay để hệ thống xem xét
+● Theo dõi tiến độ và kết quả xử lý khoản vay
+
+Lưu ý: Kết quả phê duyệt khoản vay sẽ được đánh giá dựa trên hồ sơ cá nhân và thông tin tài chính do người dùng cung cấp.
+Không phải mọi yêu cầu đều sẽ được chấp thuận.
+
+Vui lòng cân nhắc khả năng tài chính cá nhân trước khi đăng ký khoản vay. Việc thanh toán đúng hạn sẽ góp phần duy trì uy tín tín dụng của bạn.
+
+#Điều kiện đăng ký
+● Công dân từ 21 đến 60 tuổi
+● Có CCCD (Căn cước công dân) hợp lệ tại Việt Nam
+● Có thu nhập ổn định hoặc đang đi làm
+
+#Thông tin sản phẩm
+● Số tiền vay: 1.000.000 VND – 15.000.000 VND
+● Thời hạn vay: 91 – 365 ngày
+● Lãi suất năm (APR): Không vượt quá 20% (tính theo lãi đơn)
+● Phí: Không thu phí đăng ký, phí quản lý hay bất kỳ chi phí ẩn nào
+Ví dụ:
+Vào ngày 01/08/2025, người dùng nhận một khoản vay trị giá 10.000.000 VND, kỳ hạn 180 ngày, lãi suất năm 16%. Chi tiết khoản thanh toán của người dùng như sau:
+● Ngày thanh toán đến hạn: 28/01/2026
+● Số tiền thanh toán đến hạn: 10.789.040 VND
+(Lưu ý: Đây chỉ là ước tính mang tính minh họa. Số tiền thực tế sẽ được xác định theo thông tin cụ thể của từng hồ sơ.)
+
+#Liên hệ
+Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua CSKH trong ứng dụng hoặc các kênh sau:
+● Email:  support@miraeassetfinco.com
+● Trang web: https://www.miraeassetfinco.com/
+● Địa chỉ: Số 2 Đường 16, KDC Hiệp Thành 3, Thủ Dầu Một, Bình Dương",2025-09-01T07:00:00Z,2025-09-02T01:47:04Z
+vn,Viet Nam,Finance,6015,22,1527220699,TNEX - Ngân hàng số thế hệ mới,Vietnam Maritime Commercial Joint Stock Bank,https://apps.apple.com/vn/app/tnex-ng%C3%A2n-h%C3%A0ng-s%E1%BB%91-th%E1%BA%BF-h%E1%BB%87-m%E1%BB%9Bi/id1527220699?uo=4,0.0,4.46905,13762,Finance,"TNEX universe: Banking services, shopping, bill payment, spending management
+
+About TNEX - Pure digital bank sponsored by Vietnam Maritime Commercial Joint Stock Bank MSB
+TNEX DIGITAL BANKING IS FREE!
+- Register for a TNEX account online in just a few minutes.
+- Guaranteed NO hidden costs: no account maintenance fees, no minimum balance required.
+- Super cool debit card delivered to you, no need to go to the bank.
+- Provide prepaid spending account for customers immediately after successful registration.
+- Consumer loans - Flexible financial solutions, meeting all urgent needs: Easy registration, 100% automatic approval online. Super fast disbursement in 2 minutes. Attractive limit up to 25 million VND. Loan period from 03 months to 12 months.
+Loan estimate results are based on an interest rate of 27.1%/year. Information is for reference only, depending on the approved product.
+For example: With a consumer loan of 25 million VND, loan term is 12 months, interest rate is 27.1%/year. With monthly principal and interest payment methods, the monthly payment amount is 2,401,655 VND. Thus, the total amount to be paid including principal and interest at the end of the period is 28,819,860 VND
+WITHDRAWING MONEY AND TRANSFERS WITHOUT WORRY!
+- Free transfer, including interbank transfer.
+- Deposit money online easily through all banks.
+- Withdraw money from 17,000 ATM systems anywhere.
+COMPACT AMENITIES - SPONSORED FOR CHOICES!
+- Shop freely with a series of great deals.
+- Helps you manage personal finances simply.
+- Chat pay with extremely slay friends.
+- Connect 10,000++ job and internship opportunities with the CareerHub ecosystem
+For further information, please contact:
+Website: https://tnex.com.vn
+Email: cskhcn@tnex.com.vn
+Address: KT Floor, Thang Long Tower, 98A Nguy Nhu Kon Tum Street, Thanh Xuan Ward, Hanoi City.",2020-12-06T08:00:00Z,2025-10-31T02:06:32Z
+vn,Viet Nam,Finance,6015,23,1436283663,Sacombank Pay,SAIGON THUONG TIN COMMERCIAL JOINT STOCK BANK,https://apps.apple.com/vn/app/sacombank-pay/id1436283663?uo=4,0.0,3.66786,22825,Finance,"Welcome to Sacombank Pay – the modern and ultra-convenient financial management app that makes your life easier and more enjoyable! With a friendly and customized design, you will love the secure transaction space tailored just for you! 
+
+Key Highlights: 
+
+- Enjoy free transactions 24/7, fast and free with a limit of up to 50 billion VND/day!  
+
+- Absolute Security! Biometric technology and Smart OTP keep your transactions safe. 
+
+- Exciting Payments! Scan domestic and international QR codes, or integrate your card to Apple Pay in a flash! 
+
+- Easy Financial Management! Check your balance, view statements and fund deposit alert sharing with up to 5 current accounts. 
+
+- Convenient Banking Services! Open savings, apply for Loans with disbursement in just 5 minutes, and quickly open current accounts and get your cards issued! 
+
+- Flexible personal information updates! Update your details using a chip-based ID card/national ID or via a VNeID electronic identification account.  
+
+- Diverse Payment Ecosystem! Pay bills, top up, book tickets… all in one fabulous app! 
+
+- Redeem Sacombank Sapphire points for even more exciting incentives! 
+
+ 
+
+Then what are you waiting for? Download or update the app now, complete your online authentication and start your amazing journey right away!",2018-11-05T05:54:00Z,2025-11-06T16:59:01Z
+vn,Viet Nam,Finance,6015,24,6471952024,Vikki - Ngân hàng Số,Ho Chi Minh City Development Joint Stock Commercial Bank,https://apps.apple.com/vn/app/vikki-ng%C3%A2n-h%C3%A0ng-s%E1%BB%91/id6471952024?uo=4,0.0,4.53087,3304,Finance,"Chào mừng bạn đến với Vikki Digital Bank!
+Ngân hàng số đa năng thế hệ mới đầu tiên tại Việt Nam! Vikki có đầy đủ, đa dạng các dịch vụ tài chính, tiêu dùng, và sản phẩm vượt trội, để phục vụ mọi nhu cầu tài chính của bạn như:
+- Mở tài khoản trực tuyến, chọn số bạn thích vừa nhanh chóng, an toàn, miễn phí và nhận ngay thẻ thanh toán ảo cực xịn
+- Đa dạng các dòng thẻ cho bạn thoả thích lựa chọn với thiết kế độc đáo và nổi bật
+- Mua sắm online trên toàn cầu: Sử dụng thẻ thanh toán của Vikki tại các điểm chấp nhận thẻ MasterCard.
+- Chuyển khoản 24/7 siêu nhanh, siêu dễ!
+- Miễn hoàn toàn phí chuyển tiền, phí thường niên, phí quản lý tài khoản
+- Dễ dàng quản lý chi tiêu tài khoản và thẻ
+- Giao dịch siêu nhanh, siêu dễ và siêu bảo mật!
+- Tổng đài 24/7 Vikki Care tận tâm từng khoảnh khắc, luôn sẵn sàng hỗ trợ mỗi khi bạn cần
+Vikki Digital Bank - Điểm hẹn Ngân hàng số - Chạm cảm hứng, Bật tương lai!
+
+Liên hệ Vikki Care:
+
+Hotline: 1900 6608
+
+Email: 19006608@vikkibank.vn
+
+Website: http://www.vikkibank.vn",2024-01-16T08:00:00Z,2025-11-18T06:23:07Z
+vn,Viet Nam,Finance,6015,25,6504893750,HPO,"HD SAISON FINANCE CO.,LTD",https://apps.apple.com/vn/app/hpo/id6504893750?uo=4,0.0,4.83464,3199,Finance,"Ứng dụng HPO cung cấp tính năng quét mã QR và đọc CCCD gắn CHIP (NFC) 
+
+Sử dụng dễ dàng, tiện lợi và nhanh chóng:
+1. Tải ứng dụng HPO miễn phí
+2. Chuẩn bị CCCD gắn CHIP 
+3. Liên hệ nhân viên HDSAISON để được cung cấp mã QR thực hiện eKYC 
+4. Làm theo hướng dẫn trong ứng dụng để thực hiện NFC thành công 
+
+Trải nghiệm tối ưu: 
+1. Bảo mật thông tin 
+2. Ứng dụng hiện đại 
+3. Mọi lúc, mọi nơi, mọi thiết bị 
+
+Công ty Tài chính trách nhiệm hữu hạn HD SAISON
+Tầng 8,9,10 Tòa nhà Gilimex, 24C Phan Đăng Lưu, Phường Gia Định, Thành phố Hồ Chí Minh
+Website: www.hdsaison.com.vn 
+Facebook: www.facebook.com/HDSAISONFinance
+Hotline: 1900 558854",2024-07-04T07:00:00Z,2025-10-09T10:22:07Z

@@ -1,0 +1,715 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+sg,Singapore,Health & Fitness,6013,1,1639265003,NHG Health,National Healthcare Group Pte Ltd,https://apps.apple.com/sg/app/nhg-health/id1639265003?uo=4,0.0,3.34058,138,Health & Fitness,"Welcome to NHG Health App!
+
+Let us be your daily health companion on your wellness journey. Enjoy easy access to your health data and services and track the progress of your health goals. The Health Kampung feature allows residents living in the Central and North region of Singapore to book health and social programmes organised by our community partners, alongside the national programme, Healthier SG (HSG).  
+More features will be rolled out in the coming months. We welcome your feedback via https://for.sg/nha-feedback.
+
+• UIUX & Bug Fixes
+
+
+Other Features:
+
+• Caregiver Access and Dependent Management
+• Health Kampung*
+  • View and book health and social programmes
+• NHG Health Membership*
+  • Enjoy membership perks
+• Chinese Translation for App Menu
+• Create and Update Patient Profile
+
+
+*Health Kampung shows activities within Central and North region of Singapore.
+NHG Health Membership is for NHG residents who has enrolled in Healthier SG with a NHG polyclinic or a NHG GP partner.
+
+App Features:
+•  Digital Services
+    •  My Care Plan
+    •  Manage your appointments and registration
+    •  Digital medical certificate (MC)
+    •  Test results
+    •  Medications refill request
+    •  Bills and payment
+
+•   Health Planning
+    •  Create and track your health goals
+    •  Get a list of recommended health screening
+    •  Personalised healthy ageing lesson plan
+    •  Access to health and wellness educational materials
+    •  View your health information
+
+•  Other Health Records via HealthHub
+    •  Immunisation record
+    •  Covid-19 records
+    •  Radiology and Diagnostic report
+    •  NEHR access history
+    •  Lab test result
+    •  Prescribed medications record
+    •  MOH Health Plan
+    •  Screen For Life
+    •  Discharge Summary
+
+•  Chatbot
+    •  Chatbot for FAQs and assistance
+
+•  Digital Health Applications*
+    •  BOOST
+    •  SERA
+    •  Heart Track
+    •  MoveVid
+    •  ACTION
+    •  CONNACT Plus
+    •  Rehab Connect
+
+*Digital health applications will only appear for prescribed patients.
+
+NHG Institutions are:
+•  Tan Tock Seng Hospital
+•  Khoo Teck Puat Hospital
+•  Woodlands Health
+•  Institute of Mental Health
+•  Yishun Community Hospital
+•  NHG Polyclinics
+•  National Skin Centre
+•  National Centre for Infectious Diseases
+•  Admiralty Medical Centre
+•  Population Health
+
+Important: SingPass authentication is required for secure login to access certain services.
+Please note that the app integrates with Apple HealthKit or Google Fit to read the health parameters for tracking and syncing of health activities for the features mentioned above.",2023-02-19T08:00:00Z,2025-10-27T06:44:17Z
+sg,Singapore,Health & Fitness,6013,2,448572997,Health Buddy,Singapore Health Services Pte Ltd,https://apps.apple.com/sg/app/health-buddy/id448572997?uo=4,0.0,2.87694,2121,Health & Fitness,"Developed by the SingHealth Group, Health Buddy gives you access to health information and services, anytime, anywhere. Through this app, SingHealth hopes to encourage active involvement in one’s own health and well-being. 
+Features: 
+* Mobile Appointments Manage all your or appointments.
+Clinic Queue Updates 
+Get your queue number and monitor queue status from your phone.
+* Mobile Pay Leave the clinic after seeing the doctor and receive SMS to pay at the end of the day.
+* Medicine Top-Up
+Arrange to pick up your medicine or request for a repeat prescription.
+* Conditions & Treatments Access over 800 conditions and treatments written by our SingHealth doctors.
+* SingHealth Doctors Access over 1,000 internationally qualified SingHealth doctors for your treatment needs.
+* Hospitals & Specialty Centres
+Find contact information, directions, visit guides and more!
+* Health Tips by HealthXchange.sg Stay healthy with useful and trusted health tips from our doctors.
+* Health Videos Browse library of videos as seen in our clinic waiting areas.
+* Find a GP  Find contact information and opening hours of GP / Family Doctors in Singapore.
+* Caregiver [NEW!] Get authorised to conveniently help manage your loved ones’ medical matters.
+* Personal Profile View and update your contact information.
+* My Visit [NEW!] for selected SGH DMC patients. Read consultation summary, answer health questionnaires on-the-go.
+* Pre- and Post-Consultation Health Questionnaires
+1. Complete clinic health questionnaires before your visit or after your consultation, from the comfort of your home!
+* Medicine Information and Reminders
+View medicine information and set reminders to take your medicine. 
+
+IMPORTANT:
+* SingHealth appointments require SingPass authentication for secure login.",2011-11-03T17:12:04Z,2025-10-02T11:01:01Z
+sg,Singapore,Health & Fitness,6013,3,426826309,"Strava: Run, Bike, Walk",Strava Inc.,https://apps.apple.com/sg/app/strava-run-bike-walk/id426826309?uo=4,0.0,4.78824,5294,Health & Fitness,"Strava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:
+
+• Record everything – runs, rides, hikes, yoga and over 30 other sport types. Think of Strava as the home of your movement.
+
+• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.
+
+• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.
+
+• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.
+
+• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.
+
+• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.
+
+• Sync your favourite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).
+
+• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.
+
+• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.
+
+• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.
+
+Strava includes both a free version and a subscription version with premium features.
+Strava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.
+
+You can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.
+
+Terms of Service: https://www.strava.com/legal/terms
+Privacy Policy: https://www.strava.com/legal/privacy",2011-03-24T06:41:32Z,2025-11-19T21:16:00Z
+sg,Singapore,Health & Fitness,6013,4,1034200875,HealthHub SG,Synapxe Pte Ltd,https://apps.apple.com/sg/app/healthhub-sg/id1034200875?uo=4,0.0,4.72506,28469,Health & Fitness,"HealthHub SG is a national digital healthcare platform that allows you to conveniently manage you and your loved ones' health in one place.
+
+Access your health records as well as perform various transactions across public healthcare institutions* such as appointment booking, bill payment and medication refill with the HealthHub app.
+
+Login via Biometrics:
+Conveniently access selected e-Services and health records through a simple biometric scan.
+
+Customisable Dashboard:
+Personalise your home screen and find your go-to health services in a tap
+
+Health Profile and Caregiver Access:
+Add and enable caregiver access to view health records and perform digital healthcare transaction for yourself as well as your child, dependents or loved ones.
+
+Appointment and Mobile Registration:
+Access your favourite polyclinic and service type for faster appointment booking, as well as pre-register 30-90mins before your appointment to obtain a queue number.
+
+Payment:
+Retrieve past invoices and make payments for outstanding medical bills digitally.
+
+Medication: 
+View your prescription and manage your medication refill in a single, streamlined way.
+
+*Participating restructured hospitals, polyclinics and specialist outpatient clinics within the public healthcare sector.",2015-10-16T06:28:41Z,2025-10-11T19:51:10Z
+sg,Singapore,Health & Fitness,6013,5,1040202154,Healthy 365,Health Promotion Board,https://apps.apple.com/sg/app/healthy-365/id1040202154?uo=4,0.0,3.3236,14595,Health & Fitness,"Healthy 365 is a mobile application by the Health Promotion Board (HPB) Singapore which aims to encourage users to adopt a healthier lifestyle. Through the use of gamification and rewards, users are encouraged to sign up for in-app challenges and health programmes to earn Healthpoints. The app seamlessly pairs with fitness tracking devices to help users log their daily steps count and amount of time spent on active exercises. Users can also scan QR codes via the app to earn Healthpoints when they purchase healthier meals, drinks and groceries from participating partners.
+
+ 
+
+Key Features:
+
+- Fitness journey at a glance featuring user's fitness and rewards information
+
+- Health challenges, including the National Steps Challenge and Eat, Drink, Shop Healthy Challenge, for users to sign up to convert their healthier actions into rewards
+
+- Events listing featuring exercise classes that users can book via the app
+
+- Healthpoints redemption that includes a catalogue of healthy lifestyle rewards for users to choose from
+
+ 
+
+Minimum Mobile Phone OS Requirements:
+
+- iOS Ver. 13.4
+
+ 
+
+Supported HPB-Issued Fitness Trackers:
+
+ - Axtro Fit
+
+ - Axtro Fit 2
+
+ - Axtro Fit 3
+
+ - Axtro Fit 4
+
+ - Careeach HR
+
+ - Glide HR
+
+ - Tempo 2
+
+ - Tempo 3C
+
+ - Tempo 4C
+
+ - Tempo 5C   
+
+
+Supported 3rd Party Fitness Apps:
+
+ - Actxa®
+
+ - Apple Health
+
+ - Fitbit
+
+ - Garmin Connect™
+
+ - HUAWEI Health
+
+ - Polar Flow",2015-09-28T06:55:45Z,2025-11-06T07:55:20Z
+sg,Singapore,Health & Fitness,6013,6,1514570975,Minmed Connect,Minmed Group Pte Ltd,https://apps.apple.com/sg/app/minmed-connect/id1514570975?uo=4,0.0,1.5146,274,Health & Fitness,"How Does It Work?
+
+CONSULT OUR DOCTORS
+See Singapore-registered Doctors online via videocall within minutes if you are unwell, 
+or
+Make an Appointment for chronic medication renewal
+
+MEDICATION COMES TO YOU
+Same day, no fuss
+MCs, referrals, invoices, electronically
+
+PAY AS IT IS
+Pay as per your Corporate Plan if we are your panel provider
+Consult fee is $21.40, medication charges apply for private patients
+
+Minc is currently available in Singapore.",2020-08-07T07:00:00Z,2025-11-11T14:48:24Z
+sg,Singapore,Health & Fitness,6013,7,1533213621,NUHS App,National University Health System Pte Ltd,https://apps.apple.com/sg/app/nuhs-app/id1533213621?uo=4,0.0,4.69041,16209,Health & Fitness,"The NUHS App is a mobile healthcare app solution that aims to empower, engage and enable patients to manage and take charge of their health. Developed by the National University Health System (NUHS) and Synapxe Pte. Ltd. (formerly known as Integrated Health Information Systems Pte Ltd), users will be able to access health information and services across the following NUHS institutions: 
+•	National University Hospital
+•	Ng Teng Fong General Hospital
+•	Alexandra Hospital
+•	Jurong Community Hospital
+•	National University Polyclinics
+•	National University Heart Centre, Singapore
+•	National University Cancer Institute, Singapore
+•	National University Centre for Oral Health, Singapore
+•	Jurong Medical Centre
+
+Patients will be able to:
+•	Manage their appointments and receive notifications for appointment reminders 
+•	Register on the go and check their queue status
+•	Request for medication refills or top-ups 
+•	Purchase and download their medical reports directly from the app 
+•	View and make payment for outstanding bills 
+•	Access the app using biometric data such as fingerprint and facial recognition
+•	Link to ‘MyInfo’ in Singpass for a more convenient set up of 'My Profile'
+•	Pre-fill appointment and medication request forms with their contact details once 'My Profile' has been set up
+•	Enable caregiver consent to access functions of the app
+•	View health records such as lab test results, immunisation and prescription records
+•	Obtain recommendations on health screenings and vaccinations based on their demographics and health status
+•	Interact with the chatbot to obtain information on clinic operating hours and other commonly asked questions
+
+NUHS App uses HealthKit to access health information via your health devices.",2020-12-12T08:00:00Z,2025-08-15T22:06:06Z
+sg,Singapore,Health & Fitness,6013,8,912947244,"ClassPass: Fitness, Spa, Salon","ClassPass, LLC",https://apps.apple.com/sg/app/classpass-fitness-spa-salon/id912947244?uo=4,0.0,4.57857,5524,Health & Fitness,"Download ClassPass today to book fitness classes & appointments at the top studios, gyms, salons and spas near you!
+
+How it works:
+• Download the free ClassPass app.
+• Sign up for a free trial and get credits to try activities like yoga, pilates, gym visits and more from some of our top-rated businesses — on us.
+• Browse studios, gyms, salons & spas near you (pro tip: filter by reservation type, location, time & more to easily find what you’re looking for!).
+• Book classes & appointments instantly without needing to create additional accounts or enter payment details.
+• After your trial, customize a plan that works best with your fitness & wellness routine.
+• Roll over unused credits up to the number of credits in your next month’s plan.
+• You’re never locked in – change or cancel your plan at any time.
+
+How to make the most of your membership:
+• Access thousands of the world’s leading fitness studios, gyms, salons and spas including Flywheel, Orangetheory Fitness, CorePower, Crunch, Pure Barre, [solidcore], Y7, Row House, Restore, Glosslab, Glab & Go, Chillhouse & more!
+• Browse a list of recommended studios, gyms, salons & spas curated just for you.
+• Bookmark your favorites.
+• Invite friends to class and earn rewards.
+• Connect with friends who are already ClassPassers.
+• Receive badges to celebrate your milestones and share them with friends.
+• Read reviews & ratings from other ClassPassers to know what to expect with each reservation.
+
+ClassPass is available in more than 30 countries including: USA, Canada, Australia, New Zealand, United Kingdom, Ireland, France, Germany, Netherlands, Spain, Portugal, Switzerland, Austria, Sweden, Denmark, Finland, Norway, Singapore, Hong Kong, Malaysia, Thailand, Indonesia, Philippines, China, India, the United Arab Emirates, Brazil, Argentina & Chile",2014-12-18T06:12:35Z,2025-11-10T17:55:42Z
+sg,Singapore,Health & Fitness,6013,9,6449264284,LumiHealth,Health Promotion Board Singapore,https://apps.apple.com/sg/app/lumihealth/id6449264284?uo=4,0.0,4.63044,15957,Health & Fitness,"Get healthier in a fun and rewarding way with LumiHealth — all from the convenience of your iPhone.
+
+ALL YOU NEED IS AN IPHONE
+It’s now easier to get healthy and earn rewards with just your iPhone. Join with an Apple Watch to unlock even more features and personalised insights (watch use is optional).
+
+START YOUR HEALTH JOURNEY
+Pick from a range of fun challenges that can help you work on fitness, nutrition, mindfulness, and more. Earn rewards for completing healthy actions! 
+
+FOCUS ON WHAT MATTERS MOST TO YOU
+Multi-week Quests can help you work on specific health goals — from strength-building to getting consistent sleep. You can even get help managing chronic conditions like high blood pressure and diabetes. Quests meet you where you are, with personalised goals and daily coaching to help you succeed.
+
+EARN REWARDS WITH EVERY HEALTHY ACTION
+You’ll earn coins for completing challenges, responding to surveys, reading articles, and more. Turn the coins you’ve earned into HPB eVouchers, usable at major lifestyle retailers, F&B outlets, and supermarkets.
+
+—
+
+This programme is available for residents in Singapore with a SingPass account, aged 15 years old or older. LumiHealth integrates with the Health app and uses HealthKit to personalise goals and challenges.
+
+Ensure your iPhone is running on one of the two most recent iOS versions. If you choose to use an Apple Watch as part of the programme, you’ll need to ensure that it’s running on one of the two most recent watchOS versions.
+
+For more details, visit www.lumihealth.sg",2023-07-31T07:00:00Z,2025-10-13T01:26:40Z
+sg,Singapore,Health & Fitness,6013,10,1459601549,m-Plify,MHC Medical Network Pte Ltd,https://apps.apple.com/sg/app/m-plify/id1459601549?uo=4,0.0,1.307,443,Health & Fitness,"m-Plify is a comprehensive guide to our network of more than 1000 panel clinics in Singapore.
+
+Letter of Guarantee:
+Request for your LOG hassle-free and fast.
+
+CLINIC LOCATOR:
+Exclusive to our members only. Make use of the GPS capability to locate a clinic near you on the map. You can filter the clinics by distance or district.
+
+MEMBERS' ECARD:
+Exclusive to our members only. Forgotten your card on your visit to the clinic? You can now retrieve your eCard instantly. Access rights must be enabled by HR Manager first.
+
+ECLAIMS/VISITS:
+Exclusive to our members only. Member can now submit both inpatient and outpatient claims and view their visits via the App.
+
+
+Website: 
+http://www.mhcAsia.com",2019-06-24T17:17:13Z,2025-10-30T14:46:41Z
+sg,Singapore,Health & Fitness,6013,11,341232718,MyFitnessPal: Calorie Counter,"MyFitnessPal, Inc.",https://apps.apple.com/sg/app/myfitnesspal-calorie-counter/id341232718?uo=4,0.0,4.68628,8629,Health & Fitness,"Track progress toward your nutrition, water, fitness, and weight loss goals with MyFitnessPal. This all-in-one food tracker and health app is like having a nutrition coach, meal planner, and food diary with you at all times.
+
+MyFitnessPal isn’t another restrictive diet app. This is a health app to help you learn about your habits … see how you eat … make smarter food choices … find motivation & support ... and conquer your health goals.
+
+Download and start your free 30-day Premium trial to access exclusive food tracking, fitness logging tools, and expert guidance. You’ll soon discover why MyFitnessPal is the #1 food and nutrition tracker in the U.S., a GQ 2020 Fitness Awards “Best Fitness App,” and has been featured in the New York Times, Wall Street Journal, the Today Show, and U.S. News & World Report.
+
+SO MUCH MORE THAN A CALORIE TRACKER & FOOD JOURNAL
+
+It’s like having a dietitian, personal trainer, and nutrition coach at your fingertips.
+
+Log Food – Easy-to-use tools make food tracking quick and simple
+Record Activity – Add workouts and steps with the fitness tracker
+Customize Your Goals – Weight loss, weight gain, weight maintenance, nutrition & fitness
+See Your Progress – Track at a glance, or analyze nutrition & calories in detail
+Learn From a Registered Dietitian – Meal Plans customized for your target calories, whether you want to lose or gain weight—with access to our Meal Planner tool
+Stay Inspired – 500+ healthy goal-focused recipes and 50 workouts keep routines fresh and fun
+Connect With Community – Find friends and motivation in our active forums
+
+A CLOSER LOOK AT FEATURES & BENEFITS
+
+Gain Valuable Insights Through Food Logging
+
+Discover which foods fuel you best. It’s not just a diet app, calorie counter to lose weight, or a faster way to fat loss—it’s about holding yourself accountable and understanding what you put in your body.
+
+One of the Largest Food Databases – Track calories in over 14 million foods (including restaurant dishes)
+Fast & Easy Food Tracker Tools – Type to search, add foods from your history, or quick-add calories
+Bar Code & Meal Scan: Log store-bought foods and entire meals using your phone’s camera
+Calorie Tracker – Automatically count calories and see your daily progress
+Macro Tracker – See carbs, fat & protein breakdown by gram or percentage—no need for a separate carb tracker or keto diet app!
+Nutrition Tracker and Insights – Analyze nutrition intake and set specific goals for macros, cholesterol, sodium, fiber & more
+Water Logging – Easily keep track of your water intake. 
+
+Customize Your App Experience
+
+Choose settings that help you achieve your goals.
+
+Custom Goals – Track calories by meal or day, set up macro goals & more
+Personalized Dashboards – Pick stats you want to see at a glance
+Net Carbs Mode/Carb Tracker – To simplify a low carb or keto diet, view net (not total) carbs
+Protein Counter – Set your protein goals and track how much you eat during the day
+Add Your Own Foods/Meal Tracker – Save recipes and meals for quick logging
+Connect 50+ Apps & Devices – From fitness tracker and smartwatch apps, including the Health app
+Track With Apple Watch – A calorie tracker, water tracker, and macro tracker on your watch face.
+
+SUBSCRIPTION PRICING & TERMS
+
+MyFitnessPal is free to download and use. If you upgrade to MyFitnessPal Premium, we offer monthly & annual auto-renewing subscriptions.
+
+Payment is charged to your credit card through your iTunes account at confirmation of purchase. Subscription renews automatically unless you turn off auto-renewal in iTunes Account Settings after purchase, or cancel your subscription at least 24 hours prior to the end of the subscription period.
+
+View our full terms & conditions and privacy policy: https://www.myfitnesspal.com/privacy-and-terms",2009-12-08T02:04:45Z,2025-11-18T18:49:57Z
+sg,Singapore,Health & Fitness,6013,12,1038369065,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,https://apps.apple.com/sg/app/flo-period-cycles-tracker/id1038369065?uo=4,0.0,4.74631,11376,Health & Fitness,"Live in sync with your cycle using Flo, the world’s most popular female health app. Get personalised insights and predictions on your body.
+
+Whether you want to predict your period, get pregnant, track your pregnancy, or better understand your symptoms, Flo is your all-in-one female health partner. Join over 420 million members.
+
+With Flo, you can:
+- Keep your data safe: Flo is the first period and ovulation tracker to achieve dual ISO 27001 and ISO 27701 Certifications (aka gold standards in data protection).
+- Feel more understood: Share your Flo insights via Flo for Partners to feel more connected, understood, and supported.
+- Get an extra layer of protection: Anonymous Mode means no one, not even Flo, can identify you based on your health data.
+- Join a supportive community: Secret Chats is where members can discuss topics and connect with others on the same journey.
+- Access reliable health information: Flo collaborates with a globally recognised organisation dedicated to reproductive health and rights, ensuring trustworthy support for your health journey.
+
+With Flo Premium, you can enjoy:
+- Monthly cycle reports
+- Symptom predictions and patterns
+- Tailored prediction insights
+- Detailed pregnancy tracking
+- Full access to Flo for Partners
+- A 24/7 virtual Health Assistant
+- All articles, videos, and courses reviewed by 140+ health experts
+
+New! Flo supports perimenopause:
+- Know what might be perimenopause and how to tune in to your body’s changes.
+- Get clarity on common perimenopause symptoms and what can help.
+- Make more informed health decisions and identify what you need to feel your best.
+
+Start tracking your cycle for free today.
+
+Privacy Policy and Terms of Use:
+https://flo.health/privacy-policy  
+https://flo.health/terms-of-use 
+
+Connect with Flo:
+Web: flo.health
+TikTok: @flotracker
+Instagram: @flotracker
+
+Please note: Flo is not a diagnostic tool and should not be used as a method of contraception or to facilitate conception. Predictions and insights provided by the app are intended for informational purposes only and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any health concerns or decisions.
+
+Flo uses HealthKit to read menstrual cycle data and export your Flo activities to the Health app.
+
+If you have any difficulties using the app, contact Flo via support@flo.health.
+
+Notice of Access Permission:
+Flo may request permission for:
+- In-app notifications or reminders.
+- Uploading photos to specific forum discussions.
+- Uploading audio recordings to closed group chats.
+Content sharing is entirely optional. Flo does not automatically access your content. You can select what you want to share.",2015-10-03T22:28:36Z,2025-11-19T19:58:17Z
+sg,Singapore,Health & Fitness,6013,13,6740115642,HUAWEI Health: Global,"Huawei Services (Hong Kong) Co., Limited",https://apps.apple.com/sg/app/huawei-health-global/id6740115642?uo=4,0.0,4.625,64,Health & Fitness,"The brand new ""HUAWEI Health: Global"" app has been launched to bring the ""HUAWEI Health+"" membership features to all users across Europe, such as ""Workouts"", ""Yoga"", ""Mindful Meditation"", and ""Sleep Music"".
+
+Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep track of your health, or conveniently manage your smart wearable devices, the Huawei Health app has what you're looking for. Keep your data private, or share it with your loved ones, the power's yours. The latest in health and fitness technology, made simple, secure, and easy to use.
+
+Keeps Up with Your Every Move
+Keep track of your health journey. Huawei Health records your activity, supporting over 100 different sports, from beginner to advanced levels. See your workout data clearly every step of the way, so you can be sure you're reaching your goals. A wonderful world of fitness at the tip of your fingers.
+
+Run How You Want
+A simpler way to run that can benefit anyone. The app is able to record and map out your route as you're running, all while displaying key information so you can stay on target.
+
+An Amazing Journey
+Share your health journey with your friends and family. Your outdoor workout routes can be generated into videos with music for you to proudly share. Use Dynamic tracking to create videos to share on social media to inspire yourself and others with your fitness journey.
+
+A New View on Health
+See your life in amazing detail with Huawei Health stats. The app keeps records of your heart rate, weight, sleep quality, step count and more. All your data is shown in clear, dynamic graphs so you have a better understanding of your health in a more accessible way.
+
+[health package]
+·Synchronize with the weight data in healthkit. When you use the healthy weight data of Huawei mobile phone, this data will be synchronized and recorded in healthkit.
+·Synchronize with motion data in healthkit. You can automatically synchronize the exercise data recorded in Huawei health to healthkit. Similarly, Huawei sports health can also obtain the exercise data from healthkit.
+
+--------------------
+Huawei Health app is not intended for medical use, and all data is for reference only.
+You should seek a doctor’s advice in addition to using this app and before making any medical decisions.
+
+--------------------
+--Automatic renewal service agreement(EULA): https://consumer.huawei.com/minisite/cloudservice/health/monservice-terms.htm?code=CN&language=en_US
+--Membership Agreement (including user privacy agreement):https://consumer.huawei.com/minisite/cloudservice/health/member-terms.htm?code=CN&language=en_US",2025-08-26T07:00:00Z,2025-11-19T09:08:45Z
+sg,Singapore,Health & Fitness,6013,14,1598355340,Anytime Fitness App,"Anytime Fitness, LLC",https://apps.apple.com/sg/app/anytime-fitness-app/id1598355340?uo=4,0.0,4.58291,199,Health & Fitness,"Experience personalised coaching designed with your goals in mind at your fingertips. The AF App offers so much more than just workouts:
+
+• Monitor your progress as you work towards your goals
+• Connect with Anytime Fitness Coaches virtually and get the support you need when you need it
+• Find practical advice and tips on everything from fitness, recovery, and nutrition—and everything in between.
+
+It all starts with a plan. Answer a few questions about your goals and what’s important to you and we’ll take it from there. You’ll receive a plan including workouts, tips for making progress in your journey and weekly challenges that will move you towards your goal.
+
+Access workouts around the clock—anytime, anywhere. Our digital workouts can be done anywhere you are, helping your goals stay within reach and keep you on track wherever life takes you. You can modify your workouts by duration, location, and intensity plus you’re able to connect with a coach via video chat or messaging making your fitness journey a group effort between you and our team.
+
+Stay connected on your health journey. With the AF App you can also connect with other Anytime Fitness members and join in on the conversations that matter most to you! Interested in learning about sleep health? Want more info on active recovery? Or maybe you are looking for advice on how to get over a performance plateau—it’s all happening on the AF App. 
+
+Share your fitness stats your coaches. Connect the AF App with the Apple Health App to share your fitness stats with your coach. Now you can automatically keep your coach up-to-date on your daily activity levels, sleep, resting heart rate and more.",2022-11-22T08:00:00Z,2025-11-20T19:36:17Z
+sg,Singapore,Health & Fitness,6013,15,1316004998,Da Fit,MO YOUNG LIMITED,https://apps.apple.com/sg/app/da-fit/id1316004998?uo=4,0.0,4.63917,3564,Health & Fitness,"Da Fit provides you with accurate motion recording, sleeping details and exercise analysis. Encourage you to love sports, enjoy a positive and healthy lifestyle, and meet a better you.
+
+• Connect with mutiple smart devices
+• Accurate recording for each movement
+• Intimate sleeping keeper
+• Comprehensive assessment of body condition
+• Multifunction personal reminder
+• Discover more fun
+
+ Apple Health App Sharing
+- Integrates with Apple Health App",2017-11-22T19:12:07Z,2025-11-15T00:00:39Z
+sg,Singapore,Health & Fitness,6013,16,583446403,Garmin Connect™,Garmin International,https://apps.apple.com/sg/app/garmin-connect/id583446403?uo=4,0.0,4.26624,1093,Health & Fitness,"The Garmin Connect™ app is your one-stop source for health and fitness data. Whether you’re training for a race, keeping active or just staying on top of your health, Garmin Connect provides the information and inspiration you need to reach your goals. 
+ 
+Once you pair your phone(1)with a Forerunner®, Venu®, fēnix® or another compatible Garmin device(2), you can review your tracked activities and health metrics. Plus, you can create workouts, build courses and challenge your friends on the leaderboard. 
+ 
+With Garmin Connect you can: 
+ 
+- Personalize your home screen, so the most helpful information is instantly visible 
+- Analyze your activities with detailed statistics(3)
+- Create customized workouts and courses 
+- Review trends in health metrics like heart rate and steps 
+- Earn badges for accomplishments 
+- Sync with other apps like Apple Health, MyFitnessPal and Strava 
+- Get support for Garmin devices and their features 
+ 
+Learn more about Garmin devices and how they work with the Garmin Connect app at Garmin.com. 
+ 
+(1) See compatibility requirements at Garmin.com/BLE 
+(2) See a full list of compatible devices at Garmin.com/devices
+(3) See Garmin.com/ataccuracy  
+ 
+Note: Continued use of GPS running in the background can dramatically decrease battery life.",2013-03-18T22:02:54Z,2025-11-14T16:42:53Z
+sg,Singapore,Health & Fitness,6013,17,6738723802,GluHealth-Blood Sugar Monitor,APLISSAN COMPANY LTD,https://apps.apple.com/sg/app/gluhealth-blood-sugar-monitor/id6738723802?uo=4,0.0,4,9,Health & Fitness,"GluHealth: Your Diabetes Companion.
+
+Stay in control with GluHealth — your personalized assistant for managing diabetes. Seamlessly sync data from Apple Health and view your essential health metrics like insulin, carbs, and A1C at a glance. Customize widgets for easy access to insights, whether on your phone or Apple Watch. Track trends over time with daily and weekly glucose summaries, empowering you to make informed choices about your well-being.
+
+The GluHealth app is your reliable and easy-to-use companion for diabetes management, keeping all your essential health data in one place. 
+
+With this app, you get:
+
+User-friendly dashboard tracking your diet, medications, carb intake, blood glucose levels, and more.
+
+Clear, easy-to-understand blood sugar level charts for better tracking.
+
+Instant HbA1c estimation, so you're always prepared and avoid any surprises.
+
+Daily, weekly, and monthly reports, which you can easily share with your healthcare provider.
+
+Secure data backup, built with top-tier regulatory standards to ensure quality and safety.
+
+Download Now! A simple and effective logbook to track, manage, and control your diabetes — your complete medical data right at your fingertips.
+
+Support:
+
+We’re constantly striving to improve GluHealth, and your feedback is invaluable to us! Whether you have a question, concern, suggestion, criticism, or just want to share some praise, we’d love to hear from you!
+help@gluhelthapp.com
+
+Important Note:
+
+This application is not intended for medical use. It does not provide medical advice, diagnosis, or treatment. The information provided is for informational purposes only and should not be used as a substitute for professional medical judgment or consultation. Always seek the advice of a qualified healthcare provider with any questions you may have regarding a medical condition.
+
+Privacy Policy: https://gluhelthapp.com/privacy-policy
+Terms of Use: https://gluhelthapp.com/terms-of-use",2024-12-12T08:00:00Z,2025-11-10T10:25:53Z
+sg,Singapore,Health & Fitness,6013,18,1458862350,Hevy - Gym Tracker Workout Log,Hevy Studios S.L.,https://apps.apple.com/sg/app/hevy-gym-tracker-workout-log/id1458862350?uo=4,0.0,4.93207,1163,Health & Fitness,"** Featured by Apple ** Join +9 million users!
+Hevy is the most intuitive workout tracker & planner in the world. No ads and free. Plan your weight lifting routines, log your workouts and track your exercise progress. Join a growing community and get started today - for free!
+
+WHAT USERS ARE SAYING
+•  ""Seriously the best workout tracker I've ever used. Simple. Free. Tons of graphs. Amazing quality videos"" - Sam Ilelaboye
+•  ""Seeing what my friends and other athletes are working out at the gym has totally changed my experience. Now I can copy my friend's workouts and compare myself. It's super motivating"" - Jaume
+•  ""Tracking my workouts with Hevy has taken my training to the next level, I'm getting stronger every week. Being able to plan my routines really helps me being efficient at the gym."" - Carlos D.
+
+FEATURES
+•  Track your lifts with an intuitive, simple to use interface.
+•  Use the calendar to stay on top of your training schedule
+•  Hundreds of exercises with free high-quality videos for you to focus on your form
+•  Follow your friend's progress by following their lifts and copying their routines
+•  Create your own custom exercises for your workouts
+•  Set up your profile as a private profile or a public one
+•  Mark sets as Warmup, Normal, Drop sets, Failure and Supersets
+•  Customize automatic rest timers for each exercise
+•  Analyze your workout sessions in detail with muscle group graphs
+•  Calculation of One Rep Max for all strength exercises
+•  Create an unlimited amount of routines
+•  Analyze the progression of your lifts with beautiful full-screen graphs of volume, best weight & total reps
+•  Copy your friends' workouts
+•  Dark Mode
+•  Hevy uses HealthKit and CareKit to export your Hevy workouts into the Health app, this feature can be turned on in the settings.
+
+APPLE WATCH
+•  Sync your Hevy routines to your Apple Watch
+•  Easily track your weight lifting sets
+•  Keep track of your heart rate during your workout
+•  Helpful timers for duration exercises
+•  Mark sets as Warmup, Normal, Drop sets, or Failure
+•  Watch workouts automatically save when reconnecting to iPhone
+
+DETAILS
+
+•  https://www.hevyapp.com
+•  https://www.instagram.com/hevyapp
+•  https://www.facebook.com/hevyapp
+•  https://www.twitter.com/hevyapp
+•  hello@hevyapp.com
+
+HEVY PRO
+•  Create unlimited routines
+•  Get unlimited access to graph history
+•  Create unlimited custom exercises
+
+The Hevy Pro subscription automatically renews if you do not cancel it at least 24 hours before the end of the current subscription period. Your account will be charged for the next subscription period up to 24 hours prior to the current subscription’s expiration. You can manage your subscription and disable automatic renewal at any time by adjusting your Apple account settings. You have the right to withdraw from your initial subscription within 14 days of starting it. By purchasing, you accept our Terms of Use and Privacy Policy.
+
+Terms & Conditions
+https://www.hevyapp.com/app-terms-conditions/
+
+Download Hevy and take your training to the next level!",2019-07-01T04:30:20Z,2025-11-20T21:21:08Z
+sg,Singapore,Health & Fitness,6013,19,1483308512,Intellect: Create a Better You,Intellect Company Pte. Ltd.,https://apps.apple.com/sg/app/intellect-create-a-better-you/id1483308512?uo=4,0.0,4.67732,626,Health & Fitness,"If you feel less motivated, mentally burnt out, or want to be more productive, you’ve come to the right place. 
+
+Intellect is a leading modern-day mental healthcare solution for everyone. Build healthy habits and boost your mood with our self-care cognitive behavioural therapy app. Clinically validated by psychologists and behavioural experts, our bite-sized content and daily exercises are an effective way to create a better you. 
+
+Effortlessly match with an online mental health coach to begin a guided journey to a healthy mind (only available in selected markets). Join our community of 3 million users and counting by signing up today!
+
+Features
+
+One of Google’s Best Apps of 2020, Intellect serves over 50 countries worldwide. Intellect isn’t just your average app for on-the-go therapy. The app features a range of self-guided cognitive behavioural therapy (cbt) programs to help users navigate through everyday challenges like procrastination, managing stress and relationship issues.
+
+For enterprise users as well as consumers in select markets, the app also offers a matching system to find a therapist or behavioural health coach, specially certified by Intellect, to cater to your unique needs. 
+
+This all-in-one mental health app comprises the following features:
+
+Learning Paths 
+
+Designed to be easily accessible and simple to follow, our learning paths will help you to tackle issues such as managing your emotions, poor sleep, and anxiety. These mini sessions ladder up to change the way you think and approach problems. Unlock special tasks along the way and have some fun while you change your habits!
+
+Mood Tracker 
+
+Did you know that emotions are like icebergs? There is a lot under the surface. To really understand yourself better, our mood tracker will help you identify causes and suggest personalised ways to cope such as doing a specific learning path, a short rescue session, or jotting down your thoughts in our online journal.
+
+Rescue Sessions 
+
+Had a rough day? These sessions offer quick bite-sized support to deal with overwhelming feelings, such as nervousness, poor sleep, anger, and other stressful emotions.
+
+Guided Journals 
+
+Access a safe place to pen down your thoughts and feelings. Our journals provide easy guidance on various outcomes such as gaining clarity on problems you’re facing, taking a moment to express gratitude, as well as open journals.
+
+Personal Coaching & Counseling
+
+Take the stress out of cultivating new habits by working with Intellect’s behavioural health coaches. All our coaches go through a rigorous qualification process to become “Intellect certified”. With a wide variety of backgrounds, specializations, and languages, it’s easy to find one that relates to you! Call and chat with your coach at a time convenient for you, and reap the benefits of coaching or counselling without the hassle of scheduling an in-person session.
+
+Only available to certain enterprise users and consumers in selected markets
+
+Bonus features:
+
+Complete a Session of the day to discover new and relevant content
+Easily keep up with your personal usage streaks and badges
+Set life goals and track what you have achieved
+Syncs via Healthkit to personalise recommendations  
+
+Self-improvement has never been easier. Simply download the Intellect app and create a better you today!
+
+
+Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-04-02T07:00:00Z,2025-11-04T04:42:13Z
+sg,Singapore,Health & Fitness,6013,20,1508259749,SATA Public,Assurance Technology Pte Ltd,https://apps.apple.com/sg/app/sata-public/id1508259749?uo=4,0.0,2.04167,24,Health & Fitness,"SATA CommHealth is committed to provide quality healthcare services and our mobile application allows you to access various features.
+
+
+Features includes:
+
+Search for our medical centres closest to you
+- Find the services available at each medical centre
+- Book your appointments
+- Register and make your payments online
+- Access your medical reports
+- Tele-Consult with our Doctors, with an eMC
+- Integrate with the health app (HealthKit) to read and track your health data and show them in a beautiful way.",2020-05-12T07:00:00Z,2025-11-06T09:21:50Z
+sg,Singapore,Health & Fitness,6013,21,6753551006,Vitaria: Blood Tracker,Nguyen Viet Anh,https://apps.apple.com/sg/app/vitaria-blood-tracker/id6753551006?uo=4,0.0,1,1,Health & Fitness,"Take control of your health – smarter, simpler, and more personal.
+
+Vitaria helps you understand your body better with intelligent insights, AI Doctor Advice, and seamless HealthKit integration — all built with SwiftUI for a modern, smooth experience.
+
+No more messy spreadsheets or disconnected trackers. Every health detail — from blood pressure to hydration — now lives in one secure, easy-to-use space designed with care.
+
+What makes Vitaria different
+- AI Doctor Advice – Receive personalized health insights powered by AI to better understand your daily trends and habits.
+- HealthKit Integration – Sync your data automatically with Apple Health for a seamless experience across your devices.
+- SwiftUI Experience – Enjoy a beautifully designed, fast, and accessible app built natively for iOS.
+- Smart & Unified Tracking – Log blood pressure, blood sugar, heart rate, water intake, and medications — all in one app.
+- Intelligent Insights – Visual trends, charts, and AI summaries help you see the bigger picture of your health journey.
+- Reminders & Notes – Stay consistent with medication and hydration reminders, plus space for personal notes and observations.
+
+Why users love Vitaria
+- Simple, clean design that makes health tracking effortless.
+- Secure storage — your health data always belongs to you.
+- Developed independently, with no third-party templates or clones.
+- Regular updates with new insights and features for your well-being.
+
+Privacy & Responsibility
+
+Vitaria is designed as a wellness companion, not a medical device.
+It does not diagnose or treat medical conditions.
+For any health concerns, always consult your healthcare professional.
+
+Your data stays private — stored securely on your device and synced safely via HealthKit when enabled.
+We never share personal information without your consent.
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Privacy Policy: https://sites.google.com/view/vitaria-healthcare/privacy-policy
+
+Build better habits with Vitaria – your health, your data, your insight.",2025-10-07T07:00:00Z,2025-11-14T17:36:06Z
+sg,Singapore,Health & Fitness,6013,22,6480417616,Cal AI - Calorie Tracker,Viral Development LLC,https://apps.apple.com/sg/app/cal-ai-calorie-tracker/id6480417616?uo=4,0.0,4.66334,1705,Health & Fitness,"HOW TO USE CAL AI:
+
+1) Answer lifestyle questions to build your plan
+
+2) Snap a photo of your meal*
+
+3) Get your nutritional breakdown*
+
+If you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.
+
+We aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.
+
+If you have any ideas or questions, please email us at team@calai.app.
+
+NOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.
+
+*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION
+TERMS: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-04-08T07:00:00Z,2025-11-18T20:13:13Z
+sg,Singapore,Health & Fitness,6013,23,6502684044,PinnacleSG+,PINNACLE MEDICAL GROUP PRIVATE LIMITED,https://apps.apple.com/sg/app/pinnaclesg/id6502684044?uo=4,0.0,3.41176,17,Health & Fitness,"PinnacleSG+ is a comprehensive healthcare app designed to enhance patient convenience. With features like telemedicine, clinic queue request, and appointment booking, PinnacleSG+ ensures that accessing healthcare is easier than ever. The app also includes a corporate module for businesses, a marketplace for healthcare products and services, and secure digital health records management. Whether you need to consult a doctor, manage appointments, or access health-related services, PinnacleSG+ is your all-in-one healthcare solution.",2024-08-26T07:00:00Z,2025-11-17T18:29:22Z
+sg,Singapore,Health & Fitness,6013,24,1003177043,OMRON connect,"OMRON HEALTHCARE Co., Ltd.",https://apps.apple.com/sg/app/omron-connect/id1003177043?uo=4,0.0,4.58506,2651,Health & Fitness,"OMRON connect makes it easy to record, view and wirelessly sync your personal health data.
+
+OMRON connect is a smart phone app that wirelessly collects measurement data from any OMRON connect compatible devices and provides an easy-to-use dashboard for viewing recent measurements & tracking progress.
+
+See results
+OMRON connect's dashboard shows your measurement results and history in clear and insightful graphics, helping to see your health trends.This app allows you to confirm values such as blood pressure, pulse, weight, body fat, skeletal muscle, body age, visceral fat, BMI and resting metabolism. *Compatible devices that can measure each indicator are required.
+
+Share results
+Health data from OMRON connect products can be shared with Apple's Health.
+
+Be secure
+Your measurement data is securely stored on your smartphone.
+
+For detailed information about the services, please visit ""https://www.omronconnect.com"".
+
+For OMRON connect-recommended smartphones, please refer to ""https://www.omronconnect.com/devices"".
+
+For OMRON connect-compatible devices, please refer to ""https://www.omronconnect.com/products"".",2016-07-15T02:00:42Z,2025-11-20T00:00:11Z
+sg,Singapore,Health & Fitness,6013,25,6484113717,Aon Care+,Aon Singapore Pte Ltd,https://apps.apple.com/sg/app/aon-care/id6484113717?uo=4,0.0,4.65388,3441,Health & Fitness,"Get Ready for a seamless medical experience with the Aon Care+ mobile app!
+
+The Aon Care+ mobile app gives you access to your company’s medical benefits at your fingertips.
+
+Here's a glimpse of the exciting features available:
+
+• A Fresh, Intuitive Interface:
+An elegant and simple design to deliver a seamless and intuitive experience.
+
+• Meet ADA, Your Personal Digital Assistant:
+ADA will guide you through the new app features, providing assistance whenever you need it.
+
+• Feature-packed Home Screen:
+Because your time is precious, we’ve redesigned the app to put the features you love and use the most, right at your fingertips.
+
+• Claims made easy:
+Submitting claims is now a breeze. You will be guided through the step-by-step claim submission and documents checklist, to ensure your claims are complete and processed efficiently.",2024-07-03T07:00:00Z,2025-11-18T02:58:08Z

@@ -1,0 +1,917 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+es,Spain,Utilities,6002,1,1463054197,miDGT,GI-DGT,https://apps.apple.com/es/app/midgt/id1463054197?uo=4,0.0,1.66405,8656,Utilities,"La Dirección General de Tráfico pone a tu disposición una aplicación móvil gratuita para que puedas llevar tu permiso de conducción y la documentación de tus vehículos en formato digital en tu móvil. Accede mediante el sistema Cl@ve (identidad electrónica para las administraciones públicas) para utilizarla.
+ 
+Actualmente, la aplicación permite generar y consultar tus permisos digitales así como tus principales datos. La documentación digital generada por miDGT es válida para conducir y circular en España, según la regulación aprobada por la DGT. No obstante, te recomendamos que hasta que el sistema se generalice o por si se te estropea tu móvil o te quedas sin cobertura, sigas llevando de momento tu documentación física contigo para mayor seguridad. Recuerda llevarla también si sales al extranjero. Próximamente, incorporaremos nuevas funcionalidades como los avisos y pagos de sanciones, la compra de tasas, la petición de cita en nuestras oficinas o los principales trámites relacionados con tus permisos y tus vehículos.
+ 
+La aplicación móvil requiere permiso de acceso a la cámara del dispositivo para la lectura del código QR para la verificación de los permisos digitales.
+
+Si tienes problemas de acceso, por favor, visita la web: https://sedeapl.dgt.gob.es/WEB_MIDGT_BACKEND/problemasTecnicos.html
+
+La aplicación miDGT solicita determinados permisos para realizar algunas acciones necesarias según la funcionalidad que se esté utilizando. Aquí puedes consultar los principales:
+·         Cámara: La aplicación solicita acceso a la cámara del dispositivo para la lectura de los códigos de verificación de documentos digitales o físicos y así poder mostrarlos en el dispositivo.
+
+·         Almacenamiento: La aplicación solicita acceso al almacenamiento del dispositivo para guardar en él los archivos que puedas descargarte desde ella, como un documento verificado por CSV, un informe de un vehículo o un justificante de pago de una sanción.
+
+·         Ubicación: La aplicación solicita acceso a la ubicación del dispositivo para encontrar las oficinas más cercanas para pedir una cita previa o para que puedas acceder a las incidencias de tráfico más cercanas a tu ubicación, a medida que estas funcionalidades estén disponibles.
+
+·         Calendario: La aplicación solicita acceso a tu calendario para guardar en él una cita previa que hayas obtenido a través de la aplicación o, en el futuro, recordatorios que quieras crear, a medida que estas funcionalidades estén disponibles.
+
+Adicionalmente, la aplicación requiere de una conexión de datos para funcionar correctamente. Pero ten en cuenta que, en cualquier caso, esta información, como es la de ubicación solo es gestionada por la aplicación dentro del dispositivo, sin que sea remitida a la Dirección General de Tráfico.
+
+Como usuario, tienes el control total sobre los permisos que concedes para la aplicación. Desde el menú de ajustes de la aplicación puedes activar o desactivar las notificaciones y, desde los ajustes de tu dispositivo, puedes activar o desactivar, además de las notificaciones de la aplicación, cada uno de los permisos que se solicitan. Tú puedes decidir si se permiten siempre, si se permiten sólo cuando la aplicación esté en uso o si se deniegan. Ten en cuenta que, en caso de denegarlos, las funcionalidades asociadas a estos permisos dejarán de funcionar.",2020-01-27T08:00:00Z,2025-08-07T19:13:45Z
+es,Spain,Utilities,6002,2,6477598076,MiDNI,Direccion General de la Policia,https://apps.apple.com/es/app/midni/id6477598076?uo=4,0.0,2.11992,1009,Utilities,"Policía Nacional pone a tu disposición una aplicación móvil gratuita, que complementa a tu Documento Nacional de Identidad. Con ella podrás identificarte de manera presencial y utilizarla de igual manera que el documento físico.
+
+Esta app es la única oficial y con pleno soporte legal.
+
+La app incluye un verificador, para comprobar la autenticidad de las credenciales MiDNI de otros ciudadanos.
+
+Antes de utilizar esta app deberás completar el proceso de Registro, que consiste en asociar tu línea telefónica móvil a tu identidad. Podrás hacerlo utilizando los certificados de tu DNI electrónico a través de la página web https://www.midni.gob.es, en los puntos de actualización de documentación, PAD, situados en las comisarías de policía y otras dependencias o al renovar tu DNI en las Unidades de Documentación de Policía Nacional.
+
+Esta app no podrá utilizarse para acreditar la identidad sin conexión a datos, presentarlo como documento de viaje en pasos fronterizos, o para acreditar la identidad en otros países. Tampoco será válido para realizar gestiones telemáticas de autenticación o firma electrónica.
+
+Esta app solicita los datos de identidad en el momento de ser usados y no los almacena en el dispositivo. Tampoco queda registrado ningún dato de verificación ni la geolocalización de las operaciones.
+
+La aplicación móvil requiere permiso de acceso a la cámara del dispositivo para la lectura del código QR, para la verificación de las credenciales de otros usuarios.",2025-04-01T07:00:00Z,2025-09-22T10:10:29Z
+es,Spain,Utilities,6002,3,284815942,Google,Google LLC,https://apps.apple.com/es/app/google/id284815942?uo=4,0.0,4.60933,214470,Utilities,"La aplicación oficial de Google te ofrece más formas de buscar: usa la cámara para saber quién ha creado esa obra de arte, traduce un menú en alguno de tus viajes, descubre qué raza de perro es, compra cualquier cosa que veas y haz tus deberes. Además, puedes buscar canciones si las tarareas.
+
+Principales funciones:
+● Usa la cámara para identificar lo que ves, desde una colorida mariposa a una planta con púas o cualquier otra cosa por la que sientas curiosidad.
+● Traduce en más de 100 idiomas cosas como señales de tráfico, menús y demás palabras usando la cámara.
+● ¿Has visto algo que te gusta? Usa la cámara para saber dónde puedes comprarlo.
+● Afina las búsquedas de la cámara añadiendo palabras: tanto si quieres esos zapatos,
+pero en azul, como si quieres saber la forma de reparar alguna pieza rota de tu bicicleta.
+● Busca cantando, aunque no recuerdes la letra. Tararea una canción en la aplicación de Google para saber cuál es.
+● Usa la cámara para obtener ayuda con los deberes. Con vídeos y guías detalladas, puedes
+aprender a resolver los problemas de Matemáticas, Química, Biología y Física.
+
+Recibe novedades personalizadas en Discover:
+● Mantente al tanto de los temas que te interesan.
+● Empieza el día con el tiempo y las noticias más destacadas.
+● Recibe novedades sobre películas, deportes y eventos en tiempo real.
+● Entérate antes que nadie cuando salgan nuevos álbumes de tus artistas favoritos.
+● Recibe información sobre tus intereses y aficiones.
+● Sigue temas interesantes directamente desde los resultados de Búsqueda.
+
+Busca de forma segura:
+● Todas las búsquedas que se hacen en la aplicación de Google están protegidas con el cifrado
+de la conexión entre tu dispositivo y Google.
+● Los controles de privacidad son fáciles de buscar y utilizar. Toca tu imagen de perfil para
+acceder al menú y eliminar el historial de búsqueda reciente de tu cuenta con un clic.
+● Búsqueda filtra el spam web de manera proactiva para asegurarse de que veas resultados seguros y de alta calidad.
+
+Más formas de acceder a Google:
+● Widget de Búsqueda de Google: busca desde la pantalla de inicio o la pantalla de bloqueo con el nuevo widget de Google. Elige entre 2 widgets que te ofrecen una barra de búsqueda rápida en ambos tamaños, así como accesos directos para elegir cómo buscar con Lens, por voz e Incógnito en el widget de tamaño mediano.
+
+Descubre todo lo que la aplicación de Google puede hacer por ti: http://www.google.com/search/about
+
+Política de privacidad: https://www.google.com/policies/privacy
+
+Tus comentarios nos ayudan a crear los productos que más te gustan. Participa en un estudio de usuario aquí: https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-17T00:10:48Z
+es,Spain,Utilities,6002,4,535886823,Google Chrome,Google LLC,https://apps.apple.com/es/app/google-chrome/id535886823?uo=4,0.0,4.65441,128449,Utilities,"Chrome te ayuda a hacer todo lo posible en la Web. Descarga el navegador rápido y seguro de Google.
+
+DISFRUTA DE LO MEJOR DE GOOGLE EN CHROME
+
+• BUSCA CON GOOGLE: Haz búsquedas y encuentra respuestas rápido en Google. Haz búsquedas con la voz sin usar las manos.
+• GOOGLE LENS: Busca lo que ves en la pantalla o con la cámara.
+• TRADUCTOR DE GOOGLE: Explora la Web en más de 130 idiomas. Traduce sitios enteros con un clic.
+
+NAVEGA CON UNA SEGURIDAD EXCEPCIONAL
+
+• MODO PROTECCIÓN MEJORADA: Navega con total confianza con el máximo nivel de seguridad de Chrome.
+• COMPROBACIÓN DE SEGURIDAD: Disfruta de la tranquilidad que ofrecen las alertas de seguridad proactivas.
+• GESTOR DE CONTRASEÑAS DE GOOGLE: Genera y guarda contraseñas de forma segura para iniciar sesión rápidamente y recibe alertas si tus contraseñas están en peligro.
+
+ACCEDE A TU CHROME EN DISTINTOS DISPOSITIVOS
+
+• SINCRONIZACIÓN ENTRE DISPOSITIVOS: Guarda tus datos (como marcadores, pestañas y contraseñas) y accede a ellos fácilmente cuando inicies sesión en Chrome en tu teléfono, ordenador o tablet.
+• GRUPOS DE PESTAÑAS: Crea grupos de pestañas para mantener el orden en distintos dispositivos.
+• AUTOCOMPLETAR: Ahorra tiempo rellenando automáticamente tus datos de pago, direcciones y contraseñas guardadas.",2012-06-28T19:57:38Z,2025-11-20T15:29:06Z
+es,Spain,Utilities,6002,5,6444912481,UK ETA,Home Office,https://apps.apple.com/es/app/uk-eta/id6444912481?uo=4,0.0,3.68992,129,Utilities,"Use the UK ETA app to apply for an electronic travel authorisation (ETA) to come to the UK.
+
+Who can apply
+
+Find out if you need an ETA to travel to the UK at: https://www.gov.uk/electronic-travel-authorisation. 
+
+How to apply on the UK ETA app
+1. Take a photo of your passport.
+2. Scan the chip in your passport.
+3. Scan your face.
+4. Take a photo of yourself.
+5. Answer some questions about yourself.
+6. Pay for your application.
+
+It should only take 10 minutes to apply.
+
+You do not need to enter your travel details.
+
+Before you start
+
+To apply you will need:
+
+• an iPhone 8 or newer with IOS 16 or later
+• the passport you will use to travel to the UK
+• a credit card, debit card or Apple Pay
+• access to your emails
+
+If you're applying for someone else they must be with you. If they are not, you should apply online at: https://www.gov.uk/electronic-travel-authorisation.
+
+If you need to travel soon
+You must apply for an ETA before you travel to the UK. You can travel to the UK while waiting for a decision. 
+
+After you apply
+You'll usually get a decision within 3 working days, but you may get a quicker decision. Occasionally, it may take longer than 3 working days. 
+
+If your ETA is approved, we'll link this to the passport you applied with. You must use this passport to travel to the UK. 
+
+Privacy and security
+
+The app is safe and secure. No information is stored on the app or your phone after you close it. You can delete the app after you have completed your application.
+
+For information on staying safe online visit the UK Cyber Aware website: https://www.ncsc.gov.uk/cyberaware/home
+
+Accessibility
+You can read our accessibility statement at: https://confirm-your-identity.homeoffice.gov.uk/register/eta-app-accessibility",2023-10-23T07:00:00Z,2025-11-11T10:07:45Z
+es,Spain,Utilities,6002,6,6630366971,Yepexpress,UWE INTERNATIONAL LIMITED,https://apps.apple.com/es/app/yepexpress/id6630366971?uo=4,0.0,4.76715,1997,Utilities,"Welcome to Yepexpress, your top choice for accessing the finest products! With Yepexpress, giving you access to a vast and diverse array of products.
+
+--Why Choose Yepexpress?
+
+【Extensive Product Range】 Explore a wide variety of products sourced directly from trusted platforms. Whether you're looking for electronics, fashion, home goods, or unique finds, Yepexpress has it all!
+  
+【Efficient Logistics】 Enjoy fast and secure delivery of your orders, thanks to our highly efficient logistics services. We ensure your purchases reach you swiftly and safely.
+
+【Superior Customer Service】 Our dedicated team is committed to providing high-quality services, making every transaction smooth and hassle-free. From browsing to purchasing and beyond, we're here to ensure your satisfaction.
+
+【Excellent After-Sales Support】Your happiness is our priority. We offer top-tier after-sales support to ensure you're content with your purchase and readily assist with any inquiries or issues.",2024-09-10T07:00:00Z,2025-09-26T02:09:27Z
+es,Spain,Utilities,6002,7,1437005085,Proton VPN: Rápida y Segura,Proton AG,https://apps.apple.com/es/app/proton-vpn-r%C3%A1pida-y-segura/id1437005085?uo=4,0.0,4.63914,1635,Utilities,"Proton VPN es la única aplicación de VPN gratuita y segura del mundo que respeta tu privacidad. Nuestra VPN rápida ofrece acceso a internet seguro, privado y cifrado con funciones de seguridad avanzadas. Proton VPN también desbloquea el acceso a sitios web y plataformas de streaming populares. Proton VPN fue creado por los científicos de CERN detrás de Proton Mail, el mayor servicio de correo electrónico cifrado del mundo.
+
+Utilizada por millones en todo el mundo, la VPN segura y sin registros de Proton ofrece acceso a internet privado 24/7 y no graba tu historial de navegación, muestra anuncios, vende tus datos ni limita las descargas.
+
+Funciones de VPN gratuita para todos los usuarios:
+• Datos ilimitados sin restricciones de ancho de banda ni de velocidad
+• Política estricta de cero registros
+• Elusión de restricciones geográficas: la selección automática de protocolo inteligente sortea las barreras de VPN y desbloquea sitios y contenido censurado
+• Datos protegidos por servidores con cifrado de disco completo
+• Discreción total: el tráfico cifrado no se puede interceptar ni descifrar más tarde
+• Protección en caso de filtraciones de DNS: ciframos las consultas de DNS para asegurar que tu actividad de navegación no esté expuesta a través de filtraciones de DNS
+• La combinación de VPN siempre activa y Kill Switch ofrece protección contra filtraciones causadas por desconexiones accidentales
+
+Funciones prémium de VPN:
+• Acceso a más de 15000 servidores de alta velocidad en más de 120 países
+• VPN rápida: servidores de alta velocidad con conexiones de hasta 10 Gbps
+• VPN Accelerator: tecnología única que aumenta las velocidades de Proton VPN en hasta un 400% para ofrecerte una experiencia de navegación más rápida
+• Desbloquea el acceso a contenido bloqueado o censurado
+• Conecta hasta 10 dispositivos a la VPN al mismo tiempo
+• El bloqueador de anuncios (NetShield): una función de filtrado DNS que te protege de malware, bloquea anuncios y evita que los rastreadores de sitios web te sigan mientras navegas
+• Reproducción de películas, eventos deportivos y vídeos en cualquier servicio de streaming (Netflix, Hulu, Disney+, BBC iplayer, etc.)
+• Compartir archivos y soporte P2P
+• Los servidores Secure Core protegen de ataques de red gracias a la VPN doble
+• La conexión a Tor mediante VPN permite disfrutar del anonimato de la red Tor automáticamente
+
+¿Por qué Proton VPN?
+• No se dan datos personales para registrarse
+• Aplicación VPN fácil de usar para iOS, iPadOS, visionOS y tvOS
+• Cifrado de máxima seguridad para tu conexión, que la hace mejor que un proxy de internet
+• Con un solo toque 'Conexión rápida' para asegurar tu conexión a internet, especialmente en puntos de acceso Wifi públicos
+• La tecnología única VPN Accelerator aumenta la velocidad de tu VPN en hasta un 400% para una conexión a internet más rápida
+• La arquitectura Secure Core de Proton VPN permite que nuestro servicio de VPN segura defienda contra ataques basados en red
+• Solo utilizamos protocolos de VPN que se ha demostrado que son seguros: WireGuard
+• Auditoría independiente por expertos en seguridad de terceros y publicamos los resultados en nuestro sitio web
+• Software de código abierto fiable cuya seguridad puede comprobarse
+
+La opinión de los expertos:
+PCMag: “[Proton VPN] es una VPN con una gran colección de funciones avanzadas, y tiene el mejor plan de suscripción gratuita que hemos visto. Pocos competidores pueden igualar su mezcla de asequibilidad, funciones y diseño. Por todo eso, recibe una rara calificación de cinco estrellas y gana nuestro premio Elección de los Editores”
+
+Mozilla: ""Hay muchos proveedores de VPN, ninguno descansa sobre esta base. Proton VPN ofrece un servicio seguro, fiable y fácil de usar ideado por los creadores de ProtonMail, la respetada aplicación de correo electrónico centrada en la privacidad. Tienen experiencia demostrada defendiendo la privacidad en internet y compartimos el mismo compromiso con la seguridad"".",2018-11-12T16:00:04Z,2025-11-18T14:52:11Z
+es,Spain,Utilities,6002,8,1520048638,Mi DIGI,DIGI SPAIN TELECOM SL,https://apps.apple.com/es/app/mi-digi/id1520048638?uo=4,0.0,3.86006,2544,Utilities,"Descarga Mi DIGI y gestiona tus productos y servicios de forma más visual e intuitiva.
+ 
+Si eres cliente de fibra puedes:
+•       Consultar tus facturas, el importe y la fecha en que se efectúan los pagos.
+•       Pagar tus facturas pendientes.
+•       Cambiar tu producto de fibra o pasarte a Fibra SMART cuando esté disponible en tu zona.
+•       Contratar y gestionar servicios como DIGI storage o Conexión Plus.
+ 
+Si eres cliente de contrato puedes:
+•       Consultar los gigas consumidos y acumulados.
+•       Cambiar tus productos de móvil o contratar Fibra.
+•       Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.
+•       Agrupar todos tus contratos.
+ 
+Si eres cliente de prepago puedes:
+•       Consultar tu saldo, traspasarlo a otra línea o solicitar un anticipo de saldo.
+•       Consultar los gigas y minutos consumidos.
+•       Pasarte a contrato o activar más productos de móvil.
+•       Configurar servicios como el buzón de voz o el aviso de llamadas perdidas.",2020-09-15T07:00:00Z,2023-04-18T08:53:59Z
+es,Spain,Utilities,6002,9,388497605,Google Authenticator,Google LLC,https://apps.apple.com/es/app/google-authenticator/id388497605?uo=4,0.0,4.83146,47895,Utilities,"Google Authenticator añade un nivel adicional de seguridad a tus cuentas online, ya que incorpora un segundo paso de verificación al iniciar sesión. Esto significa que, además de tu contraseña, también tendrás que introducir un código generado por la aplicación Google Authenticator de tu teléfono.
+
+La aplicación Google Authenticator puede generar el código de verificación en tu teléfono, aunque no tengas conexión de red o de datos móviles.
+
+• Sincroniza tus códigos de Authenticator con tu cuenta de Google y con tus dispositivos. De esta forma, podrás acceder a ellos aunque pierdas el teléfono.
+
+• Configura tus cuentas de Authenticator automáticamente con un código QR. Es rápido, fácil y te ayuda a asegurarte de que los códigos estén configurados correctamente.
+
+• Compatibilidad con varias cuentas. Puedes usar la aplicación Authenticator para gestionar varias cuentas, de modo que no tengas que cambiar de una aplicación a otra cada vez que necesites iniciar sesión.
+
+• Compatibilidad con la generación de códigos basada en tiempo y basada en contador. Puedes elegir el tipo de generación de códigos que mejor se adapte a tus necesidades.
+
+• Transfiere cuentas entre dispositivos con un código QR. Es una forma cómoda de mover tus cuentas a un dispositivo nuevo.
+
+
+Para usar Google Authenticator con Google, necesitas habilitar la verificación en dos pasos en tu cuenta de Google. Para empezar, visita http://www.google.com/2step",2010-09-20T07:29:36Z,2024-06-26T21:59:59Z
+es,Spain,Utilities,6002,10,1476380919,Cleaner Guru: Limpiar Fotos,GM UniverseApps Limited,https://apps.apple.com/es/app/cleaner-guru-limpiar-fotos/id1476380919?uo=4,0.0,4.42856,2996,Utilities,"Cleaner Guru es una aplicación inteligente que optimiza el rendimiento de tu dispositivo eliminando fotos similares, fusionando contactos duplicados, borrando archivos de vídeo de gran tamaño y mucho más.
+
+Te ayuda a gestionar el almacenamiento con facilidad: es una solución perfecta para todos los usuarios de dispositivos móviles.
+
+
+¡Prueba Cleaner Guru hoy mismo para que tu iPhone siga funcionando sin problemas y de manera eficiente!
+
+
+CARACTERÍSTICAS PRINCIPALES
+- Limpieza de fotos similares: detecta rápidamente y elimina fotos duplicadas y similares para ordenar tu galería.
+- Compresión de vídeos: libera espacio al reducir el tamaño de los archivos de vídeo sin sacrificar la calidad.
+- Limpieza de contactos: fusiona contactos duplicados con un solo toque para poner orden en tu agenda.
+- Limpieza de archivos grandes: encuentra y elimina archivos grandes que están acaparando tu almacenamiento.
+- «Widgets»: personaliza tu pantalla de inicio con «widgets» para controlar el uso de la batería y la memoria.
+- Animaciones de carga: personaliza tu pantalla de carga con divertidas animaciones.
+- Carpeta secreta: protege tus fotos y vídeos privados con un almacenamiento protegido por contraseña.
+
+
+CÓMO TE AYUDA CLEANER GURU:
+Optimiza el rendimiento: borra los archivos innecesarios y notarás que tu dispositivo funciona tan bien como el día que lo compraste.
+Libera espacio: recupera un valioso espacio de almacenamiento hacer sitio a nuevas aplicaciones, fotos y recuerdos.
+Organiza tu contenido: mantén tu biblioteca de fotos y tus contactos ordenados y sin desorden para acceder a ellos fácilmente.
+Personaliza tu dispositivo: personaliza la pantalla de inicio y experiencia de carga con «widgets» y animaciones modernos.
+Protege tu privacidad: protege tus fotos y vídeos personales en una carpeta secreta a la que solo tú puedas acceder.
+
+
+INFORMACIÓN SOBRE LA SUSCRIPCIÓN
+Renovación automática: las suscripciones se renuevan automáticamente, salvo que la renovación automática se desactive al menos 24 horas antes del final del periodo actual.
+Gestiona las suscripciones: puedes gestionar las suscripciones y desactivar la renovación automática accediendo a los ajustes de tu cuenta tras la compra.
+Prueba gratuita: cualquier parte no utilizada de un periodo de prueba gratuito se perderá al comprar una suscripción.
+Pago: el pago se cargará a tu cuenta de iTunes al confirmar la compra.
+Cargos de renovación: según el plan seleccionado, se te cobrará a tu cuenta la renovación 24 horas antes del final del periodo actual.
+
+
+¡ÚNETE A NUESTROS MIEMBROS SATISFECHOS!
+Millones de usuarios de iPhone han transformado sus dispositivos con Cleaner Guru. ¡Sé uno de ellos y descubre lo fácil que es mantener tu teléfono en perfecto estado!
+
+
+¡DESCARGA CLEANER GURU HOY MISMO!
+¡Descarga Cleaner Guru ahora y disfruta de una experiencia de iPhone más limpia, rápida y organizada!
+
+
+CONDICIONES Y PRIVACIDAD
+Al utilizar Cleaner Guru, aceptas nuestras Condiciones del servicio, Política de privacidad y Condiciones de facturación.
+
+
+Condiciones del servicio: https://universeapps.limited/cleaner/tos.html
+Política de privacidad:https://universeapps.limited/cleaner/privacy.html
+Condiciones de facturación: https://universeapps.limited/cleaner/billing.html
+
+
+¿Tienes alguna pregunta? Contacta con nosotros a través del Servicio de atención al cliente: support@universeapps.limited",2019-11-06T08:00:00Z,2025-11-17T08:40:05Z
+es,Spain,Utilities,6002,11,1510944943,Cleanup: Limpiador de fotos,DEEP FLOW SOFTWARE SERVICES - FZCO,https://apps.apple.com/es/app/cleanup-limpiador-de-fotos/id1510944943?uo=4,0.0,4.55692,33405,Utilities,"SEAMOS REALISTAS: ¡LIMPIAR TU GALERÍA DE FOTOS ES MUY ABURRIDO!
+
+Cleanup está aquí para hacer que hacerlo sea fácil, divertido y seguro.
+
+
+LIMPIA TU GALERÍA EN UN INSTANTE
+
+Desliza hacia la izquierda para deshacerte de fotos que no te gusten o estén duplicadas
+
+Desliza hacia la derecha para conservar los recuerdos que realmente te importan
+
+¡Te sorprenderá ver cuántas fotos innecesarias has estado guardando!
+
+
+CONSERVA SOLO LAS MEJORES FOTOS
+
+En un grupo de fotos similares, Cleanup te sugerirá cuál conservar
+
+Cleanup te sugerirá la foto...
+
+... en la que estás mirando a la cámara
+
+... en la que estás sonriendo
+
+... que está enfocada
+
+... que has editado o marcado como favorita en el pasado
+
+Aun así, tú decides cuál conservar, no eliminamos ninguna foto sin tu permiso.
+
+
+TÚ TIENES LA ÚLTIMA PALABRA
+
+Piensa en la Papelera de tu ordenador, Cleanup tiene exactamente lo mismo.
+
+Una vez que hayas terminado de eliminar, Cleanup te pide que hagas una revisión final
+
+para que no elimines ninguna foto por accidente.
+
+
+ALIVIA EL ESTRÉS MANTENIENDO LA PRODUCTIVIDAD
+
+Sabemos con certeza que nuestros mayores rivales son los gatitos adorables, los videos reventando granos o tu juego de puzles favorito.
+
+Pero esto es lo que hace que Cleanup sea única: después de usar nuestra aplicación, tendrás una galería de fotos limpia y organizada, ¡no sentirás culpable por haber perdido el tiempo!
+
+
+LA FORMA MÁS SEGURA DE LIMPIAR TU BIBLIOTECA
+
+A diferencia de otras aplicaciones, no necesitas una conexión a internet para usar Cleanup.
+
+Cleanup funciona sin conexión en tu teléfono, por lo que no podríamos hacer un mal uso de tus fotos aunque quisiéramos :)
+
+
+ORDENA LOS VIDEOS POR TAMAÑO: ELIMINA EL MÁS GRANDE PRIMERO
+
+Comienza fácilmente con ese video de 2 GB que ha estado en tu galería durante mucho tiempo.
+
+
+Condiciones de pago y suscripción:
+
+
+Elige entre las siguientes opciones de suscripción para obtener acceso ilimitado a todas las funciones:
+
+
+• Suscripción semanal
+
+• Suscripción de por vida
+
+
+PRUEBA GRATUITA DE 7 DÍAS: OFRECEMOS LIMPIEZA ILIMITADA DE LA GALERÍA POR TIEMPO LIMITADO
+
+
+***Puedes cancelar tu suscripción en cualquier momento***
+
+
+La prueba gratuita de Cleanup te permite acceso ilimitado a todas las funciones durante 7 días. Tu cuenta se cargará automáticamente por la renovación, según el plan de suscripción anual, en las 24 horas anteriores al final del período de prueba gratuita de 7 días.
+
+
+Puedes cancelar la renovación automática en cualquier momento, siempre que la cancelación se realice al menos 24 horas antes del final del periodo actual. Cualquier periodo no utilizado de una prueba gratuita se perderá al realizar la compra de una suscripción con renovación automática.
+
+
+***Administra tu suscripción directamente desde tu iPhone***
+
+El usuario puede administrar las suscripciones y desactivar la renovación automática en la configuración de la cuenta:
+
+- Abre el menú de configuración.
+
+- Pulsa en tu nombre.
+
+- Pulsa ""Suscripciones"".
+
+- Pulsa la suscripción que deseas administrar.
+
+
+Política de privacidad: https://cleanup.photos/privacy
+
+Condiciones de uso: https://cleanup.photos/terms",2020-12-05T08:00:00Z,2025-11-18T09:38:38Z
+es,Spain,Utilities,6002,12,1288723196,Microsoft Edge: Copilot Incorp,Microsoft Corporation,https://apps.apple.com/es/app/microsoft-edge-copilot-incorp/id1288723196?uo=4,0.0,4.64168,26488,Utilities,"Microsoft Edge es tu navegador con IA y Copilot integrado — tu asistente personal para una navegación más inteligente y productiva. Con los modelos de IA más avanzados de OpenAI y Microsoft, Copilot te ayuda a formular preguntas, refinar búsquedas, resumir contenido, escribir con facilidad y crear imágenes. Habla con Copilot usando tu voz para generar ideas, resolver cuestiones complejas o incluso redactar historias y guiones — sin utilizar las manos. Obtén respuestas en tiempo real, asistencia e inspiración creativa — todo en un solo lugar. Con la IA integrada de forma profunda en Edge a través de Copilot, podrás navegar, crear y completar tareas — en cualquier momento y lugar.
+
+Microsoft Edge ofrece potentes extensiones para la productividad, la personalización y el entretenimiento. Utiliza extensiones para mantener tu privacidad, bloquear cookies, ocultar tu ubicación y reducir distracciones en YouTube. Mantente organizado con marcadores y herramientas de notas que facilitan guardar y compartir contenido. Aumenta tu productividad con herramientas de traducción. Compra de forma más inteligente y ahorra con rastreadores de precios y buscadores de cupones. Personaliza Microsoft Edge para una experiencia de navegación segura y adaptada a ti.
+
+Microsoft Edge — tu navegador seguro y fiable. Navega por la web de forma segura y prioriza tu privacidad con herramientas inteligentes como la prevención de rastreo, Microsoft Defender SmartScreen, AdBlock, navegación InPrivate y búsqueda InPrivate. Protege tu historial de navegación para una experiencia en línea más segura y privada.
+
+Descarga Microsoft Edge — el navegador con IA y Copilot integrado. Descubre formas más inteligentes de buscar, crear y completar tareas con el poder de la IA en tus manos. Disfruta de una experiencia de navegación más conectada e intuitiva con Microsoft Edge, estés donde estés.
+
+FUNCIONES DE MICROSOFT EDGE:
+UNA FORMA MÁS INTELIGENTE DE BUSCAR
+• Potencia tus búsquedas con Copilot, el asistente de IA integrado que ofrece resultados más rápidos, precisos y personalizados.
+• Explora visualmente con la Lente de IA: sube imágenes para buscar, obtener información o inspirarte.
+• Resume páginas web, PDFs y vídeos en segundos con información clara y citada.
+• Impulsado por los modelos de IA más avanzados de OpenAI y Microsoft para un descubrimiento más inteligente que nunca.
+
+UNA FORMA MÁS INTELIGENTE DE CREAR
+• Personaliza tu navegación con extensiones potentes y crea la experiencia que quieras.
+• Habla con Copilot para generar ideas, responder cuestiones complejas o redactar historias — sin usar las manos.
+• Escribe con Copilot, tu redactor de IA que convierte ideas en borradores listos.
+• Traduce o corrige textos en varios idiomas para un público global.
+• Crea imágenes: describe lo que quieres y la IA lo hará realidad.
+• Escucha contenido o mejora la comprensión lectora con Leer en voz alta, disponible en varias voces y acentos naturales.
+• Aumenta tu productividad y transfiere archivos entre dispositivos con Drop.
+
+UNA FORMA MÁS INTELIGENTE DE MANTENERTE SEGURO
+• Navega de forma segura con InPrivate, que protege tu información frente a rastreadores.
+• Privacidad mejorada sin guardar el historial en Bing ni vincularlo a tu cuenta Microsoft.
+• Recibe alertas si tus credenciales aparecen en la dark web.
+• Prevención de rastreo activada por defecto.
+• Bloquea anuncios y distracciones con AdBlock Plus.
+• Protégete contra phishing y malware con Microsoft Defender SmartScreen.",2018-02-13T20:57:26Z,2025-11-17T01:49:15Z
+es,Spain,Utilities,6002,13,455655421,Mi Vodafone,VODAFONE ESPANA SAU,https://apps.apple.com/es/app/mi-vodafone/id455655421?uo=4,0.0,4.38851,35224,Utilities,"Mi Vodafone: todo lo que necesitas, en una sola app
+Con la App Mi Vodafone puedes gestionar tus servicios de forma fácil, rápida y desde cualquier lugar.
+ 
+- Tu Tienda Online, siempre contigo.
+  - Accede a ofertas exclusivas solo para clientes.
+  - Compra smartphones, accesorios, dispositivos para el hogar… ¡y añade líneas o renueva tarifas cuando quieras!
+  - ¿Sin stock? Te avisamos en cuanto vuelva tu producto favorito.
+  - Consulta el estado de tus pedidos al momento.
+
+- Consulta tus facturas, descárgalas o págalas directamente desde la app. Además, puedes ver tu consumo en tiempo real y anticipar lo que pagarás. ¿Dudas con algún cargo? Solicita ayuda fácilmente.
+
+- Accede a la sección “Para Ti” y disfruta de beneficios exclusivos: sorteos, descuentos y la posibilidad de ganar premios cada semana con Miércoyeees!
+
+- Entretenimiento sin límites. Activa o gestiona tus suscripciones a Netflix, Max, Filmin, Prime Video, Disney+ y DAZN. ¡Lo mejor del cine y el deporte, en un clic!
+
+- Gestiona tus productos y resuelve cualquier incidencia. Consulta y paga facturas, controla tu consumo, y revisa todos tus productos contratados (líneas, fibra, TV...) en segundos. ¿Alguna avería? Infórmala y haz seguimiento en tiempo real.
+
+- Ya no tendrás que ir físicamente a ningún sitio para recargar, ¡olvídate! Desde Mi Vodafone podrás hacerlo fácilmente, ¡podrás incluso programar tus recargas para que mes a mes se hagan de forma automática con el servicio Pago Fácil!
+
+- ¿Te vas de viaje? Activa o desactiva el Roaming con un solo clic. Consulta fácilmente la tarifa de tu destino.
+
+- ¿Necesitas ayuda? TOBi, tu asistente virtual, está disponible 24/7. También puedes informar averías, hacer seguimiento de incidencias o hablar con un agente desde el chat de la app.
+ 
+Mi Vodafone es para ti:
+ - Si tienes un contrato particular
+ - Si tienes una tarjeta prepago
+ - Si tienes un contrato de autónomo o pequeño negocio
+
+¿Tienes otro tipo de servicio? Puedes gestionar todo desde nuestra web: www.vodafone.es
+ 
+Contacta con Vodafone
+Haremos todo lo necesario para que tu experiencia en Vodafone sea lo mejor posible. Si necesitas ayuda, ponte en contacto con nosotros usando TOBi, a través del chat de la app. Puedes encontrarnos también en:
+- Web: www.vodafone.es
+- Twitter: https://twitter.com/vodafone_es
+- Facebook: https://www.facebook.com/vodafoneES
+- Instagram: https://www.instagram.com/vodafone_es
+- TOBi en Whatsapp (607 100 100)
+ 
+¿Ya la tienes instalada?
+Mantenla siempre actualizada para disfrutar de todas las mejoras.
+Gracias por confiar en nosotros y ayudarnos a seguir creciendo contigo
+ 
+¿Conectamos?",2011-08-24T17:43:42Z,2025-11-21T09:03:57Z
+es,Spain,Utilities,6002,14,883078092,Iberdrola Clientes,"Iberdrola, S.A.",https://apps.apple.com/es/app/iberdrola-clientes/id883078092?uo=4,0.0,4.66869,126476,Utilities,"Con la aplicación gratuita de Iberdrola Clientes podrás acceder a tu área privada y realizar tus gestiones cotidianas de manera sencilla: consultar y gestionar tus contratos de electricidad y gas, consultar tus facturas online o ver tus consumos. ¡Accede cómoda y fácilmente desde tu móvil a la App para clientes de Iberdrola!
+
+Con esta App tendrás todas las gestiones al alcance de tu mano, evitando que tengas que acudir a las oficinas de atención al cliente o llamar por teléfono, ¡haz tus gestiones cómodamente desde tu App! Con nuestra propuesta de diseño queremos mejorar tu experiencia de usuario y hacer que sea mucho más atractiva. Gracias a su sencilla e intuitiva navegación podrás acceder con mayor rapidez al detalle de tus facturas, ver el catálogo de productos de un vistazo y controlar tu consumo de energía en cualquier momento.
+
+Descárgate la App Iberdrola Clientes y podrás disfrutar de estas y muchas más funcionalidades:
+
+INICIO
+Echa un vistazo a tus últimos consumos y a las facturas más recientes. Podrás acceder rápidamente a las principales funcionalidades: consultar la energía que tienes contratada, los servicios adicionales, así como los diferentes dispositivos que tienes configurados en tu casa.
+
+CONSUMOS
+Consulta en tiempo real la evolución de tu consumo y ajústalo para reducir tu factura o cambiar de Plan. Con Iberdrola Clientes también podrás:
+-	Pagar cómodamente una factura pendiente de pago 
+-	Ver y descargar tus facturas en PDF
+-	Enviar tus facturas por email, ayudando a preservar el medio ambiente
+
+SMART SOLAR
+Smart Solar es la solución integral que te brinda Iberdrola para que puedas ahorrar generando y consumiendo tu propia energía. Con la App de Iberdrola Clientes podrás monitorizar la energía que estás produciendo en tiempo real y controlar tu consumo.
+
+ASISTENTE SMART
+Déjate asesorar por nosotros con informes mensuales basados en tus datos de consumo. Con el Asistente Smart podrás controlar y ahorrar en tus consumos, y hasta conocer el consumo desglosado por las categorías de electrodomésticos del hogar. ¡Recibe notificaciones personalizadas y consejos sobre qué hacer para ahorrar en tu factura! 
+
+
+ALTA FACTURA ELECTRÓNICA
+Date de alta en la Factura Electrónica y apuesta por la rapidez, la sencillez y la sostenibilidad. Inmediata, cómoda, ecológica y con validez legal, te permitirá consultarla desde el momento en que es emitida y en cualquier lugar.
+
+CAMBIA DE POTENCIA
+Cambia la potencia que tienes contratada y ajústala a las necesidades de tu hogar. Analiza tus consumos y los aparatos electrónicos con los que cuentas en tu casa y cambia la potencia para que se ajuste a lo que tu hogar necesite.
+
+NOTIFICACIÓN DE AVERÍAS
+¡Ya no tienes que llamar a atención al cliente y esperar hasta que te atiendan! Con Iberdrola Clientes, podrás contactarnos directamente para notificar cualquier problema que tengas a través de la App y podrás hacer el seguimiento del estado de tu incidencia.
+
+¿Tienes dudas? Contacta con nosotros a través de nuestros canales de Asistencia al cliente.
+
+No te pierdas todo lo que ofrecemos y ¡Apúntate ya a las ventajas de la App para clientes de Iberdrola!",2014-06-22T04:59:28Z,2025-11-04T13:33:48Z
+es,Spain,Utilities,6002,15,1507980294,Cecotec,CECOTEC INNOVACIONES SL,https://apps.apple.com/es/app/cecotec/id1507980294?uo=4,0.0,2.8573,911,Utilities,"Controla tu hogar de forma inteligente con la App oficial de Cecotec.
+Conéctate a una amplia gama de dispositivos Cecotec:
+
+- Robots aspiradores Conga (1090,1790,2290,2499,9590,9990,11090,15090,20090,X50,Z100 y muchos más. Así como limpiacristales Windroid (880,890,1090,1290,1390,1490)
+- Ventiladores, aires acondicionados portátiles y sistemas de climatización Split.
+- Productos de tratamiento de aire: purificadores, humidificadores y deshumidificadores.
+- Calefactores, radiadores y estufas ReadyWarm.
+- Freidoras Cecofry, aspiradores sin cable Rockstar, scooters eléctricos Bongo y mucho más.
+
+Funciones principales:
+
+- Programa y controla tus dispositivos desde cualquier lugar.
+- Ajusta modos, velocidades y temperaturas según tus necesidades.
+- Crea rutinas personalizadas para tu día a día.
+- Supervisa el estado de tus aparatos en tiempo real.
+
+Disfruta de la comodidad de tener todos tus productos Cecotec conectados en una sola aplicación..
+
+----------
+Control your home smartly with the official Cecotec App.
+Connect to a wide range of Cecotec devices:
+
+Conga robot vacuums (1090, 1790, 2290, 2499, 9590, 9990, 11090, 15090, 20090, X50, Z100, and many more), as well as Windroid window cleaners (880, 890, 1090, 1290, 1390, 1490).
+
+Fans, portable air conditioners, and Split air conditioning systems.
+
+Air treatment products: purifiers, humidifiers, and dehumidifiers.
+
+Heaters, radiators, and ReadyWarm stoves.
+
+Cecofry air fryers, Rockstar cordless vacuums, Bongo electric scooters, and much more.
+
+Main features:
+
+Schedule and control your devices from anywhere.
+
+Adjust modes, speeds, and temperatures to suit your needs.
+
+Create personalized routines for your daily life.
+
+Monitor the status of your appliances in real time.
+
+Enjoy the convenience of having all your Cecotec products connected in a single app.",2020-05-04T07:00:00Z,2025-09-16T10:26:49Z
+es,Spain,Utilities,6002,16,6738370584,Sophon - Almacenamiento Drive,NEW SOPHON TECHNOLOGY LIMITED,https://apps.apple.com/es/app/sophon-almacenamiento-drive/id6738370584?uo=4,0.0,4.70059,167,Utilities,"SoPhon permite a cualquiera subir y transferir archivos a SoPhon y compartirlos con amigos y familiares.
+
+Obtienes 6GB de almacenamiento en la nube seguro gratuito. Realiza copias de seguridad de fotos, videos, documentos y otros archivos en el almacenamiento en la nube y accede a los archivos sincronizados en cualquier computadora o dispositivo móvil desde cualquier lugar.
+
+
+Aspectos destacados de la aplicación SoPhon:
+
+-6GB de espacio de almacenamiento en la nube gratuito y soporte para la transferencia ilimitada de múltiples archivos grandes, lo que hace que la carga y descarga de archivos sea más eficiente;
+
+-Tiene funciones poderosas de clasificación y gestión de archivos, que pueden clasificar diferentes tipos de archivos de manera ordenada, y tiene una barra de navegación jerárquica clara, lo que es conveniente para que los usuarios encuentren y gestionen archivos rápidamente.
+
+-No importa dónde estés o qué dispositivo uses, los usuarios pueden acceder fácilmente a todo el contenido almacenado en la nube en cualquier momento y en cualquier lugar, logrando realmente una conexión perfecta y un uso conveniente de los datos.
+
+-Soporta la carga de fotos, videos u otros archivos desde varios dispositivos y proporciona la función de navegación en línea de fotos y reproducción de videos, para que puedas ver directamente el contenido maravilloso sin descargarlo.
+
+-La aplicación ofrece 13 versiones de idiomas diferentes, que satisfacen completamente las necesidades de los usuarios en diferentes regiones y ayudan a los usuarios a familiarizarse y usar esta aplicación más rápidamente.
+
+-Presta especial atención a la privacidad y seguridad del usuario y admite el uso compartido de archivos cifrados. Solo a través de una contraseña específica se pueden ver los archivos compartidos, evitando eficazmente la fuga de información privada.
+
+-Para los profesionales de negocios, SoPhon es un poderoso asistente de oficina. Soporta la conversión de formato de diferentes tipos de archivos y puede hacer frente fácilmente a varias tareas tediosas de trabajo. Por ejemplo: realizar funciones como imagen a PDF, documentos escaneados, extracción de documentos OCR, firma de documentos, traducción de documentos, etc., adaptándose perfectamente a las necesidades de clasificación de documentos en escenarios de oficina.
+
+
+SoPhon es una aplicación innovadora de almacenamiento en la nube que protege todos los archivos en tu dispositivo y los organiza para ti. Con SoPhon, te traemos el futuro de la copia de seguridad de datos, almacenamiento en la nube y oficina móvil.
+
+
+SOPHON es una aplicación imprescindible para tu iPhone y iPad! Si eliges comprar SOPHON Plus, el pago se cargará a tu cuenta de iTunes, y tu cuenta será cargada por la renovación dentro de las 24 horas anteriores al final del período actual. La renovación automática puede ser desactivada en cualquier momento yendo a la configuración en la iTunes Store después de la compra. El precio actual de la suscripción a SOPHON Plus comienza en $9.99 USD/mes o $99.99 USD/año. Los precios están en dólares estadounidenses, pueden variar en países fuera de los EE.UU. y están sujetos a cambios sin previo aviso. Si no eliges comprar SOPHON Plus, puedes continuar usando SOPHON de forma gratuita. Cualquier parte no utilizada de un período de prueba gratuito, si se ofrece, se perderá cuando compres una suscripción, si corresponde.
+
+
+Lee más sobre nuestros términos y condiciones aquí: 
+Términos de Servicio：https://newsophon.com/agreement?id=removal
+Política de Privacidad：https://newsophon.com/agreement?id=privacy
+Para más detalles sobre nuestra aplicación y política de privacidad, visita nuestro sitio web: https://newsophon.com/#/.",2025-01-21T08:00:00Z,2025-11-14T07:12:46Z
+es,Spain,Utilities,6002,17,1439422220,Mando a distancia universal TV,KRAFTWERK 9 LTD,https://apps.apple.com/es/app/mando-a-distancia-universal-tv/id1439422220?uo=4,0.0,4.54464,3237,Utilities,"Universal Remote supports hundreds of models with various operating systems and screen resolutions, ranging from basic models no longer in manufacture to 2021 novelties with the most powerful hardware.
+
+The remote differs depending on not only the Smart TV manufacturer but also the type of operating system. 
+
+Touchpad Instead of Buttons. We are confident that navigation with swipe gestures is much more convenient than by pressing regular ""down"" or ""right"" buttons, not distracting you from the most important thing: searching for your favorite movie or series on the TV.
+
+Still Can’t Turn the TV On? In a word, you can, but under one condition. Most new Smart TV models support the Wake-on-LAN function. It is possible only if you had already been connected to the TV earlier. Therefore, when using the application for the first time, you will need a hardware remote control. After that, you can use your Universal Remote.
+
+Premium Subscription
+
+You can subscribe for unlimited access to Premium features. Subscription is $19.99 yearly. 
+
+Prices are equal to the value that ""Apple's App Store Matrix"" determines is the equivalent of the subscription price in USD. 
+
+Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. 
+
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase. For details please visit the link https://support.apple.com/HT202039. 
+
+When your current trial/subscription period expires, you will be unsubscribed. The current active subscription period can not be canceled. After your subscription expires, you will no longer be able to use pictures marked as Premium.
+
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. 
+
+Terms of Use: https://kraftwerk9.com/terms
+Privacy Policy: https://kraftwerk9.com/privacy",2018-11-09T01:18:52Z,2025-11-14T23:48:51Z
+es,Spain,Utilities,6002,18,1194582243,Storage Cleaner - Limpiador,BP Mobile LLC,https://apps.apple.com/es/app/storage-cleaner-limpiador/id1194582243?uo=4,0.0,4.16315,9249,Utilities,"ELEGIDO POR MÁS DE 68 MILLONES DE USUARIOS: EL LIMPIADOR DE IPHONE DEFINITIVA PARA MANTENER TU DISPOSITIVO ORGANIZADO
+
+Este limpiador de iPhone te permitirá liberar espacio sin esfuerzo y mantener tu dispositivo en óptimo funcionamiento. Potenciado por la IA, elimina el desorden de tu dispositivo, ya sean fotos, videos o contactos, para mantener todo ordenado. 
+
+¿CÓMO TE PUEDE AYUDAR EL LIMPIADOR DE TELÉFONO?
+
+►Elimina fotos y videos duplicados
+¡Dile adiós a las tomas repetidas, las fotos borrosas y las capturas innecesarias! El limpiador de teléfono escanea tu galería para identificar los archivos que desperdician espacio de almacenamiento. Ni siquiera las fotos e imágenes de documentos de baja calidad escaparán del análisis inteligente. 
+
+►Ordena fotos deslizando
+Esta función agrupa tus fotos por períodos de tiempo. Desliza a la derecha para conservar tus favoritos o a izquierda para archivar fotos viejas y borrosas. Revisa las fotos archivadas más tarde o elimínalas inmediatamente si necesitas espacio.
+
+►Ordena tu bandeja de entrada
+La función de Limpiador de emails agrupa tus mensajes por remitente para que sea más fácil limpiar tu casilla de correo electrónico. Elimina o conserva todos los emails de remitentes específicos con una sola acción o gestiónalos individualmente para tener un control completo sobre tu bandeja de entrada.
+
+►Limpia automáticamente
+No necesitas ponerte a ordenar tu galería, solo deja que el limpiador de iPhone haga el trabajo por ti. Puede eliminar archivos marcados como innecesarios automáticamente, para que puedas disfrutar de un dispositivo organizado con solo unos pocos toques.
+
+►Comprime videos
+¿Te estás quedando sin espacio pero no quieres eliminar tus preciados videos? El limpiador de iPhone puede comprimirlos sin una pérdida significativa de calidad al mismo tiempo que ahorra espacio y mantiene intactos tus recuerdos.
+
+►Organiza contactos
+¿Hay contactos duplicados o sin nombre atiborrando tu lista? El limpiador de iPhone fusiona, organiza y elimina los contactos vacíos, y te da una lista de contactos prolija y funcional.
+
+►Borra tu calendario
+El limpiador de iPhone elimina eventos viejos de tu calendario en segundos. La app te permite ordenar tu cronograma rápida y efectivamente, para que puedas enfocarte en lo que viene.
+
+►Oculta elementos sensibles
+Tu privacidad importa. El limpiador de iPhone te permite guardar archivos y contactos sensibles de forma segura, lo que asegura que solo tú puedas acceder a ellos.
+
+MÁS FUNCIONES PARA EXPLORAR
+
+La app no solo es un limpiador de teléfono efectivo. Explora las funciones adicionales como bloqueador de anuncios, guías de limpieza, animaciones de carga, controles de sistema y seguridad de Wi-Fi, y estadísticas detalladas del rendimiento del dispositivo. Incluso puedes marcar tus archivos favoritos para protegerlos de la eliminación accidental, lo que mantiene seguros tus más preciados recuerdos.
+
+¿POR QUÉ ESPERAR?
+
+Quitar el desorden de tu teléfono nunca ha sido tan fácil. Con este limpiador de teléfono, podrás disfrutar de una limpieza optimizada, eficiente y disfrutable que ahorra tiempo y esfuerzo. ¡Descarga la app ahora y disfruta de un iPhone perfectamente organizado, al fin!
+
+ACCESO ILIMITADO A TODAS LAS FUNCIONES
+- Puedes suscribirte para tener acceso ilimitado a todas las funciones de la app.
+- Las suscripciones se facturan semanal o anualmente con la tarifa seleccionada en función del plan de suscripción.
+- Las suscripciones se renuevan automáticamente, a menos que se desactive la renovación automática, como mínimo 24 horas antes de que finalice el periodo en curso.
+– La renovación automática de la suscripción se puede apagar en la Configuración de la App Store.
+
+Al usar la aplicación, aceptas la Política de privacidad y los Términos de uso:
+https://bpmob.com/smartcleaner/web/v2/privacy 
+https://bpmob.com/smartcleaner/web/v2/terms",2017-01-26T08:58:58Z,2025-11-20T12:31:09Z
+es,Spain,Utilities,6002,19,6742165758,PDF Reader Pro: Scan & Convert,thuy nguyen thi thu,https://apps.apple.com/es/app/pdf-reader-pro-scan-convert/id6742165758?uo=4,0.0,4.7027,37,Utilities,"PDF Reader Pro: Escanear y Convertir – La solución definitiva de PDF para iPhone y iPad. Experimenta una visualización ultrarrápida de PDFs, escaneo profesional de documentos y una potente conversión de archivos en una sola aplicación completa. Ya sea que necesites leer archivos PDF grandes, escanear documentos a PDF o convertir archivos a varios formatos, PDF Reader Pro ofrece un rendimiento excepcional con una interfaz intuitiva.
+
+FUNCIONES PRINCIPALES
+
+LECTOR Y VISOR DE PDF RÁPIDO
+
+Abre archivos PDF al instante, incluso documentos grandes
+
+Desplazamiento y zoom suaves con controles gestuales
+
+Marcadores y búsqueda de texto dentro de los documentos
+
+ESCÁNER DE DOCUMENTOS AVANZADO
+
+Escaneo de alta calidad con detección automática de bordes
+
+Creación de PDFs multipágina desde la cámara o la galería de fotos
+
+Recorte inteligente y corrección de perspectiva
+
+Escaneo por lotes para múltiples documentos
+
+Reconocimiento OCR para PDFs buscables
+
+CONVERTIDOR DE PDF POTENTE
+
+Fusiona varios PDFs en un solo documento
+
+Divide PDFs grandes en archivos más pequeños
+
+Comprime archivos PDF para reducir su tamaño
+
+Convierte imágenes y documentos a formato PDF
+
+EDITOR DE PDF PROFESIONAL
+
+Anota PDFs con resaltados, notas y comentarios
+
+Añade firmas digitales y sellos
+
+Inserta cuadros de texto y formas
+
+Dibuja a mano alzada con soporte para Apple Pencil
+
+Protege documentos sensibles con contraseña
+
+GESTOR INTELIGENTE DE ARCHIVOS
+
+Organiza PDFs en carpetas y categorías personalizadas
+
+Etiqueta documentos para facilitar la búsqueda
+
+Acceso rápido a archivos recientes y favoritos
+
+Ordena archivos por nombre, fecha, tamaño o tipo
+
+Almacenamiento seguro de documentos con bloqueo biométrico
+
+INTEGRACIÓN PERFECTA CON LA NUBE
+
+Comparte documentos por correo electrónico, mensajes o AirDrop
+
+Imprime de forma inalámbrica en cualquier impresora compatible con AirPrint
+
+¿POR QUÉ ELEGIR PDF READER PRO?
+
+VELOCIDAD Y RENDIMIENTO: Optimizado para iOS con rendimiento nativo. Abre archivos PDF de más de 100 MB en segundos.
+
+ENFOQUE EN LA PRIVACIDAD: Todo el procesamiento se realiza en tu dispositivo. No se suben datos a servidores externos. Tus documentos permanecen totalmente privados.
+
+CALIDAD PROFESIONAL: Confiado por millones de usuarios en todo el mundo, desde estudiantes hasta profesionales. Actualizaciones regulares con nuevas funciones.
+
+COMPATIBILIDAD UNIVERSAL: Funciona perfectamente en iPhone, iPad y soporta todos los estándares PDF. Optimizado para las últimas versiones de iOS y dispositivos.
+
+FUNCIONAMIENTO SIN CONEXIÓN: Funcionalidad completa sin conexión a Internet. Lee, edita y gestiona documentos donde y cuando quieras.
+
+IDEAL PARA:
+
+Estudiantes que leen libros de texto y artículos de investigación
+
+Profesionales que revisan contratos e informes
+
+Profesores que califican tareas y crean materiales
+
+Abogados que gestionan documentos legales y expedientes
+
+Investigadores que organizan publicaciones académicas
+
+Cualquier persona que trabaje con documentos PDF a diario
+
+OPTIMIZADO PARA TODOS LOS DISPOSITIVOS
+Diseñado específicamente para iOS con soporte desde iPhone SE hasta iPhone 15 Pro Max y todos los modelos de iPad. Aprovecha las grandes pantallas de iPad para mejorar la productividad.
+
+GRATIS CON OPCIONES PREMIUM
+Descarga y comienza a usar las funciones PDF esenciales de inmediato. Actualiza para desbloquear herramientas avanzadas de edición, almacenamiento en la nube ilimitado y soporte prioritario.
+Transforma tu forma de trabajar con documentos PDF. Descarga PDF Reader Pro: Escanear y Convertir hoy y experimenta herramientas profesionales en tu flujo de trabajo diario.
+¡Califícanos con 5 estrellas si te gusta la aplicación! Tus comentarios nos ayudan a seguir mejorando.
+
+Política de privacidad: https://sites.google.com/view/pdfpro-scanedit-privacypolicy
+Términos y condiciones: https://sites.google.com/view/pdf-pro-scan-edit-tnc",2025-03-03T08:00:00Z,2025-10-22T08:19:43Z
+es,Spain,Utilities,6002,20,905953485,NordVPN - Privacidad Online,Nordvpn S.A.,https://apps.apple.com/es/app/nordvpn-privacidad-online/id905953485?uo=4,0.0,4.6232,14265,Utilities,"¿Quieres disfrutar de más privacidad online? ¡Aquí la tienes! Con NordVPN, basta un click para cambiar tu dirección IP, proteger tu historial de búsqueda contra espías y disfrutar de internet como debe ser.
+
+NordVPN es una app VPN fácil de usar para iPhone o iPad, en la que confían millones de usuarios en todo el mundo. Protege tus actividades online de anunciantes intrusivos, ciberdelincuentes y proveedores de servicios de internet poco profesionales. ¿Cómo? Frenando a los rastreadores y con tu tráfico encriptado para que nadie pueda espiar lo que haces online. 
+
+¿Por qué NordVPN?
+
+VELOCIDADES TURBO
+Hacemos todo lo posible para ofrecerte unas velocidades de conexión VPN difíciles de superar. Para ello, creamos protocolos personalizados para que puedas disfrutar de conexiones ultrarrápidas sin sacrificar la seguridad. 
+
+TAN FÁCIL COMO CONTAR HASTA 3
+Descarga, inicia sesión y conéctate. ¡Y listo! Con nuestra aplicación VPN, basta un click para cifrar tu tráfico online. También puedes configurar la aplicación para que se conecte automáticamente y disfrutar de total tranquilidad.
+
+OBTÉN AYUDA 24/7
+¿Tienes problemas con la app, la conexión VPN o las opciones de pago? ¡No te preocupes! Consulta el Centro de ayuda, envíanos un correo electrónico o visita nuestra página web para chatear en vivo con el servicio de atención al cliente. 
+
+UNA SEGURIDAD ONLINE POTENTE
+NordVPN protege los datos de tu iPhone con algoritmos de cifrado de última generación. Se tardarían millones de años en descifrarlo, por lo que la información que envías y recibes está segura. 
+
+NAVEGA CON SEGURIDAD EN REDES WIFI PÚBLICAS
+¿Has encontrado una cafetería acogedora con wifi, pero no es segura? ¡No te rindas! Utiliza nuestra VPN y oculta tus actividades online de miradas indiscretas y hackers.
+
+MILES DE SERVIDORES VPN
+Los protocolos VPN ultrarrápidos ayudan, pero nuestra amplia red de servidores es la que hace el trabajo duro. Elige entre miles de servidores VPN en +160 países y encuentra siempre la conexión perfecta en cuestión de segundos. 
+
+PROTEGE DIEZ DISPOSITIVOS CON SOLO UNA CUENTA
+Probablemente, tu iPhone no sea el único dispositivo que necesita protección VPN. Utiliza NordVPN para proteger tu portátil, tablets y smart TV, o comparte tu cuenta con tu familia. 
+
+SERVICIO FIABLE
+A diferencia de un servidor proxy o el navegador Tor, una VPN no solo cambiará tu IP. También cifrará tu tráfico y mantendrá una conexión estable con velocidades difíciles de igualar.
+
+Funciones que encantan a nuestros usuarios:
+• Cifrado VPN potente para una seguridad óptima.
+• Datos de VPN ilimitados para navegar libremente por internet.
+• Protocolos VPN para elegir: NordLynx basado en WireGuard, OpenVPN e IKEv2/IPsec (para conexiones manuales).
+• Miles de servidores VPN en todo el mundo para disfrutar de la máxima velocidad.
+• +160 ubicaciones de servidores en todos los rincones del mundo.
+• VPN Doble para una mayor privacidad: ¡encripta tu tráfico dos veces!
+• Conexión automática a VPN para una protección online más fácil.
+
+Tienes la seguridad online al alcance de tu mano: relájate, conéctate a NordVPN y accede a internet de forma más segura y privada en cualquier parte.
+
+Los usuarios deben comprar una suscripción para utilizar la app.
+WireGuard® es una marca comercial registrada de Jason A. Donenfeld.
+Las renovaciones automáticas no se aplican a las suscripciones contratadas con distribuidores.
+
+Condiciones del servicio: https://my.nordaccount.com/es/legal/terms-of-service/
+Política de privacidad: https://my.nordaccount.com/es/legal/privacy-policy/",2014-12-09T07:24:51Z,2025-11-10T05:27:33Z
+es,Spain,Utilities,6002,21,6744326205,The Magis - TV & AI Movies,Hanif Bin Salman,https://apps.apple.com/es/app/the-magis-tv-ai-movies/id6744326205?uo=4,0.0,4.3,70,Utilities,"Your Personal AI-Powered Movie Assistant
+
+Unlock a smarter way to discover movies with advanced AI tailored to your preferences. Our app brings you a fully native movie exploration experience, from personalized suggestions to finding local cinemas and scheduling screenings—all seamlessly integrated into one intuitive platform.
+
+Whether you’re curating a watchlist, planning a movie night, or exploring the latest releases, our app enhances every part of your cinematic journey with powerful, native features.
+
+Key Features:
+
+AI-Powered Movie Recommendations: Get personalized suggestions based on your viewing history, favorites, and preferences using intelligent algorithms.
+
+Voice & Text Search: Find movies instantly with voice or text input, making the search faster and more convenient.
+
+Comprehensive Movie Library: Access a constantly updated catalog of new releases, blockbusters, and timeless classics.
+
+Cinematic Planner: Plan your movie nights by adding upcoming screenings directly to your native calendar, ensuring you never miss a film release.
+
+Nearby Cinemas Finder: Using geolocation, easily discover theaters near you and get quick directions for an optimal viewing experience.
+
+Watch Trailers: Preview trailers directly in the app to help you decide what to watch next.
+
+Detailed Movie Insights: Dive deep into each movie’s cast, ratings, plot summaries, and more—all from within the app.
+
+Filter by Genre: Easily filter movies by genre to suit your mood or interests and find exactly what you’re looking for.
+
+With our app, movie discovery becomes smarter, faster, and more intuitive—all powered by native, integrated features designed to enhance your experience.
+
+NOTE:
+
+This app does not stream content or play any full movies.
+All movies information and images are from TMDB.org licensed under CC BY-NC 4.0: creativecommons.org/licenses/by-nc/4.0
+The app use the TMDb as an open free API, but it is not endorsed or certified by TMDb.
+
+Links:
+- Privacy Policy: https://hanifapps.carrd.co/#privacypolicy
+- Terms of service: https://hanifapps.carrd.co/#service
+- EULA: https://hanifapps.carrd.co/#eula",2025-04-10T07:00:00Z,2025-10-08T07:54:56Z
+es,Spain,Utilities,6002,22,1052879175,Brave Navegador Web Privado,"Brave Software, Inc.",https://apps.apple.com/es/app/brave-navegador-web-privado/id1052879175?uo=4,0.0,4.75961,33387,Utilities,"Brave Web Browser es un navegador rápido, gratuito y seguro para iOS con AdBlock, protección de seguridad y seguimiento integrado. ¡Ahora con Firewall + VPN, Brave Playlist y modo nocturno!
+ 
+Únete a más de 100+ millones de usuarios que usan Brave.
+ 
+Funciones de la aplicación
+* NUEVO: Brave Playlist. Agrega archivos y reprodúcelos cuando quieras, incluso sin conexión.
+* NUEVO: Modo nocturno 
+• VPN + Firewall
+* Navegador AdBlock integrado
+* Bloqueo de ventanas emergentes
+* Optimización de la batería
+* Optimización de los datos
+* Protección de seguimiento
+* Https Everywhere (para la seguridad)
+* Bloqueo de scripts
+* Bloqueo de cookies de terceros
+* Marcadores
+* Historial
+* Pestañas privadas
+* Pestañas recientes
+ 
+NUEVO: BRAVE SEARCH
+Brave Search es el único motor de búsqueda a escala mundial creado pensando en la privacidad. Brave Search no crea perfiles y es independiente de las grandes tecnologías.
+ 
+NEW: BRAVE PLAYLIST
+Crea una lista de reproducción del contenido que te encanta. Agregue casi cualquier medio y juegue en cualquier momento y en cualquier lugar. Incluso sin conexión. Ahora funciona con Apple CarPlay para que puedas reproducir tu contenido favorito mientras conduces. 
+
+OPTIMIZACIÓN DE DATOS Y BATERÍA
+Brave Browser reduce el tiempo de carga, mejora el rendimiento e impide que los anuncios ataquen con malware. Brave presenta un incremento de velocidad de 2x a 4x en iOS, por lo que notarás una reducción directa tanto en el consumo de batería como de datos.
+
+PROTECCIÓN DE PRIVACIDAD
+Navegador privado Brave también protege a los usuarios mediante destacadas funciones de seguridad y privacidad, como HTTPS Everywhere (tráfico de datos encriptados), bloqueo de scripts, bloqueo de cookies de terceros y pestañas privadas de incógnito. Los otros, incluyendo Firefox, Opera, Chrome, Aloha, Ghostery y el navegador Dolphin, no tienen el mismo nivel de privacidad y seguridad.
+ 
+¡Configura Brave como tu navegador predeterminado! Ve a la configuración de tu iPhone - Desplázate hacia abajo y selecciona “Brave” - Toca “Aplicación de navegador predeterminada” - Toca “Brave”
+
+Precios de FIREWALL + VPN
+El precio puede variar según la ubicación. Las suscripciones se cobrarán a tu tarjeta de crédito a través de tu cuenta iTunes. Las suscripciones se ofrecen o bien por períodos de 1 mes o de 1 año, y se renovarán automáticamente a no ser que se cancelen al menos 24 horas antes del final del periodo actual. No podrás cancelar la suscripción una vez activada. Puedes gestionar tu suscripción en Ajustes de Cuenta tras la compra. Las pruebas gratuitas solo se pueden usar una vez. Cualquier parte no utilizada de una prueba gratuita se perderá si adquieres una suscripción.
+
+Acerca de Brave Browser
+Nuestra misión es el ahorro en la red mediante el aumento de la velocidad de búsqueda y la seguridad de los usuarios, a la vez que aumentan los ingresos publicitarios para los creadores de contenidos.
+
+Para conocer más acerca del navegador Brave con AdBlock, protección de seguridad y seguimiento integrados y una experiencia optimizada de datos y batería, visita https://www.brave.com.
+
+Soporte: Si tienes alguna pregunta, no dudes en contactar con nosotros en https://brave.com/msupport.
+
+Términos de Uso: https://brave.com/terms-of-use/
+Política de Privacidad: https://brave.com/privacy/",2016-02-19T18:55:32Z,2025-11-17T05:06:50Z
+es,Spain,Utilities,6002,23,602095382,"Endesa Clientes, luz y gas",ENDESA SA,https://apps.apple.com/es/app/endesa-clientes-luz-y-gas/id602095382?uo=4,0.0,4.69819,25801,Utilities,"Te presentamos la app Endesa Clientes una aplicación diseñada para ofrecerte más funcionalidades y contenidos que te ayuden con todas las gestiones de tus contratos energéticos. En ella podrás acceder cómodamente a tus facturas y contratos y gestionarlos de forma cómoda y fácil. 
+ 
+Además, conocerás las últimas promociones y podrás registrarte de manera totalmente gratuita en el programa de fidelización Para Ti y beneficiarte de todas sus ventajas. ¡Que nada te ate, tu energía va contigo!",2013-02-22T16:23:37Z,2025-11-20T21:29:49Z
+es,Spain,Utilities,6002,24,1473822730,My Verisure,Securitas Direct,https://apps.apple.com/es/app/my-verisure/id1473822730?uo=4,0.0,4.75544,43024,Utilities,"PROTEGE LO QUE MÁS TE IMPORTA, ESTÉS DONDE ESTÉS
+
+My Verisure es la aplicación de Securitas Direct. Con ella, puedes controlar desde cualquier lugar tu sistema de alarma y supervisar -con audio, imágenes y notificaciones en tiempo real- todo lo que ocurre en tu hogar o tu negocio. Además, podrás pedir ayuda ante cualquier emergencia, estés donde estés, gracias al servicio Guardián.
+
+My Verisure también te permite gestionar de forma cómoda y fácil todo lo relacionado con tu instalación: consultar y modificar tus claves, activar o desactivar tus llaves inteligentes y, por supuesto, contactar con nuestro equipo de Atención al cliente siempre que lo necesites. 
+
+Utiliza My Verisure en tu móvil o tablet y protege lo que más te importa, estés donde estés. 
+
+Funcionalidades destacadas:
+- Consulta el estado de tu alarma
+- Conecta o desconecta tu alarma de forma remota
+- Ve y escucha lo que ocurre en tu hogar o tu negocio
+- Controla quién entra y sale gracias al registro de actividad
+- Recibe notificaciones y avisos en tiempo real
+- Controla el confort de tu hogar o negocio y establece alertas personalizadas
+- Solicita ayuda ante cualquier emergencia, dentro o fuera de casa
+- Gestiona fácilmente todo lo relacionado con tu alarma: palabra clave, usuarios, plan de acción...
+- Contacta con Atención al cliente siempre que lo necesites
+
+¡Y mucho más!
+
+Todas estas funcionalidades están disponibles para alarmas Verisure. Las funcionalidades disponibles pueden variar según el modelo de alarma y los servicios contratados por cada cliente de Securitas Direct.",2020-04-30T07:00:00Z,2025-11-14T12:08:51Z
+es,Spain,Utilities,6002,25,1541269353,myIncidence,Netun Solutions SL,https://apps.apple.com/es/app/myincidence/id1541269353?uo=4,0.0,1.93478,92,Utilities,"Con esta aplicación de Incidence, myIncidence, ya no conduces solo.
+
+Lleva en tu móvil la aplicación gratuita de asistencia en carretera más avanzada.
+
+Ante un incidente en la vía, te lo ponemos muy fácil. Solo tendrás que seguir nuestro proceso guiado en la app y te ayudaremos a gestionar la incidencia, poniendo en marcha el servicio de auxilio que necesites en ese momento.
+
+ 
+
+Vincula myIncidence (antes Incidence APP) con una señal V16/luz de emergencia conectada compatible, como Help Flash IoT o Hella IoT, y comprueba que el dispositivo conecta correctamente con la nube DGT 3.0. También somos compatibles con Help Flash Smart, la baliza luminosa que se conecta con Bluetooth a myIncidence.
+
+En caso de accidente o avería, tu baliza enviará una alerta anónima de la ubicación del incidente para que se muestre al resto de conductores de la vía en navegadores y paneles de información variable.
+
+Al activar el modo destello de la baliza, no solo mejorará la visibilidad de tu vehículo averiado, también se iniciará automáticamente el proceso guiado de myIncidence para reportar tu incidencia.
+
+ 
+
+¿Cómo funciona myIncidence?
+
+Descarga la app y sigue los pasos para su configuración y registro. Tras este proceso ya estará lista para su uso. En caso de incidente en carretera:
+
+Activa la app manualmente o a través de un dispositivo compatible como Help Flash IoT o Hella IoT.
+Te haremos algunas preguntas antes de contactar con emergencias o con tu servicio de asistencia en carretera en función del tipo de incidencia.
+Avisaremos y enviaremos tu localización exacta*.
+Recibirás la asistencia que necesites. En el caso de grúas compatibles geolocalizadas también podrás ver en tiempo real su itinerario hasta la llegada al punto donde se encuentra tu vehículo.
+*Servicio de envío de localización disponible para servicio de emergencias y clientes con pólizas vigentes en las compañías aseguradoras con acuerdos de adhesión vigentes.
+ 
+
+SEGUIMOS MEJORANDO PARA QUE ESTÉS MÁS SEGURO:
+Progresivamente irás recibiendo nuevas actualizaciones que mejorarán las funcionalidades actuales de la app y tu experiencia como usuario.
+
+ 
+
+INFORMACIÓN IMPORTANTE:
+Usa la aplicación con responsabilidad y cuando realmente la necesites. El sistema está conectado con un servicio de triaje de emergencias, por lo que cada vez que actives esta funcionalidad se generará una incidencia real.
+
+ 
+
+NOTA:
+Esta aplicación ha sido testada y ha pasado por los más estrictos protocolos de calidad y seguridad para garantizar que mantendremos todos tus datos encriptados y seguros.",2020-11-24T08:00:00Z,2025-11-20T10:20:49Z

@@ -1,0 +1,549 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+tz,"Tanzania, United Republic of",Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/tz/app/testflight/id899247664?uo=4,0.0,4.76053,1520,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/tz/app/github/id1477376905?uo=4,0.0,4.83673,49,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,3,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/tz/app/apple-developer/id640199958?uo=4,0.0,4.44444,9,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,4,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/tz/app/o-kam-pro/id1602054864?uo=4,0.0,4.42856,7,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,5,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/tz/app/expo-go/id982107779?uo=4,0.0,4.94595,37,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,6,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/tz/app/koder-code-editor/id1447489375?uo=4,0.0,4.47727,44,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,7,1614646280,reduce image size - resizer,Sounak Sarkar,https://apps.apple.com/tz/app/reduce-image-size-resizer/id1614646280?uo=4,0.0,4.66667,24,Developer Tools,"Image Resizer & Compressor is a powerful and user-friendly mobile application designed to simplify the process of resizing and compressing images on the go. Whether you're a professional photographer, social media enthusiast, or simply someone who wants to optimize their image files for various purposes, this app is your go-to solution.
+
+Features:
+
+Image Resizing: Easily resize your images to specific dimensions or choose from various preset sizes suitable for social media platforms like Instagram, Facebook, Twitter, and more. Maintain the aspect ratio while resizing to ensure your images look perfect.
+
+Image Compression: Reduce the file size of your images without compromising on quality. The app employs advanced algorithms to compress images while preserving essential details, so you can save storage space on your device or share images faster online.
+
+Video Resizing: Resize videos to specific dimensions and share on different social media platforms.
+
+Video Compressor: Compress videos in bulk and save device space.
+
+Image converter: Change image format easily using this app.
+
+Batch Processing: Save time and effort by resizing and compressing multiple images at once. The app's batch processing feature allows you to apply the same settings to a group of images, making it perfect for handling large photo collections.
+
+Customizable Settings: Tailor the compression level and image size according to your needs. The app offers various compression options, allowing you to strike the right balance between image quality and file size.
+
+Intuitive Interface: The app boasts a user-friendly interface, making it easy for both beginners and professionals to navigate and utilise its powerful features effectively.
+
+Share and Save: After resizing and compressing your images, conveniently save them to your device or share them directly to your favourite social media platforms or messaging apps.
+
+Image Format Support: Image Resizer & Compressor supports various popular image formats, including JPG, PNG, GIF, and more, ensuring compatibility with a wide range of devices and platforms.
+
+Secure and Private: Your images are processed locally on your device, ensuring your privacy and data security. The app does not store or transmit your images to any external servers.
+
+Whether you want to optimize images for online sharing, create stunning social media posts, or manage your photo gallery more efficiently, Image Resizer & Compressor provides a comprehensive solution with its quick and easy image resizing and compression capabilities. Download the app now and take control of your image files with ease!
+
+
+Our App can be used for free with Ads and limited features, however, you can purchase a Image Resizer Premium subscription for the additional advanced features, and remove Ads.
+
+SUBSCRIPTION AND TERMS:
+
+When you download our App you can opt in to a 3 days free trial for monthly and 7 days free trial for yearly subscription. Our App offers auto-renewing monthly/yearly subscription options for access to the app's features and content. Your Image Resizer Premium subscription will automatically renew at the end of each term and payment will be charged through your iTunes account. You can turn off auto-renew at any time from your iTunes account settings but refunds will not be provided for any unused portion of the term. To avoid renewal, you must cancel at least 24 hours before your subscription or trial ends. Your account will be charged for renewal within 24 hours prior to the end of the current period. Any unused portion of a free trial period will be forfeited if you purchase a subscription.
+
+SUBSCRIPTION PRICING:
+
+Premium Monthly: $0.99 / Month (3 days free trial)
+Premium Yearly: $5.99 / Year (7 days free trial)
+
+Read more about our terms, conditions, and privacy here:
+
+• Privacy Policy: https://www.racersoft.in
+• Terms of Use: https://racersoft.in/terms-of-use/",2022-03-18T07:00:00Z,2025-08-07T21:15:21Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,8,1551292695,Proxyman - Capture HTTPS,Proxyman LLC,https://apps.apple.com/tz/app/proxyman-capture-https/id1551292695?uo=4,0.0,5,1,Developer Tools,"Meet a superb Web Debugging Proxy that can act like a middle-man, aka Proxyman. 
+
+### Features
+
+- Directly Capture & Inspect HTTP/HTTPS from your iOS/iPad Devices without using MacBooks.
+- Decrypt and View HTTP/HTTPS Request/Response in plain text
+- JSON Syntax Highlighting
+- Exclusively designed for iPhone and iPad (Landscape and Two Columns)
+- Share traffic to Proxyman macOS - a native macOS app for better inspection
+- Pin working domains
+- Quick filter with URL, Header Body, and Type of Request/Response (e.g., JSON, Form, HTML, CSS, Document, etc)
+- Better Request/Response Previewer: Multiple columns, JSON Preview, JSON TreeView, etc
+- Safe Lock: Protect your sensitive data with FaceID / TouchID / Passcode
+- Advanced Debugging Tools: SSL Proxying, Block List, Map Local, Breakpoint, etc
+
+### Proxyman macOS
+Proxyman for iOS works perfectly with Proxyman for macOS (native macOS app, supports macOS 26 and M4 Chip)
+
+### How it works
+
+Proxyman iOS creates a local VPN on your device and then forwards all traffic to a Local Man-in-The-Middle Server. As long as the VPN is active, Proxyman iOS can capture all traffic over Wi-Fi and cellular Data.
+
+### How about my sensitive data?
+
+- Proxyman Root Certificate is a self-signed certificate that is generated on your local machine. Thus, all requests and responses are captured and stored on your devices and Proxyman does not have access to your data. 
+- There are no remote servers involved. What’s in your devices, it’s in your devices.
+
+*************
+
+- Support: https://proxyman.com/support
+- Privacy Policy: https://proxyman.com/privacy
+- Terms of Services: https://proxyman.com/terms-of-use",2021-03-10T08:00:00Z,2025-11-19T13:54:25Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,9,1610958307,Storm Sniffer - Packet Capture,"Hunan Storm Technology Co.,Ltd",https://apps.apple.com/tz/app/storm-sniffer-packet-capture/id1610958307?uo=4,0.0,0,0,Developer Tools,"Storm Sniffer lets you capture and inspect HTTP / HTTPS requests &responses on your iOS device.  
+It's easy to debug your app’s networking issues without a computer.
+
+* Features
+Packet capture: capture http / HTTPS traffic from iOS devices using local VPN. View http / HTTPS requests and responses in text form, and support HTML, JS, CSS formatting preview;
+Rewrite: modify http / HTTPS requests and responses in real time. Including URL redirection, custom header, local / remote file mock, etc;
+Replay: Perform arbitrary HTTP requests with cron support;
+Scripts: Use local/remote Javascript for more scalability.
+
+* How it works
+Storm Sniffer creates a local VPN on your device, then forwarding all traffic to a Local Man-in-The-Middle Server. As long as the VPN is active, Storm Sniffer can capture all HTTP / HTTPS traffic over Wi-Fi or Cellular Data.
+
+* About the sensitive data
+Storm Sniffer's Root Certificate is a self-signed certificate that is generated in your device.  All HTTP / HTTPS requests & responses are captured and stored on your devices WITHOUT ANY REMOTE SERVERS involved. 
+
+* About the sensitive data
+Storm Sniffer's Root Certificate is a self-signed certificate that is generated in your device.  All HTTP / HTTPS requests & responses are captured and stored on your devices WITHOUT ANY REMOTE SERVERS involved. 
+
+* About Subscription
+After subscription, you can unlock all advanced functions. Currently, there are three kinds of auto-renewable subscription: 
+Annual $17.99、Quarterly $3.99、 Monthly $1.99
+
+* Terms of Use
+https://sniffer.x-storm.com/terms/
+
+* Privacy Policy
+https://sniffer.x-storm.com/privacy/",2022-04-09T07:00:00Z,2024-07-14T23:46:03Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,10,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/tz/app/app-store-connect/id1234793120?uo=4,0.0,4.76471,17,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,11,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/tz/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.77778,9,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,12,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/tz/app/web-inspector/id1584825745?uo=4,0.0,0,0,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,13,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/tz/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,5,1,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,14,1063100471,Tutorials for iOS programming,发展 李,https://apps.apple.com/tz/app/tutorials-for-ios-programming/id1063100471?uo=4,0.0,2.45454,11,Developer Tools,"WHAT IS XCODE AND SWIFT TUTORIALS? 
+
+WHAT IS XCODE AND SWIFT TUTORIALS brings you simple, funny, interactive learning app for Xcode and Swift. 
+The app teaches you about each of the features of Xcode and show you how to use them in detail. With candid, jargon-free advice and step-by-step guidance, you’ll get everything from the core aspects of working to advanced techniques for refined workflows and professional results. It's like having your own personal tutor teaching you the newest version of Xcode. You'll learn how to express yourself and create great Apps quickly and directly! It’s the first and only app to bring the whole process together in such a clear, concise, and interactive way. 
+There is no faster, more straight-to-the-point, or more fun way to learn Xcode than with this app. 
+
+In addition to the Interactive-Mode, app supports the Inspector-Mode, it converts the app to be 20 hours video tutorials, a great added value! 
+
+
+WHAT IS IN XCODE AND SWIFT TUTORIALS? 
+
+XCODE AND SWIFT TUTORIALS includes 1146 self-paced lessons that allow you to progress at your own speed(tip:The first lesson teach you how to use the app): 
+- Get familiar with the Xcode + Swift + Objective-C 
+- Discover all the things you can do with the UIControls 
+- Explore the use of UIView, UIViewController 
+- Find out how to make a fantastic animation 
+- Learn how to get the app version, device font list 
+- Steps for creating POST/GET HTTP Request 
+- Cool things to do with UITableViews 
+- Details how to save your data in the device 
+- Shortcuts, tricks, and tips that let you work smarter and faster 
+- A whole chapter on how to work with music, movie, animation 
+- UITapGestureRecognizer Single Tap, Double Tap, Long Press 
+- Instructions for using simulator 
+- Debugging your app 
+- Details how to Work with SQLIte and NSKeyedArchiver 
+- Explore the use of property list file 
+- The newest and coolest features of Xcode
+- Plus, there are so many other things throughout the app that you’ll be bursting with new ideas! Have fun discovering! 
+
+
+WHO IS INTERACTIVE TUTORIALS FOR XCODE FOR? 
+
+Ever wonder how that Great Apps was created, or how they created that cool mobile games? Or maybe you just want to know how to do some really awesome stuff in Xcode. Well, then, this app is for you! 
+Whether you’re a programmer, designer, or even an artist, there’s something here for you. 
+
+[Products]
+Interactive Tutorials for Photoshop, Illustrator
+https://itunes.apple.com/us/app/id794405356
+
+Interactive Tutorials for Excel, Word and Powerpoint
+https://itunes.apple.com/us/app/id1090726089
+
+Interactive Tutorials for Photoshop Script
+https://itunes.apple.com/us/app/id987231882
+
+
+[Help? Comments? Suggestions? Contact us]
+Email:tapinfinity@gmail.com",2015-12-12T01:00:12Z,2025-07-08T12:12:00Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,15,1508712998,Spectre VPN,Passion Only Pty Ltd,https://apps.apple.com/tz/app/spectre-vpn/id1508712998?uo=4,0.0,0,0,Developer Tools,"* The best way to connect
+Supports Shadowsocks and Trojan protocol, the lightweight, efficient yet powerful proxy applications.
+
+* Protect your privacy
+Multiple strong encryption methods that ensures your internet data will never be seen by third-party.
+
+* Simple and free
+Intuitive design makes life easier.
+Last but not least, it's free!",2020-11-16T08:00:00Z,2023-09-26T04:44:25Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,16,6740740427,Vercel Client Mobile — Rev,FF Vision SRL,https://apps.apple.com/tz/app/vercel-client-mobile-rev/id6740740427?uo=4,0.0,5,1,Developer Tools,"Manage your Vercel projects and much more. Bring your indie hacking journey everywhere you go with Rev!
+
+▲ PROJECTS
+- Most Recent Projects at a glance
+- Browse All Projects on your team(s)
+
+▲ DEPLOYMENTS
+- Actions: Re-deploy, Promote, Rollback, and Cancel
+- Distinguish the Current Live Deployment
+- View Build Logs, Outputs, Source File Inputs and Functions
+- Assigned Domains for Deployment (branch & commit specific)
+
+▲ DOMAINS
+- Actions: Add and Remove
+- Domain Configuration Status (Valid/Invalid)
+- Redirect Details
+- Tap to copy for DNS details
+
+▲ LOGS
+- Build Logs in real time
+- Function & Request Logs for any Project
+- Expand Log Details
+- Filters Galore
+
+▲ OBSERVABILITY & FIREWALL
+- Keep an eye on activity
+- Respond to anomalies immediately
+
+▲ ENVIRONMENT
+- Add or Remove Env Variables
+- Edit Environment Variables 
+
+
+That’s it folks!
+
+This text isn't gonna get any more interesting. I mean, I think we've pretty much covered all the good stuff. Still here? Ummmm, ok. How's everything? Good? Cool cool cool. 
+
+What are you looking for? The app description is over. For real, check out the app. It's way better than hanging out in the App Store this long.
+
+Wow, you're dedicated. Do you just love app descriptions? Weird. OK, we're gonna go now. Bye.
+
+
+NOTICE & ACKNOWLEDGMENT
+1. API tokens are stored locally on your device, and never leave it.
+2. Rev is OSS (Open Source Software), feel free to open an Issue or PR at github.com/revcel/revcel
+3. This is not a replacement for the Vercel website. Certain actions, such as creating new projects, should be done directly in the web dashboard.
+
+
+© FarFetched 2025. All trademarks and copyrights belong to their respective owners.",2025-02-20T08:00:00Z,2025-11-17T10:01:23Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,17,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/tz/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.63636,33,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,18,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/tz/app/rork/id6746410361?uo=4,0.0,4,3,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,19,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/tz/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,20,1548193893,Runestone Text Editor,Simon Stovring,https://apps.apple.com/tz/app/runestone-text-editor/id1548193893?uo=4,0.0,5,5,Developer Tools,"A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
+Runestone is made by a single person with a love for text editors and a vision of building the most lightweight text editor for iPhone and iPad that still has the core features for editing code.
+
+Features:
+- Syntax highlighting of many languages including HTML, JavaScript, JSON, Markdown, Swift, Python, PHP, YAML, and many more.
+- Select one of the twelve standard themes including popular themes like Tomorrow, Dracula, Solarized, and One Dark Pro.
+- Innovative find and replace for searching and modifying text while still viewing your file.
+- Choose font and font size, including support for custom fonts imported using another third-party app.
+- Show the line and column the cursor is located on.
+- Uses the standard document browser for an experience similar to the Files app.
+- Quickly navigate to a specific line.
+- Automatically close opening brackets and quotes.
+- Multiple windows on the iPad.
+- Format code using Prettier.js. Supported languages include CSS,HTML, JavaScript, JSON, PHP and more.
+- Choose text encoding between popular encodings like UTF-8, UTF-16, ISO Latin 1, and many more.
+- Enable or disable autocorrection, autocapitalization, and smart punctuation.
+- Set default file extension of new files.
+- Open files in Runestone from the Share Sheet.
+- Print documents.
+
+Premium features:
+- Choose between eight app icons.
+- Show line numbers.
+- Highlight the selected line.
+- Increase line height and letter spacing.
+- Disable line wrapping to allow horizontal scrolling.
+- Show tabs, spaces, and line breaks using a selected symbol.
+- Enable page guide at a specific column to easily tell when lines are getting too long.
+- Add vertical and horizontal overscroll.
+- Remember the selected language per file.
+- Save file extensions and filenames that should always be treated as plain text files.
+- Enable soft tabs and choose the width of the tab character.
+- Specify whether pressing the tab key should insert a tab or indent the line.
+- Adjust the scaling of Markdown headings and disable highlighting of code blocks in Markdown.
+
+Runestone was built on the open-source framework with the same name. Find more information on the Runestone framework at github.com/simonbs/runestone",2022-05-05T07:00:00Z,2025-09-15T15:57:01Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,21,6444286049,JavaScript Coding Editor & IDE,Cloudbit d.o.o.,https://apps.apple.com/tz/app/javascript-coding-editor-ide/id6444286049?uo=4,0.0,5,1,Developer Tools,"A fully functioning offline node.js runtime on your mobile device.
+
+It lets you run JavaScript and TypeScript code and scripts offline on your phone, without any internet connection or server setup. 
+
+You can use it as a compiler, a console, an engine, a runtime, WebView, or an IDE. 
+
+Whether you are a professional developer, a student, or a hobbyist, JavaScript CodePad will help you practice and improve your coding skills anytime, anywhere.
+
+Built in tsc compiler transpiles your TypeScript code to JavaScript offline.
+
+Use the WebView mode to access the built-in Web Browser Window and DOM interface. Combine HTML, CSS, and JavaScript and learn building Web apps. 
+
+Organise your code into modules and run multiple JS files using Node.js as a runtime (Internet connection required).
+
+You can run, execute, and evaluate JS code and programs from this app.
+Lightweight app with full JavaScript syntax highlighting, code completion and editor actions like undo, redo, comment lines, and indent selection to enhance your developer productivity.
+
+Enhanced productivity with live JS and TS code analysis as you type. Catch errors before you run the code.
+
+Built-in AI Assistant, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can also refactor your code, clean it up, check it for bugs, write comments and documentation strings or just explain it.
+
+Blazing fast, all single script and Web View code is ran directly on the embedded node.js runtime or built in Web browser.
+
+Enhance your programming and JavaScript skills by solving built-in coding problems.
+Learn JavaScript with the MDN tutorial. Become a JavaScript coding master.
+Learn TypeScript with the official TypeScript handbook.
+
+Test your JavaScript and TypeScript knowledge, the app will tell you if you are writing valid JavaScript.
+
+With JavaScript CodePad, you can:
+
+- Write and execute JavaScript code with syntax highlighting and auto-indentation.
+- Run and compile TypeScript code and scripts
+- Test and debug your code with the built-in console and error messages.
+- Share and load your code snippets for later use
+- Customised keyboard with special keys and shortcuts for JavaScript and TypeScript
+- Code completion
+- Code formatting
+- Code linting
+- Solve built-in coding challenges
+- Access JavaScript and TypeScript tutorial and library reference from the app
+- Learn new concepts and techniques
+- Write HTML, CSS and JS code and run it in a built-in WebView
+- Run multiple JS files 
+
+Download it today and unleash your creativity with the most popular programming language in the world.
+
+Note that certain features like Code completion, WebView mode and project mode require paid Developer upgrade.",2022-11-09T08:00:00Z,2025-10-07T10:04:25Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,22,6476067271,SQL Database Manager DB Client,Cloudbit d.o.o.,https://apps.apple.com/tz/app/sql-database-manager-db-client/id6476067271?uo=4,0.0,5,1,Developer Tools,"SQL CodePad: The Ultimate SQL Editor and Database Client
+
+Do you want to learn, practice, and master SQL? 
+Do you need a powerful, easy-to-use tool to run and edit SQL queries? Do you want to connect to multiple databases and manage your data with a few taps?
+
+If you answered yes to any of these questions, then SQL CodePad is the app for you!
+
+SQL CodePad is a SQL code editor and database client for mobile devices. It allows you to connect to MySQL, Postgres, and SQLite databases, and perform various operations on your data. You can create, modify, and delete tables, views, indexes, and triggers and export your data in JSON or CSV format.
+
+SQL CodePad also helps you write and execute SQL queries with ease. It features code completion, code snippets, syntax highlighting, and error checking. You can run multiple queries at once, and view the results in a table.
+
+SQL CodePad is not only a tool, but also a learning resource. You can practice your SQL skills with the built-in database.
+
+SQL CodePad is the ultimate SQL editor and database client for anyone who wants to learn, practice, and master SQL. Whether you are a beginner, a student, a developer, a data analyst, or a data scientist, SQL CodePad will help you unleash the power of SQL on your mobile device.
+
+Download SQL CodePad today and start your SQL journey!
+
+Note that some features like MySQL and Postgres connections are available only with the Developer upgrade.",2024-01-19T08:00:00Z,2025-07-29T03:17:39Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,23,1577859348,iBetaObserver,Mohammad Alhasson,https://apps.apple.com/tz/app/ibetaobserver/id1577859348?uo=4,0.0,5,1,Developer Tools,"Stay up-to-date with the latest updates and development tools for beta official versions (iOS, iPadOS, watchOS, tvOS, macOS and Xcode)",2021-08-21T07:00:00Z,2025-10-06T22:41:05Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,24,6480457133,Apk Flight,Abuzer Firdousi,https://apps.apple.com/tz/app/apk-flight/id6480457133?uo=4,0.0,0,0,Developer Tools,"Be the first to try new features, find unreleased apps, and help shape the future of your favorite apps for bebugging, early access, unreleased apps.
+
+APK FLIGHT is an online service for installation and try out  mobile applications in 3 easy steps.
+
+1. Login or create an account
+2. Select an app you want to debug from a list of apps shared with you
+3. Download any build and debug it
+
+Discover and download unreleased apps before they hit the App store
+Get early access to exclusive features and content.
+Share your feedback with developers and make a difference.
+With APKFlight, you can be among the first to try out the latest and greatest apps. Join the community of beta testers today!",2024-06-07T07:00:00Z,2024-06-07T16:47:05Z
+tz,"Tanzania, United Republic of",Developer Tools,6026,25,6746666386,HTML Viewer: View Source,Utsav Mangla,https://apps.apple.com/tz/app/html-viewer-view-source/id6746666386?uo=4,0.0,0,0,Developer Tools,"Inspect Website Source Code, Syntax Highlighting & More – Ad-Free with ""HTML Viewer: View Source"".
+
+""HTML Viewer: View Source"" is the perfect tool for developers, students, and curious minds who want to view, inspect, and analyze HTML code on the go — with no ads, ever.
+
+Key Features:
+► View Source Code Instantly: Load and inspect the HTML source of any website.
+► Inspect Elements: Tap into any part of the page to reveal the underlying HTML – just like browser dev tools.
+► Open Local or iCloud HTML Files: Easily access saved HTML files from your device or iCloud Drive.
+► Multiple Tabs Support: Work on multiple files or websites at once – perfect for multitaskers.
+► Syntax Highlighting: Enjoy beautifully formatted code that’s easy to read and navigate.
+► Search & Copy Code: Find what you need in a flash and copy snippets effortlessly.
+
+Whether you're debugging, learning HTML, or just curious how a webpage works, HTML Viewer: View Source delivers a smooth, professional experience — all ad-free.
+
+I love feedback! Get in touch with me at support@umango.in.
+
+Check out our privacy policy at https://sites.google.com/view/html-inspector/privacy-policy and our terms of use at https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2025-06-03T07:00:00Z,2025-07-08T06:26:18Z

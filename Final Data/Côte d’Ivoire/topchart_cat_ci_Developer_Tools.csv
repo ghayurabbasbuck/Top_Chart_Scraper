@@ -1,0 +1,477 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ci,Côte d'Ivoire,Developer Tools,6026,1,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/ci/app/apple-developer/id640199958?uo=4,0.0,3.38095,21,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2020-04-13T07:00:00Z,2025-09-02T17:00:48Z
+ci,Côte d'Ivoire,Developer Tools,6026,2,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/ci/app/testflight/id899247664?uo=4,0.0,4.48174,1013,Developer Tools,"TestFlight permet de tester facilement des apps ainsi que des extraits d’app en version bêta, pour fournir de précieuses évaluations aux développeurs avant la publication de leurs apps dans l’App Store. Les développeurs invitent les testeurs par e-mail ou via un lien public.
+
+Lorsque vous testez une app ou un extrait d’app en version bêta, Apple recueille et envoie au développeur les historiques de pannes, les données d’utilisation ainsi que toutes les évaluations que vous envoyez. Le développeur peut utiliser ces informations pour améliorer son app et les produits associés. Apple peut utiliser les historiques de pannes et les données d’utilisation afin d’améliorer ses produits et services.
+
+Pour obtenir des instructions sur l’installation, le test et l’envoi d’évaluations, ainsi que des détails concernant la façon dont vos données sont traitées, rendez-vous sur testflight.apple.com.",2020-04-13T07:00:00Z,2025-10-07T14:12:50Z
+ci,Côte d'Ivoire,Developer Tools,6026,3,6657984482,PIA S5 Control,MARS BROTHERS LIMITED,https://apps.apple.com/ci/app/pia-s5-control/id6657984482?uo=4,0.0,0,0,Developer Tools,"Group Control APP is a free group control app software for iOS launched by PIA S5 Proxy. It can batch control hundreds of iOS mobile devices through PIA S5 Proxy computer application, and realize the simultaneous operation of hundreds of devices. PIA S5 Proxy  Group Control APP is provided free of charge, without additional charge, and does not require the same network environment. It is suitable for e-commerce marketing, games, traffic acquisition, live broadcast and other scenarios, quickly access the Internet, and enhance your online privacy.
+
+√ Free to use
+√ No restrictions on the same network environment and the number of devices
+√ Support for use on real devices and simulators
+√ Simple operation, one computer can manage all mobile devices
+
+[Main features]
+Centralized management: Free batch management of iOS devices, unified configuration and control, and simplified management process.
+Security guarantee: Advanced encryption technology can ensure data transmission security.
+Device support: Support for use on real devices and simulators, one computer can manage all iOS devices.
+Real-time monitoring: Provide real-time device status monitoring to help enterprises and individuals grasp the operation status in time and optimize resource allocation.
+Flexible configuration: No restrictions on the same network environment and the number of devices.
+User-friendly: Simple and intuitive interface design, easy to use.
+
+[How to start using PIA S5 Proxy  Group Control APP]
+Step 1: Install  Group Control APP and log in to the same account on mobile devices and computers
+Step 2: Select the proxy or filter you want to use and save
+Step 3: Click Connect on your mobile device to start using the proxy
+That's it! You can now browse the Internet with unified configuration and control of multiple mobile devices.
+
+PS. If you have feature requests for PIA S5 Proxy  Group Control APP or want to report a bug, please contact us at support@piaproxy.com.",2024-08-28T07:00:00Z,2025-08-27T07:24:05Z
+ci,Côte d'Ivoire,Developer Tools,6026,4,6444399635,Python Code Interpreter Dev,Cloudbit d.o.o.,https://apps.apple.com/ci/app/python-code-interpreter-dev/id6444399635?uo=4,0.0,4.16667,30,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+ci,Côte d'Ivoire,Developer Tools,6026,5,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/ci/app/expo-go/id982107779?uo=4,0.0,4.675,40,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2020-04-18T07:00:00Z,2025-09-23T17:56:55Z
+ci,Côte d'Ivoire,Developer Tools,6026,6,1477376905,GitHub,GitHub,https://apps.apple.com/ci/app/github/id1477376905?uo=4,0.0,4.75,12,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-04-12T07:00:00Z,2025-11-18T20:36:27Z
+ci,Côte d'Ivoire,Developer Tools,6026,7,1436650069,Pyto IDE,Develobile S.p.A.,https://apps.apple.com/ci/app/pyto-ide/id1436650069?uo=4,0.0,5,2,Developer Tools,"Pyto est un IDE pour iPhone et iPad avec un interpréteur Python 3.10 et toutes les bibliothèques standard et plus de 100 packages tiers, ainsi qu'un compilateur C & C++ et un interpréteur de bitcode. Comprend un terminal avec des commandes UNIX standard, un éditeur de code avec complétion de code, prise en charge de Raccourcis, Image dans Image, un générateur d'interface graphique et un débogueur.
+
+* Modules tiers exclusifs en version complète *
+
+- Cython, cryptographie, typed_ast, cv2, _cffi_backend, kiwisolver, matplotlib, numpy, pandas, lxml, Bio, sklearn, skimage, scipy, erfa, pywt, nacl, bcrypt, statsmodels, zmq, regex, gensim, astropy, emd, wasm3 , yaml
+
+* Commandes UNIX intégrées *
+
+- alias, awk, cat, chflags, chmod, cksum, clang, compress, cp, curl, date, diff, dig, du, egrep, env, fgrep, find, grep, gunzip, gzip, head, host, ifconfig, link, lli, llvm-link, ln, ls, md5, mkdir, mv, nc, nslookup, open, openurl, pbcopy, pbpaste, ping, printenv, pwd, readlink, rlogin, rm, rmdir, say, scp, sed, sftp, sort, ssh, ssh-keygen, stat, sum, tail, tar, tee, telnet, touch, tr, unalias, uname, uncompress, uniq, unlink, uptime, wc, whoami, whois, wol
+
+Profitez des fonctionnalités du système avec les modules suivants:
+
+ - pyto_ui - Construire une interface utilisateur
+ - widgets - Widgets de l'écran d'accueil
+ - file_system - système de fichiers iOS
+ - notifications - Planifier des notifications
+ - remote_notifications - Recevoir des notifications à distance
+ - background- Exécuter le code en arrière-plan
+ - pasteboard- Accès au Presse-papiers
+ - userkeys - Enregistrer les valeurs sur le disque
+ - sound - Jouer des sons
+ - music - Accédez à la bibliothèque Apple Music
+ - photos - Accéder aux photos et à l'appareil photo
+ - location - Accéder à l'emplacement de l'utilisateur
+ - motion - Capteurs de mouvement
+ - multipeer - Connexion sans fil peer to peer
+ - applications - Ouvrez des applications tierces
+ - xcallback - Interagissez avec d'autres applications
+ - sf_symbols - Une liste de noms de symboles SF
+ - watch - Complications et interfaces utilisateur statiques pour l'Apple Watch",2020-04-10T07:00:00Z,2024-06-09T14:11:52Z
+ci,Côte d'Ivoire,Developer Tools,6026,8,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/ci/app/termux/id6738933789?uo=4,0.0,4.33333,3,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+ci,Côte d'Ivoire,Developer Tools,6026,9,1581290510,Code Editor -  Éditeur de code,Rhythm Software,https://apps.apple.com/ci/app/code-editor-%C3%A9diteur-de-code/id1581290510?uo=4,0.0,0,0,Developer Tools,"Code Editor est un éditeur de texte optimisé axé sur le codage. Il s'agit d'un outil pratique pour le développement sur iOS. Il comprend les fonctionnalités nécessaires au codage, notamment la coloration syntaxique, l'indentation automatique, l'assistance code, la complétion automatique, etc.
+
+Fonctionnalités:
+
+- Coloration syntaxique pour plus de 110 langues.
+- Assistance code, pliage et complétion automatique.
+- Naviguer facilement entre plusieurs onglets.
+- Annuler et rétablir les modifications sans limite.
+- Rechercher et remplacer par des expressions régulières.
+- Afficher ou occulter les numéros des lignes.
+- Mettre en relief les parenthèses correspondantes
+- Indentation et désindentation automatiques.
+- Affiche les caractères invisibles.
+- Ouvrir des fichiers à partir de collections de fichiers récemment ouvertes ou ajoutées
+- Accéder aux fichiers depuis FTP, et WebDAV.
+- Accéder aux fichiers depuis Google Drive, Dropbox et OneDrive.
+- Prise en charge du clavier physique, notamment les combinaisons de touches.
+- 2 thèmes d'application et plus de 30 thèmes de coloration syntaxique.",2022-04-03T07:00:00Z,2025-11-14T16:48:28Z
+ci,Côte d'Ivoire,Developer Tools,6026,10,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/ci/app/python-editor-app/id1672453872?uo=4,0.0,4.39583,48,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+ci,Côte d'Ivoire,Developer Tools,6026,11,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/ci/app/o-kam-pro/id1602054864?uo=4,0.0,4.9,10,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+ci,Côte d'Ivoire,Developer Tools,6026,12,6747937898,CodeArt - Processinng IDE,"TidalAurum, LLC",https://apps.apple.com/ci/app/codeart-processinng-ide/id6747937898?uo=4,0.0,0,0,Developer Tools,"Transform mathematical formulas into mesmerizing animated art with Cødeart – the ultimate creative coding playground.
+CREATE BEAUTIFUL ART THROUGH CODE
+Turn simple mathematical expressions into stunning visual masterpieces. Watch your formulas come alive with fluid animations, vibrant colors, and hypnotic patterns that dance across your screen.
+PERFECT FOR EVERYONE
+
+Beginners: Start with our guided tutorials and built-in templates
+Students: Learn math concepts through visual, interactive art
+Artists: Explore algorithmic creativity and generative design
+Developers: Experiment with p5.js and creative coding techniques
+
+KEY FEATURES
+
+Live Formula Editor: Write code and see results instantly
+50+ Premium Templates: Professional-quality starting points
+Step-by-Step Tutorials: Learn creative coding from scratch
+Performance Monitor: Optimize your animations in real-time
+Save & Share: Capture screenshots and build your gallery
+Beginner-Friendly: No prior coding experience required
+
+WHAT YOU CAN CREATE
+
+Flowing geometric patterns
+Fractal art and spirals
+Particle systems and simulations
+Abstract mathematical visualizations
+Animated mandalas and kaleidoscopes
+Interactive generative art
+
+EDUCATIONAL BENEFITS
+Perfect for STEM education, creative coding courses, and anyone curious about the intersection of mathematics and art. Understand sine waves, algorithms, and mathematical concepts through beautiful visual feedback.
+POWERED BY P5.JS
+Built on the popular p5.js creative coding library, ensuring professional-quality graphics and smooth 60fps animations on your mobile device.
+Download Cødeart today and discover the magic where mathematics meets art.",2025-09-10T07:00:00Z,2025-10-08T22:42:36Z
+ci,Côte d'Ivoire,Developer Tools,6026,13,1614022293,"Replit: Idea to software, fast","Replit, Inc",https://apps.apple.com/ci/app/replit-idea-to-software-fast/id1614022293?uo=4,0.0,4.33333,3,Developer Tools,"Replit est le meilleur moyen de coder et d'expédier de vrais projets, des applications, des jeux et bien plus encore directement depuis votre téléphone. Avec Replit, vous pouvez coder n'importe quoi, n'importe où. Nous prenons en charge des centaines de langages de programmation et de structures sans aucune configuration. 
+
+Voici ce que vous pouvez faire avec l'application Replit :
+• Héberger instantanément n'importe quoi avec un déploiement sans configuration
+• Coder en direct avec d'autres grâce à une collaboration multijoueur en temps réel
+• Coder dans n'importe quel langage et n'importe quel framework/structure
+• Cloner et remixer les projets de plus de 15 millions de créateurs de logiciels
+• Configurer des domaines personnalisés pour n'importe lequel de vos projets
+• Utiliser replAuth pour configurer facilement la connexion des utilisateurs de votre projet
+• Utiliser ReplDB pour créer rapidement des bases de données pour n'importe quel projet
+
+Replit est parfait pour vous, que vous débutiez dans le codage ou que vous expédiez des projets depuis des années. Si vous êtes débutant, nous disposons de modèles faciles à utiliser pour vous permettre d'apprendre à coder votre premier projet de rêve. Si vous êtes un expert, Replit dispose de fonctionnalités avancées qui vous permettent d'expédier des projets réels et significatifs depuis votre téléphone.
+
+Où que vous soyez dans votre parcours de codage, vous aurez du mal à trouver un langage que Replit ne prend pas en charge. Ceux-ci incluent des langages de programmation populaires comme python, javascript, HTML et CSS, C++, C, java et bien d'autres. 
+
+Avec Replit, vous pouvez rapidement coder et collaborer avec d'autres. Invitez des amis à coder en direct sur un projet ensemble ou clonez les projets d'autres personnes pour remixer leurs idées comme les vôtres. Avec des millions de modèles et de projets, vous aurez le choix entre de très nombreuses options. 
+
+Une fois que vous avez codé un projet ou une application, il sera instantanément mis en ligne avec des URL personnalisées afin que vous puissiez le partager avec vos amis. L'hébergement sur Replit est intégré et entièrement gratuit. Avec zéro configuration et des domaines personnalisés, partager votre travail avec n'importe qui n'importe où est facile.
+
+Avec Replit, vous pouvez passer de l'écriture de votre première ligne de code à la création et au partage de projets avec le monde entier depuis votre téléphone portable. Nous sommes ravis de voir ce que vous construisez. 
+
+Conditions d'utilisation: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+ci,Côte d'Ivoire,Developer Tools,6026,14,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/ci/app/koder-code-editor/id1447489375?uo=4,0.0,4.34375,32,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2020-04-15T07:00:00Z,2022-04-19T17:39:08Z
+ci,Côte d'Ivoire,Developer Tools,6026,15,1442620678,Surge 5,Surge Networks Inc.,https://apps.apple.com/ci/app/surge-5/id1442620678?uo=4,0.0,0,0,Developer Tools,"Surge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.
+
+These four capabilities form the core workflow of Surge:
+· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.
+· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript, and many other methods.
+· Forwarding: You can forward the taken over network requests to other proxy servers. This can be global forwarding or with a flexible rule system to determine an outbound policy.
+· Intercept: You can intercept and save specific data of network requests and responses, and you can also decrypt HTTPS traffic with MITM.
+
+Highlighted Features
+· Takeover all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to an HTTP/HTTPS/SOCKS5/SOCKS5-TLS/SSH proxy server following highly configurable rules.
+· Used as a WireGuard Client to convert the L3 VPN as a proxy.
+· Record and display HTTP requests and responses sent from your iOS devices, including body and header.
+· Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and GeoIP lookup.
+· Measure traffic usage and network speed on WiFi, cellular, and proxy connections.
+· High performance and suitable for intensive use.
+· Block ads by domain rules.
+· Local DNS Map (equivalent to /etc/hosts). You can use this function to switch the production/development environment for your app without changing any code.
+· All features work on the cellular network.
+· Decrypt HTTPS traffic with Man-in-the-Middle.
+· Perform URL rewrite.
+· Fully IPv6 supports.
+· Header rewrite.
+· Raw L3 packets capture.
+· Safari extension to add rules.
+· JSON, text, image and video viewer for the captured body.
+· Album mode for the request list.
+· Pre-filter for capturing.
+· HTTPS proxy protocol supports client-side SSL/TLS certificate validation.
+· Scripting: Use JavaScript to extend the ability of Surge as your wish.
+· Sync profiles cross devices with iCloud Drive or Dropbox.
+· DNS-over-HTTPS, DNS-over-HTTP3, DNS-over-QUIC, TLS 1.3 and more advanced features.
+
+You may read the online manual for more information: http://manual.nssurge.com/
+
+Terms and Conditions: https://nssurge.com/legal/terms
+Privacy Policy: https://nssurge.com/legal/privacy",2020-04-10T07:00:00Z,2025-10-24T05:50:33Z
+ci,Côte d'Ivoire,Developer Tools,6026,16,6746334920,Watiye : négociez vos courses,Dritan Cela,https://apps.apple.com/ci/app/watiye-n%C3%A9gociez-vos-courses/id6746334920?uo=4,0.0,0,0,Developer Tools,"Simplifiez vos déplacements avec Watiye, l'application VTC pensée pour vous !
+
+Watiye est la solution idéale pour vos déplacements en Côte d'Ivoire. Avec une interface simple et conviviale, elle permet de commander un taxi en quelques clics. Que ce soit pour vos trajets du quotidien ou des livraisons de colis, Watiye est là pour vous accompagner en toute simplicité.  
+
+Pourquoi choisir Watiye ?  
+
+- Facilité d'utilisation :* Une application intuitive et rapide à prendre en main. Commandez votre course ou livraison en quelques secondes !  
+- Rapidité :* Trouvez un chauffeur disponible près de chez vous en un rien de temps. Plus besoin d’attendre indéfiniment !  
+- Fiabilité :* Nos chauffeurs partenaires sont sélectionnés avec soin pour garantir votre sécurité et un service de qualité.  
+- Abordabilité :* Déplacez-vous sans vous ruiner ! Avec Watiye, profitez des tarifs compétitifs pour tous vos trajets.  
+- Flexibilité :* Besoin de livrer un colis ou de planifier un trajet ? Watiye s'adapte à tous vos besoins.  
+
+Fonctionnalités clés :  
+- Commandez un taxi ou programmez une course selon votre emploi du temps.  
+- Suivez en temps réel l’arrivée de votre chauffeur directement sur la carte.  
+- Paiement simplifié : payez en espèces ou par les moyens intégrés à l’application.  
+- Service client dédié pour répondre à toutes vos questions et résoudre vos préoccupations.  
+- Historique détaillé de vos trajets pour un meilleur suivi.  
+
+Comment ça marche ?  
+1. Téléchargez Watiye sur votre smartphone.  
+2. Inscrivez-vous en quelques étapes simples.  
+3. Entrez votre destination et laissez l’application trouver le chauffeur le plus proche.  
+4. Confirmez, suivez votre course et arrivez à destination rapidement.  
+
+Avec Watiye, dites adieu au stress des déplacements coûteux et compliqués. Découvrez une nouvelle façon de voyager, fiable et économique, adaptée à votre style de vie.  
+
+Téléchargez Watiye dès maintenant et rejoignez des milliers d’utilisateurs satisfaits !",2025-05-26T07:00:00Z,2025-05-26T11:33:37Z
+ci,Côte d'Ivoire,Developer Tools,6026,17,1508712998,Spectre VPN,Passion Only Pty Ltd,https://apps.apple.com/ci/app/spectre-vpn/id1508712998?uo=4,0.0,0,0,Developer Tools,"* The best way to connect
+Supports Shadowsocks and Trojan protocol, the lightweight, efficient yet powerful proxy applications.
+
+* Protect your privacy
+Multiple strong encryption methods that ensures your internet data will never be seen by third-party.
+
+* Simple and free
+Intuitive design makes life easier.
+Last but not least, it's free!",2020-11-16T08:00:00Z,2023-09-26T04:44:25Z
+ci,Côte d'Ivoire,Developer Tools,6026,18,1216002642,Brook.app,"TxThinking, Inc.",https://apps.apple.com/ci/app/brook-app/id1216002642?uo=4,0.0,0,0,Developer Tools,"Brook
+
+- Brook is a cross-platform network tool
+- Brook is client-server software, you need to deploy the server: https://github.com/txthinking/brook
+
+Brook Plus
+
+- Brook Plus is a paid option that allows paying users access to more generous features, allowing us to continue to sustain the continuity of this project.
+- The period of subscription is an about $29.99/year.
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- You can manage subscription in App Store Setting.
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+Standard Apple Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Terms of Service: https://www.txthinking.com/terms.html
+Privacy Policy: https://www.txthinking.com/privacy.html
+
+About Brook Plus
+
+- Even with the free version of Brook, normal use is possible
+- Brook Plus is a paid option that allows paying users access to more generous features, allowing us to continue to sustain the continuity of this project",2020-04-17T07:00:00Z,2025-08-01T02:19:17Z
+ci,Côte d'Ivoire,Developer Tools,6026,19,1519423539,nRF Connect Device Manager,Nordic Semiconductor ASA,https://apps.apple.com/ci/app/nrf-connect-device-manager/id1519423539?uo=4,0.0,0,0,Developer Tools,"nRF Connect Device Manager is a generic tool for updating and managing devices running nRF Connect SDK supporting Device Manager module over Bluetooth LE (aka Management Subsystem, Mcu Manager, Bare Metal, SMP Server, SUIT).
+
+Features:
+* Basic: Echo, Reset
+* Firmware Update Over-The-Air (FOTA, DFU)
+* File System
+* Logs & stats
+
+Links:
+Source code: https://github.com/NordicSemiconductor/IOS-nRF-Connect-Device-Manager
+* nRF Connect SDK: https://www.nordicsemi.com/Software-and-tools/Software/nRF-Connect-SDK
+* SMP Server Sample Doc: https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/samples/subsys/mgmt/mcumgr/smp_svr/README.html#smp-svr-sample
+* McuManager: https://github.com/apache/mynewt-mcumgr
+* SMP over Bluetooth: https://github.com/apache/mynewt-mcumgr/blob/master/transport/smp-bluetooth.md",2020-08-03T07:00:00Z,2025-11-18T01:25:47Z
+ci,Côte d'Ivoire,Developer Tools,6026,20,6447305023,Code Block - Code sharing,young-ho ju,https://apps.apple.com/ci/app/code-block-code-sharing/id6447305023?uo=4,0.0,0,0,Developer Tools,"Convert your code to an image and share it easily.
+If you write code in a code block, it changes to a neat code image.
+
+[function]
+- Language automatic detection
+- Code highlighting
+- Image conversion function
+- Share function",2023-07-20T07:00:00Z,2023-10-31T18:34:46Z
+ci,Côte d'Ivoire,Developer Tools,6026,21,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/ci/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.53846,13,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+ci,Côte d'Ivoire,Developer Tools,6026,22,1580431405,HTML Editor,Intrepid Corporation LTD,https://apps.apple.com/ci/app/html-editor/id1580431405?uo=4,0.0,4.41378,29,Developer Tools,"HTML Editor is a lightweight HTML editor complete with syntax highlighting, focused code completion suggestions and a live preview panel.
+
+With HTML Editor, you can open any existing HTML document on your device or in your iCloud storage. Simply drop your existing HTML document onto our app icon to open that document within HTML Editor.
+
+Quickly insert tag elements via the menu, or comment out code dynamically with IntelliSense highlighted detection system.
+
+You can efficiently export your HTML document and share it with your teammates.
+
+HTML Editor comes with full iCloud and local support. HTML Editor is also available on iOS.
+
+We're always working on improving our apps and would love any feedback or suggestions that you may have.
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/57995653
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2021-08-10T07:00:00Z,2024-09-08T22:14:43Z
+ci,Côte d'Ivoire,Developer Tools,6026,23,1507309511,Spck Editor,Zeb Zhao,https://apps.apple.com/ci/app/spck-editor/id1507309511?uo=4,0.0,4,3,Developer Tools,"Explore fun JavaScript labs on-the-go with Spck Editor. A simple, yet feature-filled code editor that lets you access your projects from Github, Bitbucket, Gitlab, and more! With Spck Editor, you can edit, commit, checkout, push, and run simple JavaScript projects.
+
+This tiny editor is packed with useful features from powerful, intelligent code completion of HTML, JavaScript, and CSS. Other features include:
+
+- Local file access
+- Project-wide searching (with file filters)
+- Code snippets
+- Keyword completion to 20+ languages
+- Advance code completion for JavaScript/TypeScript & CSS
+- Context-sensitive hinting for JS/TS
+- Syntax Validation
+- Light/Dark Theme
+- Integrated JS Console
+- Git repo cloning, commits, checkout, push/pull
+- Git branches, logs, and remotes interfaces
+- Extra keyboard for code navigation
+- Dynamic keyboard for JS/HTML/CSS editing
+- AI Coding Assistants based on the latest models
+
+Terms of Use: https://spck.io/terms",2020-04-12T07:00:00Z,2025-10-11T11:06:54Z
+ci,Côte d'Ivoire,Developer Tools,6026,24,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/ci/app/app-store-connect/id1234793120?uo=4,0.0,4.875,8,Developer Tools,"Gérez vos apps lors de vos déplacements avec l’app App Store Connect pour iPhone et iPad.
+
+• Consultez l’état de vos apps et gérez les soumissions à l’App Store.
+• Gérez les groupes de testeurs, ajoutez de nouveaux builds et testeurs, consultez les évaluations sur les captures d’écran et les blocages.
+• Consultez les informations clés relatives aux ventes et aux tendances pour suivre les performances de vos apps.
+• Consultez les évaluations et avis récents de vos clients, et répondez-y.
+• Générez des ressources marketing afin de promouvoir les temps forts de vos apps, par exemple lorsqu’elles apparaissent à certains emplacements de l’App Store, ou lorsque vous soumettez le lancement d’une nouvelle app ou une nouvelle version.
+• Recevez des notifications à propos d’évènements clés, comme des modifications de l’état de vos apps, les nouveaux avis de vos clients, les évaluations des testeurs et les mises en avant à certains emplacements de l’App Store.",2020-04-13T07:00:00Z,2025-10-01T17:36:02Z
+ci,Côte d'Ivoire,Developer Tools,6026,25,1333539401,Expo & React Native components,Saravanakumar GN,https://apps.apple.com/ci/app/expo-react-native-components/id1333539401?uo=4,0.0,5,1,Developer Tools,"Expo and React Native UI Components & API
+
+Discover and explore UI components effortlessly with the Expo & React Native UI Components Explorer. Preview component functionalities and explore their features before implementing them in your projects. Simplify your development process by gaining insights into components without the need for customization.
+
+Note: To show the Demo of All React Native components & API this App requires Some Phone permissions.",2020-04-13T07:00:00Z,2024-08-18T21:35:34Z

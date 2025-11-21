@@ -1,0 +1,830 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ky,Cayman Islands,Health & Fitness,6013,1,457856023,薄荷健康-减肥健身轻断食,BOOHEE TECHNOLOGY,https://apps.apple.com/ky/app/%E8%96%84%E8%8D%B7%E5%81%A5%E5%BA%B7-%E5%87%8F%E8%82%A5%E5%81%A5%E8%BA%AB%E8%BD%BB%E6%96%AD%E9%A3%9F/id457856023?uo=4,0.0,0,0,Health & Fitness,"15年积累，科学减肥。热量计算、轻断食方案、健康记录。
+
+【为什么那么多人选择薄荷健康App】
+- 专注科学减肥方法，提供个性化减重服务
+基于减重场景提供个性化方案，热量计算、16:8轻断食等科学减肥法，助力身材管理
+- 管理减肥过程，高效助力减脂计划
+定制减肥方案、减脂食谱，记录体重、体脂、围度等多维数据变化，符合中国饮食习惯，健康高效管理
+- 海量食物数据库，热量营养素一查便知
+ 15年来不断完善的薄荷食物数据库，涵盖100万+条食物的热量及营养素数据，以中国食物为主，方便实用
+- 控制热量摄入，便捷记录、专业分析，高效管理
+三餐热量、运动消耗、身体数据随手记， HealthKit、智能手表绑定后可同步数据，记录更加便捷准确
+- 海量减肥成功故事，见证千万用户的改变
+来自薄荷用户真实减肥成功故事，分享减肥成功经验、健康生活方式，收获更好的自己
+- 减肥互动，减肥知识、减脂打卡、结伴减脂不孤单
+这里有理解你的减肥伙伴，温暖有力的鼓励，专业的减肥营养知识，有趣好玩的减脂挑战赛
+- 薄荷商店，健康饮食新消费平台
+适合身材管理、运动健身期的控卡全餐、零食速食、智能硬件，薄荷自有品牌，一站安心购买
+
+
+【免责声明】
+薄荷健康App所提供的健康方案仅供参考，用户若患有疾病、长期服药或其他可能会影响健康方案执行的，应当根据自身的健康状况自行评估，必要时需在医生或其他医务人员的指导下进行。薄荷健康提供的任何方案，均不能代替医生和其他医务人员的诊断和建议，薄荷健康也不会提供任何医疗诊断或医疗建议。
+薄荷健康App仅提供管理工具，体重管理的效果受多重因素影响，请理性看待和使用；薄荷健康App部分功能免费使用，部分功能仅限付费超级会员开通使用。
+
+【访问授权】
+薄荷健康App需要您授权访问以下权限，如果您没有授权相关权限，可能会影响部分功能使用。
+（蓝牙、相机、通讯录、位置、麦克风、运动、相册、健康分享、健康更新）
+
+【个人用户信息收集处理】
+薄荷健康App 包含的核心功能（健康评测、饮食分析、食谱推荐、社区、商城等）可能会收集、保存和使用下列与您有关的个人信息。如果您不同意薄荷健康app收集和使用您的相关信息，您可能将无法享受我们提供的相关产品或服务；
+
+具体个人信息收集请点击下方“用户协议、隐私政策”链接查看。
+
+【HealthKit】
+- 将三餐摘要添加到HealthKit。当您在薄荷记录每日饮食数据时，相应的饮食摘要数据将会同步到HealthKit中。
+- 与HealthKit中的体重数据同步。当您在薄荷记录体重数据时，此数据将会同步到HealthKit中；同样，当您的HealthKit中增加了来自其它数据源的体重数据时，此数据也会自动与你薄荷账户下的体重数据同步。
+- 与HealthKit中的运动数据同步。您可以将在薄荷记录的运动数据自动同步至HealthKit，同样，薄荷也可以获取来自HealthKit的运动数据。
+
+有关您的隐私和HealthKit数据的重要说明：
+由于您的健康和营养目标的隐私性非常重要，因此我们默认关闭了这些新工具。要启用HealthKit，请在薄荷应用中打开「我的薄荷」->「设置」页面，并点击「HealthKit分享」选项。然后，您需要向薄荷授予在出现的设置页面中读写基本营养和锻炼信息的权限。如查授予与HealthKit共享信息的权限，则可控制使用这些数据的应用程序。当然，您也可以随时更改薄荷与HealthKit共享或从HealthKit接收的信息。
+
+- 隐私政策：https://one.boohee.com/store/pages/boohee_privacy
+- 用户协议：https://one.boohee.com/store/pages/boohee_agreement
+
+【联系我们&意见反馈】
+官方微信：薄荷健康
+官方微博：@薄荷健康官方微博
+邮箱：brand@boohee.com",2011-08-30T03:15:36Z,2025-11-14T05:58:18Z
+ky,Cayman Islands,Health & Fitness,6013,2,1576209949,World Gym,"World Gym International, LLC",https://apps.apple.com/ky/app/world-gym/id1576209949?uo=4,0.0,0,0,Health & Fitness,"Elevate your fitness routine with the app! It's your all-in-one solution to easily monitor your workouts, track progress, and achieve your fitness goals with engaging insights and motivation.
+
+The app offers an array of features, including:
+
+Workout Tracking
+Seamlessly capture all your workout data from gym equipment or manually enter it for a complete record.
+
+Training Plans
+Optimize your workouts with personalized plans provided by your fitness facility or trainer.
+
+Activity Levels
+Stay motivated with encouraging milestones as you progress to higher levels.
+
+Fun Challenges
+Challenge yourself with time-based activities that reward you with kudos, activity points, and prizes.
+
+Schedules
+Manage and book classes with ease to keep yourself on track.
+
+And much more!
+
+The app integrates with HealthKit to help you save your workouts and contribute to your fitness goals and challenges.
+
+Have a comment or question about the app? Email our team directly at digitalsupport@egym.com.",2021-07-28T07:00:00Z,2025-08-10T12:40:26Z
+ky,Cayman Islands,Health & Fitness,6013,3,1587451906,MActivePro,"Shenzhen Horn Big Data Software Co.,Ltd",https://apps.apple.com/ky/app/mactivepro/id1587451906?uo=4,0.0,0,0,Health & Fitness,"The MActive Pro smart bracelet application, paired with a smart bracelet, can manage daily steps, sleep, reminder calls, SMS and other functions in your life, and provide relevant opinions and prompts, allowing technology to light up your life and protect your health.The MActive Pro smart bracelet application, paired with a smart bracelet, can manage daily steps, sleep, reminder calls, SMS and other functions in your life, and provide relevant opinions and prompts, allowing technology to light up your life and protect your health.
+MActive Pro The company's smart watch is not a medical device, so the Health data in the APP cannot be used as a medical diagnosis voucher. Users should seek the doctor's advice before using the application and making any medical decisions.The company's smart watch is not a medical device, so the Health data in the APP cannot be used as a medical diagnosis voucher. Users should seek the doctor's advice before using the application and making any medical decisions.
+
+1. The application can realize data, sleep, exercise records and various Health data. After the smart device Bluetooth connects to the APP, it can receive calls, SMS, app notification alerts, long sitting, drinking water alerts, app notifications, and women's health mode.1. The application can realize data, sleep, exercise records and various Health data. After the smart device Bluetooth connects to the APP, it can receive calls, SMS, app notification alerts, long sitting, drinking water alerts, app notifications, and women's health mode.
+
+2. This app is connected to Apple's health function to record data such as step count and heart rate health to Apple.2. This app is connected to Apple's health function to record data such as step count and heart rate health to Apple",2021-10-27T07:00:00Z,2025-11-12T02:40:39Z
+ky,Cayman Islands,Health & Fitness,6013,4,1526814298,MadMuscles: Workouts & Diet,Amoapps Limited,https://apps.apple.com/ky/app/madmuscles-workouts-diet/id1526814298?uo=4,0.0,4.15385,13,Health & Fitness,"MadMuscles is a fitness app designed to help people gain muscle, lose weight, look hot and feel incredible. We make workouts accessible, effective and joyful by creating personalized workout plans tailored to each user’s needs and desires. No more excuses. It’s time to get the mad muscles you’ve always wanted!   
+
+What makes MadMuscles effective?   
+
+• Static and dynamic workouts for the best results 
+Our workouts are designed for people with different fitness levels, lifestyles and goals: gain muscle, lose weight or get shredded. MadMuscles helps to work on different parts of the body – from stronger arms to toned legs, no muscle group is left behind. You can choose whether you want to workout at home or go to the gym – we’ve got you covered either way. 
+
+• More than just regular strength training
+We go way beyond classic workouts and keep things exciting. Introducing calisthenics and military workouts: push your limits and see if you’re up for the challenge. Or, if you prefer something more relaxed, try tai chi or chair yoga. Pick your new favorite workout, depending on your preferences and never get bored with the same routine.
+
+• Video tutorials 
+Don’t worry if you don’t know how to do a certain exercise – our high-quality professional video tutorials will show exactly how it’s done. 
+
+• Exercise swap 
+Don’t like the exercise in your workout plan? Swap it with the one you actually like. The app will choose an exercise for the same muscle group and of the same difficulty. 
+
+• Achievements 
+Get rewarded for your hard work. Achievements will make working out fun and will keep you motivated. 
+
+• Sync with Apple health 
+Sync MadMuscles with Apple health for better results. 
+
+• Useful and fun challenges 
+Make your body hot and your mind sharp. Develop healthy habits and discipline by trying our numerous challenges. You’ll never experience lack of motivation again – MadMuscles will not let you give up! 
+
+• Personalized meal plans 
+Nutrition is a key element in any body transformation process. Our meal plans are adjusted to your preferences and restrictions, with easy and quick recipes and a shopping list that will make cooking healthy and delicious meals easier. 
+
+Privacy policy: https://madmuscles.com/privacy-policy
+Terms of use: https://madmuscles.com/terms-of-service",2020-11-06T08:00:00Z,2025-11-18T22:38:57Z
+ky,Cayman Islands,Health & Fitness,6013,5,1297093746,GymMaster Member,Treshna Enterprises Ltd,https://apps.apple.com/ky/app/gymmaster-member/id1297093746?uo=4,0.0,0,0,Health & Fitness,"Now it’s easier than ever to plan your fitness sessions alongside your schedule. Book fitness classes and PT sessions on the go, keep your profile up to date and manage your memberships all within the GymMaster app
+ 
+VIEW CLASS TIMETABLE
+Easily view your gym's full timetable in real time. You can see who's running the class, whether the class is full and quickly secure your spot with the push of a button.
+ 
+MANAGE YOUR BOOKINGS
+As well as booking classes, you can easily schedule a session with your personal trainer. You can check in on future bookings and make any changes as needed.
+ 
+UPDATE YOUR PROFILE
+Keep your contact information up to date and choose your own profile photo.
+ 
+NOTIFICATIONS
+Receive push notifications from your gym to alert you of upcoming bookings and other club events. View a full history of these communications in app so you never forget an important message.
+ 
+
+
+Please note that your club must use GymMaster's club management software to be able to use this app.",2017-10-26T22:36:14Z,2025-11-18T19:56:52Z
+ky,Cayman Islands,Health & Fitness,6013,6,1264546236,BetterMe: Health Coaching,BetterMe Limited,https://apps.apple.com/ky/app/betterme-health-coaching/id1264546236?uo=4,0.0,4.51724,145,Health & Fitness,"Get workout and meal plans supported by human coaches, track your progress, and get bite-sized cognitive therapy tips to change your mindset.
+
+FIVE REASONS TO INSTALL BetterMe:
+
+1. Plan tailored to your goals
+
+Whether your aim is to lose weight, build muscle, or stay fit, we’ve got just the solution for you. Transform your body with a workout and meal plan that fits your busy schedule, preferences and lifestyle.
+
+2. Stay on top of your wellbeing
+
+From activity and calories to water intake and fasting, our trackers help you build new healthy habits. While in-depth stats over time help make them a part of your routine and show your progress!
+
+3. 1-on-1 coaching 
+
+Want to boost your results? Upgrade to 1-on-1 coaching to get support and daily check-ins from your personal coach. Stay accountable and on track to achieve lasting results with expert guidance every step of the way. Need to tweak your workout plan, get nutrition tips, or a dose of motivation? Just drop them a line—your coach has got your back!
+
+4. Challenges for every goal
+
+Push yourself with guided challenges in workouts, nutrition, and mindset. Whatever goal you have in mind, you'll get a structured plan that keeps you on track and delivers real results!
+
+5. Start with your mind 
+
+We believe that happiness starts from the inside out. Explore our chapters on nurturing a positive mindset. Just 10 minutes a day to rewire your negative thinking and set you up for success.
+
+6. Get a 360° view of your wellness
+
+Gain a better insight into your wellness journey with the BetterMe Fitness Tracker and Smart Scale. Monitor your sleep quality, daily steps, heart rate, and body composition to understand how your habits impact your overall well-being.
+
+BetterMe is your go-to app for various workout types, easy-to-follow meal plans, and useful tips! 
+
+Here’s how we help you succeed: 
+Workout Plan: Get ready to get in better shape with short and effective workouts.
+Delicious Meal Plans: Enjoy mouth-watering dishes chosen just for you! Our easy video recipes make cooking a breeze.
+Intuitive Calorie Tracker: Keep tabs on your daily calorie and macros intake.
+Personal Coach Feature: You’re never alone on this journey! You can upgrade to get professional guidance and support every step of the way.
+Water and Step Trackers: Stay on top of your daily goals and keep your hydration and activity levels in check!
+Workouts for Everyone: Whether you love yoga, running, or walking, we have over 4 000 workouts that fit your style and fitness level!
+
+BetterMe app is also integrated with the Apple Health app, so that you can track your steps inside the actual app as well as log your water and calorie intake. You can see your workout and meal schedule on the main screen and set workout notifications so that we can remind you to work out at a suitable time.
+
+We offer flexible subscription plans, so you can choose what suits you best. Please note that subscriptions automatically renew within 24 hours before the end of the free trial or the current subscription period. You can manage or cancel your subscription anytime through your Apple ID settings. If a free trial is available, any unused portion will be forfeited upon purchasing a subscription.
+ 
+Terms of Use - https://betterme.world/terms 
+Privacy Policy - https://betterme.world/privacy-policy 
+Subscription Terms - https://betterme.world/subscription-terms",2017-08-22T17:03:57Z,2025-11-20T12:25:17Z
+ky,Cayman Islands,Health & Fitness,6013,7,6478076952,Eato: AI Calorie Tracker,ENERJOY PTE. LTD.,https://apps.apple.com/ky/app/eato-ai-calorie-tracker/id6478076952?uo=4,0.0,4.75,12,Health & Fitness,"Eato® is a streamlined app for managing weight health through calorie tracking and meal planning, keeping you on the path to wellness.
+
+Here, Eato® takes you on a new path of weight loss and improves your body health with scientific and effective methods.
+ 
+FEATURES:
+· Lose Weight Planner: Select your plan, set your goals, and track your progress. With the simple tap of a button, you can start or conclude your journey. Our clear, user-friendly interface ensures you can monitor and navigate your path with ease.
+· Calorie Tracker: Get customized daily caloric intake recommendations based on your body's needs and your weight loss ambitions. Log food and meal calories through various methods, including search, barcode scanning, or AI image recognition, to stay on course with your dietary goals.
+· Weight Tracker - keep an eye on your progress and let us supply you with the best plan tailored to you. Developing the habit of recording your weight is crucial for scientific weight loss and maintaining optimal health.
+· Step Counter - Set your daily step goals, and we'll assist you in achieving and tracking them. Staying active has never been easier or more rewarding.
+· Recipe Recommend - Enjoy three square meals a day, helping you maintain a normal diet during your eating window while maximizing nutrient intake. Based on your eating habits, we craft a personalized meal plan just for you.
+ 
+Lose weight plans:
+There are plans for beginners and experienced people. You can customize your plan. No matter your stage, a plan should always match your goal.
+ 
+Lose weight recipes:
+Knowing what to eat is the gateway to success. Eato® designs customized meal plans for you. We are not aiming to restrict your diet but to give you a nutritional supplement for your everyday meals. Three meals a day, guide you through hunger and satisfy your body at most in the eating window.
+ 
+Why Eato®:
+- The Most User-Friendly Calorie Tracker
+- Personalize weight loss plan
+- Helping you manage your eating window
+- Telling you what exactly you should eat in each meal
+- Wise weight loss method
+- Friendly reminders keep you on track
+- A step-by-step plan guides you to a good habit
+- Guiding you to stay healthy and feel well
+
+ 
+Apple Health: Apple Health integration to track steps for daily active goals.
+ 
+Subscription Information: Eato® offers a 7-day trial subscription service for $79.99/year, granting unlimited access to VIP features during the subscription period. Your payment will be charged to your iTunes account upon confirmation of purchase after the 7-day trial. During the trial period, you can manage your subscription and cancel by going to your 'Account Settings'. After being charged, you may turn off auto-renewal by visiting the same section. Your subscription will automatically be renewed unless you turn off auto-renew at least 24 hours before the end of the current period. The renewal cost will be charged to your account 24 hours before the end of the current period. When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but they will not refund the current subscription. If offered, any unused portion of a free trial period will be forfeited when purchasing a subscription.
+ 
+Note: This app is developed for informational purposes only. You must always consult your physician or doctor before starting any fitness program. Results can vary.
+ 
+Terms of Use: https://enerjoy.life/terms-of-use
+Privacy policy: https://enerjoy.life/privacy-policy
+ 
+If you have any questions or suggestions, email us at: service_ios@support.eato.health",2024-03-28T07:00:00Z,2025-11-20T13:38:01Z
+ky,Cayman Islands,Health & Fitness,6013,8,426826309,"Strava: Run, Bike, Walk",Strava Inc.,https://apps.apple.com/ky/app/strava-run-bike-walk/id426826309?uo=4,0.0,4.91111,45,Health & Fitness,"Strava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:
+
+• Record everything – runs, rides, hikes, yoga and over 30 other sport types. Think of Strava as the home of your movement.
+
+• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.
+
+• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.
+
+• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.
+
+• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.
+
+• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.
+
+• Sync your favourite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).
+
+• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.
+
+• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.
+
+• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.
+
+Strava includes both a free version and a subscription version with premium features.
+Strava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.
+
+You can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.
+
+Terms of Service: https://www.strava.com/legal/terms
+Privacy Policy: https://www.strava.com/legal/privacy",2011-07-10T10:39:06Z,2025-11-19T21:16:00Z
+ky,Cayman Islands,Health & Fitness,6013,9,6746929680,CardiaLink-Heart rate&Health,"Hunan Anpai Information Technology Co., Ltd.",https://apps.apple.com/ky/app/cardialink-heart-rate-health/id6746929680?uo=4,0.0,4.66667,6,Health & Fitness,"CardiaLink – Heart Rate & Health
+Your Smart Companion for a Healthier Life
+
+Take control of your health like never before with CardiaLink — the all-in-one app designed to help you monitor, manage, and improve your well-being, right from your pocket.
+
+Why CardiaLink? Because your health deserves more than guesswork.
+
+-Real-Time Heart Rate Monitoring – Instantly check your heart rate and stay on top of your cardiovascular health anytime, anywhere.
+-Easy Blood Glucose Logging – Track your blood sugar levels daily and spot patterns that matter. Perfect for diabetes management or general health tracking.
+-Blood Pressure Insights – Record and review your blood pressure trends to better understand your body’s signals.
+-Smart BMI Tracking – Automatically calculate your Body Mass Index and follow your weight journey with clarity.- Insightful Health Trends – Get easy-to-read charts and reports that show how your health is evolving over time.
+
+-Tailored for You – Whether you're managing a chronic condition, aiming to lose weight, or just staying proactive, CardiaLink adapts to your goals.
+
+Join thousands of users choosing smarter health.
+Start your wellness journey with CardiaLink – because a healthier you starts today.
+
+Subscription:
+-Yearly: $39.99/year
+-Weekly: $9.99/week
+Payment will be charged to your iTunes account upon confirmation of purchase.
+
+Your subscription will automatically renew unless canceled at least 24 hours before the end of the current period. To cancel the subscription, please go to your Account Settings and turn off auto-renewal.
+
+Important Notes:
+The information provided in this app is for reference and personal health tracking purposes only. It is not intended to be used as a basis for medical diagnosis or treatment. If you experience any discomfort or health issues, please consult a qualified healthcare professional or visit a medical facility promptly.
+
+Privacy Policy:https://guardmasterfree.com/cardiaLink/privacy
+Terms of Service:https://guardmasterfree.com/cardiaLink/policy
+Subscription Terms:https://guardmasterfree.com/cardiaLink/subscription",2025-06-11T07:00:00Z,2025-10-22T07:40:54Z
+ky,Cayman Islands,Health & Fitness,6013,10,6739807377,Wellthly-Feel Heart Rhythm,JUSTDO PTE. LTD.,https://apps.apple.com/ky/app/wellthly-feel-heart-rhythm/id6739807377?uo=4,0.0,4.2,5,Health & Fitness,"Take Charge of Your Heart Health – Discover a Better You with Wellthly
+﻿
+Whether you’re aiming to maintain a healthy heart or actively managing specific health issues, Wellthly is your essential companion.  With real-time heart rate monitoring, personalized health insights, and nutrition recommendations, Wellthly helps you achieve your heart health goals.  Start today—because every heartbeat counts.
+
+Monitor Your Heart in Real-Time：
+Your heart’s health isn’t just a number—it’s every beat that adds up.   Wellthly gives you real-time insights into your heart rate, heart age, and HRV (Heart Rate Variability), so you can truly understand your heart's condition.  With each measurement, you'll get a ""health index"" that makes tracking your heart's status simple and clear.
+
+Step-by-Step Progress for Better Health：
+At Wellthly, every healthy action you take is tracked and celebrated.   From morning runs to dietary changes, every goal can be easily monitored.   Set personalized targets, and you'll see your progress daily—making each step toward heart health a rewarding journey.
+﻿
+Personalized Metrics Analysis：
+Wellthly analyzes your health data based on your age, gender, and other relevant factors.        Get customized guidance on your ideal heart health parameters and see how you compare to age-specific benchmarks.
+﻿
+Eat Well for Your Heart：
+Discover heart-healthy, blood pressure-friendly, and weight-loss-oriented meal suggestions.   Whether you're managing hypertension or just looking for nutritious meals to support a healthy heart, Wellthly offers easy-to-follow recipes that suit your needs.
+﻿
+Comprehensive Health Reports：
+Generate detailed health reports that can be saved to your phone or easily shared with your doctor, family, or friends.   Keep a record of your health journey and share insights for better health management.
+﻿
+Why Choose Wellthly?
+Precise Heart Rate & Health Data: Get accurate, real-time measurements to understand your heart's condition.
+Tailored Health Insights: Receive personalized analysis based on your unique health profile.
+Nutritional Guidance: Improve your heart health with healthy, easy-to-make recipes designed for cardiovascular benefits.
+Detailed Health Reports: Stay informed with monthly reports that track your heart health over time.
+Blood Pressure & Oxygen Monitoring: Comprehensive tracking of blood pressure and oxygen levels alongside heart rate data.
+
+Who Is This For?
+Whether you're just starting your heart health journey or are already managing your cardiovascular health, Wellthly is the perfect tool for anyone looking to improve their heart's well-being.With Wellthly, you can take control, understand your body better, and live a healthier life—one heartbeat at a time.
+
+Disclaimers
+This is an application for measuring heart rate, but it is not a medical device.Please do not make any medical decisions based on the results of this application.If you need medical advice, please contact your doctor.
+﻿
+Download Wellthly now and start your heart health journey today!
+
+About Subscription：
+You can unsubscribe at any time
+If you buy on an annual basis, your iTunes account will charge you a fee.Unless you disable automatic renewal, the renewal fee will be automatically charged to your account within 24 hours prior to the termination of the current subscription.After purchase, you can turn off automatic updates at any time through the ""Account Settings"" in the AppStore.
+
+Payment and Subscription Terms:
+Choose from the subscription options below for unlimited access to all features
+• Weekly subscription
+• Annual subscription
+
+*** Manage your subscriptions directly from your iPhone***
+Subscriptions can be managed by the user, and automatic renewals can be turned off by going to account Settings
+Open the Settings app
+Tap your name.
+Click to subscribe.
+- Tap the subscription you want to manage.
+Privacy policy: https://www.ipsupertool.com/Wellthly/Privacy
+Terms of use: https://www.ipsupertool.com/Wellthly/Terms",2025-01-02T08:00:00Z,2025-09-02T05:53:42Z
+ky,Cayman Islands,Health & Fitness,6013,11,971023427,Sweatcoin Walking Step Tracker,Sweatco Ltd,https://apps.apple.com/ky/app/sweatcoin-walking-step-tracker/id971023427?uo=4,0.0,4.82857,35,Health & Fitness,"Step up your fitness game with Sweatcoin! 
+
+Looking for a fun way to boost your fitness & get rewarded? Sweatcoin, the viral walking app, is here to transform your steps into real-world rewards! Earn Sweatcoins with every step you take and redeem them for exclusive gadgets, sports gear, and amazing experiences in our marketplace! 
+
+The more you walk, the more you earn! And the more you earn, the more you walk! 
+
+
+Discover the benefits:
+
+- Effortless step tracking: Sweatcoin’s pedometer runs smoothly in the background, tracking your steps accurately without draining your battery. It’s your perfect fitness companion, whether you’re walking, running, or working out at home.
+
+- Unlock rewards: Use your sweatcoins to access incredible offers and discounts that you won’t find anywhere else. Your fitness journey has never been so rewarding!
+
+- Get moving, get badges: Hit your daily step goals and collect unique badges for each milestone achieved.
+
+- Calling all streak masters: Compete with friends to see who can maintain the longest step streak. Fitness is more fun with a little friendly competition!
+
+
+Features
+
+Privacy first: We use a secure, proprietary algorithm to count your steps. Your location and personal data stay private—only you have access to your information.
+Pedometer: Accurate step tracking with minimal battery usage.
+Device compatibility: Available on iOS devices. Apple Watch users can also enjoy Sweatcoin.",2022-02-22T08:00:00Z,2025-11-21T02:01:50Z
+ky,Cayman Islands,Health & Fitness,6013,12,1064910141,Sleepzy - Sleep Cycle Tracker,Mosaic S.r.l.,https://apps.apple.com/ky/app/sleepzy-sleep-cycle-tracker/id1064910141?uo=4,0.0,4.2,5,Health & Fitness,"Sleepzy is a smart alarm clock that tracks your sleep patterns, wakes you up during the lightest sleep phase in a way that feels natural to get up, analyzes your sleep quality, and notifies you if you have a sleep debt. It's an essential app for everyone, whether you're a morning person or a night owl.
+
+IMPROVE YOUR AWAKENING:
+- Wake up rested at the optimal time - don't feel groggy anymore!
+- Sync with Apple Music to use your favorite tunes as an alarm - set your mood for the day
+
+TRACK & ANALYZE YOUR SLEEP:
+- Set your Sleep Goal and track Sleep Debt - stay motivated to get enough hours of sleep
+- Track your sleep patterns - focus on sleeping not only long enough but well enough
+- Know your Sleep Quality - make adjustments to your daily habits to get your quality % up
+- Get helpful weekly stats
+
+UNWIND YOUR MIND BEFORE SLEEP:
+- Fall asleep to relaxing sounds & classical melodies
+- Listen to Dream Radio: doze off to AI-generated music and hypnotic visuals
+
+GET HELPFUL INSIGHTS:
+- Receive daily personal sleep advice and explore worldwide sleep statistics with ""Insights""
+- Get Weather Forecast at your location in the morning to plan the day easily
+
+KEEP YOUR SLEEP DATA SYNCED & SECURED:
+- Sync your data with the Apple Health app 
+- Backup your sleep data and restore it whenever you need it
+
+
+Sleepzy + Apple Watch = More Fun
+Monitor your sleep with Apple Watch - the clear and easy-to-use interface will help you overview what was going on while you're asleep
+
+Go Premium to:
+- Dive deep into insights with advanced stats and track your progress over time 
+- Find out whether you snore
+- Listen to a wider variety of relaxing sounds & classical music
+- Use special breathing technics to calm your mind
+- Unlock all sleep insights
+- Get rid of ads
+
+Please note that movement and noise from pets or a partner may impact results.
+
+Start waking up stress-free at the best moment possible. Revolutionize your mornings!
+
+* Choose from different subscription options. Our standard subscription options are:
+1-month Subscription with 7-day free trial 
+3-month Subscription 
+1-year Subscription 
+
+* Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscription with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of the free trial period. The cancellation will take effect the day after the last day of the current subscription period and you will be downgraded to the free service.
+* Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.
+
+For complete access to all features, you will need to allow access to the following: 
+* Microphone – so the app can analyze your sleep and record your night sounds.  
+* Notifications – so the alarm will ring. 
+* Media Library Access – so you can set your own music as an alarm sound.
+* Health App – so you can export your data to Apple Health.  
+* Location – so you can receive the weather forecast for your area.
+
+Privacy Policy: http://www.thriveport.com/privacypolicy/
+EULA: http://www.thriveport.com/eula/
+AdChoices: https://www.thriveport.com/privacypolicy/#i",2016-01-11T09:20:00Z,2025-04-15T07:36:39Z
+ky,Cayman Islands,Health & Fitness,6013,13,6740115351,Health Log: AI BP Tracker,NetInnovate (HK) Limited,https://apps.apple.com/ky/app/health-log-ai-bp-tracker/id6740115351?uo=4,0.0,0,0,Health & Fitness,"Take Control of Your Health with Health Care!
+Your health matters and we make it simple to track and understand it. 
+Comprehensive Health Tracking
+- Log & Monitor: Easily record blood pressure (BP), blood sugar (glucose), and heart rate.
+- Visual Trends: Interactive charts help you analyze changes and spot patterns.
+- Detailed Records: Access and compare historical data to understand your progress.
+- Instant Insights: Get feedback on whether readings are normal, high, or low—plus tips for better health.
+Smart Health Checks
+- Heart & Respiratory Rate: Use your phone’s camera to measure heart rate, breathing rate, stress, energy levels, and even heart age—no extra devices needed.
+- Anytime, Anywhere: Perform quick health checks wherever you are.
+Data Insights & Progress Tracking
+- Track Progress: Review past records with clear, interactive graphs.
+- Early Detection: Spot sudden changes in BP, glucose, or heart rate in real time.
+- Health Patterns: Get long-term insights to guide lifestyle adjustments.
+Seamless Apple Health & Watch Sync
+Sync Resting Heart Rate, Walking Heart Rate, and HRV from Apple Health and Apple Watch for smarter analysis and deeper health insights.
+Why Choose Health Care?
+- Simple & intuitive logging for BP, HR, and blood glucose.
+- Heart & breathing checks using only your phone.
+- Easy-to-read reports for early detection of irregularities.
+- Secure data storage—your health data stays safe.
+Take charge of your health today!
+Download now and start tracking your vital signs effortlessly.
+Privacy Policy: https://health-care-ios-aed20.web.app/policy.html
+Terms of Service: https://health-care-ios-aed20.web.app/term.html
+Disclaimer: This app is for informational purposes only and does not replace professional medical advice. Always consult a healthcare provider for medical guidance.",2025-01-15T08:00:00Z,2025-10-28T13:02:35Z
+ky,Cayman Islands,Health & Fitness,6013,14,6736971742,Health Partner: Pulse & Sugar,"Shanghai Kenige Trade Co., Ltd.",https://apps.apple.com/ky/app/health-partner-pulse-sugar/id6736971742?uo=4,0.0,0,0,Health & Fitness,"Health Partner: Pulse & Sugar – Your Ultimate Health Tracker
+Take charge of your heart health, blood sugar, and blood pressure levels with Health Partner: Pulse & Sugar – the all-in-one health monitoring app designed to give you real-time insights into your well-being. 
+
+Track Your Vital Health Metrics with Ease
+Heart Rate & HRV Monitoring – Accurately measure your heart rate (BPM) and heart rate variability (HRV) to assess cardiovascular health, fitness levels, and recovery.
+Blood Sugar & Blood Pressure Tracking – Log and analyze your glucose levels and BP readings to detect trends and maintain optimal health.
+Stress & Energy Levels – Understand how your stress and energy fluctuate throughout the day with AI-powered insights.
+
+Personalized Health Insights
+Blood Pressure & Blood Sugar Trends – Identify patterns in your glucose and BP levels for better diabetes and hypertension management.
+Heart Rate Variability (HRV) Analysis – Understand autonomic nervous system activity to optimize recovery, fitness, and sleep.
+Stress & Energy Monitoring – Learn how lifestyle factors affect your daily stress levels and energy balance.
+Daily, Weekly & Monthly Reports – Gain deep insights into your health progress with detailed reports and trend analysis.
+
+Apple Health Sync
+Effortlessly sync your Resting Heart Rate, Walking Heart Rate, and Blood Oxygen (SpO₂) data from Apple Health. Stay on top of your vital signs with seamless integration and smarter health tracking—all in one place.
+
+Advanced Health Insights Powered by AI
+Ask Anything About Your Health – Get instant, reliable guidance on wellness, lifestyle, and healthy habits.
+Stay on Track – Receive proactive insights to help you build healthier routines.
+
+Designed for a Healthier Lifestyle
+Nutrition & Heart-Friendly Recipes – Explore health tips and meal plans tailored for blood pressure and diabetes management.
+Fitness & Wellness Guidance – Learn how to integrate exercise and mindfulness techniques for overall well-being.
+
+Why Choose Health Partner: Pulse & Sugar?
+Accurate & Reliable Readings – Our science-backed health monitoring ensures precision.
+Easy-to-Use Interface – A simple, intuitive design for seamless tracking.
+Comprehensive Data Analysis – Go beyond basic tracking with AI-powered insights and recommendations.
+Perfect for Hypertension, Diabetes & Stress Management – Ideal for those looking to maintain a healthy heart, regulate blood sugar, and reduce stress.
+
+Start Your Health Journey Today!
+Take control of your heart health, blood pressure, and energy levels like never before. Download Health Partner: Pulse & Sugar and start your journey to better health, reduce stress, and improve well-being.
+
+Unlock Unlimited Measurements & Exclusive Features with Subscription!
+
+Privacy Policy: https://health-partner-ios.web.app/privacy.txt
+Terms of Use: https://health-partner-ios.web.app/terms.txt
+
+Disclaimer: This app provides health analysis and information for reference only and is not a substitute for professional medical advice. Always consult a doctor for health concerns.",2024-10-22T07:00:00Z,2025-11-20T01:34:10Z
+ky,Cayman Islands,Health & Fitness,6013,15,1346247457,"Endel: Focus, Sleep, Relax",Endel Sound GmbH,https://apps.apple.com/ky/app/endel-focus-sleep-relax/id1346247457?uo=4,0.0,5,4,Health & Fitness,"Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.
+
+Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.
+
+Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:
+
+
+• Focus – boosts your productivity by helping you concentrate for longer
+
+• Sleep – soothes you into a deep sleep with soft, gentle sounds
+
+• Relax – calms your mind to create feelings of comfort and safety
+
+• Move – feel grounded and present while walking, hiking, or running
+
+
+ENDEL PREMIUM SUBSCRIPTION
+
+
+Alongside the classics, the Premium package contains the following Endel Soundscapes and features:
+
+• Colored Noise – choose one of 9 colors of noise to focus, relax, sleep, and mask outside sound
+
+• Study – improves concentration and keeps you calm while studying or working
+
+• Dynamic Focus – get your perfect productivity support with real-time sound tuning
+
+• Hibernation – nourish your ears with cozy sounds for cold-season slumber
+
+• Nature Elements – nurture the mind with sounds of nature, your way
+
+• Rainy Outside – cozy up to the gentle patter of rain, blended with sleep-aiding sounds
+
+• Recovery – revives your wellbeing with sounds engineered to lower anxiety
+
+• Spatial Orbit – venture into a more peaceful dimension with an immersive Spatial Audio experience
+
+• Focus Timer – the famous interval work method, upgraded with science-backed Focus sounds
+
+
+On top of the much-loved original Endel soundscapes, Endel works with innovative artists and thinkers to create unique experiences. These collaborative Endel Soundscapes are available for Premium users:
+
+
+• James Blake: Wind Down – prepare your body for sleep with soothing sounds from an award-winning artist
+
+• Grimes: AI Lullaby – supports sleep for babies and adults with original sounds and vocals from Grimes
+
+• Plastikman: Deeper Focus – a deep focus techno soundscape created with Richie Hawtin
+
+• Alan Watts: Wiggly Wisdom – soothing and motivation spoken word soundscape, infused with the playful wisdom from Alan Watts
+
+• Miguel: Clarity Trip – elevate your every step with original sounds from Miguel
+
+Endel Pacific is the patented technology that powers our apps and integrations. 
+
+All soundscapes are available offline.
+
+Apart from the Premium sounds and features, Endel Premium users get access to the exclusive Apple Podcast shows.
+
+
+SUBSCRIPTION TERMS
+
+
+Skip the payment screen by tapping “X” in the top-right corner of the offer. The Free Edition of Endel will start automatically.
+
+You can get access to Endel Premium by subscribing to a recurrent plan of your choice or with a one-time Lifetime purchase.
+
+Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+
+Payment will be charged to your Apple account at confirmation of purchase.
+
+Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.
+
+Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+No cancellation of the current subscription is allowed during the active subscription period.
+
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+
+
+For more information:
+
+
+Terms of Use - https://endel.zendesk.com/hc/en-us/articles/360003558200
+
+Privacy Policy - https://endel.zendesk.com/hc/en-us/articles/360003562619",2018-06-21T07:00:00Z,2025-11-18T11:24:57Z
+ky,Cayman Islands,Health & Fitness,6013,16,405075943,"AllTrails: Hike, Run & Walk","AllTrails, Inc.",https://apps.apple.com/ky/app/alltrails-hike-run-walk/id405075943?uo=4,0.0,4.83333,6,Health & Fitness,"Whether you hike, bike, run, or walk, AllTrails is your companion and guide to the outdoors. Find detailed reviews and inspiration from a community of trailgoers like you. We’ll help you plan, live, and share your outdoor adventures.
+
+AllTrails offers more than a running app or fitness activity tracker. It helps you discover dog-friendly, child-friendly, pram-friendly, or wheelchair-friendly trails, and more with turn-by-turn navigation to guide you through it.
+
+◆ Discover trails: Search over 500,000 trails around the world by location, interest, skill level, and more.
+◆ Plan your next adventure: Get in-depth trail info, from reviews to conditions to GPS driving directions — and save your favorite trails for later.
+◆ Stay on course: Stick to your planned route or chart your own course with confidence when you navigate on the trail with your phone or Wear OS device. Use Wear OS to leverage tiles and complications to start and monitor your activities.
+◆ Find points of interest: Discover waterfalls, historic sites,  photo spots, and more along the trail.
+◆ Grow your community: Celebrate outdoor adventures and find inspiration by connecting with trailgoers like you.
+◆ Share your outdoor adventures: Easily post trails and activities on Facebook, Instagram, or WhatsApp.
+◆ Record your activity: Capture your stats, leave reviews, and post photos of your favorite walking trails.
+
+Discover trails that fit your nature. Trails for workout planners, hikers, walkers, mountain bikers, trail runners, and casual cyclists. Whether you’re pushing your limits or pushing a pram, there’s something out there for everyone. Let AllTrails help you find it.
+
+► Do more outdoors with AllTrails Plus►
+Spend less time figuring out where you want to be, and more time enjoying where you are. With offline maps, wrong-turn alerts, and extra safety and planning features, your annual subscription gives you more tools for more adventures.
+
+◆ Search by distance from you to find the closest trails.
+◆ Plan for the elements like ground conditions, weather, air quality, UV index, and more.
+◆ See how conditions change along the trail and preview by time of day.
+◆ Unplug completely or pack a backup with printed maps.
+◆ Explore without signal with map downloads for trails, parks, and entire areas.
+◆ Live share your trail activity with friends and family.
+◆ Prepare for the hills ahead: Follow topo maps and trail maps in 3D.
+◆ Focus on the view, not the map, with wrong-turn alerts.
+◆ Give back: AllTrails donates a portion of every subscription to 1% for the Planet.
+◆ Explore ad-free: Remove occasional ads by subscribing
+
+► New! Explore to the fullest with AllTrails Peak ►
+
+Make the most of your time on the trail with our newest premium membership. Chart your own course, plan ahead for conditions, and explore popular trails — with all the offline benefits of Plus.
+
+◆ Create your own route from scratch, or modify one of 500,000+ existing trails.
+◆ Explore the most popular places with heatmaps of recent trail activity.
+◆ Access every Plus and Base feature, too.
+
+Whether you’re geocaching in a national park, browsing bucket-list mountain bike routes, or planning a trail run to clear your head, AllTrails Plus and Peak make the great outdoors even greater.",2014-04-30T16:38:49Z,2025-11-19T20:37:41Z
+ky,Cayman Islands,Health & Fitness,6013,17,1662980687,Sprouty Baby Milestone Tracker,Sprouty ltd,https://apps.apple.com/ky/app/sprouty-baby-milestone-tracker/id1662980687?uo=4,0.0,5,1,Health & Fitness,"Track your baby's sleep, feeding, diaper changes, pumping, and mood.
+
+Now you have an assistant on your journey to mindful parenting – trusted by 1,000,000+ moms and dads! Grow Together. Every Step of the Way.
+
+GROWTH CRISES CALENDAR
+From birth up to 2 years, a child goes through several growth and development crises. There's no need to be worried – this is a natural process during which the nervous system and brain develop, and the baby acquires new skills. However, during such periods, a child might become fussy and sleep poorly.
+
+We display growth crises in the calendar so you won't worry: together with pediatricians we explain what's happening with the physiology, motor skills, and speech development of your child up to 105 weeks inclusive.
+
+MEASUREMENTS OF HEIGHT, WEIGHT, AND CIRCUMFERENCES
+Fix key child's growth parameters – and track how they change. Check them with the World Health Organization's standards. 
+
+TRACKERS FOR SLEEP, FEEDING, DIAPER CHANGES, PUMPING, AND CHILD'S MOOD
+Record all the important information about your child's daily schedule and routine – all in one app.
+
+230+ DEVELOPMENTAL EXERCISES FOR EVERY DAY
+Tiger on a Branch, Maracas, More Noise, Miracles – these are not the titles of colorful children's cartoons, but engaging developmental exercises that you can perform with your child every day.
+
+JOURNAL OF PRECIOUS MOMENTS
+The first smile of your little one, the first tooth, the momentous first step – keep lovely memories not just in your heart. Record them in the app to create a cute video and share it on social media and messengers with family and friends. 
+
+SUBSCRIPTION INFORMATION
+
+The subscription provides access to additional services in the app, becoming your daily go-to parenting resource.
+
+- A set of exercises for each day. They match the stage of your baby's development and don't take much time. The checklist format makes it easy to keep track of completed exercises.
+- Developmental norms: cognitive and psychological, speech and motor skills, teething. Checked by pediatricians and approved by the World Health Organization.
+
+Additional information:
+
+- Payment will be charged to your Apple account after purchase confirmation. You could check the available subscription options in the app after its installation.
+- The subscription automatically renews. The renewal cost will be charged to your account 24 hours before the end of the current subscription, if auto-renewal has not been turned off.
+- You can easily manage subscriptions in your Apple account settings – for example, turn off automatic subscription renewal right after purchase.
+
+More details: https://support.apple.com/en-us/HT202039
+
+FROM THE APP'S CREATOR 
+
+Hello! My name is Dima, I am the father of a wonderful girl, Elli. 
+
+When she was born, my whole world turned upside down. I learned about growth crises challenging for both the child and parents. To keep track of them, I created this app. Suddenly other parents started using it too. Today, thousands of moms and dads monitor their child's development with us – it's so inspiring, I'm so grateful. Thank you!
+
+
+Growing up is not easy! But we support parents and children every day on this exciting journey.
+
+Privacy Policy: https://sprouty.app/privacy-policy
+Terms of Use: https://sprouty.app/terms-of-service",2023-04-09T07:00:00Z,2025-10-28T19:59:47Z
+ky,Cayman Islands,Health & Fitness,6013,18,353938652,Baby Names™,"NewsLeap, LLC",https://apps.apple.com/ky/app/baby-names/id353938652?uo=4,0.0,0,0,Health & Fitness,"Get the #1 baby naming app!  Better than any book, browse through thousands of possible baby names using a friendly, easy to use interface.  See the details of each name, including origin, meaning, pronunciation, and even how popular the name is.  Still can't find a great name, use the custom search feature to narrow down your results by trends, popularity, origin, parts of a name and even the meaning of the name! 
+
+Loads of other features, including our new idea lists.  Christmas names, seasonal names, strong names, nature names, and tons more lists to help you find the perfect name for your baby!  Once you find the must-have name, easily save it to your favorites list and see what it looks like with a middle name and last name. 
+
+FEATURES:
+
+• Over 60,000 boy and girl names
+• Idea lists
+• Super search: by name, meaning, popularity, characters
+• Super search: by gender or random
+• Browse for names by origin
+• Browse for names by popularity
+• Details: pronunciation, meaning, gender, famous people
+• More Details: origin, popularity
+• See detailed information about each name
+• Shows number of births, percentage of births
+• Shows popularity rankings
+• Create, edit, and reorder your own favorites list
+• Share favorites
+• Add a middle name or last name
+• Add your own name
+• Intuitive Interface
+
+Baby Names has continually been the #1 baby naming app in the App Store and we value your feedback. Please write us with suggestions and comments.",2011-07-09T17:22:38Z,2025-10-24T14:29:54Z
+ky,Cayman Islands,Health & Fitness,6013,19,534460198,RunGap - Workout Data Manager,CTRL-N ApS,https://apps.apple.com/ky/app/rungap-workout-data-manager/id534460198?uo=4,0.0,0,0,Health & Fitness,"The most well-connected Workout Data manager on the App Store with support for more than 40 of the most popular services.
+
+Get your complete training history and take control of your workout data.
+
+Keep all your workout details from popular services including Apple Watch, Polar, Garmin, Coros, RunKeeper, Strava, Runtastic, Suunto, adidas, SportsTracker, Apple Health, Zwift, Rouvy and many others on your iPhone or iPad for instant access anytime.
+
+Easily share, backup and export your workouts as you like (requires ""Swag Bag"" subscription available as in-app purchase). 
+
+Unattended background operation.
+
+RunGap can both read and write workouts from and to Health including route maps, heart rate and distance.
+
+View statistics and interactive charts, maps and details for individual workouts.
+
+Browse your favorite tracks and compare past results.
+
+Easily track your shoe, bike and other gear usage.
+
+Geotag photos and videos related to an activity.
+
+PLEASE NOTE: If you have any issues, consider contacting support instead of giving a negative rating - most times your issues can be solved or answered. A rating will not get your app back to work, but the support can help - simply use the integrated ""Online Support"" function.",2012-07-19T18:23:15Z,2025-11-20T18:22:26Z
+ky,Cayman Islands,Health & Fitness,6013,20,6504848191,"Jawline Exercises, MewingCoach",Simple Health Limited,https://apps.apple.com/ky/app/jawline-exercises-mewingcoach/id6504848191?uo=4,0.0,0,0,Health & Fitness,"Want a defined jawline, slimmer face and reduced double chin? Introduce this jawline app to hit your goals with proven jawline exercises and face yoga!
+
+Just 6 minutes a day, you will work your jaw muscles in the best way. Whether you're men or women, the fusion of jawline exercises and face yoga ensures incredible results with efficiency and ease.
+
+It provides informative articles covering mewing techniques, nutrition and lifestyle factors to maximize your results of sharpening jaw, getting rid of double chins, losing face fat, and tightening face.
+
+Effective Double Chin Exercises
+Scientifically proven face exercises precisely target the specific muscles, significantly enhancing the efficiency of face workouts.
+
+Comprehensive Jawline Exercises
+The 30-day plan consists of effective facial exercises that gradually intensify, ensuring consistent progress and visible results.
+
+Easy to Follow
+We provide easy-to-do face exercises that are beginner-friendly. With step-by-step guidance, you can easily master them and integrate the plan into your daily routine.
+
+For both Men and Women
+Regardless of age or gender, it is designed to be effective for all individuals looking to achieve a more defined and toned face.
+
+User Friendly
+Customize your facial exercise reminder according to your needs, and effortlessly navigate and access all the features with a clean interface
+
+Highlight Features
+- Reduce double chin
+- Sharpen jawline
+- Lose face fat
+- Tighten skin
+- Learn about mewing
+- In-depth knowledge and expert advice
+- 30-day face workout plan
+- Detailed instructions and demonstrations
+- Customizable reminder for face workout
+- Combination of face exercise and face yoga
+- Jawline exercise for men
+- Jawline exercise for women
+
+Download the facial exercise app now and embark on your journey to a well-defined jawline and a slimmer face!
+
+Subscription Terms & Details
+- Get unlimited access to all features.
+- The payment will be charged to your iTunes account at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Subscription may be managed and auto-renewal may be turned off by going to Account Settings after purchase.
+- The account will be charged for renewal within 24 hours prior to the end of the current period.
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+Privacy Policy: https://jawline.simplehealth.ltd/privacypolicy.html
+Terms of Use: https://jawline.simplehealth.ltd/terms.html",2024-07-11T07:00:00Z,2024-12-05T03:02:21Z
+ky,Cayman Islands,Health & Fitness,6013,21,1661103386,anona diet,Lifestyle Food Company for Catering,https://apps.apple.com/ky/app/anona-diet/id1661103386?uo=4,0.0,0,0,Health & Fitness,"The anona app allows anona subscribers and customers to easily take charge of their subscription. From meal selections, pausing, adding and altering meals, the app makes weight management delicious and easy to use, too! We have also included progress calculations, a calorie calculator and notificaitons to make your journey as easy as possible.
+[:mav: 2.1.2]",2022-12-29T08:00:00Z,2025-11-18T15:10:23Z
+ky,Cayman Islands,Health & Fitness,6013,22,1640127421,Step App: Run & Move To Earn,Step Labs L.L.C-FZ,https://apps.apple.com/ky/app/step-app-run-move-to-earn/id1640127421?uo=4,0.0,0,0,Health & Fitness,"Step App is the best way to make real money on your walks, runs, and fitness activities. Getting started on your move-to-earn (M2E) journey!
+
+The Step App is more than just a Web3 running app or a step counter; as the ideological successor to StepN, it has a similar idea but a better implementation. It doesn’t really matter if you walk, run, or hike - you can earn crypto for every step. Join our community of Steppers and smash your fitness goals together!
+
+STEP APP’s FEATURES
+1. Various Ways To Earn Money
+2. Marketplace
+3. Health Records, Running Stats (pace, speed, step c) and Fitness Records 
+4. Worldwide Community
+5. Sleek UX/UI-design
+6. Decentralised Non-Custodial Wallet
+7. Caring support team, available 24/7
+8. Standalone Ecosystem with its Blockchain
+
+WAYS TO EARN MONEY WITH THE STEP APP
+Get rewarded for your daily walks, jogs or runs with the Step App. A new way to build your fitness routine and make your steps count!
+
+WALK TO EARN
+You get financial rewards for your physical movement with Step App. It’s suitable for every fitness level from beginners to professional athletes. It encourages you to build a healthier, happier lifestyle despite a busy schedule. Use the app while running, walking your dog, or doing regular everyday tasks.
+
+RUN TO EARN
+Our running app rewards you for every type of run. Whether it's a base jogging, tempo run, or trail run, you can earn money with every activity. Perfect for beginners and marathoners alike, our app makes every run rewarding.
+
+MARKETPLACE
+Buy and sell Step App Gear in our marketplace - sneakers, headphones, watches, and gems. The value of each item depends on its grade level, stats, and market conditions.
+
+HEALTH RECORDS & RUNNING STATS
+Count your steps, pace, and time spent on a walk or run with your earnings and calories burned.
+
+WORLDWIDE COMMUNITY
+Join 300,000+ steppers, run with friends, or have fun with local & global competitors. Participate in fun activities like competing with other players in Clash Duels or regular community events for an opportunity to earn more!
+
+SLEEK UX/UI-DESIGN
+We've developed a user-friendly Web3 running application that emphasizes simplicity and consistency in every element.
+
+DECENTRALISED NON-CUSTODIAL WALLET
+Step Wallet is a Web3 wallet exclusively designed for Step App users. It enables you to have complete control over your Step App-related in-game assets. It offers fast and hassle-free buying, transferring, trading, and withdrawing of assets based on the Step Network.
+
+STANDALONE ECOSYSTEM
+The Step Ecosystem includes a running App, Crypto Wallet, Decentralized Crypto Exchange, Bridge, Transaction Scan, and Launchpad. All these projects make it possible to realize the ideology of “move to earn” and “train to earn” to the maximum.
+
+HOW TO START?
+• Download the app and create a profile
+• Get to know the app with a free Trial mode
+• Get your unique in-game Gear to start generating revenue from your steps and start tracking your movement
+• Create a consistent routine and move every day to maximise your daily earnings
+
+We are more than happy to welcome you to our Telegram (https://t.me/stepappchat) and Discord (https://discord.gg/stepappdc) communities - join us and don’t hesitate to say “hi”!
+Terms of use: https://step.app/terms",2022-11-28T08:00:00Z,2024-12-07T12:12:56Z
+ky,Cayman Islands,Health & Fitness,6013,23,1658376617,Foot Scan 3D,Laan Consulting Corp,https://apps.apple.com/ky/app/foot-scan-3d/id1658376617?uo=4,0.0,0,0,Health & Fitness,"3d Scan and measure your feet using only your phone! Get your shoe size in less than 1 minute using the TrueDepth sensor. 
+Take any measurements such as length or width, arch height etc. Share your 3d model using iMessage, or export to lots of common 3d formats. 
+No signup required. All processing happens on the device, no data is sent to third party servers.",2023-01-13T08:00:00Z,2023-07-14T15:18:11Z
+ky,Cayman Islands,Health & Fitness,6013,24,1612191369,Plus Fitness Member ID,Viva Leisure Operations Pty Ltd,https://apps.apple.com/ky/app/plus-fitness-member-id/id1612191369?uo=4,0.0,0,0,Health & Fitness,"Introducing Plus Fitness Member ID – your digital membership solution. Access Plus Fitness facilities seamlessly using your phone as your access key. Book classes, view membership details, check club information, and unlock nearby doors with just a tap. Everything you need for a smooth workout experience, right in your pocket.",2023-11-12T08:00:00Z,2025-11-15T01:19:40Z
+ky,Cayman Islands,Health & Fitness,6013,25,1038369065,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,https://apps.apple.com/ky/app/flo-period-cycles-tracker/id1038369065?uo=4,0.0,4.75518,531,Health & Fitness,"Live in sync with your cycle using Flo, the world’s most popular female health app. Get personalised insights and predictions on your body.
+
+Whether you want to predict your period, get pregnant, track your pregnancy, or better understand your symptoms, Flo is your all-in-one female health partner. Join over 420 million members.
+
+With Flo, you can:
+- Keep your data safe: Flo is the first period and ovulation tracker to achieve dual ISO 27001 and ISO 27701 Certifications (aka gold standards in data protection).
+- Feel more understood: Share your Flo insights via Flo for Partners to feel more connected, understood, and supported.
+- Get an extra layer of protection: Anonymous Mode means no one, not even Flo, can identify you based on your health data.
+- Join a supportive community: Secret Chats is where members can discuss topics and connect with others on the same journey.
+- Access reliable health information: Flo collaborates with a globally recognised organisation dedicated to reproductive health and rights, ensuring trustworthy support for your health journey.
+
+With Flo Premium, you can enjoy:
+- Monthly cycle reports
+- Symptom predictions and patterns
+- Tailored prediction insights
+- Detailed pregnancy tracking
+- Full access to Flo for Partners
+- A 24/7 virtual Health Assistant
+- All articles, videos, and courses reviewed by 140+ health experts
+
+New! Flo supports perimenopause:
+- Know what might be perimenopause and how to tune in to your body’s changes.
+- Get clarity on common perimenopause symptoms and what can help.
+- Make more informed health decisions and identify what you need to feel your best.
+
+Start tracking your cycle for free today.
+
+Privacy Policy and Terms of Use:
+https://flo.health/privacy-policy  
+https://flo.health/terms-of-use 
+
+Connect with Flo:
+Web: flo.health
+TikTok: @flotracker
+Instagram: @flotracker
+
+Please note: Flo is not a diagnostic tool and should not be used as a method of contraception or to facilitate conception. Predictions and insights provided by the app are intended for informational purposes only and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any health concerns or decisions.
+
+Flo uses HealthKit to read menstrual cycle data and export your Flo activities to the Health app.
+
+If you have any difficulties using the app, contact Flo via support@flo.health.
+
+Notice of Access Permission:
+Flo may request permission for:
+- In-app notifications or reminders.
+- Uploading photos to specific forum discussions.
+- Uploading audio recordings to closed group chats.
+Content sharing is entirely optional. Flo does not automatically access your content. You can select what you want to share.",2015-10-03T22:28:36Z,2025-11-19T19:58:17Z

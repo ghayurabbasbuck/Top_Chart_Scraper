@@ -1,0 +1,767 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+cy,Cyprus,Medical,6020,1,925339063,Doctolib - Your health partner,Doctolib,https://apps.apple.com/cy/app/doctolib-your-health-partner/id925339063?uo=4,0.0,5,7,Medical,"Easily keep track of your health with the Doctolib app:
+• Access the availabilities of thousands of healthcare professionals from all specialities
+• Find and book medical appointments 24/7 online for in-person or video consultations
+• Send messages to doctors and therapists for follow up prescriptions, test results and more
+• Add relatives to your account to easily manage their appointments
+• Look after your child's appointments and documents together with another parent
+• Get automatic reminders for appointments in the app so you never miss one
+• Share prescriptions and other medical documents securely with your practitioner and pharmacy for seamless care
+• Store your appointment history and medical documents
+
+Doctolib - one of Europe's leading e-health companies:
+• 80 million patients
+• 900,000 healthcare professionals in France, Germany, and Italy
+
+Your health. Your data.
+Protecting your personal data is our absolute priority and influences everything we do at Doctolib.
+
+The Doctolib app is available in English, French, German, and Italian.",2020-03-11T07:00:00Z,2025-11-13T09:01:29Z
+cy,Cyprus,Medical,6020,2,1510846765,FreeStyle LibreLink - GR,Abbott Diabetes Care Inc,https://apps.apple.com/cy/app/freestyle-librelink-gr/id1510846765?uo=4,0.0,0,0,Medical,"Η εφαρμογή FreeStyle LibreLink είναι εγκεκριμένη για χρήση με αισθητήρες του συστήματος FreeStyle Libre και FreeStyle Libre 2. Μπορείτε να ελέγχετε τη γλυκόζη σας σαρώνοντας τον αισθητήρα σας με το τηλέφωνό σας. Τώρα οι χρήστες του αισθητήρα του συστήματος FreeStyle Libre 2 μπορούν να λαμβάνουν αυτόματες ενδείξεις γλυκόζης στην εφαρμογή FreeStyle LibreLink, οι οποίες ενημερώνονται κάθε λεπτό, και επίσης να λαμβάνουν ειδοποιήσεις όταν η γλυκόζη είναι χαμηλή ή υψηλή. [1][2]
+
+Μπορείτε να χρησιμοποιείτε την εφαρμογή FreeStyle LibreLink για:
+
+* Να προβάλλετε την τρέχουσα ένδειξη γλυκόζης, ένα βέλος τάσης που δείχνει την κατεύθυνση μεταβολής της γλυκόζης και το ιστορικό γλυκόζης
+* Να λαμβάνετε ειδοποιήσεις χαμηλής ή υψηλής γλυκόζης με αισθητήρες του συστήματος FreeStyle Libre 2 [2]
+* Να βλέπετε αναφορές, όπως τον Χρόνο εντός στόχου και τα Ημερήσια μοτίβα
+* Να γίνεται κοινοποίηση των δεδομένων σας στον γιατρό σας και την οικογένειά σας με την συγκατάθεσή σας [3]
+
+ΣΥΜΒΑΤΟΤΗΤΑ ΜΕ SMARTPHONE
+Η συμβατότητα μπορεί να διαφέρει ανάλογα με το τηλέφωνο και το λειτουργικό σύστημα. Μάθετε περισσότερα σχετικά με τα συμβατά τηλέφωνα στη διεύθυνση http://FreeStyleLibre.com.
+
+ΧΡΗΣΗ ΤΗΣ ΕΦΑΡΜΟΓΗΣ ΣΑΣ ΚΑΙ ΤΗΣ ΣΥΣΚΕΥΗΣ ΑΝΑΓΝΩΣΗΣ ΜΕ ΤΟΝ ΙΔΙΟ ΑΙΣΘΗΤΗΡΑ
+Οι ειδοποιήσεις μπορούν να εμφανιστούν μόνο στη συσκευή ανάγνωσης FreeStyle Libre 2 ή στο τηλέφωνό σας (όχι και στα δύο). Για να λαμβάνετε ειδοποιήσεις στο τηλέφωνό σας, πρέπει να εκκινήσετε τον αισθητήρα με την εφαρμογή. Για να λαμβάνετε ειδοποιήσεις στη συσκευή ανάγνωσης FreeStyle Libre 2, πρέπει να εκκινήσετε τον αισθητήρα με τη συσκευή ανάγνωσής σας.  Αφού εκκινηθεί ο αισθητήρας με τη συσκευή ανάγνωσης, μπορείτε επίσης να σαρώσετε τον συγκεκριμένο αισθητήρα με το τηλέφωνό σας.
+
+Να θυμάστε ότι δεν μπορεί να γίνει μεταφορά δεδομένων μεταξύ της εφαρμογής και της συσκευής ανάγνωσης. Για πλήρη λήψη δεδομένων σε μια συσκευή, σαρώνετε τον αισθητήρα σας κάθε 8 ώρες με την ίδια συσκευή, διαφορετικά, οι αναφορές σας δεν θα περιλαμβάνουν όλα τα δεδομένα σας. Μπορείτε να ανεβάζετε και να προβάλλετε δεδομένα από όλες τις συσκευές σας στο LibreView.com.
+
+ΠΛΗΡΟΦΟΡΙΕΣ ΓΙΑ ΤΗΝ ΕΦΑΡΜΟΓΗ
+Η εφαρμογή FreeStyle LibreLink χρησιμοποιείται για τη μέτρηση των επιπέδων γλυκόζης σε άτομα με διαβήτη σε συνδυασμό με έναν αισθητήρα. Για περισσότερες πληροφορίες σχετικά με τον τρόπο χρήσης της εφαρμογής FreeStyle LibreLink, ανατρέξτε στο εγχειρίδιο χρήσης, το οποίο μπορείτε να ανοίξετε μέσω της εφαρμογής. Αν θέλετε το εγχειρίδιο χρήσης σε έντυπη μορφή, επικοινωνήστε με το Τμήμα Υποστήριξης Πελατών της Abbott Diabetes Care.
+
+Συμβουλευτείτε έναν επαγγελματία υγείας για να επιβεβαιώσετε εάν αυτό το προϊόν είναι κατάλληλο για εσάς ή εάν έχετε ερωτήσεις σχετικά με τη χρήση αυτού του προϊόντος για να λαμβάνετε θεραπευτικές επιλογές.
+
+Μάθετε περισσότερα στη διεύθυνση http://FreeStyleLibre.com.
+
+[1] Αν χρησιμοποιείτε την εφαρμογή FreeStyle LibreLink, πρέπει να έχετε επίσης πρόσβαση σε ένα σύστημα παρακολούθησης γλυκόζης αίματος, καθώς η εφαρμογή δεν παρέχει τέτοιο σύστημα.  
+
+[2] Οι ειδοποιήσεις που λαμβάνετε δεν περιλαμβάνουν την ένδειξη γλυκόζης σας, επομένως πρέπει να σαρώνετε τον αισθητήρα σας για να ελέγχετε τη γλυκόζη σας.
+
+[3] Για τη χρήση των FreeStyle LibreLink και LibreLinkUp απαιτείται εγγραφή στο LibreView.
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+Για περισσότερες νομικές σημειώσεις και όρους χρήσης, μεταβείτε στη διεύθυνση http://FreeStyleLibre.com.
+
+========
+
+Για την επίλυση οποιωνδήποτε προβλημάτων τεχνικής φύσης ή υποστήριξης πελατών που έχετε με ένα προϊόν FreeStyle Libre, επικοινωνήστε απευθείας με το Τμήμα Υποστήριξης Πελατών του FreeStyle Libre.
+
+-----------",2025-04-08T07:00:00Z,2025-08-18T19:15:05Z
+cy,Cyprus,Medical,6020,3,949484366,ЕМИАС.ИНФО,"IATS V SFERE ZDRAVOOKHRANENIYA GORODA MOSKVY, GKU",https://apps.apple.com/cy/app/%D0%B5%D0%BC%D0%B8%D0%B0%D1%81-%D0%B8%D0%BD%D1%84%D0%BE/id949484366?uo=4,0.0,4.16667,12,Medical,"Приложение ЕМИАС.ИНФО предоставляет запись к врачам в городские поликлиники Москвы и доступ к электронной медкарте.
+
+Возможности:
+- запись на прием к врачу, просмотр/отмена/перенес записей;
+- запись к специалистам по направлениям;
+- запись на лабораторные исследования по назначениям;
+- просмотр выписанных рецептов;
+- автоматические напоминания о записях на прием;
+- возможность подключить несколько полисов ОМС.
+- электронная медицинская карта (осмотры врача, анализы, исследования, выписки) 
+- возможность включить отправку данных из Apple Здоровье/Apple Health (пульс, давление, уровень глюкозы, уровень насыщения крови кислородом и температуру) в ЕМИАС
+
+Для просмотра медкарты необходимо оформить доступ к карте на портале mos.ru.
+
+Для записи к врачу необходимо иметь:
+
+1. Полис ОМС, зарегистрированный в Москве;
+2. Прикрепление в любой Московской поликлинике.
+
+Уточнить вопросы по полису и прикреплению можно по телефону +7 (495) 539-30-00.
+
+===ВАЖНО===
+Приложение подключается к информационной системе ЕМИАС, получая из нее информацию о расписании врачей, ваших текущих записях/направлениях, отправляет запрос на новую запись или перенос, поэтому приложение не может влиять на следующие ситуации:
+
+•    Недоступна информационная система ЕМИАС или в ней идут технические работы;
+•    Отсутствует (исчезло) прикрепление к конкретной поликлинике;
+•    Полис ОМС отсутствует в базах городского фонда ОМС
+
+напишите нам в обратную связь прямо из приложения, мы сможем проверить и подсказать в чем проблема.
+
+Если вы недовольны качеством и доступностью медицинской помощи в поликлинике:
+•    отсутствует необходимый врач/специальность;
+•    нет доступного времени для записи;
+•    исчезли (отменили в поликлинике) сделанные записи;
+•    очереди в поликлиниках или долгое ожидание приема;
+•    некачественное обслуживание со стороны врачей или регистратуры;
+
+необходимо обращаться на горячую линию Департамента здравоохранения г. Москвы (+7 (495) 777-77-77), в ведении которого находится организация работы городских поликлиник.",2014-12-28T12:42:46Z,2025-11-10T07:52:19Z
+cy,Cyprus,Medical,6020,4,573916946,Medisafe Pill Reminder,MediSafe Inc.,https://apps.apple.com/cy/app/medisafe-pill-reminder/id573916946?uo=4,0.0,4.7755,147,Medical,"Keep yourself and loved ones safe and never forget to take your meds again with Medisafe, the easy-to-use app ranked #1 by pharmacists to help you remember when to take your pills.
+
+Don't put yourself or your loved ones at risk by missing a dosage -- or taking a double dose because nobody tracked. Our mission is giving people the tools, support and information they need to take their medications the way they're supposed to.
+
+Pharmacists rank Medisafe #1 out of 461 apps they've tested, and MyVCM has recognized Medisafe for HIPAA ""leadership and best practices in managing security and compliance.""
+
+That's why millions have downloaded Medisafe, the top-rated medication manager and pill reminder for those who need reminders to take meds, fertility drugs, birth control, and other medicines.
+
+Download Medisafe and start managing your medications, pills, refills, drug interactions, measurements and doctors' appointments to improve your health. Medisafe is the best pill tracker and planner on the App Store. Never forget to take your medications again! 
+
+Also featured on Fox TV, ABC, Mashable, Inc. Magazine, Los Angeles Times, Boston Globe, Life Hacker, Fast Company, TechCrunch, and many more.
+
+Here's why Medisafe is the best:
+CLEAN & SIMPLE: Visual and easy medical manager to handle drug reminders.
+HEALTH APP INTEGRATION: Keeps track of your measurements and syncs them to the HealthKit app: blood glucose, blood pressure, weight, pulse and temperature.
+REPORT SHARING: See your progress report and send it to the doctor or nurse as a visual informative PDF.
+FAMILY INTERACTION: Synchronizes the family's medicine pillboxes to one place, in real time. Manage your entire family from one account!
+MEDTONES: Various Medtones to make Medisafe playful and a great addition to your day: have President Obama, Darth Vader, Dr Evil, Austin Powers, Elsa or your Nagging Mom remind you about your meds. Choose your medication reminder sound to make Medisafe a comfortable addition to your day.
+REMINDERS: Reminds you to take medication doses on time every time, even if your device is asleep. Medisafe has timezone support too! No need to worry while traveling, your reminders are always on time.
+REFILL REMINDER: Rx refill reminds you when you need to restock your prescriptions.
+PRN FRIENDLY: List PRN (on demand) medication.
+
+Whether you are taking one drug dosage or more, you know how difficult it is remembering each pill right on time. If you are a caretaker for a child, parent, or patient suffering from chronic pain or illness, you know how stressful it is not knowing for sure if your loved one took their medications correctly.
+
+Medisafe does not provide medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding your medications or a medical condition.
+
+Terms of Use: https://www.medisafeapp.com/terms-and-conditions/
+Privacy Policy: https://medisafeapp.com/privacy-policy/
+
+More info:
+FAQs: https://www.medisafeapp.com/help/
+Pharmacists Rank Medisafe #1: http://bit.ly/2nTjmsI
+
+Please don’t hesitate to contact us: support@medisafe.com 
+
+Thanks,
+Medisafe Team",2012-11-08T22:22:53Z,2025-11-12T15:07:00Z
+cy,Cyprus,Medical,6020,5,505864483,Pregnancy + | Tracker App,Philips Digital UK Limited,https://apps.apple.com/cy/app/pregnancy-tracker-app/id505864483?uo=4,0.0,4.78723,141,Medical,"Download the world's leading pregnancy tracker app today, for free week-by-week pregnancy information and articles!
+
+The Pregnancy+ app features expert advice, daily articles, healthcare tips and interactive 3D models so you can track your baby's development. Our pregnancy app has been downloaded over 80 million times by expecting families. Join our worldwide community today! 
+
+Baby Development
+► Unique, interactive 3D models showing your baby's development 
+► Baby Size Guide helps you visualise your baby's size in fruits, animals & sweets
+► Pregnancy Week-by-Week Guides explain what to expect in each pregnancy week
+► Simple & informative Pregnancy Timeline highlighting important milestones
+
+Pregnancy Guides & Information
+► In-depth Pregnancy Guides covering breastfeeding, exercise, food, twins & more 
+► Daily Pregnancy Articles, tailored to your pregnancy stage
+► 2D & 3D Scans by pregnancy week for you to browse
+► Daily Blog Posts with tips, tricks & helpful advice
+► Upload photos in My Bump to create a visual pregnancy diary
+
+Pregnancy Tools
+► Pregnancy Due Date Calculator helps you work out when your bundle will arrive
+► Kick Counter tracks your baby's movements & activity
+► Pregnancy Weight Log helps you keep an eye on changes in your weight
+► Contraction Timer measures contractions throughout your labour
+
+Organise & Plan
+► Pregnancy Calendar enables you to plan & document your prenatal appointments
+► Hospital Bag helps you prepare your hospital visit, for Mother, Birth Partner & Baby
+► Birth Plan allows you to customise, organise & export your needs & wishes
+► To-Do List & Baby Shopping List for ideas of what you need to do & buy
+► Search thousands of Baby Names for inspiration & share your favourites
+
+Our EXCLUSIVE 3D Models
+Enjoy our unique 3D models showing your pregnancy's week-by-week development, from blastocyst to foetus to baby. Our 3D models truly help you to connect with the baby growing inside you. 
+► Choose from multiple ethnicities
+► Zoom in or out & rotate to see the baby's intricate detail
+► Watch guided pregnancy week-by-week walk-throughs
+► Tap to see baby movements
+
+Pregnancy Articles & Guides
+If you're feeling overwhelmed by all the advice out there, don't worry. Our Pregnancy + tracker app will guide you through your pregnancy, week-by-week, keeping you up to date with your baby's development and helping you stay healthy through pregnancy and beyond. The Pregnancy+ app content is written in-house, with the help of medical experts, lactation consultants, midwives and, of course, parents.
+
+Share your journey with friends & family
+Our pregnancy tracker app can be personalised so your partner, future grandparents or best friend can join in the fun and follow your baby's development in the womb, from bump to birth! Keep everyone up to date with your pregnancy by inviting them to download the app today.
+
+Follow us on Social Media
+Facebook: facebook.com/PregnancyPlusApp
+Instagram: @pregnancyplus
+
+◆ Download Pregnancy+ App today ◆
+
+Privacy Policy
+https://info.philips-digital.com/PrivacyNotice?locale=en&country=GB
+
+Terms of Use
+https://info.philips-digital.com/TermsOfUse?locale=en&country=GB
+
+This app is not intended for medical use, or to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalised medical advice. If you have any concerns about your pregnancy, consult with your doctor or midwife.
+
+The Pregnancy + tracker app wishes you a healthy, full-term pregnancy and a safe delivery.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+cy,Cyprus,Medical,6020,6,1452326144,Air Quality Cyprus,DEPI SPECTRUM (COMPUTING & TELECOMMUNICATION) LIMITED,https://apps.apple.com/cy/app/air-quality-cyprus/id1452326144?uo=4,0.0,4.61111,18,Medical,"The Air Quality Cyprus mobile application which provides Live data from all over Cyprus. Our purpose is to keep you informed wherever you are as long as internet connection is available on your mobile device.
+
+Key Features:
+Air Quality live data on Cyprus map
+Air Quality live data per area and city
+Notifications per area and city
+Notifications based on specific air pollutants
+Available in both Greek and English languages",2019-05-27T13:46:26Z,2022-04-06T05:25:40Z
+cy,Cyprus,Medical,6020,7,1591602076,МедТочка – запись к врачу,LLC MEDROCKET,https://apps.apple.com/cy/app/%D0%BC%D0%B5%D0%B4%D1%82%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C-%D0%BA-%D0%B2%D1%80%D0%B0%D1%87%D1%83/id1591602076?uo=4,0.0,0,0,Medical,"МедТочка — это личный кабинет пациента с защищённой электронной медкартой, которую легко показать любому врачу.
+
+
+
+- Храните медицинские документы в своей электронной медкарте
+
+
+
+Больше никаких папок с бумагами: результаты обследований, заключения врача и назначения — всё в одном приложении. МедТочка позволяет хранить медицинские документы всей семьи и безопасно открывать доступ к своей медкарте любому врачу на приёме или онлайн.
+
+
+
+- Планируйте, переносите или отменяйте запись на приём
+
+
+
+Записывайтесь на приём онлайн через приложение МедТочка — это быстро и удобно. А если планы изменились, просто перенесите или отмените запись в один клик. 
+
+
+
+- Отслеживайте цикл и заботьтесь о репродуктивном здоровье
+
+
+
+«Женский календарь» в МедТочке – удобный инструмент, который помогает контролировать цикл и следить за самочувствием. Данные о цикле можно безопасно передавать врачу напрямую из приложения. Отмечайте симптомы, а МедТочка подскажет, какие из них являются тревожными и когда нужно обратиться к доктору.
+
+
+
+- Подключайтесь к телемедицинским консультациям
+
+
+
+Консультируйтесь с врачом из любой точки мира прямо в приложении МедТочка. Общайтесь в чате или по видеосвязи, если нужно получить рекомендации или узнать второе мнение по вашему лечению.
+
+
+
+- Записывайтесь на приём со скидкой 30% с Клубом ПроДокторов 
+
+
+
+В МедТочке можно следить за своим статусом участника Клуба ПроДокторов и сроком его действия, а также получать и хранить все скидочные купоны.
+
+
+
+- Оставляйте отзывы на врачей
+
+
+
+Поделитесь своим мнением о приёме на сайте ПроДокторов. Информация об отзыве автоматически появится в МедТочке: вы сможете проверить статус отзыва и после публикации узнать, скольким людям ваш опыт помог выбрать врача.
+
+
+
+- Также МедТочка помогает:
+
+
+
+· Вовремя приходить к врачу: приложение напомнит вам накануне приёма
+· Получать рекомендации по подготовке к приёму
+· Быстро находить профили любимых врачей и клиник в избранном
+
+
+
+- Мы гарантируем безопасность ваших данных 
+
+
+МедТочка надёжно сохранит ваши документы и обеспечит безопасность медицинских данных с помощью шифрования.
+
+
+
+Скачайте приложение следите за здоровьем вместе с МедТочкой",2024-09-24T07:00:00Z,2025-11-17T05:20:16Z
+cy,Cyprus,Medical,6020,8,1207424206,Full Code Medical Simulation,Full Code Medical Inc.,https://apps.apple.com/cy/app/full-code-medical-simulation/id1207424206?uo=4,0.0,5,3,Medical,"Full Code is an intuitive, mobile-first simulation designed by medical experts for individuals who want to become better medical professionals, including medical students, residents, physicians, nurses, NPs, PAs, EMTs, paramedics, and more.
+
+The platform offers over 230+ realistic virtual cases and an engaging, game-like interface. You can choose from hundreds of possible actions as you diagnose and treat acutely sick patients in this open-ended medical simulation.
+
+Daily, deliberate practice is the key to maintaining and improving your clinical skills. Download and play a free case today!
+
+Interested in bringing Full Code to your organization or institution? Learn more at fullcodemedical.com!
+
+Features:
+• 230+ case library written and peer-reviewed by expert clinicians
+• Over 30 diagnostic disciplines, including Emergency Medicine, OBGYN, and Pediatrics
+• 25+ realistic avatars, including pediatric and adult patients
+• *NEW* EMS cases and ambulance environment
+• Detailed scoring and full case breakdowns - learn your strengths and weaknesses
+• Patient AI enables practice with history taking
+• Full Code Pro + CME provides 100+ hours of accredited CME
+• Frequent new cases and regular updates
+
+TRAIN ON YOUR TERMS
+Full Code’s on-demand simulation training with realistic virtual patients allows you to practice complex cases and enhance your skills whenever you get a break, wherever you happen to be, on the devices you already own.
+
+IMPROVE YOUR CONFIDENCE
+Full Code's infinitely repeatable cases measure skills in both diagnosis and management, allowing you to learn from your mistakes in a risk-free environment. Build competence so you can face complex real-world cases with confidence.
+
+PRACTICE MAKES THE PRACTITIONER
+Frequent, deliberate practice is the key to clinical success and improving your clinical decision-making ability. Full Code can easily fit into any schedule—whether you're a med student or practicing clinician.
+
+NEW CHALLENGES 
+Every case presents a new challenge in Full Code: from routine diagnosis to rare diseases. You’re not just limited to the hospital, either—Full Code has expanded into pre-hospital and EMS content. Get out of the ED and into the ambulance for all new scenarios!
+
+LEARN FROM TOP MEDICAL EXPERTS
+Created by medical educators from some of the top hospitals in the U.S. and peer-reviewed by licensed medical professionals, our simulations are designed with industry-standard medical best practices, setting the bar high for medical students and professionals worldwide. 
+
+EARN CME CREDIT
+Complete your continuing medical education (CME) requirements with flexible and engaging simulation challenges accredited through the Accreditation Council for Continuing Medical Education (ACCME). With our PRO+CME subscription, you can earn up to 100 CME credits. Subscribe to Full Code Pro+CME to get started.
+
+
+FEATURED APP STORE REVIEWS
+
+Fun and Educational
+“I’m in nursing school and my partner is in medical school. We play for fun and it teaches a lot, certainly makes you think more and how not to order everything under the sun. Highly recommend!”
+—Kirsten9008
+
+Exactly what EM needed
+“Happened to stumble upon the app when I was looking for virtual EM sim learning. It’s exactly what I was looking for. It’s well developed and thought out with pertinent information. Thank you!”
+— ariamour
+
+Worth every penny!
+“For those looking for a simple but entertaining way to study and prepare for clerkships, think through cases in residency, or even prepare for your oral boards, I think Full Code is the learning tool for you…Thank you, Full Code, for being a long-time study partner! Looking forward to your continued dedication to medical education!”
+— Hartridge
+
+
+FOLLOW FULL CODE
+
+Facebook: facebook.com/fullcodemedical
+Twitter: @fullcodemedical
+Instagram: @fullcodemedical
+TikTok: @fullcodemedical
+Website: fullcodemedical.com
+Play on desktop: app.fullcodemedical.com",2017-07-26T20:19:14Z,2025-08-13T20:44:10Z
+cy,Cyprus,Medical,6020,9,1527707108,PillBox: Reminder & Tracker,Wachanga LTD,https://apps.apple.com/cy/app/pillbox-reminder-tracker/id1527707108?uo=4,0.0,5,5,Medical,"Take your medicine on time!
+ 
+Having received a doctor's appointment, we often forget that recovery depends on proper medication. And if you take several pills? And if you need to take pills several times a day, at certain times on certain days of the week? Observing diet and not confusing one pill with another?
+ 
+The best way to clearly follow the recipe is to use a mobile application which you can set up for taking pills on a schedule in a minute, using this pill reminder alarm app. Taking medicine and with a pill reminder will become your indispensable assistant at a time when health requires special attention.
+ 
+Start a new course, take into account your activities and daily regimen, types of drugs and how they are administered. Accurate reminders to take pills will help take pills on time, prompt you to take it before or after meals, show progress. Ideal for continuous medication.
+ 
+Advantages of the application:
+ 
+– Easy navigation
+ 
+It is easy to track the medication via time and days in the calendar of tablets 
+ 
+– Clear adherence to the medication schedule
+
+Flexible settings allow you to accurately integrate the pill in a convenient calendar and not miss the moment you need to take your medication
+ 
+– Simple progress tracking
+ 
+You will always see how many tablets you have taken and how many are left in your pillbox.
+ 
+–  Quick setup of repeat courses
+ 
+The medication tracker remembers which tablets you took and on what route.
+ 
+– Detailed dosage regimens and dosages.
+ 
+Set up your medications strictly in accordance with the doctor's prescriptions – up to a milligram, milliliter or drops.
+ 
+– Customized notification sounds
+ 
+A reminder to take your medicine will pop up on your phone with a beautiful sound, and help you not confuse this important notification with others.
+ 
+Follow your medication regimen with a very convenient application and be healthy!
+
+PREMIUM IN THE APP
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2022-09-26T07:00:00Z,2023-10-04T13:52:25Z
+cy,Cyprus,Medical,6020,10,1571094114,MyHealth,Hellenic Republic,https://apps.apple.com/cy/app/myhealth/id1571094114?uo=4,0.0,3.25,4,Medical,"Το myHealth είναι μια σύγχρονη εφαρμογή που αποτελεί μέρος του Εθνικού Ηλεκτρονικού Φακέλου Υγείας και προσφέρει ηλεκτρονική εξυπηρέτηση στους πολίτες για θέματα υγείας και ιατρικών πράξεων.
+
+Με το myHealth, οι πολίτες έχουν εύκολη και άμεση πρόσβαση:
+    - Στις συνταγές φαρμάκων και τα παραπεμπτικά διαγνωστικών εξετάσεων τους.
+    - Στις Ηλεκτρονικές Ιατρικές Βεβαιώσεις που εκδίδουν οι ιατροί τους.
+    - Στα ιστορικά δεδομένα του φακέλου ασθενή, συμπεριλαμβανομένων διαγνώσεων, βεβαιώσεων, εμβολιασμών, αποτελεσμάτων εξετάσεων, αλλεργιών και δυσανεξιών.
+    - Στη νέα λειτουργικότητα δέσμευσης ραντεβού, για ευκολότερο προγραμματισμό επισκέψεων σε επαγγελματίες υγείας.
+    - Στο ιστορικό πρόσβασης του φακέλου υγείας, ώστε οι πολίτες να γνωρίζουν ποιοι γιατροί έχουν δει τα ιατρικά τους δεδομένα.
+    - Σταδιακά, θα είναι διαθέσιμα όλα τα δεδομένα που έχουν καταχωριστεί στο Σύστημα Ηλεκτρονικής Συνταγογράφησης.
+
+Κατεβάστε το myHealth και αποκτήστε τον έλεγχο του ιατρικού σας ιστορικού, γρήγορα και εύκολα!",2021-08-02T07:00:00Z,2025-11-21T08:49:08Z
+cy,Cyprus,Medical,6020,11,1165959800,Dubai Ambulance - إسعاف دبي,Dubai Corporation For Ambulance Services,https://apps.apple.com/cy/app/dubai-ambulance-%D8%A5%D8%B3%D8%B9%D8%A7%D9%81-%D8%AF%D8%A8%D9%8A/id1165959800?uo=4,0.0,0,0,Medical,هذا التطبيق يعتبر البوابة الذكية لمؤسسة دبي لخدمات الإسعاف، يشمل عدة اقسام مثل (الخدمات الذكية، عن المؤسسة، المركز الاعلامي، الوظائف، واتصل بنا) ويمكن للمتعاملين الداخليين و الخارجيين الاطلاع على المعلومات والتقديم على الخدمات التي تقدمها المؤسسة,2016-10-17T21:33:47Z,2025-08-05T16:48:17Z
+cy,Cyprus,Medical,6020,12,980446169,e-Nabız,T.C. Saglik Bakanligi,https://apps.apple.com/cy/app/e-nab%C4%B1z/id980446169?uo=4,0.0,5,15,Medical,"E-Nabız, sağlık tesislerinden toplanan kişisel sağlık verilerine, vatandaşların ve vatandaşların yetkilendirdiği yakınlarının ve hekimlerin, internet ve mobil cihazlar üzerinden erişebilecekleri bir uygulamadır.
+
+E-Nabız’da bulunan sağlık bilgileri, sistemin devreye alınmasından itibaren hastalıklarınızla ilgili konulan teşhislerin, yaptırılan tahlillerin, çekimi yapılan tıbbi görüntülerin, yazılan ilaçların, aşıların, tespit edilen alerji ve benzeri bilgilerin sağlık hizmeti alınan sağlık kuruluşları tarafından elektronik ortamda e-Nabız sistemine gönderilmesi ile oluşmaktadır.
+
+Uygulamayı kullanabilmeniz için ""https://www.enabiz.gov.tr"" sitesinde yer alan ""E-Devlet ile Giriş"" sekmesinden giriş yaparak e-Nabız sistemini aktif etmeniz gerekmektedir. Kullanıcı onay verdiği takdirde destekleyen mobil cihazlardan ilgili bilgiler uygulama tarafından kullanılacaktır.
+
+Cihazınızda bulunan Sağlık Uygulamasına erişime izin vererek, sağlık verileriniz sisteme gönderilmesini sağlayabilir ve dilediğinizde uygulama içerisinden doktorunuz ile paylaşabilirsiniz.",2015-04-04T09:17:44Z,2025-11-21T07:22:18Z
+cy,Cyprus,Medical,6020,13,1637452137,Cyprus Night Pharmacies,Elena Kim,https://apps.apple.com/cy/app/cyprus-night-pharmacies/id1637452137?uo=4,0.0,3.66667,9,Medical,"This application shows information about duty pharmacies in Cyprus. Using the application, you can find the nearest pharmacy to you on the map, that is open today, and get directions to it. Also get information about phone numbers where you can contact the pharmacist on duty.",2022-08-11T07:00:00Z,2023-06-15T17:18:15Z
+cy,Cyprus,Medical,6020,14,1169136078,Huckleberry: Baby & Child,Huckleberry Labs Inc.,https://apps.apple.com/cy/app/huckleberry-baby-child/id1169136078?uo=4,0.0,4.9375,32,Medical,"Huckleberry is your all-in-one parenting partner, proudly trusted by 5+ million families worldwide. 
+
+From baby tracker to personalized guidance, our award-winning app helps you navigate sleep, feeding, milestones, and everything in between. Backed by a team of pediatric experts and powered by smart tools, Huckleberry supports each family’s unique journey. We turn restless nights into restful routines, making more space for everyday magic.
+
+TRUSTED SLEEP GUIDANCE & TRACKING
+
+Your baby's sleep and daily rhythms are unique. Our comprehensive baby tracker helps you understand their natural patterns while providing expert sleep guidance every step of the way. From breastfeeding to nappies, our newborn tracker gives you peace of mind in those early days and beyond.
+
+SWEETSPOT®: YOUR SLEEP TIMING COMPANION
+
+A most-loved feature that predicts your baby's ideal nap times with remarkable accuracy. No more guessing about sleep windows or watching for tired cues—SweetSpot® learns your child's unique rhythms to suggest optimal sleep times. Available with Plus and Premium memberships.
+
+BERRY: 24/7 PARENTING GUIDANCE 
+
+Instant parenting backup that adapts to what you need, when you need it. Using expert-vetted and AI-powered guidance, Berry can work through the messiness of parenting with you. You can solve challenges, get reassurance, and easily track multiple things at once—all in one AI chat. No matter the moment or mood, you always have backup.
+
+FREE APP FEATURES
+
+• Simple, one-touch baby tracker for sleep, nappy changes, feedings, pumping, growth, potty training, activities and medicine
+• Complete breastfeeding timer with tracking for both sides
+• Sleep summaries and history, plus average sleep totals
+• Track multiple children with individual profiles
+• Reminders when it’s time for medication, feedings, and more
+• Sync with multiple caregivers across different devices
+
+PLUS MEMBERSHIP
+
+• All free features, and:
+• SweetSpot®:  Predicts the ideal time for sleep (2+ months)
+• Schedule Creator: Plan age-appropriate sleep schedules
+• Insights: Data-driven tips and miniplans for sleep, feedings, and milestones (0-17 months)
+• Enhanced Reports: Discover your child’s trends
+• AI Logging: Track your child’s day through text, voice message, or photo
+
+PREMIUM MEMBERSHIP
+
+• Everything in Plus, and:
+• Berry: 24/7 guidance with our expert-vetted AI chat
+• Custom Sleep Plans: expert-designed plans built for your child, with weekly progress check-ins and ongoing support as they grow 
+
+GENTLE, EVIDENCE-BASED APPROACH
+
+Our sleep guidance never requires ""crying it out."" Instead, we blend trusted sleep science with gentle, family-centered solutions that respect your parenting style. Every recommendation is made for your family's needs and comfort level.
+
+PERSONALIZED PARENTING SUPPORT
+
+• Expert newborn tracker tools and analytics
+• Get custom sleep schedules based on your baby's age and patterns
+• Science-backed guidance for common sleep challenges
+• Navigate sleep regressions with confidence
+• Receive timely recommendations as your baby grows
+• Help your newborn develop healthy sleep habits from day one
+
+AWARD-WINNING RESULTS
+
+The Huckleberry baby tracker app ranked #1 in the iOS medical category globally. Today, we help families across 179 countries achieve better sleep. Up to 93% of families using our baby sleep tracking report improved sleep patterns.
+
+Whether you're navigating newborn sleep, infant solids or toddler milestones, Huckleberry provides the tools and guidance your family needs to flourish.
+
+Terms of Use: https://www.huckleberrycare.com/terms-of-use
+Privacy Policy: https://www.huckleberrycare.com/privacy-policy",2017-07-04T18:17:53Z,2025-11-18T17:29:46Z
+cy,Cyprus,Medical,6020,15,6447060834,Счетчик схваток & Беременность,Viktoriia Sergeeva,https://apps.apple.com/cy/app/%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/id6447060834?uo=4,0.0,5,1,Medical,"ContraC - это мобильное приложение, которое разработано специально для беременных женщин, чтобы помочь им контролировать схватки. С помощью этого приложения вы можете легко отслеживать и записывать время и длительность схваток, а также их частоту. Вы можете использовать эту информацию для оценки того, когда пришло время идти в родильный дом.
+
+ContraC предоставляет вам простой и интуитивно понятный интерфейс, который позволяет вам быстро и легко записывать информацию о ваших схватках.",2023-04-05T07:00:00Z,2024-04-19T16:36:40Z
+cy,Cyprus,Medical,6020,16,6744374898,Vera—Medical AI for Clinicians,Veracity-Health Inc.,https://apps.apple.com/cy/app/vera-medical-ai-for-clinicians/id6744374898?uo=4,0.0,0,0,Medical,"Transform your clinical practice with Vera Health, the most powerful AI-powered clinical decision support tool designed for healthcare professionals. 
+
+Improve patient outcomes with clear, practical answers backed by 60M+ peer-reviewed and up-to-date papers and guidelines. Delivered at the speed of AI.
+
+KEY FEATURES
+
+- Advanced AI Clinical Decision Support: Leverage AI to analyze patient data against comprehensive medical databases. Vera helps identify conditions faster, improve diagnostic accuracy, and reduce time to diagnosis — at the point of care.
+- Evidence-Based Clinical Guidelines: Access the latest guidelines, treatment protocols, and evidence-based recommendations tailored to your specialty. Stay current with medical research without disrupting your workflow.
+- Answers Backed by Trusted Sources: Every clinical insight is backed by peer-reviewed literature, trusted guidelines, and verified data that you can check to help you make informed decisions with confidence.
+- Stay Informed with Personalized Clinical News: Stay ahead with curated, specialty-relevant news and research updates personalized to your clinical interests.
+- Medical Calculators & Drug Information: Use integrated calculators, drug interaction checkers, and comprehensive medication references. Review dosing guidelines, contraindications, and safety alerts quickly.
+- HIPAA-Compliant & Enterprise-Grade Security: Built with bank-level encryption and SOC 2 Type II certification, Vera ensures top standards of data security and privacy. Seamlessly integrates into clinical workflows.
+- Continuing Medical Education (CME): Earn AMA PRA Category 1 Credits™ automatically as you use Vera. Instantly generate CME certificates and track your progress with ease.
+    
+
+WHY CHOOSE VERA
+
+- Trusted by Thousands of Healthcare Professionals
+- Enhances Clinical Accuracy and Efficiency
+- Backed by Verified, Peer-Reviewed Sources
+- Keeps You Up to Date with Curated, Specialty-Relevant News
+
+TESTIMONIALS
+
+""Vera feels like having a thought partner by my side when I’m facing a tough clinical decision. It doesn’t just give me answers, it shows the evidence behind them, so I feel confident even in high-pressure moments.""
+MD, Internal Medicine
+
+""The drug interaction checker alone has saved me countless hours and helped me avoid potential errors. It’s fast, reliable, and fits right into my workflow. I can’t imagine practicing without it now."" 
+PA-C, Primary Care
+
+Disclaimer: Vera is designed exclusively for healthcare professionals. It serves as a clinical decision-support tool, and you should always apply your own clinical judgment when using the app
+
+Download Vera Health today and experience the future of AI-powered clinical decision support. With Vera, find the answer, treat with confidence.",2025-07-28T07:00:00Z,2025-09-28T02:37:28Z
+cy,Cyprus,Medical,6020,17,1296315130,CONTOUR DIABETES app (CY),Ascensia Diabetes Care US Inc.,https://apps.apple.com/cy/app/contour-diabetes-app-cy/id1296315130?uo=4,0.0,5,3,Medical,"The easy-to-use CONTOUR™DIABETES app is designed for adults of all ages with diabetes.(1) Since 2016, there have been over 1.2 million downloads.(2) Start your download and enjoy your journey.
+
+People using the system say they:(1,3)
+•	better understood their diabetes
+•	significantly decreased HbA1c values
+•	didn't find it to be a hassle that compromised their quality of life
+
+The CONTOUR™DIABETES app syncs with a CONTOUR™ connected meter for seamless blood glucose monitoring. This easy-to-use app can give you a better understanding of how your daily activities affect your blood glucose results to help you manage your diabetes. In addition to using the CONTOUR™DIABETES app, always consult with your Health Care Professional before making any changes to your diet, exercise or treatment regimen.
+
+The CONTOUR™DIABETES app presents your blood glucose results in a simple and easy-to-review way that’s personalized to you. Download the CONTOUR™DIABETES app today and start receiving meaningful information on your progress, with some of the latest features...
+•	My Patterns – can notify you of trends in your blood glucose readings, by presenting you with potential causes and guidance on how you may improve
+•	Test Reminder Plans – let you optimize your testing regime to give you results that are more insightful
+•	Record – allows you to record events such as diet, activities and medication, and also add photos, notes or voice memos to help put your results in context
+•	View – if you use insulin and/or log your carbs, you can now see your insulin doses, carb intakes and blood glucose results in one simple view
+•	Share – give your healthcare professional greater insight with the easy-to-read diary report – send this report in advance or take it with you on the day of your appointment
+•	Apple Health™ - is now integrated with the CONTOUR™DIABETES app
+
+Learn more about the CONTOUR™DIABETES app and CONTOUR™ connected meters at:
+www.diabetes.ascensia.com
+compatibility.contourone.com
+
+Note: Screenshots are for illustration purposes. Availability of blood glucose meter model based on country of purchase. Units of measurement in the app will match that of your synced meter. For more information, please refer to the user guide for your CONTOUR™ connected meter.
+
+© 2021 Ascensia Diabetes Care Holdings AG. All rights reserved.
+
+Manufacturer
+Ascensia Diabetes Care Holdings AG 
+Peter Merian-Strasse 90
+4052 Basel, Switzerland 
+www.diabetes.ascensia.com
+
+Ascensia, the Ascensia Diabetes Care logo and Contour are trademarks and/or registered trademarks of Ascensia Diabetes Care Holdings AG.
+
+1.	Fisher W et al. User Experience with a New Smartphone Application for Blood Glucose Monitoring (BGM) in an Information-Motivation-Behavioral Skills (IMB) Model Study. Poster presented at the 12th International Conference on Advanced Technologies & Treatments For Diabetes (ATTD); February 20-23, 2019; Berlin, Germany.
+2.	Data on file. Ascensia Diabetes Care. DCAM-147-5682.
+3.	Fernandez-Garcia D et al. The ICONE Study: A multicenter evaluation of the impact of CONTOUR™NEXT ONE and CONTOUR™DIABETES app on Self-Management and Adherence in Insulin-Treated Patients with Diabetes. ePoster presented at European Endocrinology Society Congress (ECE), 5-9 September 2020.",2018-04-25T22:01:47Z,2024-08-14T15:13:22Z
+cy,Cyprus,Medical,6020,18,1119115786,Здравсити – Аптеки с доставкой,"PROTEK, ZAO FIRMA TSV",https://apps.apple.com/cy/app/%D0%B7%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D0%B8%D1%82%D0%B8-%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8-%D1%81-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%BE%D0%B9/id1119115786?uo=4,0.0,5,5,Medical,"ЗДРАВСИТИ - онлайн-сервис для поиска и заказа лекарств, аптечной косметики, товаров для здоровья. Здравсити это первый крупномасштабный проект, объединяющий аптеки по всей России. Соберите домашнюю аптечку быстро и легко. Товары привезут до ближайшей к вам аптеки или домой курьером. Оплачивайте как удобно: в момент заказа или при получении.
+
+ Как это работает?
+
+Вы находите нужный товар, добавляете его в корзину, выбираете из списка аптек-партнеров Здравсити ближайший пункт доставки и подтверждаете заказ. Или введите ваш адрес в адресную строку для доставки курьером. При поступлении товаров в аптеку, на указанный номер телефона придет смс с подтверждением. Вам останется только оплатить заказ в аптеке и получить его (если он не был оплачен ранее).
+
+Приложение Здравсити - это целая аптека в вашем гаджете. В каталоге представлено более 46 000 наименований товаров для красоты и здоровья: лекарства, косметика, детское и здоровое питание, витамины. В аптеках- партнерах найдется то, что вы ищете. Ваша домашняя и автомобильная аптечка будут наполнены всеми необходимыми лекарствами и перевязочными средствами без лишних хлопот.
+
+Какие товары представлены на Здравсити?
+
+-Препараты и медтехника
+- Витамины, БАДы
+- Таблетки от похмелья
+- Аптечная косметика (кремы для лица, тела от известных брендов)
+- Косметика и товары для детей
+- Товары для здоровья, линзы
+- Перевязочные материалы и товары для ухода за больными
+- Компрессионное белье и бандажи
+- Товары для беременных, кормящих мам, детские смеси
+- Все для домашней и дорожной аптечки
+- Декоративная косметика и многое другое
+
+Приложение Здравсити вам поможет:
+
+1) Быстро заказать нужные товары 24/7 в ближайшую аптеку или домой.
+2) Узнать о наличии лекарств в аптеке и заказать товары близким в другой город (и сразу же их оплатить).
+2) Первым узнавать об акциях и специальных предложениях на препараты в разных аптеках.
+3) Оперативно получать информацию о поступлении нужного товара на склад.
+4) Отслеживать ваш заказ и контролировать все стадии доставки.
+5) Мгновенно связаться с колл-центром Здравсити и получить консультацию.
+6) Найти редкие лекарства, таблетки и товары, которые не представлены в аптеках.
+7) Смотреть аналоги лекарств и читать инструкции, чтобы соблюдать правильный прием лекарств.
+8) Следить за накоплением и списанием бонусных баллов.
+9) Получать кешбэк 1% и скидки до 70% при заказе товаров для здоровья и красоты, среди которых: лекарства, косметика, питание для малышей, витамины.
+
+
+Мы публикуем полезные статьи и советы о здоровье. Ссылка на сайт:
+
+https://zdravcity.ru/
+
+Наши социальные сети:
+
+VK https://vk.com/zdravcity
+
+Не забудьте проконсультироваться с врачом перед заказом лекарств в приложении Здравсити, чтобы узнать о возможных побочных действиях и совместимости с уже принимаемыми препаратами! Все лекарства и товары для здоровья сертифицированы, при доставке соблюдаются условия хранения и транспортировки.
+Скачивайте приложение и берегите свое здоровье. 
+
+Реквизиты ООО ""ПроАптека"", ЛО-77-02-010669.
+Юр.адрес: 127282, г. Москва, ул. Чермянская, д. 2, стр. 1",2016-06-03T05:16:48Z,2025-11-10T16:16:15Z
+cy,Cyprus,Medical,6020,19,1144871267,Pregnancy Tracker by Moms,Wachanga LTD,https://apps.apple.com/cy/app/pregnancy-tracker-by-moms/id1144871267?uo=4,0.0,4.66667,90,Medical,"Discover one of the top pregnancy tracker apps designed specifically for women and expecting parents. This application will keep you calm throughout your pregnancy, providing daily insights into your baby's development and your own health. It will let you know what’s happening with you and your unborn baby—week after week—and offer guidance on how to handle new situations. New, helpful articles are posted every day to support your pregnancy journey!
+
+
+
+
+Keep track of your weight, blood pressure, tummy growth, baby's first movements, and contractions with our advanced tracking tools. Save all your important data in a single, easy-to-share report for your doctor, ensuring your pregnancy progress is well-documented.
+
+
+May your pregnancy be pleasant and wonderful! Our app provides the tools and resources expecting parents need to feel confident and prepared.
+
+
+
+The Most Interesting Features of the App:
+- Convenient Calendar: Schedule tests and doctor visits effortlessly.  
+
+- Pregnancy Diary: Use this tracker to log your weight, tummy size, blood pressure, mood, and sexual activity daily. Never miss appointments or key tests.  
+
+- Weekly Baby Development Updates: Find out when your baby becomes the size of a grapefruit, grows eyelashes, or when you can discover their gender. Get nutritional and lifestyle advice tailored for women and their babies.  
+
+- Daily Articles: Access a wealth of resources and tools with professional advice to help women navigate emotions, relationships, and health during pregnancy.  
+
+- Doctor Report: Compile all your tracking data into a comprehensive report, available as a PDF or on your phone, to share with your doctor.  
+
+- Checklists and To-Do Lists: Stay organized with trimester-specific checklists and to-do lists—perfect for expecting parents.  
+
+- Smart Gestational Age Calculator: Trusted by top medical professionals, this tool calculates fetal and obstetric terms with pinpoint accuracy.  
+
+- Kegel Exercises: Prepare for childbirth with guided exercises, an essential tool for women’s health during pregnancy.  
+
+- Contraction Counter: This intelligent tracker distinguishes real contractions from practice ones, ensuring you and your baby are ready for delivery.  
+
+- Health App Synchronization: Securely save your pregnancy tracking data with seamless integration.
+
+
+We’ve worked hard to create one of the best apps for expectant mothers. Send your feedback to team@wachanga.com (mailto:team@wachanga.com)—we’re here to support women and parents every step of the way.
+
+
+
+GOLD STATUS IN THE APP
+- The subscription costs $1.99 per month
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2017-03-20T02:32:27Z,2025-11-13T01:09:53Z
+cy,Cyprus,Medical,6020,20,863327251,Pill Reminder Medication Alarm,Aplicativos Legais LTDA - ME,https://apps.apple.com/cy/app/pill-reminder-medication-alarm/id863327251?uo=4,0.0,4.85714,14,Medical,"Download today and enjoy the peace of mind that comes with never missing a dose again!
+
+With our user-friendly interface, you can easily manage all of your medications in one place, ensuring that you never miss a dose again. Our app is perfect for anyone who struggles to take their medication on time or has to take multiple medications each day. It's also ideal for women who use contraceptives and want to make sure they never miss a dose.
+
+Customize your medication schedule by entering the name of each medicine, the interval between doses, the time of the first dose, the photo and much more. 
+
+With Pill Reminder, you can:
+
+* Schedule all your meds in one easy-to-use app;
+* Customize your pills with colors, photos, and notification sounds;
+* See the time of your next dose at a glance;
+* Receive notifications to remind you to take your medications;
+* Track medications that you take as you need;
+* See all your intake history.
+
+Pill Reminder - the must-have app for anyone who needs help remembering to take their medication on time. 
+
+Upgrade to the full version to remove ads and add an unlimited number of medications to your schedule.
+
+Read our Privacy Policy and Terms of Use at http://aplicativoslegais.com.br/politica-privacidade/pill-reminder-en.html.",2014-05-01T00:17:14Z,2025-10-08T12:33:37Z
+cy,Cyprus,Medical,6020,21,1486566875,WIDEX MOMENT,Widex AS,https://apps.apple.com/cy/app/widex-moment/id1486566875?uo=4,0.0,0,0,Medical,"Personalize your listening experience whenever you want to.
+
+Take control of your hearing aid
+With a tap you can change program, adjust volume and mute/unmute your hearing aids directly from the Home screen.
+
+Pick what you want to hear
+Use our Directional focus program to focus on the sounds you want to hear, and less on the sounds you don't.
+
+Choose how you want to hear
+Adjust the bass, middle and treble of individual programs so your hearing aids sound just how you want them to.
+
+Use AI to create your own sound
+Get creative and teach your hearing aids how you want to hear using our artificial intelligence (AI) technology in SoundSense Learn.
+
+Make your own programs
+You never have to worry about ""getting things wrong"". Save sound changes as a new program and give it a name.
+
+Get instant sound recommendations
+We'll offer you recommendations to optimize your sound based on how users around the world have used their hearing aids.
+
+Stream directly to your hearing aids
+Hear phone calls, music and everything else from your phone directly in your hearing aids.
+
+And much, much more...
+
+Transparency and respecting your privacy are important to us. Some app features can only be used if you give the relevant permissions. However, you can always choose to decline these permissions and not use these features, without affecting the rest of your app experience.
+
+We continuously update our device compatibility list. Please visit our website to see the latest devices we support: https://www.widex.com/en/support/compatibility/
+
+Product number: 5 300 0021
+
+In case of a serious incident, report the occurrence to the manufacturer of the device.",2020-03-02T08:00:00Z,2024-02-07T09:09:15Z
+cy,Cyprus,Medical,6020,22,1252857347,PiyoLog Baby Feeding Tracker,PiyoLog Inc.,https://apps.apple.com/cy/app/piyolog-baby-feeding-tracker/id1252857347?uo=4,0.0,5,2,Medical,"PiyoLog is a childcare record-keeping app that can be shared by a couple in real time.
+This mother and child health notebook app lets you keep records of milk, diaper changing, sleep, and the like with easy one-handed operation!
+It provides a variety of features including a nursing timer, summary function, growth curve function, and more.
+
+◆Built-in sharing function◆
+Your input is shared immediately, so both parents can check on the baby's records anytime.
+On days when daddy is taking care of the baby while mommy is out, mommy can still have peace of mind by checking sleep times and milk amounts when daddy records them.
+
+◆Record types◆
+Nursing, Formula, Pumped breast milk, Baby food, Snacks, Poop, Pee, Sleep, Temperature, Height, Weight, Baths, Walks, Coughing, Rashes, Vomiting, Injuries, Medicine, Hospitals, and any other information you like, as well as a childcare diary (with photos)
+
+◆Unique features◆
+・Designed for easy, one-handed operation even while nursing, etc.
+・Equipped with time bar function providing daily summary at a glance
+・Automatically aggregates and displays one-day amounts for nursing time, milk quantity, sleeping time, etc.
+・Summarizes weekly variation in meals, sleep, bowel movements, and temperature in easily viewable graph
+・Enables you to check how baby is growing with growth curve
+・Notifies you of next nursing time
+
+Terms of Use
+https://www.sakabou.co.jp/app/piyolog/eula_en.html",2017-11-02T00:38:06Z,2025-10-26T13:10:19Z
+cy,Cyprus,Medical,6020,23,6471573244,Express.Doctor,FITC INC,https://apps.apple.com/cy/app/express-doctor/id6471573244?uo=4,0.0,0,0,Medical,"Это Express.Doctor, ваш гид в мир здоровья без границ! Мгновенный доступ к медицинским консультациям с помощью нашего передового мобильного приложения.
+
+Глобальный доступ: Свяжитесь с ведущими врачами со всего мира. Неважно, где вы находитесь или куда вы направляетесь, наши опытные медицинские профессионалы здесь, чтобы предложить вам помощь на вашем языке.
+
+Мгновенные консультации: Скажите прощай долгим ожиданиям. С Express.Doctor вы можете быстро получить доступ к онлайн-видео или чат-консультациям с нашими опытными врачами.
+
+Экспертная команда: Наша специально отобранная команда специалистов всех направлений медицины. Каждый эксперт тщательно отбирается на основе профессионального опыта и рекомендаций, чтобы вас консультировали лучшие.
+
+Консилиум в вашем телефоне: В сложных случаях мы создаем специализированную команду специалистов для совместного поиска лучших решений для вас. Ваше здоровье - наш приоритет.
+
+Доверенные клиники: В каждой стране мы сотрудничаем с клиниками с наилучшей профессиональной репутацией, гарантируя высококлассное медицинское обслуживание и неизменную честность для каждого пациента.
+
+Без границ: Меняете страну проживания? Нет проблем! Ваш доверенный врач по прежнему с вами. Если потребуется личный визит или рецепт, мы свяжем вас с самой удобной клиникой там, где вы находитесь.
+
+Присоединяйтесь к революции в здравоохранении. Скачайте Express.Doctor прямо сейчас и доверьте ваше здоровье профессионалам.",2023-11-14T08:00:00Z,2025-08-26T17:49:19Z
+cy,Cyprus,Medical,6020,24,1632198539,Blood Sugar Monitor - Diabetes,Andrei Nemtsou,https://apps.apple.com/cy/app/blood-sugar-monitor-diabetes/id1632198539?uo=4,0.0,4,2,Medical,"Glucose Tracker helps to keep your blood sugar levels in your target range and help prevent or delay long-term, serious health problems. Staying in your target range can also help improve your energy and mood. 
+
+Use the App to track your blood sugar:
+
+- When you first wake up, before you eat or drink anything
+- Before a meal
+- Two hours after a meal
+- At bedtime
+
+These are typical blood sugar targets: 
+
+- Before a meal: 80 to 130 mg/dL (4.4 - 7.2 mmol/L)
+- Two hours after a meal: Less than 180 mg/dL (10.0 mmol/L)
+
+Your blood sugar targets may be different depending on your age, any additional health problems you have, and other factors. Be sure to talk to your health care team about which targets are best for you.
+
+Glycemic index table allow you to avoid unwanted foods
+
+Use our App for glucose tracking and stay healthy!
+
+Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2022-07-18T07:00:00Z,2025-11-07T10:24:58Z
+cy,Cyprus,Medical,6020,25,919490169,PulseLife ex 360 medics,360 medical,https://apps.apple.com/cy/app/pulselife-ex-360-medics/id919490169?uo=4,0.0,4.625,8,Medical,"360 medics becomes PulseLife to answer all your medical questions! 
+
+Medical search engine, clinical app ecosystem and scientific intelligence: get instant access to the information you need to make informed clinical decisions.    
+
+More than 600,000 caregivers including 300,000 physicians users worldwide.
+____________
+
+- Your new way to search for medical information 
+Thanks to our medical search engine, finding the answer to your medical questions has never been so fast, simple and reliable! 
+-> Do you have questions about a pathology and its associated therapeutic strategy? Access the latest recommendations and decision trees that will help you manage your patients. You can also access the list of all drugs for this disease.  
+-> Do you want to know the dosage of a drug? Its contra-indications? Its side effects? Find the answers to these questions in a few clicks (sources MHRA)
+-> Do you want to know about the latest scientific advances? Type in the topic you are looking for and access the latest scientific news from millions of sources (The Lancet, Sciencedirect...Etc.).  
+-> Do you want to calculate a score (creatinine clearance, well score...) ? Type the name of the score in the PulseLife search bar and access a simple and interactive calculation tool for a quick result.  
+ 
+- All your essential clinical tools in PulseLife  
+A unique ecosystem of clinical apps to support you in your consultations: calculators, scores, decision aids, clinical cases. These tools are developed by the most expert scientific partners in each specialty (learned societies, colleges, etc.). 
+ 
+- All the medical watch, updated in real time, accessible on PulseLife 
+To keep up with the constant evolution of knowledge, access a personalized scientific watch according to your profile. More than 3000 recognized scientific journals are referenced. 
+ 
+
+PulseLife (ex 360 medics) has also thought about your organization with :
+
+A secure drive to add your medical documents and take your medical knowledge library with you everywhere (20GB offered).
+A To do list to manage your daily medical tasks so you don't forget anything!
+____________
+
+All services are free and optimized for different media (mobile, tablet, PC).
+
+
+Do you like our application? Don't hesitate to share your opinion on the app store!
+To learn more, visit our website at: www.pulselife.com and for any question, contact us at contact.uk@pulselife.com
+
+____________
+
+
+TRANSPARENCY: the source of each content or article published on the service is clearly mentioned. The drug files are reproduced as published on the public database by the ANSM. This information must not be used in any way to replace the medical opinion of a health professional.
+DATA PROTECTION: no personal information is disclosed to a third party, whether it is about your identity, your behavior or any other nominative information. 360 medics is committed to protecting your anonymity on 360 medics.",2014-10-22T07:08:47Z,2023-12-15T08:27:14Z

@@ -1,0 +1,771 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+kh,Cambodia,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/kh/app/google-translate/id414706506?uo=4,0.0,4.25361,4499,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2012-06-03T08:28:26Z,2025-11-18T17:48:56Z
+kh,Cambodia,Reference,6006,2,1187813249,Chuon Nath Digital Dictionary,MINISTRY OF ECONOMY AND FINANCE,https://apps.apple.com/kh/app/chuon-nath-digital-dictionary/id1187813249?uo=4,0.0,4.20124,482,Reference,"This is the first digital Samdech Porthinhean  Chuon Nath’s  Khmer-Khmer Dictionary to have exact content  from the Fifth Edition published in 1967. This work is under the initiative of H.E. Dr. Aun Pornmoniroth, Deputy Prime Minister of Economy and Finance with technical and financial supports from the Royal University of Phnom Penh(RUPP) and Electricite Du Cambodge (EDC).",2016-12-28T22:17:44Z,2020-06-19T17:08:47Z
+kh,Cambodia,Reference,6006,3,341922306,Pleco Chinese Dictionary,Pleco Inc.,https://apps.apple.com/kh/app/pleco-chinese-dictionary/id341922306?uo=4,0.0,4.58303,271,Reference,"Pleco is the ultimate Chinese learning companion: an integrated dictionary / document reader / flashcard system with fullscreen handwriting input and live OCR, from a company that's been making the world's best mobile Chinese learning apps since 2001.
+
+Major features: ($ = paid add-on)
+
+• Amazing dictionaries. We offer two free built-in dictionaries: the popular open-source CC-CEDICT, with over 110,000 frequently-updated entries, and our own PLC dictionary, with 125,000 entries, parts of speech, and over 25,000 example sentences (with Pinyin). More than two dozen other dictionaries are available as free and paid ($) add-ons, including licensed titles from well-known publishers like Oxford, Longman, FLTRP, Tuttle, SLPH, and Commercial Press.
+
+• Powerful merged search: look up words by Chinese characters, Pinyin (spaces / tones optional), or English, with support for wildcards and full-text search. And no need to tediously flip between all of those dictionaries to find a word - just type in your search term and instantly get a combined, frequency-sorted result list.
+
+• Links and cross-references: easily look up character components, break down words into individual characters, look up lists of words containing a particular character, and search across all dictionaries for example sentences containing a word.
+
+• Gorgeous typography: see it for yourself in our screenshots - we think we're one of the best-looking Chinese dictionaries around. Alternate Kai/Song/Xing-style Chinese fonts are also available ($).
+
+• PRC/HK/Taiwan-friendly: every part of Pleco supports both traditional and simplified, headword readings can be shown in Pinyin and Zhuyin, and some dictionaries even support Cantonese. (note: stroke order diagrams do support traditional characters, but use PRC order)
+
+• Audio: Hear Mandarin and Cantonese for words and example sentences using iOS' free built-in text-to-speech system. We also offer add-ons ($) with native-speaker Mandarin recordings and higher-quality Mandarin TTS.
+
+• Document Reader: bring in text from the clipboard and tap on words in it to instantly look them up. Upgrade ($) adds support for tap-lookups in text, HTML, DOC, DOCX, PDF, and EPUB files. We also offer graded readings ($).
+
+• OCR: look up words simply by pointing your device's camera at them, or by tapping on them in a still image. ($)
+
+• Fullscreen handwriting: use your device's whole screen instead of just a little box. Extremely accurate and highly tolerant of stroke order mistakes. (enhanced $)
+
+• Flashcards: create a card from any dictionary entry with a single button tap, import premade word lists, use advanced memorization techniques like SRS, and study in a variety of modes including fill-in-the-blanks handwriting and tone drills. ($)
+
+• Stroke Order Diagrams: animations showing you how to draw each character; 500 characters for free, 28,000 in paid ($) version.
+
+• User dictionaries: create new dictionary entries right on your device as you encounter new words. ($)
+
+• No ads.
+
+We also offer famously excellent customer support and an active user community at http://www.plecoforums.com. And we're constantly working to make our products better; our sales and customer base have been growing for two decades across 4 different platforms. You can be confident that we'll still be fixing bugs and adding features for years to come.
+
+Paid add-ons can be transferred to other devices that link to your iTunes account just like any other paid iTunes content; simply install our free app, open up the ""Add-ons"" screen, and tap on the ""Restore Purchases"" button to activate your purchase on each device.
+
+Please contact us at support@pleco.com, via the form at http://www.pleco.com/contact.html, or using the in-app ""Contact Support"" command with any questions - we'll be delighted to hear from you.",2012-06-02T14:50:04Z,2025-10-09T16:14:51Z
+kh,Cambodia,Reference,6006,4,1661203115,Khmer Dictionary 2022,Royal Academy of Cambodia,https://apps.apple.com/kh/app/khmer-dictionary-2022/id1661203115?uo=4,0.0,4.50649,77,Reference,"The National Council of Khmer Language of the Royal Academy of Cambodia is a national institution established to preserve and develop the Khmer language in script a sustainable manner and to preserve the Khmer national identity.
+
+The official Khmer dictionary has been published five times, including the first edition in 1938 (part 1) and 1943 (part 2), the second edition in 1952 (part 2), the third edition in 1958 (part 1) and 1962 (Part 2), 4th edition in 1962 (Part 1) and 5th edition 1967 (Part 1) and 1968 (Part 2). In the 55 years since the publication of the fifth Khmer dictionary in 1967 to 2022, many words have not yet been added to the Khmer dictionary. On the other hand, according to the development of economic and the development of technology and in the context of globalization, words need to be used for social needs.
+
+
+From 2018 to 2022, the National Council of Khmer Language has received the full support of the Royal Government of Cambodia for the project to update the Khmer dictionary, which is another new history in the field of national literature after the creation of the first Khmer dictionary in 1915. A National Committee was established in 2018 with the aim of updating and modernizing the Khmer dictionary for harmonization in the use of the Khmer language.
+
+
+The National Committee for the Preparation of the Khmer Dictionary has set the technical principles for updating, such as preserving the original form of the Khmer Dictionary by modifying some points; adding words that are already in use, which are not yet in the Khmer dictionary; add the pronouncing scripts all the words and some sub-words; change the word order by being divided into 8 categories: nouns, pronouns, verbs, adjectives, adverbs, preposition, conjunctions, exclamatory.
+
+
+According to the development of technology and to promote the dissemination of Khmer language to readers and scholars across the country and globally, the National Council of Khmer Language has developed the update online Khmer dictionary software version 1.0 and a smart phone Application which is very popular nowadays.
+
+
+Searching for words or words digitally using the Internet or a smartphone Application is easy and time-saving. People all over the world who wish to search for keywords and explanations by simply using the internet or smart phone Application and save time searching. 
+
+The National Council of Khmer Language is pleased to welcome any constructive comment via:
+
+
+https://nckl.rac.gov.kh
+Facebook: National Council for the Khmer Language (https://www.facebook.com/NCKLCambodia)
+Email: nckl.home@rac.gov.kh",2022-12-25T08:00:00Z,2024-08-07T12:40:50Z
+kh,Cambodia,Reference,6006,5,597492646,Longman Dictionary of English,Pearson Education Limited,https://apps.apple.com/kh/app/longman-dictionary-of-english/id597492646?uo=4,0.0,4,12,Reference,"The new edition of the best-selling Longman Dictionary of Contemporary English is a complete vocabulary and grammar resource that will enhance your learning of English. 
+● Support for iOS7 to iOS9
+● Works with new generation iPads, iPhones, and iPods.
+
+The Longman Dictionary of Contemporary English (6th Edition) © 2015 
+Now with integrated Grammar, Thesaurus, and Collocations Dictionary. 
+Improve your English with the full content of the dictionary at your fingertips:
+
+Natural English
+● 165,000 corpus-based examples of natural English show words in context and how English is really used.
+
+Comprehensive
+● 230,000 words, phrases, and meanings – more than any other learner's dictionary.
+Easy to use – easy to understand
+● Definitions written using a vocabulary of just 2,000 words – the Longman Defining Vocabulary, ensuring all definitions are clear and easy to understand.
+
+Expand your vocabulary 
+● Frequency information on the most common words – the new Longman Communication 9000 – helps you learn them first.
+● Words from the Academic Word List highlighted to help you improve your essays and presentations.
+
+Write and speak fluently 
+● An integrated Collocations Dictionary with more than 65,000 collocations: learn word combinations to use the correct words together, such as ‘take a test’ (not ‘make a test’), ‘heavy rain’ (not ‘strong rain’), and ‘highly successful’.
+● The integrated Thesaurus with more than 18,000 synonyms, antonyms, and related words helps you improve your writing by using more precise and high level words: stop saying ‘nice’, instead, say ‘lovely, delightful, enjoyable, wonderful, brilliant’.
+● Register Notes on the differences between spoken and written English help you express yourself precisely.
+
+Improve your grammar
+● Avoid making common mistakes and get extra help with grammar patterns and using the correct tenses.
+Improve your pronunciation
+● All headwords pronounced in both British and American English　
+PLUS 
+● All example sentences pronounced in either British or American English (via external links) 
+
+All this makes the Longman Dictionary of Contemporary English the largest resource of English available on any mobile platform.  
+________________________________ 
+
+Application Features: 
+● Full content of the print dictionary 
+● PLUS additional collocations, synonyms, and word origins 
+● Guide on how to use the dictionary
+● Search using wildcards and suggested words 
+● Predictive text in search helps you with spelling as you look for words
+● Search for idioms and phrasal verbs 
+● Search history to help you find recently searched for words
+● Support for search from within other compatible apps on your device 
+● Universal app for iPod, iPhone, and iPad
+● Fully detailed color Retina Display images
+● Bookmark your favorite words
+● Copy words and text to clipboard 
+● Word-of-the-Day notifications
+● New design and improved navigation
+● Adjustable font scaling to support visually impaired users
+● Saved bookmarks will be updated in a forthcoming release
+
+The ultimate learner's resource of the English language for use anywhere, anytime. 
+
+Copyright: 
+Longman Dictionary of Contemporary English, Sixth Edition (LDOCE6) 
+© Pearson Education Limited 2009, 2015",2014-07-01T07:00:00Z,2025-10-06T20:26:01Z
+kh,Cambodia,Reference,6006,6,635146472,Phum Dictionary,"Biz Solution Co., Ltd.",https://apps.apple.com/kh/app/phum-dictionary/id635146472?uo=4,0.0,3.88688,442,Reference,"Phum Dictionary is your ultimate tool for fast and accurate translations of words, phrases, and expressions. Perfect for students, professionals, and language enthusiasts, it provides precise definitions, examples, and more to enhance your language proficiency.
+
+With an intuitive design and lightning-fast search, Phum Dictionary makes exploring a vast collection of Khmer and English words effortless—whether you're learning a language or bridging communication gaps.",2013-04-19T16:47:33Z,2025-11-13T03:14:02Z
+kh,Cambodia,Reference,6006,7,1572671492,Khmer Dictionary: Chuon Nath,Vatana Chhorn,https://apps.apple.com/kh/app/khmer-dictionary-chuon-nath/id1572671492?uo=4,0.0,4.62927,9050,Reference,"Introducing the ultimate Khmer dictionary app for Cambodian learners – Khmer Dictionary: Chuon Nath! This digital gem is a modern rendition of Sâmdăch Preăh Sángréach Chuŏn Nat Choŭtănhéanaô's Khmer-Khmer dictionary, specifically designed to assist Cambodian students in their studies and deepen their understanding of Khmer words.
+
+Key Features:
+- Over 20,000 Khmer words
+- Clear word definitions with examples
+- Convenient bookmark and history features
+- English dictionary included
+- Training module for enhanced learning
+
+Why miss out? Grab Khmer Dictionary: Chuon Nath now to make your Khmer language journey seamless and enriching. Don't wait or you might regret it later! Proudly made in Cambodia.",2021-06-21T07:00:00Z,2025-10-03T02:54:01Z
+kh,Cambodia,Reference,6006,8,1476365879,GDT Check & Track,General Department of Taxation,https://apps.apple.com/kh/app/gdt-check-track/id1476365879?uo=4,0.0,4.2069,87,Reference,"GDT Check & Track App is an app which user have ability to verify any letters issue by Cambodia Taxation, and also can track document status by scanning QR-Code.
+
+User can verify on below letter such as:
+
+• Certificate of Patent Tax
+• Certificate of Tax Registration (Value Added Tax-Vat)
+• Tax Agent License
+• Certificate of Tax Compliance
+• Certificate of Tax Situation for The Complete Closure of The Company
+• Certificate of VAT0
+• QIP Letter
+• Yearly Letter
+• Audit Letter
+• Reply Letter
+• Payment of Property Ownership Transfer Tax Letter
+• Single Invoice 
+• Road Tax Stamp ...",2019-11-25T08:00:00Z,2025-10-06T09:31:07Z
+kh,Cambodia,Reference,6006,9,6498551215,2Accounts: Dual Parallel Space,Roya Waqas,https://apps.apple.com/kh/app/2accounts-dual-parallel-space/id6498551215?uo=4,0.0,4.35294,68,Reference,"2Account: Dual Parallel Space
+
+Effortlessly Manage Multiple Accounts!
+With 2Account, switch between social media and messaging profiles on your iPhone without the hassle of logging in and out. Enjoy seamless account management with just a tap!
+
+Key Features:
+
+“Profile Switching”
+ Switching between Facebook, WhatsApp,  Instagram , and more.
+
+“Unique Fonts & Styles”
+  Personalize your messages with creative fonts and text styles.
+
+“Easy Account Management”
+  Organize work and personal profiles effortlessly.
+
+“Explore More Quotes!”
+  Access a collection of motivational quotes to add positivity and encouragement to your chats.
+
+
+Experience the convenience of managing multiple accounts with 2Account—stay organized, secure, and connected!",2024-04-29T07:00:00Z,2025-10-03T14:51:56Z
+kh,Cambodia,Reference,6006,10,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/kh/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.72281,2915,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+kh,Cambodia,Reference,6006,11,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/kh/app/deepl-translate/id1552407475?uo=4,0.0,4.55882,34,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+kh,Cambodia,Reference,6006,12,1111041763,Loan Khmer,Mony Sath,https://apps.apple.com/kh/app/loan-khmer/id1111041763?uo=4,0.0,4.125,16,Reference,"Mortgages and Loans for Khmer: 
+
+Weekly or Bi-Weekly or Monthly Frequent Payments?
+
+-How much will I pay?
+
+This application is helping you as a first-time home buyer or purchasing a home for investment, the journey to owning a valuable piece of real estate is exciting, and rewarding. You can send a draft copy of loan table by email to friend/family to decide or inform them.
+ 
+There are many factor when deciding to buy a home, you might want to consider these factors:
+
+• How soon you’ll be mortgage-free.
+• The total amount of payments you would make over the year.
+• The amount of each payment.
+• The convenience of synchronizing payments with your cash flow.
+• How much you’ll save in interest over the life of your mortgage.
+
+Note: This application is for informational and general illustrative purposes only and may be based on assumptions, dates and projections that may not be correct or applicable",2016-05-07T01:22:26Z,2018-11-29T20:33:52Z
+kh,Cambodia,Reference,6006,13,6740017050,Translate Ease,GOOD STUDY NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/kh/app/translate-ease/id6740017050?uo=4,0.0,4.63309,1251,Reference,"In this globalized world, overcoming language barriers has become more important. Our Translate Ease is committed to providing you with accurate and fast translation services, allowing you to easily solve any language translation problems you need, no matter where you are.
+
+Applicable scenarios:
+Travel: Whether it is a restaurant menu, traffic signs, or interactions with locals, the translation app can help you quickly understand.
+Business: When communicating with multinational companies and customers, the translation app allows you to easily handle emails, documents, and calls in various languages.
+Learning: A must-have for partners learning new languages, translate words, phrases, and sentences anytime, anywhere to accelerate the language learning process.
+Daily life: Translate shopping tags, recipes, news, etc. to help you better understand content in different languages.
+
+Why choose us?
+High accuracy: Using advanced translation algorithms to ensure accurate translation results.
+User-friendly: The simple interface design makes it easy for you to get started and quickly find the functions you need.
+Fast and efficient translation experience, easily cope with various scenarios such as daily conversations, business emails, travel routes, etc.
+Voice translation function allows you to speak the language directly without typing, and the application will instantly recognize and translate, bringing a smoother communication experience.
+
+Let communication without borders, experience seamless global communication. Download the Translate Ease app now and make every communication simple and hassle-free!",2025-01-11T08:00:00Z,2025-09-09T20:40:43Z
+kh,Cambodia,Reference,6006,14,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/kh/app/oxford-dictionary/id978674211?uo=4,0.0,4.57033,1038,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2015-06-26T07:50:37Z,2025-11-18T21:39:49Z
+kh,Cambodia,Reference,6006,15,393499958,네이버 - NAVER,NAVER Corp.,https://apps.apple.com/kh/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958?uo=4,0.0,3.33333,9,Reference,"모바일에 최적화된 다양하고 풍부한 정보! 매일 새로워지는 네이버앱을 만나보세요.
+
+네이버앱은 콘텐츠 유형에 따라 5개의 공간을 제공합니다.
+내가 좋아하는 건 주제별로 ‘홈피드’에서, 짧고 빠르게 즐기는 숏폼은 ‘클립’에서, 뉴스와 각종 읽을 거리는 ‘콘텐츠’에서, 나의 쇼핑 흐름에 맞춰 깎고, 받고, 쌓는 경험은 ‘네이버플러스 스토어’에서, 인증과 결제 뿐만 아니라 내 활동 내역을 확인할 수 있는 ‘마이’까지, 일상의 편리함 네이버앱, 지금 다운로드하세요!
+
+1. 내 취향 콘텐츠를 주제별로 탐색해 보세요.
+검색홈 하단에서 내가 좋아하는 주제를 골라 콘텐츠를 탐색할 수 있어요. 스포츠, 엔터, 패션뷰티와 테크까지! 다양한 주제의 맞춤 콘텐츠를 끊임 없이 추천해드려요.
+
+2. 이미지와 영상으로 남기는 나만의 리뷰, 클립
+짧은 여유 시간엔 클립을 감상하고 특별한 순간엔 직접 이미지와 영상으로 남겨보세요. 마음에 드는 크리에이터를 팔로우 할 수 있고 나만의 공간에서 내 클립들을 모아볼 수 있어요. 클립 하나로 보는 즐거움과 만드는 재미를 모두 경험해 보세요.
+
+3. 더 깎아주고 더 쌓아주는 네이버플러스 스토어
+홈 하단에서 내게 꼭 맞는 상품과 혜택이 가득한 쇼핑 콘텐츠를 통해 탐색과 발견의 즐거움을 더해줍니다.
+오늘의 할인 혜택과 다양한 프로모션, 인기 트렌드까지 초개인화 맞춤 추천으로 깎고, 받고, 쌓는 셈이 다른 쇼핑을 경험해 보세요.
+
+4. 인증, 결제, 활동내역까지 마이에서 한눈에
+현장에서 지갑대신 사용할 수 있는 인증, 결제도구와 내 결제/예약 주문 목록 및 찜한 상품, 저장한 장소 등 흩어져있던 내 활동내역을 마이에서 모아볼 수 있어요.
+
+5. 그린닷 AI검색으로 일상을 편리하게 
+그린닷을 통해 이미지 기반으로 정보를 검색하는 렌즈, 궁금한 음악을 찾아주는 음악검색, 손을 쓰지 않아도 검색이 가능한 음성검색, 음식점을 비롯한 주변 정보를 알려주는 내 주변 등 다양한 검색 기능을 더욱 편리하게 이용할 수 있어요.
+
+※ 참고 사항
+네이버앱을 쾌적하게 이용하기 위해서는, iOS 16.0 이상의 환경에서 설치하는 것을 권장합니다. 앱이용 중 문제가 발생한 경우 네이버앱 설정-고객센터로 문의해 주세요.
+
+웹사이트에서 음성 인식 기능 이용 시 '음성인식' 권한이 필요할 수 있습니다. '음성인식' 권한을 허용한 상태에서 음성인식 기능을 이용하는 경우 Apple의 정책에 따라 음성 데이터가 Apple로 전송되며, 그 외 다른 정보는 일체 전송 되지 않습니다.
+
+A wealth of information optimized for mobile! Experience the NAVER app, refreshed daily.
+
+The NAVER app offers five spaces tailored to different content types. Your favorite is in “Home Feed,” short and quick entertainment can be found in “Clip,” and “Content” provides news and various reading materials. “NAVER Plus Store” offers a personalized shopping experience, with deals, rewards, and benefits, and “MY” is where you check your activity logs as well as authentication and payments. Download the NAVER app now for your everyday convenience!
+
+1. Browse content tailored to your interests by topic.
+Select your favorite topics and explore the content at the bottom of the search home. From sports and entertainment to fashion and beauty to tech, NAVER continuously recommends personalized content across various subjects.
+
+2. Clip – Your Personal Reviews in Photos and Videos
+Enjoy short moments by watching Clips, and create your own special ones with photos and videos. Follow your favorite creators and keep all your clips neatly archived in your personal space. Discover the joy of both watching and creating.
+
+3. NAVER Plus Store, where you save more and earn more
+A wealth of shopping content with tailored products and offers at the bottom of Home will help you explore and discover the joy of shopping. Experience a unique shopping journey that lets you save, earn, and collect more through hyper-personalized deals that include today’s discounts, various promotions, and trending items.
+
+4. Authentication, payments, and activity logs — all at once in MY
+MY brings together your scattered activities, including on-site wallet alternatives, payment solutions, checkout/pre-order lists, favorite items, and saved locations. 
+
+5. Make your daily life convenient with the Green Dot AI Search 
+Try out Green Dot, an AI search tool that adds convenience to your daily life. You can enjoy various search functions more conveniently, including Lens that searches for information based on images, music search that finds the music you’re curious about, voice search for hands-free searching, and location-based search for information about neighborhoods, such as restaurants. 
+
+* NOTE
+For the best experience with NAVER app, we recommend installing it on iOS 16.0 or higher. If you have problems while using the app, please send your inquiries via NAVER app's Settings - Customer Center.
+
+Using speech recognition features on the website may require ""Speech Recognition"" permission. When using speech recognition features with ""Speech Recognition"" permission enabled, your voice data will be sent to Apple in accordance with Apple's policies, and no other information will be sent.
+
+----
+개발자 연락처: naver_market@naver.com, 1588-3820
+경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561",2012-06-03T03:26:01Z,2025-11-19T01:49:17Z
+kh,Cambodia,Reference,6006,16,1147874819,Naver Papago - AI Translator,NAVER Corp.,https://apps.apple.com/kh/app/naver-papago-ai-translator/id1147874819?uo=4,0.0,4.38095,21,Reference,"Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean? 
+In Esperanto, Papago refers to a parrot, a bird with language abilities. 
+Papago supports 14 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic. 
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button 
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation 
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation 
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a 
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like :  https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+※ Supporting iOS 15.0 or above
+ ※ Available on PC and mobile. https://papago.naver.com
+ ※ For app-related issues and errors: https://goo.gl/9LZLRe
+  
+Developer Contact No.: 
+1588-3820  
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul",2016-09-11T05:54:33Z,2025-10-21T16:11:38Z
+kh,Cambodia,Reference,6006,17,937140477,Chinese Stroke Order Character,健生 任,https://apps.apple.com/kh/app/chinese-stroke-order-character/id937140477?uo=4,0.0,4.45714,105,Reference,"Chinese characters is difficult to write for beginner. This app help you lookup Chinese characters with strokes order and master your writing skill.
+
+Awesome feature:
+1. More than 20000 Chinese strokes
+2. Pinyin annotation
+3. Real voice
+4. Simplified and traditional conversion
+5. Picture to text
+6. Voice to text
+7. Handwriting correctness check function
+8. Multi-language dictionary
+Arabic
+French
+German
+Greek
+Hindi
+Indonesian
+Italian
+Japanese
+Korean
+Malay
+Persian
+Portuguese
+Russian
+Spanish
+Swedish
+Thai
+Vietnamese
+
+Chinese learner all encounter the same problem: How to write Chinese characters?
+You probably think learning how to write in Chinese is impossible.And I get it. I’m a native English speaker, and I know how complex Chinese characters seem.
+
+But you’re about to learn that it’s not impossible.
+All you need to know is a black magic – Chinese Stroke Order.
+
+What is Chinese Stroke Order?
+
+Strokes are the classified set of line patterns that are arranged and combined to form Chinese characters.Once you’ve mastered the strokes and learned the logic behind the radicals, learning Chinese writing will become a lot easier.
+
+Why Chinese Stroke Order is so hard to learn?
+
+Learning Chinese Strokes Order can be a bit scary and seems impossible at the first glance.
+
+They just seem like scary blocks of words if you don’t know the idea of how they were formed. Before you start learning Chinese writing, you need to know the Chinese writing system first.
+
+Chinese learners are all struggle with writing Chinese characters. It is very different from writing English,  all you need to do is write every letter on the same line and space them well, you than have nice clean readable words. But Chinese characters are a lot more difficult and more complicated. Each character can be separated in to different little sections, and putting them together in a structure is not an easy task. Stroke order can help you structure the Chinese character in a more systematic way, it also help you to learn Chinese better.
+
+What’s the best way to overcome this difficult and how to master it?
+Don's waste money to buy many books and apps to learn how to write Chinese characters, none of them actually help me improve your skill, until you find this amazing app  – Chinese Strokes Order! You can write Chinese characters so much easier and faster!
+
+Why this app extreme help?
+Chinese Strokes Order is the easy way to learn Chinese writing and calligraphy. Learn not only to write and recognize Chinese characters, but also to understand their meaning.
+
+How you can make use of it?
+All you have to do is simply type in a Chinese character and let the app show you its animated stroke order instantly.
+
+You can easily change the stroke speed in the app’s settings if you find it hard to keep up, as well. It helps a lot for calligraphy and visualize stroke order.
+
+Understand Chinese calligraphy
+Extremely simple, efficient, and easy to use, it is sure to help you understand Chinese calligraphy and its meaning.
+
+In addition, Chinese Strokes Order supports both simplified and traditional Chinese! The simple way to learn Chinese words and characters!
+
+====================================
+Auto Renewable Subscription Terms:
+- Monthly subscription for US $5.99
+- Yearly subscription for US $11.99
+* Payment will be charged to your iTunes Account at confirmation of purchase.
+* Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period.
+* Accounts will be charged for renewal within 24-hours prior to the end of the current period, and will identify the cost of the renewal.
+* Subscriptions may be managed by you and auto-renewal may be turned off by going to your Account Settings after purchase.
+* Privacy Policy: https://www.zhongwenbishun.com/privacy/chinesestrokesorder/privacy.html
+* Terms of Service: https://www.zhongwenbishun.com/privacy/chinesestrokesorder/terms.html",2014-12-09T14:14:14Z,2025-11-13T02:21:00Z
+kh,Cambodia,Reference,6006,18,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/kh/app/house-building-for-minecraft/id1497683446?uo=4,0.0,3.86667,30,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-02-27T08:00:00Z,2025-11-05T14:26:20Z
+kh,Cambodia,Reference,6006,19,6473676614,Chinese Khmer Dictionary,Heng Hak,https://apps.apple.com/kh/app/chinese-khmer-dictionary/id6473676614?uo=4,0.0,4.66667,24,Reference,"Chinese Khmer Dictionary is one of the most popular apps in Cambodia, designed specifically for Khmer speakers who want to improve their Chinese language skills. With a rich set of features and a large, well-organized database of words and idioms, this app is both powerful and easy to use.
+
+Whether you’re a student, traveler, or language enthusiast, this app is a valuable tool to help you translate and learn Chinese more effectively.
+
+Key Features:
+- Chinese-English Dictionary — Search and learn words with clear translations.
+- Chinese-Khmer Dictionary — Tailored for Khmer users learning Chinese.
+- Khmer-Chinese Dictionary — Translate from Khmer into Chinese with ease.
+- English-Chinese Dictionary — Quick reference for English speakers learning Chinese.
+- Favorites & History — Save important words and revisit your recent searches anytime.
+- Chinese Stroke Order — Learn how to write Chinese characters step-by-step.
+- Multi-language Interface — Available in Khmer, Chinese, and English.
+- Dark Mode — Eye-friendly design for night-time use.",2023-12-13T08:00:00Z,2025-08-29T22:37:24Z
+kh,Cambodia,Reference,6006,20,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/kh/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.59231,650,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+kh,Cambodia,Reference,6006,21,1512533146,Fortune Khmer,Mony Sath,https://apps.apple.com/kh/app/fortune-khmer/id1512533146?uo=4,0.0,4.09091,11,Reference,"This Fortune Khmer is an extraordinary fortune telling app! It's free on a daily basis!
+
+
+Looking for a good way to fill spare time with your friends? Future-predicting games can be a riot and a great way to get to know yourself and your buddies. A good future knowing quiz is usually based on self-identity questions.
+
+
+Everyone wants to know about their future love life, and if you don’t have a fortune teller or tarot card reader nearby, horoscopes are a great resource for unlocking the potential secrets of your relationships
+
+
+Fortune Khmer is far beyond a fortune telling app. It sheds light on the future by evaluating person's past and making inferences about present.
+
+
+Fortune Khmer is an app, that combined from many sources and enjoyed by our olds generation around the country in many years.
+
+
+Some things need to be experienced to be understood. Don't hesitate, download it and come in! See it yourself!",2020-05-19T07:00:00Z,2020-05-19T20:34:59Z
+kh,Cambodia,Reference,6006,22,600007708,LDOCE (InApp),"English Channel, Inc.",https://apps.apple.com/kh/app/ldoce-inapp/id600007708?uo=4,0.0,4.60274,73,Reference,"This app is not free!
+An InApp purchase is required to activate the dictionary.
+
+________________________________
+
+Longman's flagship learner’s dictionary, fully updated and now with integrated Thesaurus and Collocations Dictionary
+________________________________
+
+Longman Dictionary of Contemporary English
+- For Advanced Learners ©
+
+Longman's flagship learner’s dictionary is now available as an iPhone/iPod touch application. Improve your fluency in English with the most up-to-date learner's dictionary at your fingertips.
+
+Now with integrated Thesaurus and Collocations Dictionary.
+
+Dictionary details:
+● 230,000 words, phrases, and meanings - more than any other learner's dictionary
+● 165,000 examples based on real, natural English from the Longman Corpus Network show how English is really used
+● 10,000 encyclopedic entries -people and places.
+● 5,000 verb conjugation tables
+● Clear definitions. Written using only 2,000 common words.
+● Most frequent 3,000 words in spoken & written English highlighted for you
+● Register Notes focus on the differences between spoken and written English.
+● The Academic Word List is highlighted to help you improve your essays and presentations.
+● Grammar and warning notes ensure that you avoid the most common errors. 
+● Integrated Collocations Dictionary. Over 80,000 collocations will improve your fluency.
+● Integrated Thesaurus. Over 20,000 synonyms, antonyms, and related words will improve your vocabulary range.
+
+● 83,000 pronunciation files —all headwords in both UK & US accents.
+PLUS
+● another 86,000 recorded example sentences (via external links or bulk download)
+
+Making this the largest resource of English available on ANY mobile platform!
+
+________________________________
+
+Application Features:
+● full contents of the print dictionary
+ - PLUS additional collocations, synonyms & word histories
+● complete front matter and additional resources
+● unique three-way cross-referencing search
+● real-time progressing look-up
+● wildcard pattern searches -with * ?
+● spelling suggestion dictionary included
+● hyperlinking directly to meanings & appendices
+● example sentence search
+● search on idioms and phrasal verbs
+● search on synonym and ""sign-post"" meanings
+● Bookmarks with folders and editable notations
+● Bookmark syncing across devices via iCloud
+● Flashcards to test yourself
+● automatic history listing
+● Teacher's resources in PDF for printing or email
+● Evernote posts with the full layout for definitions
+● full layout in emails, Facebook and printing
+● -plus Twitter & Sina Weibo
+● ""Word-of-the-Day"" sets including TOEIC® & TOEFL®
+● iPad Pro SplitView and Drag & Drop
+● ""Today"" & LockScreen widgets
+● ""Share"" extension​ to search inside other apps
+● ""LDOCE Broadcast"" - search to a second device or iPad SplitView
+● Open to search with Siri
+● search from other applications via a public API
+● OS-independent app localization
+● iPad Pro multi-screen and Drag & Drop
+● DarkMode & 3D Touch support
+● Supports iOS 9 through to iOS 16
+● iPhone, iPod, iPad and macOS support
+● complete offline use
+________________________________
+
+The ultimate learner's resource of the English language for use anywhere and anytime.
+
+Copyright:
+Longman Dictionary of Contemporary English
+© Pearson Education Limited 2009, 2011, 2015",2013-03-05T07:52:58Z,2024-03-18T12:00:10Z
+kh,Cambodia,Reference,6006,23,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/kh/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,5,8,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+kh,Cambodia,Reference,6006,24,1202638984,Khmer English Translator,佩芬 屈,https://apps.apple.com/kh/app/khmer-english-translator/id1202638984?uo=4,0.0,3.65714,35,Reference,"Free translator from English to Khmer and from Khmer to English
+
+This app can easily translate words and sentences will be translated from Khmer to English,and translated from English to Khmer.
+
+Product Features:
+- Translation of words and sentences.
+- Voice audio pronunciation.
+- Find the clipboard sentence.
+- Translation results clearly definitions, can be used as a Khmer(English) dictionary.
+- Search histories.
+- Share translate results.
+- Simple and user-friendly interface
+- Translate result with phonetic.",2017-02-07T03:03:22Z,2017-02-07T20:21:44Z
+kh,Cambodia,Reference,6006,25,6450906885,Khmer/English Dictionary,FB PUBLISHING LLC,https://apps.apple.com/kh/app/khmer-english-dictionary/id6450906885?uo=4,0.0,4.49488,293,Reference,"Discover your linguistic prowess with our Khmer-English and English-Khmer Dictionary!
+
+Instantly Accessible: Why wait? Get immediate translations by simply tapping on the word you're curious about.
+
+Comprehensive Vocabulary: Dive into our abundant database boasting over 100,000 words. Amplify your understanding and widen your communicative horizons.
+
+Offline Capability: No internet? No issue. Obtain translations anytime, anywhere - even without an internet connection.
+
+Modern & Up-to-date: Keep pace with the evolving language as our database continually refreshes with contemporary terms and expressions.
+
+Lightweight: We respect your device's storage. Our app, weighing only 16 Mb, installs rapidly and won't strain your device's memory.
+
+Indispensable for Quick Translations: When speed and efficiency are what you require, our app is your ultimate tool.
+
+Completely Free: We are committed to making this potent tool available to everyone, free of charge! This app is ad-supported, ensuring it stays open to all. Enabling app tracking across other companies' apps and websites allows us to offer you personalized ads attuned to your interests, enriching your overall app experience.
+
+Download now and step into a world where language ceases to be a hurdle!",2023-07-04T07:00:00Z,2023-11-27T19:11:18Z

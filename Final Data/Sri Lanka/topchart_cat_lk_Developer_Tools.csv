@@ -1,0 +1,546 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+lk,Sri Lanka,Developer Tools,6026,1,899247664,TestFlight,Apple Services Pte. Ltd.,https://apps.apple.com/lk/app/testflight/id899247664?uo=4,0.0,4.8059,3627,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+lk,Sri Lanka,Developer Tools,6026,2,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/lk/app/o-kam-pro/id1602054864?uo=4,0.0,4.72414,145,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+lk,Sri Lanka,Developer Tools,6026,3,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/lk/app/ish-shell/id1436902243?uo=4,0.0,4.11111,9,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+lk,Sri Lanka,Developer Tools,6026,4,1477376905,GitHub,GitHub,https://apps.apple.com/lk/app/github/id1477376905?uo=4,0.0,4.91374,313,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+lk,Sri Lanka,Developer Tools,6026,5,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/lk/app/expo-go/id982107779?uo=4,0.0,4.67647,102,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+lk,Sri Lanka,Developer Tools,6026,6,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/lk/app/scriptable/id1405459188?uo=4,0.0,4.07059,85,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+lk,Sri Lanka,Developer Tools,6026,7,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/lk/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.29767,215,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+lk,Sri Lanka,Developer Tools,6026,8,6450932949,ProxyPin - Open Source Capture,"Minimalist Network Co., Ltd.",https://apps.apple.com/lk/app/proxypin-open-source-capture/id6450932949?uo=4,0.0,0,0,Developer Tools,"Features
+Mobile scan code connection: no need to manually configure WiFi proxy, including configuration synchronization. All terminals can scan codes to connect and forward traffic to each other.
+Proxy Domain name filtering: Only intercept the traffic you need, and do not intercept other traffic to avoid interference with other applications.
+Script: Support writing JavaScript scripts to process requests or responses.
+Request rewrite: Support redirection, support replacement of request or response message, and can also modify request or response according to the increase.
+Request mapping: Do not request remote services, use local configuration or scripts for response
+Request blocking: Support blocking requests according to URL, and do not send requests to the server.
+Search: Search requests according to keywords, response types and other conditions
+Others: Favorites, history, toolbox, etc.",2024-09-20T07:00:00Z,2025-10-29T19:48:29Z
+lk,Sri Lanka,Developer Tools,6026,9,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/lk/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+lk,Sri Lanka,Developer Tools,6026,10,1333539401,Expo & React Native components,Saravanakumar GN,https://apps.apple.com/lk/app/expo-react-native-components/id1333539401?uo=4,0.0,5,1,Developer Tools,"Expo and React Native UI Components & API
+
+Discover and explore UI components effortlessly with the Expo & React Native UI Components Explorer. Preview component functionalities and explore their features before implementing them in your projects. Simplify your development process by gaining insights into components without the need for customization.
+
+Note: To show the Demo of All React Native components & API this App requires Some Phone permissions.",2018-01-23T06:35:00Z,2024-08-18T21:35:34Z
+lk,Sri Lanka,Developer Tools,6026,11,6753763875,Vip Proxy Server,Moad Slimani,https://apps.apple.com/lk/app/vip-proxy-server/id6753763875?uo=4,0.0,5,1,Developer Tools,"welcome to FF Vip Proxy Server
+FF Vip Proxy Server is an app for all users, all Vip Proxy Server tools for devs and modules saver free.",2025-10-09T07:00:00Z,2025-10-10T00:26:05Z
+lk,Sri Lanka,Developer Tools,6026,12,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/lk/app/a-shell-mini/id1543537943?uo=4,0.0,5,1,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+lk,Sri Lanka,Developer Tools,6026,13,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/lk/app/bluetooth-terminal/id1058693037?uo=4,0.0,0,0,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+lk,Sri Lanka,Developer Tools,6026,14,1568442831,Desktop Browser • Zoomable,Actowise LLC,https://apps.apple.com/lk/app/desktop-browser-zoomable/id1568442831?uo=4,0.0,4.5,8,Developer Tools,"Zoomable is a browser that provides a full desktop web experience. It simulates a large and resizable screen and shows the desktop version of websites, so you can stay away from those bad mobile web experiences.
+
+• Zoom freely between 1x and 3x.
+• Seamless transitions between portrait and landscape mode.
+• Supports full screen mode.
+• Save and manage favorites.
+• Lightning fast and super small install size.
+• Supports UI customization for both portrait and landscape mode.
+• Respects user privacy; the app only collects anonymous diagnostic data unrelated to browsing, and you can opt out.
+• [Pro] Multiple tabs.
+• [Pro] Customize themes.
+
+The app is designed for everyone, it works great with many websites. However, it is particularly useful for developers. For example, accessing App Store Connect and Firebase Console works great in this app because of the screen scale feature.",2021-05-23T07:00:00Z,2025-10-06T11:01:20Z
+lk,Sri Lanka,Developer Tools,6026,15,640199958,Apple Developer,Apple Services Pte. Ltd.,https://apps.apple.com/lk/app/apple-developer/id640199958?uo=4,0.0,4.76471,17,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+lk,Sri Lanka,Developer Tools,6026,16,1606772645,Google Play Console,Google LLC,https://apps.apple.com/lk/app/google-play-console/id1606772645?uo=4,0.0,5,3,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+lk,Sri Lanka,Developer Tools,6026,17,1234793120,App Store Connect,Apple Services Pte. Ltd.,https://apps.apple.com/lk/app/app-store-connect/id1234793120?uo=4,0.0,4.92241,116,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+lk,Sri Lanka,Developer Tools,6026,18,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/lk/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,5,4,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-18T23:02:56Z
+lk,Sri Lanka,Developer Tools,6026,19,1544728400,xTerminal - SSH Terminal Shell,婉媚 邵,https://apps.apple.com/lk/app/xterminal-ssh-terminal-shell/id1544728400?uo=4,0.0,4.69564,46,Developer Tools,"xTerminal - Your Ultimate SSH Terminal Shell
+
+xTerminal is your all-in-one SSH terminal client for managing servers with speed and security. Whether you're an IT professional or a developer, xTerminal gives you the tools to easily connect, control, and manage your servers from anywhere.
+
+Key Features:
+* Interactive SSH Terminal: A fast, reliable terminal for executing commands on your servers. Eg: Use top to monitor system status or follow logs with tail -f.
+* Powerful Editor: Edit documents with vi/vim just like on a desktop, with full support for CTRL and arrow keys, making your SSH terminal experience smooth.
+* Multi-Session Management: Manage multiple SSH connections at once. Add, remove, and switch between sessions with ease, boosting your productivity.
+* Snippets: Save and organize frequently used SSH commands. Quickly search by name, command, or label, making repeated tasks quicker and simpler.
+* Device Management: Add your SSH servers, group them by labels, and search by name, host, or labels. Connect via password or public key authentication.
+* Advanced SSH Options: Support for SSH jump hosts and SOCKS5 proxies for enhanced security and flexible connections.
+* SFTP for File Management: Upload, download, edit, move, and delete files using the built-in SFTP, allowing you to manage files on your servers directly from the terminal.
+* Keep Sessions Alive: Use “Keep Awake” and “Keep Alive” features to maintain persistent SSH connections without interruptions.
+* User-Friendly Interface: Simple navigation with pull-to-refresh, search highlights, sortable lists, and drag-and-drop to reorder devices or snippets.
+* Live Ping Monitoring: Check device connectivity in real-time with ping stats, including ms and TTL, helping you monitor the health of your network.
+* Discover Network Devices: Easily find and save neighboring network devices for quick access later.
+* Secure Port Knocking: Add an extra layer of protection by using port knocking to guard your servers from unauthorized access.
+* Enhanced Security: Use TouchID/FaceID to protect your SSH sessions, ensuring secure access to your terminal on app launch or resume.
+* iCloud Sync: Backup and restore your device and snippet lists across all iOS devices, ensuring seamless access to your settings anywhere.
+* Copy & Paste: Effortlessly run commands from the clipboard or copy terminal output, streamlining your workflow in the terminal.
+* Universal App: Optimized for both iPhone and iPad, giving you a consistent experience across devices.
+* Secure Data Storage: All credentials and data are stored securely on your device, so you can rest assured your information is safe.
+* Batch Execution: Execute commands on multiple servers at once and view all the outputs in one go.
+* Startup Snippets: Set up essential commands to run on app startup, giving you immediate access to critical tasks as soon as you connect.
+
+xTerminal is built for anyone needing a fast, reliable, and secure SSH terminal. It’s perfect for managing remote servers on various platforms, including macOS, Linux, OpenBSD, FreeBSD, NetBSD, Solaris, and OpenVMS.
+
+Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Terms of use https://septudio.com/terms-of-use and privacy policy https://septudio.com/privacy-policy",2020-12-17T08:00:00Z,2025-09-30T12:35:06Z
+lk,Sri Lanka,Developer Tools,6026,20,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/lk/app/koder-code-editor/id1447489375?uo=4,0.0,4.76271,59,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+lk,Sri Lanka,Developer Tools,6026,21,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/lk/app/web-inspector/id1584825745?uo=4,0.0,0,0,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+lk,Sri Lanka,Developer Tools,6026,22,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/lk/app/stikdebug/id6744045754?uo=4,0.0,0,0,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+lk,Sri Lanka,Developer Tools,6026,23,1357215444,Python3IDE,辉 马,https://apps.apple.com/lk/app/python3ide/id1357215444?uo=4,0.0,2,1,Developer Tools,"Python3IDE is an offline Python3.7 integrated development environment software with built-in common scientific libraries. It is a powerful helper for you to learn and practice Python.
+
+New: add offline C/C++/PHP/Lua  integrated development environment.
+
+【Built-in module】
+
+-tkinter
+-turtle
+
+Scientific computing, data analysis and machine learning library
+
+-numpy-1.18.0
+-pandas-0.25.3
+-scipy-1.4.1
+-scikit-learn-0.22.1
+-statsmodels-0.11.1
+-linearmodels-4.17
+-sympy-1.5
+-patsy-0.5.1
+
+Visualization library
+
+-notebook-5.7.4
+-matplotlib-3.1.2
+-seaborn-0.10.0
+-plotly.py-4.8.1
+-bokeh-2.0.1
+-pyecharts-1.7.1
+
+UI library
+
+-kivy-2.0.0
+-ipywidgets-7.4.2
+
+Game library
+
+-SDL2
+-SDL2_image
+-SDL2_gfx
+-SDL2_mixer
+-SDL2_ttf
+-pysdl2-0.9.8
+-pygame-2.0.1
+
+
+Image processing library
+
+-Pillow-7.0.0
+-scikit_image-0.16.2
+-imageio-2.8.0
+-networkx-2.4
+-opencv_python-4.2.0.32
+
+Network library
+
+-pycurl-7.43.0.5
+-httpie-2.0.0
+-requests-2.22.0
+-flask-1.1.1
+-django-3.0.4
+
+Other libraries
+
+-lxml-4.4.2
+-simplejson-3.17.0
+-tushare-1.2.48
+
+【Features】
+
+-Automatic association prompts, automatic indentation, and code highlighting.
+
+-Run scripts offline and locally, support input
+
+-Built-in common scientific computing library
+
+-Support Pip to install third-party libraries (line Python libraries)
+
+-Support Jupyter NoteBook
+
+-Built-in ipynb file previewer, so you can preview quickly without starting Jupyter Notebook service
+
+-Built-in file download management, support background download, you can download many python codes and learning libraries on the Internet at any time, such as github, etc.
+
+-Support file upload, share, download, etc. (via Jupyter Notebook service), support itunes to share documents
+
+-Built-in browser, you can open Jupyter Notebook page directly in this App, or open other web pages
+
+-Support multiple documents, you can open code editors, tutorial documents, interactive interpreters, browsers, etc. in multiple tabs, so that you can read the documents and learn while writing code
+
+-Support Python interactive interpreter, allowing you to enter code while executing
+
+-Built-in many Python learning tutorials, including python, numpy, matplotlib, pandas, scipy, sklearn, data analysis, machine learning, artificial intelligence, etc.
+
+
+
+
+
+""Auto Subscription Member Instructions""
+
+1. Service name: consecutive year
+
+2. If you purchase an account of an automatic subscription member, your iTunes account will be deducted 24 hours before the expiration of the monthly subscription period. After the deduction is successful, the subscription period will be extended.
+
+3. If you need to cancel the subscription, please manually open the Apple phone ""Settings"" --> enter ""iTunes Store and App Store"" --> click ""Apple ID"", select ""View Apple ID"", enter the ""Account Settings"" page, click ""Subscribe"", select Himalaya VIP membership service to cancel the subscription. If you do not close the subscription at least 24 hours before the end of the subscription period, you will be deemed to agree to continue to authorize, and the subscription will be automatically renewed.
+
+
+""Automatic Subscription Service Agreement""
+
+https://www.jianshu.com/p/47341a0a9466
+
+""User Agreement""
+
+https://www.jianshu.com/p/8ee503e0ae6f
+
+""User Privacy Agreement""
+
+https://www.jianshu.com/p/8ee503e0ae6f
+
+
+— Contact and feedback —
+
+If you have any questions or suggestions about the product, please contact us
+
+Email:  python3ide@aliyun.com",2018-04-04T19:52:48Z,2025-04-25T15:50:03Z
+lk,Sri Lanka,Developer Tools,6026,24,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/lk/app/rork/id6746410361?uo=4,0.0,5,1,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+lk,Sri Lanka,Developer Tools,6026,25,1397424959,CodeSnack IDE,"Mobibean, LLC",https://apps.apple.com/lk/app/codesnack-ide/id1397424959?uo=4,0.0,4.3,10,Developer Tools,"CodeSnack IDE is the first mobile IDE crafted specifically for mobile devices and tablets, unlocking the power of coding right at your fingertips. With fast and intuitive tools, CodeSnack IDE empowers you to create amazing programs, learn from a vast library of samples, and deploy real-world back-end and front-end apps within minutes — all for free.
+
+Whether you're an experienced coder or just starting out, CodeSnack IDE offers all the control and flexibility you need to create and customize projects without any compromise.
+
+Now powered by advanced AI, CodeSnack IDE delivers cutting-edge development features straight to your mobile device:
+
+• AI-Generated Project Creation: Generate projects from text prompts
+• Smart Bug Detection & Fix Proposals: Find and fix issues effortlessly
+• Code Explanation: Understand the purpose and logic behind your code
+• Code-Specific Question Answering: Get answers to your coding queries
+
+
+Everything you can do with CodeSnack IDE:
+
+* Write & run code like on a PC or Mac
+* Develop real Web and Mobile apps with React, Ionic, Capacitor, and React Native
+* Install dependencies using Linux terminal
+* Intelligent coding assistance, autocompletion, linting
+* Use any programming language
+* Utilize your favorite hardware keyboard and shortcuts
+* Debug program output, and see detailed error logs (in real-time)
+* Practice coding with 1000+ examples in our library
+* Sync your projects across all your devices
+* Deploy projects through SFTP
+
+And so much more!
+
+CodeSnack IDE supports 18 programming languages for versatile coding:
+
+- Java
+- Python
+- C
+- C++
+- C#
+- Dart
+- JavaScript
+- TypeScript
+- PHP
+- Shell
+- Swift
+- Ruby
+- Go
+- Kotlin
+- Lua
+- Haskell
+- Rust
+- Scala
+
+Quick project templates to jumpstart your development:
+
+• React (Vite, TypeScript)
+• Vue (Vite, TypeScript)
+• Vanilla (Vite, TypeScript)
+• Preact (Vite, TypeScript)
+• Lit (Vite, TypeScript)
+• Svelte (Vite, TypeScript)
+• Ionic (React, Capacitor)
+• Ionic (React, Cordova)
+• Ionic (Angular, Capacitor)
+• Ionic (Angular, Cordova)
+• Ionic (Vue, Capacitor)
+• React Native (Expo)
+• Express (Node.js, TypeScript)
+• Express (Node.js, JavaScript)
+• Simple HTTP server (Python)
+• Django Web App (Python)
+• Simple HTTP server (Java)
+• Gradle (Java)
+• Blazor (C#)
+• Laravel (PHP)
+• Simple HTTP server (PHP)
+• WebSockets
+• WebAssembly (AssemblyScript)
+
+Pro Subscription benefits:
+
+* Compile and Run code up to 8x faster (2 vCPU, 1 GB Memory, 8 GB SSD, 3,000 Mbps Network)
+* Docker Container Manager
+* Gain access to up to 500 AI assistant requests per month
+* Unlock in-app browser for Web and Mobile projects
+* Virtual keyboard customization
+* Upload code to your server using SFTP
+* Access all Examples in the Library
+* Access all Project Templates
+* Unlock 2 more color schemas for the code editor
+
+Important Links:
+
+Terms Of Service: https://www.codesnack-ide.com/terms-of-services.html
+Privacy Policy: https://www.codesnack-ide.com/privacy-policy.html
+
+Connect with the CodeSnack IDE community:
+
+Join our Discord Community server: https://discord.gg/FKmzpuqUnZ",2018-07-30T18:03:07Z,2025-09-23T16:29:02Z

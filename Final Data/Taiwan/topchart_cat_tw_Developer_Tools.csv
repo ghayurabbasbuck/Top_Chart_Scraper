@@ -1,0 +1,514 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+tw,"Taiwan, Province of China",Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/tw/app/testflight/id899247664?uo=4,0.0,4.80497,110849,Developer Tools,"TestFlight 可讓你輕鬆測試 Beta 版 App 和輕巧 App，然後在開發者於 App Store 發佈 App 前提供寶貴的使用者意見。開發者可以透過電子郵件或公開連結邀請測試者。
+
+當你測試 Beta 版 App 或輕巧 App 時，Apple 會收集並傳送當機記錄、使用狀況資訊，以及任何你提供給開發者的使用者意見。開發者可能會使用此資訊來改進其 App 和相關產品。Apple 可能會使用當機記錄和使用狀況資訊來改進我們的產品與服務。
+
+如需安裝、測試和傳送使用者意見的指示，以及我們如何處理你資料的詳細資訊，請參訪 testflight.apple.com。",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+tw,"Taiwan, Province of China",Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/tw/app/github/id1477376905?uo=4,0.0,4.85181,803,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+tw,"Taiwan, Province of China",Developer Tools,6026,3,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/tw/app/a-shell-mini/id1543537943?uo=4,0.0,4.125,16,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+tw,"Taiwan, Province of China",Developer Tools,6026,4,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/tw/app/scriptable/id1405459188?uo=4,0.0,4.52397,292,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+tw,"Taiwan, Province of China",Developer Tools,6026,5,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/tw/app/apple-developer/id640199958?uo=4,0.0,4.23894,113,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+tw,"Taiwan, Province of China",Developer Tools,6026,6,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/tw/app/o-kam-pro/id1602054864?uo=4,0.0,4.76445,726,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+tw,"Taiwan, Province of China",Developer Tools,6026,7,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/tw/app/app-store-connect/id1234793120?uo=4,0.0,4.78354,790,Developer Tools,"隨時隨地使用 iPhone 和 iPad 上的 App Store Connect App 管理你的 App。
+
+• 檢視 App 狀態並管理 App Store 提交項目。
+• 管理測試者群組、加入新建置版本和測試者、並檢視截圖和當機意見反應。
+• 檢視關鍵銷售和趨勢資訊來監控 App 表現。
+• 檢視和回應最新的客戶評分和評論。
+• 生成行銷內容來推廣你 App 的重大時刻，例如在 App Store 精選位置獲得曝光，或當你推出新的 App 或新版本。
+• 接收關於重要事件的通知，例如 App 狀態更動、新的客戶評論、測試者意見反應，以及在 App Store 精選位置獲得曝光。",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+tw,"Taiwan, Province of China",Developer Tools,6026,8,1572784029,雙和電子簽名,TAIPEI MEDICAL UNIVERSITY SHUANG HO HOSPITAL,https://apps.apple.com/tw/app/%E9%9B%99%E5%92%8C%E9%9B%BB%E5%AD%90%E7%B0%BD%E5%90%8D/id1572784029?uo=4,0.0,1.64835,91,Developer Tools,影像簽名病人版僅供雙和醫院人員測試使用,2021-10-07T07:00:00Z,2025-10-27T06:02:35Z
+tw,"Taiwan, Province of China",Developer Tools,6026,9,1312141691,Stream,Stream Lab Inc.,https://apps.apple.com/tw/app/stream/id1312141691?uo=4,0.0,3.91667,48,Developer Tools,"在下載本 App 之前，希望你能夠認真的閱讀以下介紹。
+
+1. Stream 面向對象為廣大前端開發、客戶端開發、後端開發、運維工程師、測試工程師以及具備一定網絡分析能力的普通用戶。
+2. Stream 的目的僅用於網絡調試，除此以外沒有其他目的。同時，開啟 Stream 需要您授權 VPN 權限。
+3. Stream 不會上傳任何用戶數據，請放心使用，同時也期望信任我們的用戶傳播給業內人士。
+
+如果您不認同以上的目的，不具備網絡分析能力，或者對於敏感數據從心理上就不信任第三方 App，建議您慎重考慮後再下載。
+
+
+功能介紹：
+
+Stream 用於客戶端本地抓包，僅用於QA&開發本地網絡調試。只是利用了 iOS 9+ 的 Network Extension Api，其實不具備連接 vpn 的功能。
+
+1. 抓取 HTTP&HTTPS 請求，其中 HTTPS 請求需要配置 CA 證書。
+2. 訪問抓包歷史，預覽請求體 (request body) 以及響應體 (response body)，目前支持文本/JSON/文件/表單。
+3. 支持構建請求和請求重放。
+4. 支持配置 Hosts，實現在電腦端的 Hosts 功能，用於前端開發以及移動端開發便捷的切換測試環境和線上環境。
+5. 比較簡單的支持打開 HAR 通用標準文件，可以將 Charles/Fiddler/Chrome/Firefox 等網絡記錄導出 HAR 然後在 Stream 打開並重放請求。
+6. 完美適配 iPhone X 以及支持 iPad MutiTask。",2018-01-04T16:29:42Z,2020-04-06T19:00:38Z
+tw,"Taiwan, Province of China",Developer Tools,6026,10,1437086352,CSDN-程序员计算机技术交友学习社区,"CSDN Network Technology Co., Ltd.",https://apps.apple.com/tw/app/csdn-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%BA%A4%E5%8F%8B%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/id1437086352?uo=4,0.0,4.81851,1394,Developer Tools,"CSDN——专业技术平台，成就一亿技术人。下载CSDN，您会享有全网最全代码资源、专业培训课程、一对一精品回答、最新行业资讯。
+CSDN——程序员必备编程交流学习平台！现已接入DeepSeek R1满血版_AI搜索，解决程序员工作学习中遇到的问题，所有技术疑问都能在CSDN找到可被信赖的解答。汇聚各类技术领域专家及大牛专业解答，最新的技术开发信息解决方案和编程学习教程。
+
+适用人群：互联网公司人士、极客、程序猿、白领、设计师、零基础编程爱好者、大学生；
+主要技术方向：
+【前端开发】HTML、CSS、JavaScript、 jQuery、WebApp、Node.js、Angular JS、Vue.js、Bootstrap、前端工具
+【后端开发】PHP、Java、Linux、rust、Python、C、 C++、Go、C#、数据结构
+【人工智能】机器学习、深度学习、计算机视觉、自然语言
+【移动开发】iOS、Unity3D、Cocos2d-X 
+【数据处理】MysQL、MongoDB、云计算、 Oracle、大数据、SQL Server 
+【图像处理】Photoshop、Maya、Premiere、 ZBrush 
+【工具资源】Git，GitHub，VS Code， Sublime Text
+
+
+「自动订阅会员说明」
+1、服务名称：CSDN VIP连续包月 (1个月)
+2、价格：CSDN VIP连续包月产品为88元/月
+3、购买自动订阅会员的账号，会在每个月订阅期到期前24小时，从您的iTunes账户中扣费，扣费成功后顺延一个订阅周期。
+4、关闭服务:您可以在苹果手机“设置”-->进入“iTunes Store与App Store""-->点击“Apple ID”，选择""查看Apple ID""，进入“账户设置""页面，点击“订阅""管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费。
+5、服务协议：
+
+「CSDN自动订阅服务协议」
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+「CSDN会员服务协议」
+
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+CSDN，致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务，并不断完善在移动端的学习体验，欢迎大家体验，提出宝贵意见~",2018-10-04T17:02:44Z,2025-11-15T11:09:15Z
+tw,"Taiwan, Province of China",Developer Tools,6026,11,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/tw/app/koder-code-editor/id1447489375?uo=4,0.0,4.70932,461,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+tw,"Taiwan, Province of China",Developer Tools,6026,12,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/tw/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.62887,194,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+tw,"Taiwan, Province of China",Developer Tools,6026,13,6749557696,Cursor Website Builder XVibe,Tetiana Oliinyk,https://apps.apple.com/tw/app/cursor-website-builder-xvibe/id6749557696?uo=4,0.0,4.42856,7,Developer Tools,"cursor, lovable, wix website builder, vibecode, website builder, loveable, code editor, xvibe, cursor ai, lovable ai, building, seek, code scribe, windsurf, ai generator, custom code, code ai, lovo ai
+
+Generate custom code instantly with AI.
+
+XVibe AI is your AI-powered code generation tool. Turn prompts into working code for websites, apps, scripts, and more — without writing it yourself.
+
+Whether you’re a beginner or expert, get tailored code suggestions for frontend, backend, mobile, or APIs.
+
+Generate full app features, UI components, logic, database queries, and more using the power of AI.
+
+Perfect for developers, coders, makers, indie hackers, startups, and anyone building digital products.
+
+Supports: HTML, CSS, JavaScript, Python, React, Flutter, Swift, and more.
+
+Start generating now with XVibe AI.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-08-07T07:00:00Z,2025-10-02T17:26:33Z
+tw,"Taiwan, Province of China",Developer Tools,6026,14,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/tw/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.12903,31,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+tw,"Taiwan, Province of China",Developer Tools,6026,15,1643688878,Apps Connect,CITY OF THE SKY NETWORK LTD,https://apps.apple.com/tw/app/apps-connect/id1643688878?uo=4,0.0,5,3,Developer Tools,"One Click Connection v2board / SSPANEL
+Support Shadowsocks ShadowsocksR Vmess Vless Trojan Hysteria Socks Hysteria2
+- Lighter to use
+- Simpler interface
+- Faster connection speeds
+- Better Interaction",2022-10-17T07:00:00Z,2025-10-14T08:02:01Z
+tw,"Taiwan, Province of China",Developer Tools,6026,16,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/tw/app/expo-go/id982107779?uo=4,0.0,4.63999,75,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+tw,"Taiwan, Province of China",Developer Tools,6026,17,1353326686,Python程式設計-編碼與軟體開發課程,Xiamen Yidong Network Technology Company Limited,https://apps.apple.com/tw/app/python%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E7%B7%A8%E7%A2%BC%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E8%AA%B2%E7%A8%8B/id1353326686?uo=4,0.0,3.47826,23,Developer Tools,"# 超過400萬位程式設計愛好者的首選
+# 全球4000+五星好評推薦
+# 創新學習體驗：遊戲化過關+實作練習
+
+Python程式教室是由W3Cschool團隊精心開發，專為初學者打造的Python入門APP。透過有趣且高效的學習方式，帶您輕鬆進入程式設計的世界。
+
+想學Python？從這裡開始！
+
+【適合零基礎】
+從零開始，循序漸進的課程安排，讓您輕鬆入門
+
+【即時學習系統】
+遊戲化過關學習，課程結合實作，快速上手
+
+【免費課程資源】
+豐富的教學內容與知識點，完全免費使用
+
+【Python題庫】
+透過練習鞏固觀念，查漏補缺
+
+【線上編輯器】
+手機就能寫程式，隨時隨地都能練習
+
+【彈性學習時間】
+每天30分鐘，零碎時間也能學習
+
+想找學習夥伴一起討論，互相切磋或尋求協助嗎？
+歡迎來信申請加入學習社群！
+
+● 聯絡信箱：kefu@eeedong.com",2019-11-25T08:00:00Z,2025-07-16T01:36:52Z
+tw,"Taiwan, Province of China",Developer Tools,6026,18,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/tw/app/python-editor-app/id1672453872?uo=4,0.0,4.5518,386,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+tw,"Taiwan, Province of China",Developer Tools,6026,19,1580431405,HTML Editor,Intrepid Corporation LTD,https://apps.apple.com/tw/app/html-editor/id1580431405?uo=4,0.0,4.34615,26,Developer Tools,"HTML Editor is a lightweight HTML editor complete with syntax highlighting, focused code completion suggestions and a live preview panel.
+
+With HTML Editor, you can open any existing HTML document on your device or in your iCloud storage. Simply drop your existing HTML document onto our app icon to open that document within HTML Editor.
+
+Quickly insert tag elements via the menu, or comment out code dynamically with IntelliSense highlighted detection system.
+
+You can efficiently export your HTML document and share it with your teammates.
+
+HTML Editor comes with full iCloud and local support. HTML Editor is also available on iOS.
+
+We're always working on improving our apps and would love any feedback or suggestions that you may have.
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/57995653
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2021-08-10T07:00:00Z,2024-09-08T22:14:43Z
+tw,"Taiwan, Province of China",Developer Tools,6026,20,1442620678,Surge 5,Surge Networks Inc.,https://apps.apple.com/tw/app/surge-5/id1442620678?uo=4,0.0,4.26,50,Developer Tools,"Surge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.
+
+These four capabilities form the core workflow of Surge:
+· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.
+· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript, and many other methods.
+· Forwarding: You can forward the taken over network requests to other proxy servers. This can be global forwarding or with a flexible rule system to determine an outbound policy.
+· Intercept: You can intercept and save specific data of network requests and responses, and you can also decrypt HTTPS traffic with MITM.
+
+Highlighted Features
+· Takeover all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to an HTTP/HTTPS/SOCKS5/SOCKS5-TLS/SSH proxy server following highly configurable rules.
+· Used as a WireGuard Client to convert the L3 VPN as a proxy.
+· Record and display HTTP requests and responses sent from your iOS devices, including body and header.
+· Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and GeoIP lookup.
+· Measure traffic usage and network speed on WiFi, cellular, and proxy connections.
+· High performance and suitable for intensive use.
+· Block ads by domain rules.
+· Local DNS Map (equivalent to /etc/hosts). You can use this function to switch the production/development environment for your app without changing any code.
+· All features work on the cellular network.
+· Decrypt HTTPS traffic with Man-in-the-Middle.
+· Perform URL rewrite.
+· Fully IPv6 supports.
+· Header rewrite.
+· Raw L3 packets capture.
+· Safari extension to add rules.
+· JSON, text, image and video viewer for the captured body.
+· Album mode for the request list.
+· Pre-filter for capturing.
+· HTTPS proxy protocol supports client-side SSL/TLS certificate validation.
+· Scripting: Use JavaScript to extend the ability of Surge as your wish.
+· Sync profiles cross devices with iCloud Drive or Dropbox.
+· DNS-over-HTTPS, DNS-over-HTTP3, DNS-over-QUIC, TLS 1.3 and more advanced features.
+
+You may read the online manual for more information: http://manual.nssurge.com/
+
+Terms and Conditions: https://nssurge.com/legal/terms
+Privacy Policy: https://nssurge.com/legal/privacy",2018-11-17T15:21:24Z,2025-10-24T05:50:33Z
+tw,"Taiwan, Province of China",Developer Tools,6026,21,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/tw/app/userscripts/id1463298887?uo=4,0.0,4.84999,20,Developer Tools,"Userscripts 是一個開源的 Safari 延伸功能，作為使用者腳本管理器，它可以讓您為您訪問的網站儲存和執行任意的 JavaScript（和 CSS）程式碼。
+
+特徵：
+
+- 完全開放原始碼
+- 不收集任何資料
+
+用例：
+
+- 自動頁面重定向
+- 網站頁面的操作（樣式、元素建立等）
+- 自定義廣告攔截
+- 自定程式碼注入
+- 自定義風格樣式
+
+如果您正在追尋更好的網頁瀏覽體驗，建立和使用改善生活質量的使用者腳本，嘗試現在開始使用 Userscripts 吧！
+
+訪問 GitHub 代碼庫檢視更詳細的使用說明：https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+tw,"Taiwan, Province of China",Developer Tools,6026,22,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/tw/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.83948,841,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-09T21:25:26Z
+tw,"Taiwan, Province of China",Developer Tools,6026,23,1473805438,a-Shell,Nicolas Holzschuch,https://apps.apple.com/tw/app/a-shell/id1473805438?uo=4,0.0,4.71429,28,Developer Tools,"a-Shell is a complete local terminal emulator, allowing to run most Unix commands on your iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. You can work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with the BSD Unix that powers iOS/iPadOS.
+
+a-Shell includes Python, Lua, Perl, JavaScript, C, C++ for programming and TeX (texlive 2025, with Tikz and LuaTeX) for text processing. 
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-shell uses iOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+Compile your C or C++ programs to webAssembly using clang or clang++, and execute the resulting binary. A complete webAssembly SDK is included (WASI-libc).
+
+a-Shell is the complete version. If you need a smaller app, and you don't need a C compiler, a TeX engine, or numpy and matplotlib, there is a-Shell mini.",2019-10-25T07:00:00Z,2025-11-06T00:59:22Z
+tw,"Taiwan, Province of China",Developer Tools,6026,24,1548193893,Runestone Text Editor,Simon Stovring,https://apps.apple.com/tw/app/runestone-text-editor/id1548193893?uo=4,0.0,4.88235,34,Developer Tools,"A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
+Runestone is made by a single person with a love for text editors and a vision of building the most lightweight text editor for iPhone and iPad that still has the core features for editing code.
+
+Features:
+- Syntax highlighting of many languages including HTML, JavaScript, JSON, Markdown, Swift, Python, PHP, YAML, and many more.
+- Select one of the twelve standard themes including popular themes like Tomorrow, Dracula, Solarized, and One Dark Pro.
+- Innovative find and replace for searching and modifying text while still viewing your file.
+- Choose font and font size, including support for custom fonts imported using another third-party app.
+- Show the line and column the cursor is located on.
+- Uses the standard document browser for an experience similar to the Files app.
+- Quickly navigate to a specific line.
+- Automatically close opening brackets and quotes.
+- Multiple windows on the iPad.
+- Format code using Prettier.js. Supported languages include CSS,HTML, JavaScript, JSON, PHP and more.
+- Choose text encoding between popular encodings like UTF-8, UTF-16, ISO Latin 1, and many more.
+- Enable or disable autocorrection, autocapitalization, and smart punctuation.
+- Set default file extension of new files.
+- Open files in Runestone from the Share Sheet.
+- Print documents.
+
+Premium features:
+- Choose between eight app icons.
+- Show line numbers.
+- Highlight the selected line.
+- Increase line height and letter spacing.
+- Disable line wrapping to allow horizontal scrolling.
+- Show tabs, spaces, and line breaks using a selected symbol.
+- Enable page guide at a specific column to easily tell when lines are getting too long.
+- Add vertical and horizontal overscroll.
+- Remember the selected language per file.
+- Save file extensions and filenames that should always be treated as plain text files.
+- Enable soft tabs and choose the width of the tab character.
+- Specify whether pressing the tab key should insert a tab or indent the line.
+- Adjust the scaling of Markdown headings and disable highlighting of code blocks in Markdown.
+
+Runestone was built on the open-source framework with the same name. Find more information on the Runestone framework at github.com/simonbs/runestone",2022-05-05T07:00:00Z,2025-09-15T15:57:01Z
+tw,"Taiwan, Province of China",Developer Tools,6026,25,6738411328,Python Coding,婉媚 邵,https://apps.apple.com/tw/app/python-coding/id6738411328?uo=4,0.0,4.95763,118,Developer Tools,"Python Coding – Code Python Anytime, Anywhere
+
+Code and learn Python on your iPhone and iPad with Python Coding – a powerful Python IDE designed for learners, developers, and data enthusiasts. Write, run, and explore Python 3 with an advanced editor, full-featured runtime, and built-in tutorials. Whether you’re scripting simple programs or building data science models, Python Coding makes it seamless – even without internet.
+
+Core Features
+• Powerful Python IDE – A full-featured Python editor with syntax highlighting, auto-indentation, code completion, line numbers, indent guides, and bracket matching. Designed for a seamless and responsive coding experience on mobile.
+• Offline Python Runtime – Run Python 3 scripts and programs anytime, even without internet access.
+• Live Code Execution – Instantly run and test Python 3 code with real-time output.
+• Data Science Ready – Includes NumPy, pandas, Matplotlib, and scikit-learn for Python 3 data analysis.
+• Matplotlib Visualization – Create professional Python charts and graphs right on your device.
+• PyPI Package Manager – Install and manage Python 3 libraries directly in-app.
+• Project File System – Organize and manage multiple Python 3 scripts effortlessly.
+• Interactive Tutorials – Learn Python, NumPy, pandas and sklearn with step-by-step lessons.
+• Coding Challenges – Practice your skills with fun, interactive Python 3 challenges of varying difficulty.
+• Dark Mode & Themes – Personalize your Python IDE workspace with themes and fonts.
+• Quick Input Keyboard – Speed up Python coding with easy access to :, (), {}, and more.
+
+Turn your iPhone or iPad into a complete Python IDE. Download Python Coding today to learn Python, practice Python coding, and run Python 3 projects offline — the best way to master Python anywhere.
+
+---
+
+Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Terms of use https://septudio.com/terms-of-use and privacy policy https://septudio.com/privacy-policy",2024-11-20T08:00:00Z,2025-11-20T21:29:56Z

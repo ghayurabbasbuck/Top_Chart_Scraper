@@ -1,0 +1,747 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+tw,"Taiwan, Province of China",Travel,6003,1,681752345,Trip.com - 酒店機票高鐵預訂平台,Trip.com Travel Singapore Pte. Ltd.,https://apps.apple.com/tw/app/trip-com-%E9%85%92%E5%BA%97%E6%A9%9F%E7%A5%A8%E9%AB%98%E9%90%B5%E9%A0%90%E8%A8%82%E5%B9%B3%E5%8F%B0/id681752345?uo=4,0.0,4.68438,41237,Travel,"榮獲Contact Centre of the Year, CRE Awards, 2024
+榮獲Global Support Services of the Year, CRE 2024
+榮獲日本設計振興會 (JDP) 頒授「2024好設計大獎」(2024 GOOD DESIGN AWARD)。
+
+Trip.com App 讓您輕鬆以超抵價預訂酒店、機票及火車票。立即成為Trip.com 會員，查看最新優惠及會員專享優惠，為您嘅每個旅程都慳到盡！ 
+
+• 機票：國際及國內航班為您打造至抵價格、輕鬆預訂 
+• 酒店：全球超過 140 萬家酒店、渡假村、公寓可供選擇—諗得出，訂得到！ 
+• 火車票：輕鬆預訂英國、德國、韓國、中國內地及台灣地區火車票 
+• 當地體驗：立即預訂景點門票、或報名參加私人旅行團 
+• 租車：網上預約租車，數百款車型任君選擇 
+• 接機服務：機場接送安心直達目的地，不用再排隊等的士 
+• 旅遊攻略：無限旅遊攻略，激發您的旅遊靈感！ 
+
+詳細功能清單 
+
+• 機票 
+搜尋最適合您的航班►Trip.com App 提供飛往全球約5,000個城市的航班。您甚至可以預訂私人包機！Trip.com App讓您以價格、飛行時間、旅遊日期、航空公司或中轉／停留站次數篩選搜尋結果。您亦可以選擇多城市行程，讓您可以地靈活選擇不同的出發城市及抵達城市。使用Trip.com App搜尋最適合您的航班，簡單輕鬆。
+
+低價提示►找不到符合您預算的機票？立即設定低價提示，一旦機票價格下降至您的心水價格，我們便會立即通知您。 
+
+低價地圖►低價地圖覆蓋全球，由歐洲、亞洲、美洲、到大洋洲及非洲，為您搜羅全球過千條航線的平價機票，讓您可以輕鬆展開您的下個冒險之旅。 
+
+查詢航班狀態►輸入您的航班編號並取得即時航班資訊。 
+
+• 酒店 
+
+進階搜尋篩選條件►您可以在Trip.com瀏覽全球超過140萬間酒店。無論您想要入住平價公寓還是豪華的5星級酒店、舒適的民宿還是設有多項遊樂設施的度假村，您都可以輕鬆找到最適合您的住宿。
+
+最低價格保證►我們將盡力為您提供最優惠的價格。如果您於其他地方找到更低價格，我們將退還差額。 
+
+真實用戶評價►超過3千萬個真實用戶的酒店評價，幫您作出更精明的決定。 
+
+機票 + 酒店套票訂單►同時預訂機票及酒店，為您的旅程慳得更多。如果您的航班改期，我們將為您的酒店房間提供保障。 
+
+• 火車票 
+
+香港機場快線►體驗往返香港國際機場最方便的公共交通工具，讓您快速穿梭香港各地，只需24分鐘即可抵達香港市中心。香港機場快線提供電子車票，有效期長達90日。 
+
+內地高鐵►Trip.com 提供前往上海、深圳、廣州、杭州、北京等中國內地多個城市的高鐵 車票預訂服務。高鐵每日有多班車次以及不同票價可供選擇，滿足旅客的所有旅行需求。 
+
+全球火車票►Trip.com 提供多國火車票，無論您是在歐洲（包括英國、法國、意大利、西 班牙及德國）、中國內地、台灣、香港或韓國乘搭火車，都可以在我們網站找到相關的火車資訊。
+
+電子車票►您可以在Trip.com App取得電子車票，讓您無需在取票機排隊取票，節省更多時間。
+
+• 出行保障
+
+24小時服務保障►我們的24小時服務保障全天候為您提供客戶服務支援及售後訂單保障，讓您安心出行。我們屢獲殊榮的客戶服務支援會用最貼心的服務協助每位顧客無憂無慮地展開旅程。 
+
+支援24種語言►將App切換到您的母語，輕鬆管理您的所有訂單。 
+
+支援31種貨幣及多種付款方式►我們為國際旅客提供付款解決方案。Trip.com App支援所有常用的付款方式。 
+
+旅遊保險►我們全面的旅遊保險計劃讓您安心出行。 
+
+官方合作夥伴►Trip.com App是英國全國鐵路、歐洲之星、瑞安航空和英國航空的官方合作夥伴，我們能為您提供業界領先的旅遊產品。換言之，您可以放心信賴我們，享受可靠舒適的旅遊體驗！
+
+會員專屬獎賞►成為Trip.com會員並獲得專屬獎賞，例如賺取獎勵計劃的Trip Coins，幫您下趟旅程慳多啲。立即免費註冊成為會員，盡享各式旅遊優惠！ 
+
+立即下載 Trip.com App，發掘更多精彩功能，旅行輕鬆無憂。",2013-08-05T16:28:36Z,2025-11-21T02:20:26Z
+tw,"Taiwan, Province of China",Travel,6003,2,1483423095,YouBike微笑單車 官方版,"YouBike Co., Ltd",https://apps.apple.com/tw/app/youbike%E5%BE%AE%E7%AC%91%E5%96%AE%E8%BB%8A-%E5%AE%98%E6%96%B9%E7%89%88/id1483423095?uo=4,0.0,1.99684,3792,Travel,"【 YouBike微笑單車 官方版】
+
+開啟你的YouBike旅程
+方便且快速租賃的24小時公共自行車服務系統，
+無論通勤通學、觀光旅遊、運動休閒隨時都能享受騎乘樂趣！
+下載YouBike APP讓您即時掌握完整功能：快速註冊會員、交易紀錄查詢、會員卡片管理、即時場站動態查詢、公共自行車傷害險資料編輯…等等。
+
+【服務地區】
+ 臺北市、新北市、桃園市、新竹縣、新竹市(含新竹科學園區)、苗栗縣、臺中市、嘉義縣、嘉義市、臺南市、高雄市、屏東縣、臺東縣
+
+【租借步驟】
+ ■ 註冊會員：只需註冊一次，全台YouBike服務地區皆可使用。
+ ■ 多元租借：每一會員帳號可註冊電子票證(悠遊卡、一卡通)及掃碼綁定信用卡共五張票證。
+ ■ 還車扣款：確認車機螢幕資訊，並開啟APP交易紀錄，確認還車成功
+
+進一步了解 YouBike：https://www.youbike.com.tw/",2019-12-19T08:00:00Z,2025-10-31T17:32:48Z
+tw,"Taiwan, Province of China",Travel,6003,3,675033630,Bolt：預約搭車,BOLT TECHNOLOGY OU,https://apps.apple.com/tw/app/bolt-%E9%A0%90%E7%B4%84%E6%90%AD%E8%BB%8A/id675033630?uo=4,0.0,4.81416,6269,Travel,"讓移動變得更輕鬆，就用 Bolt！ 無論是穿越市區、機場接送，或是騎滑板車靈活穿梭車陣，我們的應用程式都能讓您自在又便利地出門。
+
+為什麼選擇 Bolt？
+- 幾秒內輕鬆叫車：享受安全、經濟實惠的行程，由高評價駕駛載您暢行。 
+- 價格透明：行程費用預先顯示，無需擔心額外收費。
+- 多元支付方式：可使用信用卡/金融卡、Apple Pay、Google Pay 或現金，放心安全支付。
+
+輕鬆叫車：
+- 開啟應用程式，輸入您的目的地。
+- 選擇符合需求的車型（舒適型、尊榮型、電動車、大型車等）。
+- 即時追蹤駕駛位置。
+- 舒適抵達目的地後，留下您的評價。
+
+安全至上：  
+部分 Bolt 安全功能需在背景執行應用程式才能運作。
+
+- 緊急協助按鈕：發生緊急狀況時可悄悄通知我們的安全團隊。
+- 行程音訊錄製：行程錄音，讓您更安心。
+- 電話號碼保密：與駕駛聯絡時，不會顯示您的聯絡資訊。
+
+提前預約行程：
+需要機場接送或有一早的搭車需求嗎？Bolt 支援提前預約，最早可以在搭車時間 30 分鐘至 90 天前預訂行程。
+
+*加入 Bolt Plus，解鎖進階功能！
+升級 Bolt Plus，享有專屬優惠，省時又省錢，讓每趟行程更加順暢便利。
+
+*Bolt Drive：  
+我們致力於在 2040 年達成碳中和目標，因此積極擴展 Bolt Drive 的電動車與油電混合車陣容，提供更永續的共乘服務。您也可以透過應用程式租借 Bolt 滑板車與電動腳踏車，輕鬆出門又環保。
+
+*包裹配送服務
+選擇「寄送」行程類型，即可安排快速便利的市內包裹配送服務。
+
+Bolt 是全球共享交通平台，服務遍佈 50 個國家/地區、超過 600 座城市。我們於 2019 年從 Taxify 正式更名為 Bolt。
+
+Bolt 是您快速、可靠又實惠的叫車新選擇。無論是通勤、旅行或日常行程，Bolt 都能帶來順暢的叫車體驗。下次需要搭車，就選擇 Bolt！
+
+*Bolt 服務內容依所在地而異，請開啟應用程式查看您所在城市的可用服務。
+
+透過 Bolt 駕駛應用程式，開車賺取收入，立即註冊：https://bolt.eu/driver/
+
+有任何疑問？歡迎透過 info@bolt.eu 或前往 https://bolt.eu 與我們聯絡。
+
+追蹤我們的社群平台，掌握最新消息、優惠與服務！
+
+Facebook — https://www.facebook.com/Bolt/  
+Instagram — https://www.instagram.com/bolt  
+X — https://x.com/Boltapp",2013-07-24T04:44:15Z,2025-11-17T08:08:41Z
+tw,"Taiwan, Province of China",Travel,6003,4,468963664,台灣高鐵 T Express行動購票服務,Taiwan High Speed Rail Corporation,https://apps.apple.com/tw/app/%E5%8F%B0%E7%81%A3%E9%AB%98%E9%90%B5-t-express%E8%A1%8C%E5%8B%95%E8%B3%BC%E7%A5%A8%E6%9C%8D%E5%8B%99/id468963664?uo=4,0.0,2.22283,8715,Travel,"台灣高鐵T Express行動購票服務App
+
+「台灣高鐵T Express行動購票服務」App為台灣高鐵公司推出之行動購票乘車服務，不論您身在何處，隨時隨地都可以輕鬆訂購高鐵車票，更可以透過手機下載QR Code手機票證，享受便捷的通關乘車體驗！
+
+想要享受個人化高鐵票務服務，並一手掌握即時高鐵訊息嗎？就從體驗「台灣高鐵T Express行動購票服務」App開始吧！
+
+功能特色：
+1.	可使用手機直接進出高鐵車站閘門，快速方便又環保。
+2.	全天24小時直接連結高鐵票證系統，即時掌握最新時刻表及票價資訊。
+3.	訂位、付款、取票一機搞定，隨訂隨取，即刻啟程！
+4.	合格金融機構銀行專門為本軟體開發之付款介面，交易安全有保障。
+5.	可透過手機直接儲存訂票人資訊，並可變更車次或退票。
+6.	於「個人中心」內提供手機票券自動整理、乘客資訊管理、訂票/付款/乘車提醒通知等多項貼心功能。
+
+系統需求：
+-	適用於適用iOS 10.0以上版本之行動裝置。",2011-10-28T07:00:00Z,2025-08-20T01:56:21Z
+tw,"Taiwan, Province of China",Travel,6003,5,961850126,Klook - 全球旅遊＆玩樂體驗預訂平台,Klook Travel Technology Limited,https://apps.apple.com/tw/app/klook-%E5%85%A8%E7%90%83%E6%97%85%E9%81%8A-%E7%8E%A9%E6%A8%82%E9%AB%94%E9%A9%97%E9%A0%90%E8%A8%82%E5%B9%B3%E5%8F%B0/id961850126?uo=4,0.0,4.81484,86235,Travel,"""
+下載 Klook App，隨時隨地掌握最棒的吃喝玩樂體驗。想知道附近有什麼好吃好玩？想用訂房網預訂最超值的住宿優惠？想來趟無拘無束租車自助旅行？或來趟放鬆身心靈的旅行？Klook 通通有！旅遊規劃的首選 App！輕鬆動動手指，玩樂一手掌握！
+
+探索你的玩樂世界
+Klook 提供上萬種活動體驗，從觀光旅遊行程、景點門票、超值訂房優惠、Staycation 宅度假、租車、交通票券，到在地文化深度探索，應有盡有，帶你發現屬於自己的玩樂世界。無論是日本、韓國、新加坡、泰國、美國、英國、法國、義大利、澳洲或紐西蘭，哪裡有玩樂，Klook 就帶你去！小至美食品嚐，大至人生壯遊，跟隨我們的腳步探索各種玩樂體驗。
+
+高評價熱門活動
+Klook 嚴選在地體驗，精選道地玩法，讓你自在悠遊全球上百個目的地，台北、澎湖、宜蘭、台中、高雄、花蓮、台南、東京、大阪、名古屋、北海道、福岡、沖繩、首爾、釜山、濟州島、清邁、曼谷、長灘島、宿霧、吉隆坡、峇里島、河內、胡志明市、紐約、夏威夷、舊金山、拉斯維加斯、洛杉磯、奧蘭多、雪梨、墨爾本、黃金海岸、倫敦、巴黎、阿姆斯特丹、蘇黎世等自由行玩樂一手掌握。不管是獨自旅行、雙人出遊或家庭親子旅遊，想知道怎麼玩最好玩？找我們準沒錯！Klook 在地團隊精心挑選最道地的玩法，只為讓你享受最愉快的玩樂時光。
+
+簡單的預訂體驗
+享受極速預訂、指定票券免排隊入場、交通票券提前訂位等尊榮禮遇！無論想出國去普吉島玩水、去日本賞楓或賞櫻、去韓國景福宮體驗傳統韓服，或登上台北101觀景台、在台東來趟租車自駕之旅，只要動動手指，就能迅速預訂下一秒歡樂時光。
+
+Klook 會員禮遇白金會員獨享優惠等你來拿
+- 最高5倍 KlookCash(Klook酷幣) 輕鬆入袋
+- 享總價值達US$250優惠碼
+- 享客服優先服務禮遇
+- 出國上網必備 eSIM 免費送
+
+以黃金會員資格消費滿US$1,500，即可升級白金會員！
+
+更多特色功能
+- 線上兌換憑證／票券，亦可提前下載、離線兌換
+- 心動的活動通通收進口袋名單，再一步一步去實現
+- 自由挑選台灣高鐵國旅聯票、多國鐵路、客運巴士、租車、渡輪等交通方式，輕鬆趴趴走
+- 享電影票、展演活動票券折扣與套票優惠
+
+來跟我們打聲招呼吧！
+【台灣用戶】
+- 官網：https://www.klook.com/zh-TW/
+- 部落格：https://www.klook.com/zh-TW/blog/
+- Facebook：@klooktw
+- Instagram：@klooktw
+
+【香港用戶】
+- 官網：https://www.klook.com/zh-HK/
+- 旅遊網誌：https://www.klook.com/zh-HK/blog/
+- Facebook：@klookhk
+- Instagram：@klookhk
+
+有建議想對我們說？歡迎透過 appfeedback@klook.com 與我們聯繫，讓我們變更好！""",2015-04-23T10:23:39Z,2025-11-17T02:35:32Z
+tw,"Taiwan, Province of China",Travel,6003,6,579255069,55688 台灣大車隊,"Taiwan Intelligent Life Co., Ltd.",https://apps.apple.com/tw/app/55688-%E5%8F%B0%E7%81%A3%E5%A4%A7%E8%BB%8A%E9%9A%8A/id579255069?uo=4,0.0,4.84943,116975,Travel,"APP叫車可查詢近期乘車記錄，可對司機進行評價，並設定最愛司機。車資除了以現金支付外，
+也提供綁定信用卡、綁定LINE Pay、悠遊付、企業電子簽單、悠遊卡、街口、Pi錢包、台灣Pay等等近三十
+種超多元付款方式，讓您盡享便利！
+
+【APP叫車 - 不需再等待電話接通】
+　● GPS訂車：如果手機設備擁有準確GPS訊號，可自動以GPS定位，為您查詢附近地址方便您叫車
+　● 地址叫車：可直接輸入上下車地點的地址
+　● 歷程訂車：使用過去叫車紀錄的地址叫車
+　● 代叫車：不是自己要搭車嗎？以APP協助親友叫車，由他人自行支付車資，也可用自身綁定支付協助對方付款
+　● 附近地標搜尋：可查詢附近的熱門景點、店家名稱，能以地標所在位置快速訂車（如「台北101」）
+　● 我的最愛：可設定多組最常上車的地址或地標，以便於首頁進行快速叫車
+　● 機場送機：可預約機場送機，前往桃園機場、松山機場、台中機場、小港機場等
+
+【多元計程車 - 車身非黃色的計程車】
+　● 多元計程車專屬服務，更多選擇、更好品質，給您全新乘車體驗
+　● 多元計程車車款選擇，提供舒適型大器體驗、豪華型尊榮體驗、六人座商務體驗，您可以依個人的需求叫車
+　● 多元計程車服務內容，同樣包含即時叫車、預約叫車、機場送機等
+　● 預約叫車成功後，APP會在乘車前主動提醒您。您也可以點選「我的 > 我的預約」以查看您的預約資訊
+
+【全天候衛星行車監控 - 安心搭乘、快速抵達】
+　● 車輛位置：搭車中可查詢車輛位置，台灣大車隊24小時衛星監控車輛位置，讓您安心乘車不落單
+　● 分享路程：搭車中可分享路程給親友（不限是否為會員），讓親友即時得知您搭乘的車輛資訊與當前位置
+　● 遺失物協尋：不小心遺失物品在車上？剛結束的行程，可透過APP直接聯絡司機，取回您寶貴的身邊物品
+　● 乘車記錄：記錄晚近叫車的乘車時間與路徑，方便事後追蹤
+
+【更多功能 - 安全、舒適、貼心】
+　● 各種綁定付款：事先綁定各大銀行信用卡，LINE Pay、悠遊付，或企業電子簽單功能，一抵達就能快速下車免
+找零
+　● 車上也能支援刷實體信用卡、悠遊卡、敬老愛心卡、第三方掃碼支付等等多種付款方式（請於訂車時先選擇，
+方便司機為您提前準備）
+　● 司機資訊：APP上將持續顯示完整派車相關資訊，不怕忘記車輛編號或車牌，找不到車可直接與司機通話
+　● 司機評價：給予司機評價，讓我們做得更好
+　● 預估車資：訂車前多輸入您的下車地址，即可試算車資（提醒您：實際車資與行駛路線、路況有關，付款時將以
+車上計費表跳表金額為準）
+
+【派車範圍 - 遍及全國】
+　● 台北、新北、桃園、新竹、台中、台南、高雄……遍及全台灣，都有台灣大車隊的司機為您服務，甚至離島也已陸
+續開辦55688叫車服務！
+
+【關於台灣大車隊 - Taiwan Taxi Co,. LTD.】
+　台灣大車隊領先同業運用衛星定位派遣服務，並導入即時圖資與路況功能，24小時全天候衛星行車監控，提供以尖
+端科技建構的運輸服務業最高安全品質，建立在消費者心目中的計程車第一品牌地位！",2012-12-18T02:27:50Z,2025-11-11T02:09:20Z
+tw,"Taiwan, Province of China",Travel,6003,7,368677368,優步 - 隨時預約搭乘計程車,"Uber Technologies, Inc.",https://apps.apple.com/tw/app/%E5%84%AA%E6%AD%A5-%E9%9A%A8%E6%99%82%E9%A0%90%E7%B4%84%E6%90%AD%E4%B9%98%E8%A8%88%E7%A8%8B%E8%BB%8A/id368677368?uo=4,0.0,4.8979,494843,Travel,"Uber 致力於維護您的安全。您有權享有安全無虞的交通服務，我們為此建立了值得信賴的安全標準。
+
+使用 Uber，動動手指即可輕鬆前往目的地。只要打開 App，輸入想前往的地點，職業駕駛就會提供服務，協助您抵達目的地。
+
+不論身在何處，幾乎都能四通八達，暢行無阻
+Uber 在全球 600 多座機場和 10,000 多個城市提供服務，助您輕鬆實現旅遊計畫。您可視需要即時叫車，也可以提前安排行程。
+
+隆重介紹 Uber Taxi 優步小黃，透過 Uber 預約搭乘的最新選擇。現在，您可以選擇透過 Uber App 叫計程車。
+
+無論您追求的是品味、空間或實惠價格，Uber 都能協助您找到符合需求的完美行程。
+
+查看預估應付車資
+使用 Uber，您可以在叫車前事先查看預估應付車資，費用多少一目瞭然。
+
+維護您的安全是我們進步的動力
+我們致力於讓每趟行程安全無虞，因此，除了點到點安全標準外，我們還打造了全新的安全功能，也更新了《社群準則》，以利打造互相尊重、積極正面的行程體驗。
+
+您可以分享行程
+您可以在行程中分享自己的位置和行程狀態，讓親友知道您已到達目的地，不必掛心。
+
+您可以聯絡緊急援助服務
+您可以從 App 中直接致電當地主管機關，App 也會顯示您的位置和行程詳細資訊，以便您迅速分享給緊急援助服務。
+
+為您的職業駕駛評分並給小費 
+每趟行程結束後，您都可以送出評分和建議。您也可以直接在 App 中給予小費，向職業駕駛表達謝意。
+
+部分產品只在特定市場提供。
+
+若要查看所在城市是否能夠使用 Uber，請造訪 https://www.uber.com/cities。
+若要在 Twitter 上跟隨我們，請造訪 https://twitter.com/uber。
+或者，您也可以前往 Facebook 按讚追蹤我們：https://www.facebook.com/uber
+
+有任何疑問嗎？請造訪 uber.com/help。",2010-05-21T03:11:23Z,2025-11-17T14:30:34Z
+tw,"Taiwan, Province of China",Travel,6003,8,1499808545,台中通TCPASS,Taichung City Government,https://apps.apple.com/tw/app/%E5%8F%B0%E4%B8%AD%E9%80%9Atcpass/id1499808545?uo=4,0.0,2.77789,5155,Travel,台中通APP提供整合式市政服務，如：最新動向、數位市民虛擬卡、單一簽入、個人化服務、生活福利資訊、支付繳費、好康優惠…等。另結合「臺中購物節」活動相關功能，包含最新消息、登錄發票(掃描及手動登錄)、合作店家、發票紀錄(抽獎券、雲端發票、線上兌領獎)、我的訊息…等，提供民眾多元便捷的數位服務。,2020-02-22T08:00:00Z,2025-11-21T09:51:04Z
+tw,"Taiwan, Province of China",Travel,6003,9,1441617748,台鐵e訂通,Taiwan Railways Administration,https://apps.apple.com/tw/app/%E5%8F%B0%E9%90%B5e%E8%A8%82%E9%80%9A/id1441617748?uo=4,0.0,2.19051,5994,Travel,"「台鐵e訂通」為國營臺灣鐵路股份有限公司發佈的官方行動應用程式。
+
+功能特色:
+1. 全天24小時直接連結臺灣鐵路票務系統，即時掌握臺灣鐵路乘車資訊。
+2. 提供列車空位預訂、付款、線上訂位紀錄查詢與異動，並支援線上取票手機行動票證。
+3. 可接收本局發送之最新消息、路線運行狀態以及即時列車動態資訊。
+4. 提供臺灣鐵路會員服務。
+
+系統需求:
+1. 適用於搭載 iOS 14 之後版本的手機。
+2.除離線時刻表查詢外，列車時刻查詢、訂票、網路付款、退票及列車即時動態等功能，均須在有WiFi或行動網路的情況下才能使用。",2019-04-07T05:26:09Z,2025-10-23T09:58:32Z
+tw,"Taiwan, Province of China",Travel,6003,10,6443825385,去趣 chicTrip,"HOTAI MOTOR CO., Ltd.",https://apps.apple.com/tw/app/%E5%8E%BB%E8%B6%A3-chictrip/id6443825385?uo=4,0.0,4.45878,3263,Travel,"每天都想出趣玩～秘境美景、好吃好玩、路順安排、交通移動，用去趣 chicTrip 一次搞定。一個你說什麼、就是什麼的APP，我們罩你的玩！！
+
+【AI 安排順路線 新手也能簡單上手】
+用 AI 自動幫你計算最順路的行程景點排序，多日旅遊也能輕鬆應對複雜的交通路線
+
+【影音有感最直覺】
+探索大量創作者們的影音分享，找尋美食餐廳、秘境景點、打卡美照，喜歡的就通通加到行程中！！
+
+【新開幕店家 一鍵搜出】
+想要吃喝玩樂通通不落人後？一鍵搜出所有最新開幕的店家、熱門景點
+
+【輕鬆做出行程 匯出完美誠意】
+只要在APP上做好行程安排，就能快速匯出分享給其他人，行程細節清楚又美觀
+
+【交通訂車 一鍵掌控】
+直接在 去趣 chicTrip 上訂車叫車，自助式租車（iRent）、機場接送（和運專車、yoxi 送機）、旅途中代步（yoxi 即時叫車、預約叫車）都可作為交通選項
+
+【多人共編 分工超方便】
+朋友易做旅伴難當？一起在APP上查景點、共編行程、安排時間、筆記攻略，分工搞定瑣碎的旅遊行前規劃
+
+--------【下載 去趣 chicTrip】-------- 
+官方網站：https://www.chictrip.com.tw/
+意見回饋：service@chictrip.com.tw
+追蹤我們：
+IG https://www.instagram.com/chictrip.tw/
+FB https://www.facebook.com/chicTrip.tw/
+
+喜歡 去趣 chicTrip 的話，歡迎給我們最大的鼓勵與動力 ！！滿滿五顆星肯定！！
+
+若遇到任何問題與操作建議，你們的心聲我們都有看見，歡迎在App內 > 會員中心，留言告訴我們唷！！",2023-06-29T07:00:00Z,2025-10-13T01:05:22Z
+tw,"Taiwan, Province of China",Travel,6003,11,1248267356,KKday-全球旅遊體驗,Kkday.com International Company Limited,https://apps.apple.com/tw/app/kkday-%E5%85%A8%E7%90%83%E6%97%85%E9%81%8A%E9%AB%94%E9%A9%97/id1248267356?uo=4,0.0,4.87521,180924,Travel,"►最新優惠：首次下載 KKday App 結帳輸入優惠碼，即享專屬滿額折扣！
+ 【台灣用戶】輸入「APP90」滿$1500元現折90元
+ 【香港用戶】輸入「APP15HK」滿HK$300現折HK$15
+
+【全球深度體驗，自由行必備App】
+
+立即出發！KKday提供一站式旅行服務，機票、交通、行程、住宿全包。選擇目的地，挑選當地行程，開始獨特的旅行體驗。
+
+【下載APP！安心旅遊最可靠】
+1. 輕鬆預訂：隨時瀏覽熱門旅遊商品推薦，輕鬆加入購物車預定行程。
+
+2. 即訂即出：熱門景點不用現場排隊購票，當天線上訂購即刻出發。
+
+3. 真人客服：提供中文、英文線上客服，旅途中遇到狀況也不怕，上網免費撥打電話就能聯繫到客服。
+
+4. 電子憑證：現場出示電子憑證，即可省去排隊購票的時間，輕鬆入場！
+
+5. 多元付款：安全的交易平台，可使用信用卡（VISA、MasterCard、銀聯、美國運通）、Apple Pay 、Google Pay、Alipay、八達通、PayMe、Atome 等多元付款方式，完成付款及訂購程序。
+
+跟著 KKday 玩遍全球，立即下載App探索行程，一起盡情玩樂！
+
+【聯絡我們】
+官方網站 : https://www.kkday.com
+客服信箱 : service@kkday.com",2017-09-24T16:35:12Z,2025-11-10T03:28:04Z
+tw,"Taiwan, Province of China",Travel,6003,12,440676901,Agoda：預訂優惠機票和飯店,Agoda Company Pte. Ltd.,https://apps.apple.com/tw/app/agoda-%E9%A0%90%E8%A8%82%E5%84%AA%E6%83%A0%E6%A9%9F%E7%A5%A8%E5%92%8C%E9%A3%AF%E5%BA%97/id440676901?uo=4,0.0,4.83853,354295,Travel,"讓Agoda成為你的終極旅遊規劃師，只需動動手指，即可找到超值機票和住宿優惠！Agoda App是你探索和預訂全球最佳旅遊優惠的必備神器。
+
+在Agoda上搜尋全球超過200家航空公司的優惠機票，眾多航線選擇讓你輕鬆比價和預訂國內外超值航班。獨特的搜尋引擎可即時比較航班價格，並推送優惠通知，確保你不錯過任何一張優惠機票！
+
+此外，你還可以在Agoda App上，輕鬆設定偏好的語言和顯示幣別，從超過400萬間飯店、別墅和民宿中找到理想住宿。透過篩選條件、高解析度圖片、地圖模式、當地資訊，以及超過3500萬則真實旅客評論，挑選最符合你旅行需求和預算的完美住宿。
+
+想當房東賺租金？沒問題！在Agoda Homes上成為房東，輕鬆賺取穩定收益。
+
+Agoda是你的完美旅遊規劃師，透過會員專屬優惠、晚鳥優惠以及其他折扣，幫你在下一趟旅程中省下高達80%的旅費，以優惠價格暢遊全世界！立即預訂機票和飯店，享受我們的獨家優惠，打造難忘的夢幻假期。
+
+Agoda功能特色
+
+優惠機票，一鍵搞定
+- 200家航空公司超值機票任挑任選，帶你飛往全球目的地
+- 即時更新機票價格，確保你獲得最佳優惠
+- 幫你儲存預訂資訊，讓你在App中直接輕鬆調整機票訂單
+
+預訂住宿，便利安心
+- 全球超過400萬個住宿選項任你預訂
+- 無論是飯店、民宿、度假小屋或其他類型住宿，在Agoda預訂選擇更多元
+- 輕鬆查看旅客評論、照片和當地資訊，預訂住宿更安心
+
+旅遊優惠，精打細算
+- 利用便宜機票和超值住宿節省旅費
+- 在全球旅遊目的地中規劃高CP值假期，以最實惠的價格滿足你的旅行慾望
+- 使用 Agoda專屬優惠，享受隱藏驚喜折扣等更多福利
+
+規劃假期，輕鬆無憂
+- Agoda App為你儲存預訂的電子住宿憑證、詳細資訊和地圖，無需任何紙本文件即可快速入住
+- 隨時隨地都可管理或編輯預訂
+- 需要協助？別擔心！Agoda提供多語言的24小時線上客服，確保旅程順利、省錢省心
+- 無論你使用哪一種語言，都可享有最超值的飯店優惠：فنادق أجودا,安可达酒店订房,Agoda酒店,Agoda訂房,อโกด้า,תי מלון אגודה, حجوزات,اجودا,агода.
+
+想了解更多有關Agoda App的使用資訊（包括個人化廣告和跨設備追蹤），並行使某些選擇退出的權利，請參閱我們的Cookie政策。",2011-06-07T02:10:07Z,2025-11-18T04:49:42Z
+tw,"Taiwan, Province of China",Travel,6003,13,483981045,易遊網 - 機票、訂房及旅遊專屬優惠,"ezTravel Co., Ltd.",https://apps.apple.com/tw/app/%E6%98%93%E9%81%8A%E7%B6%B2-%E6%A9%9F%E7%A5%A8-%E8%A8%82%E6%88%BF%E5%8F%8A%E6%97%85%E9%81%8A%E5%B0%88%E5%B1%AC%E5%84%AA%E6%83%A0/id483981045?uo=4,0.0,4.88435,147638,Travel,"全台最大旅遊 App，國內外旅遊商品一站購足！
+搜機票、找飯店、訂行程、買票券、瘋露營、玩體驗…
+所有旅遊需求，一機輕鬆搞定，再享 App 專屬優惠！
+
+▼ 找機票 
+．全球便宜機票，線上即時訂位、迅速付款
+．可訂混艙、不同點進出航班，選擇更多、更自由  
+．串接世界最大航空訂位系統，便宜機票輕鬆搜、方便比價，訂閱「低價通知」即時透過推播提醒，幫助搶到心動價格的機票
+．提供訂位查詢服務，已訂航班資訊可隨時查閱
+．線上自動化改票服務，免人工作業迅速完成改票需求 
+．全球航班機加酒輕鬆搭配、說走就走
+．全球接送機全面上架
+
+▼ 找飯店 
+．國內外超過 500 萬種專案選擇，滿足各種住房需求
+．星級飯店、商務旅館、設計旅店、特色民宿應有盡有
+．訂房可延後付款、可在一定時間內免費取消 
+．上萬則飯店評鑑，最真實的入住心得一覽無遺  
+．隨訂隨住！台灣訂房於當日完成訂購及付款，即可當天入住 
+．支援即時定位服務，立即搜尋最近飯店，空房輕鬆找、搭配地圖不迷路 
+
+
+ ▼ 找旅遊 
+．國內外團體旅遊、自由行、機加酒、體驗活動、票券Wi-Fi、豪華遊輪、護照簽證…一站購足
+．國內外跟團旅遊囊括 50 大旅遊品牌商品，行程最齊全，一次輕鬆比較超方便
+．高鐵假期、高鐵國旅聯票、環島之星、火車環島、巴士旅遊、離島假期、自駕玩樂、露營體驗等多樣國旅商品，激發旅遊靈感 ．可指定旅遊天數、預算搜尋，更好找到你想要的
+
+▼ and More...
+．清新且直覺的視覺設計，給您流暢舒適的瀏覽體驗，玩轉世界更加得心應手
+．於 App 消費可累積 eMoney 紅利點數，點數折抵消費無上限，讓你邊賺邊玩
+．刷卡享 0 利率分期，支援 3 大行動支付，無卡付款也沒問題，輕鬆付款無負擔
+．[我的訂單] 功能完整儲存訂單記錄，資訊隨身帶著走，客服對話、上傳補件一次搞定，隨時查詢超方便
+．無論是機票、訂房、旅遊，加購高鐵票享優惠折扣
+．生日折扣碼大禮包！",2011-12-05T04:31:17Z,2025-11-19T15:29:25Z
+tw,"Taiwan, Province of China",Travel,6003,14,367003839,Booking.com 全球旅遊優惠和訂房網站,Booking.com B.V.,https://apps.apple.com/tw/app/booking-com-%E5%85%A8%E7%90%83%E6%97%85%E9%81%8A%E5%84%AA%E6%83%A0%E5%92%8C%E8%A8%82%E6%88%BF%E7%B6%B2%E7%AB%99/id367003839?uo=4,0.0,4.84492,282678,Travel,"快下載最佳人氣旅遊 APP，加入上萬名用戶行列，一起搜尋飯店、民宿或公寓的超值優惠吧！無論是度假、出差還是週末小旅行，Booking.com 陪你走遍全世界！
+
+搜尋飯店、民宿或公寓
+
+• 共有 2700 萬間飯店、民宿、公寓、度假住所與特色住宿
+• 可透過城市、景點、地標或飯店名稱，輕鬆搜尋住宿
+• 可套用房價預算、住客評分、WiFi 品質等各種篩選條件，迅速找到理想住宿
+• 不論提早或臨時預訂，都可找到適合的住宿
+
+尋找超棒旅行優惠
+
+• 每日優惠，適合各種預算
+• 多數客房可免費取消
+• 135 萬則真實住客評語提供您最佳資訊
+
+隨時管理訂單
+
+• 電子訂房確認
+• 不論在哪，隨時都可修改訂單
+• 24 小時全天候客服，提供超過 40 種語言服務
+• 可線上聯繫住宿、查看入住時間或撰寫評語
+• 免訂房手續費或信用卡手續費",2010-04-14T18:30:24Z,2025-11-20T09:19:47Z
+tw,"Taiwan, Province of China",Travel,6003,15,1438421140,Pie VAT,Pie Systems IVS,https://apps.apple.com/tw/app/pie-vat/id1438421140?uo=4,0.0,4.88469,22420,Travel,"Pie VAT is the next generation tax free solution. It is the first digital tax free shopping app that enables travelers to easily claim their VAT refunds when traveling abroad. We have eliminated excessive paper forms, long waits in line, high fees; all that’s left is a quick and easy way to shop tax free.
+ 
+
+
+SHOP AT OUR PARTNER STORES
+
+Find, browse, and explore our local partner stores in the app. We have 1000+ PIE partner stores. Find yours today!
+
+
+QUICK AND EASY:
+
+Request your VAT Refund in a matter of seconds. Clear and concise directions in our app will guide you every step of the way for your VAT refund.
+
+
+STAY ON TOP OF IT ALL
+
+Easily track your refund requests and their status. Keep up with the entire process and where your funds are.
+
+
+BIGGER & FASTER
+
+PIE works to get you more of your VAT refund back as fast as possible! We support multiple payout methods, including bank transfers, credit cards, and more.
+
+
+YOUR SECURITY IS OUR PRIORITY
+
+Pie VAT makes VAT refunds easy and quick, and we take the protection of your account very seriously. We utilize industry standard security measures to help protect your account information.
+
+
+===================
+
+
+How Pie VAT works:
+
+1. After you checkout in store, ask to do a refund via PIE. The store will send you your claim information to start our VAT refund process. 
+
+2. Claim your refund on the PIE app, follow the easy steps and submit your request.
+
+3. Enjoy your VAT refund - maybe buy some pie.
+
+
+Need help? We’re two taps away via live help in-app!",2018-10-17T04:17:14Z,2025-11-10T07:49:47Z
+tw,"Taiwan, Province of China",Travel,6003,16,1093021450,中華航空 App,China Airlines Ltd.,https://apps.apple.com/tw/app/%E4%B8%AD%E8%8F%AF%E8%88%AA%E7%A9%BA-app/id1093021450?uo=4,0.0,2.68213,582,Travel,"中華航空App：美好飛行，從心出發。
+
+全新中華航空App，是您專屬的智慧旅遊管家。
+以嶄新的介面設計與流暢操作，帶來更直覺、更愉悅的旅程體驗。
+從行程管理、網路報到，到會員資訊與航班動態通知，
+首頁還能依個人需求自訂常用功能，
+讓您一手掌握所有資訊，盡享每趟美好飛行。
+
+• 訂位購票與附加服務：
+透過中華航空官方 App，隨時隨地完成航班查詢與購票。
+從行程規劃到附加服務，所有細節皆在指尖輕鬆掌握。
+輕鬆管理每一趟飛行，讓旅程不僅順暢安心，更成為值得期待的體驗。
+
+• 選位/選餐：
+無論是靠窗欣賞雲端美景，或選擇走道旁方便行動的座位，都能依您的偏好自由安排。
+心儀的餐點也能提前預訂，讓旅程從起飛前就貼近您的品味。
+
+• 數位會員卡：
+以數位會員卡取代傳統實體卡，登入中華航空官方 App，即可隨時掌握個人資訊與專屬禮遇。
+哩程可靈活折抵票價，免稅品亦可提前預購，便捷享有會員權益，服務始終如影隨行。
+
+• 網路報到：
+航班起飛前 48 小時至60分鐘；前往美國航班(含關島)受限當地政府規定，辦理時間為起飛前24小時至60分鐘，透過中華航空官方 App 即可完成網路報到並取得電子登機證。
+免去櫃檯排隊，節省寶貴時間，讓啟程更從容順暢。
+
+• 電子登機證：
+於中華航空官方 App 完成報到後，即可取得專屬電子登機證。
+免去紙本、掃描即通關，讓出行更俐落、更優雅。
+
+• AI 客服：
+支援中文、英文、日文等數十種語言，涵蓋中華航空主要市場，讓溝通隨時隨地都能暢行無阻。
+在旅程規劃階段，AI 客服可提供景點推薦與行程建議，協助旅客打造理想行程。
+無論身處何地、跨越哪個時區，皆可即時獲得回應，查詢高效、使用便利。
+
+• 航班動態：
+即時查詢與追蹤航班資訊，無論起飛、降落或延誤更新，皆能第一時間掌握。
+即刻了解最新動態，讓旅程規劃更安心、更從容。",2016-11-03T00:10:41Z,2025-11-18T06:57:20Z
+tw,"Taiwan, Province of China",Travel,6003,17,443099960,長榮航空,EVA AIRWAYS CORP.,https://apps.apple.com/tw/app/%E9%95%B7%E6%A6%AE%E8%88%AA%E7%A9%BA/id443099960?uo=4,0.0,4.59004,14882,Travel,"長榮航空 App專屬於您的全方位雲端管家，服務包括：
+1.	購票/改票：您可直接查詢和購買您想要的行程，同時享受快速便利的線上改票服務。
+2.	航班資訊：隨時查看航班時刻表和航班到離動態。
+3.	行程管理：整合報到、選位、選餐、訂位查詢、預購超額行李及取消全部行程功能，並結合手機行事曆。
+4.	報到：使用相機功能讀取護照資料輕鬆完成報到，並可將登機證存入Apple Wallet/Google Wallet。
+5.	無限萬哩遊：會員專屬查詢哩程數及會員相關優惠。
+6.	推播服務：依不同時間提供推播通知，內容包含：報到提醒、登機時間和登機門提醒、各類促銷活動以及託運行李通知。
+7.	其他：機票優惠資訊、重要資訊公告、智能客服（台灣繁體中文）。
+
+
+平板用戶可造訪長榮航空資訊網www.evaair.com。
+建議您更新至最新作業系統及安裝防護軟體，以提供使用行動裝置之安全性。
+長榮航空不時推出新的功能，敬請隨時關注並更新App以體驗最新且完整的服務！",2011-06-15T23:41:52Z,2025-11-10T00:23:41Z
+tw,"Taiwan, Province of China",Travel,6003,18,1266626655,台灣高鐵,Taiwan High Speed Rail Corporation,https://apps.apple.com/tw/app/%E5%8F%B0%E7%81%A3%E9%AB%98%E9%90%B5/id1266626655?uo=4,0.0,2.02647,1209,Travel,"「台灣高鐵」App - 為台灣高鐵公司推出之全功能旅程服務，我們不斷持續進化功能，給旅客全新及多元服務，輕鬆規劃說走就走，就讓我們一起體驗「台灣高鐵 」App 吧!
+
+
+五大特色 一次看:
+1.回饋，隨時查詢查詢您的TGo點數紀錄，專屬回饋立即兌。
+2.旅程，隨心規劃轉乘公車、台鐵，盡情暢遊；搭配景點及美食推薦，旅程更盡興。
+3.優惠， 一目了然一手掌握各車次適用優惠，購票輕鬆找。
+4.首頁由您決定，設定您最常使用的首頁快捷功能，常用連結一點就通。
+5.接收專屬優惠及通知，請允許接收提示訊息以免錯過專屬優惠及重要通知。
+
+
+系統需求:
+1. 適用於任何iOS 14或之後的版本裝置。",2017-10-25T17:41:25Z,2025-11-11T01:39:33Z
+tw,"Taiwan, Province of China",Travel,6003,19,1450459916,STARLUX,"STARLUX Airlines Co., Ltd.",https://apps.apple.com/tw/app/starlux/id1450459916?uo=4,0.0,4.00213,937,Travel,"行動購票與附加服務
+可於星宇航空官方App預訂航班、預選座位、預購額外行李、預購Galactic Wi-Fi及預選餐點。
+
+行動COSMILE會員
+星宇航空使用電子化會員卡，無需再攜帶實體卡片，必要時只需開啟App，會員卡號即刻呈現。
+
+手機報到
+透過星宇航空官方APP，可快速便捷地完成報到手續並取得電子登機證。
+
+建議您安裝最新作業系統版本，以取得更好的體驗",2019-12-24T08:00:00Z,2025-10-22T03:12:53Z
+tw,"Taiwan, Province of China",Travel,6003,20,1538897906,LINE GO - 計程車或租車，所有移動由此開始,"JDW CO., LTD.",https://apps.apple.com/tw/app/line-go-%E8%A8%88%E7%A8%8B%E8%BB%8A%E6%88%96%E7%A7%9F%E8%BB%8A-%E6%89%80%E6%9C%89%E7%A7%BB%E5%8B%95%E7%94%B1%E6%AD%A4%E9%96%8B%E5%A7%8B/id1538897906?uo=4,0.0,1.85859,297,Travel,"【隨時隨地，開啟移動生活新想像】
+
+LINE GO 去哪都行！LINE GO 提供一站式移動服務平台，提供便捷的TAXI、租車與機場接送服務。生活中的所有移動，都從 LINE GO 開始。
+
+【TAXI】用科技改變你的交通方式
+
+- 事先查看車資，行程透明預算好掌握
+- 寵物、寶寶、無障礙，滿足多元需求
+- 高規綠能減碳車隊，服務體驗再升級
+
+【租車】說走就走，讓生活就是旅行
+
+- 13大品牌60種車款，歐日車款任你選
+- 車輛定期清潔，車況透明全登錄，用車更安心
+- 同站/異站租還，以時計價，租車時間任你調配
+- 門市日租，專人服務，高鐵、機場皆可租車
+
+【機場接送】
+
+- 松山、桃園、台中、高雄機場，一鍵預約接送
+- 24小時前免費取消，預約後保證接送
+- 價格透明，天氣、車流都不影響車資
+
+馬上體驗 LINE GO
+開啟生活移動的各種可能",2021-03-16T07:00:00Z,2025-11-10T02:24:37Z
+tw,"Taiwan, Province of China",Travel,6003,21,647268330,"Grab: Taxi Ride, Food Delivery",GRABTAXI HOLDINGS PTE. LTD.,https://apps.apple.com/tw/app/grab-taxi-ride-food-delivery/id647268330?uo=4,0.0,4.93368,44479,Travel,"Get everything you need with Grab — the leading ride-hailing, taxi, food delivery, and grocery app in  Southeast Asia.
+
+
+We offer essential everyday services to over 670 million people across Singapore, Indonesia, Malaysia, Thailand, Philippines, Vietnam, Cambodia, and Myanmar. 
+
+
+Grab offers various ride-hailing options, including 4-wheel and 2-wheel rides, and taxi booking. There’s also a diverse range of services including food order delivery from restaurants, prompt package delivery, and groceries from supermarkets, making it a leading delivery platform. 
+
+
+From ride-hailing to food and grocery delivery, Grab is your one-stop app for all your everyday needs in Southeast Asia.
+
+
+Book a ride for any occasion and budget
+Order a ride on Grab, the top ride-hailing and taxi app in Southeast Asia. Choose from a variety of transport modes, including cars, motorbikes, and buses, and get matched with a professional driver in minutes.
+
+
+Food delivery for any craving
+GrabFood: a leading food delivery app that allows you to easily order food from your favourite restaurants and get it delivered to your doorstep, making it convenient and hassle-free 
+
+
+Conveniently order food and groceries for delivery
+GrabMart is a convenient food delivery app that allows you to order groceries and handpicked fresh produce from your favourite supermarket. 
+
+
+
+
+Secure and seamless cashless payments
+GrabPay: A safe and secure mobile wallet where you can easily pay for Grab services, such as food and grocery delivery and taxis, as well as at local merchants 
+
+
+Reliable on-demand package delivery
+GrabExpress: Order affordable, fast, and reliable courier service with insurance for your items
+
+
+Rewards for using Grab
+GrabRewards: Order food, ride and earn reward points for every dollar you spend and use them to redeem deals in the GrabRewards catalog
+
+
+Grab is the only ride-hailing and food-delivery app you need. Whether you are searching for a taxi app, express food delivery, or grocery delivery, Grab has got you covered.
+
+
+In addition to our renowned ride-hailing, taxi, and food delivery services, we also strive to promote economic empowerment for everyone in the region. We provide financial services such as wealth management, lending, cashless payments, and insurance.
+
+
+Find out more about us at www.grab.com.
+Grab offers the ability for users to receive personalized targeted advertising, offers, and updates from Grab and its partners and communications/advertising from certain third-party apps based on activity on your devices. Users may exercise opt-out choices under the Privacy and Consent Management sections within Settings within the app. For further details, you may refer to our Privacy Policy at www.grab.com/privacy.",2013-05-15T20:46:50Z,2025-11-18T02:52:59Z
+tw,"Taiwan, Province of China",Travel,6003,22,415458524,Skyscanner - 機票、廉航票、飯店訂房、租車,Skyscanner Limited,https://apps.apple.com/tw/app/skyscanner-%E6%A9%9F%E7%A5%A8-%E5%BB%89%E8%88%AA%E7%A5%A8-%E9%A3%AF%E5%BA%97%E8%A8%82%E6%88%BF-%E7%A7%9F%E8%BB%8A/id415458524?uo=4,0.0,4.86439,147149,Travel,"善用 Skyscanner，輕鬆規劃下一趟旅程。機票、飯店、租車一次比價，最低價格立即預訂！
+
+無論你身在何處，都可以隨時隨地搜尋前往世界各地的便宜機票、飯店與租車優惠。一次比較心儀旅遊品牌（中華航空、長榮航空、星宇航空、虎航台灣、酷航等）與 OTA 特價，涵蓋 TPE／TSA／KHH 等主要機場出入境票價。沒有任何預訂手續費或其他隱藏費用，顯示的新台幣 (TWD) 金額即為最終價格。
+
+尋找靈感
+無法決定去哪裡嗎？點擊搜尋列中的 「探索世界各地」，即可一次瀏覽全球機票特價與 LCC 促銷，迅速激發假期靈感。
+
+篩選搜尋內容
+知道自己想找什麼嗎？你可以按照航程時間、航空公司、出發機場、轉機次數（直飛／轉機）、艙等，以及出發和抵達時間來篩選航班。
+
+飛行的最佳時機
+選好目的地後，利用日曆檢視查看所選月份每日機票最低價。設定 「價格通知 (Price Alert)」，票價變動即推播提醒，助你鎖定最划算的出發日。
+
+理想價格，心儀飯店
+我們不只尋找便宜機票，還能比較各種住宿選項。比較全球上千家飯店、度假屋、汽車旅館與青年旅館優惠，或搜尋鄰近住宿抓住「今晚入住」限時特價。
+
+租車
+選擇取車的時間與地點，即顯示 Avis、Hertz、和泰租車等品牌的最低價格。依車種、燃料與配備篩選，公平燃油政策讓你無需擔心額外油資。
+
+向你信任的品牌預訂
+一站式比較中華航空、長榮航空、星宇航空、虎航台灣，以及 Expedia、Agoda、Trip.com、Booking.com 等 OTA 價格與評價，輕鬆完成預訂。
+
+沒有額外手續費
+Skyscanner 不收取任何預訂手續費；顯示金額即最終結帳金額。
+
+儲存航班
+對喜愛的航班或住宿點擊愛心即可加入 「旅程」 清單，隨時回來查看並完成預訂。Price Alert 也會在符合心中理想價時自動提醒。
+
+為何選擇 Skyscanner？
+• 《每日電訊報》：「你唯一需要的 20 個旅遊應用程式」
+• 《紐約時報》：「協助旅客實現夢想旅程的應用程式」
+• 《Elite Daily》：「讓你輕鬆環遊世界的 7 大旅遊 App」
+• Pocket‑lint：「迎接夏日必備的 4 款 App」
+
+在此找到我們
+• Facebook: https://www.facebook.com/skyscanner
+• Instagram: @skyscanner
+• Twitter: @skyscanner
+• LinkedIn: https://www.linkedin.com/company/skyscanner/
+• 網站: www.skyscanner.net",2011-02-17T16:02:14Z,2025-11-18T15:36:19Z
+tw,"Taiwan, Province of China",Travel,6003,23,6475045151,Saily：專為旅行設計的 eSIM,Nordvpn S.A.,https://apps.apple.com/tw/app/saily-%E5%B0%88%E7%82%BA%E6%97%85%E8%A1%8C%E8%A8%AD%E8%A8%88%E7%9A%84-esim/id6475045151?uo=4,0.0,4.70773,1810,Travel,"用 Saily 輕鬆暢遊網路世界，是您享受 eSIM 服務暢遊世界的最佳途徑。 告別實體 SIM 卡，隨時隨地擁抱數位的方便性。 有了 Saily，只需輕點幾下即可獲得網際網路數據、避免昂貴的漫遊費用，讓您保持連線暢遊世界。
+
+eSIM 是什麼？
+
+eSIM（或稱為數位 SIM 卡）內嵌在您的智慧型手機中，但其工作方式與實體 SIM 卡相同。 有什麼不同？ 當您需要網際網路數據時，可以隨時使用。 無需店面、不用排隊，或因插卡而感到煩惱——只需輕鬆操作，就可以立即連上網際網路。
+
+為什麼選擇 Saily？
+
+立即上網
+
+• 下載、訂閱、安裝，歡迎加入！ 現在您可以連接到網際網路並享受您的網路連線。
+• 永遠不必擔心在遠行途中流量用盡——只需輕點幾下即可立即加值，體驗不間斷的網路連線。
+
+暢遊世界
+
+• 在超過 200 個目的地輕鬆取得當地的上網方案，無論前往何地皆能享受保持連線的快感。
+• 保留您現有的電話號碼，隨時保持聯繫。 無論您身在何處，都能像往常一樣接聽電話。
+
+整合安全功能
+
+• 變更虛擬位置以加密流量，立即享受更安全的瀏覽體驗。
+• 廣告攔截程式有助於節省上網數據，保持介面清爽，讓您在沒有廣告和追蹤程式的干擾下瀏覽。
+• 啟用網頁防護功能，以協助您避開託管惡意軟體的潛在危險網域。
+
+無合約束縛
+
+• 無需合約或長期承諾的自在體驗。
+• 避免昂貴的漫遊和意外的隱藏費用。
+• 無需尋找實體店面，並支付過高的數據費用。
+
+假期的最佳夥伴
+
+• 在您踏出機場前就可以設置好您的 eSIM——展開假期，免去壓力，因為您的網路連線早已安排妥當
+• 旅行時保持連線 - 無論您身在何處，都能與親朋好友保持聯繫。
+
+尋找真正的冒險，而非四處尋找免費Wi-Fi。
+
+• 擁抱數位遊牧的生活方式。 想走就走，隨時更換方案。
+• 無論走到哪裡，都能連上網際網路，無需四處尋找免費 Wi-Fi。
+
+安全可靠
+
+• 由專注於安全的 NordVPN 團隊打造 - 您的數位安全是我們的首要任務。
+• 享受安全交易和可靠服務。
+
+體驗未來的連接方式。 立即下載 Saily，進入無國界的世界！",2024-03-25T07:00:00Z,2025-11-17T09:27:44Z
+tw,"Taiwan, Province of China",Travel,6003,24,735701965,Lalamove - 即時送貨 價格實惠,Lalamove Media Limited,https://apps.apple.com/tw/app/lalamove-%E5%8D%B3%E6%99%82%E9%80%81%E8%B2%A8-%E5%83%B9%E6%A0%BC%E5%AF%A6%E6%83%A0/id735701965?uo=4,0.0,4.69247,16535,Travel,"Lalamove – 24 小時即時貨運 App
+貨物、禮品急著送？Lalamove 隨叫隨送，一鍵下單，不論是個人或企業用戶，輕鬆配對司機夥伴，快速完成送貨，經濟實惠又方便！Lalamove 於 2013 年在香港創立，業務已覆蓋亞洲、拉丁美洲和歐洲、中東及非洲地區(EMEA)共14個市場，致力提供便捷的物流服務，為個人與企業帶來高效率的配送解決方案。
+
+全年無休，24小時即時送貨
+不論早午晚，你都可以享受即時送貨或預約送貨。甚至外賣、多點配送、上飛機旅行前要送行李，都能一一替你安排，生活從此更靈活便利！
+
+多種車款，滿足不同配送需求
+不管是日常跑腿、搬家送貨、企業物流、還是大型/批量送貨，Lalamove 都能幫你輕鬆完成工作：
+- 速遞專員/摩托車：適合文件、小型物品、鮮花、外賣食物
+- 客貨車：適合家電、旅行行李、運動器材、活動用品等多種用途
+- 貨車：適合家具搬房、活動物資、大型貨物、裝修物資
+
+價格實惠，送貨準時
+輸入距離與要求，即時顯示運費
+可透過 App 線上付款，或選擇現金交付給司機夥伴，彈性又方便！
+
+司機夥伴，專業又可靠
+司機夥伴都經過完善的訓練並且經驗豐富，讓你每一次送貨都安心，物品安全、準時送達無煩惱。
+
+GPS即時追蹤，進度隨時掌握
+貨物運送途中，全程透過 App 查看貨物位置及預計送達時間，配送進度一手掌握，省時好預算！
+
+送貨賺回贈，累積點數可兌換獎品
+每張訂單皆可累積 Lala 積分，輕鬆兌換多種優惠券與獎品，讓您送越多賺越多。
+
+無論貨物大與小，Lalamove什麼都能幫你送
+- 緊急文件、小包裹、服飾、雜貨
+- 外賣、食物、花束、禮物、寵物用品
+- 外送餐飲、家電、家具、搬家服務
+- 批發貨物、五金/電器、零售商品
+- 建築材料、醫療器材、大型/超大型物品
+…各種需求，一鍵解決！
+
+簡單5個步驟，立即落單：
+1.開啟 App：打開 Lalamove 用戶版 App
+2.設定地點：輸入取件與送貨地點
+3.選擇車款：依照需求，選擇合適車款（如貨車、摩托車、速遞專員等）
+4.選擇付款方式：線上付款或現金皆可
+5.配對司機並追蹤進度：即時掌握配送狀態
+
+立即下載 Lalamove 用戶版 App，體驗快速、安心、又方便的即時貨運服務吧！",2013-12-30T02:38:42Z,2025-11-13T02:01:46Z
+tw,"Taiwan, Province of China",Travel,6003,25,401626263,Airbnb,"Airbnb, Inc.",https://apps.apple.com/tw/app/airbnb/id401626263?uo=4,0.0,4.64268,18076,Travel,"爱彼迎不仅仅是爱彼迎
+世界这么大，值得去看看。通过爱彼迎，探索世界的方式比以往更加丰富多样。在一个 App 中查找非凡的房源、难忘的体验和令人难以置信的服务。获取灵感，预订并出发吧。
+
+预订房源，享受酒店无法提供的便利
+无论你是独自旅行还是结伴同游，都可以探索遍布 240 多个国家和地区的 800 多万个度假屋，寻找适合各种旅行的完美住宿。使用 80 多个筛选选项，找到你想要的便利设施，如泳池、厨房或无障碍设施（如无台阶入口）。在房源页面上一目了然地查看房源的所有详细信息，并查看评分和评价，了解其他入住该房源的房客对此房源的看法。
+
+不做看客，深入体验
+查找世界各地由最了解所在城市的当地人开展的数千项体验，达人的专业知识、声誉和真实性均经过品质审核。以独特视角探索地标建筑和博物馆。通过烹饪课和美食之旅，品尝当地美食。享受美妙的户外活动、艺术工作坊、现场表演等等。此外，不妨查看爱彼迎限定体验，享受全球最有趣的人士专为爱彼迎精心打造的非凡体验。
+
+享用超赞服务，获得更加特别的住宿体验
+在爱彼迎预订令人难以置信的服务，如私厨、摄影、餐饮、预制餐点、发型设计、美甲、化妆、按摩、私教和 SPA 护理，充分享受住宿体验。这些服务均由经验丰富、品质经过审核的服务达人提供。你可以通过同一款 App 在全球范围内预订几乎所有价格区间的数千项专业服务。最棒的是，你无需入住爱彼迎房源，甚至无需出行，便可以预订这些服务。
+
+下载可随身携带的旅行 APP
+预订房源后，你可以在主页上查看基于房源所在地和同行者量身策划的个性化服务和体验推荐。重新设计的个人资料页面让你可以看到你在爱彼迎上去过的所有地方以及在旅途中遇到的人。
+
+一站式查找所有行程信息
+只需轻轻点击一下，即可快速查找或分享订单详情，让每个人都能更轻松地到达房源、进入房源并连接无线网络。通过我们的应用内消息，行程中的每位客人都可以轻松与房东沟通，打招呼、提问，并获得最新的订单消息。你还可以在同一聊天中分享照片、视频，甚至自定义爱彼迎服务。在更新后的「行程」选项卡中，你可以逐日查看订单的所有信息。即使在离线状态下，也可以在同一页面轻松跟踪行程安排，并获取入住时间、特殊说明和门禁密码等关键信息。
+
+想经营业务？爱彼迎让运营变得简单
+无论你是想出租房源、开展体验还是提供服务，你都可以在爱彼迎上接触到数百万旅行者并拓展业务。只需简单几步，即可发布房源。你也可以申请开展体验或提供服务，一旦获得批准，你就可以迎接来自世界各地的客人了。
+
+你已经读到这里，赶快行动吧
+不用再看了，马上打开 App，在爱彼迎上为自己预订独一无二的行程吧。",2010-11-10T20:28:11Z,2025-11-19T19:27:17Z

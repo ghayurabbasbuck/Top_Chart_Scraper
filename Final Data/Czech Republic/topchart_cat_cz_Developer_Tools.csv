@@ -1,0 +1,447 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+cz,Czechia,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/cz/app/testflight/id899247664?uo=4,0.0,4.77432,6908,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+cz,Czechia,Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/cz/app/github/id1477376905?uo=4,0.0,4.86287,649,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+cz,Czechia,Developer Tools,6026,3,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/cz/app/o-kam-pro/id1602054864?uo=4,0.0,4.36937,111,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+cz,Czechia,Developer Tools,6026,4,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/cz/app/expo-go/id982107779?uo=4,0.0,4.96969,66,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+cz,Czechia,Developer Tools,6026,5,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/cz/app/apple-developer/id640199958?uo=4,0.0,4.02632,38,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+cz,Czechia,Developer Tools,6026,6,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/cz/app/app-store-connect/id1234793120?uo=4,0.0,4.72093,344,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+cz,Czechia,Developer Tools,6026,7,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/cz/app/a-shell-mini/id1543537943?uo=4,0.0,5,2,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+cz,Czechia,Developer Tools,6026,8,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/cz/app/web-inspector/id1584825745?uo=4,0.0,4.88889,9,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+cz,Czechia,Developer Tools,6026,9,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/cz/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.78995,557,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-09T21:25:26Z
+cz,Czechia,Developer Tools,6026,10,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/cz/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,3.89474,19,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-18T23:02:56Z
+cz,Czechia,Developer Tools,6026,11,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/cz/app/ipa-installer/id6748286191?uo=4,0.0,1,1,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+cz,Czechia,Developer Tools,6026,12,1548193893,Runestone Text Editor,Simon Stovring,https://apps.apple.com/cz/app/runestone-text-editor/id1548193893?uo=4,0.0,4.85714,28,Developer Tools,"A plain text editor with syntax highlighting, line numbers, search and replace, page guide, and much more. It's like TextEdit but more powerful and optimised for iPhone and iPad.
+
+Runestone is made by a single person with a love for text editors and a vision of building the most lightweight text editor for iPhone and iPad that still has the core features for editing code.
+
+Features:
+- Syntax highlighting of many languages including HTML, JavaScript, JSON, Markdown, Swift, Python, PHP, YAML, and many more.
+- Select one of the twelve standard themes including popular themes like Tomorrow, Dracula, Solarized, and One Dark Pro.
+- Innovative find and replace for searching and modifying text while still viewing your file.
+- Choose font and font size, including support for custom fonts imported using another third-party app.
+- Show the line and column the cursor is located on.
+- Uses the standard document browser for an experience similar to the Files app.
+- Quickly navigate to a specific line.
+- Automatically close opening brackets and quotes.
+- Multiple windows on the iPad.
+- Format code using Prettier.js. Supported languages include CSS,HTML, JavaScript, JSON, PHP and more.
+- Choose text encoding between popular encodings like UTF-8, UTF-16, ISO Latin 1, and many more.
+- Enable or disable autocorrection, autocapitalization, and smart punctuation.
+- Set default file extension of new files.
+- Open files in Runestone from the Share Sheet.
+- Print documents.
+
+Premium features:
+- Choose between eight app icons.
+- Show line numbers.
+- Highlight the selected line.
+- Increase line height and letter spacing.
+- Disable line wrapping to allow horizontal scrolling.
+- Show tabs, spaces, and line breaks using a selected symbol.
+- Enable page guide at a specific column to easily tell when lines are getting too long.
+- Add vertical and horizontal overscroll.
+- Remember the selected language per file.
+- Save file extensions and filenames that should always be treated as plain text files.
+- Enable soft tabs and choose the width of the tab character.
+- Specify whether pressing the tab key should insert a tab or indent the line.
+- Adjust the scaling of Markdown headings and disable highlighting of code blocks in Markdown.
+
+Runestone was built on the open-source framework with the same name. Find more information on the Runestone framework at github.com/simonbs/runestone",2022-05-05T07:00:00Z,2025-09-15T15:57:01Z
+cz,Czechia,Developer Tools,6026,13,1503282735,FluxBuilder Pro,INSPIREUI COMPANY LIMITED,https://apps.apple.com/cz/app/fluxbuilder-pro/id1503282735?uo=4,0.0,0,0,Developer Tools,"FluxBuilder is the Design tool that guides help you to preview and design the mobile app easily and super productivity. No desktops, design or mobile building skills needed. All you need is your iPad/iPhone and the FluxBuilder app.
+
+1. Flexible Design and Easy to custom 
+Easy to control the design and user interaction by using our pre-made templates or creatively customize your ideal app with our Design Tool.
+
+2. Simple Component Configuration
+Configure banner images, search bar, categories and many more with detailed properties.
+
+3. Build History
+Fearless to lose your customizations, we have already included the save function for you. It means you could access your works on different devices.
+
+4. Powerful Integrations
+The app is compatible with top back-end platforms like Wordpress, WooCommerce, Magento, and Opencart. It means you could effortlessly make your own app for your website on multiple purposes: a store, a news app or just a place to show your amazing works.
+
+5. Informative News
+Receive the latest news and tips from us on how to build your Mobile App effectively. 
+
+6. Dark / Light Mode
+The app comes with a beautiful dark / light theme on both Builder and App Preview.
+
+Be creative and explore the new way to build your Mobile app design with us today. Let go!",2020-03-20T07:00:00Z,2023-04-18T05:31:04Z
+cz,Czechia,Developer Tools,6026,14,1581290510,Code Editor - Compiler & IDE,Rhythm Software,https://apps.apple.com/cz/app/code-editor-compiler-ide/id1581290510?uo=4,0.0,5,1,Developer Tools,"Code editor is optimized text editor focused on coding. It contains necessary features including syntax highlight, code assist, auto-complete, compile and execute, etc.
+
+Features:
+
+- Syntax highlighting for over 110 languages (C++, Java, JavaScript, HTML, Markdown, PHP, Perl, Python, Lua, Dart, etc).
+- Include online compiler, can compile and run over 30 common languages (Python, PHP, Java, JS/NodeJS, C/C++, Rust, Pascal, Haskell, Ruby, etc).
+- Code assist, folding and auto-completion.
+- Easily navigate between multiple tabs.
+- Undo and redo changes without limit.
+- Search and replace with regular expressions.
+- Show or hide line numbers.
+- Highlight matching parentheses.
+- Automatic indent and outdent.
+- Displays invisible characters.
+- Open files from recently opened file collections.
+- Preview HTML and Markdown files.
+- Includes Emmet support for web development.
+- Access files from FTP and WebDAV.
+- Evaluate JavaScript code with built-in JavaScript console.
+- Integrate and easy access to GitHub and GitLab.
+- Access files from Google Drive, Dropbox, and OneDrive.
+- Dark and light themes and over 30 syntax highlighting styles.
+
+If you run into any issues or have any suggestions, please feel free to contact us: support@rhmsoft.com",2022-04-03T07:00:00Z,2025-11-14T16:48:28Z
+cz,Czechia,Developer Tools,6026,15,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/cz/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,3.95238,21,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+cz,Czechia,Developer Tools,6026,16,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/cz/app/koder-code-editor/id1447489375?uo=4,0.0,4.70744,188,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+cz,Czechia,Developer Tools,6026,17,6749804212,LLLM,Mario Cadenas,https://apps.apple.com/cz/app/lllm/id6749804212?uo=4,0.0,0,0,Developer Tools,"Chat app compatible with Ollama and self-hosted models. It needs an Ollama server running and adding the endpoint in the model settings. 
+All the information saved is local, everything is private, and no account is needed. It supports message streaming and markdown.
+
+It could also work with models served without Ollama, but that has not been tested.",2025-08-12T07:00:00Z,2025-11-19T23:29:00Z
+cz,Czechia,Developer Tools,6026,18,6745097949,v0,"Vercel, Inc",https://apps.apple.com/cz/app/v0/id6745097949?uo=4,0.0,1,1,Developer Tools,"This is your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",2025-10-23T07:00:00Z,2025-11-18T16:33:04Z
+cz,Czechia,Developer Tools,6026,19,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/cz/app/ish-shell/id1436902243?uo=4,0.0,4.68421,19,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+cz,Czechia,Developer Tools,6026,20,896694807,Git client - Working Copy,Anders Borum,https://apps.apple.com/cz/app/git-client-working-copy/id896694807?uo=4,0.0,4.85714,56,Developer Tools,"Access Git repositories on the go. Clone, edit, commit and push while allowing other apps access to repositories.
+
+Git is a important part of our work-life and iOS can take part in this. The ability to commit even when offline has added utility on a device that moves in and out of network coverage. Cloning repositories gets you a local copy on your iOS device with commits for all branches. You can browse the content from within the app and make changes. Other applications supporting the Files app, WebDAV or x-callback-url has access to these files. Changes made can be committed and the commits can in turn be pushed back to the remote.
+
+The idea of doing significant programming on iOS might seem far fetched when you are used to a large screen, a physical keyboard and a full IDE. But just as it turned out that not every email is serious prose, then not everything that goes on in Git is significant programming. Sometimes you just want to update a TODO file or make adjustments to your Jekyll site. Sometimes you just need to add a file the designer sent after hours. 
+
+If you ever make reminders about small things to do with the code-base, then you should give Working Copy a try. You will spend less time moving stuff around and you will get much better commit messages when you write them for fixes that are still fresh in your mind. You won't be leaving your computer behind any time soon, but sometimes it is faster to just fix things with the device in your hand.
+
+When you do need to perform real work on iOS, Working Copy is a powerful tool. Editor has syntax highlighting for more than 50 programming languages and a built-in color picker. Preview images, Markdown and HTML files with a Javascript console pointing to errors in your code. Create new branches and merge or rebase them back, with a brilliant merge-tool for handling conflicts. If you need to automate your work there are Working Copy actions in the Shortcuts app for most operations.
+
+Even if you never edit a line of code on iOS, Working Copy is a great companion for reviewing and discussing code. Repositories are cross indexed and with powerful fuzzy search you can quickly jump from a symbol to the declaration or reverse from the declaration to all usages. A graph of your commits lets you zoom out for a overview of the commit tree or zoom in for specifics about each commit, with speed and beauty you won’t find in desktop Git applications. Review the changes your files have gone through with a diff viewer that is great for text and images. There is even hex-dump mode for that obscure occasion.
+
+Working Copy is a free download but you need to unlock pro features such as the ability to push commits and manage more than 5 repositories. There is no venture capital, large company or ads funding development and your support through in-app purchase directly sustains development. Try out pro features with a 10 day free trial.
+
+When you pay to unlock you get permanent access to all pro features at the time of purchase as well as any added the next year. When 12 months have passed you keep all existing pro features but any new ones introduced are locked until you renew your unlock.",2014-11-08T13:56:22Z,2025-11-21T11:45:16Z
+cz,Czechia,Developer Tools,6026,21,6739738501,Reins: Chat for Ollama,Ibrahim Cetin,https://apps.apple.com/cz/app/reins-chat-for-ollama/id6739738501?uo=4,0.0,5,1,Developer Tools,"Introducing Reins - Empowering LLM researchers and hobbyists with seamless control over self-hosted models.
+
+With Reins in your pocket, you’ll find:
+* Remote Server Access—Connect to your self-hosted Ollama Server from anywhere, ensuring seamless interactions on the go.
+* Per-Chat System Prompts—Tailor system prompts for each conversation to enhance context and relevance.
+* Prompt Editing & Regeneration—Modify and regenerate prompts effortlessly to refine your interactions.
+* Image Integration—Enrich your chats by sending and receiving images, making interactions more dynamic.
+* Advanced Configuration—Adjust parameters like temperature, seed, context size, and max tokens and more advanced options to make experiments.
+* Model Selection—Choose from various models to suit your specific research needs and preferences.
+* Model Creation from Prompts—Save system and chat prompts as new models.
+* Multiple Chat Management—Handle several conversations simultaneously with ease.
+* Dynamic Model Switching—Change the current model within existing chats without interruption.
+* Real-Time Message Streaming—Experience messages as they arrive, ensuring timely and efficient communication.
+
+Note: Reins requires an active connection to a self-hosted Ollama Server to function.",2025-01-02T08:00:00Z,2025-10-16T20:15:12Z
+cz,Czechia,Developer Tools,6026,22,497714887,"WebSSH - SSH, SFTP & Tools",MENGUS ARNAUD,https://apps.apple.com/cz/app/webssh-ssh-sftp-tools/id497714887?uo=4,0.0,4.76056,71,Developer Tools,"Whether you’re on the go or at your desk, WebSSH keeps you connected—anytime, anywhere! ٩(^‿^)۶
+
+WebSSH is a powerful and user-friendly SSH, SFTP, Telnet, and Port Forwarding client for iOS and macOS. It allows developers, system administrators, and IT professionals to manage servers securely and efficiently, wherever they are.
+
+With WebSSH, you can connect to your servers using modern authentication methods including password, two-factor challenge, or keys (RSA, DSA, ED25519, PuTTY). Connections are fast and reliable, with support for local port forwarding, automatic command execution at startup, and full terminal emulation (XTERM-COLOR256, XTERM, VT100). Profiles let you customize themes, colors, fonts, and keyboard behavior to perfectly fit your workflow.
+
+Managing files on remote servers is simple thanks to the integrated SFTP client. You can browse directories, create or rename files, upload documents from your device, download files locally, and even edit text files directly within the app.
+
+Beyond SSH and SFTP, WebSSH also supports Telnet and Serial connections, making it a versatile tool for a wide range of use cases. Serial connections can be fully configured (baud rate, data bits, parity, stop bits, flow control), while Telnet connections support both direct and interactive authentication.
+
+For quick diagnostics, WebSSH includes built-in sysadmin tools such as Ping, Whois, Traceroute, and DNS Lookup. And if you need a terminal even without internet access, the mashREPL feature gives you a local shell with essential commands like ls, grep, curl, ping, tar, and many more.
+
+WebSSH supports multiple protocols (SSH, SFTP, Telnet, Serial) and channel types (Shell sessions, SFTP sessions, Local Port Forwarding), ensuring compatibility with most professional scenarios.
+
+____
+
+Why WebSSH?
+
+Unlike basic terminal clients, WebSSH combines professional-grade features with a polished, mobile-first design. It is secure, reliable, and easy to use — the all-in-one solution to keep your servers close at hand, no matter where you are.
+
+____
+
+Download WebSSH today and experience secure, seamless server management on iOS and macOS.",2012-03-08T20:02:31Z,2025-11-01T16:05:23Z
+cz,Czechia,Developer Tools,6026,23,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/cz/app/scriptable/id1405459188?uo=4,0.0,4.82222,45,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+cz,Czechia,Developer Tools,6026,24,6749602189,Xcasca,"NetSarang, Inc.",https://apps.apple.com/cz/app/xcasca/id6749602189?uo=4,0.0,0,0,Developer Tools,"Simple, Lightweight, and Always in Sync. Xcasca is a cross-platform SSH & SFTP Client that gives you access to your sessions wherever and whenever. With a wide variety of features in a lightweight package, manage your remote systems on any device (desktop and mobile) with purity and efficiency.
+
+Available for most desktop and mobile platforms. (Note: SFTP is currently only available on Desktop)
+
+
+Xcasca Features:
+
+- Multi-Session Support. Have multiple connections open at once. Access to any of your sessions is just a finger-swipe or click away.
+
+- Intuitive Session Management. Organize and edit your sessions with Xcasca’s session management.
+
+- Compose Bar. The multi-line Compose Bar allows you to type out, edit, and review your string before sending.
+
+- Advanced Keyboard. Quick access to all special characters for whatever the situation calls for.
+
+- Multiple Authentication Types. Password, Public Key, and Keyboard Interactive authentication support.
+
+- Customizations. Modify appearance, font, and colors.
+
+- Ad-Free.
+
+- Actively developed with new features coming soon.
+
+
+Xcasca Standard Plan(Trial):
+
+- Secure Data Sync. Seamlessly synchronize your session data across desktop, tablet, and mobile platforms with robust security.
+ 
+
+Terms: https://www.xcasca.com/terms
+Privacy Policy: https://www.xcasca.com/privacy
+
+Note: Some features Xcasca, including Secure Data Sync and Port Forwarding (X11, Local, Remote, SocksV5), are provided as trial features with time-limited access (Xcascsa Standard Plan). After the trial period, full functionality is available with a paid subscription. Please review the plan details for specific features during the trial period.",2025-09-22T07:00:00Z,2025-11-06T21:03:17Z
+cz,Czechia,Developer Tools,6026,25,6740228245,AI App Builder - a0.dev,TeeHee Tech LLC,https://apps.apple.com/cz/app/ai-app-builder-a0-dev/id6740228245?uo=4,0.0,1,1,Developer Tools,"a0.dev is the easiest way to get started building mobile apps
+
+• Generate the code for your App with our AI
+• View your app live on your phone using the a0 app
+• Improve and complete your app by coding on our platform and requesting changes through the app
+
+- a0.dev is meant for developers building with react native; some programming knowledge is recommended
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://a0.dev/privacy",2025-01-12T08:00:00Z,2025-10-23T21:33:56Z

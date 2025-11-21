@@ -1,0 +1,648 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,1,899247664,TestFlight,Apple Inc.,https://apps.apple.com/ve/app/testflight/id899247664?uo=4,0.0,4.67956,1913,Developer Tools,"TestFlight ofrece una forma fácil de probar las versiones beta de apps y App Clips para proporcionar comentarios útiles a los desarrolladores antes de que publiquen sus apps en App Store. Los desarrolladores pueden invitar a probar sus apps mediante correo electrónico o un enlace público. 
+
+Cuando pruebas la versión beta de una app o un App Clip, Apple recopila y envía al desarrollador de la app los registros de fallos, la información de uso y los comentarios que envíes. El desarrollador podría usar esta información para mejorar su app y productos relacionados. Apple podría usar los registros de fallos e información de uso para mejorar sus productos y servicios.
+
+Para obtener instrucciones sobre la instalación, prueba de apps y el envío de comentarios, o para consultar detalles sobre cómo se manejan tus datos, ve a testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,2,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/ve/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.61538,65,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,3,640199958,Apple Developer,Apple Inc.,https://apps.apple.com/ve/app/apple-developer/id640199958?uo=4,0.0,5,1,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,4,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/ve/app/scriptable/id1405459188?uo=4,0.0,4.64706,17,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,5,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/ve/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,6,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/ve/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.8,10,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,7,1477376905,GitHub,GitHub,https://apps.apple.com/ve/app/github/id1477376905?uo=4,0.0,4.93939,33,Developer Tools,"Hay mucho que puedes hacer en GitHub que no requiere un entorno de desarrollo complejo – como hacer sugerencias en una discusión sobre diseño, o revisar algunas líneas de código. GitHub para iOS te permite avanzar el trabajo donde quiera que te encuentres. Mantente en contacto con tu equipo, asigna propuestas e incluso fusiona, directamente desde la aplicación. Estamos haciendo que estas tareas sean fáciles de realizar, sin importar dónde trabajes, con una excelente experiencia iOS.
+
+Puedes usar GitHub para iOS para:
+
+• Explorar tus notificaciones recientes
+• Leer, reaccionar y responder a incidencias y solicitudes de cambios
+• Revisar y fusionar solicitudes de cambios
+• Organizar propuestas usando etiquetas, asignando a personas, proyectos y más
+• Explorar tus archivos y código
+• Descubrir repositorios nuevos y en tendencia
+
+———
+
+Condiciones de Servicio: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Política de Privacidad: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,8,6450931919,Device Monitor Z: CPU x RAM OS,Phan Nhut,https://apps.apple.com/ve/app/device-monitor-z-cpu-x-ram-os/id6450931919?uo=4,0.0,5,4,Developer Tools,"Descubre el poder de nuestra aplicación: Device Monitor Z (también conocida como iDevice Monitor) es una app optimizada para usuarios de iPhone, iPod Touch y iPad. Proporciona una manera rápida y eficiente de acceder al monitor de actividad (monitor de CPU, RAM detallada, espacio de almacenamiento, ...) y a la información del sistema del dispositivo.
+
+Características principales:
+
+• Ver información básica de la CPU y monitor de CPU en tiempo real
+• Ver información básica de la GPU
+• Ver información básica del dispositivo
+• Ver información básica del sistema operativo
+• Ver información básica de la batería
+• Consultar detalles de memoria y disco
+• Monitorizar el tráfico de red con velocidades de subida y bajada en tiempo real
+• Soporte para Acciones Rápidas para ejecutar funciones directamente desde la pantalla de inicio
+• Acceder a la información de la cámara
+• Acceder a la información de la pantalla
+• Consultar los sensores compatibles
+
+Soporte de Widgets para mostrar información del dispositivo como RAM/Disco/CPU/Batería/Red:
+• Widget de inicio iOS 14
+• Widget de bloqueo iOS 16
+• Modo de espera iOS 17 para Widget
+
+Fuentes del sistema:
+→ Mostrar todas las fuentes disponibles en el sistema
+
+Herramientas adicionales:
+
+• Benchmark:
+→ Benchmark de CPU: Medir la capacidad de procesamiento de la CPU del dispositivo
+→ Benchmark de disco: Medir la velocidad de lectura/escritura secuencial, lectura/escritura aleatoria 4K y latencia del almacenamiento interno
+
+• Analizador de red, incluyendo:
+→ SpeedTest: Evaluar la velocidad de descarga y subida de Internet (con tecnología de SpeedChecker)
+→ Escáner LAN: Escanear dispositivos en la red local
+→ Herramienta Ping: Medir la latencia hacia un dominio o dirección IP
+→ Traceroute
+→ Escáner de puertos: Verificar puertos abiertos o cerrados en un dominio/dirección IP
+→ Consulta DNS (soporte DoH y DoT): Obtener información de dominios
+→ Prueba de velocidad DNS (soporte DoH y DoT): Medir y comparar los tiempos de respuesta de distintos servidores DNS, ayudando al usuario a identificar y seleccionar el servidor más rápido para mejorar el rendimiento de la red
+→ Explorador de servicios Bonjour: Listar los servicios Bonjour anunciados en la red inalámbrica
+
+• Prueba de pantalla:
+→ Realizar pruebas rápidas de pantalla
+
+• Monitor de sensores, incluyendo:
+→ GPS
+→ ALTÍMETRO
+→ ACELERÓMETRO
+→ MAGNETÓMETRO
+→ GIROSCOPIO
+→ COPROCESADOR DE MOVIMIENTO
+→ MAGNÉTICO
+→ GRAVEDAD
+→ ROTACIÓN
+→ VELOCIDAD DE ROTACIÓN
+
+• Caja de herramientas:
+→ Ahuyenta mosquitos
+→ Medidor de ruido: Medir con precisión los niveles de ruido ambiental
+→ Escáner Bluetooth: Detectar dispositivos Bluetooth cercanos
+→ Linterna
+→ Exportar toda la información del dispositivo a archivos en múltiples formatos (csv, pdf, xlsx, json, rtf, txt)
+
+¡Gracias por elegir nuestra app como tu herramienta de información y monitoreo de dispositivos!",2023-07-13T07:00:00Z,2025-10-27T12:42:55Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,9,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/ve/app/termux/id6738933789?uo=4,0.0,5,4,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,10,6749166422,Flutter Liquid Glass Kit,Ahmed Omar,https://apps.apple.com/ve/app/flutter-liquid-glass-kit/id6749166422?uo=4,0.0,0,0,Developer Tools,Flutter Liquid Glass Kit,2025-07-28T07:00:00Z,2025-07-29T06:27:59Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,11,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/ve/app/expo-go/id982107779?uo=4,0.0,4.73076,26,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,12,1397424959,CodeSnack IDE,"Mobibean, LLC",https://apps.apple.com/ve/app/codesnack-ide/id1397424959?uo=4,0.0,5,3,Developer Tools,"CodeSnack IDE is the first mobile IDE crafted specifically for mobile devices and tablets, unlocking the power of coding right at your fingertips. With fast and intuitive tools, CodeSnack IDE empowers you to create amazing programs, learn from a vast library of samples, and deploy real-world back-end and front-end apps within minutes — all for free.
+
+Whether you're an experienced coder or just starting out, CodeSnack IDE offers all the control and flexibility you need to create and customize projects without any compromise.
+
+Now powered by advanced AI, CodeSnack IDE delivers cutting-edge development features straight to your mobile device:
+
+• AI-Generated Project Creation: Generate projects from text prompts
+• Smart Bug Detection & Fix Proposals: Find and fix issues effortlessly
+• Code Explanation: Understand the purpose and logic behind your code
+• Code-Specific Question Answering: Get answers to your coding queries
+
+
+Everything you can do with CodeSnack IDE:
+
+* Write & run code like on a PC or Mac
+* Develop real Web and Mobile apps with React, Ionic, Capacitor, and React Native
+* Install dependencies using Linux terminal
+* Intelligent coding assistance, autocompletion, linting
+* Use any programming language
+* Utilize your favorite hardware keyboard and shortcuts
+* Debug program output, and see detailed error logs (in real-time)
+* Practice coding with 1000+ examples in our library
+* Sync your projects across all your devices
+* Deploy projects through SFTP
+
+And so much more!
+
+CodeSnack IDE supports 18 programming languages for versatile coding:
+
+- Java
+- Python
+- C
+- C++
+- C#
+- Dart
+- JavaScript
+- TypeScript
+- PHP
+- Shell
+- Swift
+- Ruby
+- Go
+- Kotlin
+- Lua
+- Haskell
+- Rust
+- Scala
+
+Quick project templates to jumpstart your development:
+
+• React (Vite, TypeScript)
+• Vue (Vite, TypeScript)
+• Vanilla (Vite, TypeScript)
+• Preact (Vite, TypeScript)
+• Lit (Vite, TypeScript)
+• Svelte (Vite, TypeScript)
+• Ionic (React, Capacitor)
+• Ionic (React, Cordova)
+• Ionic (Angular, Capacitor)
+• Ionic (Angular, Cordova)
+• Ionic (Vue, Capacitor)
+• React Native (Expo)
+• Express (Node.js, TypeScript)
+• Express (Node.js, JavaScript)
+• Simple HTTP server (Python)
+• Django Web App (Python)
+• Simple HTTP server (Java)
+• Gradle (Java)
+• Blazor (C#)
+• Laravel (PHP)
+• Simple HTTP server (PHP)
+• WebSockets
+• WebAssembly (AssemblyScript)
+
+Pro Subscription benefits:
+
+* Compile and Run code up to 8x faster (2 vCPU, 1 GB Memory, 8 GB SSD, 3,000 Mbps Network)
+* Docker Container Manager
+* Gain access to up to 500 AI assistant requests per month
+* Unlock in-app browser for Web and Mobile projects
+* Virtual keyboard customization
+* Upload code to your server using SFTP
+* Access all Examples in the Library
+* Access all Project Templates
+* Unlock 2 more color schemas for the code editor
+
+Important Links:
+
+Terms Of Service: https://www.codesnack-ide.com/terms-of-services.html
+Privacy Policy: https://www.codesnack-ide.com/privacy-policy.html
+
+Connect with the CodeSnack IDE community:
+
+Join our Discord Community server: https://discord.gg/FKmzpuqUnZ",2018-07-30T18:03:07Z,2025-09-23T16:29:02Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,13,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/ve/app/resolutioner/id1563852783?uo=4,0.0,4.47058,17,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,14,6739499546,TJClippy,Timmy Jose,https://apps.apple.com/ve/app/tjclippy/id6739499546?uo=4,0.0,0,0,Developer Tools,A basic mathematical calculator.,2024-12-31T08:00:00Z,2024-12-31T10:20:56Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,15,6450932949,ProxyPin - Open Source Capture,"Minimalist Network Co., Ltd.",https://apps.apple.com/ve/app/proxypin-open-source-capture/id6450932949?uo=4,0.0,0,0,Developer Tools,"Features
+Mobile scan code connection: no need to manually configure WiFi proxy, including configuration synchronization. All terminals can scan codes to connect and forward traffic to each other.
+Proxy Domain name filtering: Only intercept the traffic you need, and do not intercept other traffic to avoid interference with other applications.
+Script: Support writing JavaScript scripts to process requests or responses.
+Request rewrite: Support redirection, support replacement of request or response message, and can also modify request or response according to the increase.
+Request mapping: Do not request remote services, use local configuration or scripts for response
+Request blocking: Support blocking requests according to URL, and do not send requests to the server.
+Search: Search requests according to keywords, response types and other conditions
+Others: Favorites, history, toolbox, etc.",2024-09-20T07:00:00Z,2025-10-29T19:48:29Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,16,6478315305,Python Editor Coding 3 IDE App,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/ve/app/python-editor-coding-3-ide-app/id6478315305?uo=4,0.0,4,1,Developer Tools,"Nuestra aplicación no está afiliada ni patrocinada de ninguna manera por la Python Software Foundation.  
+
+¡El mejor compañero móvil para desarrolladores!  
+
+Nuestra aplicación revoluciona la forma en que los desarrolladores trabajan, llevando todo el poder de la programación en Python directamente a tu dispositivo móvil. Diseñada tanto para programadores experimentados como para principiantes, nuestra aplicación ofrece una experiencia de codificación móvil sin precedentes, eficiente y accesible desde cualquier lugar.  
+
+ Funciones principales:  
+- Ejecución fluida de Python : Ejecuta scripts en Python sin esfuerzo con nuestro intérprete móvil optimizado.  
+- Soporte de IA : Obtén ayuda instantánea con inteligencia artificial para corregir errores y mejorar tu código.  
+- Desafíos de programación : Practica con desafíos interactivos de diferentes niveles de dificultad.  
+- Interfaz intuitiva : Personaliza la experiencia con temas, fuentes y configuraciones.  
+- Editor de código avanzado : Con resaltado de sintaxis, autocompletado y detección de errores.  
+- Almacenamiento en la nube : Accede a tus scripts en cualquier momento y en cualquier dispositivo.  
+- Comunidad y soporte : Únete a una comunidad creciente de programadores y comparte experiencias.  
+
+Nuestra aplicación es perfecta para profesionales, estudiantes y cualquier persona interesada en el aprendizaje automático o la ciencia de datos.  
+
+Despídete de las limitaciones del escritorio y disfruta de la libertad de la programación móvil con nuestra aplicación. ¡Descárgala ahora y comienza tu aventura en la programación!  
+
+SUBSCRIPTION:
+We offer auto-renewing subscription:
+- Length: Weekly-Monthly-Yearly
+- Payment will be charged to iTunes Account at confirmation of purchase
+- You will be able to access the Premium features of the app for the duration of the subscription
+- Subscription automatically renews for the same price and duration period as the original period unless auto-renew is turned off at least 24-hours before the end of the current period
+- The account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase
+- No cancellation of the current subscription is allowed during the active subscription period
+- You may cancel a subscription during its free trial period via the subscription setting through your Apple account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit https://support.apple.com/HT202039 for more information on how to proceed.
+- You may turn off the auto-renewal of your subscription via your Apple Account Settings. However, you are not able to cancel the current subscription during its active period
+
+Privacy Policy : https://mcanswers.ai/pythonify/privacy-policy
+Terms of Use : https://mcanswers.ai/pythonify/terms-of-use",2024-06-19T07:00:00Z,2025-10-08T14:04:39Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,17,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/ve/app/stikdebug/id6744045754?uo=4,0.0,0,0,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,18,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/ve/app/device-monitor/id1522870046?uo=4,0.0,4.67299,211,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,19,6446215341,Cookie-Editor,Christophe Gagnier,https://apps.apple.com/ve/app/cookie-editor/id6446215341?uo=4,0.0,0,0,Developer Tools,"Cookie-Editor is designed to have a simple to use interface that let you do most standard cookie operations. It is ideal for developing and testing web pages or even manual management of cookies for your privacy.
+
+Be careful! Do not share your cookies with anyone you do not trust! Cookies can contain very sensitive information like your login information. If you share your cookies with someone, they could gain full access to your account and compromise it.
+
+Feature list:
+- List all cookies for the current tab.
+- Search your cookies.
+- Create, edit and delete your cookies.
+- Import and export your cookies in many formats (JSON, Netscape, Header string)
+- Quickly delete all cookies for the current tab.
+- Customizable: chose what extra data to see, what theme to use (light or dark), the amount of detail to see (advanced mode).
+
+Cookie-Editor can help you:
+- Develop web pages.
+- Improve your SEO work.
+- Manage your cookies for privacy.
+- Improve your browsing experience.
+
+Cookie-Editor believes in privacy. Your Cookies are safe and all of your data remains offline.
+
+For all feature requests or bug report, please visit the GitHub repository and fill an issue https://github.com/Moustachauve/cookie-editor",2023-03-13T07:00:00Z,2024-02-25T18:59:04Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,20,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/ve/app/python-editor-app/id1672453872?uo=4,0.0,4.29167,24,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,21,6503167083,Analizador WiFi: DNS SpeedTest,Phan Nhut,https://apps.apple.com/ve/app/analizador-wifi-dns-speedtest/id6503167083?uo=4,0.0,5,1,Developer Tools,"Analizador WiFi - DNS SpeedTest es una herramienta fácil de usar para comprobar y analizar tu red.
+Esta app ofrece todas las funciones esenciales como traceroute, escáner de puertos, Wake-on-LAN y buscador Bluetooth.
+
+Funciones principales:
+
+• Información de red:
+→ Ver detalles de tu red actual: SSID, BSSID, dirección IP, máscara de subred, puerta de enlace, IP externa, servidores DNS y más.
+
+• Prueba de velocidad DNS (compatible con DoH y DoT):
+→ Mide y compara los tiempos de respuesta de diferentes servidores DNS.
+→ Te ayuda a encontrar el servidor más rápido para un mejor rendimiento.
+
+• Speed Checker:
+→ Mide la velocidad de subida y bajada de tu red.
+→ Muestra el rendimiento de tu conexión en tiempo real.
+
+• Explorador de servicios Bonjour:
+→ Lista todos los servicios Bonjour en tu red Wi-Fi.
+
+• Wake-on-LAN:
+→ Enciende dispositivos en tu red.
+→ Puede recordar direcciones MAC para una gestión más sencilla.
+
+• Escáner LAN:
+→ Escanea tu red local (LAN) para encontrar todos los dispositivos conectados.
+
+• Prueba de ping:
+→ Mide el tiempo de ida y vuelta (RTT) a cualquier web o dirección IP.
+
+• Búsqueda DNS (compatible con DoH y DoT):
+→ Consulta dominios para obtener sus direcciones IP.
+→ Muestra registros DNS como SOA, A, AAAA, MX, NS, TXT, NAPTR, CAA y más.
+
+• Escáner de puertos:
+→ Comprueba cualquier web o IP en busca de puertos abiertos.
+
+• Traceroute:
+→ Rastrea la ruta que siguen los paquetes hasta un destino.
+→ Ayuda a identificar cuellos de botella y problemas de latencia.
+
+• Escáner Bluetooth:
+→ Detecta dispositivos Bluetooth cercanos.
+→ Muestra datos como nombre, intensidad de señal, distancia, RSSI y más.
+
+• Widget para iOS 14:
+→ Consulta la información de red directamente en tu pantalla de inicio.
+
+• ¡Gracias por elegir nuestra app!",2024-06-24T07:00:00Z,2025-11-16T00:24:03Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,22,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/ve/app/a-shell-mini/id1543537943?uo=4,0.0,0,0,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-06T08:22:33Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,23,6746765552,Cursornow - Cursor Dashboard,"Chengdu Weisen Quwan Technology Co., Ltd",https://apps.apple.com/ve/app/cursornow-cursor-dashboard/id6746765552?uo=4,0.0,0,0,Developer Tools,"Stay on top of your Cursor subscription like never before.
+
+With cursornow, you can easily monitor how you’re using the powerful AI coding assistant, Cursor. Whether you're a daily user or just curious about your usage, cursornow gives you clear insights at a glance.
+
+Key Features:
+- View your daily and monthly Cursor usage
+- Check your remaining refresh days
+- Understand your interaction patterns over time
+- Mobile-first design for quick access anywhere
+
+No more digging through emails or browser dashboards. cursornow puts your Cursor usage right in your pocket.
+
+Why cursornow?
+
+If you rely on Cursor for development, knowing when your plan resets and how much you’ve used is critical. cursornow helps you stay informed and avoid unexpected cutoffs, so you can focus on building.
+
+Simple. Clean. Insightful. Track your AI assistant smarter with cursornow.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/  
+Privacy Policy: https://gqjatn4p48u.feishu.cn/wiki/KPZSw3M7MijNNlkx6vkcyy6yned?from=from_copylink",2025-06-09T07:00:00Z,2025-06-09T18:53:13Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,24,1555924269,Debug Anywhere,浩鑫 庄,https://apps.apple.com/ve/app/debug-anywhere/id1555924269?uo=4,0.0,0,0,Developer Tools,"The Ultimate WebView Debugging Tool
+A must-have toolkit for web developers to inspect, debug, and enhance web pages effortlessly.
+
+Key Features:
+- Webpage Inspection Tools: Built-in DevTools to inspect source code, static resources, API requests, cookies, localStorage, and sessionStorage.
+- User-Agent Switcher: Easily change the User-Agent to test different devices and browsers.
+- JavaScript Injection: Inject custom JavaScript to manipulate web pages or simulate app environments.
+- Network Diagnostics: Use Ping and Traceroute to analyze DNS status and network performance.
+- App URL Scheme Tester: Quickly open and test custom app URL schemes.
+- Incognito Mode: Debug web pages privately without cache interference.
+
+Simplify your web debugging workflow today!
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2021-03-26T07:00:00Z,2025-09-04T11:30:07Z
+ve,"Venezuela, Bolivarian Republic of",Developer Tools,6026,25,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/ve/app/koder-code-editor/id1447489375?uo=4,0.0,4.85714,7,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z

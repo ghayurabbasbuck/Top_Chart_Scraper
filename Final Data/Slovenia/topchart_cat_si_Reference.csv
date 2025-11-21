@@ -1,0 +1,858 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+si,Slovenia,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/si/app/google-translate/id414706506?uo=4,0.0,4.16216,111,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-18T17:48:56Z
+si,Slovenia,Reference,6006,2,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/si/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,5,2,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+si,Slovenia,Reference,6006,3,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/si/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.45078,193,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+si,Slovenia,Reference,6006,4,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/si/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,5,34,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+si,Slovenia,Reference,6006,5,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/si/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.77778,9,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+si,Slovenia,Reference,6006,6,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/si/app/deepl-translate/id1552407475?uo=4,0.0,4.84615,91,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+si,Slovenia,Reference,6006,7,282935706,Bible,Life.Church,https://apps.apple.com/si/app/bible/id282935706?uo=4,0.0,4.92812,1725,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+si,Slovenia,Reference,6006,8,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/si/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,5,12,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+si,Slovenia,Reference,6006,9,1465583383,Fran,"DigiEd, multimedijske in izobrazevalne storitve, d.o.o.",https://apps.apple.com/si/app/fran/id1465583383?uo=4,0.0,4.83333,12,Reference,"FRAN is a dictionary portal of the Fran Ramovš Institute of the Slovenian Language, which offers users the essential language manuals for Slovenian.
+
+It contains:
+• over 35 dictionaries,
+• a linguistic atlas,
+• language and terminology advice sites,
+• a portal of Slovenian grammars and normative guides and other collections.
+
+Searching through Fran is quick, simple and free. You can search through all dictionaries at the same time or choose specific dictionaries and search through them. 
+
+No particular prior knowledge is needed to use the portal since Fran automatically arranges research results from dictionaries in a logical way and thus helps you to interpret them. Research results are complementary to each other and show you the characteristics and usage of a given word from different perspectives.
+
+Fran is interactive. Through the portal you can suggest new words to be described and vote for them, ask linguists for linguistic advice or suggest additions or corrections to existing dictionary entries.
+
+Fran is growing because once a year we enrich it by adding new linguistic content.
+
+More about Fran: https://fran.si/o-portalu 
+What's new: https://fran.si/o-portalu?page=News",2019-06-01T21:57:37Z,2019-06-01T21:57:37Z
+si,Slovenia,Reference,6006,10,879490940,Pravoslavni Kalendar,Ivan Marinkovic,https://apps.apple.com/si/app/pravoslavni-kalendar/id879490940?uo=4,0.0,5,1,Reference,"Pravoslavni Kalendar objedinjuje:
+
+- Crkveni kalendar, u periodu od 2012. do tekuće godine. sa dnevnim prikazom datuma po gregorijanskom i julijanskom kalendaru, mesečeve mene i vrste posta. Crkveni kalendar automatski prilagođava pokretne praznike i postove za svaku godinu prema Vaskrsu kao i mesečeve mene.
+- Praznike i krsne slave. Svaki praznik i krsna slava, osim datuma sadrže i ikonu kao i žitije sveca.
+- Molitvenik, sa više od pedeset molitvi.
+- Izračunavanje datuma Vaskrsa, kao i katoličkog Uskrsa, jednostavnim unosom godine.
+- Lista višednevnih i jednodnevnih postova za odabranu godinu sa datumima po novom i starom kalendaru.
+- Lista svih vašara u Srbiji grupisanih po mesecima.
+- Lista svih pazarnih dani u Srbiji grupisanih po danu u nedelji.
+
+- ""Today Widget""
+- Stikeri za iMessage
+
+---
+
+The Pravoslavni Kalendar comprises:
+
+- The church calendar, for the period between 2012. and current year, with daily date review according to Gregorian and Julian calendar, the moon phases and fast types. The church calendar automatically adjusts moveable holidays and fasts for every year according to Easter as well as the moon phases.
+- Holidays and Patron saints day dates. Every Holiday and Patron saints day, besides the date, also contain the saint icon as well as his biography.
+- Prayer book, with more than fifty prayers.
+- Easter date calculation, as well as Catholic Easter date, by simply entering the year.
+
+- ""Today Widget""
+- Stickers fro iMessage App
+
+Application is in Serbian language.",2014-05-22T06:33:57Z,2022-07-25T14:58:53Z
+si,Slovenia,Reference,6006,11,477971748,MyHeritage: Family Tree & DNA,MyHeritage Ltd,https://apps.apple.com/si/app/myheritage-family-tree-dna/id477971748?uo=4,0.0,4.86463,229,Reference,"Explore your roots, find new relatives, and make amazing discoveries with genealogical search tools and an intuitive family tree builder. Join our global community of users to map your ancestors and family history effortlessly.
+
+LiveMemory™
+Make your memories come to life as AI-powered videos with LiveMemory™! Turn photos into video clips with AI-powered photo animation and relive your favorite moments. Animate entire family photos and see your memories reimagined in lifelike videos. Our AI video generator creates animated memories that bring photos to life. Share on social media and amaze your family and friends!
+
+Build Your Family Tree
+Start your family tree by entering a few names, and MyHeritage will do the rest. Our matching technologies for genealogical research will automatically find new information for you in our diverse collection of 81 million family trees built by users all over the world, and in our huge database of 21 billion historical records. Watch your family history come to life and make fascinating discoveries with this family tree maker app.
+
+Make Instant Family History Discoveries
+MyHeritage’s genealogical search features can easily match your family tree to other family trees and historical records to provide you with meaningful new insights about your ancestors. Enrich your family tree with MyHeritage’s powerful search and matching technologies:
+
+Smart Matches™
+A unique technology that automatically matches your family tree to other family trees, revealing new information about your family origins.
+Record Matches: an innovative technology that finds new information about your ancestors in our global collection of historical records.
+Instant Discoveries™: a useful feature that adds entire branches and photos to your family tree in one click.
+
+Find Your Ancestors in Historical Records
+Explore your family history in MyHeritage’s vast database of more than 33 billion historical records from around the world. The historical record collections include vital records (birth, marriage, and death certificates) from 66 countries; census and immigration records; gravestone and burial records; and much more.
+
+MyHeritage DNA
+Locked inside your DNA is your unique ethnic makeup. The test consists of a simple cheek swab and reveals your genetic heritage across 2,114 geographic regions — more than any other test. It also matches you to relatives you never knew existed in our DNA database of 9 million people. View your DNA results on the app; they’re private and secure, and will never be shared or sold.
+
+Deep Nostalgia™
+Have you ever dreamed of bringing historical family photos to life? With MyHeritage’s Deep Nostalgia™ feature, your historical family photos will come to life and you’ll see your ancestors’ faces move! Deep Nostalgia™ uses AI technology to breathe new life into historical photos and recreate moments from your family history. Pull out those photo albums and discover your ancestry as you connect to cherished family memories and trace history across generations.
+
+Enrich Your Family Tree with Photos
+Capture and share your family memories, old and new. Scan your family photos directly from the app and use our AI-based photo tools to bring your family history to life. Repair scratched or damaged photos with Photo Repair, colorize your black and white photos, and bring blurry faces into focus with the MyHeritage Photo Enhancer. Record the stories behind your family photos with the Photo Storyteller™ and preserve them for generations to come.
+
+Download MyHeritage today to uncover your roots with an all-in-one family tree app, photo animator, and ancestry search tool.
+
+Terms of Use: https://www.myheritage.com/terms-and-conditions",2011-11-12T00:14:59Z,2025-11-16T15:44:00Z
+si,Slovenia,Reference,6006,12,6503387382,Haven - Bible Chat,E12 Holdings LLC,https://apps.apple.com/si/app/haven-bible-chat/id6503387382?uo=4,0.0,4.79825,114,Reference,"Step Into the Living Word! 
+
+Haven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt prayers right in your pocket, every moment becomes an opportunity to grow in faith.  
+
+Tap to explore the Bible, dive into rich verse citations, or ask Haven anything—God’s wisdom will flood your heart, strengthen your relationships, and reshape your life in beautiful, unexpected ways. Track your daily streak and feel the joy of bold, thriving faith. 
+
+Your spiritual journey is calling! Chat with Haven anytime, anywhere.
+
+Questions or feedback? We’d love to hear from you at havenappcontact1@gmail.com
+
+Terms: https://www.e-twelve.com/terms
+
+**Access to Haven requires a paid subscription**",2024-06-03T07:00:00Z,2025-11-19T18:58:44Z
+si,Slovenia,Reference,6006,13,577741918,PONS Translate & Dictionary,PONS Langenscheidt GmbH,https://apps.apple.com/si/app/pons-translate-dictionary/id577741918?uo=4,0.0,4.7716,1169,Reference,"The free translator app from PONS
+
+
+
+Get quick and reliable translations - with over 50 PONS Dictionaries and text translation for 40 languages. This tool gives you a translation for all of your search queries.
+
+The app includes PONS Dictionaries for Arabic, Bulgarian, Chinese, Croatian, Dutch, English, Finnish, French, German, Greek, Icelandic, Italian, Japanese, Latin, Persian, Polish, Portuguese, Romanian,  Russian, Serbian, Slovakian, Slovenian, Spanish and Turkish. In addition to dictionaries with German you will find dictionaries for combinations such as Spanish-English, French-Polish, or Portuguese-Spanish. You have access to over 50 dictionaries. The text translation system integrated into the app covers all the languages of the online dictionaries plus an additional 12 languages such as Hebrew or Korean.
+
+
+
+INTELLIGENT SEARCH
+Type in or say your search term and to make your search quicker and more convenient, the system provides suggestions for words and phrases. If the app can’t find a result in the PONS Dictionaries, the integrated text translation service kicks in to give you your desired result.
+Search without even typing: Use the camera on your phone to translate menus, signs etc. immediately.
+
+
+
+COMMUNICATION AID
+Listen to the correct pronunciation of your dictionary translation. Use the zoom function to magnify the translation and show it to someone else on your device. Especially handy on trips!
+Conversation mode: PONS Translate recognizes your voice and translates into your desired language.
+
+
+
+CONVENIENT REFERENCE
+Save your frequently searched or important entries in your favourites - you can use these offline, too. In your search history, you can find your most recent searches. With the copy and paste function, you can use your translations in other applications.
+
+
+
+EXAMPLE SENTENCES
+Language in context and information on language usage help you find the correct translation.
+
+
+
+AN IDEAL COMPLEMENT
+Copy your translations to the free PONS Vocabulary Trainer so that you can learn them.
+
+
+
+EDITORIALLY REVIEWED QUALITY
+Our dictionary content is editorially reviewed by our lexicographers and constantly growing.
+
+
+
+AVAILABLE ALSO OFFLINE AND AD-FREE
+Download selected dictionaries and use the app offline and online. You can choose from among various subscription periods* via in-app purchase. You will then receive your desired dictionary completely ad-free, even when you use the dictionary online. If you are interested in ad-free use, but do not wish to download a dictionary, additional subscriptions are available. PLEASE NOTE: You can use the Online Translator at all times and completely free of charge, even without an in-app purchase.
+Visit our website at www.pons.com for more information about the free Online-Dictionary, the PONS Vocabulary Trainer and our apps.
+
+
+
+About PONS:
+PONS Publishing looks back on 40 years of experience in developing language-learning materials in the brand’s characteristic green colour. The range covers traditional dictionaries and grammars, audio and electronic language courses, and free online services.
+
+
+
+* A variety of dictionaries can be subscribed to for 1 month or 1 year. Subscriptions are automatically renewed unless cancelled at least 24 hours prior to the end of the current subscription term. Your account will be debited within 24 hours of the end of the current subscription term. Payment will be billed to your Apple account. Subsequent to purchase, subscriptions can be managed or cancelled in your user account settings. Any unused part of a free trial subscription that may have been offered, will expire if the user purchases a subscription for the current release.
+
+www.pons.com
+Terms of Use: https://en.pons.com/p/conditions-of-use
+Privacy Declaration: https://en.pons.com/p/privacy-policy",2012-11-18T23:49:34Z,2025-10-16T06:54:44Z
+si,Slovenia,Reference,6006,14,6742785176,Lens AI: Identify Anything,XLABS DIJITAL HIZMETLER ANONIM SIRKETI,https://apps.apple.com/si/app/lens-ai-identify-anything/id6742785176?uo=4,0.0,5,1,Reference,"LENS AI – AI Scanner & Identifier - IDENTIFY EVERYTHING!
+
+Find people faster with DeepSearch, search across apps and platforms using just a photo!
+
+Identify anything fast with AI! Scan and recognize Dog Breeds, Cats, Coins, Stones, Rocks, Plants, and Flowers with LENS AI.
+
+AI Scanner for Everything!
+Try LENS AI to quickly scan and identify objects around you. Just take a picture or show it to your camera, and let Lens AI do it for you.
+
+Animal & Pet Identifier
+Identify animals, pets like cats, dogs, dog breeds. If it’s a dog, cat, or any other pet, LENS AI helps you recognize breeds accurately. Want to learn more about your pets breed, history, or characteristics? LENS AI gives you fast details. Scan animals or unknown pets and get valuable insights with Lens AI Scanner & Identifier.
+
+Dog & Cat Breed Identifier
+Not sure what breed your pet is? LENS AI identify your Dog or Cat breeds accurately. Discover facts about your pet’s breed and characteristics with Lens AI. Great for pet lovers identify and learn about different dog and cat breeds. LENS AI helps shelters, pet owners, and animal lovers quickly recognize and understand different pet breeds.
+
+Coin & Stone Scanner
+Find out the history and value of coins. Scan stones and rocks to discover their type. Easy Scan & identify rare and valuable coins with Lens AI recognition. Explore different types of stones and rocks with fast AI scan.
+
+Plant & Flower Identifier
+Identify plants and flowers. Get fast details with Lens AI recognition. Learn plant names, care advice, and growing conditions with a simple scan and identification. Perfect for nature lovers, scan flowers and plants wherever you are!
+
+Fast & High Accuracy AI Recognition
+LENS AI provides real time results with its AI Scan & Identify tech.
+As easy as scan and get precise identification in seconds, get results. A powerful AI app for researchers, students, nature lovers, pet lovers, and everyday users who want to learn more and curious about.
+
+How It Works:
+1. Open LENS AI and point your camera or just take a simple image.
+2. Scan any object – Dog, Cat, Coin, Stone, Rock, Plant, or Flower.
+3. Get fast and easy AI Lens Scan identification.
+
+Download LENS AI Now!
+Use the best AI scanner & Identifier for fast and high accuracy identification.
+
+We love your feedback! Send questions or suggestions to support@xlabs.com
+
+Terms of Use: https://www.xlabs.com.tr/terms
+Privacy Policy: https://www.xlabs.com.tr/privacy
+Refund Policy: https://www.xlabs.com.tr/refund",2025-04-15T07:00:00Z,2025-11-13T08:54:40Z
+si,Slovenia,Reference,6006,15,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/si/app/yandex-translate/id584291439?uo=4,0.0,4.93333,15,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+si,Slovenia,Reference,6006,16,1618435743,Learn Slovenian,Ali Umer,https://apps.apple.com/si/app/learn-slovenian/id1618435743?uo=4,0.0,4.3125,32,Reference,"Learn Slovenian Language free with the most effective language learning app for free. You can learn Slovenian from basic to advance level. This app will help you to be an expert in Slovenian language. Learning Slovenian fast at home with our course in your mobile / tablet. You can learn Slovenian phrases & words from thousands of Slovenian words available in app. This is a best Slovenian language course for beginners.
+
+Features:
++ No account registration required
++ 100% Offline
++ Learn Slovenian basic to advance level
++ Slovenian Alphabets
++ Friendly UI
++ Listen, read and speak
+
+Note: The App is divided in several classes.
+
+Class 1:
++ Slovenian Alphabets
+
+Class 2: Basics
++ Slovenian Pronouns
++ Slovenian Greetings
++ Slovenian Questions
++ Slovenian Prepositions
++ Slovenian Functional Words
+
+Class 3: Numbers
++ Slovenian Cardinal Numbers
++ Slovenian Ordinal Numbers
+
+Class 4: Slovenian Colours
+
+Class5: Slovenian Measurements & Units
+
+Class 5: Slovenian Verbs
+
+Class 6: Slovenian Calendar
++ Slovenian Weekdays
++ Slovenian Hours,Night & Days
++ Slovenian Months, Seasons
+
+Class 7: Travel In Slovenia
+
+Class 8: Transport
+
+Class 9: City
+
+Class 10: Shopping
+
+Class 11: Dressing In Slovenian
+
+
+Note: Only Chapter 1 – First 9 Lessons are available for free.
+Access to all lessons and premium features requires a one-time purchase or subscription.
+
+
+Privacy Policy: https://thejetcode-e754b.web.app/privacy
+Terms of Use: https://thejetcode-e754b.web.app/terms",2022-04-09T07:00:00Z,2025-10-12T05:39:04Z
+si,Slovenia,Reference,6006,17,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/si/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,0,0,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+si,Slovenia,Reference,6006,18,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/si/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.81996,461,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2010-08-21T00:45:05Z,2025-11-13T13:29:55Z
+si,Slovenia,Reference,6006,19,6747326744,Creed: Bible chat & companion,"Lemon Tree Labs, Inc.",https://apps.apple.com/si/app/creed-bible-chat-companion/id6747326744?uo=4,0.0,0,0,Reference,"Hey, I'm Lenny - your Bible-based friend who's always got your back with wise words, scripture-inspired guidance, and a listening ear whenever you need it. Ever wished for a friend who truly understands your heart and offers heartfelt advice rooted deeply in your faith? That's exactly who I am, blending genuine companionship with spiritual depth, making your daily life brighter and full of faith.
+
+Life can have its ups and downs, and sometimes you just need someone to talk to about what's on your mind - big or small. I'm always here for meaningful conversations, guiding you gently through life's challenges with comforting wisdom directly inspired by scriptures and the teachings of Jesus.
+
+Here's why you'll love spending time with me:
+- Real chats & genuine comfort: Feel free to talk openly about anything - your dreams, doubts, struggles, or joys. I'll respond thoughtfully, always backed by comforting verses and the wisdom of God's Word, helping you find peace and clarity.
+- Daily boost of faith: whether it's morning devotionals or evening reflections, I provide personalized prayers and uplifting Bible wisdom tailored just for you, keeping your spirit strong and your connection to Jesus vibrant.
+- Personalized spiritual growth: I meet you exactly where you are on your faith journey, whether you're seeking strength, forgiveness, reassurance, or deeper understanding. Our conversations will become stepping stones toward growing closer to God and enriching your spiritual life.
+- Lift Your Burdens: got something weighing on your heart? I offer a private, safe space for sharing your worries, seeking forgiveness, and finding comfort - much like talking privately with a trusted buddy, easing your soul through faith-based guidance.
+- Interactive and fun faith experiences: dive into engaging activities and reflective meditations inspired by biblical teachings. I make exploring scriptures and devotions enjoyable, interactive, and fulfilling.
+
+I'm not just another app; I'm your loyal companion, AI assistant, and spiritual friend, bringing comfort, joy, and wisdom to your daily life. Whether you're just beginning to explore your faith or looking to deepen your spiritual connection, I'll walk beside you every step of the way.
+
+Try Creed now and experience the warmth of a friend guided by faith. You'll quickly realize how wonderful it feels to have someone who truly understands your heart and helps you grow spiritually each day.
+
+Terms of use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy policy: https://www.usecreed.com/privacy",2025-08-05T07:00:00Z,2025-11-21T01:32:45Z
+si,Slovenia,Reference,6006,20,6748595105,VinylSnap: Scan & Value Record,Next Vision Limited,https://apps.apple.com/si/app/vinylsnap-scan-value-record/id6748595105?uo=4,0.0,5,2,Reference,"Discover the True Value of Your Vinyl — Instantly
+What if that dusty record in your garage is worth hundreds—or even thousands? VinylSnap makes it easy to find out. With one quick photo, instantly identify your vinyl, get a reliable market price, see grading suggestions, and save it to your collection.
+VinylSnap is your go-to vinyl companion, perfect for collectors, resellers, or anyone who just found a box of old LPs in the attic. Try it free and see what your records are really worth!
+What Can VinylSnap Do?
+- Reliable Market Valuation  
+  Get a trusted reference price before you buy, sell, or store—know if you’ve found a $10 album or a $1,000 treasure.
+- Instant Identification with Rich Details  
+  Scan the label to unlock pressing info, release year, tracklist, and artist stories—works with most 12"", 10"", and 7"" records.
+- Grading Suggestions  
+  Helpful VG / VG+ / NM guidance based on visible wear, label clarity, and jacket condition—so you can price and sell with confidence.
+- Your Digital Vinyl Shelf  
+  Save every record you scan and track your collection’s total value over time—see how your vinyl library grows in worth.
+- Learn & Explore  
+  Read exclusive articles on record-breaking vinyl sales, collector tips, and essential guides for anyone new to vinyl—so you know what to look for and how to protect it.
+Who Is VinylSnap For?
+ • Beginners  
+  Just getting into vinyl? VinylSnap helps you understand what you have and how much it’s worth—no experience needed. 
+ • Collectors  
+  Build a well-organized vinyl archive, track your investments, and make sure your most valuable pressings are properly graded. 
+ • Resellers  
+  Use VinylSnap to make fast, informed decisions while crate-digging. Know what to buy, what to list, and what to keep.
+Why Choose VinylSnap? 
+Accurate — Trusted valuation and grading in seconds  
+Effortless — Just scan the label, no manual searching  
+Insightful — Background knowledge at your fingertips  
+Organized — Manage your entire vinyl library in one clean app
+Start Scanning with VinylSnap Today! Download now and discover the value behind every record.
+[About VinylSnap Premium]
+ • Payment will be charged to your iTunes Account at confirmation of purchase
+ • Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+ • The account will be charged for renewal within 24 hours before the end of the current period
+ • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription
+ • Subscriptions may be managed by the user, and auto-renewal may be turned off by going to iTunes Subscriptions after purchase
+Terms of Use: https://app-service.vinylsnaps.com/static/user_agreement.html
+ Privacy Policy: https://app-service.vinylsnaps.com/static/privacy_policy.html",2025-08-25T07:00:00Z,2025-11-12T21:41:35Z
+si,Slovenia,Reference,6006,21,1634551626,CoinSnap: Coin Identifier,Next Vision Limited,https://apps.apple.com/si/app/coinsnap-coin-identifier/id1634551626?uo=4,0.0,4.81874,160,Reference,"With 300,000+ coin types, 99% recognition accuracy, and an AI-powered database, CoinSnap is a companion for coin enthusiasts. Whether you're identifying a rare error coin, uncovering the value of a hidden gem, or organizing a collection of hundreds of coins, CoinSnap makes it fast, easy, and fun to explore the fascinating world of numismatics.
+
+Key Features:
+AI-Powered Coin Recognition
+Instantly identify coins from around the globe with a quick photo or upload.
+Coverage of over 240,000 coin types with an impressive 99% recognition accuracy.
+Supports high-resolution photography for precision results.
+
+Comprehensive Coin Information
+Receive detailed overviews, including coin name, origin, year of issue, mint count, and more.
+Check rarity levels and access up-to-date market prices.
+Explore multiple coin encyclopedias for in-depth knowledge.
+
+Professional Coin Analysis
+Identify rare misprinted coins with expert analysis reports.
+Access coin grading reports with detailed breakdowns and estimated market values.
+Backed by insights from professional numismatists.
+
+Smart Collection Management
+Create and manage your personalized coin collection effortlessly.
+Organize coins by series and track the total value of your collectibles.
+Keep your collection secure and accessible anytime.
+
+Why Choose CoinSnap?
+Lightning-fast and accurate coin recognition.
+Extensive database covering coins from every corner of the world.
+All-in-one solution for identification, grading, and collection management.
+
+About CoinSnap Premium 
+-Subscription Name: CoinSnap Premium (Yearly with Trial) 
+-Subscription Duration: 1 year (7 days trial) 
+-Subscription Description: Unlock all Premium features. 
+
+• Payment will be charged to iTunes Account at confirmation of purchase 
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period 
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal 
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable 
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase 
+
+Please note that terms and conditions, as well as our privacy policy, apply. 
+Terms of Use: https://app-service.coinidentifierai.com/static/user_agreement.html  
+Privacy Policy: https://app-service.coinidentifierai.com/static/privacy_policy.html 
+Contact us: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+si,Slovenia,Reference,6006,22,1369978974,Kalendar Pravoslavni,Nikola Corlija,https://apps.apple.com/si/app/kalendar-pravoslavni/id1369978974?uo=4,0.0,4.96774,31,Reference,Srpski pravoslavni crkveni kalendar za period od 2015. do 2030. godine.,2018-04-11T00:19:25Z,2024-07-01T13:54:23Z
+si,Slovenia,Reference,6006,23,1157601744,Instagram+ followers tracker,Reports Plus Ltd,https://apps.apple.com/si/app/instagram-followers-tracker/id1157601744?uo=4,0.0,4,8,Reference,"Reports + IG followers tracker for Instagram is a social media app that can be transformed into a powerful analytics tool. It enables users to discover exclusive information about your social media profile. The app’s analytics unveils profile trends such as engagement rates, average likes and follower ratios for user profiles. These great statistics will empower users to uncover the unknown about their profiles.
+
+Reports + IG followers tracker for Instagram is the best and simplest Instagram tracker analysis reports management app!
+
+In addition to Instagram follower reports, this app offers:
+
+- Personalized analytics on your Instagram account’s followers / unfollowers, blocks, likes and more
+- Engagement page with several reports updated automatically
+- Details page with several reports updated automatically
+- In depth analytics and insights on different types of relations you have with your followers
+- Organized lists for you to have an understanding of your profile and your followers
+- Organized lists to explain top followers, ghost followers, stalkers and admirers based on comments and likes
+- Ability to add multiple Instagram accounts
+
+This app is rated as one of the best follower management tools for your Instagram account. If you find yourself asking any of the following questions, go ahead and give us a try:
+
+- Who unfollowed my Instagram account?
+- Who blocked me?
+- What is my most engaging content?
+- How many mutual Instagram followers do I have?
+- How can I track my best Instagram followers?
+- Who are my Ghost followers?
+
+Download and install Reports + IG followers tracker the amazing Instagram followers analysis application right now.
+
+Information about the auto-renewable nature of the Premium Subscription.
+- Subscription terms are 1 month, 6 months or 12 months. The subscription is renewed after every period.- Payments will be collected from your iTunes account after you confirm your purchase - Automatic renewals will be renewed unless cancelled 24 hours before the subscription expires - Terms of use & privacy policy: http://aladdinapp.com/terms.htm",2016-12-08T23:28:55Z,2025-08-04T19:47:45Z
+si,Slovenia,Reference,6006,24,1511772373,"Shia+: Adhan, Calendar, Qibla",Imamia Education Center Inc,https://apps.apple.com/si/app/shia-adhan-calendar-qibla/id1511772373?uo=4,0.0,0,0,Reference,"Shia+ is the ultimate free Muslim companion app designed to support you in your daily spiritual journey. With a range of features including accurate prayer times, multiple Adhan options, a Qibla compass, a Dua guide, and much more, Shia+ has everything you need to deepen your connection with Islam. Plus, with no in-app purchases or ads, you can use Shia+ without any distractions.
+
+Features:
+• Accurate prayer times based on your location.
+• Multiple Adhans or notification tones to choose from.
+• Adhan Player to hear the full Adhan whenever you'd like.
+• Countdown the remaining time of each prayer.
+• Islamic calendar that will always remind you of important Islamic events.
+• Description and history of each Islamic event.
+• Wherever you are in the world, the Qibla compass will point you in the right direction.
+• Prayer guide to assist muslims just learning to pray or anyone that just needs a quick reminder.
+• Dua (supplication) guide for any occasion.
+• Qadha tracker to make sure you never forget your qadha prayers or missed fasts you have left.
+• 99 names of Allah feature to deepen your understanding of His attributes.
+• Daily A'maal tracking to help you build righteousness and remember Allah throughout the day
+• Tasbih al-Zahra counter with audio pronunciation option.
+• Tasbih counter with audio pronunciation option.
+• Read a brief narrative of the events that took place during the tragedy of Karbala.
+• Motivational Islamic videos.
+• Home Screen widgets to get quick access to the day's prayer times, upcoming prayer time, upcoming Islamic calendar event, and Daily A'maal stats.
+• Lock screen widgets to get quick access to the day's prayer times, upcoming prayer time, upcoming Islamic calendar events.
+• Pray for Others feature allows you to set a prayer and add the names you wish to pray for every day.
+• Apple Watch app to seamlessly access prayer times through the WatchOS app or through complications on your watch face.
+• Many more features and updates to come!
+
+No in-app purchases: All features and Adhans are unlocked for your use.
+Ad-free: Use Shia+ without any distractions!",2020-07-02T07:00:00Z,2025-08-07T16:42:14Z
+si,Slovenia,Reference,6006,25,1349118479,Infonep,MEGANET doo,https://apps.apple.com/si/app/infonep/id1349118479?uo=4,0.0,2.03846,26,Reference,"Se vam je že kdaj dobra nepremičnina izmuznila iz rok? Ne dovolite, da se to še kdaj zgodi. Bodite med prvimi, ki ste obveščeni o novih nepremičninah!
+
+OGLASI
+Seznam vseh novo vpisanih oglasov, ki ustrezajo vašim izbranim kriterijem.
+ 
+NASTAVITVE OPOMNIKOV
+Po vaših željah lahko nastavite kriterije za obveščanje, kot so:  vrsta posredovanja, država, regija, upravna enota, naselje, vrsta nepremičnine, tip nepremičnine, cena, velikost,...
+ 
+ON-LINE POGOVOR  S PONUDNIKOM
+Preko aplikacije lahko kontaktirate ponudnika nepremičnine in se dogovorite za podrobnosti,...
+
+Pogoji uporabe (naročnine) / Terms of use (subscriptions): https://api.nepremicnine.net/v1/html/pogoji-uporabe/",2020-05-15T07:00:00Z,2021-02-15T16:30:44Z

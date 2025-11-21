@@ -1,0 +1,654 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ug,Uganda,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/ug/app/testflight/id899247664?uo=4,0.0,4.67188,832,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+ug,Uganda,Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/ug/app/github/id1477376905?uo=4,0.0,4.73076,78,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+ug,Uganda,Developer Tools,6026,3,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/ug/app/expo-go/id982107779?uo=4,0.0,4.42593,54,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+ug,Uganda,Developer Tools,6026,4,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/ug/app/apple-developer/id640199958?uo=4,0.0,3.25,4,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+ug,Uganda,Developer Tools,6026,5,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/ug/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.33333,3,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+ug,Uganda,Developer Tools,6026,6,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/ug/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.5,16,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+ug,Uganda,Developer Tools,6026,7,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/ug/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,5,4,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+ug,Uganda,Developer Tools,6026,8,6749557696,Cursor Website Builder XVibe,Tetiana Oliinyk,https://apps.apple.com/ug/app/cursor-website-builder-xvibe/id6749557696?uo=4,0.0,4.66667,3,Developer Tools,"cursor, lovable, wix website builder, vibecode, website builder, loveable, code editor, xvibe, cursor ai, lovable ai, building, seek, code scribe, windsurf, ai generator, custom code, code ai, lovo ai
+
+Generate custom code instantly with AI.
+
+XVibe AI is your AI-powered code generation tool. Turn prompts into working code for websites, apps, scripts, and more — without writing it yourself.
+
+Whether you’re a beginner or expert, get tailored code suggestions for frontend, backend, mobile, or APIs.
+
+Generate full app features, UI components, logic, database queries, and more using the power of AI.
+
+Perfect for developers, coders, makers, indie hackers, startups, and anyone building digital products.
+
+Supports: HTML, CSS, JavaScript, Python, React, Flutter, Swift, and more.
+
+Start generating now with XVibe AI.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-08-07T07:00:00Z,2025-10-02T17:26:33Z
+ug,Uganda,Developer Tools,6026,9,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/ug/app/scriptable/id1405459188?uo=4,0.0,5,5,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+ug,Uganda,Developer Tools,6026,10,6444286049,JavaScript Coding Editor & IDE,Cloudbit d.o.o.,https://apps.apple.com/ug/app/javascript-coding-editor-ide/id6444286049?uo=4,0.0,4.5,4,Developer Tools,"A fully functioning offline node.js runtime on your mobile device.
+
+It lets you run JavaScript and TypeScript code and scripts offline on your phone, without any internet connection or server setup. 
+
+You can use it as a compiler, a console, an engine, a runtime, WebView, or an IDE. 
+
+Whether you are a professional developer, a student, or a hobbyist, JavaScript CodePad will help you practice and improve your coding skills anytime, anywhere.
+
+Built in tsc compiler transpiles your TypeScript code to JavaScript offline.
+
+Use the WebView mode to access the built-in Web Browser Window and DOM interface. Combine HTML, CSS, and JavaScript and learn building Web apps. 
+
+Organise your code into modules and run multiple JS files using Node.js as a runtime (Internet connection required).
+
+You can run, execute, and evaluate JS code and programs from this app.
+Lightweight app with full JavaScript syntax highlighting, code completion and editor actions like undo, redo, comment lines, and indent selection to enhance your developer productivity.
+
+Enhanced productivity with live JS and TS code analysis as you type. Catch errors before you run the code.
+
+Built-in AI Assistant, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can also refactor your code, clean it up, check it for bugs, write comments and documentation strings or just explain it.
+
+Blazing fast, all single script and Web View code is ran directly on the embedded node.js runtime or built in Web browser.
+
+Enhance your programming and JavaScript skills by solving built-in coding problems.
+Learn JavaScript with the MDN tutorial. Become a JavaScript coding master.
+Learn TypeScript with the official TypeScript handbook.
+
+Test your JavaScript and TypeScript knowledge, the app will tell you if you are writing valid JavaScript.
+
+With JavaScript CodePad, you can:
+
+- Write and execute JavaScript code with syntax highlighting and auto-indentation.
+- Run and compile TypeScript code and scripts
+- Test and debug your code with the built-in console and error messages.
+- Share and load your code snippets for later use
+- Customised keyboard with special keys and shortcuts for JavaScript and TypeScript
+- Code completion
+- Code formatting
+- Code linting
+- Solve built-in coding challenges
+- Access JavaScript and TypeScript tutorial and library reference from the app
+- Learn new concepts and techniques
+- Write HTML, CSS and JS code and run it in a built-in WebView
+- Run multiple JS files 
+
+Download it today and unleash your creativity with the most popular programming language in the world.
+
+Note that certain features like Code completion, WebView mode and project mode require paid Developer upgrade.",2022-11-09T08:00:00Z,2025-10-07T10:04:25Z
+ug,Uganda,Developer Tools,6026,11,6746305017,PostMan - API Client,KHANG LE,https://apps.apple.com/ug/app/postman-api-client/id6746305017?uo=4,0.0,0,0,Developer Tools,"Postman - API Client is a lightweight and powerful tool designed for developers and testers to send and manage API requests directly from their mobile device. No need to wait for your computer — test, debug, and manage your APIs anytime, anywhere.
+
+Whether you're testing a simple GET request or working with complex JSON payloads, Postman - API Client gives you full control over your API workflow on the go.
+
+-  Key Features
+-  Home – Send API Requests Easily
+Quickly create and send HTTP/HTTPS requests with full support for all common methods (GET, POST, PUT, DELETE, etc.).
+Customize headers and body formats with support for:
+
+Raw: JSON, Text, JavaScript, HTML, XML
+
+Form-data: Key-value pairs and file uploads
+
+- History – View Request Logs
+Never lose track of your work. The app automatically stores a history of all API requests so you can revisit, edit, or resend them at any time.
+
+- Import API – Continue Your Work on Mobile
+Import API requests or full Postman collections (JSON files) and seamlessly continue your testing from any device.
+
+- REST API Tools
+
+Add headers with smart hints
+
+Save and reset requests easily
+
+Define and use global variables
+
+- Upgrade to Postman Premium:
+   Schedule notification API
+   Send multiple notifications
+   No ads
+
+Subscriptions will be charged to your Apple ID account. They automatically renew unless cancelled at least 24 hours before the end of the current period. Manage your subscription in your device settings.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-05-25T07:00:00Z,2025-10-09T19:27:24Z
+ug,Uganda,Developer Tools,6026,12,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/ug/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,5,3,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-18T23:02:56Z
+ug,Uganda,Developer Tools,6026,13,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/ug/app/termux/id6738933789?uo=4,0.0,3.5,4,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+ug,Uganda,Developer Tools,6026,14,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/ug/app/o-kam-pro/id1602054864?uo=4,0.0,4.2,5,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+ug,Uganda,Developer Tools,6026,15,6755460417,Snapt - Camera,"Zhanjiang Yunxia Trading Co.,Ltd.",https://apps.apple.com/ug/app/snapt-camera/id6755460417?uo=4,0.0,0,0,Developer Tools,"Snapt Creative - Dual Camera Capture App
+
+Snapt Creative enables you to capture photos and videos using both your device's front and rear cameras simultaneously. Create unique content with multiple layout options and share your creations with ease.
+
+Dual Camera Capture
+Capture photos and record videos using both cameras at the same time. The app utilizes iOS AVFoundation's multi-camera capabilities for smooth, synchronized dual-camera recording.
+
+Multiple Layout Options
+Choose from various layout configurations:
+Picture-in-Picture (PIP): Position secondary camera in corners (top-left, top-right, bottom-left, bottom-right) or center
+Split Screen: Vertical and horizontal split layouts showing both camera views side by side
+Photo and Video Modes
+Switch between photo and video capture modes. Record synchronized dual-camera videos or capture still images with your preferred layout.
+
+Gallery Management
+View all captured works in an organized gallery. Each item shows creation date and layout type. Tap to view full screen, play videos with controls, save to photo library, share, or delete.
+
+Video Playback
+Built-in video player with play/pause, seek controls, and progress tracking. Videos display with proper aspect ratio and smooth playback.
+
+Save and Share
+Save creations to your photo library with proper permission handling. Share photos and videos using iOS share sheet.
+
+Subscription and Coin System
+Free users receive 100 initial coins
+Each save (photo or video) consumes 10 coins
+Purchase additional coins through in-app purchases
+Subscribe for unlimited saves with no coin deduction
+
+User Interface
+Clean iOS-style interface with intuitive navigation: Capture, Gallery, and Settings. Smooth animations and responsive interactions.
+
+Privacy and Legal
+Comprehensive legal documentation accessible from settings:
+Terms of Service
+Privacy Policy
+Subscription Terms
+All documents accessible via in-app web views.
+
+
+Usage
+Launch app and grant camera permissions
+Choose layout from menu
+Switch between photo/video modes
+Capture content
+View works in Gallery
+Save, share, or manage creations
+Note
+Requires device with both front and rear cameras. Dual-camera functionality uses iOS native capabilities and performance may vary by device model.
+
+Manage subscriptions through Settings or App Store subscription settings.
+
+Our subscription service:
+Monthly Subscription, Price: $30 / 1 month
+Half Year Subscription, Price: $100 / 6 months
+Yearly Subscription, Price: $170 / 1 year
+
+User Agreement：
+https://docs.google.com/document/d/1QPXMedK6QsJAOmgovTwNR08B18S_x84Qzkak1Wj1LmU/edit?usp=sharing
+
+Privacy Policy：
+https://docs.google.com/document/d/1J8kPK4BKemOMgEGc2Xe9YpP9N7m1RPYOREm9rhCH89M/edit?usp=sharing
+
+Subscription Agreement：
+https://docs.google.com/document/d/1piaKf8h9WnfyccbZwXAJHLmKXghAH3265cb2EKuDr4A/edit?usp=sharing",2025-11-19T08:00:00Z,2025-11-20T05:16:53Z
+ug,Uganda,Developer Tools,6026,16,6745097949,v0,"Vercel, Inc",https://apps.apple.com/ug/app/v0/id6745097949?uo=4,0.0,0,0,Developer Tools,"This is your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",2025-10-23T07:00:00Z,2025-11-18T16:33:04Z
+ug,Uganda,Developer Tools,6026,17,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/ug/app/koder-code-editor/id1447489375?uo=4,0.0,4.23913,46,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+ug,Uganda,Developer Tools,6026,18,1063100471,Tutorials for iOS programming,发展 李,https://apps.apple.com/ug/app/tutorials-for-ios-programming/id1063100471?uo=4,0.0,3.86667,15,Developer Tools,"WHAT IS XCODE AND SWIFT TUTORIALS? 
+
+WHAT IS XCODE AND SWIFT TUTORIALS brings you simple, funny, interactive learning app for Xcode and Swift. 
+The app teaches you about each of the features of Xcode and show you how to use them in detail. With candid, jargon-free advice and step-by-step guidance, you’ll get everything from the core aspects of working to advanced techniques for refined workflows and professional results. It's like having your own personal tutor teaching you the newest version of Xcode. You'll learn how to express yourself and create great Apps quickly and directly! It’s the first and only app to bring the whole process together in such a clear, concise, and interactive way. 
+There is no faster, more straight-to-the-point, or more fun way to learn Xcode than with this app. 
+
+In addition to the Interactive-Mode, app supports the Inspector-Mode, it converts the app to be 20 hours video tutorials, a great added value! 
+
+
+WHAT IS IN XCODE AND SWIFT TUTORIALS? 
+
+XCODE AND SWIFT TUTORIALS includes 1146 self-paced lessons that allow you to progress at your own speed(tip:The first lesson teach you how to use the app): 
+- Get familiar with the Xcode + Swift + Objective-C 
+- Discover all the things you can do with the UIControls 
+- Explore the use of UIView, UIViewController 
+- Find out how to make a fantastic animation 
+- Learn how to get the app version, device font list 
+- Steps for creating POST/GET HTTP Request 
+- Cool things to do with UITableViews 
+- Details how to save your data in the device 
+- Shortcuts, tricks, and tips that let you work smarter and faster 
+- A whole chapter on how to work with music, movie, animation 
+- UITapGestureRecognizer Single Tap, Double Tap, Long Press 
+- Instructions for using simulator 
+- Debugging your app 
+- Details how to Work with SQLIte and NSKeyedArchiver 
+- Explore the use of property list file 
+- The newest and coolest features of Xcode
+- Plus, there are so many other things throughout the app that you’ll be bursting with new ideas! Have fun discovering! 
+
+
+WHO IS INTERACTIVE TUTORIALS FOR XCODE FOR? 
+
+Ever wonder how that Great Apps was created, or how they created that cool mobile games? Or maybe you just want to know how to do some really awesome stuff in Xcode. Well, then, this app is for you! 
+Whether you’re a programmer, designer, or even an artist, there’s something here for you. 
+
+[Products]
+Interactive Tutorials for Photoshop, Illustrator
+https://itunes.apple.com/us/app/id794405356
+
+Interactive Tutorials for Excel, Word and Powerpoint
+https://itunes.apple.com/us/app/id1090726089
+
+Interactive Tutorials for Photoshop Script
+https://itunes.apple.com/us/app/id987231882
+
+
+[Help? Comments? Suggestions? Contact us]
+Email:tapinfinity@gmail.com",2015-12-12T01:00:12Z,2025-07-08T12:12:00Z
+ug,Uganda,Developer Tools,6026,19,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/ug/app/rork/id6746410361?uo=4,0.0,4.5,4,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+ug,Uganda,Developer Tools,6026,20,1483790257,Text Editor.,TAPUNIVERSE LLC,https://apps.apple.com/ug/app/text-editor/id1483790257?uo=4,0.0,4,10,Developer Tools,"This is a simple yet powerful text editor that let you browse and edit any kind of text on your device and on the cloud (including iCloud, Google Drive, Box and more).
+
+FEATURES:
+—————
+◆  Browse and edit all kinds of text on your device and on the cloud
+◆  Support TXT, RTF or any file that can be read as text like HTML, CSS, JS
+◆  View text in any font and style
+◆  Rich Text editing
+◆  Share your files anywhere
+◆  Dark Mode support
+
+
+
+
+Text Editor+:
+
+
+• You can subscribe to unlock dark mode and unlimited usage.
+
+• Subscription auto-renew at the end of current period, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
+
+
+Terms of use: https://tapuniverse.com/terms/
+
+Privacy policy: https://tapuniverse.com/policy/",2019-10-18T07:00:00Z,2024-12-23T12:34:50Z
+ug,Uganda,Developer Tools,6026,21,1049254261,Textastic Code Editor,Alexander Blach,https://apps.apple.com/ug/app/textastic-code-editor/id1049254261?uo=4,0.0,0,0,Developer Tools,"Textastic is a comprehensive and versatile text and code editor for iPad and iPhone. It supports syntax highlighting of more than 80 programming and markup languages. Connect to SFTP, FTP, and WebDAV servers or to your Dropbox account. Use the built-in SSH terminal to work directly on your server.
+
+FEATURES:
+• Syntax highlighting of more than 80 languages: HTML, JavaScript, CSS, C++, Swift, Objective-C, Rust, XML, Markdown, PHP, Perl, Python, Ruby, Lua, YAML, JSON, SQL, shell scripts, and many more (full list available on the website) 
+• Compatible with Sublime Text 3 and TextMate 1 syntax definitions and themes 
+• Code completion for HTML, CSS, JavaScript, C, Objective-C, and PHP
+• SFTP (SSH connection), FTP, FTPS (FTP over SSL), WebDAV and Dropbox clients
+• SSH terminal connections
+• Code formatter for HTML, CSS, JavaScript, and JSON
+• Git repositories from the Git client app Working Copy can be opened as external folders in Textastic
+• Emmet support
+• JavaScript console
+• iCloud Drive file synchronization
+• WebDAV server to easily transfer files from your Mac or PC over Wi-Fi.
+• Symbol list to quickly navigate in a file 
+• Full support for external keyboards, trackpads, and mice
+• Configurable keyboard shortcuts
+• Displays additional keys over the virtual keyboard to make it easy to type characters often used for programming 
+• Cursor navigation wheel for easy text selection
+• Easily move the cursor using swipe gestures
+• Split View and Slide Over multitasking on iPad
+• Open multiple files in tabs
+• Multiple Windows on iPadOS
+• Support for Dark Mode
+• Supports most encodings like UTF-8, UTF-16, and ISO-8859-1
+• Supports different tab widths and soft tabs (spaces instead of tabs) 
+• Custom fonts
+• Find & Replace (including regular expression search)
+• Find in multiple files
+• File information like character count and word count 
+• Local and remote web preview for HTML and Markdown files 
+
+To unlock all features, activate Textastic Pro through a yearly or monthly subscription (includes a 7-day FREE trial) or with a one-time purchase.
+
+Privacy Policy: https://www.textasticapp.com/privacy.html
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2016-03-12T09:33:30Z,2025-10-29T08:40:07Z
+ug,Uganda,Developer Tools,6026,22,6503167083,WIFI Analyzer - DNS Speed Test,Phan Nhut,https://apps.apple.com/ug/app/wifi-analyzer-dns-speed-test/id6503167083?uo=4,0.0,5,1,Developer Tools,"WIFI Analyzer - DNS SpeedTest (also known as Net Analyzer - Network Scanner) is an easy-to-use tool for checking and analyzing your network. This app provides all the essential features like traceroute, port scanner, Wake-on-LAN, and Bluetooth Finder.
+
+Key Features:
+
+• Network Information:
+→ See details about your current network, including SSID, BSSID, IP address, subnet mask, gateway, external IP address, DNS servers, and more.
+
+• DNS Speed Test (supports DoH and DoT):
+→ Measures and compares the response times of different DNS servers.
+→ Helps you find the fastest server for better network performance.
+
+• Speed Checker:
+→ Measures your network’s upload and download speeds.
+→ Shows your connection’s performance in real time.
+
+• Bonjour Service Browser:
+→ Lists all Bonjour services on your wireless network.
+
+• Wake-on-LAN:
+→ Wake up devices on your network.
+→ Can remember MAC addresses for easier device management.
+
+• LAN Scanner:
+→ Scan your local network (LAN) to find all connected devices.
+
+• Ping Test:
+→ Measures the round-trip time (RTT) to any website or IP address.
+
+• DNS Lookup (supports DoH and DoT):
+→ Look up domain names to find their IP addresses.
+→ Shows detailed DNS records like SOA, A, AAAA, MX, NS, TXT, NAPTR, CAA, and more.
+
+• Port Scanner:
+→ Check any website or IP address for open ports.
+
+• Traceroute:
+→ Trace the route packets take to reach a destination.
+→ Helps identify network bottlenecks and latency issues.
+
+• Bluetooth Scanner:
+→ Discover nearby Bluetooth devices.
+→ See details like device name, signal strength, distance, RSSI, and more.
+
+• iOS 14 Home Widget:
+→ Use a widget to see network information directly on your Home Screen.
+
+• Thank you for choosing our app!",2024-06-24T07:00:00Z,2025-11-16T00:24:03Z
+ug,Uganda,Developer Tools,6026,23,1038574481,Kodex,Bruno Philipe Resende Silva,https://apps.apple.com/ug/app/kodex/id1038574481?uo=4,0.0,0,0,Developer Tools,"Kodex is an advanced code editor which brings powerful and desktop-class editor features to your iPad or iPhone:
+
+* Multi-caret editing, to quickly transform code selections.
+* Regex search and replace, with template matching and replace-all-matches.
+* Minimap which allows quick scroll navigation though the document.
+* Multiple window support
+* Syntax highlighting for over 150 languages.
+* Trackpad support with custom gestures to add cursors (ctrl+shift+click).
+* Auto complete feature (currently only for HTML).
+* Add as many guide columns as you wish (default 80 and 120 characters).
+* Configurable tab size (default 4 spaces), or insert spaces when pressing tab.
+* Draw hints for invisible characters such as new lines, tabs, and spaces.
+* Customizable key bindings, so you can configure Kodex to use the same key combos you are already used to.
+* Kodex smartly preserves your open documents so that your work stays as you left it between launches.
+* Light and Dark modes.
+
+Kodex is integrated with the Files app, so you can easily open files from any other app, and from your iCloud documents folder.
+
+You can launch Kodex QuickEdit from any file sharing view in any app to edit its contents without launching the main Kodex App (be aware this functionality depends on the host app implementing the sharing activity properly).
+
+Included are 10 editor themes, and several monospaced fonts for code editing (you can install your own preferred fonts using system profiles). Font size and line spacing are adjustable, so you can configure Kodex to best fit your preferred screen size, arrangement, and orientation.
+
+Kodex is not a compiler, and you can not build or run the code you edit from it. Think of Kodex as a NotePad++ or Sublime Text substitute for iPhone and iPad.
+
+Kodex is currently optimized for external keyboards, such as Apple's Smart Keyboard for the iPad Pro, or any bluetooth/USB keyboard. More virtual keyboard features will be added in a future version.",2018-03-19T21:26:05Z,2024-04-01T20:38:40Z
+ug,Uganda,Developer Tools,6026,24,1514942957,CodeMaster - Mobile Coding IDE,"Shanghai Dazhuo Information Technology Co., Ltd.",https://apps.apple.com/ug/app/codemaster-mobile-coding-ide/id1514942957?uo=4,0.0,4.33333,3,Developer Tools,"""CodeMaster"" is a powerful mobile code tool that integrates code viewing, editing, compiling, deploying and server management. Suitable for iPhone, iPad and iPod touch, it is a must-have tool for programmers and IT practitioners.
+
+Features:
+
+• Supports online compilation and running of more than 40 codes.
+
+• Front-end debugging: Supports front-end developers to use browser debuggers for web debugging.
+
+• GitHub integration: Supports browsing resources on GitHub through the GitHub API.
+
+• File transfer and management: Supports SFTP, SSH, various code previews and editing, zip, gz, tgz, tar code package decompression and viewing. Cross-device file transfer via WiFi can easily transfer files from computers and mobile phones to the ""working directory"".
+
+• WebDAV support: Supports file management via WebDAV, and manages files in the ""working directory"" like using a mobile hard drive.
+
+• File download and web crawling: Supports remote file download and viewing, and if you enter a URL, it will crawl the web page source code.
+
+• File editing and storage: Open code files in any APP on your phone or open code files on iCloud for editing and saving. Store the edited code in the database and add comments for version control, record, query and backup any changes.
+• Code export and sharing: Export or share the written code to anywhere, such as iCloud, printer, other APP or friends.
+• Code highlighting: Highlight code in more than 100 languages.
+• Automatic code type recognition: Automatically recognize the code type and open the corresponding editor to highlight the code.
+• Theme and function customization: Provide dozens of theme styles, preview and select the theme you like. More than 60 function menu custom configurations (such as saving edits to the database, code folding, code query, search, replace, etc.).
+• Multi-language mode: Supports a powerful composable language mode system, which can write HTML, CSS, JS, PHP, etc. on one page at the same time.
+• Code auto-completion: For example, automatically complete tags, brackets, double quotes, etc.
+• Custom editor properties: such as displaying line numbers, code folding, code read-only, tag matching and other operations.
+• Code mixed prompts: For example, HTML, CSS, JS, etc. can be mixed in files.
+• Custom code hints: You can add content that needs to be reminded, such as uncommon tags, text content, etc.
+• Automatic code segmentation: When you open a code file, high-quality segmentation is automatically performed on the code. When you enter the code, the input content will automatically match the segmented content, which shortens the input time.
+
+Extended support functions:
+
+• Document support: Not only supports opening code files, but also supports almost all files on mobile devices, supports opening most document files, such as Office series files PPT, PDF, DOC, etc.
+
+►Unlimited access membership subscription
+- With this subscription, you can access all features in the application without restrictions.
+- Subscriptions are charged monthly or annually, depending on the selected subscription plan.
+- When you confirm the purchase, your iTunes account will be deducted.
+- You can turn off auto-renewal within 24 hours before the end of the current subscription, otherwise it will be automatically renewed.
+- The subscription fee will be deducted from your account 24 hours before the end of the current subscription, depending on the package you choose.
+
+Privacy Policy: http://www.dazhuogroup.com/codemaster/privacy_statement_en.php
+Terms of Use: http://www.dazhuogroup.com/codemaster/terms_of_use_en.php
+If you have any questions or concerns, please go to http://www.dazhuogroup.com/codemaster/
+and use our customer support email feedback",2020-08-07T07:00:00Z,2024-07-22T18:02:00Z
+ug,Uganda,Developer Tools,6026,25,1567050762,Thermals,George Garside,https://apps.apple.com/ug/app/thermals/id1567050762?uo=4,0.0,0,0,Developer Tools,"Phone running slowly, charging slowly or low brightness? See if your device is overheating using Thermals.
+
+Thermals displays your device’s thermal state, as well as how many processors are active on your device and its uptime, as reported by iOS.
+
+Thermals helps troubleshoot:
+• Poor performance — iOS reduces processor speed and potentially disables processors temporarily when the device is hot.
+• Slow charging — battery charging causes a lot of heat and iOS can limit charging speed to reduce the additional heat that might make a device too hot.
+• Low maximum brightness — if your device screen stays dark despite being on full brightness, it could be limited by iOS due to heat.
+• Manufacturing defects — if not all processors are active when the device is cool and not in low power mode.
+
+Your device's thermal state is monitored regularly in the background and recorded in the app (if Background App Refresh is enabled). Open the app or tap the widget to record a data point manually.
+
+Export the raw data to file for corroboration with Screen Time, Xcode's Instruments, or other development tools.
+
+Also an independent Apple Watch app shows the thermal status, active processors and uptime, and thermal history of your watch.",2022-12-28T08:00:00Z,2022-12-28T11:05:25Z

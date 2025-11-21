@@ -1,0 +1,941 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+th,Thailand,Finance,6015,1,1324902182,เป๋าตัง,Krung Thai Bank,https://apps.apple.com/th/app/%E0%B9%80%E0%B8%9B-%E0%B8%B2%E0%B8%95-%E0%B8%87/id1324902182?uo=4,0.0,2.93582,59954,Finance,"เป๋าตัง ใบใหม่ ใช้งานง่าย ครอบคลุมทุกธุรกรรมการเงิน ไม่ต้องพกกระเป๋าตังรูปแบบเดิม ๆ อีกต่อไป 
+ใช้งานได้ทันทีเพียงมีบัตรประจำตัวประชาชน ก็สามารถลงทะเบียนใช้งานเป๋าตังได้ โอน เติม จ่าย กู้ (Loan) ลงทุน (ทองคำ พันธบัตร หุ้นกู้) ไร้กังวลด้วยบริการต่าง ๆ บนเป๋าตัง
+
+ฟีเจอร์ เป๋าตังเปย์
+
+- สแกนจ่ายได้ครอบคลุมทั่วไทย แถมได้ส่วนลด
+
+- เปิดบัตร Play คู่กับผูกเป๋าตังเปย์วอลเล็ต แตะจ่ายได้ครบทุกไลฟ์สไตล์
+
+- ผูกบัญชีกับเป๋าตังเปย์ วอลเล็ต ให้ทุกการเปย์ไม่มีสะดุด
+
+- โอนเงินเข้า-ออก จ่ายบิล เติมเงิน ไม่มีค่าธรรมเนียม
+
+- สิทธิพิเศษและกิจกรรม ลุ้นรับส่วนลดฟรี
+
+G Wallet ใช้สิทธิตามมาตรการกระตุ้นเศรษฐกิจ
+
+- ใช้สิทธิในโครงการและมาตรการต่างๆ จากภาครัฐ
+
+- ชำระสินค้า และบริการที่ร้านค้าถุงเงิน
+
+- โอนเงินเข้าบัญชี และโอนพร้อมเพย์
+
+-  เติมเงินมือถือ และจ่ายบิล ค่าน้ำ/ค่าไฟ และจ่ายบิลค่าปรับจราจร
+
+กระเป๋าสุขภาพ ช่วยให้บริการทางสุขภาพและการใช้สิทธิประโยชน์สําหรับคนไทย เป็นเรื่องง่ายยิ่งขึ้น
+
+- ตรวจสอบข้อมูลสิทธิฯ และเงื่อนไขการรับบริการด้านสุขภาพของตนเอง 
+
+- ตรวจสอบนัดหมาย รับแจ้งเตือนนัดหมายล่วงหน้า(กับสถานพยาบาลที่เข้าร่วม)
+
+- ยืนยันเข้ารับบริการเมื่อถึงวันนัดหมายผ่านแอปฯ ได้ง่ายๆ โดยไม่ต้องติดต่อเวชระเบียน (กับสถานพยาบาลที่เข้าร่วม)
+
+- กดใช้สิทธิเบิกค่ารักษาตามสิทธิที่ตนเองมีผ่านแอปฯ เช่น สิทธิข้าราชการ, สิทธิหลักประกันสุขภาพแห่งชาติ (เร็วๆ นี้)
+
+- รับแจ้งเตือนชําระค่ารักษาฯ เพิ่มช่องทางการชําระผ่านแอปฯ สะดวก และรวดเร็วยิ่งขึ้น
+
+- ตรวจสอบประวัติการทํารายการของตนเองย้อนหลัง เรียกดูใบเสร็จรับเงิน (กับสถานพยาบาลที่เข้าร่วม)
+
+ฟีเจอร์สำหรับวอลเล็ต สบม. เพื่อลงทุนในพันธบัตรหน่วยละบาท
+
+- ลงทุนในพันธบัตรรัฐบาล หน่วยละ 1 บาท (ขั้นต่ำ 100 บ.) รองรับผู้ใช้งานตั้งแต่ 15 ปีบริบูรณ์ขึ้นไป
+
+- ซื้อ/ขายได้ตลอด 24 ชม. ผ่านตลาดรอง (Secondary Market)
+
+-จำนำพันธบัตร และขอหนังสือค้ำประกัน (LG)
+
+ฟีเจอร์วอลเล็ต ซื้อขายหุ้นกู้  ซื้อขายง่าย ได้ทันที 24 ชั่วโมง
+
+- สะดวก ง่าย ซื้อขายหุ้นกู้ภาคเอกชนได้ทุกที่ ทุกเวลา ผ่านแอปฯ เป๋าตัง
+
+- เติมเงินเข้าวอลเล็ตง่ายๆ จากแอปฯ กรุงไทย เน็กซ์ หรือแอปฯ ต่างธนาคาร
+
+- ซื้อหุ้นกู้โดยตัดบัญชีกรุงไทยอัตโนมัติเพียงผูกบัญชีกับวอลเล็ต
+
+- แสดงข้อมูลการถือครองหุ้นกู้ ราคาซื้อ/ราคาขาย ข้อมูลดอกเบี้ย ตลอดจนภาษีหัก ณ ที่จ่าย
+
+บัญชีกรุงไทย ใช้งานง่าย ครอบคลุมธุรกรรมการเงิน
+
+- เปิดบัญชีออนไลน์ ‘เป๋ามีตัง’ และผูกบัญชีกรุงไทยผ่านแอปฯ ได้สูงสุด 3 บัญชี
+
+- โอนเงินได้ทุกบัญชีธนาคาร รวมทั้งโอนเลขพร้อมเพย์
+
+- เติมเงินง่ายทุกค่ายมือถือ รวมถึงค่าทางด่วน Easy Pass, M-Pass
+
+- จ่ายบิล ครอบคลุมทุกค่าใช้จ่าย ค่าน้ำ ค่าไฟฟ้า ค่าโทรศัพท์ ค่าบัตรเครดิต รวมถึงบิลภาครัฐ เช่น เงินกู้ กยศ. ค่าปรับจราจร
+
+- ตั้งค่าบัญชีหลักในการสแกน QR Code เพื่อโอนเงิน และชำระเงิน 
+
+- ดูสมุดบัญชีได้บนแอปฯ เป๋าตัง
+
+- รองรับบริการพิเศษ สำหรับ ลูกค้ากยศ. ในการดูข้อมูล และชำระเงิน
+
+- รองรับการสมัครแจ้งเตือนเงินเข้า-ออกผ่านไลน์ Krungthai Connext 
+
+สินเชื่อกรุงไทยใจป้ำ สมัครง่าย อนุมัติไว ได้ทุกอาชีพ เลือกระยะเวลาผ่อนชำระตามใจคุณ
+
+- วงเงินสินเชื่อสูงสุด 1,000,000 บาท
+
+- อัตราดอกเบี้ย 20-22% ต่อปี สำหรับลูกค้าที่ชำระตรงเวลา (ไม่มีค่าธรรมเนียมเพิ่มเติม)
+
+- เลือกผ่อนชำระได้ตั้งแต่ 12 - 60 เดือน
+
+- ตัวอย่างการผ่อนชำระค่างวด
+วันที่ 1 ม.ค. 66 ลูกค้าตอบรับวงเงินเชื่อ 50,000 บาท ระยะเวลาผ่อนชำระ 60 เดือน อัตราดอกเบี้ย 20% ต่อปี
+ลูกค้าต้องผ่อนชำระงวดละ 1,400 บาท (เงินต้นและดอกเบี้ย) และจำนวนเงินที่ต้องชำระทั้งหมด 76,608 บาท (เงินต้น 50,000 บาท และดอกเบี้ย 26,608 บาท)
+และกรณีลูกค้าเลือกผ่อนชำระค่างวดทุกวันที่ 25 ของเดือน ในวันที่ 25 ม.ค. 66 หักชำระค่างวดอัตโนมัติ (เงินต้นและดอกเบี้ย) เดือนที่ 1
+
+เป๋าตัง ใบใหม่ ใช้งานง่าย ตอบโจทย์ไลฟ์สไตล์ใหม่ของคนไทย
+
+
+
+- เว็ปไซต์ : www.krungthai.com
+- Facebook : https://www.facebook.com/krungthaibank
+- Contact Center : โทร. 02-111-1111
+- ท่ีอยู่ : 35 อาคารนานาเหนือ ถนนสุขุมวิท แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร ประเทศไทย 10110",2018-01-23T13:03:46Z,2025-11-10T08:25:41Z
+th,Thailand,Finance,6015,2,436753378,Krungthai NEXT,Krung Thai Bank,https://apps.apple.com/th/app/krungthai-next/id436753378?uo=4,0.0,3.39862,48849,Finance,"Krungthai NEXT is a mobile application that keeps you on top of your finances. Enjoy a smart lifestyle with our new app!
+
+Simpler, faster and more secured:
+• Register with face verification. No need to worry about forgetting your username or password!
+• Transfer, top up, pay bills, withdraw money and apply for a loan with no hassle.
+• Schedule your transactions up to 24 months in advance.
+• Personalize your home screen on Quick Menu, Favorite and Profile Picture to match your preference.
+
+Smart lifestyle:
+• Use Smart Banner to receive your payment reminders and news. This helps you avoid late fees, save time and stay ahead of the game.
+• Enable Smart Transaction to get suggested transactions, completing them faster than ever.
+• Enjoy your privileged campaigns on Smart Promotion, catering to your taste.
+
+And many more:
+• Open NEXT savings accounts with a high-interest rate.
+• Spend your Krungthai Travel Cards with the best foreign exchange rates.
+• Buy insurance and check your insurance policy anywhere and anytime.
+• Credit limit personal loan up to 1,000,000 THB
+• Interest rate 11 - 24 % annually for valued customers who always pay on the due date (No additional fee to be charged)
+• Installment plan from 12-60 months
+          Example of installment payment 
+          When customers has been approved personal loan 50,000 THB with 12 months installment plan at 11% of interest rate
+          Customer required to pay 4,500 TH per month (both initial amount and monthly interest fee) and in total customer needs to pay 52,979 THB (50,000 THB for 
+          initial amount and 2,979 THB for interest)
+• Track your KTC card usage, available balance and reward points.
+
+About Krungthai NEXT:
+• Website : www.krungthai.com 
+• Facebook : https://www.facebook.com/krungthaibank
+• Contact Center : 02-111-1111
+• Address : 35 Nana Nua Building Sukhumvit Road, Khlong Toei Nua, Watthana , Bangkok ,Thailand 10110
+
+Krungthai NEXT - Live Life to the NEXT
+Download now!",2011-05-17T03:00:18Z,2025-11-04T17:44:22Z
+th,Thailand,Finance,6015,3,663885752,TrueMoney - Pay & Earn Coins,True Money Company Limited,https://apps.apple.com/th/app/truemoney-pay-earn-coins/id663885752?uo=4,0.0,4.01704,63139,Finance,"TrueMoney is Thailand’s leading financial application for all mobile network users (AIS, Dtac, TrueMove H). Our all-in-one app lets you securely make cashless and cardless payments for all your everyday needs, including mobile top-ups, bill payments, online and offline purchases, and much more! Enrich your daily life, and enjoy exclusive promotions and discounts across a wide variety of merchants and services. Simplify your finances for more possibilities with a high yield saving account with cashback after spending, insurances, and investment in various assets. We also empower businesses of all sizes and help SME entrepreneurs to grow their business.
+
+
+Instant phone top-up
+> Top-up your TrueMove H prepaid phone numbers easily anytime, anywhere.
+> Get exclusive promotions and data packages only in the app.
+> Enjoy privileges with TrueID TV, TrueYou, TruePoints and many more partners.
+
+
+Protect all your transactions with TrueMoney Secure
+Pay with confidence knowing that your information is fully encrypted, secured, and protected. Pay with your wallet balance, or link a credit / debit card and shop at offline stores, or pay bills. Pay online with confidence as you can control payment within the amount that you top-up. No need to share your credit card or bank account numbers to others. TrueMoney also verifies to make sure that you are the one who makes transactions with face verified technology. Multiple layers of advanced security, including 24/7 real-time monitoring and world-class data encryption technology, keeps your money and data safe, and your transactions 100% secure.
+
+
+Shop at 7-Eleven and other stores without cash and pay in abroad
+> Pay hassle-free at 7-Eleven, Makro, True Coffee, and thousands of other merchants without cash. Earn TruePoints and other rewards. Enjoy special promotions from our merchant partners, with new promotions added every day.
+> Pay in abroad at over 40 destinations. No need to exchange cash. Just open TrueMoney to pay.
+
+
+Send & receive money with ease
+Securely and instantly transfer money without fees between TrueMoney and enjoy convenient features such as gift envelopes, link to pay, and reminder to return money.
+
+
+Easy top-up
+> Link a bank account for quick and secure top-ups (all major banks supported).
+> Top up via internet banking, 7-Eleven stores, Boonterm top-up machines, ATM, TrueMoney kiosks, and more.
+
+
+Note: Apple is not a sponsor, and is not, in any part, related to the promotional activity within this application.",2013-06-28T01:06:41Z,2025-10-28T08:47:58Z
+th,Thailand,Finance,6015,4,361170631,K PLUS,KASIKORNBANK PUBLIC COMPANY LIMITED,https://apps.apple.com/th/app/k-plus/id361170631?uo=4,0.0,3.58623,28042,Finance,"K PLUS ผู้นำด้านดิจิตอล แบงก์กิ้ง จากธนาคารกสิกรไทย แพลตฟอร์มที่ให้มากกว่าบริการทางการเงิน สำหรับออนไลน์ไลฟ์สไตล์ ใช้ง่าย ปลอดภัย พร้อมให้บริการสำหรับผู้ใช้อายุ 12 ปีขึ้นไป สามารถเปิด K-eSavings ผ่านแอปได้ด้วยตัวเอง หรือเข้าใช้งาน K PLUS Lobby ได้แม้ไม่มีบัญชีหรือบัตรธนาคารกสิกรไทย	
+		
+ง่ายทุกธุรกรรม
+- โอนผ่านเบอร์มือถือ พร้อมเพย์หรือ สแกน QR
+- จ่ายบิล ตั้งชำระล่วงหน้า หรือตั้งเตือนก็ได้
+- เติมเงินได้ทุกที่
+- ธุรกรรมรวดเร็วจบจากหน้าแรก แค่ตั้งรายการโปรด
+- ถอนเงินไม่ใช้บัตรผ่านตู้ K-ATM หรือ เคแบงก์เซอร์วิสใกล้คุณ
+- ดูสรุปภาพรวมบัญชี รู้ทันทุกรายรับ รายจ่าย
+- รับ Statement ผ่านทางอีเมลล์ ย้อนหลังสูงสุด 12 เดือน 
+
+จัดการบัตรเครดิตกสิกรไทย และสินเชื่อง่ายๆด้วยตัวเอง
+- เปลี่ยนวงเงินบัตรกสิกรไทยเป็นเงินสดเข้าบัญชี ผ่านบริการ K-Smart Cash แบ่งชำระสูงสุด 10 เดือน
+- เลือกแบ่งชำระรายการใช้จ่ายบัตรกสิกรไทยแบบรายเดือนผ่านบริการ K-Smart Pay
+- ล็อคและปลดล็อคบัตรเครดิตได้เองยามฉุกเฉิน
+- สมัครสินเชื่อเงินด่วน Xpress Loan และบัตรเงินด่วน Xpress Cash รู้ผลเร็วกว่า
+
+มั่นใจทุกการลงทุน
+- เปิดบัญชีซื้อ-ขายกองทุน พร้อมดูรายการเคลื่อนไหว
+- ดูสรุปภาพรวมสินทรัพย์ในหน้าเดียว
+- ลงทุนให้ถึงเป้าหมายด้วย Wealth PLUS ที่พร้อมช่วยเริ่มต้นวางแผนและดูแลปรับเปลี่ยนพอร์ทตลอดระยะเวลาลงทุน
+
+K Point พ้อยท์พันธ์ใหม่ ใช้เติมเงิน จ่ายบิล ช้อปปิ้งแทนเงินสด
+- สะสมได้ง่ายๆ แม้ไม่มีบัตรกสิกรไทยผ่านการร่วมภารกิจบน K PLUS 
+- จ่ายบิล/เติมเงิน แลกของรางวัล หรือแลกเครดิตเงินคืน
+- ช้อปปิ้งสินค้าและดีลหลากหลายบน K+ market
+- โอน K Point ไปเป็นคะแนนสะสม The 1, AIS Points, Blue Point หรือ TruePoint 
+
+เชื่อมต่อหลากแพลตฟอร์ม
+- บริการครบวงจร สะดวกทุกที่ ยืนยันตัวตน ฝาก-ถอน ได้ที่ร้านค้าพันธมิตรเคแบงก์เซอร์วิสทั่วประเทศ
+- เพิ่มบัตรสมาชิกแบรนด์ชั้นนำ พร้อมตรวจสอบคะแนนได้ทุกที่
+เติม จ่าย สะดวกครบ ไม่ต้องกรอกเลข เพียงเลือกจ่ายด้วย K PLUS
+
+
+K PLUS – the leading digital banking from KASIKORNBANK. The platform that offers variety services to enhance your online lifestyle. Ready to use for all users age 12 and above. Open K-savings by yourself on the application or simply join K PLUS Lobby, no need to be a KBank account or card holders.
+
+Make your daily banking transactions easy.
+- Faster transfer via mobile number, Prompt Pay, or scan QR code.
+- Pay your bills conveniently. Schedule payments in advance or create payment reminders.
+- Top up your daily use services on the go.
+- Make faster transactions from home page, just set up your favorite list.
+- Cardless cash withdrawal from K-ATM or KBank Service nearby
+- Display income and expenses summaries of all your accounts.
+- Request your statement up to previous 12 months and receive it instantly in your mailbox.
+
+Conveniently manage your KBank Credit Cards and Loans.
+- Transfer your KBank Credit Card limit to your deposit account via KBank Smart Cash service. Repay in installments of up to 10 months.
+- Turn any unbilled KBank Credit Card or Xpress Cash spending into monthly installments via K-Smart Pay service.
+- Instantly block and unblock your credit card anytime. for your own safety.
+- Apply for Xpress Loan and Xpress Cash on K PLUS. Get faster results.
+
+Secure your investments.
+- Open an account, purchase mutual funds, and monitor portfolio movements.
+- See the overview of your assets in one stop.
+- Optimize your investment towards selected goals with Wealth PLUS. Help building your plan and automatically manage your portfolio.
+
+K Point—the new reward points—redeemable for top up, bill payments, or shopping.
+- Enjoy fun missions on K PLUS to collect your points. No need to be a credit card holder.
+- Make bill payments, top ups, or simply get cash rebates.
+- Redeem your favorite items and deals on K+ market.
+- Transfer K Point to partnered membership program—The 1, AIS Points, Blue Point or TruePoint
+
+Connected across platforms, enhance every lifestyles.
+- Conveniently verify your identity, make deposits or withdraw money from KBank Service partners.
+- Add member cards and check your points on the go.
+- Seamlessly top up or pay bills just select K PLUS as your payment option.",2010-03-27T01:05:05Z,2025-11-18T05:16:13Z
+th,Thailand,Finance,6015,5,908669202,ShopeePay: No.1 Mobile Wallet,MONEE PAYMENT HOLDING PRIVATE LIMITED,https://apps.apple.com/th/app/shopeepay-no-1-mobile-wallet/id908669202?uo=4,0.0,4.76783,242884,Finance,"New Feature: Scan to Pay with SPayLater
+Pay later via PromptPay QR with 0% interest or flexible installments up to 12 months
+Quick activation and enjoy attractive promotions when using SPayLater
+*Use credit responsibly. Interest of 15%–25% p.a. applies for late repayment
+
+ShopeePay – Thailand's leading Mobile Wallet with the most secured, smart and simple payment to your cashless lifestyle. Bringing you nationwide privileges from leading online and offline merchants to your smartphone.
+
+Pay Everything with ShopeePay 
+Game credits, mobile top-up, bills payment, movie tickets, online shopping, travel booking, and other lifestyle services within one app.
+
+Pay Cheaper on Shopee!
+Get exclusive deals, free shipping vouchers and extra Shopee Coins when paying with ShopeePay on Shopee.
+
+Pay QR Code Easily at Merchants Nationwide
+Scan QR Code at leading merchant in Thailand, simplify your daily life with cashless payment.
+
+Secured and Convenient Payment
+Pay confidently with our secured and protected payment system integrated with bank, making your transaction 100% secure.
+
+Download now to enjoy ShoeePay!
+Website: https://shopeepay.co.th
+Facebook: http://www.facebook.com/ShopeePayTH
+Instagram: @shopeepay_th
+TikTok: @shopeepay_th",2014-11-12T12:23:21Z,2025-11-17T04:20:28Z
+th,Thailand,Finance,6015,6,1360191902,ถุงเงิน,Krung Thai Bank,https://apps.apple.com/th/app/%E0%B8%96-%E0%B8%87%E0%B9%80%E0%B8%87-%E0%B8%99/id1360191902?uo=4,0.0,3.24883,2138,Finance,"เครื่องมือให้ร้านค้าเป็นส่วนหนึ่งในการช่วยเหลือลูกค้ายามวิกฤต
+
+- รับ! หลากหลายช่องทาง ทั้ง G-Wallet ในแอปพลิเคชันเป๋าตัง, บัตรสวัสดิการแห่งรัฐ และ QR PromptPay
+- รวย! เพิ่มโอกาสทางการขาย รวมถึงลูกค้าโครงการภาครัฐ ไม่ว่าจะเป็น คนละครึ่ง, ยิ่งใช้ยิ่งได้ และ เพิ่มกำลังซื้อ 
+- เร็ว! แจ้งเตือนทุกการรับชำระเงินทันที บนแอปพลิเคชัน
+- แสดงยอดขาย รายการวันนี้, สรุปยอดย้อนหลังเป็นรายวัน/รายเดือน
+
+ถุงเงิน คู่ใจร้านค้า แอปฯ เดียว ที่ตอบโจทย์เรื่องการรับชำระค่าสินค้าและบริการ โดยไม่ใช้เงินสด ไม่ต้องกังวลเรื่องเงินทอน ไม่ต้องจับเงินสด มั่นใจ ปลอดภัย กับช่วง New Normal
+
+ช่องทางการสมัคร
+- ลงทะเบียนร้านค้าผ่านเว็บไซต์ www.ถุงเงินกรุงไทย.com
+
+สอบถามรายละเอียดเพิ่มเติมได้ที่ Call Center ธนาคารกรุงไทย โทร. 02-111-1122",2018-07-30T17:42:16Z,2025-11-09T06:38:39Z
+th,Thailand,Finance,6015,7,987047466,MyMo By GSB Mobile Banking,Government Savings Bank,https://apps.apple.com/th/app/mymo-by-gsb-mobile-banking/id987047466?uo=4,0.0,2.75554,19271,Finance,"MyMo by GSB is a mobile banking application from Government Savings Bank of Thailand. MyMo makes your banking simple and keeps you on top of your finance 24/7.
+ 
+Every transaction made simple
+-Bank transfer and bill payment
+-Cardless cash withdrawal
+-View account details and complete transaction history
+-Easily search and repeat transactions
+ 
+Save, invest and manage your money
+-Use #Tags to summarize your income and expense
+-Save and have fun with Digital Salak
+-Invest in mutual funds with MyFund
+-Stay protected with accident and travel insurance
+ 
+Secure and reliable
+-Get notifications for all account activities
+-Verify e-slip by simply scanning a QR code
+ 
+For more information, please contact 1143.",2015-04-26T08:52:46Z,2025-11-20T07:00:43Z
+th,Thailand,Finance,6015,8,568388474,SCB EASY,The Siam Commercial Bank PCL,https://apps.apple.com/th/app/scb-easy/id568388474?uo=4,0.0,3.38787,23562,Finance,"About Easy App: The first banking application in Thailand offering more than just an ordinary transaction. Over 12 million people manage their finances through the app. You can do basic financial activities like transfer money to friends and family, pay your bills, top-up your mobile phones. The new app also offers these useful features: 
+• Customize your home screen: for optimal usage, customize your home screen display with frequent transactions fitting your needs
+• Cardless ATM: clicks away from cash withdrawals with the new Cardless ATM menu 
+• Lifestyle ready: a contemporary lifestyle menu includes restaurant recommendations, movie ticket, and Easy Bonus, a new rewards program offering privileges all-year-round
+• Fingerprint recognition: access the service with the touch of your finger with the fingerprint recognition log-in option 
+• Adjustable daily transfer limit: flexible option to raise your daily transfer limit to a higher amount and vice versa",2012-10-24T21:54:06Z,2025-10-24T16:03:34Z
+th,Thailand,Finance,6015,9,1612798502,Dime!  เงินฝาก หุ้น กองทุน ทอง,KKP DIME COMPANY LIMITED,https://apps.apple.com/th/app/dime-%E0%B9%80%E0%B8%87-%E0%B8%99%E0%B8%9D%E0%B8%B2%E0%B8%81-%E0%B8%AB-%E0%B8%99-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%97-%E0%B8%99-%E0%B8%97%E0%B8%AD%E0%B8%87/id1612798502?uo=4,0.0,3.96165,3155,Finance,"Dime! Finance for All
+
+High-Interest Savings Account
+
+Save your THB cash in our Dime! Save savings account and earn up to 3% interest or save your USD cash in our Dime! FCD foreign currency deposit account and earn up to 5% interest. Transact anytime, anywhere. No minimum. Interest rates and conditions are subject to KKP Bank's announcement.
+
+ 
+US Stocks
+
+Invest in your favorite US stock, starting at 50 THB. No exchange fees. No transfer fees. No W-8BEN filing expenses. Save your trading cost with our new Dime! Fan package, starting at 39 THB - no commission for five trades of each month.
+
+ 
+Thai Stocks
+
+New trading experience for both beginners and professionals. No need to transfer funds between accounts as your savings account is now your payment account. Simple. Smooth. Seamless.
+
+ 
+Mutual Funds
+
+Achieve your investment goals with more than 1,700 mutual funds from 20 asset management companies. Get your money from selling mutual funds back faster.
+
+ 
+Gold
+
+Invest in premium-grade 99.99% gold with Dime! trusted partners, starting at 100 THB or 2.50 USD. Trade anytime from 07:00 AM to 03:00 AM with real-time global market prices. No fees charged.
+
+ 
+Corporate Bonds
+
+Invest in our quality bonds carefully selected and offered by Kiatnakin Phatra Securities. Smooth and simple experience, even for beginners.
+
+ 
+Investment Tools
+
+Keep up with the latest investment trends and popular stocks or mutual funds with our Trending Lists. Digest your portfolio overview, performance, and diversification at a glance with Dime! Analytics.",2022-04-27T07:00:00Z,2025-11-07T01:40:04Z
+th,Thailand,Finance,6015,10,660238716,Bangkok Bank Mobile Banking,Bangkok Bank Public Company Limited,https://apps.apple.com/th/app/bangkok-bank-mobile-banking/id660238716?uo=4,0.0,2.89783,14035,Finance,"With the Bangkok Bank Mobile Banking app, your banking transactions are more convenient with these features:
+
+• View all types of deposits, credit cards, mutual funds, government bonds and Bualuang loan accounts
+• Request Thai baht and FCD account statements
+• Open an e-Savings account
+• Make cardless withdrawals at Bangkok Bank and KBank ATM and Banking Agents (7-Eleven, Thailand Post offices, Sabuy Counter and TermDee kiosk)
+• Invest in mutual funds, government bonds and corporate debentures
+• Make a Bualuang home loan payment and request the Bank to submit housing loan information to the Revenue Department for a convenient tax deduction claim
+• Add a Foreign Currency Deposit Account (FCD) and transfer funds to your own FCD account
+• Make an international funds transfer via SWIFT with 18 currencies for 135 countries
+• Make an international funds transfer to Singapore via PromptPay International
+• Send and receive money to or from more than 200 countries via Western Union
+• Apply for Be Together Smart Return 789 savings insurance from AIA. 
+• Buy travel insurance
+• Check the balance of and top up your Rabbit LINE Pay and view BTS trip history
+• Apply for and manage the following banking services:
+- Request and activate a debit card
+- Apply for a Bangkok Bank Credit Card – choose the card that fits your lifestyle then upload the relevant documents and check your approval status in the app 
+- Request to open a Securities Trading Account with Bualuang Securities
+- Register for direct debit service
+- Register/edit/deregister with PromptPay
+- Suspend debit card/credit card
+- Renew debit card
+- Request a Bualuang Home Loan
+- Request a Credit Bureau Report
+- Lock and Unlock accounts to prevent transfers, top ups and payments
+• QuickPay – scan to pay merchants without a mobile PIN
+• Scan a QR Code for payment with a Widget
+• Change your registered mobile number/email
+
+
+How to apply:
+For customers without a Bangkok Bank account
+• Open an e-Savings account and apply for mobile banking services in the app
+
+
+For customers with a Bangkok Bank account
+• Download the application and apply with your Bangkok Bank deposit account, debit card or credit card.
+• Visit any Bangkok Bank ATM or branch to get a temporary PIN to log in to the application.
+
+For further assistance please call 1333 or (66) 0-2645-5555 or visit www.bangkokbank.com/mobilebanking
+Head Office: 333 Silom Road, Silom, Bang Rak, Bangkok 10500
+
+Disclaimer: The use of this application is for prospective customers and customers of Bangkok Bank only and this application shall not be used for any illegal purpose.",2013-12-18T17:48:00Z,2025-11-19T03:01:36Z
+th,Thailand,Finance,6015,11,1622961294,CardX,CARD X COMPANY LIMITED,https://apps.apple.com/th/app/cardx/id1622961294?uo=4,0.0,2.38423,1382,Finance,"บริการบัตรเครดิตและสินเชื่อถูกกฎหมาย
+
+บัตรเครดิต CardX รูดรับคุ้มทุกวัน พร้อมใช้งานบนแอป CardX แล้ววันนี้!
+บัตรกดเงินสด CardX SPEEDY CASH เงินสดพร้อมใช้
+สินเชื่อบุคคล CardX SPEEDY LOAN เงินก้อนลงทุน
+
+รวมบริการออนไลน์ในแอปเดียว
+•สมัครอะไรก็ง่าย รู้ผลอนุมัติไว
+•โปรมาไม่มีพลาด กดรับง่ายในคลิกเดียว
+•บัตรเครดิตรูดแล้วผ่อนได้0%นาน4เดือน*
+•วงเงินขอเพิ่มได้ ปรับลิมิตเองได้ ใช้จ่ายปลอดภัย
+•เปลี่ยนวงเงินเป็นเงินสดโอนเข้าบัญชี สำหรับบัตรเครดิต CardX และบัตรกดเงินสด CardX SPEEDY CASH
+•กดเงินไม่ใช้บัตร
+•เช็กยอดผ่าน e-Statement
+•เลือกวิธีจ่ายบิลเองได้
+•ตั้งรหัส PIN ใหม่ เพื่อความสะดวกในการกดเงินสดที่ตู้ ATM ของ SCB
+
+สำหรับลูกค้าบัตรเครดิต CardX/SCB ยังสามารถใช้บัตรเครดิตใบเดิมโดยใช้บริการผ่านแอป SCB EASY ได้ตามปกติ
+
+•CardX Contact Center โทร.1468
+•LINE: @CardXThailand
+•เว็บไซต์: cardx.co.th
+•Facebook: CardX Thailand
+บริษัท คาร์ด เอกซ์ จำกัด 9 ถนนรัชดาภิเษก แขวงจตุจักร เขตจตุจักร กรุงเทพฯ 10900
+
+บัตรเครดิต CardX
+บัตรเครดิต CardX เป็นบัตรเครดิตที่บริษัท คาร์ด เอกซ์ จํากัด ออกให้เพื่อใช้ชําระค่าสินค้าและบริการแทนการชําระด้วยเงินสด ณ ร้านค้า หรือสถานบริการทั่วประเทศ และทั่วโลกที่มีสัญลักษณ์ VISA หรือ MASTERCARD หรือ JCB (ขึ้นอยู่กับประเภทบัตร) และเพื่อเบิกถอนเงินสดล่วงหน้า (ภายในวงเงินที่ได้รับอนุมัติจากบริษัท) โดยมีระยะเวลาการชําระคืนโดยปลอดดอกเบี้ยสูงสุด51วัน นับจากวันสรุปยอดรายการ หากชําระเต็มจํานวนตามวันครบกําหนดจะไม่มีดอกเบี้ยเรียกเก็บ กรณีเบิกถอนเงินสดล่วงหน้า คิดดอกเบี้ยตั้งแต่วันที่เบิกถอนเงินสด และมีค่าธรรมเนียมเบิกถอนเงินสดล่วงหน้า และไม่มีระยะเวลาปลอดดอกเบี้ย
+•วงเงินสูงสุดไม่เกิน5เท่าของรายได้เฉลี่ยต่อเดือน หรือกระแสเงินสดหมุนเวียนเฉลี่ยในบัญชีเงินฝาก หรือไม่เกิน10%ของยอดเงินฝากประจำ หรือเงินฝากออมทรัพย์ หรือมูลค่าเงินลงทุนในตราสารแสดงสิทธิในหนี้ และกองทุนรวม ทั้งนี้เป็นไปตามประกาศของธนาคารแห่งประเทศไทย
+•อัตราดอกเบี้ย16%ต่อปี
+•อัตราการผ่อนชำระคืนขั้นต่ำ8%ของยอดเงินที่ต้องชำระตามใบแจ้งยอดรายการบัตรเครดิตในแต่ละเดือน (พ.ศ.2568)/10%ของยอดเงินที่ต้องชำระตามใบแจ้งยอดรายการบัตรเครดิตในแต่ละเดือน แต่ไม่ต่ำกว่า500บาท แล้วแต่จำนวนใดจะสูงกว่า(พ.ศ.2569เป็นต้นไป)
+•ค่าธรรมเนียมเบิกถอนเงินสด3%ของจำนวนเงินสดที่เบิกถอนและภาษีมูลค่าเพิ่ม7%
+
+บัตรกดเงินสด CardX SPEEDY CASH
+•วงเงินสูงสุด5แสนบาท หรือไม่เกิน3.5เท่าของรายได้ต่อเดือน
+•ชําระขั้นตํ่า3%ของยอดเงินที่เรียกเก็บแต่ไม่ตํ่ากว่า100บาท กรณียอดหนี้และดอกเบี้ยน้อยกว่า100บาท จะเรียกเก็บตามที่เกิดขึ้นจริงบวกด้วยยอดที่ผ่อนชําระค่าสินค้าและบริการ หรือชําระเต็มจํานวนตามยอดเงินที่เรียกเก็บ(Repayment Term)
+•ผ่อนชําระสินค้าและบริการ0%นานสูงสุด36เดือนกับร้านค้าที่ร่วมรายการ(Period of Repayment)
+•อัตราดอกเบี้ยปกติ(Effective Rate)25%ต่อปี
+•คิดอัตราดอกเบี้ยแบบลดต้นลดดอก(Effective Rate)
+•คิดอัตราดอกเบี้ยเป็นรายวันตามปีปฏิทิน ทั้งนี้ไม่เกินอัตราดอกเบี้ยที่ธนาคารแห่งประเทศไทยกำหนด
+
+ตัวอย่างการคํานวณดอกเบี้ยบัตรกดเงินสด CardX SPEEDY CASH
+•วันที่เกิดรายการ30พ.ค.67 เป็นจำนวนเงิน5,000บาท
+•สรุปยอดบัญชี5มิ.ย.67
+•อัตราดอกเบี้ยที่ลูกค้าได้รับ25%ต่อปี
+•คิดดอกเบี้ย ตั้งแต่วันที่เกิดรายการ–วันที่สรุปยอดบัญชี=7วัน
+•ปี2567 มี366วัน
+•ดอกเบี้ย(5,000x25%x7)/366=23.90บาท
+
+สินเชื่อบุคคล CardX SPEEDY LOAN
+•วงเงินสูงสุด5แสนบาท หรือไม่เกิน3.5เท่าของรายได้ต่อเดือน
+•อัตราดอกเบี้ยต่อปีสูงสุด(Effective Rate)25%ต่อปี
+•คิดอัตราดอกเบี้ยแบบลดต้นลดดอก(Effective Rate)
+•คิดอัตราดอกเบี้ยเป็นรายวันตามปีปฏิทิน ทั้งนี้ไม่เกินอัตราดอกเบี้ยที่ธนาคารแห่งประเทศไทยกำหนด
+
+ตัวอย่างการคํานวณดอกเบี้ยสินเชื่อบุคคล CardX SPEEDY LOAN
+•วันที่อนุมัติ16 มิ.ย. เป็นจำนวนเงิน100,000บาท
+•ชำระค่างวดทุกวันที่16ของทุกเดือน
+•ผ่อนชำระ12งวด งวดละ9,510บาท
+•อัตราดอกเบี้ยที่ลูกค้าได้รับ25%ต่อปี
+•คิดดอกเบี้ยตามจำนวนวันของแต่ละงวด โดยนับตั้งแต่วันที่ชำระงวดก่อนจนถึงวันก่อนวันที่ชำระ(เฉพาะงวดชำระแรก ยกเว้นการคิดดอกเบี้ย5วันแรกนับจากวันที่ได้รับอนุมัติสินเชื่อ)
+•ดอกเบี้ย(100,000x25%x31)/365=2,123.29บาท
+
+ใช้เท่าที่จำเป็นและชำระคืนได้เต็มจำนวนตามกำหนด จะได้ไม่เสียดอกเบี้ย 16% ต่อปี
+กู้เท่าที่จำเป็นและชำระคืนไหว อัตราดอกเบี้ย 25% ต่อปี
+เงื่อนไขเป็นไปตามที่บริษัทกำหนด ดูเพิ่มเติมที่ cardx.co.th",2022-12-23T08:00:00Z,2025-11-20T19:37:55Z
+th,Thailand,Finance,6015,12,571873195,krungsri,Bank of Ayudhya Public Company Limited,https://apps.apple.com/th/app/krungsri/id571873195?uo=4,0.0,2.80663,11579,Finance,"Welcome to krungsri app, the latest mobile banking service that simplifies all your financial needs. Whether you're looking to open a savings account, apply for loans, a credit card, or manage your mutual funds, krungsri app has got you covered. It is user-friendly, convenient, and more secure than ever, allowing you to effortlessly monitor your financial transactions and improve your money management.
+
+You can apply immediately through the app and receive Krungsri GIFT for year-round discounts at various delicious food and drinks outlets when you use the app in accordance with the terms and conditions.
+
+Manage all your finances with ease and convenience, now simpler than ever before
+
+• Access the new Quick Menu on the home screen for fast and convenient shortcuts for Transfer, Pay Bill, Top Up and Scan 
+• Stay up-to-date with the latest transactions, privileges, and news through easily accessible categorized notifications 
+• Customize your home screen to your unique preference by managing widgets for Quick Balance, Favorites, and Quick Menu
+• Change Background to fit your own personal lifestyle.
+• Request an online statement that is available for up to the past 12 months
+• Get all your needs fulfilled with features such as cardless withdrawal, managing favorites, scheduling transfers or bill payments, making international transfers, scanning for QR cross-border payments, and much more.
+
+Your One-Stop Banking Solution
+
+• Track your income and expenses visually through your new summary dashboard combining assets, loans and insurance
+• Manage and view your account information for deposits, loans, mutual funds, credit cards, debenture/ equity, and Krungsri Auto within just a few clicks
+• Easily and instantly apply for a variety of services, including e-Savings accounts, credit cards, Krungsri iFin, Krungsri Car4Cash, and insurance
+• Apply for Krungsri Boarding Card to enjoy special rates for all your spending needs, both in stores across the globe and online. Plus, you can lock in favorable exchange rates in advance through the app
+• Krungsri iFIN offers a maximum credit limit of 2 million baht, which is up to 5 times the applicant's income. The normal effective interest rate ranges from 21% to 25% per year, and the payment term from 12 to 60 months. Example: The installment of approval credit line 30,000 Baht with 24 months repayment term and 25% interest rate charge is 1,602 bath per month (including principal and interest). In the case of completing a 24-month installment contract, the total principal amount is 30,000 baht and the total interest is 8,422 baht, resulting in a total payment of 38,422 baht over the contract period. Remark: Estimated interest rate charge. The total interest rate charged will depend on repayment behavior of each customer.
+
+Secure and restrict access exclusively for you:
+
+• Utilize Biometric Technology to verify your identity, ensuring maximum security when opening an account, making high-value transactions, unlocking OTP/ PIN, and changing your phone number
+• Implement security protection to detect Remote Access and Root/Jailbreak on the operating system. If either is detected, access to our app will not be authorized.
+• Prevent unauthorized access and maintain privacy by using User's Face ID/Touch ID or a 6-digit PIN password log-in
+
+Getting Started 
+Download krungsri mobile app and register through the application today. For more information, please contact Krungsri Call Center at 1572 or visit the website www.krungsri.com",2012-11-20T13:25:07Z,2025-11-11T03:00:05Z
+th,Thailand,Finance,6015,13,884079963,ttb touch,TMBThanachart Bank Public Company Limited,https://apps.apple.com/th/app/ttb-touch/id884079963?uo=4,0.0,3.59079,26395,Finance,"ttb touch ใหม่ แอปธนาคารแรกที่พร้อมปรับเปลี่ยนและเรียนรู้เพื่อรู้จักคุณให้มากขึ้น  ให้เข้ากับทุกไลฟ์สไตล์การเงิน และพร้อมเป็นทุกอย่างให้เฉพาะคุณ เพื่อคุณคนเดียว
+
+ทำธุรกรรมการเงินได้ง่ายๆ ด้วยฟังก์ชั่น 
+
+-เปิดบัญชีออนไลน์ : อยู่ที่ไหนก็เปิดบัญชีออนไลน์เองได้ บน ttb touch ใหม่  สะดวกขึ้น ยืนยันตัวตนได้ง่ายๆผ่านแอป หรือที่ 7-Eleven  ไม่เคยเป็นลูกค้า ทีทีบี มาก่อนก็เปิดบัญชีออนไลน์ได้เลย
+-Smart Search : ฟีเจอร์นี้ให้คุณหาง่ายผ่าน  โอนให้ใคร เงินเข้าเมื่อไร แค่ Search ก็เจอหมด บน ttb touch ใหม่
+-Branch on Mobile : ทำทุกอย่างได้เหมือนไปสาขา บน ttb touch ใหม่ จะขอเอกสาร หรือติดตามสถานะก็ทำได้หมด สะดวกยิ่งขึ้นเฉพาะคุณ
+-My Benefit : ลูกค้า ทีทีบี ไม่พลาดทุกสิทธิประโยชน์บน ttb touch ใหม่ รวมทุก privilege เฉพาะคุณ ที่รวมไว้ในหน้าเดียว
+-ข้อความส่วนตัว : พบกับผู้ช่วยคนใหม่ที่คอยดูแลทุกเรื่องการเงิน บน ttb touch ใหม่  บอกได้ทุกเรื่องสำคัญ เพื่อให้การเงินคุณดีขึ้นเรื่อยๆ
+-Investment : ลงทุนง่ายขึ้น เหมือนมีผู้เชี่ยวชาญคอยแนะนำ บน ttb touch ใหม่  ช่วยวิเคราะห์และคัดเลือกกองทุนที่เหมาะสมกับคุณโดยเฉพาะ
+-My Protection : มีประกันหลายกรมธรรม์ ไม่รู้ยอดวงเงินคุ้มครองทั้งหมด แล้วความคุ้มครองแค่ไหนถึงพอเหมาะกับเรา? ttb touch ใหม่ รวมให้ทุกกรมธรรม์ที่คุณมี ให้เห็นทุกความคุ้มครอง
+-My Car : ทุกเรื่องของรถของคุณ ครบจบที่เดียว ไม่ว่าจะเป็นข้อมูลสินเชื่อ หรือต้องการจะขายรถ
+
+
+
+ดาวน์โหลดแอป ทีทีบี ทัช และเปิดใช้งานได้ง่าย ๆ ด้วยรหัสเริ่มใช้งาน ,เลขบัตรเครดิตหรือบัตรเดบิตของคุณ และ เลขบัญชีสินเชื่อรถยนต์
+เพื่อให้ทีทีบี ทัช มีประสิทธิภาพในการใช้งานยิ่งขึ้น คุณสามารถแนะนำบริการหรือแจ้งปัญหาการใช้งานได้ที่ ทีทีบี คอนแทค เซ็นเตอร์ 1428
+
+
+
+
+
+
+
+
+
+New ttb touch, the first banking application which knows you more and personalized to all your financial lifestyle. This is the application designated “for you”. 
+
+
+You can complete your transaction easily with these functions; 
+-Open account online : You can open new accounts online more comfortably anywhere through ttb touch. Complete Self-authentication through the application or 7-11. Even if you have never been ttb customers before, you can open accounts online through the application. 
+-Smart Search :  No matter what or who you transfer to, get money from, or when you transfer, just ‘Search’ and you can find it all easily through the app. 
+-Branch on Mobile : You can do everything same as going to a branch through the application. Whether its documentation or following up status, it can all be done here. 
+-My Benefit :  ttb customers will not miss any privileges, the new ttb touch consolidates all your privileges for  you in one page. 
+-Personalize Messages : Meet your new assistant who will take care of all your financial transactions on the app. 
+-Investment : Invest more easily just like you invest with the expert’s recommendation. The app will help you to analyze and select the fund that especially fits you. 
+-My Protection :  ttb touch consolidates all your insurance while recommending what you need to suit your lifestyle. 
+-My Car :  All issues about your car can be completed in one stop through ttb touch, from car information, auto loans, to sell your car. 
+
+
+
+
+
+
+Please download the new ttb touch application and activate easily with activation code, Credit card or Debit card number, and/or Hire Purchase number. To help us keep improving the app, you can recommend or inform any problems at ttb contact center 1428",2014-09-27T07:00:00Z,2025-11-17T21:48:42Z
+th,Thailand,Finance,6015,14,1591473167,BAAC Mobile,Bank for Agriculture and Agricultural Cooperatives,https://apps.apple.com/th/app/baac-mobile/id1591473167?uo=4,0.0,3.03137,4017,Finance,"ธ.ก.ส. ยกระดับบริการ Mobile Banking สู่ ธ.ก.ส. BAAC Mobile แอปพลิเคชันที่จะช่วยให้การธุรกรรมทางด้านเงินของท่านเป็นเรื่องง่าย สะดวก ปลอดภัย สร้างความมั่นใจในการใช้บริการทุกที่ ทุกเวลาตลอด 24 ชั่วโมง
+เพียงแค่ลูกค้าลงทะเบียนพิสูจน์ตัวตนและยืนยันตัวตนทางอิเล็กทรอนิกส์ (e-KYC) ลูกค้าก็จะสามารถสมัครใช้บริการ ธ.ก.ส. BAAC Mobile ได้ในทันที
+
+• บริการโอนเงิน เติมเงิน จ่ายบิล
+• ถอนเงินสดไม่ใช้บัตร
+• ฝากสลากออมทรัพย์ ธ.ก.ส. และตรวจสอบประวัติการถูกรางวัล
+• ตรวจสอบยอดสินเชื่อคงเหลือ พร้อมชำระหนี้ และเบิกเงินสินเชื่อหมุนเวียน
+• ตรวจสอบรายการเคลื่อนไหว ประวัติการทำธุรกรรม ทำรายการซ้ำ และขอ e-Slip ย้อนหลัง
+• ขอรายการเดินบัญชีย้อนหลังผ่านอีเมล (สูงสุด 12 เดือน)
+• ขอสินเชื่อและเปิดบัญชีเงินฝาก
+• บริการบัญชีพร้อมเพย์
+• ข่าวสารและประชาสัมพันธ์กิจกรรมต่าง ๆ พร้อมโปรโมชั่นพิเศษที่น่าสนใจ
+• ป้องกันการสวมสิทธิ์เข้าใช้งานด้วยการตรวจสอบหมายเลขโทรศัพท์ก่อนลงทะเบียนอุปกรณ์ที่ต้องการเข้าใช้งานและเมื่อมีการเปลี่ยนอุปกรณ์ดังกล่าว
+• Reset PIN ได้ด้วยตนเอง โดยการยืนยันตัวตนด้วยใบหน้า หมดกังวลเรื่องการลืม PIN อีกต่อไป
+• ตรวจสอบความถูกต้องของ e-Slip ด้วยการสแกน miniQR บน e-Slip ของ ธ.ก.ส. และต่างธนาคาร
+
+สอบถามข้อมูลเพิ่มเติม กรุณาติดต่อ 0-2555-0555
+
+ธ.ก.ส. BAAC Mobile จะช่วยให้ชีวิตของคุณเป็นเรื่องที่ง่ายยิ่งขึ้น
+
+BAAC upgrades Mobile Banking service to BAAC Mobile, an application that will make your financial transactions easy, convenient, safe, and build confidence in using the service. Anytime, anywhere, 24 hours a day.
+Customers only need to register their identity and verify their identity electronically (e-KYC), they will be able to apply for BAAC Mobile service immediately.
+
+• Money transfer, top-up, bill payment
+• Cardless cash withdrawals
+• Deposit the BAAC savings lottery and check the history of winning prizes.
+• Check outstanding credit balance. ready to pay debt and withdraw revolving credit
+• Check the movement list. Transaction history, duplicate transactions and request for e-Slip in the past
+• Request for past statements via email (up to 12 months)
+• Apply for a loan and open a savings account.
+• PromptPay account service
+• News and public relations on various activities and interesting special promotions.
+• Prevent spoofing of access by verifying the phone number before registering the desired access device and when replacing it.
+• Reset PIN by yourself by verifying your identity with your face. No more worrying about forgetting your PIN.
+• Verify e-Slip validity by scanning miniQR on e-Slip of BAAC and other banks.
+
+For more information, please contact 0-2555-0555.
+
+BAAC Mobile will make your life easy.",2022-10-17T07:00:00Z,2025-11-20T07:56:32Z
+th,Thailand,Finance,6015,15,1562313190,FINNIX: 5-Sec Fast Approval,MONIX Company Limited.,https://apps.apple.com/th/app/finnix-5-sec-fast-approval/id1562313190?uo=4,0.0,4.82657,151230,Finance,"Say goodbye to loan shark apps that charge illegal interest rates, use unlawful debt collection tactics, and exploit borrowers with unfair practices.
+Welcome a better way to borrow with FINNIX—a legal digital lending platform developed by MONIX Co., Ltd., an affiliate of Siam Commercial Bank under the SCBX Group. With a valid license from the Bank of Thailand and a mission to protect Thai people from loan sharks, FINNIX aims to revolutionize the borrowing experience.
+
+Why do millions of users choose FINNIX app?
+1. Borrow money through a simple application—anywhere, anytime, 24/7.
+2. Lightning-fast loan approval—know the result and get the money the fastest in 5 seconds.
+3. Convenient loan application, using only the citizen ID card and 6-month bank statement.
+4. Individuals with a monthly income of over THB 8,000 can apply for a loan—no career restrictions.
+5. Offers revolving credit services legally under the supervision of the Bank of Thailand.
+6. Safe and secure—personal information is protected under the Personal Data Protection Act.
+
+Please note that this application does NOT provide installment personal loans.
+
+FINNIX provides virtual credit line products with the following options:
+- FINNIX Bewinged: Experience a revolving credit line with a maximum limit of THB 100,000.
+
+With the FINNIX app, you can enjoy 5 exceptional benefits (subject to approval based on the company's criteria):
+Use FINNIX app for 5 FINs (subject to approval under company's criteria):
+1. FIN MAX: Get the credit line without deduction. No deposit or hidden fee required.
+2. FIN FAST: Get the credit line fastest in 5 seconds, purely online
+3. FIN EASY: Apply in application anywhere without guarantor or security
+4. FIN CHILL: Maximum interest  under 33% p.a. charged on the withdrawn amount only. Fewer principles, fewer interests.
+5. FIN AS YOU WISH: Repay as you can
+ - Option 1: Choose to pay as you wish. Pay as much as you can according to your demand.
+ - Option 2: You can choose to pay the minimum amount just for interest. Don't be afraid of losing credit.
+
+How to use FINNIX app?
+1. Download and install the FINNIX app.
+2. Enter your phone number and confirm it using the OTP code.
+3. Create your user account by verifying your identity through the SCB EASY app or ThaID app, along with a biometric check.
+4. Apply for a credit line on the app.
+5. Receive approval results in as little as 5 seconds.
+6. Withdraw funds to your registered bank account.
+7. Repay your loan via your banking app or by using a barcode/QR code.
+
+The FINNIX app is the ideal solution for fulfilling all your urgent needs with its versatile multi-purpose credit line, available anytime and anywhere. With no credit expiration, you can enjoy peace of mind while managing your finances effortlessly. Download the FINNIX app to experience financial ease.
+
+About FINNIX App
+-  Official Website: www.finnix.co
+-  Facebook Page: http://www.facebook.com/finnixapp
+-  Call Center Number by MONIX: 02-113-1113 Monday - Sunday (9.00 -18.00 hrs.)
+-  Privacy Policy: www.finnix.co/privacy-policy
+
+About FINNIX App Developer
+-  Company Address: MONIX Co., Ltd. 9, 2nd Floor, Learning Center Building, Ratchadapisek Road, Jatujak, Jatujak, Bangkok, 10900, Thailand
+
+Warning: Borrow only as much as you need and can afford to repay.",2021-04-20T07:00:00Z,2025-11-20T23:56:32Z
+th,Thailand,Finance,6015,16,6748330753,Rienthongassetกู้เงินถูกกฎหมาย,RIENTHONGASSET COMPANY LIMITED,https://apps.apple.com/th/app/rienthongasset%E0%B8%81-%E0%B9%80%E0%B8%87-%E0%B8%99%E0%B8%96-%E0%B8%81%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/id6748330753?uo=4,0.0,4.63375,5551,Finance,"Rienthongasset กู้เงินถูกกฎหมาย – สมัครสินเชื่อได้ง่าย ปลอดภัย ใช้ได้จริงในแอปเดียว
+ 
+กำลังมองหาแหล่งเงินกู้ที่น่าเชื่อถือ?
+Rienthongasset กู้เงินถูกกฎหมาย คือแอปบริการสินเชื่อที่ช่วยจับคู่คุณกับผลิตภัณฑ์เงินกู้จากผู้ให้บริการที่ได้รับอนุญาตตามกฎหมายไทย
+ทุกขั้นตอนผ่านการตรวจสอบอย่างรอบคอบ เน้นความปลอดภัย โปร่งใส และให้คุณมั่นใจในทุกการกู้ยืม
+ 
+เงื่อนไขการกู้ยืม 3 ประการง่ายๆ:
+อายุ 20 ปีขึ้นไป
+มีบัตรประชาชนไทยที่ยังไม่หมดอายุ
+มีบัญชีธนาคารที่เป็นชื่อของตนเอง
+ 
+รายละเอียดสินเชื่อ:
+- ระยะเวลาสินเชื่อ: 91 ถึง 365 วัน
+- จำนวนสินเชื่อ: สูงสุด 20,000 บาท
+- ดอกเบี้ย: 0.04% ต่อวัน
+- อัตราดอกเบี้ยต่อปีสูงสุด (APR): 14%/ปี
+- ตัวอย่าง: จำนวนสินเชื่อคือ 30,000 บาท และระยะเวลาสินเชื่อคือ 120 วัน ค่าธรรมเนียมที่เรียกเก็บมีดังนี้:
+อัตราดอกเบี้ยต่อเดือน: 14%/12=3%
+ดอกเบี้ยต่อเดือน: 30,000 บาท*14%/12=350 บาท
+จำนวนเงินที่ต้องชำระคืนต่อเดือน: 30,000/6 + 30,000 บาท*14%/12=7,850 บาท
+ดอกเบี้ยรวม: 30,000 บาท*14%/12*4=1,400 บาท
+ค่าธรรมเนียมการขอคืนทั้งหมด: 30,000 บาท + 30,000 บาท*14%/12*4= 31,400 บาท
+ 
+วิธีชำระเงินที่ยืดหยุ่น
+ชำระค่างวดได้สะดวกผ่านแอปธนาคารของคุณ ปลอดภัย ใช้งานได้ทุกวัน
+รองรับการโอนเงินผ่านระบบ Mobile Banking หรือ Internet Banking จากธนาคารชั้นนำ เช่น
+ธนาคารกสิกรไทย (KBANK), ธนาคารไทยพาณิชย์ (SCB), ธนาคารกรุงไทย (KTB), ธนาคารกรุงเทพ (BBL), และธนาคารกรุงศรีอยุธยา (BAY)
+การชำระเงินไม่มีค่าธรรมเนียม และสามารถทำได้ตลอด 24 ชั่วโมง
+โปรดตรวจสอบช่องทางการชำระเงินในแอปเท่านั้น หลีกเลี่ยงการใช้ข้อมูลการชำระเงินที่ถูกส่งต่อจากบุคคลอื่น เพื่อความปลอดภัยของคุณเอง
+ 
+จะขอสินเชื่ออย่างรวดเร็วได้อย่างไร
+ดาวน์โหลดแอป Rienthongasset กู้เงินถูกกฎหมาย
+กรอกแบบฟอร์มสมัครสินเชื่อด่วนออนไลน์
+เมื่อได้รับการอนุมัติ ให้พร้อมที่จะฝากสินเชื่อเข้าบัญชีธนาคารของคุณ
+สินเชื่อจะฝากเข้าบัญชีธนาคารของคุณโดยตรง (การโอนอาจใช้เวลาหลายนาทีเนื่องจากขั้นตอนของธนาคาร)
+จำวันที่ชำระคืนและชำระคืนตรงเวลาเพื่อเพิ่มจำนวนเงินกู้และระยะเวลา
+ 
+ทำไมต้องเลือก Rienthongasset กู้เงินถูกกฎหมาย?
+- กระบวนการออนไลน์ 100%: ออนไลน์ 100% ไม่ต้องใช้เอกสาร ง่ายและสะดวก
+- เบิกเงินกู้ได้รวดเร็ว: การสมัครสินเชื่อนั้นง่ายและรวดเร็ว เมื่อได้รับการอนุมัติ คุณจะได้รับสินเชื่อทันที
+- รับวงเงินสินเชื่อที่สูงขึ้นและระยะเวลาสินเชื่อที่ยาวนานขึ้นโดยชำระเงินตรงเวลา - ประวัติเครดิตของคุณจะถูกแบ่งปันกับหน่วยงานจัดอันดับเครดิตบุคคลที่สาม คะแนนเครดิตของคุณอาจถูกปรับขึ้นหรือลดลงตามนั้น
+เกี่ยวกับความเป็นส่วนตัว:
+Rienthongasset กู้เงินถูกกฎหมาย ปกป้องข้อมูลของผู้ใช้ทั้งหมด เราจะไม่ให้ข้อมูลของคุณแก่ใครก็ตามโดยไม่ได้รับอนุญาตจากคุณ
+ 
+แอปนี้ให้บริการภายใต้กรอบกฎหมายและข้อกำหนดของหน่วยงานที่เกี่ยวข้อง เช่น ธนาคารแห่งประเทศไทย (BOT), สำนักงาน ก.ล.ต. (SEC), และสำนักงาน สคบ. (OCPB)
+เพื่อให้มั่นใจว่าการให้บริการสินเชื่อเป็นไปอย่างถูกต้อง ปลอดภัย และโปร่งใส
+ 
+โทรศัพท์: +66 847596131
+อีเมล: office@rienthongassetcompany.com
+เว็บไซต์: www.rienthongassetcompany.com
+เวลาทำการ: 09.00 - 18.00 น.
+ที่อยู่ธุรกิจ: 17 Village No. 5, Jenchopthit, Nang Ram Subdistrict, Prathai District, Nakhon Ratchasima Province 30140",2025-08-13T07:00:00Z,2025-10-29T06:14:26Z
+th,Thailand,Finance,6015,17,1136616669,UCHOOSE,Ayudhya Capital Services Company Limited,https://apps.apple.com/th/app/uchoose/id1136616669?uo=4,0.0,4.78833,24704,Finance,"พบกับประสบการณ์ใหม่ของ “UCHOOSE”
+
+ไลฟ์สไตล์แอปพลิเคชัน เวอร์ชั่นใหม่ล่าสุดจากกรุงศรีคอนซูมเมอร์ 
+สะดวกทุกที่ ทุกเวลา กับบริการใหม่ ๆ มากมาย เช่น
+
+U Manage
+บริหารบัตรเครดิตได้ง่าย ๆ ด้วยปลายนิ้ว
+สามารถจัดการได้ด้วยตนเองตลอด 24 ชม ทุกวันทุกเวลา
+
+U Mall
+ประสบการณ์การช้อปปิ้งสุดคุ้มกับพันธมิตรมากมาย
+
+U Pay
+ให้ผู้ถือบัตรฯ ชำระค่าบัตรเครดิตในเครือกรุงศรี
+ผ่าน Krungsri Mobile Application
+
+U Like
+โปรโมชั่นสุดพิเศษจากหลากหลายหมวดร้านค้า
+คัดเลือกมาให้เฉพาะคุณ
+
+U Trend
+ตอบโจทย์ไลฟ์สไตล์ของคุณมากขึ้น ด้วยบทความที่น่าสนใจมากมาย
+
+
+Meet the New “UCHOOSE” Experience.
+
+The newest lifestyle application from Krungsri Consumer, offering you with;
+
+U Manage
+Simply manage your credit cards, anywhere, anytime.
+
+U Mall
+Enjoy your shopping with special deals.
+
+U Pay
+Pay your credit card bills with Krungsri Mobile Application.
+
+U Like
+Privilege exclusives for you.
+
+U Trend
+Lifestyle articles about food, travel, shopping, and financial tips.
+
+
+About UCHOOSE: 
+- Website: https://www.krungsriconsumer.com/uchoose 
+- Address: Krungsri Ploenchit Tower, 550 Ploenchit Road, Lumpini, Pathumwan, Bangkok 10330
+ 
+เกี่ยวกับ UCHOOSE: 
+- เว็บไซต์: https://www.krungsriconsumer.com/uchoose 
+- ที่อยู่: อาคารกรุงศรีเพลินจิต ทาวเวอร์ 550 ถนน เพลินจิต แขวงลุมพินี เขตปทุมวัน กรุงเทพมหานคร 10330
+- อีเมล: UCHOOSE.CARESERVICE@krungsri.com",2016-11-22T10:12:20Z,2025-11-06T04:17:48Z
+th,Thailand,Finance,6015,18,1619914039,Max Me,Max Card Company Limited,https://apps.apple.com/th/app/max-me/id1619914039?uo=4,0.0,3.17585,944,Finance,Max Me เป็นแอปพลิเคชันสำหรับสมาชิกแมกซ์ การ์ด ที่เชื่อมรวมทุกไลฟ์สไตล์การใช้จ่ายเข้าไว้ในที่เดียว ด้วยบริการที่หลากหลาย รวมถึงกระเป๋าอิเล็กทรอนิกส์ บริการจ่ายบิล บริการสั่งสินค้าล่วงหน้า บริการแลกคะแนน Max Point และบริการอื่น ๆ อีกมากมาย,2022-06-01T07:00:00Z,2025-10-27T15:46:46Z
+th,Thailand,Finance,6015,19,1228562274,YouTrip,You Technologies Group Singapore Pte Ltd,https://apps.apple.com/th/app/youtrip/id1228562274?uo=4,0.0,3.90738,691,Finance,"Meet YouTrip - your multi-currency mobile wallet and Mastercard for hassle-free spending across 150+ countries. Designed for travellers in Singapore, Thailand, and Australia, YouTrip lets you shop anywhere – online or in-store – with the best rates and zero fees.  
+
+Join millions of users across Asia Pacific who use YouTrip to pay and travel smarter!
+
+Whenever, wherever, we got you
+• Pay with the best rates in 150+ countries
+• Exchange & hold popular currencies right in the app
+
+Goodbye hidden fees 
+• Travel and shop freely with zero FX fees
+• Withdraw cash fee-less* from overseas ATMs 
+(*Fee-less withdrawal limits per calendar month: S$400 for Singaporeans, THB 50,000 for Thais, and AS$1,500 for Australians. A 2% fee applies thereafter.)
+
+It can’t get any safer than this
+* Lock and secure your card instantly with just one tap
+• Stay on top of your transactions with instant notifications for every payment
+• 24/7 monitoring by our dedicated fraud, security, and customer support teams
+
+Apply for an account now & get the best rates at your fingertips!
+
+About Us:
+Launched in 2018, YouTrip is a regional financial technology startup with a bold vision to empower everyone with a smarter and most convenient way to pay in foreign currency. As the trailblazers of fintech in Asia Pacific,  we are dedicated to being a trusted companion for all travellers and digital-savvy consumers. 
+
+Powered by Mastercard®, YouTrip is a holder of the Remittance License issued by the Monetary Authority of Singapore. In Thailand, YouTrip is jointly issued and powered by Kasikornbank PCL. In Australia, we hold an Australian Financial Services License (558059) and are regulated by the Australian Securities and Investments Commission (ASIC).",2018-08-05T01:44:21Z,2025-11-21T01:14:46Z
+th,Thailand,Finance,6015,20,1496532821,MAKE by KBank แอปจัดการเงิน,KASIKORNBANK PUBLIC COMPANY LIMITED,https://apps.apple.com/th/app/make-by-kbank-%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%88-%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%87-%E0%B8%99/id1496532821?uo=4,0.0,4.90534,309214,Finance,"MAKE by KBank แอปพลิเคชันที่รวมการจัดการเงินและการทำธุรกรรมไว้ครบจบในที่เดียว หนึ่งบัญชีแบ่งได้เป็นหลายกระเป๋าไม่จำกัด บัญชีเงินฝากดอกเบี้ยสูง 1.5% ต่อปี สำหรับ 500,000 บาทแรก และ 0.45% สำหรับส่วนที่เกิน 500,000 บาท ดูดอกเบี้ยได้รายวัน ไม่ต้องมีบัญชีธนาคารกสิกรก็สมัครได้ ครบทุกการทำธุรกรรม ไม่ว่าจะเป็นการฝาก ถอน โอน เติมเงิน จ่ายบิล สร้าง QR รับเงิน ผูกพร้อมเพย์ ก็ทำได้ ง่าย สะดวก  
+
+Cloud Pocket ฟีเจอร์หลักที่จะช่วยให้การจัดการเงินง่ายขึ้น  
+ตั้งเป้าหมาย ตั้งชื่อ ตั้งรูป ล็อก ชวนเพื่อนมาช่วยกันเก็บเงินได้ Cloud Pocket มีทั้งหมด 4 แบบ สามารถเลือกสร้างได้ตามการใช้งาน  
+
+คลาสสิก : เหมาะสำหรับการจำกัดงบประมาณรายจ่าย แบ่งเงินใช้จ่ายออกเป็นรายวัน รายสัปดาห์ รายเดือน หรือวางแผนการใช้ได้ตามใจ  
+เก็บเงินตามฝัน : คำนวนเงินที่ต้องเก็บในแต่ละเดือนให้อัตโนมัติตามเป้าหมายที่ตั้งไว้ สามารถใส่รูปและเพิ่มข้อความในกรอบโพลารอยด์ในทุกเดือนที่เก็บเงินถึงเป้า ช่วยให้มีกำลังใจในการเก็บเงิน  
+ออมต่อเนื่อง : สร้างสถิติของตัวเอง บอกจำนวนวัน สัปดาห์ หรือเดือนที่เก็บเงินได้ต่อเนื่อง มาพร้อมกับฟีเจอร์ซ่อนยอดเงิน และการสะสมแสตมป์น้องเมคแบบสุ่ม ช่วยให้การเก็บเงินสนุกยิ่งขึ้น  
+เครดิตการ์ด : จดรายการบัตรเครดิตที่ใช้ไปและเตรียมเงินสำหรับจ่ายไว้ใน Cloud Pocket มีแจ้งเตือนให้มาเพิ่มรายการและจ่ายบัตรตามเวลาที่กำหนด  
+
+ 
+ฟีเจอร์ช่วยจัดการเงินอื่นๆ ที่น่าสนใจ  
+Expense Summary ดูสรุปรายรับ รายจ่าย เห็นภาพรวมแบบรายเดือน  
+Custom Category สร้างหมวดหมู่เพื่อติดตามรายจ่ายได้ด้วยตัวเอง 
+Cloud Chat แสดงประวัติรายการธุรกรรมในรูปแบบแชท ดูประวัติการโอนได้เป็นรายบุคคล ดูย้อนหลังได้ไม่จำกัด และสามารถแนบรูปและจดบันทึกกันลืมได้  
+
+จัด จ่าย จด ครบจบในแอป MAKE by KBank สมัครง่าย แค่ยืนยันตัวตนผ่านแอปพลิเคชัน K PLUS หรือ ยืนยันตัวตนที่ตู้ธนาคารกสิกรไทยด้วยบัตรประชาชนสำหรับคนที่ไม่มีบัญชีกสิกรไทย จัดการเงินเริ่มได้เลย โหลดแอป MAKE แล้วมาเริ่มแบ่งเงินกัน  
+
+ 
+MAKE by KBank - Money management application and e-Savings account with 1.5% interest rate for the first 500,000 Baht and 0.45% for the excess of 500,000 Baht. Earning Interest can be viewed daily, and you do not require a KBank account to sign up.  
+
+Manage all your financial activities in one place. Whether it's deposits, withdrawals, transfers, bill payments, top-ups, linking with PromptPay, or receiving payments via QR codes, everything can be done with ease and convenience.  
+
+Cloud Pocket - Making Money Management Easier  
+Set goals, assign names, add images, lock, and invite friends to help you save money. There are four types of Cloud Pocket that you can create based on your personal style:  
+
+ 
+Classic: Ideal for setting daily, weekly, or monthly spending limits or budgeting in any way you prefer. 
+Wishlist: Automatically calculates how much money you need to save each month based on your goal. You can add images and messages to a Polaroid frame each month when you reach your savings target to keep you inspired. 
+Saving: Tracks your savings streak, displaying the number of consecutive days, weeks, or months you have saved. It includes a hidden balance feature and a fun random ""Nong MAKE Stamp Collection” to make saving more enjoyable. 
+Credit Card: Helps you track credit card expenses and prepare funds to pay off the balance. You will receive reminders to add expenses and make payments on time. 
+
+Additional Money Management Features: 
+Expense Summary: Get a clear overview of your income and expenses each month. 
+Custom Categories: Create custom categories to track your spending. 
+Cloud Chat: View your transaction history in a chat format. You can see past transactions, attach images, and take notes. 
+
+Start Managing Your Money Today with MAKE by KBank. 
+Register easily by verifying your identity through the K PLUS app or at a KBank ATM with your ID card if you don't have a KBank account.  
+
+
+188, 72 Soi Chula 20, Wang Mai Sub-District, Patumwan, Bangkok 10330 
+
+https://makebykbank.kbtg.tech/privacy-policy  
+https://makebykbank.kbtg.tech/terms-and-conditions",2020-07-15T07:00:00Z,2025-11-05T15:15:46Z
+th,Thailand,Finance,6015,21,6748943086,มีตัง,P.F.K COMPANY LIMITED,https://apps.apple.com/th/app/%E0%B8%A1-%E0%B8%95-%E0%B8%87/id6748943086?uo=4,0.0,4.90238,799,Finance,"มีตังคือแพลตฟอร์มสินเชื่อเงินสดดิจิทัล พัฒนาโดย บริษัท พี.เอฟ.เค จำกัด ให้บริการภายใต้การกำกับดูแลของกระทรวงการคลังอย่างเข้มงวด ให้บริการสินเชื่อประเภท PICO Finance และปฏิบัติตามพระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล (PDPA) อย่างเคร่งครัด
+
+เรายึดมั่นในความถูกต้องตามกฎหมาย ไม่มีการทวงหนี้ผิดกฎหมาย และไม่สนับสนุนผลิตภัณฑ์ที่คิดดอกเบี้ยเกินกำหนด มีตัง มุ่งมั่นในการมอบบริการสินเชื่อที่ปลอดภัย สะดวก และโปร่งใส ให้กับคนไทยทุกคน
+
+3 จุดเด่นที่มัดใจผู้ใช้ “มีตัง”
+ สมัครง่าย ใช้แค่บัตรประชาชน
+สมัครได้ 24 ชม. แค่มีบัตรประชาชน ไม่ต้องเดินทาง ยื่นขอผ่านแอป สะดวกสุดๆ
+ โปร่งใส ไม่มีค่าใช้จ่ายแอบแฝง
+แจ้งรายละเอียดชัดเจน ทั้งอัตราดอกเบี้ย และยอดชำระทั้งหมด ไม่มีค่าธรรมเนียมจุกจิก
+ ได้เงินไว ไม่ต้องมีคนค้ำ
+กู้แบบไม่ใช้หลักทรัพย์ ไม่ต้องมีคนค้ำ โอนเงินเข้าบัญชีใน 5 นาทีหลังอนุมัติ
+
+อัตราดอกเบี้ยและเงื่อนไขโปร่งใส
+- อัตราดอกเบี้ยสูงสุดต่อปี（APR）：12% - 32.85%
+- ดอกเบี้ยรายเดือน: 1% - 2.74%
+-  เงื่อนไขการกู้ยืมขั้นต่ำและขั้นสูง: 91 – 120 วัน
+- วงเงินกู้: 3,000 – 30,000 บาท
+
+จ่ายคืนยืดหยุ่น ผ่อนสบาย
+- ไม่มีค่าปรับหากปิดบัญชีก่อนกำหนด จะโปะเมื่อไหร่ก็ได้
+- จ่ายผ่าน ATM, โมบายแบงก์กิ้ง และธนาคารชั้นนำในไทย เช่น BBL, KBank, SCB, KTB
+
+สมัครง่ายใน 4 ขั้นตอน
+1. ค้นหา “มีตัง” บน App Store แล้วติดตั้งแอป
+2. สมัครด้วยเบอร์มือถือ กรอกข้อมูลส่วนตัว และยืนยันตัวตน
+3. เลือกวงเงิน (สูงสุด 30,000 บาท) และระยะเวลาผ่อนชำระ
+4. รออนุมัติ แล้วรับเงินเข้าบัญชีทันที
+
+ใครสมัครได้บ้าง?
+- บุคคลที่มีสัญชาติไทย มีบัตรประชาชน
+- อายุ 18 ปีขึ้นไป
+- มีรายได้หรือแหล่งรายได้ที่มั่นคง
+
+ตัวอย่างการคำนวณเงินกู้
+- วงเงินกู้: 30,000 บาท
+- ระยะเวลาการกู้ยืม: 120 วัน
+- อัตราดอกเบี้ยต่อปี (APR): 32.85% (คิดเป็นรายวัน: 0.09%)
+- รายละเอียดค่าธรรมเนียม: ไม่มีค่าธรรมเนียมแอบแฝงหรือค่าใช้จ่ายอื่น ๆ หลังอนุมัติได้รับเต็มจำนวน 30,000 บาท
+
+คำนวณดอกเบี้ยรายวัน:
+ดอกเบี้ยรายวัน = 30,000 x 0.09% = 27 บาท/วัน
+รายละเอียดการผ่อนชำระ (แบ่งจ่าย 3 งวด ทุก 40 วัน)
+1. งวดที่ 1 (40 วัน)
+- ดอกเบี้ย = 27 x 40 = 1,080 บาท
+- ยอดที่ต้องชำระ = (30,000 ÷ 3) + 1080 = 11,080 บาท
+
+2. งวดที่ 2 (40 วัน)
+- ดอกเบี้ย = 27 x 40 = 1,080 บาท
+- ยอดที่ต้องชำระ = (30,000 ÷ 3) + 1080 = 11,080 บาท
+
+3. งวดที่ 3 (40 วัน)
+- ดอกเบี้ย = 27 x 40 = 1,080 บาท
+- ยอดที่ต้องชำระ = (30,000 ÷ 3) + 1080 = 11,080 บาท
+สรุป: ตลอดระยะเวลากู้ 120 วัน คุณจะผ่อนชำระทั้งหมด 3 งวด งวดละ 11,080 บาท รวมเป็นเงิน 33,240 บาท คิดเป็นดอกเบี้ยรวม 3,240 บาท จากเงินต้น 30,000 บาท
+
+ติดต่อเรา
+- อีเมลฝ่ายบริการลูกค้า:  p.f.k@pfkcompany.com
+- โทร: คลิกเพื่อโทรในแอป
+- ที่อยู่บริษัท: ต.หนองสาหร่าย อ.ปากช่อง จ.นครราชสีมา เลขที่ 57/7 หมู่ 21
+- แชทกับเจ้าหน้าที่: ติดต่อผ่านแอปในหน้า ""ศูนย์บริการ""",2025-09-17T07:00:00Z,2025-11-13T02:35:01Z
+th,Thailand,Finance,6015,22,6741651166,UFUND,THUNDER FINFIN COMPANY LIMITED,https://apps.apple.com/th/app/ufund/id6741651166?uo=4,0.0,3.38028,71,Finance,"Let UFUND Make Your Life Easier with Our All-in-One Installment Service!With just one app, you can choose from a wide range of products and customize your payment plan with flexible installments of up to 48 months—no credit card required.
+UFUND is operated by Thunder Finfin Co., Ltd., a subsidiary of COM7 Public Company Limited, offering top-brand products for a convenient and 100% secure shopping experience—all in one app. Students are also eligible to apply!
+
+Why Choose UFUND?
+Flexible installment plans with top brands – Easy application, quick identity verification, and approval within 30 minutes.
+Full control over your expenses – Customize your installment plan from 9 to 48 months.
+Guaranteed authentic products – Pick up your order at partner stores or enjoy free nationwide delivery.
+Never miss a payment – Get automatic reminders via notifications to ensure you never forget a due date.
+
+- UFUND Contact Center: 02-017-7671
+- LINE: @ufund
+- Website: www.ufundth.com
+- Facebook: UFUND
+- Company Address: Thunder Finfin Co., Ltd. 549/1 Com7 Building, Sanphawut Road, Bang Na Tai, Bang Na, Bangkok 10260",2025-02-12T08:00:00Z,2025-10-24T01:07:37Z
+th,Thailand,Finance,6015,23,6744355419,Wing สินเชื่อสะดวกสบาย,Wing Money Company Limited,https://apps.apple.com/th/app/wing-%E0%B8%AA-%E0%B8%99%E0%B9%80%E0%B8%8A-%E0%B8%AD%E0%B8%AA%E0%B8%B0%E0%B8%94%E0%B8%A7%E0%B8%81%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2/id6744355419?uo=4,0.0,4.61407,6084,Finance,"Wing สินเชื่อสะดวกสบาย เป็นแอปสินเชื่อออนไลน์ที่ให้สินเชื่อมูลค่าสูงและดอกเบี้ยต่ำ
+
+สิทธิ์ในการกู้ยืม:
+1. อาศัยอยู่ในประเทศไทย
+2.พลเมืองไทยที่มีอายุ 21 ปีขึ้นไป
+3.มีบัญชีธนาคาร
+
+เกี่ยวกับสินเชื่อ:
+ลูกค้า Wing สินเชื่อสะดวกสบาย สามารถเลือกระยะเวลาเงินกู้ได้สูงสุด 180 วันก่อนที่จะเบิกจ่ายเงินกู้
+วงเงินสินเชื่อ: สูงสุด 30,000 บาท
+ระยะเวลา: 93 วันถึง 181 วัน
+อัตราดอกเบี้ยเงินกู้รายวัน: 0.06%
+อัตราดอกเบี้ยสูงสุดต่อปี (APR) 21.9%/ปี
+เช่น สินเชื่อ 93 วัน (3 เดือน) ยอดสินเชื่อรวม 10,000 บาท อัตราดอกเบี้ยต่อปี 13%
+อัตราดอกเบี้ยรายเดือน: 13%/12=1.08%
+ดอกเบี้ยรายเดือน: 10,000 บาท*13%/12=108.33 บาท
+ยอดผ่อนชำระรายเดือน: 10,000/3 + 10,000 บาท*13%/12=3,441.67 บาท
+รวมดอกเบี้ย: 10,000 บาท*13%/12*3=325 บาท
+รวมค่าธรรมเนียมการชำระคืน: 10,000 บาท + 10,000 บาท*13%/12*3= 10,325 บาท
+
+ขั้นตอนการยืมเงินออนไลน์:
+กรอกข้อมูลให้ครบถ้วน
+รอประเมินผลสินเชื่อ
+หลังจากตรวจสอบได้สำเร็จ
+เงินจะจ่ายเข้าบัญชีธนาคารของคุณโดยตรง
+
+แอปพลิเคชันของเรารองรับการชำระเงินผ่านธนาคารชั้นนำในประเทศไทย เช่น ธนาคารกสิกรไทย (KBANK)、ธนาคารกรุงเทพ (BBL) และธนาคารไทยพาณิชย์ (SCB) เพื่อให้คุณทำธุรกรรมได้อย่างสะดวก รวดเร็ว และปลอดภัยที่สุด
+
+นอกจากนี้ เรายังได้รับการรับรองจากหน่วยงานที่เชื่อถือได้ เช่น ธนาคารแห่งประเทศไทย (BOT)、สำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ (SEC) และสำนักงานคณะกรรมการคุ้มครองผู้บริโภค (OCPB) เพื่อยืนยันว่าแอปของเราปฏิบัติตามกฎระเบียบและมาตรฐานในระดับสูงสุด
+
+ติดต่อเรา
+โทรศัพท์: +66 53750154
+เบอร์อีเมล์: inquiry@wingmoney.co
+ที่อยู่: 460 Moo 5 Phahon Yothin Road 57100 MUEANG CHIANG RAI
+บริษัท: Wing Money Company Limited
+เว็บไซต์อย่างเป็นทางการ: www.wingmoney.co",2025-07-03T07:00:00Z,2025-11-21T06:17:42Z
+th,Thailand,Finance,6015,24,1665957386,PROMISE (THAILAND),PROMISE THAILAND,https://apps.apple.com/th/app/promise-thailand/id1665957386?uo=4,0.0,4.86293,24673,Finance,"โมบายแอปพลิเคชัน PROMISE โดย บริษัท พรอมิส (ประเทศไทย) จำกัด ผู้ให้บริการสินเชื่อส่วนบุคคลภายใต้การกำกับของธนาคารแห่งประเทศไทย ให้บริการลูกค้าที่สนใจกู้เงินออนไลน์ ที่สะดวกสบาย ปลอดภัย และไม่ว่าคุณจะอยู่ที่ไหน ตราบใดที่คุณต้องการยืมเงินสดคุณสามารถขอผ่านแอปของเรา โดยจะได้รับผลอนุมัติภายใน 1 ชั่วโมงหากยื่นเอกสารครบถ้วนภายใน 18.00 น. และไม่มีเหตุขัดข้องด้านเอกสาร หรือระบบ และสามารถรับเงินกู้ทันทีหลังอนุมัติและทำสัญญา
+
+บริการลูกค้า:
+- สมัครสินเชื่อผ่านแอป
+- กู้เพิ่มในวงเงิน
+- สมัครเพิ่มวงเงินกู้
+- เรียกดู e-Statement
+- ชำระเงินค่างวดผ่าน Barcode/QR บนแอป
+
+พรอมิสเป็นสินเชื่อส่วนบุคคลประเภทหมุนเวียนด้วยวิธีการรับเงินโอนผ่านธนาคาร ถ้าชำระคืน วงเงินกู้จะสามารถกลับมาใช้ได้อีกจนกว่าบริษัทจะระงับ/ยกเลิกการใช้บริการตามข้อสัญญาและเงื่อนไขที่บริษัทกำหนด (วงเงินอาจเปลี่ยนแปลงได้ตามเงื่อนไขการพิจารณาสินเชื่อของบริษัทฯ และหากข้อมูลลูกค้ามีการเปลี่ยนแปลงอาจจำเป็นต้องยื่นเอกสารเพิ่มเติม)
+
+วงเงินสินเชื่อส่วนบุคคลจะพิจารณาจากเงินเดือนหรือรายได้ประจำของลูกค้าเป็นหลัก กรณีมีรายได้ต่อเดือนต่ำกว่า 30,000 บาท วงเงินกู้สูงสุดของสินเชื่อเงินก้อนจะไม่เกิน 1.5 เท่าของรายได้/เดือน หรือ หากรายได้/เดือนตั้งแต่ 30,000 บาทขึ้นไป วงเงินสูงสุดไม่เกิน 5 เท่าของรายได้/เดือน หรือ ไม่เกิน 300,000 บาท อย่างใดอย่างหนึ่งที่ต่ำกว่า
+
+อัตราดอกเบี้ยต่อปี (APR) ต่ำสุด 15％ -  อัตราสูงสุด 25%  ต่อปี โดยแบ่งเป็น
+- ดอกเบี้ย 15% (เงินต้นคงค้าง x15% x จำนวนวันในแต่ละรอบบัญชี/365) *ปัดทศนิยมทิ้ง
+- ค่าธรรมเนียมในการใช้วงเงิน 0.00% - 10.00% (เงินต้นคงค้าง x อัตราค่าธรรมเนียมในการใช้วงเงิน x จำนวนวันในแต่ละรอบบัญชี/365) *ปัดทศนิยมทิ้ง
+- ในการชำระคืน ลูกค้าสามารถชำระด้วยยอดชำระขั้นต่ำ (300 บ.) หรือแบ่งจ่ายเป็นงวดได้ (ขั้นต่ำ 3 เดือน และสูงสุด 60 เดือน) โดยต้องชำระค่างวดภายในวันที่ครบกำหนดชำระตามที่ระบุสัญญาไว้ในใบสมัครหรือใบแจ้งหนี้
+
+ตัวอย่าง อัตราดอกเบี้ยเงินกู้  วันที่ 10 ก.พ. 2566 ลูกค้าทำสัญญาวงเงินสินเชื่อ 10,000 บ. ผ่อน 3 งวด
+- วงเงิน 10,000 บ. โอนเข้าบัญชีลูกค้า 10,000 บ.
+- อัตราดอกเบี้ย 15% และ ค่าธรรมเนียมในการใช้วงเงิน 10.00% รวมเป็น 25% ต่อเดือน
+- วันครบกำหนดชำระ: สิ้นเดือน (วันเงินเดือนออก)
+
+ดังนั้น วันที่ 28 ก.พ. 2566 ยอดชำระ 3,500 บ.  (ค่าดอกเบี้ยและค่าธรรมเนียมในการใช้วงเงิน 10,000*25%*18/365=123 บ. เงินต้น = 3,377) เหลือเงินต้นคงค้าง 6,623 บ.
+
+งวด 2 วันที่ 31 มี.ค. 2566 ยอดชำระ 3,500 บ.  (ค่าดอกเบี้ยและค่าธรรมเนียมในการใช้วงเงิน 6,623*25%*31/365=140 บ. เงินต้น = 3,360 บ.) เหลือเงินต้นคงค้าง 3,263 บ.
+
+งวด 3 วันที่ 28 ม.ย. 2566 ยอดชำระ 3,325 บ.  (ค่าดอกเบี้ยและค่าธรรมเนียมในการใช้วงเงิน 3,263*25%*28/365=62 บ. เงินต้น = 3,263 บ.)  เหลือเงินต้นคงค้าง 0 บ.
+
+สรุปจำนวนเงินที่ลูกค้าต้องชำระคืนทั้งหมด 10,325 บ. คิดเป็นดอกเบี้ย 325 บ. จากเงินต้น 10,000 บ. ด้วยอัตราดอกเบี้ย (APR) 25% ต่อปี
+*การคำนวนเป็นเพียงตัวอย่างของการผ่อนชำระตามกำหนดและไม่มีการกู้เพิ่ม
+
+ค่าใช้จ่ายอื่นๆ
+ค่าอากรแสตมป์ 1 บ. ต่อทุกๆวงเงินที่อนุมัติ 2 พันบาทและ 1 บ. สำหรับเศษของ 2 พัน
+ค่าใช้จ่ายในกรณีที่มีการชำระเงินผ่านหน่วยงานอื่น 10-35 บ./ครั้ง
+ค่าธรรมเนียมในการตรวจสอบข้อมูลเครดิต (กรณีลูกค้าสมัครใหม่และเปลี่ยนสัญญา ไม่มีการเก็บค่าธรรมเนียมในกรณีที่ผลการอนุมัติไม่ผ่าน)
+-กรณีพบข้อมูลสืบค้นหรือข้อมูลบัญชี 12 บ./ครั้ง
+-กรณีไม่พบทั้งข้อมูลสืบค้นหรือข้อมูลบัญชี 5 บ./ครั้ง
+- ค่าใช้จ่ายในการติดตามทวงหนี้
+*บริษัทไม่เรียกเก็บค่าใช้จ่ายในกรณีที่เงินในบัญชีไม่พอจ่าย (กรณีชำระหนี้โดยการหักบัญชีกับสถาบันการเงินอื่น), ค่าขอใบแจ้งหนี้ยอดบัญชีของแต่ละงวด (ชุดที่2 เป็นต้นไป) และ ค่าขอตรวจสอบรายการ
+
+ตรวจสอบรายละเอียดผลิตภัณฑ์ได้ที่ : https://www.promise.co.th/sites/default/files/download/AW_Promise_FactSheet_A4_01-2023.pdf
+Official Website : https://www.promise.co.th/
+ติดต่อสอบถามได้ที่ : Call Center – 1751 , https://www.promise.co.th/contact.html , facebook.com/promise1751.smbccf  และ สาขาพรอมิสใกล้บ้านท่าน
+
+ที่อยู่สำนักงานใหญ่ :
+159/19-20 อาคารเสริมมิตรทาวเวอร์ ห้อง 1201 ชั้น 12 ถนนสุขุมวิท 21 (อโศก) 
+แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร 10110
+
+นโยบายความปลอดภัยของข้อมูล https://www.promise.co.th/informationpolicy.html
+นโยบายคุ้มครองข้อมูลส่วนบุคคล https://www.promise.co.th/privacypolicy.html
+นโยบายการป้องกันและปราบปรามการฟอกเงินฯ https://www.promise.co.th/money-laundry.html",2023-03-06T08:00:00Z,2025-11-10T02:07:24Z
+th,Thailand,Finance,6015,25,1480183242,AIA+ Thailand,AIA Company Limited,https://apps.apple.com/th/app/aia-thailand/id1480183242?uo=4,0.0,4.6642,98462,Finance,"Meet AIA Thailand's new flagship Superapp, AIA+ -- an all-in-one platform combining the wellness features on AIA Vitality with the convenience of online policy servicing of AIA iService.  Whether you are looking to get healthier or simply want to manage your policy, AIA+ can easily help you with a press of a button.
+
+What's in the app:
+1.) Policy information and servicing with a faster, more convenient way to pay premiums, link your bank account to receive payments, track your claims status and much more!
+2.) Biometric health scans -- AI-powered technology that uses the camera on your mobile device to assess your heart rate, stress level and BMI
+3.) AIA Vitality, exclusively for AIA Vitality members - a smart and enjoyable way to monitor your health via the integration of the Health app, while earning points from exercising to level up your status to gain various privileges such as discounts on your premiums. Get more with AIA Vitality Plus!
+AIA+ is open to everyone regardless whether you have an AIA policy or not. Check out our complimentary content, exciting new features and receive exclusive privileges.
+
+Download AIA+ today and share your wellness journey with us.
+
+DISCLAIMERS: AIA+ IS NOT FOR MEDICAL PURPOSES
+AIA+ is not a substitute for the clinical judgment of a health care professional. AIA+ is intended to improve your awareness of general wellness. AIA+ does not diagnose, treat, mitigate or prevent any disease, symptom, disorder or abnormal physical state. Consult with a health care professional or emergency services if you believe you may have a medical issue.
+
+Compatible with iOS 13 and above.",2019-11-06T08:00:00Z,2025-11-13T08:25:38Z

@@ -1,0 +1,633 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+uz,Uzbekistan,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/uz/app/google-translate/id414706506?uo=4,0.0,4.24823,1128,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-07-10T07:33:15Z,2025-11-18T17:48:56Z
+uz,Uzbekistan,Reference,6006,2,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/uz/app/yandex-translate/id584291439?uo=4,0.0,4.78526,1942,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+uz,Uzbekistan,Reference,6006,3,365557665,Quran Majeed – القران الكريم,Pakistan Data Management Services,https://apps.apple.com/uz/app/quran-majeed-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85/id365557665?uo=4,0.0,4.86939,9716,Reference,"Most authentic Quran app since 2010.
+
+Recognized by more than 65 million Muslim users around the world.
+
+تطبيق القرآن الأكثر اعتمادا منذ عام ٢٠١٠.
+
+معترف به من قبل أكثر من ٦٥ مليون مستخدم حول العالم.
+
+Quran Majeed is an amazing Quran app that beautifies your life with the blessing of reading and listening to the Quran on the go. The latest version of the authentic Quran Majeed app for iPhone and iPad offers complete Quran in the elegant Uthmanic script, audio recitation, translations and English Tafsir Uthmani, proofread by a Muslim scholar ('alim).
+القرآن المجيد هو تطبيق مميز للقرآن الذي يجمل حياتك ببركة القراءة والاستماع إلى القرآن أثناء التنقل. الإصدار الأخير من تطبيق القرآن المجيد لأجهزة الآي فون والآيباد تقدم قرآنًا كاملاً في الكتابة العثمانية الأنيقة، وتلاوة الصوت، والترجمات، والتفاسير، وقام بمراجعته أحد العلماء
+
+● Worldwide Prayer Times clock with Azan/Adhan alarm options. Supports different prayer time calculation methods. Qibla direction. Ramadan Sehar/Iftar times
+أوقات الصلاة لجميع أنحاء العالم مع خيار تنبيه الأذان، ودعم طرق مختلفة لحساب أوقات الصلاة، وبوصلة القبلة، وأوقات السحور والإفطار
+
+● World famous reciters (Sheikh Abdul Basit, Sheikh As Sudays & As Shraym, Mishari Rashid, Saad Al Ghamdi, Abu Bakr Shatry, Sheikh Ahmed Ajmi, Sheikh Al-Huzaifi, Sheikh Mahir-al-Muayqali, Sheikh Minshawi, Sheikh Ayub, Khalil Husari, Mahmood AlBana, Salah Bukhatir & Sheikh Basfar).
+تلاوات القراء المعروفون عالميا.
+
+● Four English translations (Pickthal, Dr. Mohsin, Mahmood & Yusuf Ali) and forty-five language translations (AlBanian, Amazigh, Amharic, Azerbaijani, Bengali, Bosnian, Bulgarian, Chinese, Divehi, Dutch, French, German, Hausa, Hindi, Indonesian, Italian, Japanese, Korean, Malayalam, Malaysian, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Sindhi, Somali, Spanish, Swahili, Swedish, Tajik, Tamil, Tartar, Turkish, Urdu, Uyghur, Uzbek). 
+
+● Option to display any translation along with full Arabic text in hi-resolution, Retina graphics in both portrait and landscape viewing. Supports pinch/zoom feature for changing font size.
+خيار عرض أي ترجمة مع النص العربي الكامل بالدقة الممتازة في وضعي الأفقي والعمودي، دعم ميزة التصغير / التكبير لتغيير حجم الخط.
+
+● Islamic greeting messages (Eid Mubarak, Ramadan Kareem, ...)
+رسائل معايدة إسلامية (عيد مبارك، رمضان كريم، ...)
+
+● Qibla Direction — اتجاه القبلة
+
+● Hijri Converter — تحويل التاريخ
+
+● Quran TV feature with beautiful background videos
+تلفزيون القرآن مع مقاطع فيديو خلفية جميلة
+
+● Visual Quran feature with flip gesture
+المصحف المرئي مع إيماءة التقليب
+
+● Watch live coverage of Makkah & Madinah.
+شاهد التغطية المباشرة لمكة المكرمة والمدينة المنورة.
+
+● Selectable themes (Green, Blue, Classic-Green, Night Mode, Light & Brown).
+إمكانية اختيار الثيمات (أخضر، أزرق، الوضع الليلي، فاتح، بني)
+
+● Advanced audio options to help with memorization (repetition of ayah, Surah, number of repetitions, interval, and recitation speed).
+خيارات الصوت المتقدمة للمساعدة في الحفظ (تكرار الآية، وسورة، وعدد من حالات التكرار، وفاصل، وسرعة التلاوة).
+
+● Highly advanced “Search” feature that can help with searching any word (search exact word, affixes or all roots) in the Arabic text, any of the translations and English Tafsir.
+ميزة بحث متقدم يساعد في البحث عن أي كلمة ( الكلمة بالضبط، كل اللاحقات أو الجذور) في النص العربي، والترجمات والتفاسير
+
+● Bookmarking of Aya, translation and tafsir (supports iCloud synchronization that helps your bookmarks stay up to date on all your iOS devices).
+وضع علامة مرجعية على الأية، والترجمة، والتفسير للرجوع إليها
+
+● Quranic Aya and word highlighting during recitation.
+تظليل الآية والكلمة أثناء التلاوة
+
+● Social media sharing. Ability to share selected aya via email, twitter & Facebook.
+مشاركة في وسائل الإعلام الاجتماعية
+
+● iPad friendly interface
+تطابق واجهة أيباد
+
+Terms & Conditions
+https://pakdata.com/terms-and-conditions/
+
+Privacy Policy
+https://pakdata.com/privacy-policy/",2011-07-09T19:14:38Z,2025-11-17T05:55:37Z
+uz,Uzbekistan,Reference,6006,4,1452368807,"IslamApp: Время намаза, Кибла",Murad Rabadanov,https://apps.apple.com/uz/app/islamapp-%D0%B2%D1%80%D0%B5%D0%BC%D1%8F-%D0%BD%D0%B0%D0%BC%D0%B0%D0%B7%D0%B0-%D0%BA%D0%B8%D0%B1%D0%BB%D0%B0/id1452368807?uo=4,0.0,4.96582,14510,Reference,"Ас-саламу алейкум! 
+
+IslamApp – это время намаза в простой и наглядной программе.
+
+
+Почему IslamApp: 
+• Бесплатно и никакой рекламы
+• Точное время намазов
+• Сунна намазы: тахаджуд и духа
+• Азан. Уведомление о наступлении намаза
+• Кибла компас
+• Священный Коран
+• Удобные виджеты
+• Исламский календарь и особые дни
+• Расписание поста в Рамадан
+
+
+
+С любовью,
+Команда IslamApp",2019-03-28T00:53:07Z,2025-11-18T19:22:38Z
+uz,Uzbekistan,Reference,6006,5,6450901678,USSD kodlar,Azamjon Anvarov,https://apps.apple.com/uz/app/ussd-kodlar/id6450901678?uo=4,0.0,4.19048,21,Reference,"USSD kodlarini boshqarish va foydalanish uchun mo'ljallangan ushbu dastur, O'zbekistonning yetakchi mobil aloqa operatorlari - uchun mo'ljallangan kodlarni o'z ichiga oladi. Dastur bepul foydalanish uchun mo'ljallangan bo'lib, unda reklama yo'q va offline rejimda ishlashi mumkin, internet ulanish mavjud bo'lganda esa yangi ma'lumotlarni yuklab olish imkoniyatiga ega.
+
+Dasturda quyidagi xususiyatlar mavjud:
+
+- Tarif rejalari: Foydalanuvchilar operatorlarning turli tarif rejalari va ularning tafsilotlari haqida ma'lumot olishlari mumkin.
+
+- Internet Paketlari: Operatorlar uchun mavjud bo'lgan turli hajmdagi internet paketlari va ularni faollashtirish uchun USSD kodlar.
+
+- Daqiqa va SMS Paketlari: Har bir operator uchun mavjud bo'lgan daqiqa va SMS paketlari haqida ma'lumotlar.
+
+- Qo'shimcha Xizmatlar: Har bir operatorning qo'shimcha xizmatlari, masalan, xalqaro qo'ng'iroqlar, roaming xizmatlari va boshqalar.
+
+- Savol-Javoblar Bo'limi: Foydalanuvchilarning tez-tez so'raladigan savollariga javoblar.
+
+- Kalit So'zlar: Dasturda ""cheksiz internet"", ""Gap Yo'q tarifi"", ""cheksiz internet"" kabi kalit so'zlar bilan tezda kerakli ma'lumotlarni topish mumkin.
+
+- Tariflarni O'zgartirish: Operatorlar foydalanuvchilari uchun tarif rejasini o'zgartirish imkoniyati.
+
+- Tungi va Kunlik Internet Paketlar: Har bir operator uchun tungi va kunlik internet paketlarini o'z ichiga oladi.
+
+- Mobil Ilova: Dastur mobil qurilmalar uchun mo'ljallangan bo'lib, foydalanish juda qulay.
+
+- Yangilanishlar: Dastur doimiy ravishda yangilanib turadi, shuning uchun foydalanuvchilar doimo eng so'nggi ma'lumotlardan xabardor bo'lishlari mumkin.
+
+Ushbu dastur, O'zbekistonning turli mobil aloqa operatorlari foydalanuvchilari uchun mo'ljallangan bo'lib, ularning turli USSD kodlarini osongina topish va ulardan foydalanish imkonini beradi. Bu dastur, mobil aloqa xizmatlaridan samarali va qulay foydalanishni istagan har qanday foydalanuvchi uchun juda foydali bo'ladi.
+
+Bu dastur USSD kodlarini boshqarish uchun mo'ljallangan va foydalanuvchilarga mobil aloqa operatorlarining USSD kodlarini tez va oson tarzda topish va ishlatish imkonini beradi. Dasturda turli xil xususiyatlari bor, masalan:
+
+Keng USSD Kodlar Bazasi: Dastur, turli mobil aloqa operatorlarining USSD kodlarini keng qamrovli ro'yxatini taqdim etadi. Bu ro'yxat, balansni tekshirish, tarif rejasini o'zgartirish, internet paketlarini sotib olish kabi ko'plab amaliyotlar uchun kodlarni o'z ichiga oladi.
+
+Foydalanuvchi Dostliligi: Dastur foydalanuvchiga qulay interfeys va oddiy navigatsiya imkoniyatlarini taqdim etadi. Bu, kerakli USSD kodlarini topishni va ulardan foydalanishni juda oson qiladi.
+
+Yangilanishlar va Kengaytmalar: Dastur muntazam ravishda yangilanib turadi, bu esa eng so'nggi USSD kodlar va xizmatlar bilan ta'minlanishini ta'minlaydi.Tez Kirish Funksiyasi: Dasturda tez-tez ishlatiladigan USSD kodlarni saqlash va ularni tezda chaqirish imkoniyati mavjud. Bu foydalanuvchilarga vaqtini tejashga yordam beradi.",2023-08-08T07:00:00Z,2024-11-11T16:08:38Z
+uz,Uzbekistan,Reference,6006,6,1121892436,Qur'on O'zbek Коран Ўзбек,TopOfStack Software Limited,https://apps.apple.com/uz/app/quron-ozbek-%D0%BA%D0%BE%D1%80%D0%B0%D0%BD-%D1%9E%D0%B7%D0%B1%D0%B5%D0%BA/id1121892436?uo=4,0.0,4.19184,245,Reference,"Assalamu alaikum to everyone. Do you recite the Holy Quran Sharif regularly? If it’s yes, then we are here to help you reciting Quran majid more convenient way.
+You can get the whole Quran Sharif in our Qur'on O'zbek (Коран Ўзбек) application. Interested readers may access this application with just a few touches that will help them add more inclination to Quran. We are now leading busiest life that sometimes we can not carry holy Quran Mazeed in our tiny bag. In this circumstance, if we need any ayat of Quran at any moment, then the medium or something like the medium of Quran we need, that can hold the whole holy Quran in a body. You can just use this application to eradicate this kind of difficulty. This is how this application can help you.
+
+Every one knows that, there are totally 6236 ayats in Al-Quran and a reader will get ten sawab for one letter of Quran. Recitation of the holy Quran Sharif: ""There is no doubt that Quran Sharif is the best guide in this world"". Our Qur'on O'zbek (Коран Ўзбек) application maintains the way like the book form of Quran majeed maintains itself. So a reader might not face any problem in the time of recitation. Hence, with honour and respect, you can keep it reading through our Qur'on O'zbek (Коран Ўзбек) application as like as you read the book of Quran Sharif before.
+
+With this Islamic book app, you are getting Hafizi quran with real page-curl experience. This is not just a textual app, it is an audio Quran app. You can listen telwat of Quran ayats continuously (internet connection required). You can search words or topic in O'zbek (Ўзбек) on this iOS Quran app. Bookmark the ayat / verse you like / quote. Share the ayat / verse you want.
+
+MAIN FEATURES:
+• Al Quran (Qur'oni Karim): The Holy Quran with audio recitations, phonetics, tafsir and translations in French languages.
+• Salat Times (Namoz vaqtlari): Accurate prayer times based on your current location.
+• Tasbih: Beautifully animated counter to count your daily dhikr.
+• Qibla Finder: Animated Qibla compass to show you the direction to Makkah.
+• 99 Names of Allah (Allohning go'zal ismlari)
+• Dark Mode (Qorong'i rejim)
+
+Feature details:
+
+Al Quran:
+- Read Complete Quran Majeed 114 Surah and 30 para part by part.
+- Listen Holy Al Qur'an Ayat in Arabic Audio with at least 17 Quran Reciters.
+- Quran recitation with audio translation in many languages.
+- 6 widely-used high quality Quranic prints (Hafizi-Quran).
+- Verse selection, bookmark, share feature.
+- Comprehensive search feature
+- Word by Word Quran.
+- World renowned reciters (Sheikh Abdul Basit Abdul Samad, Ali Abdur-Rahman Al Hudhaify, Maher Al-Mueaqly, Abdullah Ali Jabir, Abdul Rahman Al-Sudais, Mishary Rashid Alafasy, Saud Al-Shuraim, Saad Al-Ghamdi, Yasser Al-Dosari, Sheikh Ayman Suwayd, Raad Mohammad Al Kurdi, Muhammad Siddiq Al-Minshawi, Abdullah al Juhany etc.)
+
+Salat Times:
+- Shows Muslim Prayer Times: Tahajjud, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Ishraq, Duha (Chast), Iftar and Sahri.
+- Four juristic methods (Mazhab): Hanafi, Shafii, Maliki, Hanbali.
+- Options to adjust the prayer times.
+
+Qibla Finder:
+Find the accurate Qibla direction Finder from the compass.
+-Qibla direction app shows you where the Qibla is, even in an offline mode with the help of its compass feature.
+- Find Kaaba/Makkah Direction from the any part of the world.
+
+Tasbih:
+- Very useful tool to count zikr.
+-Keep tracking of Tasbih count and also calculate how many times and when you recited names of Allah.
+
+99 Names of Allah:
+- Read 99 Names of Allah (Asma Ul Husna) in Arabic and meanings in your native language.
+- Listen to the audio for each name and easy to play/pause",2016-06-10T01:11:24Z,2024-03-12T19:25:55Z
+uz,Uzbekistan,Reference,6006,7,6444673015,Hesap,"HESAP, MCHJ",https://apps.apple.com/uz/app/hesap/id6444673015?uo=4,0.0,3.7,20,Reference,"Our program displays all your accounting processes electronically. Through the program, you can receive information about each performed process. You can also see the statuses of other users (if allowed)",2023-03-04T08:00:00Z,2025-10-30T09:54:37Z
+uz,Uzbekistan,Reference,6006,8,6745495206,Citypharm,"CITY PHARM, MAS ULIYATI CHEKLANGAN JAMIYATI",https://apps.apple.com/uz/app/citypharm/id6745495206?uo=4,0.0,4,4,Reference,Поиск лекарственных средств на территории Республики Узбекистан,2025-06-30T07:00:00Z,2025-10-21T21:54:36Z
+uz,Uzbekistan,Reference,6006,9,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/uz/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,4.59999,5,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+uz,Uzbekistan,Reference,6006,10,6648782214,Med24.uz,"SMART MEDIA SOLUTIONS, MASULIYATI CHEKLANGAN JAMIYATI",https://apps.apple.com/uz/app/med24-uz/id6648782214?uo=4,0.0,5,6,Reference,"Med24 — каталог клиник и лабораторий
+
+Каталог организаций: клиники, лаборатории и диагностические центры по Узбекистану.
+Контакты и навигация: телефоны, адреса, часы приёма, карта проезда.
+Онлайн-заявка: отправьте заявку или запросите обратный звонок без ожидания на линии.
+Фильтры: район, график работы, рейтинг, цена, доступность по времени.
+Уведомления: напоминания о брони/визите (если есть).
+Приложение не оказывает медицинских услуг и не даёт медсоветов; для экстренных ситуаций используйте номер 103.",2024-11-24T08:00:00Z,2025-11-10T17:22:23Z
+uz,Uzbekistan,Reference,6006,11,1447056625,Namaz App: Learn Salah Prayer,Nursultan Askarbekuly,https://apps.apple.com/uz/app/namaz-app-learn-salah-prayer/id1447056625?uo=4,0.0,4.87779,1972,Reference,"Learn Salah/Namaz from scratch, memorize surahs of the Quran, learn Dua, and check prayer times. Suitable for beginners.
+
+What is Namaz?
+Namaz is the daily muslim prayer, also known as Salat or Salah. It is one of the five pillars of Islam and the best way of worshipping Allah the Almighty.
+
+Description:
+This app is an audio player for you to listen to the correct pronunciation of the prayers in Arabic. It will help you to learn the dua-invocations and parts of the Quran that are read inside the prayer. You will also have the texts in English transliteration and some illustrations to help you navigate through the process. All content is in accordance with the rules of the Hanafi school of law.
+
+Important to understand, that this is a companion app, and it is not sufficient to fully learn the prayer on its own. We also strongly recommend that you learn to read Arabic, as English letters and phonemes are not sufficient to convey all sounds found in Arabic. Learning to read Arabic will allow you to perform your prayers in the best way and will give you access to the Holy Quran. The easiest and most effective way to learn both prayer and reading Arabic is to find a good teacher.
+
+Attribution:
+- Prayer images were kindly provided by the Muslim web portal Azan.kz
+- Prayer times are fetched from the open API of Aladhan.com
+- The Charity elements icon pack used in the ""Support us"" module was created by Eucalyp - Flaticon (https://www.flaticon.com/packs/charity-elements-4)
+- The Calendar icon  used in the ""Recurring Donation"" screen was created by Freepik - Flaticon (https://www.flaticon.com/free-icons/year)
+
+The Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2018-12-21T00:57:19Z,2025-11-11T23:36:12Z
+uz,Uzbekistan,Reference,6006,12,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/uz/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.82278,21290,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2011-07-10T00:14:22Z,2025-11-13T13:29:55Z
+uz,Uzbekistan,Reference,6006,13,1608798574,LexUz,Yusufjon Normurodov,https://apps.apple.com/uz/app/lexuz/id1608798574?uo=4,0.0,4.21053,19,Reference,"LEX.UZ – O‘zbekiston Respublikasi Qonunchilik maʼlumotlari milliy bazasi orqali normativ-huquqiy hujjatlarni oson hamda qulay shaklda izlash va ular bilan tanishish imkonini beradi.
+
+Mazkur mobil ilovaning qulay xususiyatlari:
+– universal hamda kengaytirilgan qidiruv;
+– tanlangan hujjatlarni shaxsiy kabinetda ko‘rsatish;
+– so‘nggi qabul qilingan qonunchilik hujjatlari bilan tanishish;
+– hujjat bilan tanishish uchun maxsus qo‘shimcha sozlanmalar;
+– hujjatlarni qulay formatlarda yuklab olish.",2022-03-14T07:00:00Z,2023-05-12T22:21:57Z
+uz,Uzbekistan,Reference,6006,14,6740017050,Translate Ease,GOOD STUDY NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/uz/app/translate-ease/id6740017050?uo=4,0.0,4.84905,106,Reference,"In this globalized world, overcoming language barriers has become more important. Our Translate Ease is committed to providing you with accurate and fast translation services, allowing you to easily solve any language translation problems you need, no matter where you are.
+
+Applicable scenarios:
+Travel: Whether it is a restaurant menu, traffic signs, or interactions with locals, the translation app can help you quickly understand.
+Business: When communicating with multinational companies and customers, the translation app allows you to easily handle emails, documents, and calls in various languages.
+Learning: A must-have for partners learning new languages, translate words, phrases, and sentences anytime, anywhere to accelerate the language learning process.
+Daily life: Translate shopping tags, recipes, news, etc. to help you better understand content in different languages.
+
+Why choose us?
+High accuracy: Using advanced translation algorithms to ensure accurate translation results.
+User-friendly: The simple interface design makes it easy for you to get started and quickly find the functions you need.
+Fast and efficient translation experience, easily cope with various scenarios such as daily conversations, business emails, travel routes, etc.
+Voice translation function allows you to speak the language directly without typing, and the application will instantly recognize and translate, bringing a smoother communication experience.
+
+Let communication without borders, experience seamless global communication. Download the Translate Ease app now and make every communication simple and hassle-free!",2025-01-11T08:00:00Z,2025-09-09T20:40:43Z
+uz,Uzbekistan,Reference,6006,15,6450601553,Uzbek/English Dictionary,FB PUBLISHING LLC,https://apps.apple.com/uz/app/uzbek-english-dictionary/id6450601553?uo=4,0.0,4.62037,648,Reference,"Discover your linguistic prowess with our Uzbek-English and English-Uzbek Dictionary!
+
+Instantly Accessible: Why wait? Get immediate translations by simply tapping on the word you're curious about.
+
+Comprehensive Vocabulary: Dive into our abundant database boasting over 100,000 words. Amplify your understanding and widen your communicative horizons.
+
+Offline Capability: No internet? No issue. Obtain translations anytime, anywhere - even without an internet connection.
+
+Modern & Up-to-date: Keep pace with the evolving language as our database continually refreshes with contemporary terms and expressions.
+
+Lightweight: We respect your device's storage. Our app, weighing only 16 Mb, installs rapidly and won't strain your device's memory.
+
+Indispensable for Quick Translations: When speed and efficiency are what you require, our app is your ultimate tool.
+
+Completely Free: We are committed to making this potent tool available to everyone, free of charge! This app is ad-supported, ensuring it stays open to all. Enabling app tracking across other companies' apps and websites allows us to offer you personalized ads attuned to your interests, enriching your overall app experience.
+
+Download now and step into a world where language ceases to be a hurdle!",2023-06-23T07:00:00Z,2023-11-29T12:18:31Z
+uz,Uzbekistan,Reference,6006,16,706037876,Ayah - Quran App,Abdullah Bajaber,https://apps.apple.com/uz/app/ayah-quran-app/id706037876?uo=4,0.0,4.9019,683,Reference,"Ayah is a modern, fully-featured Quran app that is beautiful and easy to use.
+
+Ayah's clean, intuitive interface makes for a relaxing reading experience without any visual clutter. It's also fast to help you get back reading as quickly as possible.
+
+With Ayah, you can listen to your favorite Quran recitations, with verse-by-verse highlighting and customizable repeat options.
+
+
+FEATURES
+• The latest edition of the Madinah Mushaf
+• Tens of reciters to choose from
+• Extensive sharing options
+• Khatmah
+• Colorful bookmarks
+• Starred verses
+• Quick searching
+• Verse of the day
+• Thematic highlighting
+• Reminders
+• Dark Mode
+
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2013-10-03T20:18:43Z,2025-03-20T18:07:44Z
+uz,Uzbekistan,Reference,6006,17,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/uz/app/deepl-translate/id1552407475?uo=4,0.0,4.81372,102,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+uz,Uzbekistan,Reference,6006,18,1446701362,Русско-Узбекский словарь,Murodjon Karimov,https://apps.apple.com/uz/app/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE-%D1%83%D0%B7%D0%B1%D0%B5%D0%BA%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/id1446701362?uo=4,0.0,3.525,40,Reference,Русско-Узбекский словарь содержат более чем 150 000 слов и словосочетаний. Приложение работает в режиме оффлайн.,2018-12-15T05:31:06Z,2019-12-02T19:03:38Z
+uz,Uzbekistan,Reference,6006,19,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/uz/app/oxford-dictionary/id978674211?uo=4,0.0,4.73407,361,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2015-06-26T07:50:37Z,2025-11-18T21:39:49Z
+uz,Uzbekistan,Reference,6006,20,1086314191,Muslim Dawah Quran Salat Time,TopOfStack Software Limited,https://apps.apple.com/uz/app/muslim-dawah-quran-salat-time/id1086314191?uo=4,0.0,4.73134,134,Reference,"Muslim Dawah is one of the top popular Muslim apps. It's very necessary for Pro Muslims all over the world.
+
+Muslims around the world use the app for most accurate prayer time with Qibla direction and Quran with native translation, Arabic scripts and audio recitation. This is the best Islamic app for religious muslims. Muslim Dawah app which can be used as all in one as it contains Al Quran, Prayer Times, Supplication, Qibla compass, Tasbih, Duas, Kitab, Hadith and Zakat calculator.
+
+MAIN FEATURES:
+• Al Quran: The Holy Quran with audio recitations, phonetics, tafsir and translations in 60 languages.
+• Salat Times: Accurate prayer times based on your current location. Alarm feature with Adhan audio.
+• Tasbih: Beautifully animated counter to count your daily dhikr.
+• Qibla Finder: Animated Qibla compass to show you the direction to Makkah.
+• Masjid Finder.
+• Rich collection of duas and supplications with audio.
+• Vast collection of 55000+ Hadiths including Bukhari, Sahih Muslim, Tirmidhi, Nasa'i, Abu Dawud, Ibn Majah, Musnad Ahmad, Al-Muwatta by Imam Malik and other Al Hadith Books.
+• 5200+ Islamic books.
+• 99 Names of Allah
+• Zakat Calculator.
+• Watch live coverage of Makkah.
+• Dark Mode
+• Widget
+
+Feature details:
+Al Quran:
+- Read Complete Quran Majeed 114 Surah and 30 para part by part.
+- Listen Holy Al Qur'an Ayat in Arabic Audio with at least 15 Quran Reciters.
+- Quran recitation with audio translation in English, Bangla, Hindi, Urdu, Bahasa Indonesia, German, Russian, Spanish, French and Turkish.
+- 6 widely-used high quality Quranic prints (Hafizi-Quran).
+- Verse selection, bookmark, share feature.
+- Comprehensive search feature
+- Word by Word Quran.
+- World renowned reciters (Sheikh Abdul Basit Abdul Samad, Ali Abdur-Rahman Al Hudhaify, Maher Al-Mueaqly,  Abdullah Ali Jabir, Abdul Rahman Al-Sudais, Mishary Rashid Alafasy, Saud Al-Shuraim, Saad Al-Ghamdi, Yasser Al-Dosari, Sheikh Ayman Suwayd, Raad Mohammad Al Kurdi, Muhammad Siddiq Al-Minshawi, Abdullah al Juhany etc.)
+
+Salat Times:
+- Shows Muslim Prayer Times: Tahajjud, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Ishraq, Duha (Chast), Iftar and Sahri.
+- Four juristic methods (Mazhab): Hanafi, Shafii, Maliki, Hanbali.
+- Options to adjust the prayer times.
+
+Supplications:
+- Shows supplication about death, house, eating, Toilet, sleep, Tour, Socialization, Marriage, Decor, Affliction, Danger, Thunderstorms, Durood, Istighfar, Rabbana, Mosjid, Salat Eid, Hajj, Ramadan, Surah, Special Salat and others.
+- Don't forget to read Dua's daily, you can see in both Arabic and your language.
+
+Qibla Finder:
+Find the accurate Qibla direction Finder from the compass.
+-Qibla direction app shows you where the Qibla is, even in an offline mode with the help of its compass feature.
+- Find Kaaba/Makkah Direction from the any part of the world.
+
+Tasbih:
+- Very useful tool to count zikr.
+-Keep tracking of Tasbih count and also calculate how many times and when you recited names of Allah.
+
+99 Names of Allah:
+- Read 99 Names of Allah (Asma Ul Husna) in Arabic and meanings in your native language.
+- Listen to the audio for each name and easy to play/pause
+
+Language:
+- This app is translated in 61 languages: English, عربى, Shqip, Amharic, azərbaycan, Bahasa Indonesia, Bahasa Melayu, Bangla (Bengali), Amazigh (Berber), Bosanski, български, 中文, čeština, Nederlands, Español, فارسی , Français, Deutsch, Hausa, हिन्दी / हिंदी (Hindi), Italiano, 한국어, Kurdî / کوردی, Malayalam, Dhivehi, Norwegian Bokmål, Polski, Português, Română, русский, سنڌي ( Sindhi ), Soomaaliga, Kiswahili, Svenska, тоҷикӣ / toçikī / تاجیکی‎ ( Tajik ), Tamil, Татарча, ไทย, Türkçe, اردو , ئۇيغۇرچە‎ ( Uyghur ), O'zbek / Ўзбек, Assamese, עִבְרִית‎, 日本語, қазақша, پښتو etc.
+
+
+quran,muslim,islam,arabic,muhammad,allah,koran,dua,coran,nemaz,azan,salat,Ramzan,Hafezi Quran,ramadan,hajj,mushaf,tajwid, madani, saudi,tajweed,क़ुरआन, الحج, رمضان, التجويد, مصحف, الحافظ, مصحف الحافظ للقرآن, مصحف التجويد, مصحف,مصحف الحافظ للقرآن, قرآن, recitation.",2016-02-26T01:01:34Z,2025-08-14T08:48:14Z
+uz,Uzbekistan,Reference,6006,21,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/uz/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,0,0,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+uz,Uzbekistan,Reference,6006,22,6739621237,Tilmoch,Mukhammadsaid Mamasaidov,https://apps.apple.com/uz/app/tilmoch/id6739621237?uo=4,0.0,5,4,Reference,O‘zbek tilida hamma xatosiz va ravon yoza olishiga ishonamiz!,2025-04-21T07:00:00Z,2025-11-03T02:46:56Z
+uz,Uzbekistan,Reference,6006,23,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/uz/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.81048,1699,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+uz,Uzbekistan,Reference,6006,24,728359831,Cambridge English Dictionary,Cambridge University Press & Assessment (App),https://apps.apple.com/uz/app/cambridge-english-dictionary/id728359831?uo=4,0.0,3.31429,35,Reference,"FREE PREVIEW 
+Full wordlist and sample entries are available to preview the dictionary content and to try the app functionality.
+_____________
+
+With 140,000 words, phrases and examples, meanings, British and American English word pronunciations, Cambridge Advanced Learner's Dictionary, fourth edition is trusted by millions of English learners worldwide. 
+
+Every dictionary entry has thesaurus sections that show related words, phrases and synonyms for each meaning, helping you to expand your English knowledge. Informed by the Cambridge International Corpus, the dictionary is ideal for IELTS, BEC and Cambridge English: First, Advanced, and Proficiency exam preparation. 
+
+User Reviews	
+***** Great for those who learn English. 
+***** My favorite dictionary ever!
+***** Smart thesaurus is awesome!!
+_____________
+
+Learning Features: 
+
+• British and American English audio pronunciations, recorded by native speakers
+• SMART Thesaurus feature gives you related words and phrases at every definition, , not just synonyms 
+• Flash Card Quiz to help you memorize new words
+• Favourites - to help you quickly access frequently searched words
+• Search History to revise your recent searches
+• Table of English Irregular Verbs provides a useful reference resource
+
+Search Features: 
+
+• CALD will understand and find a word from any grammatical form
+• iOS Share. Select any text on Safari sites, emails and share with CALD to get words’ definitions
+• Multiple clipboard look-up. Copy any text from other apps and view the words’ definitions one by one when you open the CALD
+• Full Text Search. Look up words throughout the whole dictionary content, including headwords and usage examples
+• Similar Words Search in case of misspelling
+• Wildcard Search. Use “?” and “*” symbols to replace letters if you’re unsure of the correct spelling. 
+• Anagram Search (e.g. tab-bat)
+• Hyperlinks between entries: tap on the word in the article to see its definition
+
+Interface Features: 
+
+• No Internet connection required
+• Modify animated menus and choose background colours
+• Enlarge or reduce font size for your comfort
+• PenReader multilingual handwriting recognition support
+
+
+About Cambridge
+Founded in the mid-16th century, Cambridge University Press is a world-leading publisher of English learning materials. Playing a leading role in today's global educational market, Cambridge University Press publishes titles written by authors in over 100 different countries.",2014-07-24T08:19:29Z,2020-06-16T11:16:13Z
+uz,Uzbekistan,Reference,6006,25,1204266858,Uzbek Russian Translator,佩芬 屈,https://apps.apple.com/uz/app/uzbek-russian-translator/id1204266858?uo=4,0.0,2.97143,35,Reference,"Free translator from Russian to Uzbek and from Uzbek to Russian
+
+This app can easily translate words and sentences will be translated from Uzbek to Russian,and translated from Russian to Uzbek.
+
+Product Features:
+- Translation of words and sentences.(Uzbek pronunciation is not support yet)
+- Voice audio pronunciation.
+- Find the clipboard sentence.
+- Translation results clearly definitions, can be used as a Uzbek(Russian) dictionary.
+- Search histories.
+- Share translate results.
+- Simple and user-friendly interface
+- Translate result with phonetic.",2017-02-09T23:12:05Z,2017-02-09T23:12:05Z

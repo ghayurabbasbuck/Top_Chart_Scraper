@@ -1,0 +1,483 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+vg,"Virgin Islands, British",Kids,36,1,6754965324,Data Self - Portrait,Flora Carmen,https://apps.apple.com/vg/app/data-self-portrait/id6754965324?uo=4,0.0,0,0,Finance,"Data Self-Portrait is a unique application for tracking life data and artistic visualization. By recording daily data such as sleep, consumption, mood and activities, the application transforms the dull numbers into flowing abstract art graphics, allowing you to ""see"" your life patterns from a new perspective. The minimalist information visualization design style, combined with the colorful data flow effect, enables your personalized data portrait to continuously evolve with each data addition, showcasing your unique life trajectory. It supports data statistics analysis, historical record management and data export functions. All data is stored locally, ensuring the protection of your privacy and security.",2025-11-07T08:00:00Z,2025-11-07T09:38:38Z
+vg,"Virgin Islands, British",Kids,36,2,6755330566,MetricsStraightTool,Vo Thi Ha Giant,https://apps.apple.com/vg/app/metricsstraighttool/id6755330566?uo=4,0.0,0,0,Productivity,"MetricsStraightTool is a handy app that helps you quickly check and understand your measurements. It lets you compare deviation against allowed tolerance and gives an instant Pass/Fail result. You can calculate percentage error, track drift over time, and see the average, minimum, and maximum of repeated readings. The app also gives you basic standard deviation and a simple combined uncertainty so you know how reliable your numbers are. A resolution vs tolerance checker shows if your instrument is fine enough for the job. For calibration work, you can do fast 2-point linear calibration to find slope and offset. You can also fit a straight line using 3 or more calibration points for better accuracy. An angle-to-offset calculator converts angle error into linear displacement, making alignment checks easy.",2025-11-15T08:00:00Z,2025-11-15T14:23:44Z
+vg,"Virgin Islands, British",Kids,36,3,6755329446,ToleranceTimeMonitor,Horain satti Ali,https://apps.apple.com/vg/app/tolerancetimemonitor/id6755329446?uo=4,0.0,0,0,Productivity,"ToleranceTimeMonitor is a smart app to make measurement and calibration tasks easier. It helps users check tolerance, accuracy, and repeatability with clear and quick tools. The app includes useful calculators like Tolerance Checker Pro, Resolution Adequacy Checker, and Smart Percentage Error for fast checks. You can also find tools to handle multiple readings, monitor drift over time, and calculate standard deviation. For calibration work, it offers 2-Point and Multi-Point Curve Builders along with a handy Correction Table Generator. The Uncertainty Budget Mini helps you estimate total measurement uncertainty with ease. Our goal is to save your time, reduce manual errors, and make every calculation simple, accurate, and reliable.",2025-11-15T08:00:00Z,2025-11-15T13:40:14Z
+vg,"Virgin Islands, British",Kids,36,4,6755351555,FluidDensityFlow,Nguyen Thi Cuong,https://apps.apple.com/vg/app/fluiddensityflow/id6755351555?uo=4,0.0,0,0,Productivity,"FluidDensityFlow is a simple and handy app designed for engineers and technicians working with valves, pipes, and flow systems. It helps you perform quick calculations related to fluid flow, pressure, temperature, and mechanical strength — all in one place. The app includes useful tools like mass flow rate, pipe velocity, and valve size suggestion to make your work faster and easier. You can also check choked flow, leakage rate, and pressure ratios with just a few inputs. For mechanical checks, it calculates safety factors and actuator power demands with simple formulas. FluidDensityFlow is built to save time, reduce manual work, and support accurate results in daily engineering tasks. It’s your easy companion for smart and reliable flow system calculations.",2025-11-16T08:00:00Z,2025-11-16T09:51:30Z
+vg,"Virgin Islands, British",Kids,36,5,680066765,A very short history of U.S.A,红 陈,https://apps.apple.com/vg/app/a-very-short-history-of-u-s-a/id680066765?uo=4,0.0,0,0,Reference,A very short history of the united states in Chinese audio.,2013-08-08T17:39:33Z,2022-04-28T18:45:16Z
+vg,"Virgin Islands, British",Kids,36,6,6755326834,ViscosityOptimiserTool,Burhan KEMER,https://apps.apple.com/vg/app/viscosityoptimisertool/id6755326834?uo=4,0.0,0,0,Productivity,"ViscosityOptimiserTool is a  easy-to-use app for pump and fluid engineers. It helps you quickly analyse how viscosity and cavitation affect pump performance. The tool includes simple calculators for viscosity correction, suction performance, and cavitation checks. You can easily estimate inducer size, eye diameter, and inlet blade angles for better pump design. It also helps assess tip speed effects, impeller trimming impact, and non-Newtonian flow behaviour. With clear inputs and instant results, the app saves time and improves accuracy. Whether for design, testing, or troubleshooting, ViscosityOptimiserTool makes fluid calculations simple and reliable.",2025-11-15T08:00:00Z,2025-11-15T10:08:37Z
+vg,"Virgin Islands, British",Kids,36,7,6755326531,SpanSurveyTrker,Yakup SANAY,https://apps.apple.com/vg/app/spansurveytrker/id6755326531?uo=4,0.0,0,0,Productivity,"SpanSurveyTrker is a field app to help teams check and record power line patrols with less hassle and fewer mistakes. Inspectors can log each patrol with date, time, GPS spot, span or tower number, weather, issues found, and how serious the problem is, all in one place. Wire height checks are easy too, with simple forms for span ID, GPS, measured height, tool used, and field notes. The app keeps all patrol and wire height records tidy and ready to review later. Built-in converters let you switch load and force units (N, kN, kgf, lbf) and angle units (degrees, radians, slope %) in a few taps. You can also change GPS coordinates between DMS and decimal degrees without leaving the app. Extra tools convert speed (m/s, km/h, mph), tension (kN, lbs, daN), and elevation or height (m, ft), so field staff do not need a calculator. SpanSurveyTrker keeps line survey work simple, clear, and fast for people working outdoors.",2025-11-15T08:00:00Z,2025-11-15T10:50:46Z
+vg,"Virgin Islands, British",Kids,36,8,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/vg/app/chatgpt/id6448311069?uo=4,0.0,4.76857,350,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+vg,"Virgin Islands, British",Kids,36,9,1296737166,新世纪英汉汉英大词典-CATTI推荐词典,"Shanghai Haidi Digital Publishing Technology Co., Ltd.",https://apps.apple.com/vg/app/%E6%96%B0%E4%B8%96%E7%BA%AA%E8%8B%B1%E6%B1%89%E6%B1%89%E8%8B%B1%E5%A4%A7%E8%AF%8D%E5%85%B8-catti%E6%8E%A8%E8%8D%90%E8%AF%8D%E5%85%B8/id1296737166?uo=4,0.0,0,0,Reference,"# 荣获大奖 ——
+《新世纪英汉大词典》曾获：
+第八届高等学校科学研究优秀成果奖（人文社会科学）二等奖
+《新世纪汉英大词典》曾获：
+第四届中国高校人文社会科学研究优秀成果奖二等奖、陕西省哲学社会科学优秀成果奖一等奖等奖项
+
+*** CATTI备考专区 ***
+【名师课程】
+“李长栓名师课-北外高翻教授的CATTI翻译秘籍”、 “车云峰名师课-资深编辑带你翻译避坑”、“发音秘方-碎片时间习练标准英语语音”等名师课程点击即学，相关内容持续更新，为你的CATTI考试保驾护航。
+
+【独家资料】
+“时政语汇-CATTI常考必刷”、“中华思想文化术语-翻译、文化双提升”、“用英语讲述中国”等独家资料助你轻松备考，全面提升英语能力素养。
+
+*** 内容特色 ***
+【全国翻译专业资格（水平）考试（CATTI）推荐词典】
+《新世纪汉英大词典》第三版
+《新世纪汉英大词典》初版问世即广受赞誉，被称为第四代汉英词典的开山之作。第三版增收4000余条新词和近2万条新义新用法，收录条目总计近16万条，例证近17万个；同时特别增设翻译速查、翻译点津、话题词汇等专栏共132个，详解汉英翻译中的常见难点、疑点、易错点。
+
+《新世纪英汉大词典》
+《新世纪英汉大词典》由外语教学与研究出版社联合英国柯林斯出版公司历时八载共同编写而成，依托英语语料库the Collins Corpus，收录25万词条、35万义项和15万例证，提供10万搭配词，是目前规模最大的英汉词典。
+ 
+【地道发音】
+词目、英语例句、汉语例句的英译文均配有标准发音，英语词目额外支持跟读评测。
+ 
+【双向句库】
+32万英汉、汉英例句库，输入任意英语、汉语关键词，一站式查学两部权威词典中的全部相关例句。
+ 
+【真实语料】
+所收录例证依托英语语料库（the Collins Corpus），语料鲜活、实用、权威。
+ 
+【翻译提升】
+翻译速查、翻译点津、话题词汇、中国机构团体、中国世界遗产等20余个学习专栏，助你拓展主题词汇、丰富表达储备、解决翻译易错点，帮助CATTI考生及广大翻译工作者高效提升翻译水平。
+ 
+【每日一学聚沙成塔】
+图解文化词汇、新词精选、历史上的今天、每日一译、每日一词、每日用法等栏目，每天10分钟，识新词、读语法、懂搭配、会表达，让学习循序渐进、积少成多。
+ 
+*** 功能特色 ***
+【全能翻译】
+● 文本、语音、拍照三种智能翻译方式，满足你学习、翻译、工作、日常交流等各种场景需求。
+● 只需输入所查单词的完整句子，AI不仅能提供句子的翻译，还能智能判定句子中单词的词性、释义，点击单词即可一步定位到词典内容，查词更快、更准、更便捷。
+
+【AI学词】
+● 词表音频一键连播，边听边背，高效利用碎片时间。
+● 个性化定制背诵计划，AI根据艾宾浩斯记忆曲线智能提醒复习，轻松记住单词。
+● 各类背诵词书，一应俱全：四六级/考研/考博/专四/专八/雅思/托福/GRE/新概念全四册/时政语汇/中华思想文化术语等独家特色词表，满足多样化的词汇学习需求。
+ 
+【全局点击查词】
+学习时遇到不懂的词汇怎么办？无需退出当前界面，点击不懂的英语单词即可立刻查询，减去返回主界面再查词的操作步骤，不会的词一点即查，提高学习效率。
+ 
+【学习记录云端存储】
+在本地和云端同步存储学习记录，包括学习计划、学习进度、个人收藏等，再也不用担心学习进度丢失。
+ 
+备考CATTI就用新世纪英汉汉英大词典App，一站式提供英语翻译相关知识的查阅、学习和练习服务，助你掌握翻译技巧，提升翻译准确率！
+外语教学与研究出版社携手上海海笛数字出版科技有限公司出品，选择正版应用，学习更有保障！（版权所有，盗版必究）",2017-11-02T03:40:29Z,2025-11-11T21:00:03Z
+vg,"Virgin Islands, British",Kids,36,10,6755328039,DynamicLoadCalci,Eda CEYLANI AR,https://apps.apple.com/vg/app/dynamicloadcalci/id6755328039?uo=4,0.0,0,0,Productivity,"DynamicLoadCalci is a smart app made to help engineers, students, and technicians with quick mechanical and load-related calculations. It brings together a set of easy tools like force, pressure, speed, and energy estimators all in one place. You can also check safety factors, plan calibration intervals, and compare instrument readings without any hassle. The app is designed with a clear layout and easy input fields, so anyone can use it without confusion. Whether you are studying mechanics or working in the field, DynamicLoadCalci saves your time and helps you get accurate results. It also includes a unit conversion hub for quick conversions during work. Our goal is to make technical calculations simple, fast, and reliable for everyone.",2025-11-15T08:00:00Z,2025-11-15T11:28:55Z
+vg,"Virgin Islands, British",Kids,36,11,585027354,Google Maps,Google LLC,https://apps.apple.com/vg/app/google-maps/id585027354?uo=4,0.0,4.65689,341,Navigation,"Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling and public transport. Discover over 250 million businesses and places – from restaurants and shops to everyday essentials – with photos, reviews and helpful information.
+
+Navigate the world, the way that you want:
+• Get to where you need to go with fuel-efficient route options
+• Find the best route with real-time, turn-by-turn voice and on-screen navigation
+• Save time with automatic rerouting based on live traffic, incidents and road closures
+• Catch the bus, train and ride-share effortlessly, with real-time updates
+• Find bike or scooter rentals to get around more easily
+
+Plan trips and experiences effortlessly:
+• Preview an area before you go (e.g. parking, entrances) with Street View
+• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so that you can be ready in advance
+• Create custom lists of your favourite saved places and share with others
+• Order delivery and takeaway, make reservations and book hotels
+• Don't get lost with offline maps in an area with bad signal
+• Search for local places and things to do, and decide based on user reviews and photos
+
+Discover and explore like a local:
+• Explore with confidence knowing 500 million users contribute and keep the map up to date each year
+• Avoid the crowds by seeing how busy a place is before you get there
+• Use Lens in Maps to see walking directions overlaid on the real world
+• Filter restaurants by cuisine, hours, price, rating and more
+• Ask questions about a place, from dishes to parking, and get quick answers
+
+Some features not available in all countries or cities
+Navigation isn't intended to be used by oversized or emergency vehicles",2018-01-22T22:51:02Z,2025-11-20T16:03:21Z
+vg,"Virgin Islands, British",Kids,36,12,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/vg/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.56863,204,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-17T00:10:48Z
+vg,"Virgin Islands, British",Kids,36,13,1528940523,VPN - Fast VPN Super ™,TOPAPPS TECH PTE LTD,https://apps.apple.com/vg/app/vpn-fast-vpn-super/id1528940523?uo=4,0.0,4.7375,80,Productivity,"VPN - Fast VPN Super
+Protect your security and privacy with ease. Stay safe and anonymous online with just one tap to connect.
+Our app ensures your online safety and anonymity effortlessly.
+
+■ Key Features:
+Effortless one-click connection for secure browsing
+Access to multiple high-speed dedicated VPN servers
+Unlimited bandwidth for seamless streaming and downloading
+Full unlimited VPN without any session limitations
+No registration required
+Stable connections at home and abroad
+Private and incognito browsing experience
+Lightning-fast VPN speeds for seamless connections
+Hotspot VPN protection for enhanced security
+Express VPN speeds comparable to a turbo for your VPN
+Private Internet Access with the convenience of a super VPN, all for free
+
+■ Security Highlights of of Fast VPN Super:
+Encrypted secure DNS to prevent unauthorized access
+Traffic encryption for enhanced security
+DNS & IP leak protection for secure connections
+Strict no-logs policy for complete privacy
+Instant IP change for enhanced anonymity
+Fast VPN Super is a free VPN proxy that offers limitless browsing capabilities.
+Enjoy unrestricted and secure browsing with our completely free virtual private network.
+Connect with a single tap and experience the internet like never before with Fast VPN Super,
+your trusted VPN companion.
+
+■ Where can you use Fast VPN Super ?
+The possibilities are endless. With numerous servers across different locations,
+Fast VPN Super caters to everyone's VPN needs.
+
+Experience seamless VPN performance across the globe with servers in:
+
+USA
+United Kingdom
+Netherlands
+Germany
+Singapore
+Spain
+France
+India
+Canada
+Japan
+Italy
+Austria
+Australia
+Switzerland
+Belgium
+Hong Kong
+UAE
+Discover the power of Fast VPN Super, a truly super VPN solution.
+
+Fast VPN Super, a genuinely free super power VPN.
+
+■ About Subscriptions
+You can become a premium user through an auto-renewable subscription
+
+Weekly: $1.99
+Monthly: $5.99
+Yearly: $53.99
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase
+• You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098 for more information
+• You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period
+• Any unused portion of a free-trial period, will be forfeited when the user purchases a subscription
+
+■ Terms of Service: https://www.supershell.me/about/tos.html
+■ Privacy Policy: https://www.supershell.me/about/privacy.html
+■ Contact Us: hotspotvpn.lab@gmail.com
+
+Install VPN - Fast VPN Super now to enjoy the internet with enhanced privacy and security!",2020-10-22T07:00:00Z,2025-11-19T11:00:42Z
+vg,"Virgin Islands, British",Kids,36,14,6477489729,Google Gemini,Google LLC,https://apps.apple.com/vg/app/google-gemini/id6477489729?uo=4,0.0,4.66279,86,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+vg,"Virgin Islands, British",Kids,36,15,1595518010,麦塔 - 数字藏品发售平台,"Hangzhou Hunyin Technology Co., Ltd.",https://apps.apple.com/vg/app/%E9%BA%A6%E5%A1%94-%E6%95%B0%E5%AD%97%E8%97%8F%E5%93%81%E5%8F%91%E5%94%AE%E5%B9%B3%E5%8F%B0/id1595518010?uo=4,0.0,0,0,Shopping,"麦塔，是以区块链技术为核心、面向数字文化产业构建的版权数字资产综合服务平台，致力于构建“场景化元宇宙”，为文化艺术产业数字化赋能。平台支持用户对所购的数字藏品进行收藏、观赏及好友之间的分享、转赠。
+
+平台聚焦动漫、科技潮玩、潮流音乐、明星影视、游戏等各类内容，利用智能合约技术构建集IP、产品、数字权益于一体的资产创作、上链、确权、存证、存储、流转、展示、收藏等服务。
+
+麦塔构建的元宇宙场景，是一个富有创造力、有无限拓展潜能的数字世界。基于web3.0的理念，力求为广大元宇宙居民提供沉浸式的交互体验，让三维互联网不再只是镜花水月。在这里你可以自由社交、娱乐、创造和分享。
+
+在麦塔，你可以购买到唯一的、不可篡改的、不能替代的数字藏品，不用担心存储、损耗、运输等问题，藏品由IP官方授权，极具收藏价值。
+
+来麦塔，发现更多数字藏品。
+
+官方公众号：麦塔文化",2021-12-07T08:00:00Z,2023-09-06T18:34:48Z
+vg,"Virgin Islands, British",Kids,36,16,6446901002,Threads,"Instagram, Inc.",https://apps.apple.com/vg/app/threads/id6446901002?uo=4,0.0,4.62105,95,Social Networking,"Say more with Threads — Instagram’s text-based conversation app.
+
+Threads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creators and others who love the same things — or build a loyal following of your own to share your ideas, opinions and creativity with the world!
+
+A few things you can do on Threads…
+
+■ Access your Instagram followers
+Your Instagram username and verification badge are reserved for you. Automatically follow the same accounts you follow on Instagram in a few taps, and discover new accounts too.
+
+■ Share your point of view
+Spin up a new thread to express what's on your mind. This is your space to be yourself, and you control who can reply.
+
+■ Connect with friends and your favorite creators
+Jump to the replies to get in on the action and react to commentary, humor and insight from the creators you know and love. Find your community and connect with people who care about whatever it is you’re interested in.
+
+■ Control the conversation
+Customize your settings and use controls to manage who can see your content, reply to your threads, or mention you. Accounts you’ve blocked will carry over from Instagram, and we’re enforcing the same Community Guidelines to help ensure everyone interacts safely and authentically. 
+
+■ Find ideas and inspiration
+From TV recommendations to career advice, get answers to your questions or learn something new from crowd-sourced conversations, thought leaders and industry experts.
+
+■ Never miss a moment
+Stay on top of the latest trends and live events. Whether it’s about new music, movie premieres, sports, games, TV shows, fashion, or the latest product releases, find discussions and receive notifications any time your favorite profiles start a new thread.
+
+■ Leap into the fediverse
+Threads is part of the fediverse, a global, open, social network of independent servers operated by third parties around the world. Servers share information with each other to enable people to connect and discover new things across the fediverse.
+
+
+Meta Terms: https://www.facebook.com/terms.php
+Meta Privacy Policy: https://privacycenter.instagram.com/policy
+Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
+Threads Supplemental Terms: https://help.instagram.com/769983657850450
+Instagram Community Guidelines: https://help.instagram.com/477434105621119
+Consumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health
+
+Learn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",2023-07-05T07:00:00Z,2025-11-19T23:58:42Z
+vg,"Virgin Islands, British",Kids,36,17,6737597349,DeepSeek - AI Assistant,"Hangzhou DeepSeek Artificial Intelligence Co., Ltd",https://apps.apple.com/vg/app/deepseek-ai-assistant/id6737597349?uo=4,0.0,0,0,Productivity,"Experience seamless interaction with DeepSeek's official AI assistant for free!
+Powered by DeepSeek’s latest flagship model, it delivers faster responses and more powerful features to help you solve problems and live more efficiently.
+
+Contact us:
+Twitter: @deepseek_ai
+Email: service@deepseek.com",2025-01-10T08:00:00Z,2025-11-10T11:19:24Z
+vg,"Virgin Islands, British",Kids,36,18,6497229487,Wispr Flow: AI Voice Keyboard,Wispr AI INC,https://apps.apple.com/vg/app/wispr-flow-ai-voice-keyboard/id6497229487?uo=4,0.0,0,0,Productivity,"Talk naturally. Flow writes perfectly. Trusted by business leaders, creatives, students, and professionals to boost productivity every day.
+
+Wispr Flow is the AI voice keyboard and speech to text app built for speed and accuracy. It works inside any app—including Slack, Messages, Email, WhatsApp, ChatGPT, and Docs—instantly turning your spoken words into polished, formatted writing. Whether you’re taking quick notes, drafting long messages, or capturing detailed transcriptions, Flow is 4x faster than typing.
+
+Whether you are walking, commuting, or whispering around others, Flow refines and writes what you say. No filler words, no autocorrect fumbles, no awkward phrasing. Just fast, fluent writing that sounds like you.
+
+Why people choose Flow
+
+ • World’s best voice‑first keyboard: Write with your voice in every application. Flow adapts tone and formatting for email, texting, and more.
+ • AI‑polished output: Your voice, cleaned up and ready to send. No edits required.
+ • Works in every app: From email to iMessage to Slack and Notion.
+ • Natural talking only: No weird commands. Flow handles punctuation and formatting for you.
+ • Learns your lingo: Add custom names, acronyms, and phrases with your personal dictionary.
+ • Whisper to it: Dictate quietly without disturbing anyone nearby.
+ • Quick capture notes: Use the shortcut to save ideas instantly and sync with the desktop app.
+ • 100+ languages supported.
+
+Great for
+
+ • Replying to emails while walking the dog
+ • Drafting long documents on your commute
+ • Responding to your team with full context, hands‑free
+ • Capturing ideas after meetings or before bed
+
+Free to use with a weekly word limit. Upgrade to Pro for unlimited dictation and advanced features. Syncs with desktop apps on Mac and Windows.
+
+TERMS, PRIVACY & CONDITIONS
+
+Read on https://wisprflow.ai/terms-of-service and 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-05-21T07:00:00Z,2025-11-21T02:16:49Z
+vg,"Virgin Islands, British",Kids,36,19,1641486558,Temu: Shop Like a Billionaire,Whaleco Inc.,https://apps.apple.com/vg/app/temu-shop-like-a-billionaire/id1641486558?uo=4,0.0,4.35294,68,Shopping,"Shop on Temu for exclusive offers. 
+
+No matter what you're looking for, Temu has you covered, including fashion, home decor, handmade crafts, beauty & cosmetics, clothing, shoes, and more.
+
+Download Temu today and enjoy incredible deals daily.
+
+WIDE SELECTION
+Discover thousands of new products and shops.
+
+CONVENIENCE
+Fast and secure checkout.
+Free shipping & returns within 90 days.
+*Other conditions may apply
+
+Visit temu.com or follow us on:
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu",2022-08-31T07:00:00Z,2025-11-18T05:26:43Z
+vg,"Virgin Islands, British",Kids,36,20,447188370,Snapchat: Chat with friends,"Snap, Inc.",https://apps.apple.com/vg/app/snapchat-chat-with-friends/id447188370?uo=4,0.0,4.68246,422,Photo & Video,"Snapchat is a fast and fun way to share the moment with your friends and family 
+
+SNAP
+• Snapchat opens straight to the camera – just tap to take a photo or press and hold for video. 
+• Express yourself with Lenses, Filters, Bitmoji and more! 
+•Try out new Lenses created daily by the Snapchat community!
+
+CHAT
+• Stay in touch with friends through live messaging or share your day with Group Stories. 
+• Video chat with up to 16 friends at once – you can even use Lenses and Filters when chatting! 
+• Express yourself with Friendmoji – exclusive Bitmoji made just for you and a friend.
+
+STORIES
+• Watch friends’ Stories to see their day unfold. 
+• See Stories from the Snapchat community that are based on your interests. 
+• Discover breaking news and exclusive, original Shows.
+
+SPOTLIGHT
+• Spotlight showcases the best of Snapchat! 
+• Submit your own Snaps or sit back, relax and watch. 
+• Pick your favourites and share them with friends.
+
+MAP 
+• Share your location with your best friends or go off the grid with Ghost Mode. 
+• See what your friends are up to on your most personal map when they share their location with you. 
+• Explore live Stories from the community nearby or across the world!
+
+MEMORIES
+• Save unlimited photos and videos of all your favourite moments. 
+• Edit and send old moments to friends or save them to your Camera Roll. 
+• Create Stories from your favourite Memories to share with friends and family.
+
+FRIENDSHIP PROFILE
+• Every friendship has its own special profile so that you can see the moments you’ve saved together. 
+• Discover new things you have in common with Charms – see how long you’ve been friends, your astrological compatibility, your Bitmoji fashion sense and more! 
+• Friendship Profiles are just between you and a friend, so you can bond over what makes your friendship special.
+
+Happy Snapping!
+
+Please note: Snapchatters can always capture or save your messages by taking a screenshot, using a camera or in other ways. Be mindful of what you Snap!
+
+For a full description of our privacy practices, please go to our Privacy Centre.",2011-07-13T23:51:40Z,2025-11-20T12:02:02Z
+vg,"Virgin Islands, British",Kids,36,21,284882215,Facebook,"Meta Platforms, Inc.",https://apps.apple.com/vg/app/facebook/id284882215?uo=4,0.0,4.4574,1690,Social Networking,"Where real people propel your curiosity. Whether you're shopping for second-hand gear, showing a reel to that group who gets it or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.
+
+Explore and expand your interests: 
+* Ask Meta AI to search topics that matter to you and get instant results more interactive than just text
+* Shop Marketplace for deals and hidden gems to nurture your hobbies
+* Personalise your Feed to see more of what you like and less of what you don't
+* Dive into reels and videos for how-to's or quick entertainment
+
+Connect with people and communities:
+* Join groups to learn tips from real people who've been there and done that
+* Turn on sharing to Instagram to save time
+* Privately message relatable posts that only your BFF will get, or that Reels trend everyone's talking about
+
+Share your world:
+* Use generative AI to delight friends with custom images, or just get help with writing posts
+* Customise your profile to choose how you appear and who sees your posts
+* Effortlessly create reels from trending templates or showcase your creativity with a full suite of editing tools
+* Capture moments on the fly with stories
+
+Terms and Policies: https://www.facebook.com/policies_center",2019-02-05T08:00:00Z,2025-11-12T04:08:24Z
+vg,"Virgin Islands, British",Kids,36,22,389801252,Instagram,"Instagram, Inc.",https://apps.apple.com/vg/app/instagram/id389801252?uo=4,0.0,4.61909,2032,Photo & Video,"Bringing you closer to the people and things you love – Instagram from Meta
+
+Connect with friends, share what you're up to or see what's new from others all over the world. Explore our community where you can feel free to be yourself and share everything from your daily moments to life's highlights.
+
+Express yourself and connect with friends
+
+* Add photos and videos to your story that disappear after 24 hours, and bring them to life with fun creative tools.
+* Message your friends with Messenger. Share and connect over what you see on feed and Stories.
+* Create and discover short, entertaining videos on Instagram with Reels.
+* Post photos and videos to your feed that you want to show on your profile.
+
+Learn more about your interests
+
+* Watch videos from your favourite creators and discover new content through Instagram video and Reels.
+* Get inspired by photos and videos from new accounts in Explore.
+* Discover brands and small businesses, and shop products that are relevant to your personal style.
+Some Instagram features may not be available in your country or region.
+
+Terms of Service - https://help.instagram.com/581066165581870
+
+Learn how we're working to help keep our communities safe across Meta technologies at the Instagram Safety Center: https://about.instagram.com/safety",2011-07-10T02:25:29Z,2025-11-17T17:50:43Z
+vg,"Virgin Islands, British",Kids,36,23,535886823,Google Chrome,Google LLC,https://apps.apple.com/vg/app/google-chrome/id535886823?uo=4,0.0,4.64159,226,Utilities,"Chrome helps you do what's possible on the web. Download the fast, secure browser by Google.
+
+GET THE BEST OF GOOGLE IN CHROME
+
+• SEARCH WITH GOOGLE – search and get answers on Google fast. Use your voice to search hands-free.
+• GOOGLE LENS – search what you see on your screen or with your camera.
+• GOOGLE TRANSLATE – explore the web in 130+ languages. Translate entire websites in one click.
+
+BROWSE WITH BEST-IN-CLASS SECURITY
+
+• ENHANCED PROTECTION MODE – browse confidently with the highest level of Chrome's security.
+• SAFETY CHECK – get peace of mind with proactive safety alerts.
+• GOOGLE PASSWORD MANAGER – securely generate and save passwords for fast sign-in, and get alerts if your passwords are at risk.
+
+ACCESS YOUR CHROME ACROSS DEVICES
+
+• SYNC ACROSS DEVICES – save your things (like bookmarks, tabs and passwords) and easily access them when you sign in to Chrome on your phone, computer or tablet.
+• TAB GROUPS – create tab groups to stay organised across devices.
+• AUTOFILL – save time typing by autofilling your saved payments, addresses and passwords.",2012-06-28T19:57:38Z,2025-11-20T15:29:06Z
+vg,"Virgin Islands, British",Kids,36,24,660684479,腕表经典品牌库,宏香 金,https://apps.apple.com/vg/app/%E8%85%95%E8%A1%A8%E7%BB%8F%E5%85%B8%E5%93%81%E7%89%8C%E5%BA%93/id660684479?uo=4,0.0,0,0,Shopping,"名表大全为广大腕表爱好者、消费者提供最大最最全面的腕表信息。 
+
+软件目前共收录70个品牌,近2万款手表, 从顶级奢华到时尚亲民等应有尽有, 后续还会持续补充内容和更新, 每款手表提供精美图片、详细参数等信息, 每个品牌都提供了详尽的品牌历史介绍, 同时软件提供强大的搜索功能以及便捷的浏览方式， 是不可多得的随身手表参考应用! 所有内容为离线浏览, 不需要消耗联网流量。",2013-06-19T00:20:29Z,2018-09-26T14:56:58Z
+vg,"Virgin Islands, British",Kids,36,25,1278803572,赞多多维修安装-本地生活家政搬家保洁装修,"Beijing Jinuo Zhonghe Technology Co., Ltd",https://apps.apple.com/vg/app/%E8%B5%9E%E5%A4%9A%E5%A4%9A%E7%BB%B4%E4%BF%AE%E5%AE%89%E8%A3%85-%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E5%AE%B6%E6%94%BF%E6%90%AC%E5%AE%B6%E4%BF%9D%E6%B4%81%E8%A3%85%E4%BF%AE/id1278803572?uo=4,0.0,0,0,Lifestyle,"维修安装师傅到家，快速发单，做完付款，全国市区县实时派单。
+赞多多维修安装APP的主要功能包括： 
+1、无需登录，不用充值，打开直接发单。 
+2、发单后，立刻派单，不满意可以换师傅。
+3、师傅接单后，将按照预约时间签到。
+4、师傅签到后，在开工前，需要和您在线确认费用。
+5、确认费用后正式开工。 
+6、师傅完工后，会请您在线验收，验收通过后您需要线下支付费用给师傅本人。异地派单客户可以通过师傅提供的收款码付款。
+7、本平台不收取客户任何费用，师傅的服务费用您和师傅自行协商，完工后线下收取。 
+8、您可对师傅进行匿名评价。 
+
+【风险提示】 本平台并不收取客户任何费用，服务费均由客户联系师傅后自行协商，服务完成后线下支付给师傅。 请您警惕个别师傅提前收取高额上门费、材料费、订货款等。
+
+如果你使用遇到任何问题，欢迎反馈到：master@dahouhou.com",2018-07-29T04:52:09Z,2025-05-23T02:01:30Z

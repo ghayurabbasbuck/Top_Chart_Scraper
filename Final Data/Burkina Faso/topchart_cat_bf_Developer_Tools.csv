@@ -1,0 +1,482 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bf,Burkina Faso,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/bf/app/testflight/id899247664?uo=4,0.0,4.25635,394,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+bf,Burkina Faso,Developer Tools,6026,2,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/bf/app/apple-developer/id640199958?uo=4,0.0,4,8,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+bf,Burkina Faso,Developer Tools,6026,3,1477376905,GitHub,GitHub,https://apps.apple.com/bf/app/github/id1477376905?uo=4,0.0,4.33333,3,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+bf,Burkina Faso,Developer Tools,6026,4,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/bf/app/web-inspector/id1584825745?uo=4,0.0,0,0,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+bf,Burkina Faso,Developer Tools,6026,5,1606772645,Google Play Console,Google LLC,https://apps.apple.com/bf/app/google-play-console/id1606772645?uo=4,0.0,0,0,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+bf,Burkina Faso,Developer Tools,6026,6,6751257365,VibeIcon – Style Your Phone,Ghulam Murtaza Ghulam Ahmad,https://apps.apple.com/bf/app/vibeicon-style-your-phone/id6751257365?uo=4,0.0,0,0,Developer Tools,"VibeIcon – Style Your Phone is a creative tool for designers and developers to visualize app icons, wallpapers, and layouts. Experiment with colors, gradients, glows, and packs to preview different styles before you build them. It’s all about testing vibes and exploring visual directions with ease.",2025-08-19T07:00:00Z,2025-08-20T06:12:48Z
+bf,Burkina Faso,Developer Tools,6026,7,6745130075,WebServerMonitor,Johannes Kinzig,https://apps.apple.com/bf/app/webservermonitor/id6745130075?uo=4,0.0,0,0,Developer Tools,"If a server becomes unreachable or returns an unexpected status code (any other than HTTP/2xx), WebSMoni immediately notifies you via push notification.
+The monitoring happens directly on your iPhone or iPad – no third-party services or external servers are involved.
+WebServerMonitor is designed to be efficient and easy to set up, just concentrating on the important things: informing you about the status of your web servers.",2025-04-29T07:00:00Z,2025-09-28T08:20:37Z
+bf,Burkina Faso,Developer Tools,6026,8,6742786598,iProxy - Sys admin tools,"N-LAB, OOO",https://apps.apple.com/bf/app/iproxy-sys-admin-tools/id6742786598?uo=4,0.0,0,0,Developer Tools,"iProxy: privacy and speed in one app
+
+Enjoy secure and anonymous internet browsing with iProxy!
+
+-Protestion First:
+iProxy hides your IP address, blocks trucks, and shields you from malicious therapies. Your personal data repair security guard.
+
+-Privacy Without Compromises:
+Working, traveling, or relaxing? Stay connected, stream content, and chat securely — with zero risk to your digital safety.
+
+-Compatibility & Versatility:
+Works on all iOS devices and supports popular protocols (HTTP, HTTPS, SOCKS5). Seamlessly integrates with browsers, apps, and cloud services.",2025-03-12T07:00:00Z,2025-08-25T17:20:04Z
+bf,Burkina Faso,Developer Tools,6026,9,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/bf/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4,7,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+bf,Burkina Faso,Developer Tools,6026,10,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/bf/app/app-store-connect/id1234793120?uo=4,0.0,4.33333,3,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+bf,Burkina Faso,Developer Tools,6026,11,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/bf/app/o-kam-pro/id1602054864?uo=4,0.0,4.5,4,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+bf,Burkina Faso,Developer Tools,6026,12,1536579599,BluetoothAssistant,"Hangzhou OrangeJuice Technology Co., Ltd.",https://apps.apple.com/bf/app/bluetoothassistant/id1536579599?uo=4,0.0,5,1,Developer Tools,"Bluetooth Assistant can help you discover surrounding Bluetooth devices, connect and debug them.
+
+Key Features:
+
+Device scanning
+Signal strength detection
+Device connection
+Device information reading
+Data reading & writing
+Log data
+Batch writing
+Data packet storage
+Save and delete common write data
+
+Privacy policy： https://hzjuzhi.com/apps/bluetooth/privacy/
+Terms of Use： https://hzjuzhi.com/apps/bluetooth/terms/",2020-10-26T07:00:00Z,2025-10-09T11:55:08Z
+bf,Burkina Faso,Developer Tools,6026,13,1450994949,Carnets - Jupyter,Nicolas Holzschuch,https://apps.apple.com/bf/app/carnets-jupyter/id1450994949?uo=4,0.0,0,0,Developer Tools,"Jupyter notebooks are a powerful tool used in education and research. You can write small snippets of Python code and observe the result on screen, combine with paragraphs of text, using Markdown.
+
+Carnets provides a complete, stand-alone, implementation of Jupyter notebooks. Everything runs on your device, using the embedded Python interpreter; you do not need an internet connection. You can chose between Jupyter notebooks and the more advance Jupyterlab using Settings.
+
+Numpy, Sympy, Matplotlib, Pandas, lxml, bokeh, nbextensions (including ipywidgets) and many other packages are pre-installed. To see the full list of installed packages, type ""%pip list"" in a code window. You can add more packages using ""%pip install packageName"", but only if they are pure Python.
+
+If you need scipy, seaborn or scikit-learn, please use our other App, ""Carnets - Jupyter (with scipy)"".
+
+You can share your notebooks with other apps and also open notebooks or directories managed by other apps. 
+
+Partial list of installed packages: astropy, babel, bokeh, cryptography, cvxopt, Fiona, geopandas, geopy, lxml, matplotlib, numpy, openCV, pandas, pillow, pyFFTW, pyproj, rasterio, regex, shapely, sympy, wordcloud.",2019-04-17T21:42:44Z,2025-11-04T10:30:36Z
+bf,Burkina Faso,Developer Tools,6026,14,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/bf/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.5625,16,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+bf,Burkina Faso,Developer Tools,6026,15,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/bf/app/device-monitor/id1522870046?uo=4,0.0,4.27778,18,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+bf,Burkina Faso,Developer Tools,6026,16,6450535928,Code Runner App Compiler & IDE,Cloudbit d.o.o.,https://apps.apple.com/bf/app/code-runner-app-compiler-ide/id6450535928?uo=4,0.0,5,1,Developer Tools,"Code Runner is the ultimate app for coding enthusiasts, programmers and developers. 
+Whether you want to learn a new programming language, practice your developer skills, or work on your programming projects, Code Runner has you covered.
+
+Code Runner is a versatile coding editor and compiler on your mobile device.
+This customizable editor has full programming code syntax highlighting.
+Code completion and editor actions like undo, redo, comment lines, and indent selection enhance your developer productivity.
+Built-in AI Assistant can refactor your code and check it for bugs.
+
+With this app, you can compile and execute code in more than 30 supported programming languages.
+Connect to GitHub and checkout, edit, run, and commit files from your repositories.
+
+Whether it's C, C++, Python, JavaScript, Swift, Java, or any of our supported programming languages, our powerful compiler ensures smooth execution and instant coding feedback.
+
+You can use this app to:
+
+Write and edit code with full programming syntax highlighting
+Compile the code
+Execute the code
+Get AI help with errors
+Refactor your code with AI Assistant
+Connect to GitHub
+Edit code and commit files to your GitHub repositories
+Run the code with a single tap and see the output instantly
+Test your coding ideas with various input and output options
+Share your coding work with others
+Elevate your coding skills
+
+This is a perfect app for coding on the go. Whether you want to test a coding idea, debug a problem, or showcase your programming work, this is the app for you.
+Connect to GitHub and turn this app into your cloud based IDE and compiler that supports more than 30 programming languages.
+
+Download it today and unleash your coding creativity!
+
+Complete list of supported programming languages:
+
+Assembly
+Bash
+Basic
+C
+C#
+C++
+Clojure
+COBOL
+Common Lisp
+D
+Elixir
+Erlang
+F#
+Fortran
+Go
+Groovy
+Haskell
+Java
+JavaScript
+Kotlin
+Lua
+OCaml
+Octave
+Objective-C
+PHP
+Pascal
+Perl
+Prolog
+Python
+R
+Ruby
+Rust
+SQL
+Scala
+Swift
+TypeScript",2023-06-29T07:00:00Z,2025-06-16T18:50:05Z
+bf,Burkina Faso,Developer Tools,6026,17,6742540851,Async,Its Async,https://apps.apple.com/bf/app/async/id6742540851?uo=4,0.0,0,0,Developer Tools,"Actus tech, quizz, leçons, idées de projets et conferences",2025-03-03T08:00:00Z,2025-10-29T08:34:24Z
+bf,Burkina Faso,Developer Tools,6026,18,1623006812,WorldWideWeb – Mobile,The Iconfactory,https://apps.apple.com/bf/app/worldwideweb-mobile/id1623006812?uo=4,0.0,0,0,Developer Tools,"This app’s name is an homage to the world’s first web server. Back in 1989, Tim Berners-Lee started the web on his NeXT computer.
+
+On that computer was an app named WorldWideWeb. This app was unique because it allowed his machine to edit and serve HTML documents. The app also used coding frameworks that were adopted by Apple after purchasing NeXT: they are being used right now to display what you’re reading.
+
+Like that original app, this WorldWideWeb is a handy web development tool.
+
+It’s designed for people who need to test things on their iPad or iPhone before moving the files onto a real web server like Apache or nginx. It also allows you to work in those increasingly rare moments where you don’t have a connection to the Internet. App developers can use this server to simulate and test APIs that their product uses.
+
+FEATURES
+
+WorldWideWeb does things differently than today’s production web servers:
+
+• Automatic refresh — Watches your site and reloads browser when there are changes
+• No caching — Every request gets a new response, no cache busters needed
+• Easy to configure — Pick a folder and go
+• Directory listings — A handy list of files whenever you hit a URL that doesn’t exist
+• Bonjour support – Automatic DNS for easy access using devices on your local network
+• REST support — Set default responses as JSON or XML for easy mocking of APIs
+• No external dependencies — Completely standalone and doesn’t need other tools like Python or Ruby
+• Built-in security — Runs completely in a sandbox, no access to data unless you allow it
+• Powerful and lightweight – A small memory footprint with minimal CPU overhead
+• No rocket science — Perfect for clients and other folks who are less technically inclined",2022-06-02T07:00:00Z,2025-09-15T16:01:37Z
+bf,Burkina Faso,Developer Tools,6026,19,6502008566,Network Scanner: WiFi Analyzer,Anh Nguyen,https://apps.apple.com/bf/app/network-scanner-wifi-analyzer/id6502008566?uo=4,0.0,5,2,Developer Tools,"Wifi Status - Network Scanner
+
+Discover, analyze, and optimize your network with Wifi Status - Network Scanner. Whether you’re a tech enthusiast or a casual user, this app provides essential tools to enhance your network experience.
+
+- Discover Connected Devices:
+Quickly identify all devices connected to your network. From smartphones to smart home gadgets, stay informed about who’s sharing your Wi-Fi.
+
+- View Network Information:
+Dive into detailed network information: IP addresses, MAC addresses, and more. Understand your network layout effortlessly.
+
+- Speed Test:
+Measure your internet speed with precision. Is your connection as fast as it should be? Find out instantly.
+
+- Advanced Tools
+• Ping: Test network responsiveness and latency.
+• Traceroute: Trace the path of data packets across the network.
+• DNS Records: Investigate domain names and their associated IP addresses.
+• Network Usage: Monitor data consumption for your device.
+• UPnP Scanner: Discover Universal Plug and Play devices.
+• Bonjour Scanner: Identify services on local networks.
+• Find Open Ports: Detect open ports on devices.
+• IP Location: Geolocate IP addresses.
+
+Get Wifi Status - Network Scanner today and take control of your network health! 
+
+===================================
+ADDITIONAL SUBSCRIPTION INFORMATION:
+
+Subscription price:
+- 1 week: $3.99 (3-day free trial)
+- 1 month: $6.99 
+- Lifetime: $14.99
+
+- Subscription may be canceled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+- The account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+- No cancellation of the current subscription is allowed during active subscription period.
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+Privacy policy: https://sites.google.com/view/mobile-labs
+Terms of service: https://sites.google.com/view/mobi-labs-termofservice",2024-05-01T07:00:00Z,2025-10-28T00:11:55Z
+bf,Burkina Faso,Developer Tools,6026,20,1462586500,Juno – Python and Jupyter,Rational Matter Ltd,https://apps.apple.com/bf/app/juno-python-and-jupyter/id1462586500?uo=4,0.0,0,0,Developer Tools,"Zero-setup Python environment and developer toolbox in a first-class citizen app for iPad and iPhone.
+
+Juno is designed to cover all your Python coding needs, and will work seamlessly with all source code formats. Juno supports both Python scripts (.py) and Jupyter notebooks (.ipynb) — a document format focused on applying Python to data analysis and computational science.
+
+FREE FEATURES
+
+- Navigate and manage files and folders, quickly preview documents and media
+- Browse and view Jupyter notebooks with quick and beautifully rendered previews
+- View and edit code sources, scripts, JSON, XML, and other text-based formats in a built-in versatile plain text editor with syntax highlighting
+- Add quick access bookmarks for file system locations outside the app's sandbox, or simply open documents in place
+
+PRO FEATURES
+
+- Run code in Jupyter notebooks and Python sources locally on your device with a built-in Python 3.10 interpreter, entirely offline
+- Write and execute Python code in a full-fledged development environment, featuring snappy, intelligent code completion and a console with full terminal emulator support
+- Access all Jupyter features in a modern, powerful and customizable notebook editor
+- Works with Siri: create Shortcuts that run Python code or .py scripts in Juno—pass arguments and files, capture output and chain actions
+- Leverage powerful data analysis, machine learning and developer tools: NumPy, Matplotlib, SciPy, Scikit-learn, Pandas, LXML, and more
+- Enjoy painless package management: easily install any pure Python package with an intuitive package manager
+
+PYTHON SCRIPTS
+
+Python scripts are plain-text Python source code files with a .py extension. Juno lets you work on these with snappy code completion, a console with full terminal emulator support, a built-in media viewer for code-generated images, plots, web apps, and more. Juno will execute the code using an embedded Python interpreter, locally on your iPhone or iPad and completely offline.
+
+JUPYTER NOTEBOOKS
+
+A Jupyter notebook is a versatile document format that enables you to store live code, markdown text, plots, images, and LaTeX equations — all within a single notebook file with a .ipynb extension. Notebooks serve as excellent Python coding playgrounds for data manipulation and experimentation, and Juno makes working with them a breeze!
+
+Notebook documents keep a record of all inputs and outputs from an interactive programming session, and the rich output generated by running Python scripts (including HTML, images, video, and plots) is embedded within the Jupyter notebook document. They are particularly convenient for coding in Python for data analysis, machine learning, or computational science in general.",2019-09-26T07:00:00Z,2025-11-16T16:16:35Z
+bf,Burkina Faso,Developer Tools,6026,21,1605475549,Flutter Offline Docs,Xing Wei,https://apps.apple.com/bf/app/flutter-offline-docs/id1605475549?uo=4,0.0,0,0,Developer Tools,"- 60+ official recipes from docs.flutter.dev/cookbook.
+- Get the cookbook offline, read it anywhere, anytime!",2022-01-22T08:00:00Z,2022-10-26T18:07:12Z
+bf,Burkina Faso,Developer Tools,6026,22,6448629269,Device Info Tool,IDB LLC,https://apps.apple.com/bf/app/device-info-tool/id6448629269?uo=4,0.0,0,0,Developer Tools,"Device Info is a powerful and comprehensive application that provides users with detailed insights into the hardware and software specifications of their mobile devices. Designed for iOS,  obtain accurate information about their devices' capabilities.
+Key Features:
+Hardware and Software Information: Device Info provides users with detailed insights into their device's hardware and software specifications. Explore information about storage capacity, battery health, network and Wi-Fi details, available sensors, CPU architecture, operating system version, and much more.
+User-Friendly Interface: The intuitive and user-friendly interface of Device Info makes it accessible for users of all levels of technical expertise.
+Device Info is a valuable tool for developers and anyone who wants to gain deeper insights into their mobile devices. Whether you need to assess network performance, or simply explore the hardware and software specifications of your device, Device Info has you covered.
+Download Device Info today and unlock the power to understand and optimize your mobile device like never before.",2023-07-27T07:00:00Z,2025-09-16T08:39:44Z
+bf,Burkina Faso,Developer Tools,6026,23,1544749600,Swifty Compiler: Swift IDE,Hassan Taleb,https://apps.apple.com/bf/app/swifty-compiler-swift-ide/id1544749600?uo=4,0.0,0,0,Developer Tools,"Write and run Swift code effortlessly, anywhere and anytime.
+
+Swifty Compiler is the perfect tool to test algorithms, prototype ideas, or experiment with Swift code on the go. Use it as your personal playground to explore concepts and improve your coding skills. 
+
+Free Features:
+• Daily credits⁽¹⁾: 10 credits per day
+• Import Swift files
+• Open Playground files and import their Swift files
+• Share Swift files, Playground files, or text directly to the app
+• Code Snapshot (PNG, JPEG, HEIC, or PDF)
+• Adjustable font size and line spacing
+• Auto-indentation
+• Code completion suggestions
+• Auto-closing brackets and quotes
+• Error highlighting
+• Bracket and line highlighting
+• Code block selection
+• Cursor position indicator
+• Code snippets
+• Extra keyboard buttons
+• Comment/uncomment selection
+• Markdown comments
+• Duplicate code
+• Move line up/down
+• Indent/Outdent (Shift right/left)
+• Jump to line or selection
+• Keyboard shortcuts
+• Multitasking support on iPad
+• Dark and light mode support
+• Share extension support
+• No ads
+
+Premium Features:
+• Unlimited credits⁽¹⁾
+• Share as Swift file
+• Save Swift files to the Files app (iCloud or local storage)
+• Auto-save last input
+• Unlimited Undo/Redo
+• Code formatting
+• Add documentation
+• Syntax correction
+• Optical Character Recognition (OCR)
+• Abstract Syntax Tree (AST)
+• Multiple Swift versions
+• Font pack
+• Show invisible characters
+• Create/Edit custom snippets
+• Create/Edit custom keyboard buttons
+• No watermark on code snapshots
+
+1. 1 Credit = 1 Code Execution
+
+Feel free to reach us out if have any suggestions or ideas.
+
+- Email: taleb.apps@gmail.com
+- X: @hassantaleb90
+- Telegram: @hassantaleb
+
+If you enjoy Swifty Compiler, please leave a review to support us!",2020-12-31T08:00:00Z,2025-11-16T20:14:38Z
+bf,Burkina Faso,Developer Tools,6026,24,1585856868,SAP Build Apps Preview,SAP SE,https://apps.apple.com/bf/app/sap-build-apps-preview/id1585856868?uo=4,0.0,0,0,Developer Tools,"Companion app for the SAP Build Apps product, allowing you to view and interact with your projects on an iOS device.
+
+After logging in, you can open one of your projects from the list. As you make changes in the web tool, the device will update to show your work in real time, ideal for quick prototyping and testing.
+
+For details on Open Source Legal Notices (OSNL) for Free and Open Source Software (FOSS) see, https://help.sap.com/docs/build-apps/service-guide/mobile-app-preview",2021-09-24T07:00:00Z,2025-11-06T18:09:04Z
+bf,Burkina Faso,Developer Tools,6026,25,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/bf/app/termux/id6738933789?uo=4,0.0,0,0,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z

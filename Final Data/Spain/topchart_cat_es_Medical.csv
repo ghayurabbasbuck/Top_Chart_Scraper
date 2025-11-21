@@ -1,0 +1,519 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+es,Spain,Medical,6020,1,1084430965,MiSalud OHS,Sociedad de prevencion de Fraternidad-Muprespa S.L.U.,https://apps.apple.com/es/app/misalud-ohs/id1084430965?uo=4,0.0,4.46973,12652,Medical,"Quirónprevención continúa mejorando sus servicios y actualizamos nuestra app de salud, MiSalud OHS 2.0, apostando por una mayor usabilidad y rapidez junto con un diseño más moderno. También se ha integrado con Face y Touch ID.
+
+Con Misalud podrás:
+
+-Visualizar los resultados de tus reconocimientos médicos, de una manera sencilla, intuitiva y visual: Nuestros hexágonos te ayudarán a interpretar cuál es el estado de tu salud.
+
+-Consultar el histórico de tus parámetros más destacados de salud, pudiendo interactuar con ellos y actualizarlos en todo momento que desees.
+La app de MiSalud trabaja con Apple Health para sincronizar datos de tu actividad cardiaca, tus entrenamientos y tu información de salud, con los que podrás visualizar en nuestra app los parámetros más destacados de salud de una forma sencilla, intuitiva y visual. Estos datos que obtenemos de Apple Health nos ayudaran a saber prevenir y controlar alteraciones como la presión arterial, diabetes, sedentarismo… También es posible registrar datos de tu actividad en Apple Health a través de nuestra aplicación.
+
+-Obtener la tarjeta misalud de forma gratuita: Una tarjeta que permite acceder a los prestigiosos centros, servicios y profesionales de Quirónsalud en unas condiciones preferentes. 
+
+-Solicitar una cita para tu próximo examen de salud o analítica, consultando cuál es nuestro centro más cercano y la disponibilidad de su agenda.
+
+-Almacenar tus informes médicos, pruebas de imagen e información de salud que consideres, como por ejemplo tu tarjeta sanitaria o de seguro privado.
+
+- Apuntarte a nuestras Campañas de Salud para mejorar tu nivel de bienestar y prevenir enfermedades.
+
+- Acceder a consejos de salud que nuestro equipo sanitario personaliza a tu medida para adquirir hábitos saludables en muchos aspectos (alimentación, hipertensión, dolores musculares, ergonomía...)
+
+Queremos pasar a formar parte de tus rutinas porque entendemos que tu salud y bienestar es lo más importante. Seguiremos implementando más servicios para dar el paso definitivo: de la prevención de riesgos laborales a la salud integral de la persona.",2016-03-08T03:01:44Z,2025-09-30T09:48:33Z
+es,Spain,Medical,6020,2,983560647,Quirónsalud,"IDCSALUD, S.L.",https://apps.apple.com/es/app/quir%C3%B3nsalud/id983560647?uo=4,0.0,4.19894,8108,Medical,"Esta aplicación ha sido diseñada para facilitar el acceso y gestión de su información médica del Portal del paciente.
+¿Qué es el Portal del Paciente?
+El Portal del Paciente es un espacio personal desde el que podrá acceder a su historial médico, pruebas diagnósticas, informes clínicos, gestionar citas médicas y tener un seguimiento sin esperas ni desplazamientos.
+Está destinada a los pacientes del grupo Quirónsalud o a cualquier usuario que desee darse de alta como nuevo paciente.
+El grupo Quirónsalud se preocupa de su salud y bienestar, por ello ha lanzado esta aplicación con la intención de acercar y estrechar la relación paciente médico para poder proporcionar un servicio de mayor calidad.
+Las funcionalidades principales de esta App son:
+- Solicitar cita previa pudiendo consultar los huecos disponibles para cada médico.
+- Consultar, modificar o cancelar las citas concertadas.
+- Notificaciones y recordatorio de citas.
+- Consultar y cumplimentar las tareas pendientes que su médico le haya programado, cómo pedir cita online o rellenar formularios.
+- Consultar y descargar los resultados e informes de sus pruebas. 
+- Consultar y visualizar imágenes diagnósticas
+- Consultar sus informes clínicos e históricos de formularios realizados pudiendo filtrarlos por fecha o especialidad.
+- Comunicación directa con su médico.
+- Calculadoras y herramientas de salud.
+- En la sección Bienestar puedes consultar la evolución de tus indicadores de salud y estilo de vida y permite sincronizarse con tus datos de actividad física de HealthKit app (Salud). Se solicitará el permiso de acceso de lectura de HealthKit.
+La aplicación requiere conexión a internet para poder acceder a sus datos. De momento no todos los hospitales del grupo se encuentran activos, aunque se irán incorporando a corto / medio plazo.
+Hospitales activos:
+Centro Médico Quirónsalud Bilbao
+Centro Médico Quirónsalud Tres Cantos
+Clínica Quirónsalud Alcázar
+Clínica Rotger
+Health Diagnostic
+Hospital de Día Quirónsalud Alcalá de Henares
+Hospital de Día Quirónsalud Donostia
+Hospital de Día Quirónsalud Talavera
+Hospital de Día Quirónsalud Zaragoza
+Hospital El Pilar
+Hospital General de Villalba
+Hospital La Luz
+Hospital Quirónsalud A Coruña
+Hospital Quirónsalud Albacete
+Hospital Quirónsalud Barcelona
+Hospital Quirónsalud Bizkaia
+Hospital Quirónsalud Cáceres
+Hospital Quirónsalud Campo de Gibraltar
+Hospital Quirónsalud Ciudad Real
+Hospital Quirónsalud Clideba
+Hospital Quirónsalud Costa Adeje
+Hospital Quirónsalud Málaga
+Hospital Quirónsalud Marbella
+Hospital Quirónsalud Murcia
+Hospital Quirónsalud Palmaplanas
+Hospital Quirónsalud Sagrado Corazón
+Hospital Quirónsalud San José
+Hospital Quirónsalud Santa Justa
+Hospital Quirónsalud Sur
+Hospital Quirónsalud Tenerife
+Hospital Quirónsalud Toledo
+Hospital Quirónsalud Torrevieja
+Hospital Quirónsalud Valencia
+Hospital Quirónsalud Vitoria
+Hospital Quirónsalud Zaragoza
+Complejo Hospitalario Ruber Juan Bravo
+Hospital Universitari General de Catalunya
+Hospital Universitari Sagrat Cor
+Hospital Universitario Fundación Jiménez Díaz
+Hospital Universitario Infanta Elena
+Hospital Universitario Quirónsalud Madrid
+Hospital Universitario Rey Juan Carlos
+IERA – Instituto Extremeño de Reproducción Asistida
+
+Quirónsalud es el grupo hospitalario más importante de España y Europa. Trabajamos en la promoción de la docencia y la investigación médico-científica. Actualmente, Quirónsalud está desarrollando numerosos proyectos de investigación en toda España, siendo pioneros en diferentes especialidades como cardiología, endocrinología, ginecología, neurología, oncología o medicina deportiva entre otras. El grupo mantiene acuerdos con las principales aseguradoras y colectivos de salud como Aegon, Asisa, Axa, Caser, Mapfre, Sanitas, Adeslas, etc.
+Más información en https://www.quironsalud.com/es/portal-paciente",2015-06-15T08:09:30Z,2025-11-05T15:39:14Z
+es,Spain,Medical,6020,3,1444682103,Doctoralia - España,Doctoralia Internet SL,https://apps.apple.com/es/app/doctoralia-espa%C3%B1a/id1444682103?uo=4,0.0,4.80581,14465,Medical,"Reserva una cita presencial o por videollamada con un especialista de la salud y gestiona fácilmente tus visitas médicas.
+
+En Doctoralia, ponemos a tu diposición a más de 120 mil doctores y profesionales de la salud colegiados y verificados, preparados 
+para cuidar de ti y los tuyos.
+
+A través de la app de Doctoralia podrás recibir recordatorios de tus visitas, confirmar o anular las citas e incluso utilizar el chat para hablar directamente con el especialista con el que has reservado una cita.
+
+Encuentra tu médico filtrando por la especialidad, la ciudad e incluso la mutua de salud que tengas (Adeslas, Allianz, Asisa, DKV, Mapfre, Muface, Sanitas, Zurich, etc.). Cuidar de tu salud nunca ha sido tan fácil.
+
+Descarga nuestra app gratuita y tendrás:
+
+* Acceso a miles de profesionales de la salud. Ginecólogos, nutricionistas, dentistas, cardiólogos, traumatólogos, oftalmólogos, psicólogos, dermatólogos, pediatras, fisioterapeutas, médicos de familia y muchas otras especialidades.
+* Reserva cita online. Pide cita a través de tu smartphone de forma rápida y sencilla.
+* Lee opiniones. Pacientes reales opinan y valoran sobre la atención de los profesionales que forman parte de Doctoralia. Encuentra al profesional mejor valorado de tu zona.
+* Servicio de videoconsulta online. Realiza consultas médicas sin salir de casa a través de tu teléfono móvil. 
+* Chat online. ¿Tienes dudas previas a la consulta? ¿Alguna pregunta relacionada con la visita que has tenido con un especialista? No te preocupes, puedes contactar de forma directa a través del chat y resolver tus dudas de manera inmediata. Envía o recibe fotografías, resultados de pruebas o recetas médicas.
+* Gestión de citas. A través de tu área de paciente podrás gestionar todas tus citas: confirmarlas, modificarlas, anularlas o bien chatear con tu especialista.
+
+Si quieres apostar por la prevención de tu salud, buscar al mejor especialista cerca de ti y agendar cita para dar respuesta a tus dudas o síntomas, descárgate la app de Doctoralia y empieza a cuidar de tu salud.",2018-12-30T22:19:33Z,2025-11-20T03:11:07Z
+es,Spain,Medical,6020,4,1079001524,Mi Sanitas,Sanitas Sociedad Anonima de Seguros,https://apps.apple.com/es/app/mi-sanitas/id1079001524?uo=4,0.0,4.52193,17121,Medical,"La app Mi Sanitas cuida de nuestros clientes ofreciéndoles una forma más independiente para gestionar de manera autónoma todos los aspectos relacionados con su salud, en cualquier momento y desde cualquier lugar de manera rápida, fácil y sencilla.
+ 
+Las gestiones que nuestros clientes pueden hacer a través de Mi Sanitas son:
+ 
+Pedir citar con su médico, reprogramarlas y cancelarlas.
+Consultar su cuadro médico para buscar médicos, hospitales y otros centros asistenciales así como clínicas dentales.
+Consultar centros médicos con servicios de urgencias más cercanos.
+Consultar los informes médicos así como las recetas de farmacia.
+Solicitar reembolsos y autorizaciones.
+Consultar recibos y copagos.
+Actualizar los datos personales.
+Acceder a la tarjeta digital.
+Ceder permisos a otros beneficiarios de la póliza para que realice las gestiones en su nombre.
+También incorporamos, según producto contratado, innovación en servicios de medicina digital como Monitoriza tu Salud, Cuida tu Mente, Medición de Constantes Vitales, Evaluador de Síntomas, Consulta digital (videoconsulta y consulta telefónica), …
+ 
+Para hacer un correcto uso de Mi Sanitas solicitamos los siguientes permisos:
+Calendario: para guardar las citas en la agenda.
+Ubicación: para mostrar los médicos y centros más próximos.
+Fotos/multimedia/archivos: para que puedas subir documentos en distintas secciones de Mi Sanitas.
+Cámara: para que puedas hacer una foto de los documentos y los puedas adjuntar desde tu dispositivo.
+Micrófono: para que puedas realizar videocosultas
+Nuestra aplicación usa HealtKit para poder actualizar tu información Salud de forma automática.
+Y otros datos requeridos que permiten que puedas disfrutar de un correcto uso de Mi Sanitas.
+ 
+En Sanitas estamos comprometidos con proporcionar el mejor servicio a nuestros clientes, por eso les escuchamos y seguimos trabajando para satisfacer sus necesidades y ofrecerles cada vez un mejor servicio. Si tienes un seguro de Sanitas y tienes alguna sugerencia o incidencia al usar Mi Sanitas, no dudes en escribirnos a usuariosmovil@sanitas.es. Recuerda que también puedes acceder a Mi Sanitas a través de tu navegador en sanitas.es/misanitas",2016-02-15T15:14:49Z,2025-10-31T15:07:46Z
+es,Spain,Medical,6020,5,798785132,Cita Sanitaria Madrid,Comunidad de Madrid,https://apps.apple.com/es/app/cita-sanitaria-madrid/id798785132?uo=4,0.0,2.06133,2935,Medical,"Cita Sanitaria Madrid es una aplicación indicada para la gestión de citas en el Servicio Madrileño de Salud.
+Está dirigida a todos los usuarios que deseen gestionar citas de Medicina de Familia, Pediatría, Enfermería y vacunación antigripal en Atención Primaria y la primera consulta en Atención Hospitalaria. Facilita también la gestión de la fecha de recogida del envase para el Programa de prevención de cáncer de colon.
+La aplicación permite registrar varios usuarios con los que podrá gestionar estas citas, así como incorporar el detalle de cada cita en la agenda del dispositivo.",2014-03-12T04:08:06Z,2022-04-25T07:17:11Z
+es,Spain,Medical,6020,6,1517046103,Tarjeta Sanitaria,Comunidad de Madrid,https://apps.apple.com/es/app/tarjeta-sanitaria/id1517046103?uo=4,0.0,1.68398,3139,Medical,"El objetivo de la aplicación de Tarjeta Sanitaria Virtual, es facilitar el acceso de los ciudadanos a su tarjeta sanitaria en el móvil, permitiendo el acceso a servicios sanitarios sin necesidad de presentar la tarjeta física sanitaria. Para ello, se hará uso de un smartphone como contenedor de una tarjeta virtual que identifique al usuario ante los diferentes actores que prestan servicios relacionados con la Salud.",2020-06-10T07:00:00Z,2025-02-04T13:38:41Z
+es,Spain,Medical,6020,7,1489707682,Vithas,VITHAS SANIDAD S.L.,https://apps.apple.com/es/app/vithas/id1489707682?uo=4,0.0,4.68271,32103,Medical,"La app de Vithas te ayuda a cuidar tu salud haciéndote las gestiones médicas mucho más fáciles.
+
+¿Qué puedes hacer con la app de Vithas?
+
+Estar al día de tus gestiones médicas: tus citas, informes y comunicaciones médicas estarán en un solo lugar.
+
+Pedir cita: pide cita con tu médico o un especialista en tan solo unos segundos.
+
+Solicitar justificantes de asistencia al hospital para ti y tus familiares.
+ 
+Acceder a tus videoconsultas de una forma sencilla.
+
+Informarte sobre hospitales y médicos: podrás explorar el cuadro hospitalario y el cuadro médico de Vithas, donde encontrarás todos los detalles.
+
+Gestionar la salud de tus familiares: gestiona las citas y los informes de las personas de tu entorno.
+
+En Vithas queremos mejorar el bienestar de las personas a través del cuidado de su salud, y queremos hacerlo desde la excelencia y la cercanía.
+A través de nuestra app estarás en contacto con los mejores médicos y hospitales.",2020-09-28T07:00:00Z,2025-09-23T13:19:00Z
+es,Spain,Medical,6020,8,681103926,Salud Responde,SERVICIO ANDALUZ DE SALUD,https://apps.apple.com/es/app/salud-responde/id681103926?uo=4,0.0,1.58737,2724,Medical,"Salud Responde es una aplicación indicada para acceder al catálogo de servicios del que dispone Salud Responde.
+
+Esta ""app"" está dirigida a todos los usuarios que desean tener de una manera fácil el acceso a la solicitud y modificación de citas médicas primarias en el Servicio Andaluz de Salud, y obtener acceso a los contenidos de interés sanitario de los que dispone Salud Responde.
+
+El uso de esta aplicación no sustituye la relación médico-paciente.
+
+Para cualquier consulta sobre el funcionamiento de la aplicación puede ponerse en contacto con Salud Responde, en el correo: saludresponde@juntadeandalucia.es",2013-08-06T19:08:06Z,2023-01-27T07:20:11Z
+es,Spain,Medical,6020,9,1632200425,REMPe Pacientes,Digital Prescription Services SA,https://apps.apple.com/es/app/rempe-pacientes/id1632200425?uo=4,0.0,2.19643,56,Medical,"REMPe Pacientes es una aplicación de control y visualización de prescripciones y tratamientos de ámbito privado para el público general. Con ella podrá tener controlada toda su medicación y la de su familia desde su smartphone.
+
+¿Cómo empiezo a usarla?
+Descárguese la aplicación y dígale a su médico privado que le dé de alta. Una vez hecho esto, su médico podrá enviarle y renovarle recetas a través de la aplicación y usted solo tendrá que enseñarla en cualquier farmacia para poder retirarla.",2022-10-03T07:00:00Z,2025-01-21T14:26:24Z
+es,Spain,Medical,6020,10,505864483,Embarazo + | Semana a semana,Philips Digital UK Limited,https://apps.apple.com/es/app/embarazo-semana-a-semana/id505864483?uo=4,0.0,4.78416,16870,Medical,"Descarga hoy la app líder mundial de embarazo y recibe gratis artículos e información sobre el embarazo semana a semana.
+
+La app Embarazo+ incluye asesoramiento experto, artículos diarios, consejos médicos y modelos 3D interactivos para que puedas hacer un seguimiento del desarrollo del bebé. Nuestra app de embarazo ha sido descargada más de 80 millones de veces por familias que esperan bebés. ¡Únete hoy a nuestra comunidad mundial! 
+
+Desarrollo del bebé
+► Modelos 3D únicos e interactivos que muestran el desarrollo del bebé 
+► La Guía de Tamaño del bebé te ayuda a visualizar el tamaño de tu bebé con frutas, animales y dulces
+► La Guía Semanal de embarazo explica qué esperar en cada semana de embarazo
+► Línea de tiempo del embarazo simple e informativa que resalta los logros más importantes
+
+Información y guías del embarazo
+► Guías detalladas del embarazo que abarcan temas tales como lactancia, ejercicio físico, alimentación, gemelos y mucho más 
+► Artículos diarios personalizados según tu etapa del embarazo
+► Ecografías 2D y 3D para que puedas explorar de acuerdo a tu semana de embarazo
+► Entradas diarias de blogs con consejos, trucos y recomendaciones muy útiles
+► Sube fotos en Mi barriguita para crear un diario visual del embarazo
+
+Herramientas del embarazo
+► La Calculadora de fecha de parto del embarazo te ayuda a calcular la llegada de tu pequeño
+► El Contador de patadas registra la actividad y los movimientos de tu bebé
+► El Registro de peso del embarazo te ayuda a vigilar los cambios de peso
+► El Temporizador de contracciones cuenta las contracciones durante el trabajo de parto
+
+Organización y planificación
+► El Calendario del embarazo te permite planificar y registrar tus citas prenatales
+► La Maleta para el hospital ayuda a preparar la visita al hospital de la mamá, la pareja y el bebé
+► El Plan de parto te permite personalizar, organizar y exportar tus deseos y necesidades
+► Lista de tareas y Lista de ideas con información acerca de lo que debes hacer y comprar
+► Encuentra inspiración en los miles de Nombres de bebés y comparte tus favoritos
+
+Nuestros modelos 3D EXCLUSIVOS
+Disfruta de nuestros modelos 3D únicos que muestran el desarrollo del embarazo semana a semana, de blastocisto a feto y de feto a bebé. Nuestro modelos 3D pueden ayudarte a conectarte de verdad con el bebé que crece dentro tuyo. 
+► Elige entre varias etnias
+► Acerca o aleja y gira para ver cada detalle del bebé
+► Mira los recorridos guiados del embarazo semana a semana
+► Toca para ver los movimientos del bebé
+
+Artículos y Guías del embarazo
+Si te sientes abrumada por todas las recomendaciones que recibes, no te preocupes. Nuestra app de seguimiento Embarazo + te guiará durante el embarazo, semana a semana, manteniéndote al día con el desarrollo del bebé y ayudándote a vivir de manera saludable durante y después del embarazo. Los contenidos de la app Embarazo+ se escriben en la empresa con la ayuda de expertos médicos, especialistas en lactancia, parteras y, obviamente, padres.
+
+Comparte tu recorrido con amigos y familiares
+Nuestra app de seguimiento de embarazo se puede personalizar para que tu pareja, los futuros abuelos o tus mejores amigos puedan unirse a la diversión y seguir el desarrollo del bebé en el útero, desde la barriga hasta su nacimiento. Invita a todos a descargar hoy la app y mantenlos al día con tu embarazo.
+
+Política de privacidad
+https://info.health-and-parenting.com/PrivacyNotice?locale=es&country=ES
+
+Términos de uso
+https://info.health-and-parenting.com/TermsOfUse?locale=es&country=ES
+
+Esta app no tiene la intención de usarse con fines médicos o de reemplazar el consejo de un médico capacitado. Philips Consumer Lifestyle B.V. se deslinda de cualquier responsabilidad sobre las decisiones que usted tome a partir de esta información, que se le proporciona solo como información general y no como sustituto de una recomendación médica personalizada. Si tienes alguna duda sobre tu embarazo, comunícaselo al médico o a la partera.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+es,Spain,Medical,6020,11,444680982,ASISA,ASISA ASISTENCIA SANITARIA INTERPROVINCIAL DE SEGUROS SOCIEDAD ANONIMA,https://apps.apple.com/es/app/asisa/id444680982?uo=4,0.0,2.80959,709,Medical,"Gestiona tu póliza con ASISA, estés donde estés.
+
+
+Accede de manera ágil a un conjunto completo de servicios que te permitirán gestionar tu salud y hacer más cómoda tu relación con nosotros. 
+¿Qué puedes hacer con ella?
+. Buscar al médico que necesites por especialidad y ordenarlo por cercanía. Comparte los resultados con quien tú quieras.
+. Pedir tu cita online en los hospitales y centros del Grupo Hospitalario HLA.
+. Solicitar una videoconsulta con un especialista a través de Asisa LIVE.
+. Saber qué pruebas requieren autorización y solicitarla en caso de que fuese necesario.
+. Ver tus tarjetas, si es que has olvidado llevarlas contigo.
+. Consultar el histórico de citas pendientes y tus visitas al médico. Añadir fotos, informes u otros documentos que quieras guardar.
+. Consultar el detalle de tus recibos.
+. Recuperar información sobre tu póliza, incluidas las condiciones particulares.
+Además, podrás encontrar toda la Red de Oficinas, centros propios y productos que ponemos a tu disposición.
+¡Descarga la app de Asisa y comienza a disfrutar de todas sus ventajas en cualquier momento y desde cualquier lugar!
+(*) El acceso a la mayoría de estos servicios requiere esta registrado. Si no lo has hecho ya, puedes hacerlo directamente en la propia aplicación o a través de www.asisa.es/registro. El usuario y contraseña que elijas será válido para acceder por ambos canales.",2011-08-18T01:37:34Z,2025-09-22T07:29:36Z
+es,Spain,Medical,6020,12,1497714153,Virtual Waiting Room,Mysphera S.L.,https://apps.apple.com/es/app/virtual-waiting-room/id1497714153?uo=4,0.0,4.78397,2472,Medical,"La Sala de Espera Virtual MYSPHERA es una aplicación diseñada para modernizar y optimizar la experiencia de espera en los hospitales. Su objetivo es conectar de manera efectiva a los pacientes, sus familiares y los profesionales médicos, creando un entorno más informado y reconfortante para todos.
+
+Con Virtual Waiting Room es posible seguir en vivo el estado del paciente a través del proceso quirúrgico o en Urgencias. Mediante notificaciones de cambio estado y mensajes del personal médico es posible conocer las diferentes fases que atraviesa un paciente dentro del bloque quirúrgico o las diferentes pruebas y áreas en las que se encuentra durante su estancia en Urgencias.
+
+Además de conocer el flujo del estado del paciente, a través de una captura automática del movimiento mediante el dispositivo electrónico (pulsera de identificación) asignado al paciente, el personal sanitario puede comunicarse con los familiares mediante el envío de mensajes personalizados como por ejemplo retrasos en la entrada a intervención o pruebas de urgencia o solicitar la presencia de los familiares en el punto de información para hablar con ellos en persona.
+
+Beneficios de la Sala de Espera Virtual MYSPHERA:
+
+Información en tiempo real: Uno de los aspectos más estresantes de la espera en un hospital es la falta de información. La Sala de Espera Virtual proporciona actualizaciones en tiempo real sobre el estado de los pacientes y el progreso de su atención, lo que brinda a los familiares tranquilidad y una mayor comprensión de lo que está sucediendo.
+
+Comunicación y notificaciones personalizadas: Los pacientes y sus seres queridos pueden recibir notificaciones en sus dispositivos móviles sobre cambios en el horario de cirugía, retrasos, retrasos en pruebas de urgencias, pacientes en observación,…
+
+Reducción del estrés: Al mantener a los pacientes y sus familias informados y conectados, la Sala de Espera Virtual MYSPHERA reduce el estrés y la ansiedad asociados con la espera en entornos médicos.
+
+Eficiencia operativa: Los profesionales médicos pueden gestionar mejor la comunicación con los pacientes y sus familias, lo que a su vez contribuye a una atención más eficiente y centrada en el paciente.
+
+En definitiva, Virtual Waiting Room es una aplicación que no solo reduce el estrés, sino que también mejora la comunicación entre pacientes, sus seres queridos y los profesionales médicos.
+
+Notas importantes sobre el uso de la APP:
+
+ El uso de la aplicación requiere un código de acceso que le entregarán en el hospital. Asegúrese de que su hospital ofrece el servicio.
+
+ La información y notificaciones recibidas dependen del uso y la configuración del sistema de localización de MYSPHERA definidas por cada hospital. 
+
+ Si no recibe actualizaciones del estado de su paciente, consulte con su hospital, o consulte con el centro de soporte de MYSPHERA (support@mysphera.com) indicando el hospital desde el que le han entregado el código.
+
+ La aplicación en ningún caso ofrece información clínica del paciente.
+
+ La aplicación en ningún caso sustituye la relación médico paciente.
+
+ El control de versión de la aplicación está disponible en su tienda correspondiente.
+
+ El mecanismo de actualización de la aplicación utiliza los mecanismos de actualización de la aplicación de su dispositivo. 
+
+Historial de versiones
+1.0.2 - Versión inicial
+2.3.0 - Mejoras en la interfaz
+Última versión - Correcciones menores
+
+La aplicación pertenece a la empresa MYSPHERA, y es un módulo de la plataforma de MYSPHERA, si le interesa obtener más información sobre la plataforma puede acceder a: www.mysphera.com",2020-06-04T07:00:00Z,2025-07-03T08:10:19Z
+es,Spain,Medical,6020,13,6612007783,OpenEvidence,OpenEvidence Inc.,https://apps.apple.com/es/app/openevidence/id6612007783?uo=4,0.0,4.88009,392,Medical,"Clinical Decision Support for Healthcare Professionals (NPI Required).
+
+OpenEvidence is the world’s leading medical information platform for health care professionals, providing accurate and efficient answers at the point of care. Every answer on OpenEvidence is always sourced, cited, and grounded in the peer-reviewed medical literature.
+
+Now featuring New England Journal of Medicine (NEJM) published content, NEJM multimedia content, and NEJM invited review articles authored by the world’s leading clinical experts.
+
+• 160 medical specialties
+• 1,000+ diseases and therapeutic areas
+• 1m+ medical topics
+
+Trusted by medical professionals at 10,000+ care centers across the United States.
+
+OpenEvidence is only available for health care professionals. Users must verify their health care professional status before using OpenEvidence.
+
+AS SEEN IN
+
+Forbes: “OpenEvidence Keeps Doctors Up To Date On The Latest Science”
+
+TESTIMONIALS
+
+“I've been using OpenEvidence for the last week - it has been amazing! Able to narrow down on results quickly and find information that I wasn't able to do with Google/PubMed searches on my own.” - Dr. John Lee, MD. Physician & Faculty Member, Harvard Medical School
+
+“OpenEvidence can be the foundational technology to power all clinical decision tools.” - Dr. Antonio Jorge Forte, MD. Director of MayoExpert, Mayo Clinic
+
+“OpenEvidence is more up-to-date than UpToDate. And more useful regardless, since it’s interactive, and you can ask it questions, and get very specific answers about specific medical fact patterns in a patient case. It’s like having a curbside consult with a team of expert physicians, but that you can carry around with you in your pocket.” - Dr. Ram Dandillaya, MD. Clinical Chief, Department of Cardiology, Cedars-Sinai Medical Center
+
+“I am in community practice and medical director of a community cancer center. OpenEvidence has been an incredible lifeline for daily practitioners.” - C.J., Oncologist 
+
+“OpenEvidence is absolutely fantastic. I use it a gazillion times a day.” - J.A., Neurologist
+
+“OpenEvidence’s efforts to make medicine more evidence-based are invaluable. The shift from judgment to calculation can reduce the level of noise currently found in medicine.” - Daniel Kahneman, Nobel Prize Laureate (In Memoriam)
+
+“It is light years ahead of the next best medical oriented AI I have used.” - R.E.., Oncologist
+
+STAY SHARP & UP-TO-DATE
+
+• Find what you need, when you need it on a mobile-native platform.
+
+• The world’s most powerful medical search engine at your fingertips.
+
+• Discover and find exactly what you are looking for with deep search and a highly intuitive user interface that understands you and what you are asking.",2024-08-15T07:00:00Z,2025-11-20T21:17:11Z
+es,Spain,Medical,6020,14,1260901154,HM Hospitales,HM Hospitales 1989 S.A.,https://apps.apple.com/es/app/hm-hospitales/id1260901154?uo=4,0.0,1.76415,424,Medical,"App iOS del grupo HM Hospitales, Portal del Paciente
+Ser Usuario HM tiene múltiples ventajas: solicitud de cita médica online, acceso a sus citas y a su historia clínica, asociar pacientes, y todo ello al alcance de sus dedos. Hágase Usuario de HM Hospitales de manera gratuita y accederá a los mejores servicios que un portal de salud puede ofrecer",2017-07-19T17:43:19Z,2025-11-05T19:14:39Z
+es,Spain,Medical,6020,15,6747079659,Mi Cigna,Connecticut General Life Insurance Company,https://apps.apple.com/es/app/mi-cigna/id6747079659?uo=4,0.0,4.28571,28,Medical,"Presentamos Mi Cigna, tu nueva app para gestionar tus citas médicas, autorizaciones, reembolsos y mucho más. Mi Cigna te ofrece una solución integral que te ayudará, de forma rápida y sencilla a cuidar de tu bienestar y la de tu familia en un solo clic.",2025-09-03T07:00:00Z,2025-11-05T11:56:50Z
+es,Spain,Medical,6020,16,920775562,IMED Hospitales,HOSPIMAR 2000 SL,https://apps.apple.com/es/app/imed-hospitales/id920775562?uo=4,0.0,2.93605,172,Medical,"La aplicación para pacientes de IMED Hospitales le permite acceder a toda su información médica de forma cómoda, rápida y segura a través de su teléfono móvil.
+La app cuenta con las siguientes funcionalidades: 
+• Petición de citas, consultando la agenda de cada médico en tiempo real.
+• Gestión de citas: consulta de citas pendientes y opción de cancelación.
+• Sala de espera. A su llegada al hospital, tras obtener la entrada a través de recepción, usted recibirá en el móvil un aviso cuando sea el momento de entrar a la consulta (sólo disponible en algunos hospitales).
+• Consulta de todo su historia clínica, incluyendo informes médicos y pruebas de diagnóstico realizadas.
+• Descarga de documentos asociados a su actividad en nuestros centros tales como facturas.
+• Solicitud de ambulancia con geoposicionamiento.",2014-12-02T20:21:34Z,2024-07-12T14:39:25Z
+es,Spain,Medical,6020,17,6443825826,Activa DKV,DKV Seguros y Reaseguros S.A.E.,https://apps.apple.com/es/app/activa-dkv/id6443825826?uo=4,0.0,2.3198,197,Medical,"¡Bienvenido a Activa DKV, la app de salud que estabas buscando! Con esta aplicación, los pacientes de DKV pueden gestionar todo lo relacionado con su salud de forma rápida, cómoda y segura desde su dispositivo móvil.
+
+¿Qué puedes hacer desde la app de Activa DKV?
+
+- En tu perfil podrás consultar la información de tu seguro de salud y sus gestiones, modificar datos de contacto, consultar los métodos de pago, las condiciones particulares y firmar documentación. También podrás realizar consultas sobre gestiones o localizar tu sucursal DKV más cercana.
+- Con nuestro buscador del cuadro médico de DKV, podrás encontrar al médico especialista de los espacios de salud DKV que necesites en la localidad en la que te encuentres.
+- ¿Necesitas gestionar autorizaciones con la compañía de seguros DKV para tus pruebas médicas? ¡No hay problema! Con Activa DKV podrás hacerlo de forma sencilla y sin salir de casa.
+- ¿Quieres gestionar reembolsos en tu seguro? ¡También podrás hacerlo desde la app!
+- Accede a la sección MiMomento para cuidarte mejor a través de recursos, experiencias y soluciones en base al momento vital en el que te encuentres
+- Gestiona tus citas médicas de manera sencilla: accede a las videollamadas, anula o modifica tus citas.
+- Recibe asistencia médica de urgencia a través de nuestro chat médico. Gracias a esta funcionalidad, podrás tener acceso inmediato a profesionales médicos cualificados, quienes estarán disponibles las 24 horas para brindarte la atención que necesitas en situaciones urgentes.
+- Agendar una videollamada con personal sanitario. Gracias a nuestra plataforma de videollamadas, podrás programar y reservar citas con profesionales sanitarios de los espacios DKV. En las consultas médicas virtuales tendrás orientación médica, evaluaciones, seguimiento de tratamientos e incluso obtener recetas electrónicas, todo desde la comodidad de tu hogar.
+- Con Activa DKV, tendrás a tu disposición un seguro de salud completo y tu tarjeta sanitaria virtual para acceder a los servicios de asistencia sanitaria y urgencias médicas que necesites. Y todo ello, en una app de fácil uso y totalmente gratuita.
+Tarjeta sanitaria: Acceder a tu tarjeta DKV Medicard.
+- Acceder directamente a las funcionalidades de QC+ de forma fácil y segura. Recuerda que para poder acceder a videoconsultas, chat médico y obtener tu receta electrónica, deberás tener instalada también la app Quiero cuidarme Más.
+
+
+En Activa DKV solicitamos los siguientes permisos
+
+- Ubicación: para ayudarte a encontrar los médicos, centros y sucursales más cercanas.
+- Fotos/multimedia/archivos: para poderte enviar documentación de tus autorizaciones o reembolsos.
+- Cámara: para que puedas fotografiar informes y subirlos a la app.
+- Micrófono: para realizar videoconsultas.
+
+Queremos darte el mejor servicio. Por eso, si tienes algún problema o sugerencia, por favor, escríbenos a atencionclientedigital@dkvseguros.es y te ayudaremos.
+
+En resumen, con Activa DKV tendrás todo lo que necesitas para cuidar de tu salud y bienestar. Descarga nuestra app y empieza a disfrutar de todas sus ventajas. Con nuestra app, tendrás a tu disposición la mejor asistencia sanitaria y la tranquilidad que te da contar con un seguro de salud completo y de calidad.
+
+Descarga ya Activa DKV y empieza a cuidar de tu salud de forma digital. ¡No esperes más para disfrutar de todas las ventajas de la salud digital con DKV!",2022-12-19T08:00:00Z,2025-11-12T05:44:20Z
+es,Spain,Medical,6020,18,6745891412,Amplifon App,Amplifon S.p.A.,https://apps.apple.com/es/app/amplifon-app/id6745891412?uo=4,0.0,4.30769,52,Medical,"Vive una experiencia auditiva como nunca antes con la App de Amplifon: tu acceso a la salud auditiva y al control inteligente de tus audífonos.
+
+Tanto si estás comenzando tu camino en el cuidado de la audición como si ya utilizas audífonos compatibles, la app de Amplifon te ofrece todo lo que necesitas para disfrutar de una experiencia fluida y personalizada. Realiza una prueba de audición gratuita, explora contenidos especializados sobre salud auditiva y mantente en contacto con tu audioprotesista de confianza, todo en una sola aplicación.
+
+Gestión inteligente de los audífonos: Conecta tus audífonos Bluetooth® compatibles y toma el control total: ajusta programas, volumen y niveles de ruido ambiental con facilidad.
+
+Información personalizada: Supervisa el uso de tus dispositivos y sigue tus progresos para sacar el máximo partido a tus audífonos.
+
+Reserva fácil de citas: Programa una visita en tu centro preferido de manera rápida y cómoda.
+
+Guías paso a paso: Aprende a usar y cuidar tus audífonos gracias a tutoriales personalizados y consejos prácticos para el mantenimiento diario.
+
+Acceso directo al soporte: Contacta con nuestro servicio de atención al cliente siempre que necesites la ayuda de nuestros expertos.",2025-11-03T08:00:00Z,2025-11-03T08:00:00Z
+es,Spain,Medical,6020,19,1593953398,Anatomy Learning - Anatomía 3D,3DMedical OU,https://apps.apple.com/es/app/anatomy-learning-anatom%C3%ADa-3d/id1593953398?uo=4,0.0,4.67347,441,Medical,"Una completo atlas interactivo de anatomía humana en 3D.
+
+Caracteristicas
+- Puede rotar modelos a cualquier ángulo y acercar y alejar
+- Retire las estructuras para revelar estructuras anatómicas debajo de ellas.
+- QUIZZ en 3D para poner a prueba tus conocimientos
+- Enciende / apaga diferentes sistemas de anatomía
+- Sistemas reproductivos femeninos y masculinos están disponibles
+
+Contenidos:
+- Huesos
+- Ligamentos
+- Articulaciones
+- Músculos
+- Circulación (arterias, venas y corazón)
+- Sistema nervioso central
+- Sistema nervioso periférico
+- Órganos sensoriales
+- Respiratorio
+- Digestivo
+- Urinario
+- Reproductivo (tanto masculino como femenino)",2021-11-09T08:00:00Z,2025-11-10T18:33:33Z
+es,Spain,Medical,6020,20,824742584,Mi Salud Digital CLM,SERVICIO DE SALUD DE CASTILLA-LA MANCHA (SESCAM),https://apps.apple.com/es/app/mi-salud-digital-clm/id824742584?uo=4,0.0,1.69194,422,Medical,"Aplicación oficial del Servicio de Salud de Castilla La Mancha mediante la cual podrá realizar los trámites y consultas más habituales desde su teléfono móvil, de forma fácil y cómoda. 
+Permite solicitar, modificar o anular su cita previa con su médico de familia, enfermera, pediatra o especialista hospitalario. Ofrece la posibilidad de añadirla a su calendario o bien elegir si necesita un SMS para que le recuerde que la tiene pendiente. También le permitirá conocer su estado en la lista de espera.
+Podrá buscar las farmacias más próximas a su domicilio así como aquellas que se encuentran de guardia. 
+
+La aplicación le va a permitir ver datos principales de su historia y sus informes clínicos a través de su carpeta de salud. De este modo, usted podrá conocer por ejemplo las alergias que tiene registradas, sus vacunas así como la medicación que toma y que tiene disponible en su farmacia.
+Esta app es para los ciudadanos que tengan tarjeta sanitaria en la comunidad de Castilla La Mancha. En determinadas gestiones se le solicitará identificarse mediante su Código de Identificación Personal, impreso en su tarjeta sanitaria o autenticarse con una mecanismo seguro (DNIe, certificado digital, su credencial permanente del sistema cl@ve o usuario de Mi Salud Digital que puede activar desde la aplicación).",2014-02-28T14:30:41Z,2025-10-13T06:37:59Z
+es,Spain,Medical,6020,21,1154478913,Sergas Móbil,Servizo Galego de Saude,https://apps.apple.com/es/app/sergas-m%C3%B3bil/id1154478913?uo=4,0.0,1.85972,1440,Medical,"[GL] Sergas Móbil é unha aplicación do Servizo Galego de Saúde (Sergas) que pretende achegar a toda a cidadanía o catálogo de apps e e-servizos, de xeito transversal, inclusivo e eficaz.
+
+
+
+A aplicación dispón dos seguintes servizos:
+— Xestión de pacientes. Xestión de múltiples pacientes introducindo os seus datos persoais unha única vez.
+— Tarxeta sanitaria virtual. Almacenamento da tarxeta sanitaria no móbil.
+— Chamadas ao 061. Chamada dende a app comunicando coordenadas GPS.
+— Cita de atención primaria. Xestión das citas de atención primaria a través do móbil.
+— Consulta de citas e obtención de quendas. Consulta de todas as citas de primaria e de especializada, e obtención de quendas.
+— Videoconsulta. Atención personalizada sen desprazarse ao centro.
+— Os meus centros. Busca de centros e ademais con xeolocalización.
+— Acceso entre as diferentes aplicacións. Acceso integrado a É-Saúde (servizos e contidos de saúde personalizados) e a outras aplicacións do Sergas.
+— Últimas novas. Consulta das últimas novas publicadas polo Sergas.
+— Redes sociais. Acceso ás diferentes canles que o Sergas ten nas redes sociais.
+— Mensaxes. Consulta de notificacións de carácter xeral enviadas polo Sergas para comunicar novidades, avisos, etc.
+— Dispoñible nos idiomas galego e castelán (español)
+
+
+
+Pódese consultar información máis ampliada da aplicación na ligazón
+
+https://www.sergas.gal/A-nosa-organizacion/Aplicacion-mobil-Sergas-Mobil?idioma=ga
+
+
+
+Política de Privacidade
+
+https://www.sergas.gal/A-nosa-organizacion/Sergas-Mobil-politica-de-privacidade?idioma=ga
+
+
+
+
+[ES] Sergas Móbil es una aplicación del Servicio Gallego de Salud (Sergas) que pretende acercar a toda la ciudadanía el catálogo de apps y e-servicios, de forma transversal, inclusivo y eficaz. 
+
+
+
+La aplicación dispone de los siguientes servicios:
+— Gestión de pacientes. Gestión de múltiples pacientes introduciendo los datos personales una única vez.
+— Tarjeta sanitaria virtual. Almacenamiento de la tarjeta sanitaria en el móvil.
+— Llamadas al 061. Llamada desde la app comunicando coordenadas GPS.
+— Cita de atención primaria. Gestión de las citas de atención primaria a través del móvil.
+— Consulta de citas y obtención de turnos. Consulta de todas las citas de primaria y de especializada, y obtención de turnos.
+— Videoconsulta. Atención personalizada sin desplazarse al centro.
+— Mis centros. Búsqueda de centros y además con geolocalización.
+— Acceso entre las diferentes aplicaciones. Acceso integrado a É-Saúde (servicios y contenidos de salud personalizados) y a otras aplicaciones del Sergas.
+— Últimas noticias. Consulta de las últimas noticias publicadas por el Sergas.
+— Redes sociales. Acceso a los diferentes canales que el Sergas tiene en las redes sociales.
+— Mensajes. Consulta de notificaciones de carácter general enviados por el Sergas para comunicar novedades, avisos, etc.
+— Disponible en los idiomas gallego y castellano (español)
+
+
+
+Se puede consultar información más ampliada de la aplicación en el enlace 
+
+https://www.sergas.gal/A-nosa-organizacion/Aplicacion-mobil-Sergas-Mobil?idioma=es
+
+
+Política de Privacidad
+
+https://www.sergas.gal/A-nosa-organizacion/Sergas-Mobil-politica-de-privacidade?idioma=es",2018-02-28T11:55:43Z,2025-10-23T07:01:51Z
+es,Spain,Medical,6020,22,877303791,Contador de contracciones 9m,Aleksei Neiman,https://apps.apple.com/es/app/contador-de-contracciones-9m/id877303791?uo=4,0.0,4.75612,7553,Medical,"*** ¡La app contador de contracciones más descargada del mundo! ¡Número 1 en el Reino Unido, Australia, Canadá, Italia y otros lugares! ***
+
+El contador de contracciones más simple de usar. La aplicación te ayudará a contarr tus contracciones y determinar cuándo es el momento de ir al hospital.
+Si deseas dar a luz en casa, esta aplicación de dirá exactamente en qué punto del parto te encuentras en cada momento 
+
+Controla el progreso del parto contando la duración de las contracciónes pulsando un botón al inicio y al final de las mismas. El contador de contracciónes analizará la duración y frecuencia y te avisará cuando tengas que ir al hospital. 
+
+Miles de mujeres embarazadas en todo el mundo se han convertido en madres utilizando nuestra aplicación. 
+
+Consulta siempre a tu médico para orientarte en términos de frecuencia y duración de la contracción.
+Esta app no es un dispositivo médico y nuestras recomendaciones se basan en indicadores estándar. Tu parto puede ocurrir de manera diferente. Por lo tanto, no te bases exclusivamente en nuestra app.
+Si la duración y la frecuencia de las contracciones aún no corresponden a los indicadores necesarios, pero los dolores de parto se vuelven insoportables, es mejor ir al hospital lo antes posible en lugar de dar a luz en casa o en el camino. Confía en lo que tu cuerpo te está diciendo.
+
+ Si tienes alguna pregunta o sugerencia, por favor mándanos un email a neumandev@gmail.com. Tu feedback es muy importante para nosotros.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+es,Spain,Medical,6020,23,1551973337,Carpeta de Salud,Osakidetza,https://apps.apple.com/es/app/carpeta-de-salud/id1551973337?uo=4,0.0,1.71186,118,Medical,"Mi Carpeta de Salud: podrás consultar de forma segura y confidencial tu información sanitaria: informes, próximas citas... y acceder a contenidos de interés para tu salud.",2021-06-14T07:00:00Z,2021-06-15T06:41:53Z
+es,Spain,Medical,6020,24,768049164,FREMAP Contigo,FREMAP Mutua de A.T. y E.P. de la S.S. n. 61,https://apps.apple.com/es/app/fremap-contigo/id768049164?uo=4,0.0,4.37352,3732,Medical,"La aplicación móvil FREMAP permitirá a los trabajadores asociados a FREMAP acceder a información general así como consultar sus datos médicos y económicos y establecer contacto con FREMAP.
+
+Desde el área pública podrás: 
+•	Realizar llamadas de emergencia a FREMAP, desde España y desde el extranjero. 
+•	Consultar la red de centros de FREMAP, ver horarios, situación en el mapa, y la distancia a tu ubicación actual
+•	Consultar y descargar los calendarios laborales de todas la Comunidades Autónomas
+•	Consultar y descargar impresos de utilidad 
+•	Acceder a información de interés si eres trabajador
+•	Acceder a información de interés específica, si eres trabajador autónomo
+•	Acceder al Canal de Prevención donde podrás encontrar material divulgativo para cuidar de tu salud y prevenir accidentes: guías, manuales, videos, etc.
+•	Conocer las coberturas con tu mutua
+•	Consultar tus derechos como paciente
+
+Desde el área privada podrás: 
+•	Descargar los informes médicos que te hayan realizado y solicitar nuevos informes
+•	Ver tu Información económica
+•	Descargar tu certificado de retenciones de IRPF
+•	Recibir alertas por SMS y/o correo electrónico
+•	Recibir información complementaria en el Buzón de la aplicación
+•	Ver las próximas citas médicas y de rehabilitación 
+•	Contactar con tu interlocutor/a, solicitando que tu interlocutor/a se ponga en contacto contigo
+•	Contactar con un Trabajador/a social: Solicitando que el trabajador/a social se ponga en contacto contigo.
+•	Modificar tus datos personales: Podrás solicitar que modifiquen algunos de tus datos personales.",2014-03-01T08:00:00Z,2025-10-09T06:52:46Z
+es,Spain,Medical,6020,25,1144871267,Mi Embarazo: Semana a semana,Wachanga LTD,https://apps.apple.com/es/app/mi-embarazo-semana-a-semana/id1144871267?uo=4,0.0,4.68912,1351,Medical,"Este calendario de maternidad en español te ayudará a controlar tu embarazo semana a semana. Esta guía de embarazo gratis te mantendrá informada sobre el increíble proceso que ocurre en tu cuerpo, el desarrollo de tu bebé paso a paso durante el embarazo y otros temas importantes para ti, incluyendo el control de la dieta en el embarazo. Podrás utilizar esta app de embarazo día a día gratis en español para resolver todas tus dudas sobre la maternidad. 
+
+Esta aplicación contiene: 
+
+•	Explicaciones sobre el desarrollo de tu bebé.
+•	Control del embarazo semana a semana.
+•	Comprueba tus conocimientos sobre el embarazo paso a paso: Te sorprenderás de todo lo que aprenderás sobre tu cuerpo y sobre la maternidad.
+•	Dieta durante el embarazo. Consejos sobre nutrición, alimentos y medicamentos que puedes o no tomar durante el embarazo. 
+•	Consejos para cada semana del embarazo, desde la semana de la concepción a la del parto. Incluye ejercicios, entrenamientos, recomendaciones de lectura sobre el embarazo y más.
+•	Gestograma de embarazo gratis que señala las fechas importantes para mejor control del embarazo. 
+•	Listas de objetivos editables para cada trimestre del embarazo. 
+•	Lista de objetivos pre-parto. 
+•	Información sobre todo lo que necesitarás durante tu estancia en el hospital e inmediatamente después del nacimiento de tu bebé. 
+•	Calculadora de embarazo con fecha prevista de parto.
+•	Control del embarazo, con un widget moderniza la maternidad, mostrando la edad actual de tu bebé en la pantalla de inicio.
+•	Contraction timer:  Esta app de embarazo cuenta con un contador de contracciones que te permitirá saber si debes acudir al hospital. Un widget en la pantalla de inicio también te ayudará al control de las contracciones durante tu embarazo.  
+
+Recuerda usar el diario de maternidad y registrar tus cambios durante el embarazo día a día. Al final del embarazo,  tendrás una hermosa compilación de fotos, recuerdos y sentimientos que ilustrarán tus cambios a lo largo del embarazo semana a semana.
+Nos hemos esforzado por crear la mejor app de embarazo disponible en España. No dudes en hacernos llegar tus recomendaciones y sugerencias, e intentaremos implementarlas lo antes posible.
+
+* Supports transferring data to Health app.
+
+GOLD STATUS IN THE APP
+- The subscription costs $1.99 per month
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2017-03-20T02:32:27Z,2025-11-13T01:09:53Z

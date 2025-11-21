@@ -1,0 +1,906 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+bg,Bulgaria,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/bg/app/google-translate/id414706506?uo=4,0.0,4.25913,575,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-18T17:48:56Z
+bg,Bulgaria,Reference,6006,2,1227733233,CARS.bg,JOBS.BG EOOD,https://apps.apple.com/bg/app/cars-bg/id1227733233?uo=4,0.0,4.7647,19018,Reference,"Следете и публикувайте обяви за автомобили и други превозни средства отвсякъде и по всяко време.
+
+Follow and publish offers for cars and other vehicles from anywhere, at any time.",2017-04-25T14:13:28Z,2022-07-04T06:27:22Z
+bg,Bulgaria,Reference,6006,3,439575266,mobile.bg,Rezon Ltd,https://apps.apple.com/bg/app/mobile-bg/id439575266?uo=4,0.0,4.80353,15458,Reference,"Сайт №1 за покупка и продажба на автомобили в България вече е достъпен навсякъде и по всяко време от вашия iPhone, iPad или iPod Touch!
+
+• Над 120,000 обяви в 11 категории - от леки автомобили, джипове и мотоциклети, през строителна и селскостопанска техника, до каравани и яхти - сигурни сме че можете да намерите решението на вашите нужди.
+• Резултати по мярка - бързо намерете автомобил по най-важните за вас критерии или прецизирайте всеки детайл, за да намерите точно това, което търсите.
+• Всяка подробност е важна - прегледайте обявите с пълната информация, която е от значение и разгледайте автомобила във вградената галерия.
+• Установете контакт - позвънете на автора на обявата или му изпратете съобщение директно от приложението.
+• Вземете си бележка - запазете обявите, които са ви грабнали в бележника на приложението, за да можете бързо да сравнявате различни предложения.
+• Бъдете информирани - четете най-важните новини от автомобилния свят и споделяйте мнението си в коментарите към тях.
+
+
+Bulgaria's leading automotive marketplace comes to the iPhone, iPad & iPod touch! Browse over 120,000 listings in 11 categories to find exactly what you're looking for.
+From cars and SUVs, trailers and boats, to specialized equipment, you're sure to find a perfect match for your needs. Save listings for future reference and quick access. Or just browse through the lastest news and have your say in the comments.",2011-06-02T02:34:29Z,2025-08-08T07:54:14Z
+bg,Bulgaria,Reference,6006,4,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/bg/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,5,4,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+bg,Bulgaria,Reference,6006,5,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/bg/app/deepl-translate/id1552407475?uo=4,0.0,4.88235,238,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+bg,Bulgaria,Reference,6006,6,282935706,Bible,Life.Church,https://apps.apple.com/bg/app/bible/id282935706?uo=4,0.0,4.9409,8816,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+bg,Bulgaria,Reference,6006,7,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/bg/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.60606,33,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+bg,Bulgaria,Reference,6006,8,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/bg/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.5579,613,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+bg,Bulgaria,Reference,6006,9,6737539281,Translate Now+Voice Translator,Tech Nest IT Services,https://apps.apple.com/bg/app/translate-now-voice-translator/id6737539281?uo=4,0.0,0,0,Reference,"Speak and understand any language instantly! Want to break language barriers easily and naturally? Check out Translate Now*Voice Translator. Talk, type, or take a picture to get fast and accurate translations. With this smart and easy translation app, real-time communication is possible wherever you are.  
+
+  
+
+Translate conversations, menus, signs, and documents using helpful tools like voice translator and get desired information in your language with the help of a photo translator. Whether you're traveling, studying, or meeting new people, a voice language translator helps you communicate smoothly with others from different countries.  
+
+  
+
+Some Main Features of Translate Now*Voice Translator:  
+
+• Voice Translator for instant speaking  
+
+• Camera Translator for reading printed text  
+
+• Photo Translator for text in pictures  
+
+• Text Translator for messages and content  
+
+• Real time language translator for fast typing  
+
+  
+
+Voice Translator: Speak into your phone and get clear translations. Voice language translator is reliable tool for daily conversations. Voice Translator lets you speak freely and hear your words in another language. You don’t need to type. Just talk and translate using this real time translator.  
+
+  
+
+Camera Translator: Place your camera at a sign, page, or label and get instant results. The camera translator enables you to read things around you when visiting new places or reading unfamiliar content in a different language.  
+
+  
+
+Photo Translator: Snap a photo, and the translation app will scan and translate the text in seconds. The photo translator is useful for travel, shopping, or understanding documents in a new language.  
+
+  
+
+Text Translator: Type or paste any sentence and get fast and accurate translations. Text translator works well for messages, websites, and more.   
+
+  
+
+Real time translator: While typing a message, see translations as you go. Language translator works great in chats, forms, or emails. Real time translator tool makes typing in other languages fast and smooth.  
+
+  
+
+Japanese & Spanish translator: Translate Now works in many popular languages. Use it as a Spanish translator when visiting Spanish-speaking areas. Language translator also works as a Japanese translator and helps with Arabic, Korean, French, and many other languages. This complete translation app helps you understand and respond in new languages with confidence.  
+
+  
+
+Benefits of Translate Now*Voice Translator:  
+
+• Easily communicate with people around the world  
+
+• Use camera, photo, voice, or text translator tools  
+
+• Translate offline with saved phrases  
+
+• Travel confidently and work globally  
+
+• Speak and translate using simple tools  
+
+• Build vocabulary while using the voice translator app  
+
+• Translate easily into any language by using a voice language translator  
+
+  
+
+Download Translate Now*Voice Translator app and enjoy simple & fast translation around the world.  
+
+  
+
+Privacy Policy: https://sites.google.com/view/technestitservices/translate-now-photo-translator/privacy-policy  
+
+  
+
+Terms of Use: https://sites.google.com/view/technestitservices/translate-now-photo-translator/terms-of-use ",2024-11-08T08:00:00Z,2025-09-12T00:48:16Z
+bg,Bulgaria,Reference,6006,10,6752773778,HappyMood - All Games Library,Calliope State School,https://apps.apple.com/bg/app/happymood-all-games-library/id6752773778?uo=4,0.0,0,0,Reference,"HappyMood – Discover Games Made for You
+
+Are you a true gamer looking for one place to explore everything about games? HappyMoods is your ultimate companion! With a huge database of games, you can easily search, discover, and enjoy all the details you need in one simple app.
+Explore a Massive Library HappyMood Browse through a wide range of games across different styles and categories. Whether you love action, adventure, puzzle, or strategy, HappyMods brings everything together in one place.
+Watch Trailers & Gameplay Before playing, get a real taste of the game! Watch trailers and gameplay videos to see exactly what the game looks like.
+Save Your Favorites HappyMood Build your own personalized collection of favorite games. Add the ones you love and come back to them anytime.
+Track Games You Like Never lose track of a game again. Follow the games you’re interested in and keep them organized in your list.
+Choose Your Mood Not sure what to play? Select your mood and HappyMod will recommend games that match how you feel at that moment. Fun, relaxing, scary, or exciting – there’s always a game waiting for you.
+Test Your Knowledge Think you know everything about games? Try our quiz and challenge yourself with fun questions to see how much of a gaming expert you are.
+All-in-One Gaming Experience HappyMood makes it easy for you to discover new games, keep track of your favorites, enjoy videos, and even test your knowledge. It’s everything a gamer needs – simple, clear, and always fun.
+With HappyMod, finding the perfect game has never been easier.",2025-10-02T07:00:00Z,2025-10-02T13:25:12Z
+bg,Bulgaria,Reference,6006,11,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/bg/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,4.66667,3,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-02-07T08:00:00Z,2025-11-14T09:53:01Z
+bg,Bulgaria,Reference,6006,12,577741918,PONS Translate & Dictionary,PONS Langenscheidt GmbH,https://apps.apple.com/bg/app/pons-translate-dictionary/id577741918?uo=4,0.0,4.78041,888,Reference,"The free translator app from PONS
+
+
+
+Get quick and reliable translations - with over 50 PONS Dictionaries and text translation for 40 languages. This tool gives you a translation for all of your search queries.
+
+The app includes PONS Dictionaries for Arabic, Bulgarian, Chinese, Croatian, Dutch, English, Finnish, French, German, Greek, Icelandic, Italian, Japanese, Latin, Persian, Polish, Portuguese, Romanian,  Russian, Serbian, Slovakian, Slovenian, Spanish and Turkish. In addition to dictionaries with German you will find dictionaries for combinations such as Spanish-English, French-Polish, or Portuguese-Spanish. You have access to over 50 dictionaries. The text translation system integrated into the app covers all the languages of the online dictionaries plus an additional 12 languages such as Hebrew or Korean.
+
+
+
+INTELLIGENT SEARCH
+Type in or say your search term and to make your search quicker and more convenient, the system provides suggestions for words and phrases. If the app can’t find a result in the PONS Dictionaries, the integrated text translation service kicks in to give you your desired result.
+Search without even typing: Use the camera on your phone to translate menus, signs etc. immediately.
+
+
+
+COMMUNICATION AID
+Listen to the correct pronunciation of your dictionary translation. Use the zoom function to magnify the translation and show it to someone else on your device. Especially handy on trips!
+Conversation mode: PONS Translate recognizes your voice and translates into your desired language.
+
+
+
+CONVENIENT REFERENCE
+Save your frequently searched or important entries in your favourites - you can use these offline, too. In your search history, you can find your most recent searches. With the copy and paste function, you can use your translations in other applications.
+
+
+
+EXAMPLE SENTENCES
+Language in context and information on language usage help you find the correct translation.
+
+
+
+AN IDEAL COMPLEMENT
+Copy your translations to the free PONS Vocabulary Trainer so that you can learn them.
+
+
+
+EDITORIALLY REVIEWED QUALITY
+Our dictionary content is editorially reviewed by our lexicographers and constantly growing.
+
+
+
+AVAILABLE ALSO OFFLINE AND AD-FREE
+Download selected dictionaries and use the app offline and online. You can choose from among various subscription periods* via in-app purchase. You will then receive your desired dictionary completely ad-free, even when you use the dictionary online. If you are interested in ad-free use, but do not wish to download a dictionary, additional subscriptions are available. PLEASE NOTE: You can use the Online Translator at all times and completely free of charge, even without an in-app purchase.
+Visit our website at www.pons.com for more information about the free Online-Dictionary, the PONS Vocabulary Trainer and our apps.
+
+
+
+About PONS:
+PONS Publishing looks back on 40 years of experience in developing language-learning materials in the brand’s characteristic green colour. The range covers traditional dictionaries and grammars, audio and electronic language courses, and free online services.
+
+
+
+* A variety of dictionaries can be subscribed to for 1 month or 1 year. Subscriptions are automatically renewed unless cancelled at least 24 hours prior to the end of the current subscription term. Your account will be debited within 24 hours of the end of the current subscription term. Payment will be billed to your Apple account. Subsequent to purchase, subscriptions can be managed or cancelled in your user account settings. Any unused part of a free trial subscription that may have been offered, will expire if the user purchases a subscription for the current release.
+
+www.pons.com
+Terms of Use: https://en.pons.com/p/conditions-of-use
+Privacy Declaration: https://en.pons.com/p/privacy-policy",2012-11-18T23:49:34Z,2025-10-16T06:54:44Z
+bg,Bulgaria,Reference,6006,13,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/bg/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.77052,658,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+bg,Bulgaria,Reference,6006,14,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/bg/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,4.92856,28,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+bg,Bulgaria,Reference,6006,15,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/bg/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.8,15,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+bg,Bulgaria,Reference,6006,16,584291439,Yandex Translate,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/bg/app/yandex-translate/id584291439?uo=4,0.0,4.80898,89,Reference,"Yandex.Translate
+Free translator that can work offline and translate text from photos
+
+• Translate between any pair of the 100 languages when you’re online. 
+• Translate from French, German, Italian, Russian, Spanish, Turkish and other languages to English while offline: download these languages for free and enable the offline mode in Settings.
+• Speak words or phrases in Russian, English, or Turkish to translate them into any of these languages, or have the app read the translations to you.
+• Learn new words and their meanings through usage examples in the app’s dictionary (available for most of the currently supported languages).
+• Take a picture of a menu, road sign, book page or choose a photo with text from your Camera Roll to view its translation right over the image (only available when you are online).
+• Translate entire sites directly in the app or in Safari.
+• Read books, news, or articles in a foreign language together with Yandex.Translate on your iPad using Split View. 
+• Read transliterated Arabic, Armenian, Farsi, Georgian, Greek, Hebrew, Korean, Japanese, or Chinese Pinyin.
+• Enjoy the app’s time-saving predictive typing function and automated language detection.
+• Save translations in Favorites and view your translation history at any time.
+• Speak to your Apple Watch to see your words translated on its screen.
+
+Currently supported languages: Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Bashkir, Belarussian, Bengali, Bulgarian, Burmese, Bosnian, Catalan, Cebuano, Chinese, Chuvash, Croatian, Czech, Danish, Dutch, Elvish (Sindarin), English, Esperanto, Estonian, Farsi, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hill Mari, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Latin, Latvian, Lao, Lithuanian, Luxembourgish, Macedonian, Malagasy, Malaysian, Malayalam, Maltese, Maori, Marathi, Mari, Mongolian, Nepali, Norwegian, Papiamento, Polish, Portuguese, Punjabi, Romanian, Russian, Serbian, Scots, Singhalese, Slovakian, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Thai, Turkish, Udmurt, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yakutian, Yiddish, Zulu.",2012-12-14T06:14:50Z,2025-10-23T20:05:53Z
+bg,Bulgaria,Reference,6006,17,1339135422,Tevekkulvakti,sedat sevinmis,https://apps.apple.com/bg/app/tevekkulvakti/id1339135422?uo=4,0.0,3.66667,3,Reference,"Birbirinden zengin içerikleri bünyesinde barından çok kapsamlı Mobil uygulamamıza göstermiş olduğunuz yoğun ilginiz, desteğiniz ve tavsiyeleriniz için herkese çok teşekkür ederiz.
+Günün koşuşturmacası içinde sizlere gönderdiğimiz farkındalık oluşturan anlık bildirimlerimizle bir dost gibi her zaman yanınızdayız. Bazen bir uyarıcı, bazen de bir dost gibi size manevi destek olan bir programdır.
+İnstagram başta olmak üzere Sosyal Medya da sizler tarafından çok sevilen yüzbinlerce takipçisi olan 
+Tevekkülvakti uygulaması siz değerli kullanıcıların hizmetine sunuyor.
+
+Zengin Uygulamamızın İçeriği
+Kur'an-ı Kerim Türkçe Meali
+Kur'an-ı Kerim Tefsiri
+Kur'an-ı Kerim Pdf Formatı
+Kur'an-ı Kerim Sesli Dinleme Özelliği
+Esmaul Husna (99 İsim) Detaylı açıklamalı
+Peygamber Efendimizin Hayatı
+Hadis-i Şerif (Kütübü Sitte)
+Günlük Okunacak Dualar
+İlmihal
+Namaz (Resimli ve Videolu Anlatım)
+Sesli Kitap
+Dini Kitaplar
+Müziksiz İlahiler
+Zikirmatik
+Dini Günler
+Dini Hikayeler
+Mesnevi Şerif
+Canlı Yayın (Mekke -Medine)
+Foto Galeri (Mekke-Medine -Kudus)
+Aşr-ı Şerifler
+Mesajlar (Cuma, Kandil, Bayram, Kadir Gecesi için özel mesajlar)
+Arapça Dersleri
+Online Radyo
+Dini Günler Listesi
+Sıkça Sorulan Sorular Bölümü
+Not Defteri 
+Favorilere Ekleme
+Yapılacaklar Listesi 
+Sosyal Medya Hesaplarımız
+İnternet Sitemiz",2018-01-31T08:28:44Z,2021-03-30T16:00:56Z
+bg,Bulgaria,Reference,6006,18,885982973,FamilySearch Tree,FamilySearch International,https://apps.apple.com/bg/app/familysearch-tree/id885982973?uo=4,0.0,4.30435,23,Reference,"Curious about your family history? Add branches to your family tree with FamilySearch Tree, the world’s largest online family tree. FamilySearch Tree makes it easy and convenient to discover and document your own branches of the world’s family tree while preserving family memories, such as photos, written stories, and audio recordings.
+
+Harness the power of a worldwide, crowd-sourced pedigree to discover your family story. As you add information, FamilySearch will start searching for your family members while looking at historical records like birth and death certificates. Share information that others might not know, and add sources to confirm correct information. Update information and records easily so that everyone has accurate information.
+
+Browse your family tree branches, and see portraits of relatives you’ve never seen before. Discover facts, documents, stories, photos, and recordings about your ancestors. Easily add new life details, photos, stories, and audio recordings for your relatives.
+
+Find and share meaningful, heart-turning family stories that will make an impact on your life and the lives of your loved ones.
+
+Genealogy at Your Fingertips
+Family history has never been easier to track and build.
+Build your family tree by finding or adding family members directly through the app.
+Once you add a deceased relative to the family tree, FamilySearch will try to connect you to any information it has about that person in its database.
+Discover new family members and descendants in the community tree.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Ancestors, Relatives, and Family
+Find your ancestors in the billions of records on FamilySearch.org to learn more details of your family story.
+Discover facts, documents, stories, photos, and recordings about your ancestors.
+Easily add new life details, photos, stories, and audio recordings for your relatives.
+See which ancestors FamilySearch has already found in historical records, and get ideas for what to do next.
+Discovering your own family history potentially helps others in their search.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Collaborate with Others
+Connect with other family members, and share information that others might not know.
+View, add, and edit information about your ancestors. 
+Enhance your tree by adding photos, stories, and documents.
+Add sources to confirm correct information.
+Communicate and collaborate with other FamilySearch users from within the app with in-app messaging.
+Connect with family near and far. You may find a relative who has visited the same graves, asked the same questions about—and even learned to love or admire—the same ancestors. 
+
+Watch your family tree grow. Discover family, learn your family history, and help map the family tree for mankind with FamilySearch Tree. 
+
+NOTE: Content you provide for deceased individuals will be publicly available. See our privacy policy for more details.",2014-07-15T07:00:00Z,2025-11-05T19:21:05Z
+bg,Bulgaria,Reference,6006,19,6503387382,Haven - Bible Chat,E12 Holdings LLC,https://apps.apple.com/bg/app/haven-bible-chat/id6503387382?uo=4,0.0,4.9611,180,Reference,"Step Into the Living Word! 
+
+Haven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt prayers right in your pocket, every moment becomes an opportunity to grow in faith.  
+
+Tap to explore the Bible, dive into rich verse citations, or ask Haven anything—God’s wisdom will flood your heart, strengthen your relationships, and reshape your life in beautiful, unexpected ways. Track your daily streak and feel the joy of bold, thriving faith. 
+
+Your spiritual journey is calling! Chat with Haven anytime, anywhere.
+
+Questions or feedback? We’d love to hear from you at havenappcontact1@gmail.com
+
+Terms: https://www.e-twelve.com/terms
+
+**Access to Haven requires a paid subscription**",2024-06-03T07:00:00Z,2025-11-19T18:58:44Z
+bg,Bulgaria,Reference,6006,20,6748595105,VinylSnap: Scan & Value Record,Next Vision Limited,https://apps.apple.com/bg/app/vinylsnap-scan-value-record/id6748595105?uo=4,0.0,0,0,Reference,"Discover the True Value of Your Vinyl — Instantly
+What if that dusty record in your garage is worth hundreds—or even thousands? VinylSnap makes it easy to find out. With one quick photo, instantly identify your vinyl, get a reliable market price, see grading suggestions, and save it to your collection.
+VinylSnap is your go-to vinyl companion, perfect for collectors, resellers, or anyone who just found a box of old LPs in the attic. Try it free and see what your records are really worth!
+What Can VinylSnap Do?
+- Reliable Market Valuation  
+  Get a trusted reference price before you buy, sell, or store—know if you’ve found a $10 album or a $1,000 treasure.
+- Instant Identification with Rich Details  
+  Scan the label to unlock pressing info, release year, tracklist, and artist stories—works with most 12"", 10"", and 7"" records.
+- Grading Suggestions  
+  Helpful VG / VG+ / NM guidance based on visible wear, label clarity, and jacket condition—so you can price and sell with confidence.
+- Your Digital Vinyl Shelf  
+  Save every record you scan and track your collection’s total value over time—see how your vinyl library grows in worth.
+- Learn & Explore  
+  Read exclusive articles on record-breaking vinyl sales, collector tips, and essential guides for anyone new to vinyl—so you know what to look for and how to protect it.
+Who Is VinylSnap For?
+ • Beginners  
+  Just getting into vinyl? VinylSnap helps you understand what you have and how much it’s worth—no experience needed. 
+ • Collectors  
+  Build a well-organized vinyl archive, track your investments, and make sure your most valuable pressings are properly graded. 
+ • Resellers  
+  Use VinylSnap to make fast, informed decisions while crate-digging. Know what to buy, what to list, and what to keep.
+Why Choose VinylSnap? 
+Accurate — Trusted valuation and grading in seconds  
+Effortless — Just scan the label, no manual searching  
+Insightful — Background knowledge at your fingertips  
+Organized — Manage your entire vinyl library in one clean app
+Start Scanning with VinylSnap Today! Download now and discover the value behind every record.
+[About VinylSnap Premium]
+ • Payment will be charged to your iTunes Account at confirmation of purchase
+ • Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+ • The account will be charged for renewal within 24 hours before the end of the current period
+ • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription
+ • Subscriptions may be managed by the user, and auto-renewal may be turned off by going to iTunes Subscriptions after purchase
+Terms of Use: https://app-service.vinylsnaps.com/static/user_agreement.html
+ Privacy Policy: https://app-service.vinylsnaps.com/static/privacy_policy.html",2025-08-25T07:00:00Z,2025-11-12T21:41:35Z
+bg,Bulgaria,Reference,6006,21,6636468891,InstantTranslator:AI Translate,APPLABS LIMITED,https://apps.apple.com/bg/app/instanttranslator-ai-translate/id6636468891?uo=4,0.0,5,2,Reference,"InstantTranslator: AI Translate – Translate with Spanish, Japanese and other languages!
+
+Translate Text, Picture & Camera Instantly – Anytime, Anywhere!
+
+InstantTranslator is a powerful AI-driven translation app designed to break language barriers effortlessly. Whether you're traveling, studying, working, or chatting with international friends, our smart translator makes communication easy and seamless. With support for over 20 languages, including Spanish, Japanese, Korean, Chinese, Arabic, and more, you can instantly translate text, speech, and images with high accuracy.
+
+Now with Picture-in-Picture Subtitle Translation – Perfect for Watching Shows!
+Enjoy your favorite foreign-language videos with real-time subtitle translation in a floating window. Whether you’re streaming drama, tutorials, or YouTube clips, our PiP mode helps you understand without switching screens.
+
+[Key Features]
+• Text Translator
+Powered by Microsoft and ChatGPT engines, translate written content between multiple languages. Ideal for documents, emails, chats, and webpages with one-tap accuracy.
+
+• Voice & Speech Translator
+AI-powered speech recognition instantly translates spoken words. Perfect for conversations, meetings, and travel.
+
+• Camera & Photo Translator
+Capture text from signs, menus, or documents and receive instant translations. Eliminate language barriers while traveling.
+
+• Picture-in-Picture Subtitle Translation
+Watch videos in other languages while a floating translation box displays subtitles in real time. Great for learning and entertainment.
+
+• Live Conversation Mode
+Real-time two-way translation for fluid bilingual communication.
+
+• Document & PDF Translator
+Full document translation for PDFs, papers, and files. Essential for students and professionals.
+
+• Multi-Language Support
+Supports Spanish, Japanese, Korean, Chinese (Simplified & Cantonese), Tagalog, Vietnamese, Arabic, French, Russian, Portuguese, German, Greek, Hebrew, Italian, Polish, Thai, Haitian Creole, and more. Powered by DeepSeek, Google, ChatGPT, and Microsoft.
+
+• Speed & Privacy
+Instant translations with widget access. Ad-free experience with strict data protection.
+
+[Use Cases]
+
+Travel: Translate menus, signs, and hotel info
+
+Business: Communicate with global partners
+
+Education: Study foreign materials instantly
+
+Daily Life: Multilingual chats with friends
+
+Entertainment: Translate subtitles while watching foreign shows in real time
+
+[Why Choose Us?]
+• Advanced AI translation accuracy
+• Instant text/speech/image results
+• Picture-in-picture subtitle support
+• Offline translation capability
+
+Download Now to experience borderless communication — even while watching your favorite shows!
+
+Subscriptions  
+Weekly: $9.99 | Annual: $34.99  
+Auto-renewal can be managed in account settings.
+Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can manage your subscriptions and turn off auto-renewal in your account settings after purchase.
+
+Privacy Policy: https://instanttranslator-6e103.web.app/privacy_policy.txt
+Terms of Use: https://instanttranslator-6e103.web.app/term_of_use.txt",2024-08-22T07:00:00Z,2025-11-20T11:52:38Z
+bg,Bulgaria,Reference,6006,22,1264722932,Stats Royale for Clash Royale,Overwolf Ltd,https://apps.apple.com/bg/app/stats-royale-for-clash-royale/id1264722932?uo=4,0.0,4.52273,44,Reference,"Win more in Clash Royale with Stats Royale, the ultimate companion app for victory!
+
+Stats Royale gives you the edge you need to dominate the arena. Track your progress, analyze your gameplay, and find the perfect deck to climb the ranks. With our powerful features and real-time data, you'll have everything you need to crush your opponents.
+
+CRL Pro League Tracking
+• Get a competitive advantage with our new pro league tracking! 
+• See the top decks used by pro players in the official CRL tournaments and see the latest results from all the official stages of the tournament.
+
+Your Player Profile
+• See all your personal stats, including trophies, win/loss records, and trophy progression. 
+• Analyze your match history and find out which decks give you the highest win rates.
+• View the top players and clans, and search for any player using their tag or name.
+
+Powerful Deck Tools
+• Find the best decks and copy them directly to Clash Royale in-game with our new deck sharing system.
+• View other people's match history and steal their good decks!
+• Play custom tournaments to test new strategies and get an edge on the competition.
+
+Additional Features:
+• Localized in 12+ languages.
+• More features and updates are on the way! Let us know what you would like to see next.
+
+Download Stats Royale now and start your journey to the top of the leaderboards!",2017-07-31T18:47:50Z,2025-10-27T11:12:59Z
+bg,Bulgaria,Reference,6006,23,6502380913,Phone Cleaner-Storage Clean up,吉佩 张,https://apps.apple.com/bg/app/phone-cleaner-storage-clean-up/id6502380913?uo=4,0.0,0,0,Reference,"Phone Cleaner,Easy to use！Small size, many functions, download and use, learn more!
+【 Photo album 】
+
+1. Blurry pictures: Look for blurry photos in your album and delete those that are useless but take up space.
+2. Oversized pictures: Some pictures actually need dozens of MB! ? Find them and delete them to give the album a little more space!
+3. Screenshots of mobile phones: Now there are more and more screenshots in mobile phones, it doesn't matter if you can't delete them, find them all at once and solve them all!
+4. Duplicate pictures: a picture accidentally downloaded many times, a lens accidentally shot many, delete it, leave one of the most satisfied on the line.
+
+【 Album video 】
+
+1. Oversized video: Suddenly running out of storage space on your phone? Do you have a lot of movies stored? One delete done!
+2. Duplicate videos: I take a lot of videos of my family, but many of them are the same, it's okay, delete them.
+3. Bad video: Many videos downloaded can not play? The original is damaged, delete and re-download!
+
+
+【 Privacy Album 】
+Encrypt albums, save pictures, do not upload to the cloud space, save applications locally, and delete applications with caution
+
+【 Cloud storage 】
+Secure cloud storage, large capacity
+Regular users: 50MB
+
+【 Application Protocol 】
+
+1.app use instructions: https://docs.qq.com/doc/p/537bca7f7e5b1505ec5a914dba1e935dad8d1e2c
+2.app of privacy notice: https://docs.qq.com/doc/p/b72a1bd6b40fc403b014e707eebcf7feb3a695c8
+
+【 Product Use Agreement 】
+1. The app contains paid goods, which have a lifetime and need to be re-purchased after expiration
+2. The services and rights included in the paid goods are described in the app",2024-05-09T07:00:00Z,2025-05-22T12:24:31Z
+bg,Bulgaria,Reference,6006,24,1663862037,EveryScan・Identifier & AI Lens,Conlan Limited,https://apps.apple.com/bg/app/everyscan-identifier-ai-lens/id1663862037?uo=4,0.0,5,3,Reference,"Introducing EveryScan — your ultimate mobile companion app that transforms your smartphone into an advanced visual encyclopedia. Harness the power of cutting-edge AI image recognition to swiftly identify and gain insights on the world around you, directly from your mobile device.
+
+Animal Identification
+Curious about ""what animal is this""? Use EveryScan to instantly identify animals, including specific breeds and characteristics. From cat breed recognizers to dog breed identifiers, this mobile app is your essential tool for comprehensive animal recognition.
+
+Insect and Reptile Recognition
+Dive into the insect world with our bug identifier. Capture images of caterpillars, spiders, and snakes using your mobile device, and learn about their characteristics and safety through our snake identifier, addressing questions like ""what kind of snake is this?""
+
+Mushroom and Plant Insights
+Simply snap a picture to identify plants and fungi safely with your phone. Our app's flower and mushroom identifiers provide detailed care tips and safety information, directly enhancing your botanical knowledge.
+
+Coin and Jewelry Examination
+Easily scan coins and jewelry with your mobile to determine their value and history, answering queries like ""how much are my coins worth?"" Our coin scanner feature helps you check your coins' worth and origins swiftly.
+
+Culinary Exploration
+Identify food items, dishes, and recipes while accessing nutritional details right from your mobile device. Recognize dishes and their caloric content with ease, enhancing your culinary knowledge.
+
+AI-Powered Features
+- Accurate image recognition tailored for mobile use
+- Instant object detection via your smartphone
+- Universal object identifier: insect identifier, dog breed identifier, flower identifier, spider, snake identifier, etc.
+- Real-time searching and scanning through your mobile
+- Comprehensive data on everything from animals to everyday items
+- Save and mark favorites for easy mobile access
+
+Effortless Exploration
+Skip search engines—just take a picture and identify items instantly using your phone. EveryScan integrates seamlessly with your mobile, offering an all-in-one picture identifier and AI image search capability. Unlock the secrets around you with curiosity and confidence. Download EveryScan today, and discover a world of knowledge at your fingertips.
+
+Privacy Policy: http://aiscanner.co/pp
+Terms of Use: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+bg,Bulgaria,Reference,6006,25,1164826566,Cloud Music-Download Songs Lab,国文 李,https://apps.apple.com/bg/app/cloud-music-download-songs-lab/id1164826566?uo=4,0.0,4.375,16,Reference,"Also it allows you to download songs from your cloud storages. It supports Dropbox®.
+
+It is easy to use and useful. You can enjoy listening to songs without wifi.
+
+Main Features: 
+√ Download songs from your cloud storages.
+√ Play downloaded songs with a powerful player.
+√ Play local iPod songs with a powerful player.
+√ Provide 3 play modes: normal, single, shuffle.
+√ Manage your playlists.
+
+How to use:
+1. On the tab 'Cloud' choose the cloud platform Dropbox.
+2. Click the Sign In icon button at the right top corner of the cloud platform section.
+3. Connect to Dropbox and use your account. (If you have no account, you should register one.)
+4. Get songs from your cloud storage. (You should upload your preferred songs to your cloud storage by yourself.)
+5. Choose a downloaded songs to play and enjoy it.",2016-10-14T16:56:49Z,2019-10-25T16:17:18Z

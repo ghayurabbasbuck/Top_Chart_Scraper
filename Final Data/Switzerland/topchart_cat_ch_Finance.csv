@@ -1,0 +1,771 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ch,Switzerland,Finance,6015,1,441068021,UBS & UBS key4,UBS AG,https://apps.apple.com/ch/app/ubs-ubs-key4/id441068021?uo=4,0.0,4.73465,177733,Finance,"Dies ist die UBS Mobile Banking App für alle UBS-Kundinnen und Kunden weltweit (ausser in den USA und Australien), die von diesen digitalen Services profitieren können.
+Bitte beachten Sie, dass die verfügbaren Funktionen unserer App je nach Ihrem Domizil variieren können.
+
+Wenn Sie in der Schweiz wohnhaft sind, können Sie unsere digitale Sortimentslinie UBS key4 direkt via App eröffnen:
+•	UBS key4 banking für Ihr privates Banking
+•	UBS key4 business für die Gründung einer AG oder GmbH
+ 
+Erfüllen Sie die Voraussetzungen für die Verwendung unserer Mobile Banking App?
+•	iPhone mit mindestens iOS Version 15.0
+•	Sie sind Kundin oder Kunde einer UBS-Konzerngesellschaft und profitieren von den entsprechenden digitalen Services von UBS.
+ 
+Wie sicher ist unsere Mobile Banking App?
+Kurz gesagt, UBS Mobile Banking bietet Sicherheit auf dem neuesten Stand der Technik. 
+Wie? Unser Sicherheitskonzept schützt Sie vierfach: Mit der Access App oder Access Card identifizieren wir Sie eindeutig. Mit Sicherheitseinstellungen und Echtzeit-Benachrichtigungen erhöhen Sie die Sicherheit zusätzlich. Zudem prüfen wir kritische Transaktionen mit künstlicher Intelligenz auf Unregelmässigkeiten. Zu guter Letzt helfen wir Ihnen, sich sicher im Internet zu bewegen - beachten Sie dazu unsere Sicherheitsempfehlungen unter ubs.com/sicherheit.
+ 
+Weitere Hinweise:
+UBS Switzerland AG und andere nicht-US-Tochtergesellschaften der UBS Group AG haben die UBS & UBS key4 Mobile Banking App (""App"") ausschliesslich bestehenden Kundinnen und Kunden zur Verfügung gestellt, die von diesen Dienstleistungen profitieren, mit Ausnahme von US-amerikanischen und australischen Kundinnen und Kunden.
+Die Tatsache, dass die App aus dem App Store der USA oder Australiens und/oder eines anderen Lands heruntergeladen werden kann, stellt weder eine Aufforderung, ein Angebot noch eine Empfehlung zum Abschluss einer Transaktion dar, noch ist sie als Aufforderung oder Angebot für eine Kundenbeziehung zwischen der Person, die die App herunterlädt, und UBS Switzerland AG oder anderen Nicht-US-Tochtergesellschaften der UBS Group AG zu verstehen.",2011-06-30T07:00:00Z,2025-10-07T09:11:51Z
+ch,Switzerland,Finance,6015,2,1121666286,UBS Access – Sicheres Log-in,UBS AG,https://apps.apple.com/ch/app/ubs-access-sicheres-log-in/id1121666286?uo=4,0.0,4.73952,64643,Finance,"Mit der UBS Access App loggen Sie sich schnell und sicher im E-Banking und in der Mobile Banking App ein. Über diese App können Sie auch neue Zahlungsempfänger und Online-Käufe mit Kredit- oder Prepaid-Karte bestätigen und werden über sicherheitsrelevante Ereignisse informiert. 
+1.	Einfach im Digital Banking anmelden
+-	E-Banking: Öffnen Sie die Login-Seite, scannen Sie den QR-Code mit der Access App, geben Sie Ihre PIN ein oder verwenden Sie Biometrie – und schon sind Sie sicher ins E-Banking eingeloggt. 
+-	Mobile Banking: Starten Sie die Mobile Banking App, wählen Sie als Login-Methode «Access App». Sie können anschliessend ganz einfach und sicher mit PIN oder Biometrie einloggen. 
+2.	Online-Zahlungen sicher freigeben
+-	Wenn Sie im Internet mit Kredit- oder Prepaid-Karte bezahlen, erhalten Sie eine Push-Mitteilung und können die Zahlung dann bestätigen. 
+-	Höchste Sicherheitsstandards verringern das Betrugsrisiko. 
+3.	Neue Zahlungsempfänger bestätigen
+-	Entsperren Sie die Access App mit PIN oder Biometrie, überprüfen Sie Zahlungsempfänger und geben Sie Zahlungen frei.
+4.	Sicherheitsmeldungen empfangen
+-	Sie erhalten Meldungen über sicherheitsrelevante Ereignisse wie Änderungen von Sicherheitseinstellungen oder Kontaktdaten.
+So sicher ist die Benutzung der UBS Access App: 
+-	Die Access App ist durch PIN Ihrer Wahl geschützt – auch wenn Sie Ihr Smartphone verlieren. 
+-	Die Access App kontrolliert stets die Sicherheit Ihres Smartphones, bevor Sie sich ins Digital Banking einloggen.
+-	Der Sicherheitscode fürs Login wird automatisch berechnet und direkt an UBS übermittelt. Die Datenübertragung wird durch ein mehrstufiges Sicherheitssystem geschützt.
+-	Die Access App ist stets aktuell und bietet optimalen Schutz.
+-	Richten Sie Biometrie ein, um sich noch bequemer einzuloggen und neue Zahlungsempfänger zu bestätigen.
+UBS Switzerland AG und andere verbundene Nicht-US-Unternehmen von UBS Group AG stellen die UBS Access App (die «App») nur Bestandskunden von UBS Switzerland AG und von anderen verbundenen Nicht-US Unternehmen von UBS Group AG zur Nutzung zur Verfügung. Andere Personen können die App nicht verwenden. Die App ist weder für US Persons noch für in Australien domizilierte Personen bestimmt. Die Bereitstellung der App zum Herunterladen im Apple App Store ist nicht als Kundenwerbung, Angebot oder Empfehlung zur Vornahme einer Transkation auszulegen und gilt nicht als Werbung oder Offerte für die Aufnahme einer Kundenbeziehung zwischen der Person, die die App herunterlädt, und UBS Switzerland AG oder einem anderen verbundenen Nicht-US-Unternehmen von UBS Group AG.
+Voraussetzungen:
+Bankbeziehung bei UBS Switzerland AG, UBS Europe SE (Deutschland, Italien) oder UBS AG (Hongkong, Singapur) mit «Digital Banking»-Vertrag: Für die Aktivierung benötigen Sie eine im Digital Banking hinterlegte Mobilnummer für Sicherheitsnachrichten. In der Mobile Banking App erfassen Sie diese in Ihrem Profil: Tippen Sie auf Ihren Namen und gehen Sie zu «Telefon». Auch im E-Banking geht dies über Ihr Profil: Klicken Sie bei «Meine Kontaktdetails» auf das Bleistiftsymbol und danach auf «Telefonnummern». Bitte erfassen Sie Ihre Telefonnummer ohne führende 0 und passen Sie die Ländervorwahl an, falls Sie eine Mobilnummer von ausserhalb der Schweiz haben.
+Bankbeziehung bei UBS Europe SE (UK, Frankreich, Monaco, Luxembourg): Für die Aktivierung benötigen Sie eine hinterlegte Mobilnummer. Bitte wenden Sie sich an Ihre Kundenberaterin oder Ihren Kundenberater, um diese zu erfassen.
+Bankbeziehung bei UBS Europe SE (Jersey) mit «Digital Banking»-Vertrag: Für die Aktivierung benötigen Sie eine Access Card mit Kartenleser oder eine Access Card Display. 
+Der Funktionsumfang kann von Land zu Land unterschiedlich sein. 
+Wir hoffen, dass Sie die UBS Access App gerne nutzen werden und freuen uns auf Ihr Feedback und Ihre Bewertung im Apple App Store.",2016-11-01T00:09:14Z,2025-09-23T10:53:59Z
+ch,Switzerland,Finance,6015,3,989192632,UBS TWINT,UBS AG,https://apps.apple.com/ch/app/ubs-twint/id989192632?uo=4,0.0,4.83622,182632,Finance,"UBS TWINT ist die am häufigsten verwendete Mobile Payment App in der Schweiz: Mit dem Handy digital Geld senden und empfangen - Entdecken Sie die Vorteile des kontaktlosen Bezahlens mit UBS TWINT. 
+
+Mit weit über einer Million Registrierungen ist UBS TWINT die Schweizer Nummer 1 im Mobile Payment und das digitale Bargeld der Schweiz. Digital bezahlen, Geld direkt an Freunde senden oder von ihnen empfangen war nie einfacher. Die Parkgebühr ohne Münzen bezahlen, den Einkauf bei Coop und Migros ohne Bargeld über die App begleichen, kein Problem.
+
+
+
+DAS KANN TWINT
+
+Bargeldlos an der Kasse bezahlen: Bequem mit dem Handy im Laden, Restaurant, Hofladen usw. bargeldlos an jedem Kartenterminal mit QR-Codes bezahlen.
+
+Geld senden, empfangen und anfordern: schnell und sicher Geld per Smartphone an Freunde, Familie und Kollegen senden sowie anfordern und empfangen.
+
+Im Onlineshop bezahlen: Beim Online-Shopping wertvolle Zeit sparen und im Check-out den QR-Code scannen oder in die TWINT App wechseln zum Freigeben der Zahlung.
+
+In Apps bezahlen: TWINT als sichere Zahlungsmethode in anderen Apps hinterlegen, wie SBB, Fairtiq, Migros und vielen mehr.
+
+KeyClub-Punkte: Bei Bezahlung via TWINT über die hinterlegte UBS-Kreditkarte wertvolle Punkte sammeln.
+
+Parkgebühr bezahlen: Bei öffentlichen Parkplätzen via Standortbestimmung in der App oder QR-Code auf der Parkuhr die Parkgebühr bezahlen.
+
+Gutscheine & Guthaben: Mit wenigen Klicks für sich selbst oder als Geschenk digitale Gutscheine und Guthaben kaufen, versenden und empfangen.
+
+Spenden: Für wohltätige Zwecke an Schweizer Hilfsorganisationen und deren Projekte Geld spenden.
+
+Bargeld beziehen: Manchmal geht es nicht ohne Bargeld. Dafür hat TWINT «Sonect» integriert. Darüber kannst du nun unter «Bargeld beziehen» schnell und einfach zu Bargeld 
+gelangen und das ganz ohne Geldautomaten.
+
+
+Von Super- Deals profitieren: Jede Woche können Sie in der Partner Funktion „Super Deals“ von neuen Rabattangeboten profitieren.
+
+Kaffee bestellen: Einfach über die App oder den QR-Code an der Nespresso Maschine direkt in TWINT neuen Kaffeevorrat bestellen.
+
+…und noch vieles mehr.
+
+
+
+SICHER IST SICHER
+
+• Entspricht den Sicherheitsstandards der Schweizer Banken
+• Alle Daten bleiben in der Schweiz
+• Geschützt durch 6-stellige PIN oder Fingerabdruck
+• Der UBS TWINT Account kann jederzeit gesperrt werden
+
+
+UBS Switzerland AG hat die UBS TWINT App («App») nur folgenden Personen zur Verfügung gestellt, für welche diese zugleich ausschliesslich konzipiert wurde: Für (i) bestehenden Kunden von UBS Switzerland AG und bestehenden Kunden von anderen Nicht-US-Tochtergesellschaften von UBS Group AG, die in der Schweiz domiziliert sind, und (ii) natürliche Personen, die in der Schweiz domiziliert sind. Die Tatsache, dass die App in nicht-schweizer App Stores heruntergeladen werden kann, stellt weder eine Aufforderung, ein Angebot oder eine Empfehlung zum Abschluss einer Transaktion dar, noch ist sie als Aufforderung oder Angebot für den Aufbau einer Kundenbeziehung zwischen der Person, die die App herunterlädt, und Unternehmen der UBS Group AG zu verstehen. Die App ist nicht für Personen mit Wohnsitz in Australien oder den USA bestimmt und kann von diesen Personen nicht verwendet werden.
+
+
+WEITERE INFORMATIONEN
+
+http://www.ubs.com/twint",2015-05-27T06:06:17Z,2025-11-03T07:50:02Z
+ch,Switzerland,Finance,6015,4,1668128527,myAXA NEO CH,AXA Versicherungen AG,https://apps.apple.com/ch/app/myaxa-neo-ch/id1668128527?uo=4,0.0,4.64679,7446,Finance,"VERSICHERUNGEN IN IHRER HOSENTASCHE – IMMER MIT DABEI
+Mit unserer App können Sie Ihre Verträge bequem selbst verwalten. Jederzeit und überall.
+
+24/7 SCHADEN MELDEN
+Melden Sie einen Schaden direkt in der App – wann und wo Sie wollen.
+
+VERSICHERUNGSSCHUTZ – IMMER IM BLICK
+In der Versicherungsübersicht sehen Sie sofort, welche Schäden durch Ihren Vertrag gedeckt sind.
+
+GANZ EINFACH BEZAHLEN
+Rechnungen bezahlen Sie mit wenigen Klicks. Per Kreditkarte, eBanking oder Twint.
+
+ATTRAKTIVE RABATTE IN MYAXA DEALS*
+Profitieren Sie jede Woche von exklusiven Angeboten in unserem Shop myAXA Deals.
+*Für alle Privatkundinnen und Privatkunden der AXA Schweiz
+
+WIR SIND FÜR SIE DA
+Unsere Expertinnen und Experten beraten Sie gern persönlich. Per Chat, E-Mail, Telefon oder bei einem Treffen an Ihrem Wunschort.",2024-02-04T08:00:00Z,2025-11-18T07:32:52Z
+ch,Switzerland,Finance,6015,5,932493382,Revolut,Revolut Ltd,https://apps.apple.com/ch/app/revolut/id932493382?uo=4,0.0,4.80403,67721,Finance,"60 Millionen Menschen sind schon Kund*innen bei der Bank, die immer alles gibt.
+
+Wettbewerbsfähige Sparzinsen, Bargeldauszahlungen an Geldautomaten auf der ganzen Welt und blitzschnelle Überweisungen – und das alles ohne Kontoverwaltungsgebühren.
+
+Mit unserer deutschen IBAN wird der Zahlungsverkehr unkompliziert. Dein Geld ist von der BaFin und der Bank of Lithuania reguliert.
+
+Außerdem ist unser Kundenservice mit Herz rund um die Uhr für dich da. All das und mehr wartet bei einem Revolut Konto auf dich:
+
+  — So zahlen sich deine Ausgaben aus — 
+
+Bezahle, wo und wie du willst – mit physischen Karten, virtuellen Karten und virtuellen Einwegkarten für zusätzlichen Schutz. Du kannst deine Karten auch deiner Google- oder Apple Pay-Wallet hinzufügen.
+Bezahle im Ausland wie zu Hause, mit hervorragenden Wechselkursen (Es können Limits für die faire Nutzung und Wochenend-Aufschläge anfallen).
+Verknüpfe deine anderen Bankkonten mit Revolut für eine Übersicht auf alle deine Finanzen.
+Gestalte deine eigene physische Karte (es können Gebühren anfallen). Führe für mehr Luxus das Upgrade zu Metal durch und sichere dir eine glanzvolle Karte aus Stahl. Du findest, da geht noch mehr? Dann hol dir Ultra für eine extravagante, platinierte Karte.
+Hilf deinen Kindern bei ihrem finanziellen Erfolg: Eröffne für sie ein kostenloses ＜18 Konto mit ihrer eigenen Karte. So lernen sie auf sichere und unterhaltsame Weise über Geld.
+
+ — Lass dein Geld mit tollen Zinssätzen wachsen — 
+
+Lass dein Geld in EUR, GBP und USD wachsen – die Zinsen werden täglich ausgezahlt.
+Flexible Auszahlung, ohne Strafgebühren oder andere Gebühren.
+Investiere automatisch dein Gehalt. Richte einen Sparplan ein und runde dein Wechselgeld auf.
+
+ — Sende Geld, egal wohin — 
+
+Du kannst mit einmal Tippen Geld in über 30 Währungen anfordern oder senden – egal, wohin.
+Zwischen Revolut Freund*innen erfolgen Überweisungen immer sofort.
+Teilt die Kosten auf, sendet euch Chatnachrichten und begleicht Rechnungen, in einer App. Du kannst sogar ein lustiges GIF senden.
+
+ — Investiere in die Zukunft — 
+
+Investiere bereits ab 1 € in Aktien.
+Wähle aus über 2.000 Aktien aus und investiere in einige der einflussreichsten Unternehmen der Welt.
+Genieße provisionsfreie Aktien-Trades innerhalb deines Abo-Limits.
+Stärke dein Selbstbewusstsein und dein Wissen über Trading mit unseren Lernkursen in der App.
+
+ — Nie mehr zuviel ausgeben — 
+
+Mit sofortigen Benachrichtigungen behältst du deine Zahlungen im Überblick.
+Nutze Tools für eine bessere Budgetplanung und Analysen, um bewusst zu entscheiden, wofür du es verwenden möchtest.
+Wenn Zahlungen oder Abonnementgebühren anstehen, geben wir dir davor Bescheid.
+
+ — Wir drücken bei der Sicherheit kein Auge zu — 
+
+Sperre und entsperre deine Karte mit einmal Tippen.
+Nutze Einwegkarten mit Kartendaten, die nach der Verwendung zurückgesetzt werden für noch mehr Schutz.
+Stelle Ausgabenlimits ein und bleibe immer informiert, wofür du dein Geld ausgibst.
+
+ — So schützen wir dich und dein Geld — 
+
+Unser Team mit 4.000 engagierten Mitarbeiter*innen schützt dich rund um die Uhr. Allein im Jahr 2023 hat das Team Kund*innen bei Revolut vor potenziell betrügerischen Transaktionen im Wert von 528 Mio. € bewahrt.
+Egal, was du brauchst – kontaktiere unser preisgekröntes Team vom Kundenservice. Es ist rund um die Uhr über den einfachen und verschlüsselten Chat in der App für dich da.
+Unser ausgeklügeltes System zur Betrugsprävention identifiziert Transaktionen mit hohem Risiko und schickt dir einen Alarm, damit du Betrug erkennen und vorbeugen kannst.
+Wir nehmen den Schutz deiner ernst. Ausführliche Identverfahren halten die Registrierungen bei uns sicher und dein Konto ist durch Passcodes und Biometrie geschützt.
+
+Revolut Ltd (No. 08804411) ist von der FCA gemäß der E-Geld-Regulierung 2011 (Firmenreferenznr. 900562) autorisiert. Eingetragene Adresse: 30 South Colonnade, London E14 5HX, United Kingdom.",2015-03-01T14:54:14Z,2025-11-20T16:41:08Z
+ch,Switzerland,Finance,6015,6,1581440132,debiX+,SIX Group AG,https://apps.apple.com/ch/app/debix/id1581440132?uo=4,0.0,4.64438,25016,Finance,"VORAUSSETZUNG: Sie benötigen einen Registrierungscode (OTRC), um die Debitkarte mit der App zu verknüpfen. Diesen Code erhalten Sie von Ihrer Bank.
+
+WICHTIG: Die SIX wird Sie nie via E-Mail, Telefon oder SMS auffordern Ihre Karten- oder Logindaten preiszugeben.
+
+Nach erfolgreicher Registrierung können Sie von den neuen digitalen Funktionen rund um Ihre Debitkarte profitieren. Die App stellt maximale Sicherheit durch gehärtete native App-Frameworks und biometrische 2-Faktor-Authentisierungsmethoden sicher.
+
+Einfache und sichere Online-Käufe:
+- Geben Sie Online-Käufe mittels sicherem 3D Secure Verfahren direkt in der App frei.
+- Mittels Biometrie können Sie 3D Secure Zahlungen noch einfacher freigeben.
+- Sie können Ihre Kartennummer und den dreistelligen Sicherheitscode ganz bequem und sicher einsehen.
+- Bei einer automatischen Sperrung der Debitkarte, ausgelöst durch eine verdächtige Transaktion, können Sie direkt in der App Feedback geben (falls Ihre Bank dies unterstützt).
+
+Behalten Sie Ihre Debitkarten-Transaktionen im Blick:
+- Übersicht aller Debitkarten-Transaktionen der letzten 100 Tage bis max. 200 Einträge (weitere Konto-Transaktionen finden Sie in Ihrem e-Banking). Durch Payment Enrichment Services werden detaillierte Händlerdaten angezeigt. Die Rahmenbedingungen für die Nutzung dieses Services, sofern ihre Bank dies aufgeschaltet hat, sind hier abgelegt: https://www.six-group.com/de/products-services/banking-services/data-ai.html.
+- Debitkarten-Transaktionen werden Ihnen sofort als Push-Benachrichtigung angezeigt.
+- Limite setzen bei Push-Benachrichtigungen.
+
+Behalten Sie Ihre digitalen Debitkarten im Blick und verwalten diese:
+- Zeigt, bei welchem Online-Anbieter oder Wallet Ihre Debitkarte digital hinterlegt ist.  
+- Sie können die digital hinterlegte Debitkarte sperren und entsperren oder ganz löschen.
+- Ein vorhandenes Abo wird nicht von einer Sperrung oder Löschung tangiert. Der Händler kann bei einer gesperrten oder gelöschten digitalen Debitkarte keine Abbuchung vornehmen und beim Bezahl-Wallet kann keine Transaktion getätigt werden.
+
+Mobiles Bezahlen - Haben Sie gewusst, dass Sie die Debitkarte auch zum kontaktlosen Bezahlen mit Ihrem Smartphone verwenden können?
+- Hinterlegen Sie Ihre Debitkarte direkt in das Bezahl-Wallet auf Ihrem Gerät, falls Ihre Bank dafür aufgeschaltet ist.
+- Bezahlen Sie an allen NFC-Terminals weltweit ohne dafür die App zu öffnen.
+
+Karteneinstellungen:
+- Sie können über die Karteneinstellungen Einfluss auf Online-Shopping, Bargeldbezüge am Bancomaten, Transaktionen zu Glückspielen & Wetten oder beim kontaktlosen Bezahlen nehmen (falls Ihre Bank dafür aufgeschaltet ist).
+- Geben Sie Ihrer Debitkarte eine Namen in den Einstellungen Ihrer Karte. Das hilft insbesondere bei mehreren Debitkarten. 
+- Entfernen Sie einzelne Debitkarten bei Bedarf aus der App in den Einstellungen Ihrer Karte. Bitte beachten Sie, dass Sie einen neuen OTRC Code von Ihrer Bank benötigen, wenn 
+
+Sie die Debitkarte wieder in der App registrieren wollen.
+- Schauen Sie die Details der Debitkarte direkt in der App nach falls Sie die physische Karte nicht zur Hand haben.
+- Setzen Sie eine neue PIN direkt in der App. Für virtuelle Debitkarten ist diese sofort aktiv. Falls Sie eine physische Debitkarte besitzen, müssen sie mit der neuen PIN einmal am Bankomaten (keine Postomaten) Geld abheben oder eine Saldoabfrage tätigen, damit Sie in Geschäften mit der PIN bezahlen können.
+
+Behalten Sie die Kontrolle über Ihre Daten - Benutzerprofil verwalten:
+- Sie können Ihr Benutzerprofil inkl. der registrierten Debitkarten löschen.
+- Wichtig: Falls Ihre Debitkarte erneut registrieren, benötigen Sie von der Bank via Support einen neuen OTRC-Code.
+
+HINWEIS: debiX+ funktioniert für Karteninhaber von VISA Debit und Debit Mastercard ausgewählter Banken in der Schweiz und Liechtenstein.",2021-10-31T07:00:00Z,2025-11-10T07:07:52Z
+ch,Switzerland,Finance,6015,7,1592458781,Cembra App,Cembra Money Bank AG,https://apps.apple.com/ch/app/cembra-app/id1592458781?uo=4,0.0,4.56822,37301,Finance,"«Cembra App: Einfacher geht’s nicht»
+Ab sofort können Sie unter anderem Ihre Einkäufe in Echtzeit prüfen, Ihren Karten-PIN abrufen und Ihre Kreditkarte selbstständig pausieren.
+
+«Für wen ist die Cembra App?»
+Die Cembra App ist für alle Cembra Kund:innen empfohlen. Falls Sie sich noch nicht für App-Nutzung registriert haben, können Sie das ganz einfach hier tun: https://www4.cembra.ch/cmf/de/#apply
+Sobald Sie Ihren Zugangscode per Post von uns erhalten haben, können Sie die Cembra App in wenigen, einfachen Schritten selbstständig einrichten. 
+
+«Auf diese Funktionen haben Sie gewartet»
+* Finden Sie alle wichtigen Angaben zu Ihrer/n Cembra Kreditkarte/n auf einen Blick
+* Legen Sie Ihre Kreditkarte/n ins Apple Wallet
+* Behalten Sie die Übersicht über Ihre aktuellen Kreditkarten-Zahlungen 
+* Verwalten und empfangen Sie wichtige Push-Benachrichtigungen 
+* Greifen Sie auf Ihre Monatsabrechnungen zu
+* Passen Sie Ihre persönlichen Daten direkt in der Cembra App an
+* Loggen Sie sich bequem und sicher über Touch ID (Fingerabdruck) oder Face ID (Gesichtserkennung) ein.
+
+Wir arbeiten laufend an neuen Funktionen und Services. Und freuen uns über Anregungen und Ihr Feedback auf cmfsupport@cembra.ch",2022-03-31T07:00:00Z,2025-11-06T14:54:24Z
+ch,Switzerland,Finance,6015,8,970439160,one – Karten unter Kontrolle,Viseca Payment Services SA,https://apps.apple.com/ch/app/one-karten-unter-kontrolle/id970439160?uo=4,0.0,4.66542,35821,Finance,"Mit der kostenlosen one App haben Sie die volle Kontrolle über Ihre Karten – einfach, sicher und bequem. Das sind Ihre Vorteile:
+
+• Eine oder mehrere Karten verwalten
+• Karten- und Prüfnummer (CVV, CVC) digital einsehen und kopieren
+• PIN-Code nachschauen
+• Karten bei Verlust selber sperren und entsperren
+• Ausgaben analysieren und kategorisieren
+• Ersatzkarte in-app bestellen
+• Online-Zahlungen in Echtzeit überprüfen
+• Push-Mitteilungen nach Transaktionen
+• Sicheres Login per Touch ID und Face ID
+• surprize Punkte direkt in der App einlösen
+
+Voraussetzungen: 
+Um die one App und die damit verbundenen Dienstleistungen der Viseca Payment Services SA nutzen zu können, müssen Sie Inhaber einer Kredit- oder Prepaid-Karte resp. einer Business Card der Viseca Payment Services SA sein. Ebenfalls Voraussetzung ist ein one Benutzerkonto (Registrierung unter https://one.viseca.ch) und das Akzeptieren der Bestimmungen zur Nutzung von one. 
+
+Aktivierung und Login:
+Für die Registrierung wird ein gültiger Registrierungscode benötigt, der zunächst auf https://one.viseca.ch/code angefordert werden kann und dann per Post zugestellt wird.
+
+Sicherheit:
+Die one App bietet Ihnen ein höchstes Mass an Sicherheit. Der sorgfältige Umgang mit dem Smartphone, das Ergreifen von angemessenen Sicherheitsmassnahmen sowie die sorgfältige Kontrolle von Anfragen über die one App sind dennoch besonders wichtig. In den Bestimmungen zur Nutzung von one sind die einzuhaltenden Sorgfalts- und Meldepflichten festgehalten. Auf https://one.viseca.ch finden Sie zudem weitere Informationen zur Sicherheit bei der Nutzung von one.
+
+Rechtliche Hinweise: 
+Durch das Herunterladen oder den Gebrauch dieser App können Kosten seitens des Mobilfunkanbieters entstehen.",2015-11-10T15:29:39Z,2025-10-14T07:58:48Z
+ch,Switzerland,Finance,6015,9,6739939096,FKB Banking,Banque Cantonale de Fribourg,https://apps.apple.com/ch/app/fkb-banking/id6739939096?uo=4,0.0,3.13725,51,Finance,"FKB Banking – Verwalten Sie Ihre Finanzen, wo und wann Sie wollen
+All das, was Sie bisher über Ihr e-banking-Konto erledigt haben, wird mit unserer neuen App noch einfacher. Kontostand prüfen, eine QR-Rechnung bezahlen, einen Börsenauftrag erteilen oder Ihre Ausgaben im Blick behalten – Einfach und übersichtlich wie nie zuvor.
+
+Eine neue App mit zahlreichen Vorteilen
+• Bestätigen Sie Zahlungen und neue Zahlungsempfänger direkt in der App
+• Gestalten Sie Ihre Startseite individuell
+• Finden Sie frühere Transaktionen im Handumdrehen
+• Kontaktieren Sie uns über eine gesicherte Nachrichtenübermittlung
+• Sehen Sie Ihre laufenden Hypotheken inklusive Zinssatz und Fälligkeit ein
+• Analysieren Sie Ihre Ausgaben, erstellen Sie Budgets und setzen Sie Sparziele
+• Wechseln Sie Ihr Smartphone, ohne einen neuen Aktivierungsbrief zu bestellen
+
+Wir setzen grossen Wert darauf, die Verwaltung Ihrer Finanzen so einfach wie möglich zu gestalten. Und das ist erst der Anfang. Sie dürfen sich bereits auf weitere Neuheiten freuen!
+Ihre Sicherheit steht an erster Stelle
+Die FKB Banking App ist genauso sicher wie Ihr e-banking. Die Verbindung ist mit einer Zwei-Faktor-Authentifizierung (PIN) geschützt oder bequem und sicher via Fingerabdruck oder Face ID möglich. Beim Verlassen der App werden Sie automatisch abgemeldet.",2025-08-26T07:00:00Z,2025-09-17T08:21:45Z
+ch,Switzerland,Finance,6015,10,283646709,"PayPal: Geld senden, verwalten","PayPal, Inc.",https://apps.apple.com/ch/app/paypal-geld-senden-verwalten/id283646709?uo=4,0.0,4.66777,37984,Finance,"Mit der neuen PayPal-App bezahlst du auf deine Art. Sende und empfange Geld, bezahle kontaktlos im Laden und nutze flexible Zahlungsoptionen wie Später bezahlen1, wenn du online shoppst – alles ganz einfach über dein Smartphone.
+
+GELD SENDEN UND EMPFANGEN
+
+Eine einfache und sichere Methode, deinen Lieben sofort Geld zu senden und Geld zu empfangen2. Deine persönliche Nachricht macht das Ganze noch entspannter und ist ein netter Touch.
+Mit Verschlüsselungstechnologie sorgen wir dafür, dass deine Transaktionen sicher sind.
+Sende deinen Lieben auch Geld ins Ausland: mit Xoom in über 110 Länder3, und es gibt noch mehr Zahlungsoptionen.
+2Um Geld zu senden und zu empfangen, benötigst du ein PayPal-Konto.
+3Es gelten Bedingungen und Einschränkungen. Es können Gebühren für Transaktionen, Währungsumrechnung sowie weitere Gebühren anfallen.
+
+GELD EINFACH ZUSAMMENLEGEN
+Du musst nicht alles vorstrecken. Hol dir das Geld für Gruppengeschenke oder gemeinsame Aktivitäten einfach vorher und spar dir den Stress mit dem Zurückzahlen danach.4
+
+4Ein PayPal-Konto ist erforderlich, um einen Pool zu erstellen. Gebühren fallen an, wenn Währungen umgewandelt und Geld in anderen Währungen als Euro an ein Auslandskonto gesendet wird. Es gelten Bedingungen und Einschränkungen.
+
+ZAHLE KONTAKTLOS VOR ORT MIT PAYPAL
+Mit der PayPal-App kannst du im Laden ganz bequem kontaktlos bezahlen5 – ganz einfach über dein Smartphone. Tschüss Bargeld, tschüss EC-Karte.
+5Einrichtung erforderlich. Die PayPal-Debit Mastercard für Verbraucher:innen kann überall dort verwendet werden, wo kontaktlose Mastercard-Zahlungen akzeptiert werden. Es gelten die Bedingungen.
+
+BEZAHLE JETZT ODER SPÄTER1 
+Bleib beim Online-Shopping oder Einkauf im Laden flexibel. Bei PayPal hast du die Wahl: Bezahle sofort, nach 30 Tagen6  oder bei größeren Einkäufe in 3, 6, 12 oder 24 monatlichen Raten7. 
+Ratenzahlung To Go ist unsere neue Zahlungsoption für Einkäufe im Laden8. Du beantragst, für welchen Betrag du eine Ratenzahlung vereinbaren willst – direkt über dein Smartphone. Zahle kontaktlos vor Ort und bezahle deinen Einkauf in deinen vereinbarten Raten ab.
+1Es ist ein PayPal-Konto in Deutschland erforderlich. Vorbehaltlich Kreditwürdigkeitsprüfung.
+6Vorbehaltlich Kreditwürdigkeitsprüfung. Für Einkäufe zwischen 1 € und 2.000 €. Alle Informationen findest du unter https://www.paypal.com/de/30tage.
+7Vorbehaltlich Kreditwürdigkeitsprüfung. Laufzeiten von 3, 6, 12 oder 24 Monaten. Ab 99 € und bis zu 10.000 € Bestellwert. Alle Informationen findest du unter https://www.paypal.de/ratenzahlung
+8Separate Beantragung erforderlich. Vorbehaltlich vorheriger Kreditbewilligung. PayPal Ratenzahlung To Go kann mit Ausnahme einiger Branchen dort verwendet werden, wo Mastercard kontaktlos akzeptiert wird. Es gelten die Bedingungen. Mehr erfahren: www.paypal.de/RatenzahlungToGo
+
+ZAHLUNGEN BEQUEM  ZENTRAL VERWALTEN
+Verwalte deine Abonnements und wiederkehrenden Zahlungen direkt in der PayPal-App.",2019-02-03T08:00:00Z,2025-11-17T16:24:16Z
+ch,Switzerland,Finance,6015,11,6739134762,Bank WIR Banking,WIR Bank Genossenschaft,https://apps.apple.com/ch/app/bank-wir-banking/id6739134762?uo=4,0.0,1,1,Finance,"Mit der Bank WIR Digital Banking App werden Bankgeschäfte zum Vergnügen – jederzeit und überall.
+
+
+Was erwartet Sie:
+» Intuitive Bedienung mit klarem, modernem Design
+» Einheitliche Benutzeroberfläche auf Smartphone, Tablet und Desktop
+» Modernste Schweizer Qualitätssoftware mit höchstem Sicherheitstandard
+» Modulare, zukunftsfähige Architektur für maximale Geschwindigkeit und Stabilität
+
+
+Funktionen auf einen Blick:
+» Konten und Karten verwalten
+» Zahlungen schnell und einfach ausführen
+» Sicherheit an erster Stelle
+» Startseite individuell gestalten
+» eBill-Integration
+» Mitteilungen & Push-Benachrichtigungen
+» Digitales Postfach
+» Beteiligungsscheine direkt in der App handeln
+» Smartsuche
+» Persönlicher Kontakt zur Bank
+
+
+Voraussetzungen:
+- Gültiger E-Banking-Vertrag mit der Bank WIR
+- Aktuelles Betriebssystem für volle Sicherheit und optimale Performance
+- Nur für Kundinnen und Kunden mit Wohnsitz in der Schweiz
+
+
+Jetzt herunterladen und Banking erleben, das Ihren Alltag erleichtert - modern, sicher und flexibel.",2025-09-29T07:00:00Z,2025-11-19T09:28:59Z
+ch,Switzerland,Finance,6015,12,386766642,PostFinance App,Die Schweizerische Post,https://apps.apple.com/ch/app/postfinance-app/id386766642?uo=4,0.0,4.29872,42046,Finance,"Die Finanzen jederzeit im Griff
+Mit der PostFinance App erledigen Sie Ihre Finanzen, wo und wann immer Sie möchten. Der mobile Zugang ins digitale Banking und E-Trading – einfach und schnell via Face ID oder Touch ID.
+
+
+
+Zahlungen und Bewegungen:
+•	Kontostand, Details und Bewegungen im Blick behalten
+•	Einnahmen und Ausgaben analysieren und überblicken, für was Sie Ihr Geld ausgeben
+•	QR-Rechnungen scannen oder hochladen und bezahlen
+•	eBill direkt oder via eBill-Plattform bearbeiten und freigeben
+•	Geld an Mobilnummer senden
+•	Dokumente als PDF einsehen und teilen
+•	Kontoinformationen via SMS, E-Mail, usw. teilen
+•	Apple Pay: PostFinance Card mit Debit Mastercard und PostFinance-Kreditkarten direkt über die PostFinance App oder in der Apple Wallet für die Nutzung von Apple Pay hinterlegen
+•	PostFinance Pay: Mit der PostFinance App bequem in Onlineshops bezahlen
+
+
+Einstellungen und Support:
+•	Limiten anpassen, PostFinance-Karten sperren, entsperren oder Ersatz bestellen
+•	Push-Benachrichtigungen einrichten: beispielsweise bei Gut- oder Lastschriften, eingegangenen Rechnungen (e-Bill), 
+Kreditkartentransaktionen oder für E-Trading
+•	Adresse ändern
+•	Login via App einstellen (Face ID, Touch ID) oder Passwort direkt in der App zurücksetzen
+•	App-Einstellungen: Dark Mode
+•	PostFinance-ChatBot bei Fragen und Anliegen konsultieren
+
+
+Kund:in werden:
+Eröffnen Sie ein Privat-, Spar-, Vorsorge- oder Fremdwährungskonto oder bestellen Sie eine Kreditkarte in der PostFi-nance App.
+
+
+Anlegen und Vorsorgen:
+•	Kursinformationen von weltweit bedeutenden Börsenplätzen abrufen
+•	Auf Ihr Depot zugreifen
+•	Anlageprodukte wie elektronische Vermögensverwaltung, Anlageberatung (Fondsberatung Basis oder Anlagebe-ratung Plus) einsehen und verwalten
+•	Selbständig investieren (Selfservice Fonds, Vorsorgefonds, E-Trading und weitere Anlageprodukte)
+
+
+Digitale Gutscheine:
+•	Digitale Gutscheine für iTunes, paysafecard und viele mehr kaufen oder verschenken 
+•	Prepaidguthaben für Mobiltelefone kaufen oder verschenken
+
+
+Schützen Sie sich und Ihre Geräte mit einfachen Massnahmen vor Datenmissbrauch:
+•	Halten Sie Ihr Betriebssystem und die installierten Apps stets aktuell
+•	«Loggen Sie sich stets aus der App aus – schnell und einfach durch Schütteln Ihres Smartphones (kann in den App-Einstellungen eingerichtet werden»)
+Weitere Informationen: https://www.postfinance.ch/de/support/sicherheit/sicheres-e-finance.html
+
+
+Generelles zur Sicherheit:
+•	Die Sicherheit Ihrer Daten hat oberste Priorität. Ein mehrstufiges Verschlüsselungs- und Identifizierungsverfahren sorgt dafür, dass nur Sie auf Ihre Konten zugreifen können.
+•	Auf dem Endgerät muss der Apple Store vorinstalliert sein. Eine manuelle Installation des Stores und die Installation der PostFinance App über diesen Kanal oder das Herunterladen der PostFinance App über einen Drittanbie-ter ist nicht gestattet.
+•	PostFinance beachtet bei der Erfassung und Bearbeitung von Personendaten die Bestimmungen der schweizeri-schen Datenschutzgesetzgebung. In allen Bereichen des Onlineangebots werden umfassende technische Mittel und organisatorische Massnahmen zum Schutz vor unautorisierten Zugriffen, Manipulationen sowie Datenverlust eingesetzt.
+•	Beim Verlust Ihres Handys und/oder Ihrer SIM-Karte sowie bei Verdacht auf missbräuchliche Verwendung, wen-den Sie sich bitte umgehend an unser Customer Center unter 0848 888 700.
+
+Aus regulatorischen Gründen ist die App nur im Schweizer App Store erhältlich.
+Weitere Informationen: postfinance.ch/app",2010-09-06T07:00:00Z,2025-10-31T09:01:47Z
+ch,Switzerland,Finance,6015,13,382425736,MyAXA CH,AXA Versicherungen AG,https://apps.apple.com/ch/app/myaxa-ch/id382425736?uo=4,0.0,4.46966,2208,Finance,"Ihre digitale Versicherungskarte und Ihr Helfer im Fall der Fälle: Erreichen Sie die AXA jederzeit über das 24-Stunden-Telefon, im Assistance-Fall mit der Übermittlung Ihres Standorts, falls Sie dies wünschen. Die App gibt Ihnen Zugriff auf alle Verträge, Dokumente und Kontakt zu Ihren persönlichen Beratern. Melden Sie ausserdem Ihre Fahrzeug-, Reise- und Privathaftpflichtschäden, Rechtsschutzfälle oder reichen Sie Arztbelege ein.
+
+MyAXA – exklusiv für Privatpersonen in der Schweiz. Der Zugriff ist für Privatkunden oder Versicherte der Pensionskasse optimiert... und vergessen Sie nie wieder Ihr Passwort. Bleiben Sie einfach und sicher eingeloggt!",2010-07-22T17:09:49Z,2025-04-24T06:35:32Z
+ch,Switzerland,Finance,6015,14,6504563552,GKB Mobile Banking,Graubündner Kantonalbank,https://apps.apple.com/ch/app/gkb-mobile-banking/id6504563552?uo=4,0.0,3.78723,47,Finance,"GKB Mobile Banking
+
+Mit dem GKB Mobile Banking haben Sie Ihre Bank immer dabei. 
+
+Erledigen Sie Ihre Bankgeschäfte mit der GKB Mobile Banking App einfach, schnell und sicher – wo und wann Sie wollen. 
+
+Ihre Vorteile auf einen Blick:
+•	Unabhängig vom e-Banking: Nutzen Sie die neue GKB Mobile Banking App unabhängig vom e-Banking und signieren Sie all Ihre Zahlungen schnell und unkompliziert in der App.
+•	Nahtloser Smartphone-Wechsel: Wechseln Sie mühelos Ihr Smartphone, ohne einen neuen Aktivierungsbrief zu bestellen.
+•	Neue Kommunikationsmöglichkeit: Wenden Sie sich bei Fragen direkt in der Mobile Banking App via «Postfach» an eine Beraterin oder einen Berater und tauschen Sie Dokumente aus.
+•	Vereinfachter Login-Prozess: Bestätigen Sie Ihr Login ins e-Banking mit der Mobile Banking App – ganz ohne die CrontoSign Swiss App.
+
+Nützliche Funktionen 
+•	Zahlungen signieren und visieren 
+•	QR-Rechnungen scannen
+•	Zahlungen und Daueraufträge erfassen und freigeben
+•	Kontoüberträge veranlassen
+•	Kontobewegungen und Kontostände abfragen
+•	Kredit- und Debitkarten verwalten
+•	Direkte Kommunikation mit Ihrer Beraterin oder Ihrem Berater
+
+Voraussetzung
+Das GKB Mobile Banking steht ausschliesslich Kundinnen und Kunden mit Wohnsitz in der Schweiz, in Deutschland, Italien, Österreich und Portugal zur Verfügung.  
+
+Rechtliche Hinweise
+Wir weisen Sie darauf hin, dass durch das Herunterladen, die Installation und/oder die Verwendung dieser Applikation und damit verbunden durch die Bezugspunkte zu Dritten (z.B. App Store, Netzbetreiber, Gerätehersteller) eine Kundenbeziehung zur Graubündner Kantonalbank hergeleitet werden kann. Das Bankkundengeheimnis lässt sich durch die mögliche Offenlegung der Bankbeziehung sowie gegebenenfalls von Bankkundeninformationen gegenüber Dritten (z.B. bei Verlust des Endgeräts) nicht mehr sicherstellen. 
+
+Fragen / Unterstützung
+Haben Sie Fragen oder benötigen Sie Unterstützung? Das Kompetenzcenter Kundenservice e-Banking der Graubündner Kantonalbank ist gerne von Montag bis Freitag zwischen 08.00 und 20.00 Uhr unter folgender Nummer für Sie da: +41 81 256 91 91.",2025-06-16T07:00:00Z,2025-10-07T12:16:09Z
+ch,Switzerland,Finance,6015,15,371762633,Raiffeisen E-Banking,Raiffeisen Schweiz Genossenschaft,https://apps.apple.com/ch/app/raiffeisen-e-banking/id371762633?uo=4,0.0,4.70667,136150,Finance,"Mit der Raiffeisen E-Banking App haben Sie alle E-Banking Anwendungen auf Ihrem Smartphone oder Tablet mit dabei. Sie möchten schnell Ihren Kontosaldo überprüfen, einen Börsenauftrag aufgeben oder eine Rechnung scannen und bezahlen? Mit dem Mobile Banking stehen Ihnen sämtliche Funktionen des E-Bankings auch unterwegs zur Verfügung. 
+
+Datenschutzerklärung
+Rechtlicher Hinweis: Wir weisen Sie darauf hin, dass durch das Herunterladen, die Installation und die Verwendung diese Applikation Dritte auf eine bestehende, ehemalige oder zukünftige Kundenbeziehung zwischen Ihnen und Raiffeisen schliessen können. Mit dem Herunterladen dieser App erklären Sie sich ausdrücklich einverstanden, dass die von Ihnen an die Dritten übermittelten Daten gemäss deren Bedingungen gesammelt, transferiert, bearbeitet und zugänglich gemacht werden können. Die Bedingungen dieser Dritten, denen Sie zustimmen, müssen von den restlichen Bedingungen von Raiffeisen unterschieden werden.",2010-05-16T19:31:17Z,2025-11-05T07:48:17Z
+ch,Switzerland,Finance,6015,16,1255818015,VIAC,WIR Bank Genossenschaft,https://apps.apple.com/ch/app/viac/id1255818015?uo=4,0.0,4.69575,424,Finance,"Die besten Finanzprodukte in einer App
+
+VIAC – Deine Wertschriftenlösung für Sparpläne, Säule 3a und Freizügigkeit
+
+Entdecke die einfache und kostengünstige Art zu investieren mit VIAC. Unsere App bietet dir maximale Flexibilität und kompetenten Support, damit du deine finanziellen Ziele erreichen kannst.
+
+Warum mit VIAC investieren?
+•	Kostengünstig und niedrige Einstiegshürden: Investiere bereits ab 1 CHF – ohne Mindesteinlage, Mindestgebühr oder Mindestlaufzeit.
+•	Einfache und übersichtliche App: Intuitive Bedienung und klare Struktur für ein nahtloses Nutzererlebnis.
+•	Kompetenter Support: Unser Team steht dir per Telefon, Chat oder Mail zur Verfügung, um all deine Fragen zu beantworten.
+•	Höchste Flexibilität: Gestalte deine Anlagestrategie individuell – von verzinsten Konten bis zu 99% Aktien, breit diversifiziert mit passiven, indexbasierten Bausteinen. Passe deine Strategie jederzeit an – ohne zusätzliche Kosten.
+
+VIAC Life
+Sichere deine Zukunft ab: Mit VIAC Life Basic erhältst du als 3a- oder FZ-Kunde bei Invalidität oder Tod bis zu 25% zusätzlich zu deinem gesparten Guthaben. Mit VIAC Life Plus kannst du direkt in der App eine zusätzliche Absicherung hinzufügen.
+
+VIAC Hypothek
+Profitiere als VIAC-Kunde von exklusiven und fairen Hypotheken mit top Zinssätzen.
+
+Jetzt VIAC App herunterladen und profitieren!",2017-11-21T10:53:13Z,2025-09-10T07:15:51Z
+ch,Switzerland,Finance,6015,17,576512319,Raiffeisen PhotoTAN,Raiffeisen Schweiz Genossenschaft,https://apps.apple.com/ch/app/raiffeisen-phototan/id576512319?uo=4,0.0,2.4366,765,Finance,"Raiffeisen E-Banking – einfach, schnell, sicher!
+
+Raiffeisen PhotoTAN ist ein innovatives Sicherheits-Werkzeug für das Login und die Auftragsfreigabe im Raiffeisen E-Banking. Es kann anstelle der  SMS-TAN eingesetzt werden. Raiffeisen E-Banking-Kunden können Raiffeisen PhotoTAN im E-Banking („Vertragsnummer” > „Einstellungen“ > „Sicherheit“ > „Login-Methode“) aktivieren. Eine Anleitung befindet sich ebenfalls dort.
+
+Funktionsweise:
+Bei diesem Verfahren codiert Raiffeisen E-Banking die Login- und Auftragsdaten in ein farbiges Mosaik. Das farbige Mosaik wird dann vom Bildschirm mittels der in Ihrem Smartphone integrierten Kamera fotografiert. Die im Mosaik enthaltenen Daten und der zugehörige Freigabe-Code werden durch diese App auf dem Smartphone entschlüsselt und angezeigt. Durch die einmalige Aktivierung der PhotoTAN-App mit einem persönlichen Schlüssel-Mosaik kann das auf dem Bildschirm angezeigte Mosaik einzig durch Ihr Smartphone entschlüsselt werden. 
+
+Falls Sie Raiffeisen Mobile Banking nutzen, liest die PhotoTAN App auf demselben Gerät den Code im Hintergrund aus, und gibt diesen automatisch an das Mobile Banking zurück. Die manuelle Eingabe des Zusatzcodes entfällt dadurch. 
+
+Für dieses Verfahren benötigt Ihr Smartphone keine Internet- oder Telefonverbindung.
+
+Weitere Informationen finden Sie auf www.raiffeisen.ch/phototan
+
+Rechtlicher Hinweis:
+Wir weisen Sie darauf hin, dass durch das Herunterladen, die Installation und die Verwendung dieser Applikation Dritte (wie z.B. Apple) auf eine bestehende, ehemalige oder zukünftige Kundenbeziehung zwischen Ihnen und Raiffeisen schliessen können. Mit dem Herunterladen dieser App erklären Sie sich ausdrücklich einverstanden, dass die von Ihnen an Apple übermittelten Daten gemäss deren Bedingungen gesammelt, transferiert, bearbeitet und zugänglich gemacht werden können. Die Geschäftsbedingungen von Apple, denen Sie zustimmen, müssen von den rechtlichen Bedingungen von Raiffeisen unterschieden werden.",2012-11-16T17:56:36Z,2025-06-03T09:22:04Z
+ch,Switzerland,Finance,6015,18,1225135057,PostFinance TWINT,Die Schweizerische Post,https://apps.apple.com/ch/app/postfinance-twint/id1225135057?uo=4,0.0,4.79971,302866,Finance,"Ihr digitales Portemonnaie
+Mit PostFinance TWINT wird der Umgang mit Geld jetzt noch einfacher. Bequem mit dem Smartphone an der Kasse, in Onlineshops oder an Automaten bezahlen, Geld an Freunde senden oder empfangen, Kundenkarten hinterlegen und von digitalen Stempelkarten und Rabatt-Coupons profitieren.
+
+Mit direkter Kontoanbindung
+PostFinance TWINT ist das digitale Zahlmittel für alle mit einem PostFinance Privatkonto. Ganz einfach das persönliche Postkonto in wenigen Schritten mit der PostFinance TWINT App verbinden und sofort einsetzen. Die Direktbelastung auf das entsprechende Konto erfolgt automatisch. Zusätzlich können auch Kreditkarten (Mastercard oder Visa) hinterlegt und für die Bezahlung genutzt werden.
+
+Registrieren Sie sich einmalig in der App – jeder weitere Zugriff erfolgt via Touch ID / Face ID oder selbstgewähltem PIN-Code. Für die Registrierung und die automatische Kontoanbindung wird das Login via App von PostFinance benötigt (PostFinance Mobile App ab Version 4.9.0). Alternativ kann die PostFinance Card sowie das gelbe Kartenlesegerät verwendet werden.
+
+Digital bezahlen mit dem Smartphone
+Die bargeldlose Bezahlung mit PostFinance TWINT wird über QR-Code oder Bluetooth abgewickelt. 
+
+Für die Bezahlung via QR-Code (beispielsweise bei Hofläden, in Geschäften mit TWINT auf dem Kartenterminal oder in Onlineshops) einfach die PostFinance TWINT App öffnen und mit der Kamera Ihres Smartphones den QR-Code scannen. 
+
+So funktioniert die Bezahlung via Bluetooth:
+•	Bluetooth auf dem Smartphone einschalten
+•	PostFinance TWINT App öffnen
+•	Das Smartphone kurz an den TWINT Beacon halten
+•	Den Betrag bestätigen (erst ab einem Einkauf ab CHF 40.- nötig)
+
+Die Bezahlung mit PostFinance TWINT ist kostenlos.
+
+Geld senden und empfangen
+Mit der Funktion «Geld senden» können Sie Ihren Freunden unkompliziert und schnell Geld überweisen – ganz einfach von Smartphone zu Smartphone. Mit der Funktion «anfordern aufteilen» können Sie Geld auch anfordern. Von einzelnen Bekannten oder gemeinsame Ausgaben, z.B. nach einem gemeinsamen Restaurantbesuch, unter mehreren Personen aufteilen und gleichzeitig anfordern. 
+
+Partner-Funktionen
+Partner-Funktionen umfassen eine stetig wachsende Anzahl an Funktionen, welche Ihnen ihren Alltag vereinfachen. So können Sie beispielsweise direkt aus Ihrer PostFinance TWINT App digitale Vouchers kaufen oder verschenken (z.B. von Zalando oder Spotify), die beliebte TWINT Parkingfunktion ohne Gang zur Parksäule nutzen, Geld für einen guten Zweck spenden oder wenn Sie doch mal Bargeld benötigen dieses ganz einfach via Funktion «Bargeldbezug» an einem von über 2300 k kiosk oder volg Läden beziehen. 
+
+Kunden- und Mitarbeiterkarten hinterlegen
+Hinterlegen Sie Ihre Karten – wie zum Beispiel die Coop Supercard oder die Migros Cumulus-Karte – in Ihrer PostFinance TWINT App. Die jeweiligen Vorteile wie z.B. das Sammeln von Superpunkten werden automatisch beim Bezahlen berücksichtigt. 
+
+Digitale Coupons und Stempelkarten
+In der App werden Ihnen laufend digitale Rabatt-Coupons und Stempelkarten angezeigt. Nachdem diese aktiviert wurden, profitieren Sie von den exklusiven Vorteilen, bei der Bezahlung mit PostFinance TWINT. 
+
+Sicherheit
+Die Sicherheit Ihrer Daten hat oberste Priorität. Ein mehrstufiges Verschlüsselungs- und Identifizierungsverfahren sorgt dafür, dass nur Sie auf Ihre Konten zugreifen können.
+
+PostFinance beachtet bei der Erfassung und Bearbeitung von Personendaten die Bestimmungen der schweizerischen Datenschutzgesetzgebung. In allen Bereichen des Onlineangebots werden umfassende technische Mittel und organisatorische Massnahmen zum Schutz vor unautorisierten Zugriffen, Manipulationen sowie Datenverlust eingesetzt.
+
+Beim Verlust Ihres Handys und/oder Ihrer SIM-Karte sowie bei Verdacht auf missbräuchliche Verwendung, wenden Sie sich bitte umgehend an unser Kontaktcenter unter 058 667 17 56.
+
+Aus regulatorischen Gründen ist die App nur im Schweizer App Store erhältlich.",2017-05-29T22:12:36Z,2025-09-18T06:08:31Z
+ch,Switzerland,Finance,6015,19,1493935010,Yuh - Deine App. Dein Geld.,Swissquote,https://apps.apple.com/ch/app/yuh-deine-app-dein-geld/id1493935010?uo=4,0.0,4.69568,19450,Finance,"Steck dir finanzielle Ziele mit Yuh, der All-in-One-Finanz-App, die Zahlen, Sparen und Investieren zum Klacks macht. Jetzt mit Säule 3a, Pocket Versicherung und ETF-Sparplänen. Mit der Unterstützung von Swissquote erlebst du unübertroffene Zuverlässigkeit und Innovation.
+
+Deshalb wirst du Yuh lieben:
+• 13 Währungen mit einer Schweizer IBAN
+• Kostenloses Konto & Mastercard, keine monatlichen Gebühren
+• eBill und Daueraufträge
+• TWINT für sofortige und kontaktlose Zahlungen
+• Kaufe Bruchteile von Aktien, Kryptos und ETFs und starte deine Anlage bereits ab 10 CHF
+• Investiere regelmässig via Sparplan
+• Sichere deine Zukunft mit unserer Säule 3a Vorsorgelösung 
+• Versichere deine Alltagsgegenstände kostenlos mit Yuh Pocket
+• Wähle aus 6 ETFs ohne Trading-Gebühren für deinen Sparplan
+
+Zahle in 13 Währungen ohne versteckte Gebühren
+Bei Yuh erhältst du eine kostenlose Yuh Mastercard-Debitkarte, Echtzeit-Informationen über alle Kontobewegungen und ein Multiwährungskonto. Wir bieten transparente Kosten bei der Währungsumrechnung ohne versteckte Gebühren. Gebühren für die Kontoführung oder Kartenzahlungen gehören ebenfalls der Vergangenheit an. Mit deiner Registrierung bei Yuh erhältst du ein Schweizer Konto, ohne Kosten und fast ohne Aufwand.
+
+Deine Sparziele
+Du entscheidest, wann du sparst, wofür du sparst und wie lange du sparst, und dann siehst du zu, wie deine Träume wahr werden.
+
+ETF-Sparpläne ohne Trading-Gebühren
+Bastle dir deinen eigenen ETF-Sparplan in Form einer wiederkehrenden Investition. Investiere wöchentlich oder monatlich, und schau deinem Geld beim Wachsen zu!
+
+Yuh Pocket Insurance
+Schütze deine wichtigsten Gegenstände und decke die Kosten für Reparaturen oder Ersatz, wenn mal etwas schiefgeht. 
+
+Säule 3a mit Yuh - In Zukunft deine BFF
+Unsere Säule 3a ist die perfekte Lösung für finanzielle Stabilität. Die Pauschalgebühr von 0.5% garantiert ausserdem eine solide Preisgestaltung.
+
+Investiere in über 300 Aktien, 50 ETFs und Anleihen-ETFs & 40 Kryptos
+Investiere nach deinen Vorstellungen und mit geringstmöglichem Risiko. Bei Yuh kannst du mit den grössten Kryptos handeln. Falls du in Aktien investieren willst, bieten wir dir eine breite Auswahl der beliebtesten Anlageprodukte. Wir bewerten, wie ethisch und umweltfreundlich die Aktivitäten der Unternehmen sind (ESG-Score). Mit unseren Trending Themes kannst du in Trends investieren, die dich interessieren, ohne einzelne Aktien auswählen zu müssen. Und ETFs bieten eine einfache und risikoarme Möglichkeit, von den globalen Märkten zu profitieren. Sie sind kostengünstig, transparent, hoch diversifiziert und flexibel.
+
+Swissqoin, ein einzigartiges Konzept
+Yuh ist die erste Finanz-App, die ihre Einnahmen via Krypto-Token mit ihren Yuhsers teilt. Swissqoin erfährt eine monatliche Wertsteigerung, da Yuh einen Teil der Einnahmen reinvestiert. Je mehr du die App benutzt, desto mehr Swissqoins erhältst du und desto mehr kannst du von Yuh-Prämien profitieren. Du kannst deine Swissqoins jederzeit gegen Bargeld eintauschen oder sie behalten und zuschauen, wie ihr Wert jeden Monat steigt.
+
+YuhLearn
+Falls du Hilfe brauchst, können wir dich mit unterschiedlichen Tools beim Entscheidungsprozess unterstützen und dir helfen, deine Finanzen ganz entspannt zu verwalten. Auf YuhLearn teilen wir Ideen und Inspirationen mit unseren Yuhsers.
+
+Sicherheit
+Die über die Yuh-App angebotenen Finanzdienstleistungen werden von Swissquote erbracht, die von der FINMA, der Schweizer Finanzmarktaufsicht, zugelassen ist. ISo profitierst du von allen Schutzbestimmungen des Schweizer Bankengesetzes und anderer Schweizer Finanzgesetze, ganz zu schweigen vom Schutz von CHF 100'000 im Falle eines Konkurses und des Bankgeheimnisses. 
+
+Geniesse die finanzielle Freiheit und triff klügere Entscheidungen mit deinem Geld. Lade Yuh jetzt herunter und entdecke, wie einfach die Verwaltung deiner Finanzen sein kann. Willkommen in der Zukunft der Finanzen.",2021-05-10T07:00:00Z,2025-11-17T06:09:10Z
+ch,Switzerland,Finance,6015,20,612261027,Wise,Wise Payments Ltd,https://apps.apple.com/ch/app/wise/id612261027?uo=4,0.0,4.7573,13704,Finance,"Entdecke neue Möglichkeiten für deine internationalen Finanzen. 160 Länder. 40 Währungen.
+
+Mit Wise kannst du dein Geld auf der ganzen Welt für Überweisungen oder Zahlungen verwenden, in beliebig vielen Währungen halten und Einzahlungen empfangen, als hättest du ein Konto vor Ort – all das ohne versteckte Gebühren und zum echten Devisenmittelkurs.
+
+Über 16 Millionen Menschen und Unternehmen weltweit nutzen bereits Wise.
+
+— Auslandsüberweisung —
+• Schnelle Überweisungen in 70+ Länder
+• Hier erhältst du für jede Geldüberweisung immer den echten Devisenmittelkurs – den gleichen Wechselkurs, den du etwa auch auf Google findest
+• Mehr als 52% aller Überweisungen treffen innerhalb von 20 Sekunden auf dem Konto des Empfängers ein
+• Sichere Überweisungen mit 2-Faktor-Authentifizierung, Verschlüsselung und biometrischer Verifizierung
+
+— Die Debitkarte, mit der du immer die richtige Währung zur Hand hast —
+• Zahle oder hebe Geld in mehr als 160 Ländern ab
+• Du kannst problemlos in Währungen zahlen, die nicht in deinem Konto vorhanden sind – wir tauschen dein Geld dann automatisch so um, dass für dich dabei die wenigsten Gebühren anfallen
+• Du kannst deine Karte jederzeit sperren und entsperren und deine digitalen Kartendaten jederzeit aktualisieren
+
+— Empfange Einzahlungen wie mit einem Konto vor Ort —
+• Erhalte deine eigene britische Kontonummer plus Sort Code, eine europäische IBAN, eine australische Bankverbindung und mehr, als hättest du lokale Bankverbindungen auf der ganzen Welt
+• Richte Lastschriften von deinen Bankverbindungen ein und empfange kostenlos Einzahlungen in mehreren Währungen
+• Lass dich per Instant-Push-Benachrichtigung über den Stand deiner Überweisung informieren
+
+— Halte Guthaben in 40 Währungen und tausche innerhalb von Sekunden zwischen ihnen um —
+• Keine monatliche Gebühr und (in den meisten Fällen) auch keine Gebühr für das Halten von Geld in deinem Konto
+• Tausche innerhalb von Sekunden zwischen Währungen um – zum echten Wechselkurs und mit geringen Umtauschgebühren
+• Tausche Währungen zu festgelegten Wechselkursen um und lege Kursalarme für deine gewünschten Währungen fest
+
+— Mach mehr aus deinem Geld, indem du es in Assets investierst —
+• Investiere dein Geld in nur wenigen Schritten in Zinsanlagen oder Aktien (derzeit nur in Großbritannien, Singapur und ausgewählten EWR-Ländern verfügbar)
+• Dein Kapital ist einem gewissen Risiko ausgesetzt. Wachstum ist nicht garantiert
+
+— Ein besseres Geschäftskonto für internationale Unternehmen —
+• Zahle Rechnungen schneller und zu einem besseren Wechselkurs
+• Empfange über eigene Bankverbindungen Einzahlungen von Kunden und Klienten aus der ganzen Welt
+• Verknüpfe dein Konto mit unterstützten Plattformen wie PayPal, Stripe, Xero und vielen weiteren
+
+Wise wird von lokalen Aufsichtsbehörden auf der ganzen Welt reguliert.",2013-10-04T07:00:00Z,2025-11-20T23:58:33Z
+ch,Switzerland,Finance,6015,21,1223881844,Raiffeisen TWINT,Raiffeisen Schweiz Genossenschaft,https://apps.apple.com/ch/app/raiffeisen-twint/id1223881844?uo=4,0.0,4.81683,297110,Finance,"Raiffeisen TWINT – Das digitale Bargeld der Schweiz
+
+Mit Raiffeisen TWINT bezahlen Sie bequem und sicher mit dem Smartphone und profitieren gleichzeitig von attraktiven Vorteilen und Rabatten. Raiffeisen TWINT können Sie direkt mit Ihrem Bankkonto verbinden. So werden Ihre Geldsendungen oder Einkäufe direkt Ihrem Bankkonto belastet und erhaltene Beträge von Ihren Freunden gutgeschrieben. So einfach kann mobiles Bezahlen sein!
+
+Ihre Vorteile auf einen Blick…
+
+In Echtzeit Geld senden, anfordern oder empfangen:
+•Unter Freunden, Familienmitgliedern oder Bekannten Geld senden oder Beträge anfordern und auf mehrere Personen aufteilen – ganz einfach von Smartphone zu Smartphone.
+•Zum Beispiel das Nachtessen in der Pizzeria oder die Ticketkosten für einen gemeinsamen Konzertbesuch mit Freunden teilen.
+
+Bequeme und schnelle Zahlungsmöglichkeit:
+•An der Kasse bei vielen Schweizer Händlern bequem bezahlen.
+•Im Online-Shop rund um die Uhr einkaufen.
+•Die Parkgebühren in verschiedenen Schweizer Städten begleichen.
+•Direkt aus der App digitale Gutscheine kaufen und Spenden tätigen.
+
+Von Mehrwerten profitieren:
+•Digitale Kundenkarten (wie z.B. die Coop Supercard) in der App hinterlegen und beim Bezahlen automatisch von Kundenvorteilen profitieren. 
+•Beim Bezahlen direkt von Rabatt-Coupons profitieren.
+•Stempelkarten Ihrer Lieblingsgeschäfte sowie Mitglieder- oder Mitarbeiterausweise stets in der App dabei haben.
+
+Einfache Registrierung & Kontoanbindung:
+•Mit Ihrer Raiffeisen Debit-/Bankkarte sind Sie in wenigen Schritten registriert. Das zugrunde liegende Konto der Karte dient als Basiskonto für Belastungen und Gutschriften.
+•Nach vollständig abgeschlossener Registrierung, können Sie zusätzlich eine Schweizer Kreditkarte für Belastungen sowie weitere Bankkonten für Belastungen und Gutschriften hinterlegen. 
+
+Sicherer Zugang:
+•Über Ihren selbst gewählten 6-stelligen PIN oder Ihre Touch/Face ID ist der Zugang gesichert.
+•Sollte Ihr Smartphone gestohlen werden, können Sie Ihren Account jederzeit durch den TWINT Support sperren lassen.
+•Schweizer Standard: Alle Daten bleiben in der Schweiz.
+
+Jetzt kostenlos downloaden und loslegen
+Laden Sie die Bezahl-App Raiffeisen TWINT jetzt auf Ihr Smartphone. Alles was Sie brauchen ist:
+•ein iPhone oder iPad mit Internetverbindung
+•eine Schweizer Mobilnummer
+•eine Raiffeisen Debit-/Bankkarte
+Bitte beachten Sie, dass ein Mindestalter von 12 Jahren für die Registrierung erforderlich ist. Zudem ist Raiffeisen TWINT nur für natürliche Personen mit Domizil Schweiz bestimmt. 
+
+Weitere Informationen zu Raiffeisen TWINT finden Sie unter raiffeisen.ch/twint sowie zu aktuellen Kampagnen unter raiffeisen.ch/twint/angebote
+
+Datenschutzerklärung
+Rechtlicher Hinweis: Wir weisen Sie darauf hin, dass durch das Herunterladen, die Installation und die Verwendung dieser Applikation Dritte auf eine bestehende, ehemalige oder zukünftige Kundenbeziehung zwischen Ihnen und Raiffeisen schliessen können. Mit dem Herunterladen dieser App erklären Sie sich ausdrücklich einverstanden, dass die von Ihnen an die Dritten übermittelten Daten gemäss deren Bedingungen gesammelt, transferiert, bearbeitet und zugänglich gemacht werden können. Die Bedingungen dieser Dritten, denen Sie zustimmen, müssen von den restlichen Bedingungen von Raiffeisen unterschieden werden.",2017-05-29T22:07:51Z,2025-11-04T08:01:58Z
+ch,Switzerland,Finance,6015,22,1498903386,frankly. Säule 3a - Vorsorge,Zuercher Kantonalbank,https://apps.apple.com/ch/app/frankly-s%C3%A4ule-3a-vorsorge/id1498903386?uo=4,0.0,4.66805,9872,Finance,"Säule 3a geht ganz leicht. Mit frankly, der digitalen Vorsorgelösung - developed by Zürcher Kantonalbank.
+
+In nur wenigen Minuten und ohne Bankbesuch kannst du deine Säule 3a und die Freizügigkeit in der App oder bequem via Computer oder Tablet eröffnen. Neu kannst du auch eine Cash-Strategie ohne Kursrisiko auswählen.
+
+frankly, die neue Vorsorge-App der Vorsorgestiftung Sparen 3 der Zürcher Kantonalbank richtet sich ausschliesslich an Vorsorgenehmer mit Wohnsitz in der Schweiz.
+
+Jetzt kostenlos die Freizügigkeit und Säule 3a App runterladen und einfach starten.
+
+Die frankly Vorteile:
+
+• Eröffnung in wenigen Minuten
+Du brauchst nur ein Smartphone und einen Ausweis und schon gehts los. Natürlich helfen wir dir bei jedem Schritt. Übrigens kannst du frankly auch bequem per Computer oder Tablet nutzen.
+
+• Einfach & verständlich – alles digital
+Wir denken die Vorsorge komplett neu. Deswegen steuerst du deine 3a Altersvorsorge und Freizügigkeit direkt in der frankly App und siehst jederzeit deine Performance.
+
+• Einzahlung schon ab CHF 1.-
+Du entscheidest selbst, wieviel du in deine Säule 3a einzahlen möchtest. Es gibt keine Mindesteinlage und keine Mindestlaufzeit.
+
+• Du sparst Steuern
+Mit jedem eingezahlten Franken in deine Säule 3a Vorsorgelösung reduzierst du bis zum Maximalbetrag dein steuerbares Einkommen und sparst also Steuern! Somit profitierst du doppelt.
+
+• Von dir gewählte Anlageprodukte
+Das oberste Ziel liegt darin, dein Vermögen aufzubauen. Dabei entscheidest du mit deiner Strategie selbst, wieviel Risiko du eingehen möchtest.
+Ob in Cash ohne Kursrisiko sparen oder in Wertschriften anlegen unter Nutzung von Renditechancen. Für jeden ist etwas dabei. 
+
+• Einfacher Wechsel
+Du hast bereits eine bestehende Säule 3a oder Freizügigkeit? Wir bieten dir einen einfachen und kostenlosen Transfer-Service. Wir übernehmen deine Transaktionsgebühren sowie Kontosaldierungskosten (gilt für den Transfer von Säule 3a bei Bankstiftungen).
+
+• frankly ist einfach günstig
+Auf Kontovermögen wird bei frankly keine All-in-Fee von 0.44% erhoben. 
+Beim Wertschriftensparen ist frankly mit 0.44% All-in-Fee halb so teuer wie verglichene Angebote (Quelle: moneyland.ch). Bitte beachte, dass bei den indexierten Anlageprodukten insbesondere Ausgabe- und Rücknahmespesen zugunsten des Fonds anfallen, die nicht in der All-in-Fee von 0.44% enthalten sind. Eine genaue Definition der All-in-Fee findest du in den FAQ.
+
+• Unser Community-Rabatt
+Je mehr Kundinnen und Kunden mit frankly vorsorgen, desto günstiger wird die All-in-Fee von aktuell 0.44% für alle. Mit weiteren Nutzern wird frankly sogar noch günstiger. So macht private Altersvorsorge Spass.
+
+• Sicherheit und Erfahrung
+frankly wurde von der Zürcher Kantonalbank für deren Vorsorgestiftung entwickelt.
+
+Weitere Infos zur Säule 3a App inkl. Vorsorgerechner: www.frankly.ch
+
+Vorsorgestiftung Sparen 3 
+der Zürcher Kantonalbank
+Bahnhofstrasse 9
+8001 Zürich
+ 
+Freizügigkeitsstiftung der Zürcher Kantonalbank
+Bahnhofstrasse 9
+8001 Zürich
+
+Freizügigkeitsstiftung II der Zürcher Kantonalbank
+Bahnhofstrasse 9
+8001 Zürich",2020-03-18T07:00:00Z,2025-06-27T07:17:38Z
+ch,Switzerland,Finance,6015,23,285691076,Swissquote,Swissquote,https://apps.apple.com/ch/app/swissquote/id285691076?uo=4,0.0,4.36046,50019,Finance,"Mit der Swissquote-App haben Sie alles, was Sie für Ihr tägliches Banking brauchen und die Finanzmärkte der Welt in unmittelbarer Reichweite. Sie können in ein breites Spektrum von Produkten investieren: von Aktien über ETF bis hin zu Bitcoin und anderen Kryptos.
+
+Die App ist in 4 Hauptbereiche unterteilt:
+HOME – Verschaffen Sie sich einen Überblick über Ihr Finanzportfolio mit einer klaren konsolidierten Übersicht über alle Ihre Vermögenswerte.
+TRADING – Alle Marktinformationen und Analysetools, die Sie benötigen, um fundierte Entscheidungen zu treffen und Transaktionen reibungslos auszuführen.
+BANKING – Meistern Sie virtuos Ihre täglichen Finanzen, die Organisation Ihrer Zahlungen und die Verwaltung Ihrer Karten.
+PLAN – Bauen Sie langfristig ein Vermögen auf mit einfachen, vordefinierten Strategien.
+
+BANK- UND HANDELSKONTO FÜR MEHRERE WÄHRUNGEN
+- Wählen Sie aus 3 Bankpaketen:
+-- Light: Kostenlos mit virtueller Debitkarte
+-- Bright: Upgrade mit physischer Karte und interessanten Extras
+-- Elite: Premium-Metallkarte, keine Transaktionsgebühren, Gold-Cashback und exklusive Reisevorteile
+- Beide Versionen der Swissquote Debit Mastercard® sind Multiwährungskarten, krypto-freundlich, kompatibel mit den wichtigsten digitalen Wallets und bieten Cashback.
+- Halten Sie über 20 Währungen auf einem Konto mit eigener IBAN und profitieren Sie von günstigen Wechselkursen.
+- eBanking-Funktionen, inkl. Zahlungen, Überweisungen, eBill*, Apple Pay, Google Pay, Samsung Pay, Twint und mehr!
+- Auf Wunsch: Multiwährungszahlungskarte* für die Zahlung in 13 Währungen mit null Transaktionsgebühren
+
+ERWEITERTE HANDELSFUNKTIONEN
+- Zugang zu Kursen, Grafiken und Informationen für über 100'000 Finanzinstrumente.
+- Benachrichtigungen über Kurse, News und ausgeführte Aufträge.
+- Charts mit Indikatoren für technische Analysen.
+- Erstellung und Personalisierung von Listen Ihrer Lieblings- Handelsprodukte und Entwicklungs-Überwachung mithilfe von verständlichen Grafiken.
+- Anlagen an Börsen und Finanzmärkten weltweit.
+- Handel mit Aktien, Kryptos, ETF, Anlagefonds und vielem mehr!
+
+DIE HEIMAT DER KRYPTOS
+Grenzenloses Potenzial! Swissquote war die erste Schweizer Bank, die Kryptos angeboten hat. Es werden laufend neue Kryptos und Funktionen hinzugefügt.
+- Umtausch von Kryptowährungen: Handeln Sie 45 grosse Kryptos mit niedrigen Gebühren und tauschen Sie Krypto- gegen normale Währungen.
+- Ihr eigenes Wallet: Wir bieten mehr als nur den Handel mit Kryptos über Derivate*. Sie können echte Krypto-Assets in Ihrem Swissquote Wallet handeln und halten.
+- Schweizer Sicherheit: Investieren Sie in Kryptos unter dem Schutz einer Schweizer Bankengruppe.
+- Wir bieten auch fortschrittliche Handelsprodukte, die Klassiker der Finanzanlage mit dem Potenzial von Kryptos kombinieren.
+-  Krypto-ETFs, Krypto-ETPs und Krypto-Derivate*, um Ihr Portfolio zu diversifizieren und Ihr Risiko zu verringern.
+
+SIE SIND SICH UNSICHER, IN WAS SIE INVESTIEREN SOLLEN? WIR HABEN DIE ANTWORT!
+Die App ist voller einzigartiger Tools und Ideen, die Ihnen beim Anlegen und dem Aufbau Ihres Portfolios helfen.
+- Themes Trading*: unsere exklusive und handverlesene Auswahl an thematischen Portfolios.
+- Trend Radar*: Entdecken Sie die Wertpapiere mit der besten Performance anhand einer einfachen Bewertung durch internationale Top-Analysten.
+- Investment Inspiration Widget*: Erhalten Sie eine tägliche personalisierte Aktienauswahl auf der Grundlage Ihrer Handelsgewohnheiten.
+
+HANDELN SIE MIT EINER RENOMMIERTEN SCHWEIZER GRUPPE
+Mit Swissquote profitieren Sie von der Qualität, der Sicherheit und dem überlegenen Kundenservice einer Schweizer Bankengruppe.
+Die Swissquote Group Holding AG ist führend im Bereich Online-Finanzdienstleistungen und -Handel in der Schweiz.
+
+Für den Zugriff auf die meisten Funktionen der App ist ein Trading-Konto erforderlich. Sie können Ihr Konto online über die App oder die Website von Swissquote eröffnen.
+
+*Funktion nur für Konten bei Swissquote Bank AG (Schweiz) verfügbar.",2019-02-12T08:00:00Z,2025-11-18T21:02:06Z
+ch,Switzerland,Finance,6015,24,1098796854,Meine Mobiliar,Schweizerische Mobiliar Versicherungsgesellschaft,https://apps.apple.com/ch/app/meine-mobiliar/id1098796854?uo=4,0.0,4.79512,9547,Finance,"Möchten Sie schnell und einfach einen Schaden melden oder den Überblick über Ihre Versicherungen behalten? Nutzen Sie den direkten Kontakt zu Ihrer Beraterin oder Ihrem Berater und bewahren Sie Quittungen digital auf. Die ""Meine Mobiliar"" App bietet Ihnen all dies kostenlos und rund um die Uhr. Die App ist speziell für Privatkunden optimiert. 
+ 
+SCHADEN MELDEN:  SCHNELL UND UNKOMPLIZIERT 
+Melden Sie Ihren Schaden bei der Mobiliar mit nur wenigen Klicks und behalten Sie den Status jederzeit im Blick. Hat Ihnen der Handwerker nachträglich eine Rechnung geschickt? Kein Problem! Fügen Sie die Dokumente einfach einem bestehenden Schaden hinzu. 
+ 
+VERTRÄGE UND WICHTIGE DOKUMENTE: JEDERZEIT GRIFFBEREIT 
+Mit der ""Meine Mobiliar"" App haben Sie Ihre aktiven Verträge immer im Überblick und können direkt auf Ihre Police zugreifen. Unter ""Dokumente"" stehen Ihnen alle wichtigen Unterlagen wie Prämienabrechnungen, Policendokumente, Begleitbriefe und weitere Korrespondenz in digitaler Form zur Verfügung. Lassen Sie sich über neue Dokumente per SMS oder E-Mail informieren. 
+ 
+IHRE BERATERIN ODER IHR BERATER: IMMER FÜR SIE DA 
+Nehmen Sie Kontakt mit Ihrer persönlichen Beraterin oder Ihrem persönlichen Berater auf. Dank der ""Meine Mobiliar"" App haben Sie die Kontaktdaten jederzeit griffbereit und können auch direkt via App Kontakt  aufnehmen.   
+ 
+QUITTUNGEN UND GARANTIESCHEINE: SICHER AUFBEWAHREN 
+Mit ""Persönlichen Sachen"" bewahren Sie Quittungen und Garantiescheine Ihrer Lieblingsprodukte digital und sicher auf. So haben Sie diese jederzeit zur Hand – auch im Schadenfall. 
+ 
+UNWETTERMELDUNGEN: UNTERSTÜTZUNG AN IHRER SEITE 
+Sie werden nach Unwettern mit hohem Schadenspotenzial informiert und erhalten hilfreiche Tipps, wie Sie Schäden erkennen und melden können. 
+ 
+EXKLUSIVE VORTEILE: ATTRAKTIVE ANGEBOTE FÜR SIE 
+Profitieren Sie von exklusiven Vorteilen! Im Mobiliar Ticketshop erwarten Sie Ticketvergünstigungen von 20 bis 50 % sowie ein Vorverkaufsrecht für Konzerte internationaler Künstler. In der Wintersaison geniessen Sie 25 % Rabatt auf Ski-Tickets in zahlreichen Skigebieten der Schweiz. Darüber hinaus bietet unsere App weitere attraktive Vorteile, wie Ermässigungen auf das GA-Night und das Halbtax für Kunden und Kundinnen unter 26 Jahren. 
+ 
+24H-NOTRUF: RASCHE UND UNKOMPLIZIERTE ABWICKLUNG 
+Die Mobiliar 24h Assistance ist rund um die Uhr für Sie da. Wenn Sie den Standort aktiviert haben, können Sie dank der ""Meine Mobiliar"" App metergenau lokalisiert und durch die hinterlegte Handynummer schneller identifiziert werden.",2016-04-26T15:09:05Z,2025-10-31T20:58:39Z
+ch,Switzerland,Finance,6015,25,349866256,tricount - Ausgaben teilen,Tricount SA,https://apps.apple.com/ch/app/tricount-ausgaben-teilen/id349866256?uo=4,0.0,4.81371,6844,Finance,"tricount ist der einfachste Weg, um gemeinsame Ausgaben mit Freunden zu verfolgen und auszugleichen. Egal, ob ihr einen Roadtrip macht, auswärts essen geht oder einfach nur Rechnungen teilt: Wir erledigen die Rechnerei, damit ihr euch auf das Wesentliche konzentrieren könnt.
+
+FEATURES:
+
+- Eine benutzerfreundliche Oberfläche, mit der du schnell Ausgaben hinzufügen kannst und siehst, wer was schuldet, damit du sofort ausgleichen kannst.
+- Eine kostenlose Kreditkarte, die bei jeder Nutzung automatisch Ausgaben zu deinen Konten hinzufügt - keine manuelle Eingabe erforderlich! Ohne Zinsgebühren oder Jahresgebühren.
+- In mehreren Währungen für Reisen ins Ausland, sowie automatische Umrechnung von Ausgaben für volle Transparenz.
+- Füge deine kostenlose Kreditkarte ganz einfach zu Apple Pay hinzu, damit du sie aufladen und für Zahlungen weltweit und online nutzen kannst.
+- Umfassendes Tracking, das deine Ausgaben, Einnahmen und Überweisungen übersichtlich organisiert.
+- Gemeinsamer Zugriff, damit jeder in deiner Gruppe jederzeit und überall Ausgaben hinzufügen und den Kontostand überprüfen kann.
+- Die Möglichkeit, Ausgaben ungleichmäßig aufzuteilen, so dass für alle Beteiligten Fairness gewährleistet ist.
+- Direkte Zahlungsanfragen werden direkt über die App gesendet, was die Abrechnung erleichtert.
+- Ausgabenübersichten, die dir Monatsvergleiche und detaillierte Einblicke bieten.
+- Teile Fotos in hoher Auflösung mit Freunden in eurem tricount, egal ob es sich um ein einzelnes Bild oder ein ganzes Album handelt.
+- Spare bis zu 90 % der Roaming-Kosten mit unserer eSIM. Installiere sie einmal und hab überall auf der Welt zuverlässigen Internetzugang.
+- Ein In-App-Rechner, mit dem du jedem Mitglied beim Hinzufügen von Ausgaben ganz einfach Beträge zuweisen kannst.
+- Offline-Zugriff, sodass du Ausgaben ohne Internetverbindung hinzufügen kannst.
+
+NUTZER SAGEN:
+
+""Die beste Ausgaben-App, die ich je heruntergeladen habe! Die App ist sehr intuitiv."" - Michael P.
+""Macht das Aufteilen von Rechnungen mit Freunden so viel einfacher. So viele nützliche Optionen - ein absolutes 'Must'."" - Tom C.
+""Super nützlich - meine Mitbewohner und ich können ohne die App nicht mehr leben!"" - Sarah P.
+
+Wer empfiehlt tricount? :
+
+FORBES:
+
+„Mit tricount können Sie auf Ihrem Handy eine Gruppen-Kostenabrechnung erstellen. Die App erfasst die Ausgaben der einzelnen Personen und teilt dann auf, wie viel jeder Einzelne vom Gesamtsaldo schuldet oder bekommt. Wenn Sie für die endgültige Aufschlüsselung bereit sind, sendet die App jeder teilnehmenden Person einen Link zum tricount, um die Daten zu überprüfen.“
+
+BUSINESS INSIDER:
+
+„Wenn Sie das nächste Mal eine Aktivität in der Gruppe organisieren, wird tricount die Ausgaben für Sie aufteilen.“
+
+SO FUNKTIONIERT'S:
+
+Erstelle einen tricount, teile den Link mit deinen Freunden und los geht's! tricount vereinfacht die Organisation und Aufteilung von Gruppenkosten, egal ob es sich um Urlaube, Städtereisen, gemeinsames Wohnen oder Freizeitaktivitäten handelt. Leg einfach einen tricount an, teile den Link und schon bist du fertig! Jeder kann seine Ausgaben hinzufügen oder Live-Updates sehen, sodass ihr leicht verfolgen könnt, wer was schuldet.
+
+Keine Tabellenkalkulationen mehr - tricount kümmert sich um die Details. Es eignet sich perfekt für Paare, Kollegen, Mitbewohner oder andere Gruppen und stellt sicher, dass die Ausgaben mühelos ausgeglichen und abgerechnet werden. Verwalte alles direkt von deinem Handy aus und lass tricount den Rest erledigen. 
+
+Erlebe die einfachste Art, Gruppenausgaben zu verfolgen.",2010-02-01T08:00:00Z,2025-10-30T09:09:36Z

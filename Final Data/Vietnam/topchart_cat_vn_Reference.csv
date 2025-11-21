@@ -1,0 +1,824 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+vn,Viet Nam,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/vn/app/google-translate/id414706506?uo=4,0.0,3.99695,20626,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-18T17:48:56Z
+vn,Viet Nam,Reference,6006,2,1071624317,Lịch Vạn Niên 2026 & Lịch Việt,Phan Hanh,https://apps.apple.com/vn/app/l%E1%BB%8Bch-v%E1%BA%A1n-ni%C3%AAn-2026-l%E1%BB%8Bch-vi%E1%BB%87t/id1071624317?uo=4,0.0,4.57686,594578,Reference,"Tra cứu lịch vạn niên 2026, lịch vạn sự 2026, lịch âm 2026, lịch việt 2026!
+Ứng dụng Lịch Vạn Niên 2026 - Lịch Việt  giúp bạn tra cứu lịch vạn niên, lịch âm dương, lịch việt, lịch vạn sự, lịch âm và nhiều tính năng khác đang chờ bạn khám phá.
+
+Các tính năng chính trong ứng dụng: 
+• Lịch Ngày
+- Xem lịch Âm, lịch Dương 
+- Xem can, chi của giờ, ngày, tháng, năm 
+- Xem giờ Hoàng đạo
+- Hiển thị danh ngôn theo chủ đề và thay đổi theo ngày
+- Xem thời tiết hiện tại, cả ngày và các ngày kế tiếp
+- Giao diện đẹp
+- Thay đổi ảnh nền
+• Lịch tháng:
+- Xem nhanh ngày Âm, Dương theo tháng, chi tiết từng ngày
+• Ghi chú:
+- Thêm và quản lý ghi chú
+• Văn hoá Việt:
+- Lịch sử Việt Nam
+- Danh nhân Việt Nam
+- Thơ ca Việt Nam
+- Ca dao tục ngữ
+- Phong tục , hát ru, đồng dao
+- Văn khấn
+- Ý nghĩa ngày lễ
+- Lời chúc tết
+- Phong tục ngày tết
+- Cẩm nang ngày tết
+• Khám phá:
+* Tiện ích: 
+  - Tử vi bói toán: Tử vi theo năm, xem sao giải hạn, tử vi trọn đời
+  - Đổi ngày: Đổi ngày âm dương, đếm ngày xuôi ngược
+  - La bàn phong thuỷ
+  - Xông đất
+  - Các nội dung khác như: Danh nhân thế giới, danh ngôn cuộc sống, mẹo vặt hàng ngày, truyện cười, truyện cổ tích Việt Nam cũng như thế giới
+  -  Lịch Vạn Sự
+  -  Lịch âm
+  - Lịch âm dương
+  - Lịch Việt
+  - Lịch Vạn Niên
+* Cấu hình
+
+Tải ngay và trải nghiệm tiện ích nhất ứng dụng Lịch vạn niên 2026 hiện có trên App Store.
+Chú ý: Mọi thông tin trong ứng dụng chỉ mang tính chất tham khảo
+
+#LichViet offers auto-renewing subscription options:
+$0.99 per month (VIP 1 month)
+$1.99 per year (VIP 1 year)
+
+• You can subscribe for unlimited access to all features and content offered for purchases within the app
+
+• Subscriptions are billed monthly/yearly on the subscription plan
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase
+
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+
+Terms of Use:
+
+https://phanbichhanh.github.io/term.html
+
+Privacy Policy
+
+https://phanbichhanh.github.io/privacy_policy.html",2016-01-09T00:16:46Z,2025-11-20T16:50:34Z
+vn,Viet Nam,Reference,6006,3,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/vn/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.62169,49874,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-10T12:15:36Z
+vn,Viet Nam,Reference,6006,4,1141299776,Chinese Feng Shui Tool Kit,Hai Nam Trinh,https://apps.apple.com/vn/app/chinese-feng-shui-tool-kit/id1141299776?uo=4,0.0,4.71742,38042,Reference,"Chinese Feng Shui Tool Kit
+According to the “Feng shui” – an ancient Chinese doctrine to find health, pleasure, money and good fortune in a life it is necessary to harmonize space and environment where you live and work. You hold the tool in hands, which will allow you without deep and special knowledge of the ancient doctrine Feng shui - to harmonize easily space of your life to become rich, healthy and happy.
+
+▷ 01 Feng Shui House Direction Tools 
+In classical feng shui, knowing the direction your house is facing is necessary in order to determine enhancements and remedies. The only way to discover your home's direction is with a real feng shui compass, or a feng shui compass app on your phone. The process of finding your home's facing and sitting directions is very simple, and can provide you with important feng shui guidance. Feng Shui Compass In English: For each person exists FOUR favorable geographical directions and FOUR not favorable, depending on age, character and the date of its birth. Having created around of itself conditions in which: you sleep a head in a correct direction, work sitting for a table and negotiate with partners looking in a correct direction, you already shall find positive energy of the life which will bring you the true success and blessings.
+▷ 02 Feng Shui Numbers
+Good numbers for luck and positive energy. According to the beliefs of feng shui, the lucky numbers are 0, 1, 2, 3, 6, 8, and 9. Although they are all auspicious numbers, they have different meanings in your car numbers, phone numbers...
+▷ 03 Feng Shui Buddha mantra - Chanting Suite.
+A collection of Buddha mantra wisdom tools: Wooden fish, Bells, Chanting Suite. Including prayer beads (mala beads), a wooden fish (Chinese temple block, Mokugyo fish drum) and standing bells.",2016-09-04T20:18:59Z,2025-09-25T17:53:30Z
+vn,Viet Nam,Reference,6006,5,1147874819,Naver Papago - AI Translator,NAVER Corp.,https://apps.apple.com/vn/app/naver-papago-ai-translator/id1147874819?uo=4,0.0,4.67654,2059,Reference,"Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean? 
+In Esperanto, Papago refers to a parrot, a bird with language abilities. 
+Papago supports 14 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic. 
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button 
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation 
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation 
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a 
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like :  https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+※ Supporting iOS 15.0 or above
+ ※ Available on PC and mobile. https://papago.naver.com
+ ※ For app-related issues and errors: https://goo.gl/9LZLRe
+  
+Developer Contact No.: 
+1588-3820  
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul",2016-09-11T05:54:33Z,2025-10-21T16:11:38Z
+vn,Viet Nam,Reference,6006,6,6752486957,Auto Clicker: AG Tap Assistant,Ethan Parker,https://apps.apple.com/vn/app/auto-clicker-ag-tap-assistant/id6752486957?uo=4,0.0,4.82759,29,Reference,"Auto Clicker: AG Tap Assistant, Scroll & Dual Chat
+
+Auto Clicker is a powerful auto clicker that automates taps, swipes, scrolling — and even enables dual chat for social media apps. No root required. Perfect for gaming, testing, or multitasking.
+
+Key Features:
+
+- Single & Multi Tap Modes – Automate one or more tap areas
+
+- In-App Macro Recorder – Record your tap flows and replay them to automate actions within Auto Clicker.
+
+- Custom Intervals – Set delay, speed, and repeat timing
+
+- Floating Control Panel – Manage clicks over any app
+
+- Auto Scroll – Smooth, hands-free scrolling
+
+- Dual Chat Support – Use two social accounts simultaneously
+
+- Save & Load Tasks – Easily reuse recorded tap flows
+
+Click smarter, not harder — with Auto Clicker!",2025-09-24T07:00:00Z,2025-09-24T12:22:23Z
+vn,Viet Nam,Reference,6006,7,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/vn/app/oxford-dictionary/id978674211?uo=4,0.0,4.73403,7700,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2015-06-26T07:50:37Z,2025-11-18T21:39:49Z
+vn,Viet Nam,Reference,6006,8,6720748231,Game Codes for Roblox •,IDENZU LTD,https://apps.apple.com/vn/app/game-codes-for-roblox/id6720748231?uo=4,0.0,4.79412,34,Reference,"Game Codes for Roblox • is the best app for finding codes for games on the Roblox platform! Our application offers fresh and verified codes from developers that will give you free items, game resources, boosters and much more. With us you will find only working codes for more than 1000 games! Forget about irrelevant offers - we regularly update the catalog, filtering out inactive codes so that you always have access to the most relevant bonuses. Our application is your faithful assistant in the world of Roblox for easy and quick receipt of game advantages!
+Features of app:
+- Only the most relevant codes from official developers
+- The largest database of more than 1000 supported games!
+- Simple convenient search by games and user-friendly interface
+- Detailed instructions for activating the code in each game.
+- Constant updating of the catalog for inactive codes
+Using our application is as simple and convenient as possible. The search system allows you to quickly find codes for your favorite games, and thanks to regular catalog updates, you will always be the first to know about new offers. Each game has detailed instructions with screenshots for convenient and quick activation. No more spending hours searching for working codes on the Internet - everything you need is collected in one place. DISCLAIMER: This is an unofficial application for the Roblox platform, not associated with Roblox Corporation. The Roblox name, the Roblox trademark, as well as all resources related to it belong to Roblox Corporation or their legal owners. All rights reserved in accordance with the brand usage rules available at https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Name-and-Logo-Community-Usage-Guidelines . We do not claim copyright or intellectual property. If you find a violation, please contact us at: support@bytecore.studio, and we will take steps to resolve it immediately. Please note: Some features and code collections are only available via a paid subscription. Free users have limited access to selected content.
+Privacy Policy: https://bytecore.studio/privacypolicy
+Terms of Use: https://bytecore.studio/terms",2024-10-03T07:00:00Z,2025-09-09T06:07:57Z
+vn,Viet Nam,Reference,6006,9,393499958,네이버 - NAVER,NAVER Corp.,https://apps.apple.com/vn/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958?uo=4,0.0,3.5034,147,Reference,"모바일에 최적화된 다양하고 풍부한 정보! 매일 새로워지는 네이버앱을 만나보세요.
+
+네이버앱은 콘텐츠 유형에 따라 5개의 공간을 제공합니다.
+내가 좋아하는 건 주제별로 ‘홈피드’에서, 짧고 빠르게 즐기는 숏폼은 ‘클립’에서, 뉴스와 각종 읽을 거리는 ‘콘텐츠’에서, 나의 쇼핑 흐름에 맞춰 깎고, 받고, 쌓는 경험은 ‘네이버플러스 스토어’에서, 인증과 결제 뿐만 아니라 내 활동 내역을 확인할 수 있는 ‘마이’까지, 일상의 편리함 네이버앱, 지금 다운로드하세요!
+
+1. 내 취향 콘텐츠를 주제별로 탐색해 보세요.
+검색홈 하단에서 내가 좋아하는 주제를 골라 콘텐츠를 탐색할 수 있어요. 스포츠, 엔터, 패션뷰티와 테크까지! 다양한 주제의 맞춤 콘텐츠를 끊임 없이 추천해드려요.
+
+2. 이미지와 영상으로 남기는 나만의 리뷰, 클립
+짧은 여유 시간엔 클립을 감상하고 특별한 순간엔 직접 이미지와 영상으로 남겨보세요. 마음에 드는 크리에이터를 팔로우 할 수 있고 나만의 공간에서 내 클립들을 모아볼 수 있어요. 클립 하나로 보는 즐거움과 만드는 재미를 모두 경험해 보세요.
+
+3. 더 깎아주고 더 쌓아주는 네이버플러스 스토어
+홈 하단에서 내게 꼭 맞는 상품과 혜택이 가득한 쇼핑 콘텐츠를 통해 탐색과 발견의 즐거움을 더해줍니다.
+오늘의 할인 혜택과 다양한 프로모션, 인기 트렌드까지 초개인화 맞춤 추천으로 깎고, 받고, 쌓는 셈이 다른 쇼핑을 경험해 보세요.
+
+4. 인증, 결제, 활동내역까지 마이에서 한눈에
+현장에서 지갑대신 사용할 수 있는 인증, 결제도구와 내 결제/예약 주문 목록 및 찜한 상품, 저장한 장소 등 흩어져있던 내 활동내역을 마이에서 모아볼 수 있어요.
+
+5. 그린닷 AI검색으로 일상을 편리하게 
+그린닷을 통해 이미지 기반으로 정보를 검색하는 렌즈, 궁금한 음악을 찾아주는 음악검색, 손을 쓰지 않아도 검색이 가능한 음성검색, 음식점을 비롯한 주변 정보를 알려주는 내 주변 등 다양한 검색 기능을 더욱 편리하게 이용할 수 있어요.
+
+※ 참고 사항
+네이버앱을 쾌적하게 이용하기 위해서는, iOS 16.0 이상의 환경에서 설치하는 것을 권장합니다. 앱이용 중 문제가 발생한 경우 네이버앱 설정-고객센터로 문의해 주세요.
+
+웹사이트에서 음성 인식 기능 이용 시 '음성인식' 권한이 필요할 수 있습니다. '음성인식' 권한을 허용한 상태에서 음성인식 기능을 이용하는 경우 Apple의 정책에 따라 음성 데이터가 Apple로 전송되며, 그 외 다른 정보는 일체 전송 되지 않습니다.
+
+A wealth of information optimized for mobile! Experience the NAVER app, refreshed daily.
+
+The NAVER app offers five spaces tailored to different content types. Your favorite is in “Home Feed,” short and quick entertainment can be found in “Clip,” and “Content” provides news and various reading materials. “NAVER Plus Store” offers a personalized shopping experience, with deals, rewards, and benefits, and “MY” is where you check your activity logs as well as authentication and payments. Download the NAVER app now for your everyday convenience!
+
+1. Browse content tailored to your interests by topic.
+Select your favorite topics and explore the content at the bottom of the search home. From sports and entertainment to fashion and beauty to tech, NAVER continuously recommends personalized content across various subjects.
+
+2. Clip – Your Personal Reviews in Photos and Videos
+Enjoy short moments by watching Clips, and create your own special ones with photos and videos. Follow your favorite creators and keep all your clips neatly archived in your personal space. Discover the joy of both watching and creating.
+
+3. NAVER Plus Store, where you save more and earn more
+A wealth of shopping content with tailored products and offers at the bottom of Home will help you explore and discover the joy of shopping. Experience a unique shopping journey that lets you save, earn, and collect more through hyper-personalized deals that include today’s discounts, various promotions, and trending items.
+
+4. Authentication, payments, and activity logs — all at once in MY
+MY brings together your scattered activities, including on-site wallet alternatives, payment solutions, checkout/pre-order lists, favorite items, and saved locations. 
+
+5. Make your daily life convenient with the Green Dot AI Search 
+Try out Green Dot, an AI search tool that adds convenience to your daily life. You can enjoy various search functions more conveniently, including Lens that searches for information based on images, music search that finds the music you’re curious about, voice search for hands-free searching, and location-based search for information about neighborhoods, such as restaurants. 
+
+* NOTE
+For the best experience with NAVER app, we recommend installing it on iOS 16.0 or higher. If you have problems while using the app, please send your inquiries via NAVER app's Settings - Customer Center.
+
+Using speech recognition features on the website may require ""Speech Recognition"" permission. When using speech recognition features with ""Speech Recognition"" permission enabled, your voice data will be sent to Apple in accordance with Apple's policies, and no other information will be sent.
+
+----
+개발자 연락처: naver_market@naver.com, 1588-3820
+경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561",2010-10-07T05:57:29Z,2025-11-19T01:49:17Z
+vn,Viet Nam,Reference,6006,10,6741730354,Dual Space Lite-Multi Accounts,Ashish Paneliya,https://apps.apple.com/vn/app/dual-space-lite-multi-accounts/id6741730354?uo=4,0.0,4.57805,820,Reference,"Dual Space Lite is a powerful tool that lets you run multiple accounts of the same app simultaneously on one device. Whether for social media, messaging apps, or gaming, you can enjoy seamless access to two or more accounts without the need for constant switching or logging in and out. 
+
+Main Features:
+
+- Multiple Accounts: Run several accounts of the same app simultaneously in one place, saving time and enhancing convenience.
+- Custom App Creation: Create and customize apps with a unique name and logo for a personalized experience.
+- Direct Chat without Saving Contacts: Initiate conversations with others via messaging apps without having to save their phone numbers in your contacts.
+- App Lock with PIN: Protect your privacy by securing the app with a PIN, ensuring that only you can access your private spaces.
+
+Dual Space Lite brings efficiency, security, and flexibility to your multitasking needs, all while keeping your apps organized and secure.
+
+EULA:- https://dualapplite.blogspot.com/2025/02/eula.html",2025-02-12T08:00:00Z,2025-02-13T10:36:33Z
+vn,Viet Nam,Reference,6006,11,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/vn/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,4.62763,333,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-05-09T07:00:00Z,2025-11-14T09:53:01Z
+vn,Viet Nam,Reference,6006,12,1369895581,La Ban Phong Thuy,Duy Trinh,https://apps.apple.com/vn/app/la-ban-phong-thuy/id1369895581?uo=4,0.0,4.66167,869,Reference,"Nguyên lý sử dụng của la bàn phong thủy là lợi dụng tính cực từ của kim nam châm để chỉ phương hướng, ở bốn phía của kim nam châm thiết kế bàn phương vị, từ đó có thể dựa vào kim chỉ nam để xác định phương vị. Trên bàn phương vị viết những từ, chữ có ý nghĩa được sắp xếp theo một quy luật và nguyên lý nhất định, làm cho bàn phương vị có tác dụng và ý nghĩa bói toán. La bàn phong thủy là một công cụ dùng để xem bói toán trong kiến trúc phong thủy.
+
+Chúng tôi xin giới thiệu ứng dụng la bàn kết hợp với các hướng tốt xấu trong Phong Thủy cùng với độ chính xác cao
+Được thiết kế với giao diện thân thiện, bắt mắt, chạy trên các điện thoại di động và máy tính bảng hệ điều hành IOS 9.0 trở lên
+
+La bàn phong thủy rất hữu ích cho các thầy, các bạn nghiên cứu phong thủy ... để đo hướng nhà, hướng cửa, hướng bếp, hướng bàn làm việc... Hoặc đơn giản bạn có thể dùng như la bàn thông thường.
+Hoặc những người đang có nhu cầu mua nhà, xây cất,xem hướng, bố trí nội thất ngoại thất, cưới xin, đặt bàn thờ, tủ đồ cầu khấn ...
+Chức năng chính : Đo hướng nhà, hướng cửa, hướng bếp, hướng bàn làm việc... với độ chính xác cao",2018-04-10T14:28:26Z,2024-02-06T16:34:52Z
+vn,Viet Nam,Reference,6006,13,341922306,Pleco Chinese Dictionary,Pleco Inc.,https://apps.apple.com/vn/app/pleco-chinese-dictionary/id341922306?uo=4,0.0,4.24227,388,Reference,"Pleco is the ultimate Chinese learning companion: an integrated dictionary / document reader / flashcard system with fullscreen handwriting input and live OCR, from a company that's been making the world's best mobile Chinese learning apps since 2001.
+
+Major features: ($ = paid add-on)
+
+• Amazing dictionaries. We offer two free built-in dictionaries: the popular open-source CC-CEDICT, with over 110,000 frequently-updated entries, and our own PLC dictionary, with 125,000 entries, parts of speech, and over 25,000 example sentences (with Pinyin). More than two dozen other dictionaries are available as free and paid ($) add-ons, including licensed titles from well-known publishers like Oxford, Longman, FLTRP, Tuttle, SLPH, and Commercial Press.
+
+• Powerful merged search: look up words by Chinese characters, Pinyin (spaces / tones optional), or English, with support for wildcards and full-text search. And no need to tediously flip between all of those dictionaries to find a word - just type in your search term and instantly get a combined, frequency-sorted result list.
+
+• Links and cross-references: easily look up character components, break down words into individual characters, look up lists of words containing a particular character, and search across all dictionaries for example sentences containing a word.
+
+• Gorgeous typography: see it for yourself in our screenshots - we think we're one of the best-looking Chinese dictionaries around. Alternate Kai/Song/Xing-style Chinese fonts are also available ($).
+
+• PRC/HK/Taiwan-friendly: every part of Pleco supports both traditional and simplified, headword readings can be shown in Pinyin and Zhuyin, and some dictionaries even support Cantonese. (note: stroke order diagrams do support traditional characters, but use PRC order)
+
+• Audio: Hear Mandarin and Cantonese for words and example sentences using iOS' free built-in text-to-speech system. We also offer add-ons ($) with native-speaker Mandarin recordings and higher-quality Mandarin TTS.
+
+• Document Reader: bring in text from the clipboard and tap on words in it to instantly look them up. Upgrade ($) adds support for tap-lookups in text, HTML, DOC, DOCX, PDF, and EPUB files. We also offer graded readings ($).
+
+• OCR: look up words simply by pointing your device's camera at them, or by tapping on them in a still image. ($)
+
+• Fullscreen handwriting: use your device's whole screen instead of just a little box. Extremely accurate and highly tolerant of stroke order mistakes. (enhanced $)
+
+• Flashcards: create a card from any dictionary entry with a single button tap, import premade word lists, use advanced memorization techniques like SRS, and study in a variety of modes including fill-in-the-blanks handwriting and tone drills. ($)
+
+• Stroke Order Diagrams: animations showing you how to draw each character; 500 characters for free, 28,000 in paid ($) version.
+
+• User dictionaries: create new dictionary entries right on your device as you encounter new words. ($)
+
+• No ads.
+
+We also offer famously excellent customer support and an active user community at http://www.plecoforums.com. And we're constantly working to make our products better; our sales and customer base have been growing for two decades across 4 different platforms. You can be confident that we'll still be fixing bugs and adding features for years to come.
+
+Paid add-ons can be transferred to other devices that link to your iTunes account just like any other paid iTunes content; simply install our free app, open up the ""Add-ons"" screen, and tap on the ""Restore Purchases"" button to activate your purchase on each device.
+
+Please contact us at support@pleco.com, via the form at http://www.pleco.com/contact.html, or using the in-app ""Contact Support"" command with any questions - we'll be delighted to hear from you.",2009-12-17T20:53:10Z,2025-10-09T16:14:51Z
+vn,Viet Nam,Reference,6006,14,1545752052,Floating Clock-Timer&Stopwatch,万其 沈,https://apps.apple.com/vn/app/floating-clock-timer-stopwatch/id1545752052?uo=4,0.0,4.69041,2064,Reference,"Floating clock is a simple time app,  it can be displayed at the top of all applications.
+Features:
+# Available on iPhone, iPad and Mac
+# Floating display time on any app interface
+# Add millisecond switch
+# Add Stopwatch
+# Add Timer
+# Custom display style
+# Flip clock widget
+
+Unlimited Access Subscription
+- You can subscribe for unlimited access to all features and content offered for purchase within Floating Clock.
+- Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan. Alternatively, a one-time payment plan is available (this is not a subscription).
+- Subscriptions auto-renew at the cost of the chosen package, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during the active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
+- If eligible for free trial and you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed. Subscriptions will start immediately after free trial ends unless cancelled at least 24 hours prior to the end of the trial period.
+
+- Terms of use: https://iandrew.space/apps/floating_clock_terms.html
+- Privacy policy: https://iandrew.space/apps/policy_floating.html
+
+If you have any questions, please contact us:
+Official contact email: iandrew.shen@gmail.com",2020-12-23T08:00:00Z,2025-04-23T18:34:47Z
+vn,Viet Nam,Reference,6006,15,6449225877,Parallel Space: Dual Account,Webrain OU,https://apps.apple.com/vn/app/parallel-space-dual-account/id6449225877?uo=4,0.0,4.76599,735,Reference,"Manage all your accounts in one app!
+
+Have you ever had to log in, log out or switch between multiple accounts in the same app? ""Yes"" means you're on the right track. The target audience for this app is users who have many social media accounts and find it difficult to manage them.
+
+The main key features are:
+- Over 20 popular social networks and services.
+- Simultaneous sign-in to multiple accounts from a single phone; 
+- Account security - automatic login and password setting
+
+In app purchase:
+You can be a premium user through auto-renewing subscription.
+
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the period
+- Length of subscription: one week, one month; one year.
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Price of subscription: one week - 2.99 dollars, one month - 5.99 dollars, one year - 9.99 dollars.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during active subscription period
+
+Privacy policy: https://webrain.ltd/uv/privacy-policy.html
+Terms of service: https://webrain.ltd/uv/terms-conditions.html",2023-07-12T07:00:00Z,2025-02-18T20:36:43Z
+vn,Viet Nam,Reference,6006,16,6446400473,Parallel Space – Clone App,AppLiks Sp. z O.O.,https://apps.apple.com/vn/app/parallel-space-clone-app/id6446400473?uo=4,0.0,4.68238,2037,Reference,"Experience the convenience of running multiple accounts of the same app simultaneously on your phone with Parallel Space. This powerful app enables you to clone and maintain unlimited multiple accounts, keeping them all online simultaneously.
+
+Are you tired of constantly logging in and out, switching between different accounts of a single app? If so, look no further. Parallel Space was specifically designed to cater to users with multiple social media accounts who struggle with account management.
+
+In addition to account duplication, Parallel Space offers advanced features to enhance your app experience. Safeguard your data security and privacy by setting a password for the application. Our app supports a wide range of popular social media platforms and services.
+
+Key Features:
+• Multi-Account Login: Seamlessly log into multiple accounts using just one phone and stay connected online.
+• Enhanced Account Security: Protect your accounts with ease by setting passcodes and enjoy automatic login functionality.
+• Privacy Protection: Create a privacy zone with a passcode to safeguard your private accounts.
+
+Upgrade your app usage with Parallel Space, the ultimate solution for managing multiple accounts effortlessly.
+
+You can purchase an auto-renewable subscription to get full access. Your subscription will be charged to your iTunes account at confirmation of purchase. The subscription automatically renews for the same price and the duration period depends on the selected plan (weekly, monthly, yearly) unless canceled at least 24 hours before the end of the current period. You can turn off the auto-renewal feature at any time by changing your account settings. 
+
+Please choose from our standard subscription options below: 1-week subscription from $2.99; 1-month subscription from $9.99; 12-month subscription from $19.99. Prices may change depending on your country.
+
+Privacy Policy: https://appliks.com/privacy-policy
+​​Terms of Use: https://appliks.com/terms-of-use",2023-07-18T07:00:00Z,2025-09-02T09:15:09Z
+vn,Viet Nam,Reference,6006,17,728359831,Cambridge English Dictionary,Cambridge University Press & Assessment (App),https://apps.apple.com/vn/app/cambridge-english-dictionary/id728359831?uo=4,0.0,2.46341,451,Reference,"FREE PREVIEW 
+Full wordlist and sample entries are available to preview the dictionary content and to try the app functionality.
+_____________
+
+With 140,000 words, phrases and examples, meanings, British and American English word pronunciations, Cambridge Advanced Learner's Dictionary, fourth edition is trusted by millions of English learners worldwide. 
+
+Every dictionary entry has thesaurus sections that show related words, phrases and synonyms for each meaning, helping you to expand your English knowledge. Informed by the Cambridge International Corpus, the dictionary is ideal for IELTS, BEC and Cambridge English: First, Advanced, and Proficiency exam preparation. 
+
+User Reviews	
+***** Great for those who learn English. 
+***** My favorite dictionary ever!
+***** Smart thesaurus is awesome!!
+_____________
+
+Learning Features: 
+
+• British and American English audio pronunciations, recorded by native speakers
+• SMART Thesaurus feature gives you related words and phrases at every definition, , not just synonyms 
+• Flash Card Quiz to help you memorize new words
+• Favourites - to help you quickly access frequently searched words
+• Search History to revise your recent searches
+• Table of English Irregular Verbs provides a useful reference resource
+
+Search Features: 
+
+• CALD will understand and find a word from any grammatical form
+• iOS Share. Select any text on Safari sites, emails and share with CALD to get words’ definitions
+• Multiple clipboard look-up. Copy any text from other apps and view the words’ definitions one by one when you open the CALD
+• Full Text Search. Look up words throughout the whole dictionary content, including headwords and usage examples
+• Similar Words Search in case of misspelling
+• Wildcard Search. Use “?” and “*” symbols to replace letters if you’re unsure of the correct spelling. 
+• Anagram Search (e.g. tab-bat)
+• Hyperlinks between entries: tap on the word in the article to see its definition
+
+Interface Features: 
+
+• No Internet connection required
+• Modify animated menus and choose background colours
+• Enlarge or reduce font size for your comfort
+• PenReader multilingual handwriting recognition support
+
+
+About Cambridge
+Founded in the mid-16th century, Cambridge University Press is a world-leading publisher of English learning materials. Playing a leading role in today's global educational market, Cambridge University Press publishes titles written by authors in over 100 different countries.",2014-07-24T08:19:29Z,2020-06-16T11:16:13Z
+vn,Viet Nam,Reference,6006,18,1465903782,AR Translator: Translate Photo,BrainMount Ltd,https://apps.apple.com/vn/app/ar-translator-translate-photo/id1465903782?uo=4,0.0,4.59053,2745,Reference,"Get AR Translator now for instant AI-powered translation through speaking, taking a photo, typing, or using AR. Supporting over 100 languages, it makes communication easier than ever. Understand any language today!
+
+Key Features:
+
+● Photo Translation: Instantly replace foreign text in images with your language - no typing required.
+● Voice Translation: Speak naturally and get AI-powered, real-time translations.
+● Augmented Reality Translation: Point your camera to instantly translate words - live on screen.
+● Real-Time Camera Translation: Scan full paragraphs and see translations appear instantly as you move your camera.
+● Text Input: Type any phrase for fast, accurate translation.
+● AI Chat: Ask questions about your text or translations and get smart, context-aware answers.
+● AI Summary: Turn long articles, documents, or scanned pages into clear, concise summaries in seconds.
+● 100+ Languages: Seamlessly translate between over 100 languages.
+● Auto Language Detection: Automatically recognizes the source language - no guesswork needed.
+● Offline Mode: Translate voice, photos, and text anytime, anywhere - no internet required.
+● Listen: Hear natural-sounding audio playback of any translation.
+● Share: Copy or send translations instantly with one tap.
+
+Powered by Advanced AI
+
+Our proprietary artificial intelligence powers both OCR and voice recognition, delivering unmatched accuracy in camera and speech translation. With AI Chat and AI Summary, you go beyond word-for-word translation - ask clarifying questions, explore nuances, and distill lengthy content into clear, actionable insights.
+
+Join Millions of Satisfied Users
+
+AR Translator is trusted by millions worldwide for its accuracy, speed, and innovation. With numerous 5-star reviews, our app is regularly updated to ensure the best user experience.
+Whether you're a traveler, student, or professional, AR Translator is your all-in-one solution for real-time translation using your camera, text, voice, and augmented reality.
+
+Supported Languages:
+
+Afrikaans, Albanian, Amharic, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Burmese, Catalan, Cebuano, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, Esperanto, Estonian, Farsi, Fijian, Filipino (Tagalog), Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hmong, Hungarian, Icelandic, Igbo, Indonesian, Italian, Japanese, Javanese, Kannada, Kazakh, Khmer, Korean, Kyrgyz, Lao, Latin, Latvian, Lithuanian, Macedonian, Malagasy, Malay, Malayalam, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian, Nyanja, Pashto, Polish, Portuguese, Punjabi, Romanian, Russian, Samoan, Serbian, Sesotho, Shona, Sindhi, Sinhalese, Slovak, Slovenian, Somali, Spanish, Sundanese, Swahili, Swedish, Tajik, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Xhosa, Yiddish, Yoruba, Zulu.
+
+Subscription Information:
+
+* The free version of AR Translator allows a limited number of translations. To remove these limitations, please purchase a paid subscription.
+
+* Subscriptions with a free trial period will automatically convert to a paid subscription unless auto-renewal is turned off at least 24 hours before the expiration of the free trial period.
+
+* Your subscription will automatically renew unless you turn off auto-renewal at least 24 hours before the end of the current subscription period.
+
+* Payment will be charged to your Apple ID account.
+
+* You can manage your subscriptions, turn off auto-renewal, or cancel the free trial by going to your Apple ID account settings after purchase.
+
+How to cancel a subscription:
+https://support.apple.com/118428
+
+How to switch to a different subscription plan:
+https://support.apple.com/118448
+
+Terms of Service:
+https://ar-translator.com/terms
+
+Privacy Policy:
+https://ar-translator.com/privacy
+
+* AI-powered features may be unavailable or limited in some regions.",2019-08-09T07:00:00Z,2025-11-21T02:02:33Z
+vn,Viet Nam,Reference,6006,19,1018150472,Taiwan Drivers License Test,Yu Chin Chia,https://apps.apple.com/vn/app/taiwan-drivers-license-test/id1018150472?uo=4,0.0,3.12245,49,Reference,"""Taiwan Drivers License Test"" – 2025 Latest Taiwan (Car and Motorcycle) License Test Bank
+
+◎ Detailed explanations of questions to help you clarify concepts and deepen your memory
+
+◎ Integration of the latest real test question banks for both car and motorcycle licenses
+
+◎ Motorcycle test questions: Over 1800 latest questions (including scenario-based and perception questions)
+
+◎ Car test questions: Over 1400 latest questions
+
+◎ Big data analysis providing the most comprehensive question analysis
+
+◎ Comprehensive simulation tests for licensing exams
+
+◎ Thoughtful test records and error question display
+
+◎ Night mode to protect your eyes
+
+◎ Animated presentation of road test items
+
+A must-have tool for your driver's license exam preparation.",2015-07-15T16:38:35Z,2025-02-20T16:05:05Z
+vn,Viet Nam,Reference,6006,20,6471475844,Translate Rabbit,"HAPPY BLUE HOUSE CO.,LIMITED",https://apps.apple.com/vn/app/translate-rabbit/id6471475844?uo=4,0.0,3.18182,22,Reference,"Introducing our revolutionary translation app: Translate Rabbit；
+Break the language barrier and communicate easily, let us be your best translation partner. Whether you are traveling, on international business, or want to communicate with people from different cultures, this app is your go-to solution.
+With it, you can have a powerful translation tool anytime, anywhere. We try to ensure real-time, accurate translations so you can have smooth and in-depth conversations without the need for tedious language dictionaries or language learning. Say goodbye to the worries of difficult communication and embrace smooth understanding.
+The main function:
+1. Instant translation: Our app provides fast translation in multiple languages, allowing you to get what you need anytime, anywhere. Just type or speak your message and get translations quickly.
+2. Voice recognition: Communicate easily by using voice input. Just speak into the device and seamless translation converts your words into the desired language.
+3. Camera translation: Just point the camera at the text and you can instantly translate the text on the picture.
+4. User-friendly interface: Our app provides a simple and intuitive interface, making it easy for anyone to use. Enjoy a seamless user experience from start to finish.
+5. When relaxing, we have built-in word arrangement games, allowing you to learn languages through alphabet games in your spare time.
+Don't let language differences stop you from connecting with others.",2023-11-15T08:00:00Z,2025-08-01T01:44:51Z
+vn,Viet Nam,Reference,6006,21,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/vn/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,4.81034,58,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+vn,Viet Nam,Reference,6006,22,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/vn/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.41744,19727,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+vn,Viet Nam,Reference,6006,23,414849432,Vietnamese Dictionary Dict Box,Xung Le,https://apps.apple.com/vn/app/vietnamese-dictionary-dict-box/id414849432?uo=4,0.0,4.72156,51502,Reference,"Dict Box: Your All-in-One Vietnamese-English Dictionary and Translator
+
+Master Vietnamese and English with Dict Box, the ultimate offline dictionary and translator app designed for both learners and native speakers. Whether you're deciphering a complex text or navigating everyday conversations, Dict Box seamlessly bridges the language gap.
+
+- Unleash the Power of Offline Access
+Never let an internet connection hinder your language learning journey. Dict Box's comprehensive database of Vietnamese and English words ensures you have access to accurate translations anytime, anywhere.
+
+- Effortless Text Translation
+Translate entire sentences or paragraphs with ease. Dict Box's advanced text translation technology delivers natural-sounding translations that capture the essence of your message.
+
+- Smarter Word Suggestions
+Dict Box goes beyond a simple dictionary, providing intelligent word suggestions as you type. This predictive feature streamlines your search and helps you discover the perfect word for every occasion.
+
+- Consolidate Your Dictionary Collection
+Say goodbye to juggling multiple dictionaries. Dict Box houses a rich collection of Vietnamese and English dictionaries, all accessible within a single, user-friendly interface.
+
+- Translate Directly from Web Browsers and Apps
+Eliminate the hassle of switching between apps. Dict Box seamlessly integrates with web browsers and other apps, enabling you to translate text directly on the spot.
+
+- Enhance Your Pronunciation
+Master the correct pronunciation of Vietnamese and English words with Dict Box's integrated text-to-speech feature. Listen to audio pronunciations and refine your accent with confidence.
+
+- Visualize Words with Picture Dictionary
+Expand your vocabulary with Dict Box's vivid picture dictionary. Enhance your understanding of words by associating them with real-world images.
+
+- Stay on Top with Word Reminders
+Never forget a new word again. Dict Box's word reminder feature allows you to schedule personalized reminders to reinforce your vocabulary learning.
+
+- Expand Your Language Horizons
+Access a vast library of additional dictionaries available for installation. Tailor your Dict Box experience to your specific language needs and interests.
+
+
+***Upgrade to Premium to unlock advanced features***
+- Ad-free experience
+- Urban dictionary
+- Picture dictionary
+- Backup & sync across devices & platforms
+
+You can pay once for Premium
+or choose from 2 subscription options
+- a yearly subscription. 
+- a monthly subscription.
+
+– Payment will be charged to iTunes Account at confirmation of purchase.
+– Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+– Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+– Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://xung.app/privacy-policy/
+Terms: https://xung.app/terms/",2011-01-19T02:56:26Z,2024-06-22T19:56:16Z
+vn,Viet Nam,Reference,6006,24,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/vn/app/house-building-for-minecraft/id1497683446?uo=4,0.0,3.40964,166,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-02-27T08:00:00Z,2025-11-05T14:26:20Z
+vn,Viet Nam,Reference,6006,25,6503627060,Clone Apps - Parallel Space,Siddu Patil,https://apps.apple.com/vn/app/clone-apps-parallel-space/id6503627060?uo=4,0.0,4.4299,321,Reference,"Choose Clone Apps - Parallel Space! As one of the most downloaded, best rated cloning apps on the market, we help millions of users run dual or multiple accounts across top social apps
+
+- Do you want to use multiple WhatsApp or Facebook accounts on one device?
+- Do you want to separate your personal and professional accounts into their own dual spaces?
+
+Keep dual professional and personal accounts in Clone Apps - Parallel Space.
+- Maintain a good work life balance and keep your profiles separate.
+- Easily switch between work and personal accounts.
+- Ensure that your work data and contacts never mingle with your personal data.
+
+Key Features:
+
+Powerful, Stable, and User-Friendly: Clone Apps - Parallel Space is built to deliver a powerful and stable performance while maintaining user-friendly navigation.
+
+Unique Application Virtualization Engine: Clone Apps - Parallel Space stands out as a unique and innovative solution for multitasking.
+
+Here is our Privacy Policy : https://siddudualapps.blogspot.com/2024/06/privacy-policy.html
+Here is our EULA : https://siddudualapps.blogspot.com/2024/06/eula.html
+Here is our Terms Of Services : https://siddudualapps.blogspot.com/2024/06/terms-of-services.html",2024-06-04T07:00:00Z,2025-01-12T09:19:57Z
