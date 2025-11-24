@@ -1,0 +1,949 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+me,Montenegro,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/me/app/google-translate/id414706506?uo=4,0.0,4.28571,21,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2020-04-16T07:00:00Z,2025-11-21T16:58:32Z
+me,Montenegro,Reference,6006,2,879490940,Pravoslavni Kalendar,Ivan Marinkovic,https://apps.apple.com/me/app/pravoslavni-kalendar/id879490940?uo=4,0.0,3.5,4,Reference,"Pravoslavni Kalendar objedinjuje:
+
+- Crkveni kalendar, u periodu od 2012. do tekuće godine. sa dnevnim prikazom datuma po gregorijanskom i julijanskom kalendaru, mesečeve mene i vrste posta. Crkveni kalendar automatski prilagođava pokretne praznike i postove za svaku godinu prema Vaskrsu kao i mesečeve mene.
+- Praznike i krsne slave. Svaki praznik i krsna slava, osim datuma sadrže i ikonu kao i žitije sveca.
+- Molitvenik, sa više od pedeset molitvi.
+- Izračunavanje datuma Vaskrsa, kao i katoličkog Uskrsa, jednostavnim unosom godine.
+- Lista višednevnih i jednodnevnih postova za odabranu godinu sa datumima po novom i starom kalendaru.
+- Lista svih vašara u Srbiji grupisanih po mesecima.
+- Lista svih pazarnih dani u Srbiji grupisanih po danu u nedelji.
+
+- ""Today Widget""
+- Stikeri za iMessage
+
+---
+
+The Pravoslavni Kalendar comprises:
+
+- The church calendar, for the period between 2012. and current year, with daily date review according to Gregorian and Julian calendar, the moon phases and fast types. The church calendar automatically adjusts moveable holidays and fasts for every year according to Easter as well as the moon phases.
+- Holidays and Patron saints day dates. Every Holiday and Patron saints day, besides the date, also contain the saint icon as well as his biography.
+- Prayer book, with more than fifty prayers.
+- Easter date calculation, as well as Catholic Easter date, by simply entering the year.
+
+- ""Today Widget""
+- Stickers fro iMessage App
+
+Application is in Serbian language.",2020-04-15T07:00:00Z,2022-07-25T14:58:53Z
+me,Montenegro,Reference,6006,3,1369978974,Kalendar Pravoslavni,Nikola Corlija,https://apps.apple.com/me/app/kalendar-pravoslavni/id1369978974?uo=4,0.0,4.9,40,Reference,Srpski pravoslavni crkveni kalendar za period od 2015. do 2030. godine.,2020-04-10T07:00:00Z,2024-07-01T13:54:23Z
+me,Montenegro,Reference,6006,4,1634551626,CoinSnap: Coin Identifier,Next Vision Limited,https://apps.apple.com/me/app/coinsnap-coin-identifier/id1634551626?uo=4,0.0,4.86667,15,Reference,"With 300,000+ coin types, 99% recognition accuracy, and an AI-powered database, CoinSnap is a companion for coin enthusiasts. Whether you're identifying a rare error coin, uncovering the value of a hidden gem, or organizing a collection of hundreds of coins, CoinSnap makes it fast, easy, and fun to explore the fascinating world of numismatics.
+
+Key Features:
+AI-Powered Coin Recognition
+Instantly identify coins from around the globe with a quick photo or upload.
+Coverage of over 240,000 coin types with an impressive 99% recognition accuracy.
+Supports high-resolution photography for precision results.
+
+Comprehensive Coin Information
+Receive detailed overviews, including coin name, origin, year of issue, mint count, and more.
+Check rarity levels and access up-to-date market prices.
+Explore multiple coin encyclopedias for in-depth knowledge.
+
+Professional Coin Analysis
+Identify rare misprinted coins with expert analysis reports.
+Access coin grading reports with detailed breakdowns and estimated market values.
+Backed by insights from professional numismatists.
+
+Smart Collection Management
+Create and manage your personalized coin collection effortlessly.
+Organize coins by series and track the total value of your collectibles.
+Keep your collection secure and accessible anytime.
+
+Why Choose CoinSnap?
+Lightning-fast and accurate coin recognition.
+Extensive database covering coins from every corner of the world.
+All-in-one solution for identification, grading, and collection management.
+
+About CoinSnap Premium 
+-Subscription Name: CoinSnap Premium (Yearly with Trial) 
+-Subscription Duration: 1 year (7 days trial) 
+-Subscription Description: Unlock all Premium features. 
+
+• Payment will be charged to iTunes Account at confirmation of purchase 
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period 
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal 
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable 
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase 
+
+Please note that terms and conditions, as well as our privacy policy, apply. 
+Terms of Use: https://app-service.coinidentifierai.com/static/user_agreement.html  
+Privacy Policy: https://app-service.coinidentifierai.com/static/privacy_policy.html 
+Contact us: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+me,Montenegro,Reference,6006,5,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/me/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,5,1,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+me,Montenegro,Reference,6006,6,6753166395,True Heritage & Ancestry: EDNA,MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI,https://apps.apple.com/me/app/true-heritage-ancestry-edna/id6753166395?uo=4,0.0,0,0,Reference,"Your face is a time machine with EDNA. Our advanced technology generates a stunning photo of your ancestors and reveals your true origin story. See who you really are. All from just one selfie.
+
+Forget boring family trees that end in names on a chart. We offer a tangible connection. Our technology renders a lifelike, era-authentic portrait of ancestors you’ve never met, capturing a plausible likeness with a strangely familiar face. It’s a jaw-dropping, shareable moment of connection when you see your own eyes, your smile, looking back at you from another time. This is the family photograph that was never taken.
+
+But the portrait is just the beginning. It’s your entry point into a complete Ancestral Report, a deep dive into the elements that define your heritage.
+
+First, discover your true origins with a detailed, percentage-based breakdown of your nationality. Go beyond continents to see the specific blend of cultures that make up your unique identity, revealing connections you never knew existed. Then, we reveal their story. Learn about the specific city your ancestors likely called home, the authentic craft they dedicated their lives to, and even the historical diet that fueled their world.
+
+Your origin story doesn't just end in the past—it echoes in your present. The resilience of a frontiersman, the precision of an artisan, the creativity of a storyteller; these are more than historical facts, they are potential traits within you. We connect your heritage to your life today, offering unique insights for modern careers and lifestyles that may align with these ancestral strengths. It’s a powerful new way to understand your own passions and potential.
+
+Join a growing community of people discovering themselves in a completely new way. The stories and portraits generated by EDNA are sparking conversations, connecting families, and helping people see their own identity in a richer, deeper light. It's a unique experience everyone is talking about.
+
+This isn’t a guess. Our analysis is powered by a vast database of real historical records, cultural trends, and geographic data. This robust framework allows us to create a narrative that feels both magical and deeply plausible. We are committed to your privacy; your photo and personal data are always secure and are never shared.
+
+To analyze your photos and create your unique ancestral story, you’ll need a True Heritage Pro subscription. The Pro subscription allows you to unlock full access to detailed reports, including Explore Your Ancestors, Explore Your Origins, Your Ideal Partner, and Your Past Life. Please note that photo analysis and viewing the complete content of any generated reports are premium features available only to subscribers
+
+Subscriptions:
+To access all premium content we have subscription packages. Subscription periods are 1 week and 1 year. Every week or year your subscription renews.
+1 week subscription price is $5.99 and 1 year price is $29.99.
+
+Subscriptions will automatically renew unless cancelled at least one day before the renewal date within 24 hours before the end of the current period. Payment will be charged to your Apple ID account at the confirmation of purchase. You can manage and cancel your subscription by going to your account settings in the App Store
+
+Download True True Heritage & Ancestry: EDNA now and finally meet your ancestors.
+--
+
+Privacy Policy: https://www.mobiversite.com/privacypolicy
+Terms & Conditions: https://www.mobiversite.com/terms
+EULA: https://www.mobiversite.com/eula",2025-10-03T07:00:00Z,2025-11-21T18:52:10Z
+me,Montenegro,Reference,6006,7,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/me/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,0,0,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-02-07T08:00:00Z,2025-11-14T09:53:01Z
+me,Montenegro,Reference,6006,8,880811847,UniChar — Unicode Keyboard,Jordan Hipwell,https://apps.apple.com/me/app/unichar-unicode-keyboard/id880811847?uo=4,0.0,0,0,Reference,"UniChar is a powerful yet beautiful Unicode character app and keyboard that allows you to quickly find, type, and work with special symbols.
+
+◣
+“UniChar is a cool little app and keyboard, and offers access to a huge world of Unicode characters that are otherwise absent within the standard iOS keyboard.” 
+– iDownloadBlog
+
+""On the Mac, you can type any character [with] the Emoji & Symbols viewer ... The selection on iOS is much more limited ... But UniChar changes that.""
+– Cult of Mac
+
+""This iOS keyboard app will give you all the Unicode characters you’ll ever need."" 
+– lifehacker
+
+“It’s a full-featured utility for searching and copying symbols … it’s always nice to see a developer who’s dedicated to improving this kind of utility over time and adopting new features … it's a very handy app.”
+– AppStories
+◤
+
+UniChar features thousands of symbols organized neatly into categories as well as a complete Unicode table.* You can quickly search for the symbol you’re looking for by name or by drawing, type symbols in any app with the custom keyboard, and collect your favorite symbols to access them even quicker.
+
+For developers, UniChar is an efficient tool to work with Unicode code points and HTML entities. Revamp your workflow with Universal Clipboard – copy on your iPhone, paste on your Mac. Or use UniChar alongside other apps with Multitasking support on iPad.
+
+App
+◉ Work with characters and their info – name, code point, HTML entity
+◉ Browse curated categories in grid or list view
+◉ Access the entire Unicode table by character blocks
+◉ Jump to a specific block or code point
+◉ Search for symbols by name, info, or even by drawing**
+◉ Collect and organize your favorite symbols
+◉ Quickly copy character info to the clipboard
+◉ Insert symbols into the text field and compose text using the system keyboard
+◉ Share your text via Messages, Mail, Mastodon, etc – or open the text in other apps like Pages
+
+Keyboard
+◎ Type special symbols in any app
+◎ Browse curated categories of symbols
+◎ Quickly input your recently used and favorite characters
+◎ Designed to compliment the Emoji keyboard
+
+Widgets
+■ Add your favorite symbol to your Lock Screen
+■ View stats for how many drawings you've submitted to help improve Search by Drawing
+
+Apple Watch
+◆ Add your favorite symbol to your watch face
+◆ Quickly access your favorites and recents
+◆ Copy character info to your iPhone’s clipboard
+
+iMessage and FaceTime
+◇ Send symbol stickers to your friends
+◇ Create stickers for any Unicode character
+◇ Utilize your stickers in FaceTime and the Messages camera
+
+And More
+● Beautiful and simple design
+● Light and dark mode
+● Handoff support
+● Spotlight Search integration
+● Drag and Drop
+● Keyboard shortcuts and navigation
+● Multitasking support including Split View, Slide Over, and Multiple Windows
+● Support for adding links to characters in Quick Note
+● Siri integration including support for 'Hey Siri remind me about this' and 'Hey Siri share this'
+● Accessibility support including Dynamic Type, VoiceOver, and Voice Control
+● Universal app for iPhone, iPad, and Apple silicon Mac
+● No ads, no tracking, no subscriptions
+
+* All Categories can be unlocked via a one-time in-app purchase.
+
+** Search by Drawing is powered by machine learning algorithms. As you draw, an on-device convolutional neural network processes your drawing to predict which symbols it matches. You can help improve symbol recognition by submitting your own drawings!",2020-04-10T07:00:00Z,2025-06-05T13:30:40Z
+me,Montenegro,Reference,6006,9,1333048941,Mi Volkswagen,Volkswagen do Brasil Industria De Veiculos Automotores Ltda,https://apps.apple.com/me/app/mi-volkswagen/id1333048941?uo=4,0.0,0,0,Reference,"Bienvenido a la aplicación My Volkswagen: descárgala ahora y descubre la forma más inteligente de explorar tu automóvil.
+
+
+
+
+
+La aplicación permite a todos los conductores de automóviles Volkswagen**:
+
+
+
+Programar servicios de revisión y mantenimiento en los concesionarios de la red*
+
+
+
+Registrarse y llamar a contactos de emergencia y compañías de seguros
+
+
+
+Tener todos los datos del vehículo a mano siempre que los necesite
+
+
+
+Busque y elija su concesionario favorito
+
+
+
+Contacto con el centro de relación con el cliente
+
+
+
+
+
+**Vehículos fabricados a partir de 2020*.”
+
+*aplican restricciones",2020-04-19T07:00:00Z,2023-04-04T15:25:27Z
+me,Montenegro,Reference,6006,10,6444025089,"Private Browser, Search Engine",FAST Browser,https://apps.apple.com/me/app/private-browser-search-engine/id6444025089?uo=4,0.0,5,1,Reference,"Private Browser provides a secure browsing experience with safe internet surfing. It gives a default incognito screen with no tracking and history record. The user has complete control over his privacy as he can control whether to save bookmarks and history. 
+
+Private Browser is not only for those looking for anonymous internet browsing but also for fast internet browser users. It has the ultimate user experience which gives complete interface customization to the user. You can set the theme according to your style.
+
+The Private Browser is equipped with:
+
+Incognito Tab
+When you use incognito mode while browsing the internet, your device will not retain any evidence of your activity. A private browser will not keep track of the sites you have visited or saved your search history, nor will it remember your username or password.
+
+Bookmark your webpage
+A bookmark saves a website's URL for future reference in a safe browser. Bookmarks save user and browser time, especially when accessing a website's homepage or a specific section that is not the homepage. A bookmark is a tool that saves the location of a website for future reference.
+
+Search History
+A user's web browsing history includes a list of web pages visited as well as page titles and visit times. Secure browser includes a private browsing mode in which browsing history is not recorded. This is to safeguard against third parties collecting browsing history for targeted advertising or other purposes.
+
+Find In Page
+It can be difficult to locate a specific element on a long or complex web page, like finding a needle in a haystack. When you open the Private browser find-in page, simply click in the text input field and type in a word or phrase. The Safe browser will highlight all occurrences of your search query on the page, and you may cycle through them, up and down the page, using the arrows on the search bar. 
+
+Share with friends
+Now you can seamlessly share webpages with whoever you want through the private browser. 
+
+Search Engine
+Private Browser brings you multiple search engines so you never have to stick with one. 
+Google
+Bing
+Yahoo
+Wikipedia
+WolframAlpha
+Ecosia
+DuckDuckGo
+Qwant
+
+Music Player:
+Listen to your favorite music in complete privacy with our new music player integrated into our private browser. Our state-of-the-art encryption technology ensures that your listening history remains completely private, while our user-friendly interface and high-quality sound make for an unparalleled listening experience. Enjoy the best of both worlds with our music player in private browser.
+
+Using a Private Browser, you can take advantage of the latest web developments to keep yourself safe and secure while browsing the web. Thanks to Private Browsing Mode and Apple Intelligent Tracking Prevention (ITP), you can browse the web privately and anonymously.
+
+
+Privacy Policy:
+https://docs.google.com/document/d/1uKhXIVcDlFP7R12hiNgHNlCM4tz0b1MHFfYNEvZS7E0/edit?usp=sharing
+Terms & Conditions:
+https://docs.google.com/document/d/1-D6NgTS5GWwa1A4F3cJFt2tw0YcEReV3NGjr_x9FY3c/edit?usp=sharing",2022-11-21T08:00:00Z,2025-05-05T08:02:38Z
+me,Montenegro,Reference,6006,11,6740403566,Deen Buddy - Quran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/me/app/deen-buddy-quran-chat/id6740403566?uo=4,0.0,5,9,Reference,"Deen Buddy – AI Quran, Daily Verses & Prayer
+
+Deen Buddy is your AI-powered Islamic companion. Get instant answers to Quranic questions, receive daily inspirational verses, and stay on track with accurate prayer time notifications.*
+
+AI Quran Chat
+• Ask any Quran-related question and get AI-powered answers.
+• Understand meanings, tafsir, and historical context easily.
+• Personalized responses based on authentic sources.
+
+Daily Quran Verses
+• Receive daily inspirational Quranic verses.
+• Bookmark and share your favorite ayahs effortlessly.
+• Enhance your understanding of the Quran one verse at a time.
+
+Prayer Time Notifications
+• Accurate prayer time alerts based on your location.
+• Customizable Athan notifications so you never miss a Salah.
+• Supports multiple calculation methods for accuracy.
+
+Why Choose Deen Buddy?
+• AI-powered Quran chat for instant insights.
+• Daily Quran verses to keep you inspired.
+• Prayer time alerts for timely worship.
+• Minimalist and distraction-free experience.
+
+Download Deen Buddy now and strengthen your connection with the Quran.
+
+**Access to Deen Buddy requires a paid subscription**
+
+Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+me,Montenegro,Reference,6006,12,6752773778,HappyMood - All Games Library,Calliope State School,https://apps.apple.com/me/app/happymood-all-games-library/id6752773778?uo=4,0.0,3,2,Reference,"HappyMood – Discover Games Made for You
+
+Are you a true gamer looking for one place to explore everything about games? HappyMoods is your ultimate companion! With a huge database of games, you can easily search, discover, and enjoy all the details you need in one simple app.
+Explore a Massive Library HappyMood Browse through a wide range of games across different styles and categories. Whether you love action, adventure, puzzle, or strategy, HappyMods brings everything together in one place.
+Watch Trailers & Gameplay Before playing, get a real taste of the game! Watch trailers and gameplay videos to see exactly what the game looks like.
+Save Your Favorites HappyMood Build your own personalized collection of favorite games. Add the ones you love and come back to them anytime.
+Track Games You Like Never lose track of a game again. Follow the games you’re interested in and keep them organized in your list.
+Choose Your Mood Not sure what to play? Select your mood and HappyMod will recommend games that match how you feel at that moment. Fun, relaxing, scary, or exciting – there’s always a game waiting for you.
+Test Your Knowledge Think you know everything about games? Try our quiz and challenge yourself with fun questions to see how much of a gaming expert you are.
+All-in-One Gaming Experience HappyMood makes it easy for you to discover new games, keep track of your favorites, enjoy videos, and even test your knowledge. It’s everything a gamer needs – simple, clear, and always fun.
+With HappyMod, finding the perfect game has never been easier.",2025-10-02T07:00:00Z,2025-10-02T13:25:12Z
+me,Montenegro,Reference,6006,13,1663862037,EveryScan・Identifier & AI Lens,Conlan Limited,https://apps.apple.com/me/app/everyscan-identifier-ai-lens/id1663862037?uo=4,0.0,0,0,Reference,"Introducing EveryScan — your ultimate mobile companion app that transforms your smartphone into an advanced visual encyclopedia. Harness the power of cutting-edge AI image recognition to swiftly identify and gain insights on the world around you, directly from your mobile device.
+
+Animal Identification
+Curious about ""what animal is this""? Use EveryScan to instantly identify animals, including specific breeds and characteristics. From cat breed recognizers to dog breed identifiers, this mobile app is your essential tool for comprehensive animal recognition.
+
+Insect and Reptile Recognition
+Dive into the insect world with our bug identifier. Capture images of caterpillars, spiders, and snakes using your mobile device, and learn about their characteristics and safety through our snake identifier, addressing questions like ""what kind of snake is this?""
+
+Mushroom and Plant Insights
+Simply snap a picture to identify plants and fungi safely with your phone. Our app's flower and mushroom identifiers provide detailed care tips and safety information, directly enhancing your botanical knowledge.
+
+Coin and Jewelry Examination
+Easily scan coins and jewelry with your mobile to determine their value and history, answering queries like ""how much are my coins worth?"" Our coin scanner feature helps you check your coins' worth and origins swiftly.
+
+Culinary Exploration
+Identify food items, dishes, and recipes while accessing nutritional details right from your mobile device. Recognize dishes and their caloric content with ease, enhancing your culinary knowledge.
+
+AI-Powered Features
+- Accurate image recognition tailored for mobile use
+- Instant object detection via your smartphone
+- Universal object identifier: insect identifier, dog breed identifier, flower identifier, spider, snake identifier, etc.
+- Real-time searching and scanning through your mobile
+- Comprehensive data on everything from animals to everyday items
+- Save and mark favorites for easy mobile access
+
+Effortless Exploration
+Skip search engines—just take a picture and identify items instantly using your phone. EveryScan integrates seamlessly with your mobile, offering an all-in-one picture identifier and AI image search capability. Unlock the secrets around you with curiosity and confidence. Download EveryScan today, and discover a world of knowledge at your fingertips.
+
+Privacy Policy: http://aiscanner.co/pp
+Terms of Use: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+me,Montenegro,Reference,6006,14,6503387382,Haven - Bible Chat,E12 Holdings LLC,https://apps.apple.com/me/app/haven-bible-chat/id6503387382?uo=4,0.0,5,18,Reference,"Step Into the Living Word! 
+
+Haven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt prayers right in your pocket, every moment becomes an opportunity to grow in faith.  
+
+Tap to explore the Bible, dive into rich verse citations, or ask Haven anything—God’s wisdom will flood your heart, strengthen your relationships, and reshape your life in beautiful, unexpected ways. Track your daily streak and feel the joy of bold, thriving faith. 
+
+Your spiritual journey is calling! Chat with Haven anytime, anywhere.
+
+Questions or feedback? We’d love to hear from you at havenappcontact1@gmail.com
+
+Terms: https://www.e-twelve.com/terms
+
+**Access to Haven requires a paid subscription**",2024-06-03T07:00:00Z,2025-11-21T23:31:56Z
+me,Montenegro,Reference,6006,15,374050672,Athkar - أذكار,Fares Fares,https://apps.apple.com/me/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4,0.0,0,0,Reference,"The best Athkar app / azkar (Daily Islamic Prayers) in Arabic & English languages. Free app with the option to subscribe to the exclusive version with extra features. 
+
+Quran (iOS 17+)
+Accurate prayer times based on your current location
+Adhan/azan in different voices with notifications
+Qibla Direction
+Morning Athkar
+Evening Athkar
+Roquia
+Travel prayer
+Names of Allah
+Dark Mode option
+Supports Apple Watch
+Supports iPad
+Supports macOS with M1 chips
+Friday sunnah reminder
+White Day Fasting Reminder
+Counter / Subha
+Hajj and Umrah
+Islamic greeting cards: Eid Mubarak - Ramadan Kareem.
+Prayer times for the Apple Watch faces 
+Create your own Athkar / Azkar and get notifications for any athkar you created. 
+iCloud sync support
+
+
+أفضل تطبيق أذكار بشهادة المستخدمين، تطبيق اذكار مجاني سهل الاستخدام يشمل على الأذكار و الأدعية المهمة من الكتاب و السنة و أوقات الصلاة و المصحف و اتجاه القبلة - اذكار الصباح و المساء - الأذكار عند النوم والاستيقاظ - أدعية من القران الكريم - الرقية الشرعية من القرآن و السنة - من دعاء الرسول صلى الله عليه و سلم 
+
+---   مزايا التطبيق   ---
+يدعم الايفون والايباد
+يدعم ساعة ابل
+أوقات الصلاة
+مواقيت الصلاة في مدينتك
+حساب دقيق لمواقيت الصلاة
+الأذان بأصوات مختلفة
+بوصلة لتحديد اتجاه القبلة - مكة 
+اذكار الصباح
+اذكار المساء
+أذكار النوم 
+الرقية الشرعية
+ادعية الصلاة
+دعاء السفر
+حصن المسلم
+دعاء الرسول صلى الله عليه و سلم
+اسماء الله الحسنى
+الحج والعمرة
+أذكار مقسمة حسب المناسبة
+شكل جذاب لتسهيل القرأة
+خاصية القراءة الليلية
+خاصية البحث
+ادعية للميت
+ادعية للمريض
+أدعية الزوج و الزوجة
+أدعية الأبناء
+أدعية الأم و الأب الوالدين
+خاصية المنبه لأذكار الصباح و المساء
+منبه الفجر - فعّل منبه الفجر وحدد الوقت، وسيتم ضبط منبه الجهاز تلقائيًا, حتى لو كان الجهاز في وضع الصامت.
+منبه صلاة الضحى
+منبه يذكرك بأذكار منوعة عدة مرات في اليوم
+تذكير صيام الايام البيض
+تذكير سنن يوم الجمعة
+عداد الكتروني و سبحة للمساعدة على عد الأذكار
+صوت للاذكار بصوت الشيخ مشاري العفاسي
+يمكنك تسريع الملف الصوتي للأذكار
+سهولة تصفح الأذكار
+صفحات مرقمة
+مفضلة
+بطاقات معايدة إسلامية : عيد مبارك - رمضان كريم.
+قائمة للاذكار في كل قسم للوصول إلى الدعاء المطلوب بسهولة
+اماكنية ارسال كل دعاء عن طريق البريد الالكتروني، الرسائل النصية،  فيس بوك و تويتر وغيرها 
+صفحة للاعدادت سهلة الاستخدام للتحكم في شكل البرنامج  و تصغير او تكبير الخط وغيرها الكثير
+دعم اتجاه القبلة للمكفوفين
+مواقيت الصلاة في ساعة ابل
+عرض الصلاة القادمة أو التاريخ الهجري في واجهة الساعة
+وقت وتذكير الثلث الأخير من الليل.
+
+--- أذكار خاصة بك ---
+خاصية اضافة الاذكار
+اضافة الاقسام حسب رغبتك 
+تحرير و تغير مكان الاقسام 
+حذف الاقسام و محتوياتها
+اضافة ذكر أو دعاء جديد لأي قسم معين. 
+اضافة عداد لأي دعاء. 
+تحرير أي دعاء أو نقل مكانه. 
+نقل الدعاء من قسم إلى آخر.
+نسخ كامل للأذكار الرئيسية في التطبيق مثل أذكار الصباح و التحكم بها و حذف أو اضافة اي ذكر إليها.
+يمكنك نقل كل محتوى أذكاري اي جهاز ثاني أو ارساله إلى احد اقربائك أو اصدقائك.
+دعم مزامنة محتوى قسم أذكاري مع حسابك في iCloud 
+اذا استخدمت نسخة من تطبيق أذكار في جهاز ثاني يمكنك مشاهدة نفس محتويات اذكاري والمفضلة والعداد.  
+يمكنك استلام تنبيهات لكل قسم في أذكاري
+أدعية شاملة في صفحة واحدة تحتوي 
+
+---   النسخة الحصرية   ---
+أذكار للاحبة يمكنك من خلال القسم اضافة ملف خاصة لشخص عزيز عليك مريض متوفي أو للوالدين أو الزوج أو الزوجة أو الأبناء و سيقوم التطبيق بإنشاء أدعية في مكان واحد لهذا الشخص يمكنك الرجوع اليها أي وقت أو تفعيل خاصية التذكير اليومية.
+كتيب الأذكار يمكنك اهداء الكتيب لمن تشاء بصيغة PDF
+التقويم الهجري
+التقويم الميلادي
+قسم خاص بـ رمضان
+قسم خاص بـ يوم الجمعة
+ سورة الكهف
+تحول التاريخ الهجري إلى الميلادي و العكس 
+مواقيت الصلاة للشهر الهجري أو الميلادي واي شهر اخر في نفس السنة
+يمكن مشاركة مواقيت الصلاة ليوم معين كصورة في منصات التواصل مثل الواتساب أو سنات شات أو اسنتجرام Stickers
+يمكن مشاركة أو تحميل مواقيت الصلاة لشهر معين بصيغة ملف PDF
+متى رمضان القادم و عيد الفطر و عيد الاضحى 
+مناسبات هجرية 
+الأيام البيض وقتها و فضلها 
+السنن الرواتب 
+دعاء ختم القرآن 
+دعاء القنوات
+اضافة التاريخ الهجري على ايقونة التطبيق
+تغير شكل ايقونة التطبيق 
+تغير لون الخلفية",2020-04-11T07:00:00Z,2025-11-18T20:56:54Z
+me,Montenegro,Reference,6006,16,282935706,Bible,Life.Church,https://apps.apple.com/me/app/bible/id282935706?uo=4,0.0,4.95812,191,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2020-04-18T07:00:00Z,2025-11-19T16:02:20Z
+me,Montenegro,Reference,6006,17,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/me/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.8,80,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2020-04-10T07:00:00Z,2025-11-13T13:29:55Z
+me,Montenegro,Reference,6006,18,1447056625,Namaz App: Learn Salah Prayer,Nursultan Askarbekuly,https://apps.apple.com/me/app/namaz-app-learn-salah-prayer/id1447056625?uo=4,0.0,5,24,Reference,"Learn Salah/Namaz from scratch, memorize surahs of the Quran, learn Dua, and check prayer times. Suitable for beginners.
+
+What is Namaz?
+Namaz is the daily muslim prayer, also known as Salat or Salah. It is one of the five pillars of Islam and the best way of worshipping Allah the Almighty.
+
+Description:
+This app is an audio player for you to listen to the correct pronunciation of the prayers in Arabic. It will help you to learn the dua-invocations and parts of the Quran that are read inside the prayer. You will also have the texts in English transliteration and some illustrations to help you navigate through the process. All content is in accordance with the rules of the Hanafi school of law.
+
+Important to understand, that this is a companion app, and it is not sufficient to fully learn the prayer on its own. We also strongly recommend that you learn to read Arabic, as English letters and phonemes are not sufficient to convey all sounds found in Arabic. Learning to read Arabic will allow you to perform your prayers in the best way and will give you access to the Holy Quran. The easiest and most effective way to learn both prayer and reading Arabic is to find a good teacher.
+
+Attribution:
+- Prayer images were kindly provided by the Muslim web portal Azan.kz
+- Prayer times are fetched from the open API of Aladhan.com
+- The Charity elements icon pack used in the ""Support us"" module was created by Eucalyp - Flaticon (https://www.flaticon.com/packs/charity-elements-4)
+- The Calendar icon  used in the ""Recurring Donation"" screen was created by Freepik - Flaticon (https://www.flaticon.com/free-icons/year)
+
+The Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-04-13T07:00:00Z,2025-11-11T23:36:12Z
+me,Montenegro,Reference,6006,19,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/me/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,0,0,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+me,Montenegro,Reference,6006,20,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/me/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.36364,11,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2020-04-10T07:00:00Z,2025-11-03T07:39:48Z
+me,Montenegro,Reference,6006,21,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/me/app/house-building-for-minecraft/id1497683446?uo=4,0.0,0,0,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-04-17T07:00:00Z,2025-11-05T14:26:20Z
+me,Montenegro,Reference,6006,22,1508145861,Vaktija.eu,Rasid Redzic,https://apps.apple.com/me/app/vaktija-eu/id1508145861?uo=4,0.0,4.94118,17,Reference,"Vaktija.eu sadrži vremena Islamske zajednice Bošnjaka i nudi vam lokacije sljedećih država: Bosna i Hercegovina, Njemačka, Luksemburg, Švedska, Norveška, Danska, Švicarska, Nizozemska, Sandžak, Crna Gora, Srbija, Austrija, Hrvatska. Također imate mogućnost koristiti različite jezike: bosanski, njemački, francuski, nizozemski, švedski, luksemburški.
+
+- Zvanična vremena Islamske zajednice Bošnjaka
+- Odabir više evropskih lokacija
+- Prikaz gregorianskog i hidžretskog datuma
+- Višejezični interfejs aplikacije
+- Mogućnost mjenjanje teme
+- Provjera namaskih vremena za narednih 5 dana
+- Odbrojavanje vremena do namaza
+- Podešavanje notifikacija za najavu namaskih vremena
+
+Web stranica: https://vaktija.eu/
+Facebook: https://www.facebook.com/vaktija.eu
+Kontakt mail: support@vaktija.eu",2020-04-16T07:00:00Z,2025-11-03T21:42:09Z
+me,Montenegro,Reference,6006,23,6745849589,Сербский переводчик,ANDREI LEBEDEV,https://apps.apple.com/me/app/%D1%81%D0%B5%D1%80%D0%B1%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA/id6745849589?uo=4,0.0,0,0,Reference,"Сербский переводчик — ваш помощник для общения и изучения.
+
+Понимайте сербский язык легко! Переводите слова, фразы и тексты с русского на сербский и обратно — легко и удобно.
+
+    Все ваши переводы всегда под рукой в истории
+
+    Общайтесь с сербами в Viber, Telegram, Facebook
+
+    Родители выбирают нас — дети действительно учат язык
+
+    Ищите информацию в Google и Google Maps на сербском
+
+    Переводите быстро и точно прямо с телефона
+
+    Бесплатно — начните уже сегодня!
+
+Скачайте приложение и раскройте новые возможности общения в Сербии.",2025-05-29T07:00:00Z,2025-10-03T18:00:25Z
+me,Montenegro,Reference,6006,24,6744892450,App Cloner: Dual Space,Himanshu Nariya,https://apps.apple.com/me/app/app-cloner-dual-space/id6744892450?uo=4,0.0,0,0,Reference,"App Cloner: Dual Space is the ultimate solution for running multiple accounts, cloning apps, and managing dual apps on a single device. Whether you're managing personal and work social media, playing games with multiple IDs, or chatting across platforms, this app provides a smooth and secure experience without switching or logging out.
+
+Top Features:
+
+-  Dual App Support: Easily clone popular apps like WhatsApp, Facebook, Instagram, or Messenger and run two accounts simultaneously.
+-  Multiple Game Accounts: Enjoy gaming with different player profiles on the same phone.
+-  Custom App Icons & Names: Personalize cloned apps with custom names and icons for a clean, organized layout.
+-  Create Your Own Avatar: Design a fun digital version of yourself to use across your profiles or in cloned apps.
+-  App Locker (PIN Protected): Lock your cloned apps to protect personal chats and private data.
+-  Direct Chat Access: Send messages on WhatsApp or Telegram without saving contacts to your phone.
+-  Lite & Fast Performance: Designed to be lightweight, fast, and battery-efficient for smooth multitasking.
+
+App Cloner: Dual Space combines power, privacy, and performance, making it the perfect tool for users who want to keep work-life balance, multiple social identities, and private app spaces on a single device.
+
+Privacy Policy: https://happcloner.blogspot.com/2025/04/privacy-policy.html
+Terms & Condition: https://happcloner.blogspot.com/2025/04/terms-condition.html
+
+EULA:
+https://happcloner.blogspot.com/2025/04/eula.html
+
+Support US: himanshunariya22@gmail.com",2025-04-22T07:00:00Z,2025-05-20T08:28:59Z
+me,Montenegro,Reference,6006,25,6748571304,SalahScreen: Prayer Focus,Rayane Sahi,https://apps.apple.com/me/app/salahscreen-prayer-focus/id6748571304?uo=4,0.0,0,0,Reference,"SalahScreen automatically blocks distracting apps when it's time to pray so you can show up for worship without the battle. No willpower needed. Just presence.
+
+THE PROBLEM YOU KNOW TOO WELL
+
+You know you should pray on time. But your phone knows how to keep you scrolling. One notification becomes five minutes. Five minutes becomes a missed prayer. And even when you do pray, your mind is still half-tangled in what you just saw on your screen.
+
+You're not weak. Your brain has been conditioned for constant stimulation. Prayer requires the opposite: stillness, focus, presence. SalahScreen bridges that gap.
+
+HOW SALAHSCREEN WORKS
+
+Auto-Schedules from Adhan
+Prayer times trigger automatic blocking windows. Fajr, Dhuhr, Asr, Maghrib, Isha—your phone knows when it's time, so you don't have to remember.
+
+Choose What Gets Blocked
+Select by category (Social, Video, Games) or tap individual apps. Clear ""Blocked"" badges show what's paused during prayer.
+
+Pray to Unblock
+When prayer time ends, a gentle prompt asks if you have prayed. Resume intentionally, not impulsively. Need flexibility? Quick Pause gives you 5 minutes.
+
+Post-Prayer Reflection
+Close each prayer with a 30-second journal. Add quick tags, write a note, or just breathe. Turn ritual into remembrance.
+
+Daily Ayah & Hadith
+Arabic text with translation. Simple daily inspiration to keep you connected.
+
+Build the Habit
+Track streaks and consistency. No pressure. No guilt. Just clarity on your progress.
+
+WHAT YOU'LL EXPERIENCE
+
+- Instant relief – No more battling yourself at prayer time. The apps are just... gone.
+
+- Improved focus within days – Your mind learns that prayer time means prayer, not multitasking.
+
+- Sustainable routine in 3 weeks – Consistency without willpower. The habit builds itself.
+
+- Spiritual transformation over months – Prayers that feel present. Connection that feels real.
+
+YOU'RE NOT ALONE IN THIS
+
+""I used to feel so guilty missing prayers because I got lost scrolling. Now I don't even have to think about it. SalahScreen just handles it.""
+
+""My screen time dropped 2+ hours per day. But more importantly, my khushoo improved. I actually feel present now.""
+
+""Finally, a tool that understands Muslim rhythms. This isn't just another app blocker—it's built around salah.""
+
+WHO THIS IS FOR
+
+Students juggling classes and social media. Professionals drowning in notifications. Parents trying to model good habits. Anyone who's tired of feeling like their phone controls them instead of the other way around.
+
+If you're struggling to pray on time, if your mind wanders during salah, if you're exhausted from the constant battle with your device—this is for you.
+
+YOUR PRIVACY MATTERS
+
+- On-device processing only
+- No account required
+- Uses standard iOS Screen Time permissions
+- Your data never leaves your phone
+
+START TODAY
+
+Join thousands of Muslims reclaiming their focus, one prayer at a time.
+
+Download SalahScreen. Block the noise. Find your presence.
+
+Privacy Policy: https://salahscreen.app/privacy
+
+Terms of Service: https://salahscreen.app/terms
+
+Terms of Use EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-10-09T07:00:00Z,2025-11-18T18:00:41Z

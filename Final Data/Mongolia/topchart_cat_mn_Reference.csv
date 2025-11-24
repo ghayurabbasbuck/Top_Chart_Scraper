@@ -1,0 +1,690 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mn,Mongolia,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/mn/app/google-translate/id414706506?uo=4,0.0,4.2718,883,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2012-06-03T08:28:26Z,2025-11-21T16:58:32Z
+mn,Mongolia,Reference,6006,2,1501711662,Bolor Toli,Bolorsoft LLC,https://apps.apple.com/mn/app/bolor-toli/id1501711662?uo=4,0.0,4.24798,1609,Reference,"Хамгийн баялаг үгсийн сантай Болор толь аппликэйшнийг эрдэмд шамдан суралцаж буй хэн бүхэнд зориулан бүтээлээ. 
+Онцлог:
+- Дуу яриаг боловсруулагч Чимэгэ технологийн тусламжтайгаар дуу хоолойгоор хайлт хийх болон үгийн дуудлага сонсох боломжтой.
+- Монгол туургатан түмэндээ зориулан үндэсний бичгээрээ аппикэйшнийг ашиглах боломжийг олгосон.
+- Хэл шинжлэлийн олон жилийн туршлага дээр суурилсан хамгийн баялаг үгсийн сантай.
+- Интернэттэй болон интернэтгүй аль ч үед ашиглах оффлайн толь бичигтэй.",2023-02-08T08:00:00Z,2023-03-16T23:53:07Z
+mn,Mongolia,Reference,6006,3,1668041839,Sainscore,Titan CRA CIB LLC,https://apps.apple.com/mn/app/sainscore/id1668041839?uo=4,0.0,3.85714,14,Reference,"Энэхүү платформ нь зээлийн мэдээллийн сангийн бүхий л төрлийн үйлчилгээг иргэн бүрд хүртээмжтэй, ил тод, хялбар болгох зорилготой. Та өөрийн зээлийн мэдээлэлд гарч буй бүх төрлийн өөрчлөлтийг цаг алдалгүй хянах боломжтой.
+ 
+Бүтээгдэхүүн үйлчилгээнүүд :
+- FICO Score
+- Зээлийн мэдээллийн сангийн лавлагаа
+- Өр, орлогын харьцааны тооцоо
+- Автомашины үнэлгээ
+- Малын А дансны лавлагаа
+- Мониторинг",2023-03-15T07:00:00Z,2025-10-25T08:05:18Z
+mn,Mongolia,Reference,6006,4,1366575787,NDaatgal,Information Technology Center of Social Insurance General Office Mongolia,https://apps.apple.com/mn/app/ndaatgal/id1366575787?uo=4,0.0,2.69318,88,Reference,"Даатгуулагч та энэ программыг ашиглан өөрийн Нийгмийн даатгалд даатгагдсан байдал, авсан зардал, тэтгэвэр, тэтгэмжийн талаар болон, Нийгмийн даатгалтай холбоотой хууль, тогтоомжийн талаар мэдээлэл авах боломжтой.",2018-04-06T01:59:07Z,2025-08-14T17:22:24Z
+mn,Mongolia,Reference,6006,5,1164826566,Cloud Music-Download Songs Lab,国文 李,https://apps.apple.com/mn/app/cloud-music-download-songs-lab/id1164826566?uo=4,0.0,4.5126,119,Reference,"Also it allows you to download songs from your cloud storages. It supports Dropbox®.
+
+It is easy to use and useful. You can enjoy listening to songs without wifi.
+
+Main Features: 
+√ Download songs from your cloud storages.
+√ Play downloaded songs with a powerful player.
+√ Play local iPod songs with a powerful player.
+√ Provide 3 play modes: normal, single, shuffle.
+√ Manage your playlists.
+
+How to use:
+1. On the tab 'Cloud' choose the cloud platform Dropbox.
+2. Click the Sign In icon button at the right top corner of the cloud platform section.
+3. Connect to Dropbox and use your account. (If you have no account, you should register one.)
+4. Get songs from your cloud storage. (You should upload your preferred songs to your cloud storage by yourself.)
+5. Choose a downloaded songs to play and enjoy it.",2016-10-14T16:56:49Z,2019-10-25T16:17:18Z
+mn,Mongolia,Reference,6006,6,1517982329,Translate AI.,Mary srl,https://apps.apple.com/mn/app/translate-ai/id1517982329?uo=4,0.0,0,0,Reference,"Discover the power of language with Translate AI – your trusted companion for breaking language barriers while traveling, working, or learning.
+Powered by advanced artificial intelligence, Translate AI delivers fast, accurate, and natural translations for text, voice, and images.
+
+Exceptional Features for Global Communication
+
+Text Translation
+Instantly translate written words into multiple languages with high accuracy.
+Whether you're a traveler trying to understand signs, a student learning a new language, or a professional communicating internationally, Translate AI is your reliable translation tool.
+
+Voice Translation
+Enjoy real-time, natural conversations without interruptions.
+Perfect for international meetings, travel, or casual chats with people around the world.
+
+Image Translation
+Simply point your camera at signs, menus, or documents to get instant and precise translations directly on your screen.
+
+Keyboard Translation
+Seamlessly integrate translation into your daily typing.
+Type in one language and get an instant translation in another — ideal for messages, chats, and emails.
+
+Why Choose Translate AI
+
+Multimodal Translation
+Text, voice, or image — Translate AI adapts to any translation need.
+Unmatched Accuracy
+Our state-of-the-art AI understands context to provide natural, meaningful translations — not just word-for-word results.
+
+Elegant and Easy-to-Use Design
+A clean, modern interface makes switching between languages and translation modes effortless.
+
+Continuous Updates
+We’re constantly improving, adding new features and expanding our language database to give you the most comprehensive translation experience possible.
+Translate AI is more than just an app — it’s a bridge that connects you to the world.
+
+Download now and experience smart translation today!
+
+Supported Languages
+Enjoy translations across a wide range of languages, including Afrikaans, Arabic, Chinese (Simplified and Traditional), English, French, German, Japanese, Korean, Portuguese, Russian, Spanish, and many more.
+
+Terms of Use: https://docs.google.com/document/d/1-QCv7vH90qQwwwVuHCIqaRxfa-UWUyaSKmmlKz5I9Lg/edit?usp=sharing
+Privacy Policy: https://www.iubenda.com/privacy-policy/55197364",2020-06-16T07:00:00Z,2025-11-10T01:49:48Z
+mn,Mongolia,Reference,6006,7,341922306,Pleco Chinese Dictionary,Pleco Inc.,https://apps.apple.com/mn/app/pleco-chinese-dictionary/id341922306?uo=4,0.0,4.72897,107,Reference,"Pleco is the ultimate Chinese learning companion: an integrated dictionary / document reader / flashcard system with fullscreen handwriting input and live OCR, from a company that's been making the world's best mobile Chinese learning apps since 2001.
+
+Major features: ($ = paid add-on)
+
+• Amazing dictionaries. We offer two free built-in dictionaries: the popular open-source CC-CEDICT, with over 110,000 frequently-updated entries, and our own PLC dictionary, with 125,000 entries, parts of speech, and over 25,000 example sentences (with Pinyin). More than two dozen other dictionaries are available as free and paid ($) add-ons, including licensed titles from well-known publishers like Oxford, Longman, FLTRP, Tuttle, SLPH, and Commercial Press.
+
+• Powerful merged search: look up words by Chinese characters, Pinyin (spaces / tones optional), or English, with support for wildcards and full-text search. And no need to tediously flip between all of those dictionaries to find a word - just type in your search term and instantly get a combined, frequency-sorted result list.
+
+• Links and cross-references: easily look up character components, break down words into individual characters, look up lists of words containing a particular character, and search across all dictionaries for example sentences containing a word.
+
+• Gorgeous typography: see it for yourself in our screenshots - we think we're one of the best-looking Chinese dictionaries around. Alternate Kai/Song/Xing-style Chinese fonts are also available ($).
+
+• PRC/HK/Taiwan-friendly: every part of Pleco supports both traditional and simplified, headword readings can be shown in Pinyin and Zhuyin, and some dictionaries even support Cantonese. (note: stroke order diagrams do support traditional characters, but use PRC order)
+
+• Audio: Hear Mandarin and Cantonese for words and example sentences using iOS' free built-in text-to-speech system. We also offer add-ons ($) with native-speaker Mandarin recordings and higher-quality Mandarin TTS.
+
+• Document Reader: bring in text from the clipboard and tap on words in it to instantly look them up. Upgrade ($) adds support for tap-lookups in text, HTML, DOC, DOCX, PDF, and EPUB files. We also offer graded readings ($).
+
+• OCR: look up words simply by pointing your device's camera at them, or by tapping on them in a still image. ($)
+
+• Fullscreen handwriting: use your device's whole screen instead of just a little box. Extremely accurate and highly tolerant of stroke order mistakes. (enhanced $)
+
+• Flashcards: create a card from any dictionary entry with a single button tap, import premade word lists, use advanced memorization techniques like SRS, and study in a variety of modes including fill-in-the-blanks handwriting and tone drills. ($)
+
+• Stroke Order Diagrams: animations showing you how to draw each character; 500 characters for free, 28,000 in paid ($) version.
+
+• User dictionaries: create new dictionary entries right on your device as you encounter new words. ($)
+
+• No ads.
+
+We also offer famously excellent customer support and an active user community at http://www.plecoforums.com. And we're constantly working to make our products better; our sales and customer base have been growing for two decades across 4 different platforms. You can be confident that we'll still be fixing bugs and adding features for years to come.
+
+Paid add-ons can be transferred to other devices that link to your iTunes account just like any other paid iTunes content; simply install our free app, open up the ""Add-ons"" screen, and tap on the ""Restore Purchases"" button to activate your purchase on each device.
+
+Please contact us at support@pleco.com, via the form at http://www.pleco.com/contact.html, or using the in-app ""Contact Support"" command with any questions - we'll be delighted to hear from you.",2012-06-02T14:50:04Z,2025-10-09T16:14:51Z
+mn,Mongolia,Reference,6006,8,1624708039,Finger Chooser & Random Picker,OD SP Z O O,https://apps.apple.com/mn/app/finger-chooser-random-picker/id1624708039?uo=4,0.0,4.28125,32,Reference,"Want to try your luck, randomly select someone from a group of people, sort teams and pairs, etc?
+""Finger Chooser - Random Picker"" is what you need.
+
+- Chooser
+Touch the screen with your friends and the app will randomly pick one of you.
+You can set the number of people who wins. (From 1 to 4)
+Accompanied by sounds and vibrations.
+
+- Decision Roulette
+Choose one of 10 roulettes and spin the wheel.
+Roulette will help you make a choice (what to eat, what to play, what kind of pet to get, what to do, what country to visit, etc.)
+Сolor the roulette sectors choosing from a variety of color themes.
+
+- Lucky Arrow
+Arrange people or objects around the phone and click on the arrow on the phone screen. 
+After spinning, the arrow will select someone or something.
+Customize it. Great variety of themes.
+
+- Coin
+Wanna flip a coin for a hard decision? Select your favorite coin, choose stylish background and tap the screen to try your luck. Coin rotates, wobbles like a real coin. Complete with sound effects and cool graphics!
+
+- Tutorial
+Clear video instructions for each randomizer (Chooser, Arrow, Coin)
+
+Subscription pricing and terms:
+
+Subscription pricing and terms:
+
+""Finger Chooser - Random Picker"" app offers one auto-renewing subscription option:
+$4.99 per month
+
+This price is for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.
+
+The subscription will automatically renew unless turned off in your iTunes Account settings at least 24 hours before the current period ends. You can go to your iTunes Account settings to manage your subscription and turn off auto-renew. Your iTunes Account will be charged when the purchase is confirmed. If you subscribe before your free trial ends, the rest of your free trial period will be forfeited as soon as your purchase is confirmed.
+
+Privacy Policy:
+https://ichooser.tilda.ws/privacypolicy
+Terms of Use:
+https://ichooser.tilda.ws/termsofuse",2022-05-20T07:00:00Z,2025-04-01T23:45:17Z
+mn,Mongolia,Reference,6006,9,1480481127,Mandal Daatgal,Mandal Daatgal JSC,https://apps.apple.com/mn/app/mandal-daatgal/id1480481127?uo=4,0.0,2.90909,22,Reference,"Мандал даатгал ХК нь 2011 оноос хойш тасралтгүй үйл ажиллагаагаа явуулж байгаа отгон даатгалын компаниудын нэг бөгөөд эдүгээ салбартаа эхний 3т жагсах томоохон компани болж чадсан. Хэрэглэгч, харилцагчиддаа илүү ойртох үүднээс тэдэнд зориулсан мобайл АПП-г хөгжүүлж хэрэглээнд нэвтрүүллээ. Энэхүү АПП нь дараах онцлог, давуу талуудтай. Үүнд:
+- Өөрийн даатгалын гэрээний мэдээллийг авах боломжтой
+
+- Даатгалын хураамжийн хуваан төлөлтийн мэдээлэл авах, төлбөр төлөлтийн графикийн сануулга авах боломжтой
+- Нөхөн төлбөрийн түүхээ харах боломжтой
+- Идэвхитэй нөхөн төлбөрийн явцыг харах боломжтой
+- Өөрийн болон даатгуулсан хөрөнгийн мэдээллийг шинэчлэх, харах боломжтой
+
+- Санал хүсэлт, гомдол илгээх боломжтой
+
+ 
+Mandal Insurance JSC is an standard line, insurance company that’s been operating in Mongolia since 2011. To improve our services and connect closer with our customers, we have developed customer based mobile application.
+ 
+Mandal Application offers following qualities
+ 
+Access to personal policy
+Manage your personal policy
+Payment informations, due payment notifications
+Claim history
+On process claim information
+Feedback & Complain",2019-10-01T07:00:00Z,2025-06-13T01:43:33Z
+mn,Mongolia,Reference,6006,10,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/mn/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,1,1,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+mn,Mongolia,Reference,6006,11,1507881332,Монгол Улсын Үндсэн хууль,Ministry of Finance of Mongolia,https://apps.apple.com/mn/app/%D0%BC%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB-%D1%83%D0%BB%D1%81%D1%8B%D0%BD-%D2%AF%D0%BD%D0%B4%D1%81%D1%8D%D0%BD-%D1%85%D1%83%D1%83%D0%BB%D1%8C/id1507881332?uo=4,0.0,3.63636,11,Reference,"Монгол Улсын Үндсэн хууль
+The Constitution of Mongolia",2020-05-21T07:00:00Z,2023-03-20T16:53:39Z
+mn,Mongolia,Reference,6006,12,399452287,Merriam-Webster Dictionary,"Merriam-Webster, Inc.",https://apps.apple.com/mn/app/merriam-webster-dictionary/id399452287?uo=4,0.0,4.87026,925,Reference,"Get America's most useful and respected dictionary, optimized for your iPhone, iPad, and Apple Watch. Continuously updated with the newest words and meanings, this is the premier iOS app for English language reference, education, and vocabulary building. 
+
+Key Features:
+
+* Offline access: Complete access to definitions and synonyms whether or not you're connected
+* Voice Search: look up a word without having to spell it
+* Word of the Day: learn a new word every day
+* Word Games: fun, fast quizzes to test your vocabulary
+* Favorite Words and Search History: keep track of the words that are most important to you
+* Favorite Word Syncing Through iCloud: share your favorites between devices and on the Web
+* In-app purchase: an ad-free experience + access to Kids, Medical, and Legal dictionaries 
+* For Tablets: browse the entire dictionary with a scrolling index
+* Apple Watch Extension: see the Word of the Day and find watch-sized definitions with voice search
+
+Expert Word Guidance:
+	
+* Integrated Thesaurus: more than 200,000 word choices with examples of their use
+* Example Sentences: understand how a word is used in context
+* Audio Pronunciations: voiced by real English speakers, not text-to-speech robots
+
+
+Terms of Use: https://www.merriam-webster.com/terms-of-use",2012-06-03T06:41:50Z,2025-11-13T17:51:17Z
+mn,Mongolia,Reference,6006,13,937140477,Chinese Stroke Order Character,健生 任,https://apps.apple.com/mn/app/chinese-stroke-order-character/id937140477?uo=4,0.0,4.66667,48,Reference,"Chinese characters is difficult to write for beginner. This app help you lookup Chinese characters with strokes order and master your writing skill.
+
+Awesome feature:
+1. More than 20000 Chinese strokes
+2. Pinyin annotation
+3. Real voice
+4. Simplified and traditional conversion
+5. Picture to text
+6. Voice to text
+7. Handwriting correctness check function
+8. Multi-language dictionary
+Arabic
+French
+German
+Greek
+Hindi
+Indonesian
+Italian
+Japanese
+Korean
+Malay
+Persian
+Portuguese
+Russian
+Spanish
+Swedish
+Thai
+Vietnamese
+
+Chinese learner all encounter the same problem: How to write Chinese characters?
+You probably think learning how to write in Chinese is impossible.And I get it. I’m a native English speaker, and I know how complex Chinese characters seem.
+
+But you’re about to learn that it’s not impossible.
+All you need to know is a black magic – Chinese Stroke Order.
+
+What is Chinese Stroke Order?
+
+Strokes are the classified set of line patterns that are arranged and combined to form Chinese characters.Once you’ve mastered the strokes and learned the logic behind the radicals, learning Chinese writing will become a lot easier.
+
+Why Chinese Stroke Order is so hard to learn?
+
+Learning Chinese Strokes Order can be a bit scary and seems impossible at the first glance.
+
+They just seem like scary blocks of words if you don’t know the idea of how they were formed. Before you start learning Chinese writing, you need to know the Chinese writing system first.
+
+Chinese learners are all struggle with writing Chinese characters. It is very different from writing English,  all you need to do is write every letter on the same line and space them well, you than have nice clean readable words. But Chinese characters are a lot more difficult and more complicated. Each character can be separated in to different little sections, and putting them together in a structure is not an easy task. Stroke order can help you structure the Chinese character in a more systematic way, it also help you to learn Chinese better.
+
+What’s the best way to overcome this difficult and how to master it?
+Don's waste money to buy many books and apps to learn how to write Chinese characters, none of them actually help me improve your skill, until you find this amazing app  – Chinese Strokes Order! You can write Chinese characters so much easier and faster!
+
+Why this app extreme help?
+Chinese Strokes Order is the easy way to learn Chinese writing and calligraphy. Learn not only to write and recognize Chinese characters, but also to understand their meaning.
+
+How you can make use of it?
+All you have to do is simply type in a Chinese character and let the app show you its animated stroke order instantly.
+
+You can easily change the stroke speed in the app’s settings if you find it hard to keep up, as well. It helps a lot for calligraphy and visualize stroke order.
+
+Understand Chinese calligraphy
+Extremely simple, efficient, and easy to use, it is sure to help you understand Chinese calligraphy and its meaning.
+
+In addition, Chinese Strokes Order supports both simplified and traditional Chinese! The simple way to learn Chinese words and characters!
+
+====================================
+Auto Renewable Subscription Terms:
+- Monthly subscription for US $5.99
+- Yearly subscription for US $11.99
+* Payment will be charged to your iTunes Account at confirmation of purchase.
+* Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period.
+* Accounts will be charged for renewal within 24-hours prior to the end of the current period, and will identify the cost of the renewal.
+* Subscriptions may be managed by you and auto-renewal may be turned off by going to your Account Settings after purchase.
+* Privacy Policy: https://www.zhongwenbishun.com/privacy/chinesestrokesorder/privacy.html
+* Terms of Service: https://www.zhongwenbishun.com/privacy/chinesestrokesorder/terms.html",2014-12-09T14:14:14Z,2025-11-13T02:21:00Z
+mn,Mongolia,Reference,6006,14,1005203380,Shirabe Jisho,Blazej Stanek,https://apps.apple.com/mn/app/shirabe-jisho/id1005203380?uo=4,0.0,4.79936,932,Reference,"Simple but powerful Japanese-English, English-Japanese dictionary app. 
+
+The app's features include:
+
+● Over 170.000 dictionary entries with readings and english meaning
+● Over 6.500 kanji characters with stroke order
+● Over 730.000 Japanese names, place names and institution names
+● Over 147.000 example sentences with translation
+
+● Instantaneous search results
+
+● Character input by kanji and kana handwriting recognition. Recognition algorithm can handle wrong stroke order and small mistakes.
+● When multiple similar characters are found, you don't need to redo drawing after each character - just long  press to see a preview
+● Search by kanji radicals (for example 日 and 月 will find 明)
+● Wildcard search - ""*"" can replace any number of characters and ""?"" can replace any single character. Works both with English and Japanese words.
+● Search by kanji, kana and romaji - ""じしょ"", ""じsho"" and ""jisho"" will give the same search results
+
+● Kanji lists by JLPT level and school grade (1 - 6)
+● Multiple word lists divided by subject, grammatical function, JLPT level and more",2015-09-04T23:42:02Z,2025-08-02T22:47:55Z
+mn,Mongolia,Reference,6006,15,393499958,네이버 - NAVER,NAVER Corp.,https://apps.apple.com/mn/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958?uo=4,0.0,4.09091,11,Reference,"모바일에 최적화된 다양하고 풍부한 정보! 매일 새로워지는 네이버앱을 만나보세요.
+
+네이버앱은 콘텐츠 유형에 따라 5개의 공간을 제공합니다.
+내가 좋아하는 건 주제별로 ‘홈피드’에서, 짧고 빠르게 즐기는 숏폼은 ‘클립’에서, 뉴스와 각종 읽을 거리는 ‘콘텐츠’에서, 나의 쇼핑 흐름에 맞춰 깎고, 받고, 쌓는 경험은 ‘네이버플러스 스토어’에서, 인증과 결제 뿐만 아니라 내 활동 내역을 확인할 수 있는 ‘마이’까지, 일상의 편리함 네이버앱, 지금 다운로드하세요!
+
+1. 내 취향 콘텐츠를 주제별로 탐색해 보세요.
+검색홈 하단에서 내가 좋아하는 주제를 골라 콘텐츠를 탐색할 수 있어요. 스포츠, 엔터, 패션뷰티와 테크까지! 다양한 주제의 맞춤 콘텐츠를 끊임 없이 추천해드려요.
+
+2. 이미지와 영상으로 남기는 나만의 리뷰, 클립
+짧은 여유 시간엔 클립을 감상하고 특별한 순간엔 직접 이미지와 영상으로 남겨보세요. 마음에 드는 크리에이터를 팔로우 할 수 있고 나만의 공간에서 내 클립들을 모아볼 수 있어요. 클립 하나로 보는 즐거움과 만드는 재미를 모두 경험해 보세요.
+
+3. 더 깎아주고 더 쌓아주는 네이버플러스 스토어
+홈 하단에서 내게 꼭 맞는 상품과 혜택이 가득한 쇼핑 콘텐츠를 통해 탐색과 발견의 즐거움을 더해줍니다.
+오늘의 할인 혜택과 다양한 프로모션, 인기 트렌드까지 초개인화 맞춤 추천으로 깎고, 받고, 쌓는 셈이 다른 쇼핑을 경험해 보세요.
+
+4. 인증, 결제, 활동내역까지 마이에서 한눈에
+현장에서 지갑대신 사용할 수 있는 인증, 결제도구와 내 결제/예약 주문 목록 및 찜한 상품, 저장한 장소 등 흩어져있던 내 활동내역을 마이에서 모아볼 수 있어요.
+
+5. 그린닷 AI검색으로 일상을 편리하게 
+그린닷을 통해 이미지 기반으로 정보를 검색하는 렌즈, 궁금한 음악을 찾아주는 음악검색, 손을 쓰지 않아도 검색이 가능한 음성검색, 음식점을 비롯한 주변 정보를 알려주는 내 주변 등 다양한 검색 기능을 더욱 편리하게 이용할 수 있어요.
+
+※ 참고 사항
+네이버앱을 쾌적하게 이용하기 위해서는, iOS 16.0 이상의 환경에서 설치하는 것을 권장합니다. 앱이용 중 문제가 발생한 경우 네이버앱 설정-고객센터로 문의해 주세요.
+
+웹사이트에서 음성 인식 기능 이용 시 '음성인식' 권한이 필요할 수 있습니다. '음성인식' 권한을 허용한 상태에서 음성인식 기능을 이용하는 경우 Apple의 정책에 따라 음성 데이터가 Apple로 전송되며, 그 외 다른 정보는 일체 전송 되지 않습니다.
+
+A wealth of information optimized for mobile! Experience the NAVER app, refreshed daily.
+
+The NAVER app offers five spaces tailored to different content types. Your favorite is in “Home Feed,” short and quick entertainment can be found in “Clip,” and “Content” provides news and various reading materials. “NAVER Plus Store” offers a personalized shopping experience, with deals, rewards, and benefits, and “MY” is where you check your activity logs as well as authentication and payments. Download the NAVER app now for your everyday convenience!
+
+1. Browse content tailored to your interests by topic.
+Select your favorite topics and explore the content at the bottom of the search home. From sports and entertainment to fashion and beauty to tech, NAVER continuously recommends personalized content across various subjects.
+
+2. Clip – Your Personal Reviews in Photos and Videos
+Enjoy short moments by watching Clips, and create your own special ones with photos and videos. Follow your favorite creators and keep all your clips neatly archived in your personal space. Discover the joy of both watching and creating.
+
+3. NAVER Plus Store, where you save more and earn more
+A wealth of shopping content with tailored products and offers at the bottom of Home will help you explore and discover the joy of shopping. Experience a unique shopping journey that lets you save, earn, and collect more through hyper-personalized deals that include today’s discounts, various promotions, and trending items.
+
+4. Authentication, payments, and activity logs — all at once in MY
+MY brings together your scattered activities, including on-site wallet alternatives, payment solutions, checkout/pre-order lists, favorite items, and saved locations. 
+
+5. Make your daily life convenient with the Green Dot AI Search 
+Try out Green Dot, an AI search tool that adds convenience to your daily life. You can enjoy various search functions more conveniently, including Lens that searches for information based on images, music search that finds the music you’re curious about, voice search for hands-free searching, and location-based search for information about neighborhoods, such as restaurants. 
+
+* NOTE
+For the best experience with NAVER app, we recommend installing it on iOS 16.0 or higher. If you have problems while using the app, please send your inquiries via NAVER app's Settings - Customer Center.
+
+Using speech recognition features on the website may require ""Speech Recognition"" permission. When using speech recognition features with ""Speech Recognition"" permission enabled, your voice data will be sent to Apple in accordance with Apple's policies, and no other information will be sent.
+
+----
+개발자 연락처: naver_market@naver.com, 1588-3820
+경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561",2012-06-03T03:26:01Z,2025-11-19T01:49:17Z
+mn,Mongolia,Reference,6006,16,6752773778,HappyMood - All Games Library,Calliope State School,https://apps.apple.com/mn/app/happymood-all-games-library/id6752773778?uo=4,0.0,4.4,5,Reference,"HappyMood – Discover Games Made for You
+
+Are you a true gamer looking for one place to explore everything about games? HappyMoods is your ultimate companion! With a huge database of games, you can easily search, discover, and enjoy all the details you need in one simple app.
+Explore a Massive Library HappyMood Browse through a wide range of games across different styles and categories. Whether you love action, adventure, puzzle, or strategy, HappyMods brings everything together in one place.
+Watch Trailers & Gameplay Before playing, get a real taste of the game! Watch trailers and gameplay videos to see exactly what the game looks like.
+Save Your Favorites HappyMood Build your own personalized collection of favorite games. Add the ones you love and come back to them anytime.
+Track Games You Like Never lose track of a game again. Follow the games you’re interested in and keep them organized in your list.
+Choose Your Mood Not sure what to play? Select your mood and HappyMod will recommend games that match how you feel at that moment. Fun, relaxing, scary, or exciting – there’s always a game waiting for you.
+Test Your Knowledge Think you know everything about games? Try our quiz and challenge yourself with fun questions to see how much of a gaming expert you are.
+All-in-One Gaming Experience HappyMood makes it easy for you to discover new games, keep track of your favorites, enjoy videos, and even test your knowledge. It’s everything a gamer needs – simple, clear, and always fun.
+With HappyMod, finding the perfect game has never been easier.",2025-10-02T07:00:00Z,2025-10-02T13:25:12Z
+mn,Mongolia,Reference,6006,17,6450944875,Mongolian-English Dictionary,FB PUBLISHING LLC,https://apps.apple.com/mn/app/mongolian-english-dictionary/id6450944875?uo=4,0.0,4.61381,246,Reference,"Discover your linguistic prowess with our Mongolian-English and English-Mongolian Dictionary!
+
+Instantly Accessible: Why wait? Get immediate translations by simply tapping on the word you're curious about.
+
+Comprehensive Vocabulary: Dive into our abundant database boasting over 100,000 words. Amplify your understanding and widen your communicative horizons.
+
+Offline Capability: No internet? No issue. Obtain translations anytime, anywhere - even without an internet connection.
+
+Modern & Up-to-date: Keep pace with the evolving language as our database continually refreshes with contemporary terms and expressions.
+
+Lightweight: We respect your device's storage. Our app, weighing only 16 Mb, installs rapidly and won't strain your device's memory.
+
+Indispensable for Quick Translations: When speed and efficiency are what you require, our app is your ultimate tool.
+
+Completely Free: We are committed to making this potent tool available to everyone, free of charge! This app is ad-supported, ensuring it stays open to all. Enabling app tracking across other companies' apps and websites allows us to offer you personalized ads attuned to your interests, enriching your overall app experience.
+
+Download now and step into a world where language ceases to be a hurdle!",2023-07-05T07:00:00Z,2023-11-29T14:26:59Z
+mn,Mongolia,Reference,6006,18,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/mn/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.65854,41,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+mn,Mongolia,Reference,6006,19,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/mn/app/house-building-for-minecraft/id1497683446?uo=4,0.0,4.07143,14,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-02-27T08:00:00Z,2025-11-05T14:26:20Z
+mn,Mongolia,Reference,6006,20,1147874819,Naver Papago - AI Translator,NAVER Corp.,https://apps.apple.com/mn/app/naver-papago-ai-translator/id1147874819?uo=4,0.0,4.59999,20,Reference,"Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean? 
+In Esperanto, Papago refers to a parrot, a bird with language abilities. 
+Papago supports 14 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic. 
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button 
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation 
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation 
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a 
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like :  https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+※ Supporting iOS 15.0 or above
+ ※ Available on PC and mobile. https://papago.naver.com
+ ※ For app-related issues and errors: https://goo.gl/9LZLRe
+  
+Developer Contact No.: 
+1588-3820  
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul",2016-09-11T05:54:33Z,2025-10-21T16:11:38Z
+mn,Mongolia,Reference,6006,21,282935706,Bible,Life.Church,https://apps.apple.com/mn/app/bible/id282935706?uo=4,0.0,4.87704,4481,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+mn,Mongolia,Reference,6006,22,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/mn/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.77847,2424,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-24T01:05:18Z
+mn,Mongolia,Reference,6006,23,6753166395,True Heritage & Ancestry: EDNA,MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI,https://apps.apple.com/mn/app/true-heritage-ancestry-edna/id6753166395?uo=4,0.0,4.85365,41,Reference,"Your face is a time machine with EDNA. Our advanced technology generates a stunning photo of your ancestors and reveals your true origin story. See who you really are. All from just one selfie.
+
+Forget boring family trees that end in names on a chart. We offer a tangible connection. Our technology renders a lifelike, era-authentic portrait of ancestors you’ve never met, capturing a plausible likeness with a strangely familiar face. It’s a jaw-dropping, shareable moment of connection when you see your own eyes, your smile, looking back at you from another time. This is the family photograph that was never taken.
+
+But the portrait is just the beginning. It’s your entry point into a complete Ancestral Report, a deep dive into the elements that define your heritage.
+
+First, discover your true origins with a detailed, percentage-based breakdown of your nationality. Go beyond continents to see the specific blend of cultures that make up your unique identity, revealing connections you never knew existed. Then, we reveal their story. Learn about the specific city your ancestors likely called home, the authentic craft they dedicated their lives to, and even the historical diet that fueled their world.
+
+Your origin story doesn't just end in the past—it echoes in your present. The resilience of a frontiersman, the precision of an artisan, the creativity of a storyteller; these are more than historical facts, they are potential traits within you. We connect your heritage to your life today, offering unique insights for modern careers and lifestyles that may align with these ancestral strengths. It’s a powerful new way to understand your own passions and potential.
+
+Join a growing community of people discovering themselves in a completely new way. The stories and portraits generated by EDNA are sparking conversations, connecting families, and helping people see their own identity in a richer, deeper light. It's a unique experience everyone is talking about.
+
+This isn’t a guess. Our analysis is powered by a vast database of real historical records, cultural trends, and geographic data. This robust framework allows us to create a narrative that feels both magical and deeply plausible. We are committed to your privacy; your photo and personal data are always secure and are never shared.
+
+To analyze your photos and create your unique ancestral story, you’ll need a True Heritage Pro subscription. The Pro subscription allows you to unlock full access to detailed reports, including Explore Your Ancestors, Explore Your Origins, Your Ideal Partner, and Your Past Life. Please note that photo analysis and viewing the complete content of any generated reports are premium features available only to subscribers
+
+Subscriptions:
+To access all premium content we have subscription packages. Subscription periods are 1 week and 1 year. Every week or year your subscription renews.
+1 week subscription price is $5.99 and 1 year price is $29.99.
+
+Subscriptions will automatically renew unless cancelled at least one day before the renewal date within 24 hours before the end of the current period. Payment will be charged to your Apple ID account at the confirmation of purchase. You can manage and cancel your subscription by going to your account settings in the App Store
+
+Download True True Heritage & Ancestry: EDNA now and finally meet your ancestors.
+--
+
+Privacy Policy: https://www.mobiversite.com/privacypolicy
+Terms & Conditions: https://www.mobiversite.com/terms
+EULA: https://www.mobiversite.com/eula",2025-10-03T07:00:00Z,2025-11-21T18:52:10Z
+mn,Mongolia,Reference,6006,24,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/mn/app/deepl-translate/id1552407475?uo=4,0.0,4.75,8,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+mn,Mongolia,Reference,6006,25,1460339147,Burtgelmn,Gerege Systems LLC,https://apps.apple.com/mn/app/burtgelmn/id1460339147?uo=4,0.0,1.66667,3,Reference,Иргэн болон хуулийн этгээдийн бүх төрлийн лавлагаа болон үйлчилгээ авна. Лавлагаа мэдээлэл авах аппликейшн,2019-12-05T08:00:00Z,2019-12-19T00:53:45Z

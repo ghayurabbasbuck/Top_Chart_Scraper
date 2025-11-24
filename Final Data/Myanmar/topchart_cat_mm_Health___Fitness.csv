@@ -1,0 +1,668 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mm,Myanmar,Health & Fitness,6013,1,426826309,"Strava: Run, Bike, Walk",Strava Inc.,https://apps.apple.com/mm/app/strava-run-bike-walk/id426826309?uo=4,0.0,4.46154,13,Health & Fitness,"Strava makes fitness tracking social. We house your entire active journey in one spot – and you get to share it with friends. Here’s how:
+
+• Record everything – runs, rides, hikes, yoga and over 30 other sport types. Think of Strava as the home of your movement.
+
+• Discover anywhere – our Routes tool uses de-identified Strava data to intelligently recommend popular routes based on your preferences. You can also build your own.
+
+• Build a support network – Strava’s about celebrating movement. Here you’ll find your community and cheer each other on.
+
+• Train smarter – get data insights to understand your progress and see how you improve. Your Training Log is the record of all your workouts.
+
+• Get more from your workout – Powered by AI, Athlete Intelligence turns workout data into into instant insights. Keeping you motivated and ready for the next workout – without the guesswork.
+
+• Move safer – share your real-time location with loved ones while outdoors for an extra layer of safety.
+
+• Sync your favourite apps and devices – Strava is compatible with thousands of them (Apple Watch, Fitbit, Garmin – you name it).
+
+• Join and create challenges – join millions in monthly challenges to chase new goals, collect digital badges and stay accountable.
+
+• Embrace the unfiltered – your feed on Strava is filled with real efforts from real people. That’s how we motivate each other.
+
+• Whether you’re a world-class athlete or a total beginner, you belong here. Just record and go.
+
+Strava includes both a free version and a subscription version with premium features.
+Strava uses HealthKit to export your Strava activities into the Health app and to read heart rate and biometric data.
+
+You can subscribe and pay on the App Store, using your Apple ID. Payment will be charged to your Apple ID at confirmation of purchase. Your subscription will automatically renew unless cancelled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours prior to the end of the current period. Subscriptions may be managed by the user and auto-renew may be turned off after purchase by going to the ‘Manage Subscription’ page in settings. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. The subscription will renew at the same cost.
+
+Terms of Service: https://www.strava.com/legal/terms
+Privacy Policy: https://www.strava.com/legal/privacy",2020-04-10T07:00:00Z,2025-11-19T21:16:00Z
+mm,Myanmar,Health & Fitness,6013,2,6744917675,Offline: Music Player,婷希 吴,https://apps.apple.com/mm/app/offline-music-player/id6744917675?uo=4,0.0,4.33333,3,Health & Fitness,"Offline revolutionizes relaxation and focus with AI-generated white noise tailored to your needs. Whether you're studying, working, or winding down, our advanced algorithms create soothing, customizable soundscapes—from gentle rain to ambient café chatter. Perfect for boosting productivity or enhancing sleep, Offline adapts to your preferences in real time. Experience seamless audio personalization with just a tap. Discover your perfect sound sanctuary with Offline.
+
+Privacy: https://doc-hosting.flycricket.io/soundtrip-privacy-policy/7c718ccd-25ae-49a3-a065-e9d16c6283cd/privacy
+Terms of use: https://doc-hosting.flycricket.io/soundtrip-terms-of-use/28782f0e-df92-46e5-95d3-347618f754fc/terms",2025-04-29T07:00:00Z,2025-07-15T16:24:37Z
+mm,Myanmar,Health & Fitness,6013,3,1514529526,CO FIT,Shenzhen Coding IOT Technology Limited,https://apps.apple.com/mm/app/co-fit/id1514529526?uo=4,0.0,4.42105,38,Health & Fitness,"CO-FIT is a newly designed and developed app for our new smartwatch collection only.
+main feature:
+   Sync your steps, calories, mileage, heart rate, sleep and exercise records from your watch. The newly designed UI can display data more intuitively.
+   After binding and authorization, we will push the phone's incoming calls and text messages to the watch to avoid losing information.
+   You can use the app to configure the watch's sedentary alarms, alarms, schedules, backlighting, as well as sync weather and AGPS files (to help the watch locate) and other features for better use of the watch.
+During use, if you have any questions, you can ask at any time, we will listen to your suggestions and make improvements.
+
+Disclaimer:
+1. The data displayed by the app is provided by the device, and the app only records and shares
+2. All health data displayed in the app are not suitable for medical use, all health data are for reference only, these data should not be used as a substitute for the opinions of health care professionals
+For accurate data, consult your doctor.
+
+Authorization Instructions
+1. We will access iPhone Health, sync device data to iPhone Health in real time
+2. We will access the mobile phone location to obtain local weather information and synchronize it to the device display",2020-05-22T07:00:00Z,2025-10-18T19:44:45Z
+mm,Myanmar,Health & Fitness,6013,4,1325481372,HUAWEI Health,"Huawei Software Technologies Co., Ltd.",https://apps.apple.com/mm/app/huawei-health/id1325481372?uo=4,0.0,4.73585,53,Health & Fitness,"Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep track of your health, or conveniently manage your smart wearable devices, the Huawei Health app has what you're looking for. Keep your data private, or share it with your loved ones, the power's yours. The latest in health and fitness technology, made simple, secure, and easy to use.
+
+Keeps Up with Your Every Move
+Keep track of your health journey. Huawei Health records your activity, supporting over 100 different sports, from beginner to advanced levels. See your workout data clearly every step of the way, so you can be sure you're reaching your goals. A wonderful world of fitness at the tip of your fingers.
+
+Run How You Want
+A simpler way to run that can benefit anyone. The app is able to record and map out your route as you're running, all while displaying key information so you can stay on target.
+
+An Amazing Journey
+Share your health journey with your friends and family. Your outdoor workout routes can be generated into videos with music for you to proudly share. Use Dynamic tracking to create videos to share on social media to inspire yourself and others with your fitness journey.
+
+A New View on Health
+See your life in amazing detail with Huawei Health stats. The app keeps records of your heart rate, weight, sleep quality, step count and more. All your data is shown in clear, dynamic graphs so you have a better understanding of your health in a more accessible way.
+
+[health package]
+·Synchronize with the weight data in healthkit. When you use the healthy weight data of Huawei mobile phone, this data will be synchronized and recorded in healthkit.
+·Synchronize with motion data in healthkit. You can automatically synchronize the exercise data recorded in Huawei health to healthkit. Similarly, Huawei sports health can also obtain the exercise data from healthkit.
+
+--------------------
+Huawei Health app is not intended for medical use, and all data is for reference only.
+You should seek a doctor’s advice in addition to using this app and before making any medical decisions.
+
+--------------------
+[Description of auto-renewing subscriptions]
+1. Instructions for continuous monthly subscription
+--Subscription period: 1 month
+- Subscription price: 1 yuan for the first month, 15 yuan per month thereafter
+2. Instructions for subscribing and unsubscribing
+--Payment: Debit through the user's iTunes account, and the user will pay immediately after confirming the purchase
+--Renewal: Apple’s iTunes account will be deducted within 24 hours of expiration. After the deduction is successful, the subscription period will be extended by one subscription period
+--Unsubscribe method
+Solution 1. Open the Appstore on your phone, click the blue avatar icon in the upper right corner, and then go to ""Subscription""> ""Huawei Sports Health"" to cancel the subscription.
+Solution 2: 24 hours before the expiration of the current subscription period, go to the iTunes/Apple ID ""Settings Management"" page and turn off the automatic renewal. Cancellation within 24 hours before expiration will result in a subscription fee.
+--Automatic renewal service agreement(EULA): https://consumer.huawei.com/minisite/cloudservice/health/monservice-terms.htm?country=CN&language=zh_Hans_CN
+--Membership Agreement (including user privacy agreement): https://consumer.huawei.com/minisite/cloudservice/health/member-terms.htm?country=CN&language=zh_Hans_CN",2020-04-11T07:00:00Z,2025-11-15T10:18:33Z
+mm,Myanmar,Health & Fitness,6013,5,6744044308,PulseMate: Heart Rate Monitor,"Hopenebula Technology CO., Limited",https://apps.apple.com/mm/app/pulsemate-heart-rate-monitor/id6744044308?uo=4,0.0,0,0,Health & Fitness,"Looking for a simple and reliable way to track your heart health and overall well-being? The PulseMate App helps you monitor your heart rate, track blood pressure trends, record blood sugar levels, log vital health data and get personalized healthy suggestions—all in one place, right from your iPhone.
+
+Key features：
+Heart rate measurement: Just place your finger lightly on the camera area of   your phone to measure your heart rate.
+
+Blood sugar, blood pressure and temperature records: Conveniently record daily blood pressure, blood sugar and temperature data, PulseMate will generate detailed trend charts for you to help you track health changes.
+
+AI Care: Talk to your dedicated AI health consultants anytime, anywhere. Personalized suggestions can help you make better daily health choices.
+
+HRV analysis: Evaluate your overall health status by monitoring key indicators such as stress, energy and tension.
+
+Drinking water record and reminder: Remind and record daily water intake to help you maintain adequate hydration.
+
+Breathing exercise: Through scientific breathing exercises, it helps you relax, relieve stress and reduce anxiety.
+
+Mental health test: Regularly evaluate mental health status to help you pay attention to your emotions and mental state in time.
+
+Heart health risk test: Through a simple questionnaire, you can gain an in-depth understanding of your heart health status and provide personalized health suggestions.
+
+Health data overview: Centrally view all daily health indicators, manage your health data in one stop, and easily grasp health trends.
+
+How to measure heart rate：
+Place your finger lightly on the iPhone's camera lens.
+Maintain full coverage of the lens with your fingertip.
+Hold steady throughout the duration of the measurement until completion.
+
+Important reminder: 
+This application is for personal monitoring and information reference only and is not a substitute for professional medical advice or treatment. If you feel any discomfort or other emergency, please seek medical assistance from a professional medical person immediately.
+
+Subscription Conditions:
+- Subscribe to get unlimited access to all premium features.
+- Subscription length: weekly, yearly.
+- The iTunes account will be charged after the trial period ends.
+- You should be aware that the subscription will automatically renew unless you close the automatic renewal at least 24 hours before the end of the current period.
+- After purchase, you can turn off automatic renewal at the account settings.
+
+Privacy Policy:https://greatvitawellness.com/privacy.html 
+Terms of Service：https://greatvitawellness.com/terms.html",2025-04-03T07:00:00Z,2025-11-17T01:38:37Z
+mm,Myanmar,Health & Fitness,6013,6,6748102679,Doorian Global,Korea Certification Service Inc.,https://apps.apple.com/mm/app/doorian-global/id6748102679?uo=4,0.0,0,0,Health & Fitness,"Doorian Global, earn rewards and shop, doorian, durian, doorian global, durian global",2025-07-28T07:00:00Z,2025-11-21T16:54:09Z
+mm,Myanmar,Health & Fitness,6013,7,1493500777,Mi Fitness (Xiaomi Wear Lite),"Beijing Xiaomi Co., Ltd",https://apps.apple.com/mm/app/mi-fitness-xiaomi-wear-lite/id1493500777?uo=4,0.0,4.64972,177,Health & Fitness,"Combining Mi Fitness with smartwatch or smartband devices, users can track their health and fitness data. 
+
+Mi Fitness supported：Xiaomi Watch Series, Redmi Watch Series, Xiaomi Smart Band Series, Redmi Smart Band Series.
+
+Keep track of your workouts
+Map your route, monitor your progress, and achieve your goals. Whether it's walking, running, or biking, you can easily track it right from your phone.
+Monitor your health information*
+Mi Fitness APP assists you in managing your personal health, helping you to always maintain your optimal state. By connecting Xiaomi or Redmi smartwatch/band devices, important health indicators such as heart rate, sleep, stress, and energy can be monitored and risk warnings generated throughout the day. Health data such as weight and women's health can also be manually recorded and managed.
+Sleep better*
+In conjunction with Xiaomi or Redmi smartwatch/band devices that has sleep monitoring functionality, you can record your sleep information every night. By conducting in-depth analysis of the different stages of sleep, including deep sleep, light sleep, and rapid eye movement, as well as monitoring your sleep heart rate, breathing quality, body movements, and other sleep-related data, the device generates a personalized sleep report. This report can help remind you to adjust your sleep habits in a timely manner.
+Easy payments with wearable device
+Link your Mastercard cards to Mi Fitness and enjoy the convenience of making payments on the go with your wearable device.
+Ask Alexa for convenient access
+With Alexa, you can easily access important features like checking the weather, playing music, and starting a workout. Just ask and you're good to go.
+Stay informed with notifications
+Receive notifications, messages, and emails directly on your wearable device, so you can stay informed without having to constantly check your phone.
+
+*Disclaimer
+Except for the manual health information recording service provided to users, all other health services within the application only synchronize and record the relevant information of the wristband or watch. All health-related data, results, suggestions, etc. are for reference only and are not intended for medical purposes, including self-diagnosis or consultation with a doctor, and are only used for general fitness and health purposes.
+Please note that all smartwatches/fitness trackers currently integrated into the application are not medical devices and cannot provide any form of medical services. In case of any physical discomfort, please seek timely advice from medical institutions.",2020-07-08T07:00:00Z,2025-11-17T11:26:23Z
+mm,Myanmar,Health & Fitness,6013,8,1316004998,Da Fit,MO YOUNG LIMITED,https://apps.apple.com/mm/app/da-fit/id1316004998?uo=4,0.0,4.48649,37,Health & Fitness,"Da Fit provides you with accurate motion recording, sleeping details and exercise analysis. Encourage you to love sports, enjoy a positive and healthy lifestyle, and meet a better you.
+
+• Connect with mutiple smart devices
+• Accurate recording for each movement
+• Intimate sleeping keeper
+• Comprehensive assessment of body condition
+• Multifunction personal reminder
+• Discover more fun
+
+ Apple Health App Sharing
+- Integrates with Apple Health App",2020-04-16T07:00:00Z,2025-11-15T00:00:39Z
+mm,Myanmar,Health & Fitness,6013,9,896501514,Period & Cycle Tracker,ABISHKKING LIMITED.,https://apps.apple.com/mm/app/period-cycle-tracker/id896501514?uo=4,0.0,4.7619,63,Health & Fitness,"** Top Rating Reproductive Health App ** 
+ 
+Check out the most widely-used period, ovulation & pregnancy tracker, which has been helping to improve the well-being of over 300,000,000 women across 45+ countries in the past decade. 
+ 
+We understand your concerns about your private data security, especially with the recent news.
+Here's how we protect your data:
+• You can use our app without creating an account.
+• You remain COMPLETELY ANONYMOUS while using our app.
+• You can DELETE ALL DATA in 1 click whenever you want.
+ 
+At every stage of your life, we safeguard your well-being. 
+ 
+PERIOD & CYCLE CALENDAR
+We'll remind you of the dates when your next period starts and ends on time. It's useful whether you have irregular or regular menses. Better? You'll receive tailored PMS advice and instant menstrual pain relief guidance.
+ 
+OVULATION & FERTILITY TRACKER
+We help you calculate your most fertile days and analyze your fertility window based on your unique cycle. You can get pregnant naturally ASAP by learning your CHANCE OF CONCEPTION every day.
+ 
+PREGNANCY MODE: WEEK-BY-WEEK 
+Follow your baby's weekly growth. Use our due date calculator to find out when your baby's BIG DAY will be and count down it.
+ 
+BIRTH CONTROL PLANNER
+Quickly record and stay on track with your contraceptive methods like pills, rings, patches, injections, IUDs, or implants. You can customize the reminder message for individual services.
+ 
+PILL REMINDER
+Set start date, interval, durations, and dose quantity for any medication, drugs, or supplements. So you won't forget to take pills when life gets busy.
+ 
+SYMPTOM PREDICTIONS & TIPS
+Record your symptoms during any life stage. Get predictions and courses to learn how to deal with them. Take breast self-exam monthly to find abnormalities early.
+ 
+>>Key Features:
+- Accurate prediction & reminders of menstruation & the most fertile days 
+- Track the cycle lengths, flow intensity, when you are ovulating, birth control methods, etc.
+- Log 58 symptoms, 67 moods, and energy levels to know your menstrual pattern
+- Track daily chance of getting pregnant with BBT, cervical mucus, ovulation & pregnancy test records
+- Baby's due date countdown
+- Baby's weekly growth tracker
+- Export a health report with charts for self-archive or doctors
+- Insights from fertility specialists
+- PIN code, Face ID, & Fingerprint lock to protect your private data
+- Daily health tracker: weight, hydration, sleep, mood, sex, steps, etc.
+- Breast self-exam guidance
+- Multiple accounts to track for different, for example, mother/daughter 
+- Unlimited app themes & pets
+- Available in 39 languages
+- Sync data with Apple Health
+- Backup and restore data between devices
+ 
+Note: Period Calendar should not be used to replace any form of contraceptive method.
+ 
+Subscription Terms and Details
+- Get unlimited access to all features for USD $49.99/year:
+	• Cycle predictions for each month
+	• Fertility analysis of each day
+	• Unlock all self-care content
+	• Kegel exercise for women
+	• Unlimited app themes and pets
+	• Remove ads forever
+- The payment will be charged to your iTunes account at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Subscription may be managed, and auto-renewal may be turned off by going to Account Settings after purchase.
+- The account will be charged for renewal within 24 hours prior to the end of the current period.
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+ 
+If you have any questions or concerns while using our app, please feel free to contact us via feedback in our app ( [Settings] -> [Bug Report&Feedback]) or write to us at abishkking.apple@gmail. 
+ 
+Privacy Policy: https://pc.abishkking.com/privacypolicy.html
+Terms of Use: https://pc.abishkking.com/terms.html",2020-04-10T07:00:00Z,2025-11-24T03:56:24Z
+mm,Myanmar,Health & Fitness,6013,10,1038369065,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,https://apps.apple.com/mm/app/flo-period-cycles-tracker/id1038369065?uo=4,0.0,4.6886,684,Health & Fitness,"Live in sync with your cycle using Flo, the world’s most popular female health app. Get personalised insights and predictions on your body.
+
+Whether you want to predict your period, get pregnant, track your pregnancy, or better understand your symptoms, Flo is your all-in-one female health partner. Join over 420 million members.
+
+With Flo, you can:
+- Keep your data safe: Flo is the first period and ovulation tracker to achieve dual ISO 27001 and ISO 27701 Certifications (aka gold standards in data protection).
+- Feel more understood: Share your Flo insights via Flo for Partners to feel more connected, understood, and supported.
+- Get an extra layer of protection: Anonymous Mode means no one, not even Flo, can identify you based on your health data.
+- Join a supportive community: Secret Chats is where members can discuss topics and connect with others on the same journey.
+- Access reliable health information: Flo collaborates with a globally recognised organisation dedicated to reproductive health and rights, ensuring trustworthy support for your health journey.
+
+With Flo Premium, you can enjoy:
+- Monthly cycle reports
+- Symptom predictions and patterns
+- Tailored prediction insights
+- Detailed pregnancy tracking
+- Full access to Flo for Partners
+- A 24/7 virtual Health Assistant
+- All articles, videos, and courses reviewed by 140+ health experts
+
+New! Flo supports perimenopause:
+- Know what might be perimenopause and how to tune in to your body’s changes.
+- Get clarity on common perimenopause symptoms and what can help.
+- Make more informed health decisions and identify what you need to feel your best.
+
+Start tracking your cycle for free today.
+
+Privacy Policy and Terms of Use:
+https://flo.health/privacy-policy  
+https://flo.health/terms-of-use 
+
+Connect with Flo:
+Web: flo.health
+TikTok: @flotracker
+Instagram: @flotracker
+
+Please note: Flo is not a diagnostic tool and should not be used as a method of contraception or to facilitate conception. Predictions and insights provided by the app are intended for informational purposes only and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any health concerns or decisions.
+
+Flo uses HealthKit to read menstrual cycle data and export your Flo activities to the Health app.
+
+If you have any difficulties using the app, contact Flo via support@flo.health.
+
+Notice of Access Permission:
+Flo may request permission for:
+- In-app notifications or reminders.
+- Uploading photos to specific forum discussions.
+- Uploading audio recordings to closed group chats.
+Content sharing is entirely optional. Flo does not automatically access your content. You can select what you want to share.",2020-04-10T07:00:00Z,2025-11-19T19:58:17Z
+mm,Myanmar,Health & Fitness,6013,11,6499425348,Remax Fit,腾飞 王,https://apps.apple.com/mm/app/remax-fit/id6499425348?uo=4,0.0,4.375,8,Health & Fitness,"Remax Fit app integrates HealthKit to read and write some data in the Health app.
+Remax Fit is mainly used to connect the Bluetooth bracelet to assist users. Record and display the user's exercise and health status in real time, including information such as heart rate, sleep and exercise. At the same time, it provides users with basic settings such as bracelet reminders, device search, and factory reset.
+【 Warm Prompt 】
+    Running track function will continue to use GPS positioning service, switch to the background can still keep running track record, compared to other operation consumes more electricity, will to a certain extent, affect the battery life.
+    Note: Continued use of GPS running in the background can dramatically decrease 'life.",2024-05-29T07:00:00Z,2024-08-21T11:05:22Z
+mm,Myanmar,Health & Fitness,6013,12,6466400444,Pulse Analysis -Blood Pressure,RED HISTORY NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/mm/app/pulse-analysis-blood-pressure/id6466400444?uo=4,0.0,5,5,Health & Fitness,"Pulse Analysis is your one-stop health assistant, designed to help you monitor your heart rate, calculate BMI, track hydration and perform guided breathing exercises. With real-time data and personalized insights, you can take control of your health anytime, anywhere. Whether it's managing weight, improving fitness results, or reducing stress, Pulse Analysis makes it simple and efficient. Download now to start your health journey!
+
+Main features:
+
+Real-time heart rate monitoring, recording blood pressure at all times
+
+BMI calculation and analysis
+
+Body hydration tracking
+
+Guided breathing exercises to help you relax
+
+Payment & Subscription Terms  
+Subscription Options  
+Choose from the following subscription plans for unlimited access to all features:  
+- Weekly Subscription  
+- Yearly Subscription  
+Cancellation & Management  
+Cancellation Timing: You may cancel your subscription at any time, but cancellations must be made at least 24 hours before the end of the current billing period (or trial period) to avoid being charged for the next cycle.  
+How to Manage/ Cancel: Subscriptions are managed directly through your Apple account. To turn off auto-renewal or cancel:  
+  1. Open the Settings app on your iPhone.  
+  2. Tap your name (Apple ID) at the top of the screen.  
+  3. Select ""Subscriptions"" from the menu.  
+Required Policies  
+Privacy Policy: https://auqr.rayiuk.com/privacyPolicy.html
+Terms of Service: https://auqr.rayiuk.com/termsOfService.html",2023-09-27T07:00:00Z,2025-09-08T07:04:59Z
+mm,Myanmar,Health & Fitness,6013,13,6636529552,WalkTask-Walking Step Counter,DIGISPARK TECHNOLOGY PTE. LTD.,https://apps.apple.com/mm/app/walktask-walking-step-counter/id6636529552?uo=4,0.0,4.60776,696,Health & Fitness,"WalkTask is a walking work app that allows you to redeem your steps for gift cards for walking and running, helping you to develop good fitness and exercise habits.
+
+Purchase goods, services and experiences with our partner brands on the Marketplace, earn coins through sweat, health is the prerequisite for everything, only when you get healthier can you get richer, make walking, exercise and fitness worthwhile!
+
+Download WalkTask and you can redeem your favorite gift cards or products and services for free through the marketplace. Whether you're looking to lose weight, get in shape, or improve your health, WalkTask is the perfect app to keep you healthy.
+
+If you think it's a great app for you, recommend us to your family and friends.
+
+ECO-FRIENDLY: WalkTask will run in the background and does not waste power, we will count your steps for you by taking your movement and exercise distance.
+
+TOTAL PRIVACY: WalkTask doesn't get your location information, so you don't need to worry about any privacy leakage, and we don't share any information with any third party!
+
+Completely Free: WalkTask is completely free and offers you to redeem goods and services.
+
+We hope our app can make become a better and healthier you:
+
+Suggestions for questions: walktask@hotmail.com
+
+User Agreement: https://www.walktask.com/privacy
+
+Privacy Agreement: https://www.walktask.com/deleteAccount
+
+Delete account: https://utopian-phosphrus-8a1.notion.site/How-to-delete-your-account-3176a26f820c436bbed241831462d0e7",2024-08-16T07:00:00Z,2025-09-23T00:31:32Z
+mm,Myanmar,Health & Fitness,6013,14,6443740936,Lyfta: Gym Tracker & Planner,Lindberg Development AS,https://apps.apple.com/mm/app/lyfta-gym-tracker-planner/id6443740936?uo=4,0.0,4.76923,13,Health & Fitness,"Join over 3 million gym and fitness enthusiasts and lift more with Lyfta – the free workout tracker, gym log, and strength training planner.
+
+Log your workouts, build routines, and track progress so you can focus on what matters most: getting stronger.
+
+What Our Users Are Saying:
+
+• ""I've tried probably 10 different gym apps over the years, and none of them clicked for me until Lyfta. It's crazy how much is available for free, from the unlimited custom free routines to their massive exercise library. It just has everything you need to actually stick with it."" – Ryan
+
+• ""I love how simple it is to plan my workouts in Lyfta. I used to feel lost at the gym, but the guided exercises keep me on track. And seeing my progress with the stats has me getting stronger every single week. It's so motivating!"" – Kady
+
+• ""Lyfta has made a huge difference in my consistency. I've never been able to stick with a routine until now. Seeing my friends' workouts and jumping into the community challenges gets me excited to come back, and I've honestly made some serious gains since I started."" – Rojaas
+
+Why choose Lyfta?
+• Free, simple, and ad-free workout tracker
+• Create and customize weightlifting programs & gym routines
+• Track progress in strength, volume, sets, reps, and PRs
+• Stay motivated with friends, challenges, and milestones
+
+Powerful Gym Workout Tracking
+• Log sets, reps, weight, RPE, and notes in seconds
+• 5,000+ exercises with HD video guides for perfect form
+• Build unlimited custom programs or follow proven ones like StrongLifts 5x5, nSuns, GZCL, Push/Pull/Legs, Rp Hypertrophy, German Volume Training, and more. Note: Lyfta is not affiliated with, endorsed by, or sponsored by any of these gym programs.
+• Add your own custom lifts with muscle groups & equipment
+• Track advanced sets: warm-ups, drop sets, supersets, AMRAP, and failure sets
+• Auto rest timers keep your sessions efficient
+• Built-in One-Rep Max calculator for all major lifts
+
+Stay Motivated & Connected
+• Share workouts, routines, and progress with friends
+• Follow your training partners and cheer them on
+• Monthly strength challenges and global leaderboards
+• Streaks and milestones to celebrate every achievement
+• Privacy controls: choose public or private profile
+
+Integrations & Compatibility
+• Apple Watch support for live workout tracking
+• Quick widgets and shortcuts for faster logging
+• Sync with Apple Health and Strava,
+• Seamless data sync across all devices
+
+If you like Lyfta, try Lyfta Pro free for 14 days! Unlock advanced analytics, expert programs, and progression tools to hit new personal bests.
+
+If you choose to purchase Lyfta Pro, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Whether you’re starting your first strength program, building muscle, or chasing new personal records – you belong here. Download Lyfta today, log your training, and reach your goals faster.
+
+Privacy Policy: https://www.lyfta.app/privacy
+Terms of Service: https://www.lyfta.app/terms",2022-10-10T07:00:00Z,2025-11-15T20:21:52Z
+mm,Myanmar,Health & Fitness,6013,15,6743040361,bloater ai,"Rainey, LLC",https://apps.apple.com/mm/app/bloater-ai/id6743040361?uo=4,0.0,4.5,8,Health & Fitness,"bloater helps you achieve a leaner, more defined face with AI-powered analysis and expert-guided debloating exercises. Using cutting-edge facial scanning technology, the app detects signs of water retention, facial swelling, and bloating—showing you exactly why your face looks puffy. Over 100,000 people have already experienced a transformation with our carefully crafted routines. Take control of your facial appearance today and experience the power of bloater!
+
+HOW TO USE bloater:
+
+1) Upload a photo of your face and answer a few questions
+2) Access your bloating analysis and improvement routine
+3) Discover personalized insights with your custom debloating routine
+4) Scan food for bloating potential
+
+SUBSCRIPTION REQUIRED:
+* AI-powered bloating face analysis
+* Food bloating analysis
+* Personalized debloating routines
+* Daily checklist
+* Analysis statistics
+* Detailed insights
+* Custom debloating routine
+* Tracking micronutrients
+* Bloat forecast
+* Water tracking
+
+NOTE: We do not offer health or medical advice. Any and all face analysis, measurements, and recommendations should be viewed as suggestions for entertainment and self-discovery purposes only. Please consult with dermatology professionals for any medical or health concerns. All recommendations and suggestions are intended for informational purposes only.
+
+Please consult a qualified health professional for personalized guidance and support.
+
+Debloating routine recommendations are for entertainment and informational purposes only. Always consult with healthcare providers before making any changes to your health & skin care routine.
+
+TERMS OF USE: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+PRIVACY: https://www.tylerrainey.com/privacy.html",2025-03-13T07:00:00Z,2025-10-01T08:47:36Z
+mm,Myanmar,Health & Fitness,6013,16,1313192037,Home Workout - No Equipments,Leap Health Fitness Limited,https://apps.apple.com/mm/app/home-workout-no-equipments/id1313192037?uo=4,0.0,4.91378,58,Health & Fitness,"Looking to build muscle and lose weight? Home Workout has got you covered!
+Home workouts with no equipment, easy to follow.
+Follow the tailored workout plans and expert guidance to meet a fitter, stronger you!
+
+Home Workout app is an expertly crafted fitness app that offers a variety of workouts and workout plans suitable for everyone, from fitness beginners to experts.
+
+With no equipment required, you can start workouts anytime, anywhere– whether you're at home, in the gym, or outdoors.
+
+And that's not all! Home Workout also provides personalized workout plans tailored to your individual needs, whether your aim is to build muscle, lose weight, or simply stay fit.
+
+Plus, with a real-time workout tracker, your training data will be automatically recorded and you'll never miss a single workout progress. So why wait? Time to get ready to transform your body today with Home Workout!
+
+Home Workout prioritizes your fitness goals and workout results.
+1. START ANYTIME & ANYWHERE
+Our easy-to-follow workouts need no equipment. With Home Workout, just tap and start your workout plan anytime, whether at home, in the gym, or outdoors.
+
+2. EXPERT-TAILORED WORKOUT PLAN
+Gain muscle, lose weight, or just keep fit - Home Workout provides a personalized workout plan that exactly fits your goals and lifestyle. And the best part? It's fast-acting and produces long-lasting workout results.
+
+3. WIDE RANGE OF WORKOUTS
+Everyone can find the workouts they want here, whether you want to lose fat, target specific muscles, stretch your body, or just get a good mood. Home Workout has got you covered with a variety of targeted workouts.
+
+Get Moving with Home Workout's Highlight Features:
+• Personalized Workout Plan just for you: Tailored to your fitness goals & focus areas, and get faster workout results.
+• 500+ Varied Workouts: A wide variety of workouts and exercises that cater to your every individual needs.
+• Smart Fitness Tracker: Automatically record your workout progress and help you stay on track.
+
+Other Can't-Miss Features:
+• Pro Workout Video Guides: Work out effectively, prevent injury, and get inspired.
+• Apple Health Integration: Seamlessly integrate your fitness data (calories, steps…) for better workout progress tracking
+• Clear Workout Data Charts: Track weight and calorie trends for informed decisions.
+• Customized Reminders: Never miss a training session or daily workout goal.
+• Share with friends: Inspire and get inspired.
+
+No Hidden Charges, say goodbye to unexpected ""surprises"".
+
+Subscription Terms and Details
+- Get unlimited access to all features for USD $39.99/year.
+- The payment will be charged to your iTunes account at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Subscription may be managed and auto-renewal may be turned off by going to Account Settings after purchase.
+- The account will be charged for renewal within 24 hours prior to the end of the current period.
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+Privacy Policy: https://maleworkout.leaphealth.fitness/privacypolicy.html
+Terms of Use: https://maleworkout.leaphealth.fitness/terms.html",2020-04-09T07:00:00Z,2025-11-18T09:09:51Z
+mm,Myanmar,Health & Fitness,6013,17,1037595083,StepsApp Pedometer,StepsApp GmbH,https://apps.apple.com/mm/app/stepsapp-pedometer/id1037595083?uo=4,0.0,4.77647,85,Health & Fitness,"Join the world’s largest walking community!
+StepsApp turns your iPhone into a sleek, powerful step counter — no extra devices needed. 
+
+Just slip your phone into your pocket and get moving.
+Set goals. Count steps. Burn calories.
+
+STEPSAPP INCLUDES
+
+• Automatic step counting
+• Stunning charts and animations
+• NEW: Workouts with Map Tracking, Heart Rate Zones and Insights.
+• Apple Health integration
+• Apple Watch support
+• Workouts with GPS tracking
+• Active calories
+• Insights
+• Trends. Totals. Records.
+• Powerful day, week, and month views
+• Awards with 3D medals
+• iOS 14 widgets for your home screen
+• Dark and Light Mode
+• Six beautiful colors – also change the app icon
+• iMessage app
+• Today widget
+• More Daily goals & Notifications
+• Social media sharing
+• Wheelchair support
+• Export data
+• No extra hardware required
+
+YOUR ACTIVITY AT A GLANCE
+
+• Quick overview of your daily steps, distance, time, floors climbed, and active calories.
+• Beautiful weekly, monthly, and yearly charts.
+• See your progress directly in the today widget.
+• Display your current step count or wheelchair pushes on the app icon.
+• Notifications when you have reached your daily activity goal.
+• Weekly Report
+• Set and reach your goal… step by step.
+
+APPLE WATCH & APPLE HEALTH
+
+• Synchronize and import your activity data via Apple Health.
+• Track your activity with your iPhone and your Apple Watch.
+• StepsApp will merge your steps automatically.
+• Now with Apple Watch workouts with GPS tracking.
+• Securely store your actively burned calories in Apple Health.
+
+STEPSAPP FOR EVERYONE
+
+• Also enjoy StepsApp with VoiceOver.
+• Instead of steps, track wheelchair pushes with your Apple Watch.
+• StepsApp supports more than 20 languages.
+
+CUSTOMIZE & SHARE
+
+• Spice up your charts with six beautiful colors.
+• Also change the App Icon
+• Share your achievements on social media directly from  StepsApp...
+• …or with our brand new iMessage app!
+
+Your activity tracker to form a habit of walking, running, hiking 
+and weight loss.
+
+StepsApp Privacy Policy:
+https://steps.app/privacy
+
+* StepsApp requires iPhone 5s or newer",2020-04-10T07:00:00Z,2025-11-20T08:39:12Z
+mm,Myanmar,Health & Fitness,6013,18,634896669,美柚 - 经期·备孕·怀孕·育儿&亲友版,"Xiamen Meet You Co., Ltd.",https://apps.apple.com/mm/app/%E7%BE%8E%E6%9F%9A-%E7%BB%8F%E6%9C%9F-%E5%A4%87%E5%AD%95-%E6%80%80%E5%AD%95-%E8%82%B2%E5%84%BF-%E4%BA%B2%E5%8F%8B%E7%89%88/id634896669?uo=4,0.0,4.59999,115,Health & Fitness,"热门影视综艺推荐App，贴心守护你。
+
+不仅有越用越懂你的经期智能提醒模式，还可根据需要切换为备孕/怀孕/育儿模式，为准妈妈们提供丰富的孕产知识，贴心的孕期提醒。记录宝宝成长瞬间，给妈妈们提供宝宝成长的科学建议。同时还为女生提供了健康、情感、瘦身、美容、购物的知识贴，内置真实的女生交流区，陪伴女性的每一个重要时期！
+
+#智能预测，及时提醒月经期#
+女生的贴身健康管家，记录、预测、提醒，一应俱全，记录你每天的心情、健康细节，帮助你养成良好的生活习惯，让你随时了解自己的生理状况。
+
+#不同模式，关爱需求各异的女性#
+提供经期、备孕、怀孕、育儿四大模式。科学备孕，排卵日一查便知；健康怀孕，知识每日推送，食物能不能吃一查便知；育儿护航，记录宝宝成长每一刻。
+
+#亲友也能参与的育儿时光#
+轻松记录宝宝成长的每个珍贵瞬间。智能上传宝宝的照片和视频，自动创建一个安全且私密的成长空间。支持邀请亲友，一起分享宝宝的成长点滴，与爱的人共同见证宝宝的每一步成长。
+
+#吃饭睡觉聊八卦，一起扎堆她她圈#
+一个可以分享心事，与同好结盟，供你安放情感的真实女性社区！多个火爆圈子，涵盖生活的方方面面，情感、美食、旅行、影视综艺、护肤美容…总有一处让你拥有归属感！
+
+#柚子街，手机上的女人街#
+汇集低价好货，每天近百款新品逛到上瘾，1元购、9.9元购，无需挣扎的价格，放肆购物的快感，激发变美的灵感，增添生活的情趣和品位。
+
+美柚，等待遇见更美的你！
+
+===美柚会员自动续费服务声明 ===
+【美柚会员权益】智能分析、桌面小组件、专业健康测评、免除广告等多项权益。
+【订阅周期】
+美柚会员-连续包月:订阅周期1个月
+美柚会员-连续包季:订阅周期3个月
+美柚会员-连续包年:订阅周期12个月
+【订阅价格】以iAP申请信息为准，例如连续包月产品为每月15元；连续包季产品为每季度42元；连续包年产品为每年158元。
+【付款】用户确认购买并付款后计入iTunes账户:
+【续订】“连续包月/季/年”商品为自动续费商品，确认购买后，会从您的iTunes账户扣费。订阅将会自动续订，除非在当前订阅结束前至少24小时关闭自动续订在您订阅周期到期前 24小时内，苹果会自动从iTunes账户扣费，成功后会员有效期自动延长一个周期。
+【取消续订】如需取消自动续费，请手动在苹果手机「设置」--点击「Apple ID」，选择进入「订阅」页面，选择「美柚」取消订阅即可。
+
+会员用户服务协议：https://nodejs-user.seeyouyima.com/users/vip-agreement.html
+会员自动续费服务协议：https://nodejs-user.seeyouyima.com/users/vip-renewal-agreement.html",2020-04-10T07:00:00Z,2025-11-17T01:25:58Z
+mm,Myanmar,Health & Fitness,6013,19,6670539969,RDFit - Runde Intelligent,"Shenzhen Runde Intelligent Communication Technology Co., Ltd.",https://apps.apple.com/mm/app/rdfit-runde-intelligent/id6670539969?uo=4,0.0,5,3,Health & Fitness,"RDFit app integrates HealthKit to read and write some data in the Health app.
+Runde Intelligent Communication is a high-tech company integrating R&D and production of mobile phones and peripheral products, smart wearable devices, and operating e-commerce; R&D and sales of electronic products, digital products, and smart products; electronic software development, electronic products, communication products, and mobile phones , Communication switching equipment, digital integrated system equipment, special electronic equipment, software product design, technology development and technical consulting and sales; computer software, computer network software development; domestic trade, operating import and export business.
+users to seek a doctor’s advice in addition to using this app and before making any medical decisions.",2024-09-21T07:00:00Z,2025-11-17T18:33:00Z
+mm,Myanmar,Health & Fitness,6013,20,6747105064,Heart Mate -Heart Rate Monitor,Blue Aurora Technology Limited,https://apps.apple.com/mm/app/heart-mate-heart-rate-monitor/id6747105064?uo=4,0.0,0,0,Health & Fitness,"Measure in 30 seconds – No hardware needed. Track trends with dynamic graphs, understand HRV insights like ""Rest Needed/Rest Immediately/Steady State/Optimal Vitality"", and get personalized wellness guidance.
+—————————————————————————————
+Camera-Based Heart Rate Tracking
+• Hardware-free measurement:  30-second fingertip contact uses PPG technology to detect blood flow changes.
+• 24/7 usability: Monitor morning resting rate, post-exercise recovery, and nighttime stress levels effortlessly.
+
+Dynamic Heart Rate Charts
+• Visual trend tracking: The fluctuation chart visually displays the changes in heart rate this week.
+• Health range markers: Normal/abnormal zones help quickly assess your status.
+
+Comprehensive Heart Reports
+• Key metrics: Heart rate and HRV (Heart Rate Variability) data.
+• Plain-language insights: Medical-grade data simplified into actionable wellness advice.
+—————————————————————————————
+Subscription
+• Auto-renews via iTunes account
+• Cancel anytime in account settings
+—————————————————————————————
+Terms & Privacy
+By continuing you agree to:
+User Agreement: https://m.black-unique.com/slime/pages/4947-2FB12750/index.html
+Privacy Policy: https://m.black-unique.com/slime/pages/4946-B4CECD94/index.html",2025-06-30T07:00:00Z,2025-11-14T01:19:35Z
+mm,Myanmar,Health & Fitness,6013,21,6480417616,Cal AI - Calorie Tracker,Viral Development LLC,https://apps.apple.com/mm/app/cal-ai-calorie-tracker/id6480417616?uo=4,0.0,4.488,125,Health & Fitness,"HOW TO USE CAL AI:
+
+1) Answer lifestyle questions to build your plan
+
+2) Snap a photo of your meal*
+
+3) Get your nutritional breakdown*
+
+If you want to get your dream body, Cal AI will help you get there with less time spent than anyone else.
+
+We aren't another complicated diet app. We want to empower everyone to be confident in their bodies with minimal time spent, but you have to work hard. We will support you and give you the tools and information you need.
+
+If you have any ideas or questions, please email us at team@calai.app.
+
+NOTE: We do not offer medical advice. Any and all recommendations should be viewed as suggestions, please consult with a professional and do your own research before trying a new calorie and nutrient plan.
+
+*FOOD SCANNING ANALYSIS RESULTS REQUIRE A SUBSCRIPTION
+TERMS: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-04-08T07:00:00Z,2025-11-18T20:13:13Z
+mm,Myanmar,Health & Fitness,6013,22,1512947756,Wearfit Pro,"Shenzhen Wakeup technology Co., Ltd.",https://apps.apple.com/mm/app/wearfit-pro/id1512947756?uo=4,0.0,4.42856,7,Health & Fitness,"By tightening the bracelet, we can help more people understand and manage their health, thereby making them healthier. At the same time, we will get closer to your footsteps and distance to provide you with better health guidance. You can view the detailed step record analysis at the end of the exercise, or refer to the exercise record on the homepage),
+We will capture and share your exercise data (steps, weight, etc.) in HealthKit to gain a more comprehensive understanding of your exercise status
+
+
+
+[Description of continuous monthly subscription for Wearfit Pro members]
+1. Service name: VIP continuous monthly membership
+2. Subscription period: one month
+3. Subscription price:  USD $ 3.99 dollars per month
+4. Payment: Credit to iTunes account after user confirms purchase and pays
+5. Cancel the renewal: If you need to cancel the renewal, please manually turn off the automatic renewal function in the iTunes/AppleID settings management 24 hours before the current subscription expires
+6. Renewal: Apple's iTunes account will be debited within 24 hours before expiration. After the deduction is successful, the subscription period will be extended for one month
+7. Privacy Policy: http://h5.iwhop.com/login/privacy_policy/privacy_policy.html
+8. User Service Agreement: http://h5.iwhop.com/login/user_agreement/user_agreement.html
+9.VIP Member Service Agreement: http://howear.iwhop.com/cdn/html/member_agreement.html",2020-06-29T07:00:00Z,2025-11-22T02:19:25Z
+mm,Myanmar,Health & Fitness,6013,23,6502970867,Binfo,Earthlike Ltd.,https://apps.apple.com/mm/app/binfo/id6502970867?uo=4,0.0,5,3,Health & Fitness,"The BINFO Calorie Tracker is a versatile and user-friendly application designed to empower you in your journey toward better health and nutrition. With this app, you can:
+
+1. Monitor Your Caloric Intake: Keep track of the calories you consume each day. Log your meals and snacks to gain insight into your dietary habits and make informed decisions about your calorie intake.
+
+2. Plan Balanced Meals: Plan your meals in advance with the app's meal planning feature. Create daily or weekly meal plans and set calorie goals to help you achieve your dietary objectives.
+
+3. Track Nutritional Information: Beyond just calories, the app provides detailed nutritional information for each food item you log. Explore macronutrients (carbohydrates, proteins, and fats), vitamins, minerals, and more to ensure a balanced diet.
+
+4. Achieve Your Fitness Goals: Use the app to set and monitor your fitness goals, whether it's losing weight, gaining muscle, or maintaining a healthy lifestyle. Track your progress over time.
+
+5. Stay Hydrated: Monitor your daily water intake to ensure you stay adequately hydrated. Proper hydration is essential for overall well-being.
+
+6. Record Exercise Activities: Log your exercise routines and track the calories burned during workouts. The app can integrate with fitness devices and apps for more accurate data.
+
+7. Customize Your Profile: Tailor the app to your unique needs and preferences by customizing your profile. Adjust your calorie targets based on your goals and dietary requirements.
+
+8. Access an Extensive Food Database: The app includes an extensive database of foods and beverages, making it easy to find and log items, whether they're common groceries or specific restaurant dishes.
+
+9. Visualize Your Progress: Use charts and graphs to visualize your progress over time. Track changes in your weight, calorie consumption, and nutritional intake to stay motivated and on course.
+
+10. Connect with a Community: Depending on the version of the app, you might have access to a supportive community of like-minded individuals. Share your progress, seek advice, and offer support to others on their health and fitness journeys.
+
+11. Ensure Data Security: Rest easy knowing that your sensitive health information is secure. The app typically employs robust security measures and complies with privacy regulations to protect your data.
+In summary, the BINFO Calorie Tracker is a comprehensive tool to help you take control of your diet, improve your nutrition, and work toward your fitness and weight management goals. Whether you want to shed a few pounds, maintain a healthy lifestyle, or simply become more mindful of what you eat, this app is your trusted companion on your journey to better health.",2024-05-23T07:00:00Z,2025-10-03T11:37:48Z
+mm,Myanmar,Health & Fitness,6013,24,6746392568,Heart Health Monitor & Tracker,EVOLLY.APP PTE. LTD,https://apps.apple.com/mm/app/heart-health-monitor-tracker/id6746392568?uo=4,0.0,2,1,Health & Fitness,"Your heart powers every moment of your life. Heart Health Monitor & Tracker puts advanced heart monitoring, heart rate tracking, and pulse analysis right in your pocket—giving you the tools to take control of your cardiovascular health with ease and precision.
+
+Key Features:
+* Real-Time Heart Rate Monitoring Track your heart rate easily using your phone or connected devices with accurate, real-time readings.
+* Daily Heart Health Reports Get clear, visual summaries of your heart activity, trends, and overall cardiovascular performance.
+* Arrhythmia & Irregular Rhythm Alerts Receive notifications when the app detects signs of irregular heartbeats like AFib or skipped beats.
+* Personalized Health Insights Understand your patterns and receive tailored advice based on your unique heart data and trends.
+* Apple Health Integration Sync seamlessly with Apple Health and other compatible platforms for a complete health profile.
+
+Why Choose Heart Health Monitor & Tracker? Designed for ease of use and backed by accurate data, this app is ideal for anyone looking to track heart performance, detect potential issues early, and live a heart-healthy life.
+
+Download Heart Health Monitor & Tracker today and take the first step toward better heart health.
+
+
+Disclaimer:
+* Heart Health Monitor & Tracker is not a medical device and should not be used to diagnose heart conditions.
+* Heart Health Monitor & Tracker is not intended for use in medical emergencies. Please consult your primary care physician if you require medical assistance.
+* Heart Health Monitor & Tracker is NOT INTENDED FOR MEDICAL USE and is designed for fitness and general wellness purposes only.
+* Heart Health Monitor & Tracker provides general health information and is not a substitute for professional medical advice, diagnosis, or treatment.
+* The app may cause your phone’s LED flash to become very hot during use. Please use with caution.
+
+
+Upgrade to Premium to remove ads and unlock all features. We offer weekly, monthly, and yearly subscription options, with or without a 3-day free trial.
+– Payment will be charged to your iTunes Account at confirmation of purchase (after the free trial period, if applicable). 
+– The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. 
+– Your account will be charged for renewal within 24 hours prior to the end of the current period, and the cost of the renewal will be provided. 
+– Subscriptions can be managed by the user, and auto-renewal can be turned off by going to Account Settings after purchase. 
+– Any unused portion of a free trial period (if offered) will be forfeited when the user purchases a subscription.
+
+Privacy Policy: https://evolly.app/privacy-policy/
+Terms of Use: https://evolly.app/terms-of-service/",2025-06-03T07:00:00Z,2025-09-22T18:17:30Z
+mm,Myanmar,Health & Fitness,6013,25,1587451906,MActivePro,"Shenzhen Horn Big Data Software Co.,Ltd",https://apps.apple.com/mm/app/mactivepro/id1587451906?uo=4,0.0,5,1,Health & Fitness,"The MActive Pro smart bracelet application, paired with a smart bracelet, can manage daily steps, sleep, reminder calls, SMS and other functions in your life, and provide relevant opinions and prompts, allowing technology to light up your life and protect your health.The MActive Pro smart bracelet application, paired with a smart bracelet, can manage daily steps, sleep, reminder calls, SMS and other functions in your life, and provide relevant opinions and prompts, allowing technology to light up your life and protect your health.
+MActive Pro The company's smart watch is not a medical device, so the Health data in the APP cannot be used as a medical diagnosis voucher. Users should seek the doctor's advice before using the application and making any medical decisions.The company's smart watch is not a medical device, so the Health data in the APP cannot be used as a medical diagnosis voucher. Users should seek the doctor's advice before using the application and making any medical decisions.
+
+1. The application can realize data, sleep, exercise records and various Health data. After the smart device Bluetooth connects to the APP, it can receive calls, SMS, app notification alerts, long sitting, drinking water alerts, app notifications, and women's health mode.1. The application can realize data, sleep, exercise records and various Health data. After the smart device Bluetooth connects to the APP, it can receive calls, SMS, app notification alerts, long sitting, drinking water alerts, app notifications, and women's health mode.
+
+2. This app is connected to Apple's health function to record data such as step count and heart rate health to Apple.2. This app is connected to Apple's health function to record data such as step count and heart rate health to Apple",2021-10-27T07:00:00Z,2025-11-12T02:40:39Z

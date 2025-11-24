@@ -1,0 +1,599 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+do,Dominican Republic,Developer Tools,6026,1,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/do/app/o-kam-pro/id1602054864?uo=4,0.0,4.81667,60,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+do,Dominican Republic,Developer Tools,6026,2,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/do/app/scriptable/id1405459188?uo=4,0.0,4.66298,181,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+do,Dominican Republic,Developer Tools,6026,3,899247664,TestFlight,Apple Inc.,https://apps.apple.com/do/app/testflight/id899247664?uo=4,0.0,4.75903,4320,Developer Tools,"TestFlight ofrece una forma fácil de probar las versiones beta de apps y App Clips para proporcionar comentarios útiles a los desarrolladores antes de que publiquen sus apps en App Store. Los desarrolladores pueden invitar a probar sus apps mediante correo electrónico o un enlace público. 
+
+Cuando pruebas la versión beta de una app o un App Clip, Apple recopila y envía al desarrollador de la app los registros de fallos, la información de uso y los comentarios que envíes. El desarrollador podría usar esta información para mejorar su app y productos relacionados. Apple podría usar los registros de fallos e información de uso para mejorar sus productos y servicios.
+
+Para obtener instrucciones sobre la instalación, prueba de apps y el envío de comentarios, o para consultar detalles sobre cómo se manejan tus datos, ve a testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+do,Dominican Republic,Developer Tools,6026,4,6751247034,AI App Maker - Anything,"Create, Incorporated",https://apps.apple.com/do/app/ai-app-maker-anything/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+do,Dominican Republic,Developer Tools,6026,5,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/do/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.5,72,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+do,Dominican Republic,Developer Tools,6026,6,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/do/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.4516,31,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+do,Dominican Republic,Developer Tools,6026,7,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/do/app/ish-shell/id1436902243?uo=4,0.0,4.16667,6,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+do,Dominican Republic,Developer Tools,6026,8,1477376905,GitHub,GitHub,https://apps.apple.com/do/app/github/id1477376905?uo=4,0.0,4.93846,130,Developer Tools,"Hay mucho que puedes hacer en GitHub que no requiere un entorno de desarrollo complejo – como hacer sugerencias en una discusión sobre diseño, o revisar algunas líneas de código. GitHub para iOS te permite avanzar el trabajo donde quiera que te encuentres. Mantente en contacto con tu equipo, asigna propuestas e incluso fusiona, directamente desde la aplicación. Estamos haciendo que estas tareas sean fáciles de realizar, sin importar dónde trabajes, con una excelente experiencia iOS.
+
+Puedes usar GitHub para iOS para:
+
+• Explorar tus notificaciones recientes
+• Leer, reaccionar y responder a incidencias y solicitudes de cambios
+• Revisar y fusionar solicitudes de cambios
+• Organizar propuestas usando etiquetas, asignando a personas, proyectos y más
+• Explorar tus archivos y código
+• Descubrir repositorios nuevos y en tendencia
+
+———
+
+Condiciones de Servicio: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Política de Privacidad: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+do,Dominican Republic,Developer Tools,6026,9,6657984482,PIA S5 Control,MARS BROTHERS LIMITED,https://apps.apple.com/do/app/pia-s5-control/id6657984482?uo=4,0.0,0,0,Developer Tools,"Group Control APP is a free group control app software for iOS launched by PIA S5 Proxy. It can batch control hundreds of iOS mobile devices through PIA S5 Proxy computer application, and realize the simultaneous operation of hundreds of devices. PIA S5 Proxy  Group Control APP is provided free of charge, without additional charge, and does not require the same network environment. It is suitable for e-commerce marketing, games, traffic acquisition, live broadcast and other scenarios, quickly access the Internet, and enhance your online privacy.
+
+√ Free to use
+√ No restrictions on the same network environment and the number of devices
+√ Support for use on real devices and simulators
+√ Simple operation, one computer can manage all mobile devices
+
+[Main features]
+Centralized management: Free batch management of iOS devices, unified configuration and control, and simplified management process.
+Security guarantee: Advanced encryption technology can ensure data transmission security.
+Device support: Support for use on real devices and simulators, one computer can manage all iOS devices.
+Real-time monitoring: Provide real-time device status monitoring to help enterprises and individuals grasp the operation status in time and optimize resource allocation.
+Flexible configuration: No restrictions on the same network environment and the number of devices.
+User-friendly: Simple and intuitive interface design, easy to use.
+
+[How to start using PIA S5 Proxy  Group Control APP]
+Step 1: Install  Group Control APP and log in to the same account on mobile devices and computers
+Step 2: Select the proxy or filter you want to use and save
+Step 3: Click Connect on your mobile device to start using the proxy
+That's it! You can now browse the Internet with unified configuration and control of multiple mobile devices.
+
+PS. If you have feature requests for PIA S5 Proxy  Group Control APP or want to report a bug, please contact us at support@piaproxy.com.",2024-08-28T07:00:00Z,2025-08-27T07:24:05Z
+do,Dominican Republic,Developer Tools,6026,10,640199958,Apple Developer,Apple Inc.,https://apps.apple.com/do/app/apple-developer/id640199958?uo=4,0.0,4.25,12,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+do,Dominican Republic,Developer Tools,6026,11,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/do/app/resolutioner/id1563852783?uo=4,0.0,4.33333,138,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z
+do,Dominican Republic,Developer Tools,6026,12,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/do/app/expo-go/id982107779?uo=4,0.0,4.92856,42,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+do,Dominican Republic,Developer Tools,6026,13,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/do/app/bluetooth-terminal/id1058693037?uo=4,0.0,0,0,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+do,Dominican Republic,Developer Tools,6026,14,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/do/app/koder-code-editor/id1447489375?uo=4,0.0,4.53333,45,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+do,Dominican Republic,Developer Tools,6026,15,1614022293,"Replit: Idea to software, fast","Replit, Inc",https://apps.apple.com/do/app/replit-idea-to-software-fast/id1614022293?uo=4,0.0,4.63636,11,Developer Tools,"Replit es la mejor manera de programar y lanzar proyectos reales, aplicaciones, juegos y más, directamente desde tu teléfono. Con Replit, puedes programar cualquier cosa, en cualquier lugar. Somos compatibles con cientos de lenguajes de programación y frameworks con cero configuración.
+
+Con la aplicación Replit, puedes: 
+• Hostear instantáneamente cualquier cosa sin necesidad de configuración 
+• Programar en vivo con otros a través de una colaboración multijugador en tiempo real 
+• Programar en cualquier lenguaje y cualquier framework
+• Clonar y remezclar proyectos de más de 15 millones de creadores de software 
+• Configurar dominios personalizados para cualquiera de tus proyectos 
+• Usar replAuth para configurar fácilmente el inicio de sesión para los usuarios de tu proyecto 
+• Usar ReplDB para activar rápidamente bases de datos para cualquier proyecto
+
+Replit es perfecto para ti, sin importar si eres nuevo en la programación o has estado creando proyectos durante años. Si eres un principiante, tenemos plantillas fáciles de usar para que puedas aprender a programar el primer proyecto de tus sueños. Si eres un experto, Replit tiene funciones avanzadas para que puedas crear proyectos reales y significativos, todo desde tu teléfono.
+
+Donde quiera que estés en tu viaje de programación, tendrás problemas para encontrar un lenguaje de programación con el que Replit no es compatible. Estos incluyen lenguajes de programación populares como Python, JavaScript, HTML & CSS, C++, C, Java, y muchos más. 
+
+Con Replit, puedes programar y colaborar rápidamente con otros. Invita a tus amigos a programar en vivo un proyecto juntos o clonen los proyectos de otras personas para mezclar sus ideas como propias. Con millones de plantillas y proyectos, tendrás muchas opciones para elegir. 
+
+Una vez que programes un proyecto o una aplicación, se activará instantáneamente con direcciones URL personalizadas para que puedas compartirlo con amigos. El hosting en Replit está integrado y es completamente gratuito. Con cero configuración y dominios personalizados, compartir tu trabajo con cualquier persona en cualquier lugar es fácil.
+
+Con Replit, puedes pasar de escribir tu primera línea de código a crear y compartir proyectos con el mundo, todo desde tu teléfono móvil. Estamos ansiosos por ver lo que vas a crear. 
+
+Condiciones de uso: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+do,Dominican Republic,Developer Tools,6026,16,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/do/app/device-monitor/id1522870046?uo=4,0.0,4.69826,517,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+do,Dominican Republic,Developer Tools,6026,17,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/do/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+do,Dominican Republic,Developer Tools,6026,18,1544728400,xTerminal - SSH Terminal Shell,婉媚 邵,https://apps.apple.com/do/app/xterminal-ssh-terminal-shell/id1544728400?uo=4,0.0,4.85714,21,Developer Tools,"xTerminal - Your Ultimate SSH Terminal Shell
+
+xTerminal is your all-in-one SSH terminal client for managing servers with speed and security. Whether you're an IT professional or a developer, xTerminal gives you the tools to easily connect, control, and manage your servers from anywhere.
+
+Key Features:
+* Interactive SSH Terminal: A fast, reliable terminal for executing commands on your servers. Eg: Use top to monitor system status or follow logs with tail -f.
+* Powerful Editor: Edit documents with vi/vim just like on a desktop, with full support for CTRL and arrow keys, making your SSH terminal experience smooth.
+* Multi-Session Management: Manage multiple SSH connections at once. Add, remove, and switch between sessions with ease, boosting your productivity.
+* Snippets: Save and organize frequently used SSH commands. Quickly search by name, command, or label, making repeated tasks quicker and simpler.
+* Device Management: Add your SSH servers, group them by labels, and search by name, host, or labels. Connect via password or public key authentication.
+* Advanced SSH Options: Support for SSH jump hosts and SOCKS5 proxies for enhanced security and flexible connections.
+* SFTP for File Management: Upload, download, edit, move, and delete files using the built-in SFTP, allowing you to manage files on your servers directly from the terminal.
+* Keep Sessions Alive: Use “Keep Awake” and “Keep Alive” features to maintain persistent SSH connections without interruptions.
+* User-Friendly Interface: Simple navigation with pull-to-refresh, search highlights, sortable lists, and drag-and-drop to reorder devices or snippets.
+* Live Ping Monitoring: Check device connectivity in real-time with ping stats, including ms and TTL, helping you monitor the health of your network.
+* Discover Network Devices: Easily find and save neighboring network devices for quick access later.
+* Secure Port Knocking: Add an extra layer of protection by using port knocking to guard your servers from unauthorized access.
+* Enhanced Security: Use TouchID/FaceID to protect your SSH sessions, ensuring secure access to your terminal on app launch or resume.
+* iCloud Sync: Backup and restore your device and snippet lists across all iOS devices, ensuring seamless access to your settings anywhere.
+* Copy & Paste: Effortlessly run commands from the clipboard or copy terminal output, streamlining your workflow in the terminal.
+* Universal App: Optimized for both iPhone and iPad, giving you a consistent experience across devices.
+* Secure Data Storage: All credentials and data are stored securely on your device, so you can rest assured your information is safe.
+* Batch Execution: Execute commands on multiple servers at once and view all the outputs in one go.
+* Startup Snippets: Set up essential commands to run on app startup, giving you immediate access to critical tasks as soon as you connect.
+
+xTerminal is built for anyone needing a fast, reliable, and secure SSH terminal. It’s perfect for managing remote servers on various platforms, including macOS, Linux, OpenBSD, FreeBSD, NetBSD, Solaris, and OpenVMS.
+
+Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Terms of use https://septudio.com/terms-of-use and privacy policy https://septudio.com/privacy-policy",2020-12-17T08:00:00Z,2025-09-30T12:35:06Z
+do,Dominican Republic,Developer Tools,6026,19,6450932949,ProxyPin - Open Source Capture,"Minimalist Network Co., Ltd.",https://apps.apple.com/do/app/proxypin-open-source-capture/id6450932949?uo=4,0.0,0,0,Developer Tools,"Features
+Mobile scan code connection: no need to manually configure WiFi proxy, including configuration synchronization. All terminals can scan codes to connect and forward traffic to each other.
+Proxy Domain name filtering: Only intercept the traffic you need, and do not intercept other traffic to avoid interference with other applications.
+Script: Support writing JavaScript scripts to process requests or responses.
+Request rewrite: Support redirection, support replacement of request or response message, and can also modify request or response according to the increase.
+Request mapping: Do not request remote services, use local configuration or scripts for response
+Request blocking: Support blocking requests according to URL, and do not send requests to the server.
+Search: Search requests according to keywords, response types and other conditions
+Others: Favorites, history, toolbox, etc.",2024-09-20T07:00:00Z,2025-10-29T19:48:29Z
+do,Dominican Republic,Developer Tools,6026,20,1475741280,SSH Client - Termux & Shell,Moon Technolabs Private Limited,https://apps.apple.com/do/app/ssh-client-termux-shell/id1475741280?uo=4,0.0,3.75,8,Developer Tools,"Here is one of the most intelligent & advanced SSH Client apps to manage and connect remote servers for your iOS and Mac devices
+
+About SSH Client:
+
+SSH Client is an on-the-go SSH-Telnet app with the best putty, console, and shell ios app with powerful remote access & terminal emulator. Our enterprise-grade mobile app is built for all kinds of server management needs. Our comprehensive features are not limited to terminal keyboard and language support, multi-session capability, and Bluetooth keyboard support but many more. Our SSH Client app can easily integrate with AWS, Azure, and Digital Ocean. 
+
+The app is most popular because of its administrator-friendly approach; we have also considered our valued customers suggestions and constantly released updates for SSH Client to become reliable and robust in real-world usage and development.
+• Private key files can now be directly imported in multiple formats (RSA, DSA, Putty) using iTunes sharing from other apps and Clipboard
+• RSA / DSA key generation and authentication and share it via email or Clipboard
+• Get 'Local Notification Alert or blink' before the connection starts terminating
+• Quick retrieval of the last top 3 connected servers to join instantly
+
+SSH Client Functionalities:
+• Launch (Run) a saved command/script at connection startup
+• Connect with your servers using username, password, or private key authentication through SSH
+• Configurable' Standard and Non-Standard' port
+
+Adaptive Terminal:
+• Customize Terminal like background, foreground, cursor colour selection
+• Standard Terminal features, including 'Terminal Emulator with Editor.'
+• Personalize Terminal Size
+• Support Terminal Screen copy/paste and easy text selection
+
+Server Folders:
+• Organized groupwise server to easily and freely manage and control interoperability in a blink. 
+
+Customizable Keyboard:
+• Fully External / Bluetooth keyboard support
+• Special keys such as Esc, Tab, Ctrl, /, :, -, !, |, $, *
+• Built-In keyboard keys with fixed keys like Ctrl, Alt, Tab, Esc, Up, Down, Left, Right and F1-12
+
+Easy Connect:
+• Run multiple prompt sessions at a time
+• Active connection counts indicator at App Badge
+• Configure and manage unlimited future sessions to reduce workload
+
+Gesture Control:
+• Pinch Scaling Terminal Screen
+• One touch on / off for Auto scroll
+• Single tap connection/disconnection from 'Home Screen'
+
+Key Handy Features of Free SSH Client (Best Putty, Console, Shell App):
+• Works over mobile Cellular or WiFi network
+• Use Custom or Mac Built-In fonts
+• Uninterrupted operationality in 'Portrait or Landscape modes
+• Multiple editors supported like Vi, vim, pico, nano, etc
+• Built-in Passcode features
+• Its 'Universal Binary,' hence, no need to buy 2 apps for iPhone and iPad
+
+SFTP Functionalities:
+• Quickly create, rename, and delete files & directories
+• Easily edit text files
+• Upload and Download files from your device to your server and server to your device
+
+What's New?
+• Perform batch execution by selecting the servers
+• Integrate DigitalOcean droplets to a group in SSH
+• Add VM servers from the account
+• Integrate AWS to a group in SSH
+• Integrate Azure to a group in SSH
+
+Know about supported technologies:
+Protocols: SSH, SFTP
+Channel types: Session Shell, Session SFTP, Local Forward
+iOS versions: 14
+
+Subscription Details:
+- Subscriptions allow users to have prompt access to all features with unlimited access to all platforms
+– Payment will be charged to iTunes Account
+– The free trial period lasts for 7 days and automatically renews unless auto-renew is turned off at least 24 hours
+- User can manage subscriptions & auto-renewal by turning it off from Account Settings after purchase
+- All features for all platforms will be disabled upon completion of the subscription
+
+Terms of use: http://moondialer.moontechnolabs.com/v1/ssh-terms 
+Contact us at support@moonapps.xyz
+We welcome suggestions or feedback, as we keep adding new features based on our customers' feedback and requests.",2019-10-12T07:00:00Z,2025-11-05T04:21:17Z
+do,Dominican Republic,Developer Tools,6026,21,6746924726,Gave Survey - Play & Feedback,PLAY2EARN MEDIA LIMITED,https://apps.apple.com/do/app/gave-survey-play-feedback/id6746924726?uo=4,0.0,4.65714,35,Developer Tools,"Welcome to Gave Survey — your gateway to the future of gaming!
+
+Gave Survey is a cutting-edge platform where passionate gamers can test the latest titles before anyone else. As part of our exclusive early access and feedback program, you’ll get to explore fun and engaging mini-games while helping us make them even better.
+
+By sharing your honest opinions and gameplay experiences, you're not just playing — you're shaping the future of gaming. All games available through Gave Survey with your every piece of feedback helping us refine and improve game quality.
+
+At Gave Survey, we’re a passionate team dedicated to crafting fun and engaging casual games. But the real magic happens when players like you join in. Through your feedback, we continuously improve and evolve our games to deliver experiences that truly resonate. Together, we’re turning great games into unforgettable adventures.",2025-06-11T07:00:00Z,2025-06-23T19:20:20Z
+do,Dominican Republic,Developer Tools,6026,22,6444286049,JavaScript Coding Editor & IDE,Cloudbit d.o.o.,https://apps.apple.com/do/app/javascript-coding-editor-ide/id6444286049?uo=4,0.0,0,0,Developer Tools,"A fully functioning offline node.js runtime on your mobile device.
+
+It lets you run JavaScript and TypeScript code and scripts offline on your phone, without any internet connection or server setup. 
+
+You can use it as a compiler, a console, an engine, a runtime, WebView, or an IDE. 
+
+Whether you are a professional developer, a student, or a hobbyist, JavaScript CodePad will help you practice and improve your coding skills anytime, anywhere.
+
+Built in tsc compiler transpiles your TypeScript code to JavaScript offline.
+
+Use the WebView mode to access the built-in Web Browser Window and DOM interface. Combine HTML, CSS, and JavaScript and learn building Web apps. 
+
+Organise your code into modules and run multiple JS files using Node.js as a runtime (Internet connection required).
+
+You can run, execute, and evaluate JS code and programs from this app.
+Lightweight app with full JavaScript syntax highlighting, code completion and editor actions like undo, redo, comment lines, and indent selection to enhance your developer productivity.
+
+Enhanced productivity with live JS and TS code analysis as you type. Catch errors before you run the code.
+
+Built-in AI Assistant, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can also refactor your code, clean it up, check it for bugs, write comments and documentation strings or just explain it.
+
+Blazing fast, all single script and Web View code is ran directly on the embedded node.js runtime or built in Web browser.
+
+Enhance your programming and JavaScript skills by solving built-in coding problems.
+Learn JavaScript with the MDN tutorial. Become a JavaScript coding master.
+Learn TypeScript with the official TypeScript handbook.
+
+Test your JavaScript and TypeScript knowledge, the app will tell you if you are writing valid JavaScript.
+
+With JavaScript CodePad, you can:
+
+- Write and execute JavaScript code with syntax highlighting and auto-indentation.
+- Run and compile TypeScript code and scripts
+- Test and debug your code with the built-in console and error messages.
+- Share and load your code snippets for later use
+- Customised keyboard with special keys and shortcuts for JavaScript and TypeScript
+- Code completion
+- Code formatting
+- Code linting
+- Solve built-in coding challenges
+- Access JavaScript and TypeScript tutorial and library reference from the app
+- Learn new concepts and techniques
+- Write HTML, CSS and JS code and run it in a built-in WebView
+- Run multiple JS files 
+
+Download it today and unleash your creativity with the most popular programming language in the world.
+
+Note that certain features like Code completion, WebView mode and project mode require paid Developer upgrade.",2022-11-09T08:00:00Z,2025-10-07T10:04:25Z
+do,Dominican Republic,Developer Tools,6026,23,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/do/app/a-shell-mini/id1543537943?uo=4,0.0,0,0,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-22T21:42:27Z
+do,Dominican Republic,Developer Tools,6026,24,1536579599,Asistente de Bluetooth,"Hangzhou OrangeJuice Technology Co., Ltd.",https://apps.apple.com/do/app/asistente-de-bluetooth/id1536579599?uo=4,0.0,3.76923,13,Developer Tools,"El Asistente de Bluetooth puede ayudarte a descubrir dispositivos Bluetooth cercanos, conectarte y depurarlos.
+
+Características principales:
+
+Escaneo de dispositivos
+Detección de potencia de señal
+Conexión de dispositivos
+Lectura de información del dispositivo
+Lectura y escritura de datos
+Datos del registro
+Escritura por lotes
+Almacenamiento de paquetes de datos
+Guardar y eliminar datos de escritura comunes
+
+Privacy policy： https://hzjuzhi.com/apps/bluetooth/privacy/
+Terms of Use： https://hzjuzhi.com/apps/bluetooth/terms/",2020-10-26T07:00:00Z,2025-10-09T11:55:08Z
+do,Dominican Republic,Developer Tools,6026,25,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/do/app/stikdebug/id6744045754?uo=4,0.0,4,1,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z

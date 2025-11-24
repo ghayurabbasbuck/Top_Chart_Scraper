@@ -1,0 +1,556 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ms,Montserrat,Productivity,6007,1,6755475759,CNCFeedWizard,Junery Sausa,https://apps.apple.com/ms/app/cncfeedwizard/id6755475759?uo=4,0.0,0,0,Productivity,"CNCFeedWizard is a handy calculator app made for machinists, CNC programmers, and shop owners. It helps you quickly find the right cutting speed and RPM, feed rate, and chip load per tooth for your tools. You can also work out metal removal rate (MRR) to see how fast you’re really cutting. The app includes a tool life prediction calculator using the Taylor equation, so you can plan tool changes better. It can estimate cost per part by combining tooling cost and machine time. You also get tool life per edge or per corner to track insert usage more clearly. For quality control, CNCFeedWizard offers a simple surface finish estimator for turning and milling. It even handles radial chip thinning and spindle power needs, so your feeds and speeds stay safe, efficient, and easy to set.",2025-11-19T08:00:00Z,2025-11-19T13:07:15Z
+ms,Montserrat,Productivity,6007,2,6755465169,BoringBarCalc,Nguyen Thi Hieu,https://apps.apple.com/ms/app/boringbarcalc/id6755465169?uo=4,0.0,0,0,Productivity,"BoringBarCalc is a handy tool made to help machinists, programmers, and shop owners work faster and smarter. The app brings together many useful machining calculators in one easy place. You can quickly check boring bar overhang, tapping torque, thread milling speeds, and more with simple inputs. It also helps adjust feeds for helical moves, ramps, plunges, and corner cutting. Surface finish, heat input, and other cutting conditions can be understood in seconds. The app even supports planning tasks like tool consumption, reorder timing, and shift capacity. Our goal is to make machining calculations simple, accurate, and easy for everyone. With BoringBarCalc, you save time, avoid mistakes, and improve your machining results.",2025-11-19T08:00:00Z,2025-11-19T11:49:20Z
+ms,Montserrat,Productivity,6007,3,6755474140,BoosterPumpHeat,ZUNAIRA BIBI,https://apps.apple.com/ms/app/boosterpumpheat/id6755474140?uo=4,0.0,0,0,Productivity,"BoosterPumpHeat helps pump users see how elevation, weather, and water level change suction safety and NPSH margin. The app groups tools for altitude effects, daily pressure swings, tide or river level moves, and floating roof tank drawdown. Users can test strainers, fouling build-up, and suction line heat gain to balance protection, pressure loss, and temperature rise. Hot recirculation mixing, booster heater changes, and inlet velocity checks guide safer adjustments to flow and layout. Clear calculators show best and worst operating windows so cavitation risk becomes easier to spot. Simple inputs, quick graphs, and plain language make pump health checks fast for both operators and engineers. Use BoosterPumpHeat during design reviews, plant changes, or troubleshooting to keep suction conditions inside a safe zone. The app supports smarter, calmer pump decisions before problems appear in the field.",2025-11-19T08:00:00Z,2025-11-19T11:57:51Z
+ms,Montserrat,Productivity,6007,4,6755479064,CutterUsageTracker,Nguyen Chau Pha,https://apps.apple.com/ms/app/cutterusagetracker/id6755479064?uo=4,0.0,0,0,Productivity,"CutterUsageTracker is a app to keep track of every cutting tool you use on the shop floor. It lets you log tool life with fields like tool code, machine, material, cutting time, parts made, and wear condition so you can see when a cutter really needs to be changed. You can also keep a clean regrind history, noting each regrind number, date, shop, material removed, and current tool size to know how many good runs are left in a tool. Built-in converters help you switch between power, torque, and speed, and between coolant flow units like L/min and gal/min, plus bar and psi for pressure. The app also gives small calculators for engagement time per part, cycle time per part, and best step-over or step-down so you can tune your programs. With all tool and regrind data in one place, you can spot bad cutting conditions, catch root causes, and cut down on sudden tool breaks. CutterUsageTracker helps you use each cutter for the right time, lower tool costs, and keep your machines running more smoothly.",2025-11-19T08:00:00Z,2025-11-19T13:47:22Z
+ms,Montserrat,Productivity,6007,5,6755430134,PressureLawCalc,Nguyen Thi Dao,https://apps.apple.com/ms/app/pressurelawcalc/id6755430134?uo=4,0.0,0,0,Productivity,"PressureLawCalc is a smart tool to help users understand pressure-related behaviour in pumps, liquids, and gases. It explains how dissolved gases turn into bubbles and how mixed vapour pressures change in real systems. The app helps you check air content, find the right place for air separators, and avoid gas pockets in suction lines. It also points out risky temperature ranges in hot-water systems and shows how tank blanketing pressure can improve safety. PressureLawCalc includes tools to see how dissolved solids affect boiling points and how start-up conditions change NPSH. It even guides you on how fast to ramp VFDs to avoid sudden pressure drops. Overall, the app gives clear, practical insights to help prevent cavitation and keep systems running smoothly.",2025-11-18T08:00:00Z,2025-11-18T15:17:16Z
+ms,Montserrat,Productivity,6007,6,6755356266,FlowRiskPassApp,Tran Thanh Dien,https://apps.apple.com/ms/app/flowriskpassapp/id6755356266?uo=4,0.0,0,0,Productivity,"FlowRiskPassApp is a simple and helpful app designed to check common pump and flow problems in an easy way. It helps users understand minimum flow needs, valve pressure drops, and cavitation risks without using complex formulas. The app also checks water hammer conditions, NPSH safety, and flashing risks in orifice plates. It can warn you about vortex formation, low-flow recirculation, and suction issues that may damage equipment. FlowRiskPassApp also supports surge tank and air-release sizing to keep pump suction pressure safe. It guides you in checking minimum submergence and sump approach velocity to avoid air entry and unstable flow. Overall, the app gives quick tools to make systems safer, more reliable, and easier to understand.",2025-11-16T08:00:00Z,2025-11-16T14:21:36Z
+ms,Montserrat,Productivity,6007,7,6755355335,SumpBaffleSelector,Sau Van Be Nguyen,https://apps.apple.com/ms/app/sumpbaffleselector/id6755355335?uo=4,0.0,0,0,Productivity,"SumpBaffleSelector is designed to help engineers make quick and confident decisions for pump and sump setups. Our app brings together easy tools that guide you in sizing baffles, checking inlet elbow effects, and reviewing how pumps interact. It also helps you understand suction boost, seal conditions, and proper flush settings to avoid cavitation problems. You can compare inducer upgrades, explore impeller coating benefits, and estimate cavitation wear in a simple way. The app also offers a basic material selector so you can choose the right metal for tough operating conditions. We focus on clear inputs, simple steps, and results that are easy to apply in real projects. SumpBaffleSelector aims to save time, improve reliability, and support better decisions in everyday pump system work.",2025-11-16T08:00:00Z,2025-11-16T13:30:03Z
+ms,Montserrat,Productivity,6007,8,6755429282,AccessLogCompanion,Talha Riaz khan,https://apps.apple.com/ms/app/accesslogcompanion/id6755429282?uo=4,0.0,0,0,Productivity,"AccessLogCompanion helps guards and site staff record contractor gate entries, exits, and authorizations. The app stores log ID, times, contractor names, companies, purpose of work, approving person, proof checks, plus notes on materials moving in or out. Induction records stay in order with worker names, badge numbers, contractor details, trade or role, module type, and pass or pending status. Quick angle tools change degrees to radians and slope percent for ramps, stairs, and small site checks. Length and height tools handle mm, cm, meters, inches, and feet, while area and volume tools cover m², ft², m³, and ft³. Load tools change kg and tons to kN estimates, helping with simple load checks on small works. Man-hour and speed tools turn people and time into clear totals, and show flow per minute or per hour for gates and barriers.",2025-11-18T08:00:00Z,2025-11-18T13:01:24Z
+ms,Montserrat,Productivity,6007,9,6470351331,DidoTranslator-Universal Trans,Flaming Network Technology Limited,https://apps.apple.com/ms/app/didotranslator-universal-trans/id6470351331?uo=4,0.0,0,0,Productivity,"Unlock the world of language with our cutting-edge translation product! Experience seamless communication across borders with our accurate and efficient translations. Whether you're traveling abroad, engaging with international clients, or simply exploring different cultures, our translation tool is your essential companion.
+
+Our product utilizes the latest machine learning algorithms to deliver precise translations in real-time. With a user-friendly interface and intuitive features, you can easily translate text, speech, and even images with just a few clicks. Plus, our extensive language coverage ensures that you can communicate effectively in virtually any language.
+
+Don't let language barriers hold you back. Embrace the world with our translation product and enjoy the freedom of seamless communication today!
+
+Auto Renewable Subscription Terms:
+
+
+Subscriptions are billed monthly or annually at the rate selected depending on the subscription plan.
+
+
+The price corresponds to the same price segment, which are set in the ""Apple's App Store Matrix"" for other currencies.
+
+
+* Your free trial subscription will automatically renew to a paid subscription unless auto-renew is turned off at least 24 hours before the end of the free trial period.
+
+
+* Please note: any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.
+
+
+* You can cancel a free trial or subscription anytime by turning off auto-renewal through your iTunes account settings. This must be done 24 hours before the end of a free trial or subscription period to avoid being charged. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the free service.
+
+
+* Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+
+
+Terms of Use:
+
+https://lang.didotrans.com/termsofuse.html
+
+
+Privacy Policy:
+
+https://lang.didotrans.com/privacypolicy.html",2023-11-03T07:00:00Z,2025-04-21T21:28:22Z
+ms,Montserrat,Productivity,6007,10,6755439131,Focus - Time Track,Ugur Demirdis,https://apps.apple.com/ms/app/focus-time-track/id6755439131?uo=4,0.0,0,0,Productivity,"Stay focused and boost your productivity with Pomodoro Timer. Use the proven Pomodoro Technique: 25-minute work sessions followed by 5-minute breaks. Simple, effective, and distraction-free.
+
+KEY FEATURES:
+- Classic 25-minute Pomodoro timer
+- Automatic break reminders
+- Available in 7 languages
+- Clean, minimal interface
+- Continues working seamlessly, even if your screen goes dark
+- Notifications when timer completes
+
+PERFECT FOR:
+- Students studying for exams
+- Remote workers staying productive
+- Anyone wanting to manage time better
+- Breaking tasks into focused intervals
+
+HOW IT WORKS:
+1. Start a 25-minute focus session
+2. Work without distractions
+3. Take a 5-minute break
+4. Repeat and accomplish more!
+
+Free to download. No subscriptions. Just pure focus.",2025-11-20T08:00:00Z,2025-11-23T22:07:41Z
+ms,Montserrat,Productivity,6007,11,6749003806,Chataway - Private AI,Coping Hard Inc.,https://apps.apple.com/ms/app/chataway-private-ai/id6749003806?uo=4,0.0,0,0,Productivity,"Chataway: Your All-in-one AI Assistant
+
+Chataway gives you private access to the world's best AI models : GPT-5 for brainstorming and deep thinking, Claude for writing &  coding, Perplexity Sonar Pro for Search, Gemini 2.5 pro for vision, Grok 4 and Gemma 3n, a fully offline local model for complete privacy. Now you can choose the perfect AI for every situation without having to switch apps, get multiple subscriptions and most importantly - without sacrificing privacy.
+
+Chataway does not record or store any of your chats on its servers. All your conversations are stored on your device. Also, your conversations are not used to train chat models by Chataway or the underlying model providers (for example, Open AI, Google, Anthropic). For the most privacy and security, you can talk to our completely offline local model that understands over 140 languages!
+
+Whether you’re testing ideas, getting help with drafting that mail, creating a marketing strategy, working on an important presentation or using AI for your everyday needs like learning about something new or asking for visual help, ChatAway gives you easy, private access to the best model for your job!
+
+Stop chasing the latest AI models. We track, test, and integrate the best-performing models as soon as they launch, so you can focus on your work instead of researching which new AI has released. Simply choose and ask from the world’s best AI models to get the best answer for your query, without compromising on privacy.
+
+AI WRITING ASSISTANT
+With Claude in ChatAway, you can get help with any kind of writing - from replies, emails and speeches to lyrics and poems. It can also help with correcting grammatical, spelling, and punctuation mistakes in your text.
+
+RESEARCH ASSISTANT
+With Perplexity Sonar Pro, find the most up-to-date info for your questions online. From getting to know the weather to discovering the latest fashion trends, this model is perfect for you.
+
+LEARNING ASSISTANT
+Talk to your notes and documents with ChatAway. It will summarize, rewrite, and translate any document for you. And if you have questions about the file’s content, it will answer them all.
+
+VISUAL HELPER
+Want to make sense of what you’re looking at? Take a snap and ask Chataway about it.
+
+OFFLINE, FULLY-PRIVATE AI
+Whether you are on a flight with no internet connectivity or deeply care about privacy, Chataway’s on-device model gives you intelligence whenever you need it.
+
+UNLIMITED ACCESS TO ALL FEATURES
+- You can subscribe for unlimited access to all app’s features.
+- Subscriptions are billed automatically at the rate depending on the selected subscription plan.
+
+Chataway isn’t just another chat app - it’s your private, all-in-one AI assistant to take your productivity to the next level. No more switching between apps or paying for multiple subscriptions to the best models. Get it all in one app. Download Chataway and experience the easiest and the most private way to use AI, anywhere.
+
+
+Terms of service:
+https://chataway.com/terms
+
+Privacy Policy:
+https://chataway.com/privacy",2025-09-01T07:00:00Z,2025-11-21T12:13:57Z
+ms,Montserrat,Productivity,6007,12,6742776498,QuarkPDF,Beya Network Technology Limited,https://apps.apple.com/ms/app/quarkpdf/id6742776498?uo=4,0.0,0,0,Productivity,"Are you still troubled by the operation of PDF files? Quank PDF provides you with a simple and practical solution to quickly merge, split, convert, or optimize scanned documents, making document processing easy and effortless.
+
+PDF Merge: One click integration of multiple files
+Do you need to merge multiple PDFs into one? After adding multiple PDF files, the page size and layout will be automatically unified, and the merged file will be neat and orderly, making reading more convenient.
+
+PDF Splitting: Accurately Extract the Required Content
+After selecting the PDF file, it will be split into separate pages according to the content of the PDF file, making it easier to share a single PDF.
+
+PDF to image conversion: convenient for sharing and use
+Convert PDF to image. Both mobile preview and printing needs can be met, with clear text and no distortion in layout after conversion.
+
+Scan PDF optimization: Blurred files become clearer
+Tilted files or old scanned documents captured by mobile phones. The optimized file can be directly printed or OCR recognized for text, saving time and effort.
+
+Why choose Quank PDF?
+-Easy to operate: clear interface, clear functions at a glance, even beginners can quickly get started
+-Efficient and convenient: Merge, split, and convert in just a few steps, saving a lot of time
+
+Download Quank PDF now and experience efficient document processing!",2025-03-11T07:00:00Z,2025-10-15T10:32:05Z
+ms,Montserrat,Productivity,6007,13,6755454719,LoneWorkerPredictor,Nguyen Thi Quynh Nhu,https://apps.apple.com/ms/app/loneworkerpredictor/id6755454719?uo=4,0.0,0,0,Productivity,"LoneWorkerPredictor is designed to help lone workers stay safe and make better decisions during their day. Our app offers easy tools that check escape routes, task plans, and workload so workers don’t face unnecessary risk. It also uses simple inputs to predict near-miss chances and show the true cost of safety issues. The app helps workers know if weather changes, site conditions, or personal health could affect their tasks. It guides supervisors by ranking which sites need attention first. LoneWorkerPredictor also supports safe lighting setup, end-of-shift driving decisions, and more. Our goal is to give clear, simple, and smart safety guidance that anyone can use in real time.",2025-11-18T08:00:00Z,2025-11-19T06:35:38Z
+ms,Montserrat,Productivity,6007,14,6477489729,Google Gemini,Google LLC,https://apps.apple.com/ms/app/google-gemini/id6477489729?uo=4,0.0,4.78946,19,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+ms,Montserrat,Productivity,6007,15,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/ms/app/chatgpt/id6448311069?uo=4,0.0,4.93103,29,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+ms,Montserrat,Productivity,6007,16,422689480,Gmail - Email by Google,Google LLC,https://apps.apple.com/ms/app/gmail-email-by-google/id422689480?uo=4,0.0,4.63157,19,Productivity,"The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.
+
+With the Gmail app, you can:
+• Make Gmail your default email app on iOS
+• Use Gemini* in Gmail to summarise emails, craft or refine responses, or search your inbox to find what you're looking for
+• Automatically block more than 99.9% of spam, phishing, malware and dangerous links from ever reaching your inbox
+• Undo send, to prevent embarrassing mistakes
+• Turn on Google Chat to connect, create and collaborate with others
+• Get more done as a group in Spaces – a dedicated place for organising people, topics and projects
+• Enjoy high-quality video calling with Google Meet
+• Respond to emails quickly with Smart Reply suggestions
+• Switch between multiple accounts
+• Get notified of new mail fast, with notification centre, badge and lock screen options
+• Search your mail faster with instant results, predictions as you type and spelling suggestions
+• Organise your mail by labelling, starring, deleting and reporting spam
+• Swipe to archive/delete, to quickly clear out your inbox
+• Read your mail with threaded conversations
+• Auto-complete contact names as you type from your Google contacts or your phone
+• Respond to Google Calendar invites right from the app
+
+Gmail is part of Google Workspace, allowing you and your team to easily connect, create and collaborate. You can:
+• Connect with colleagues via Google Meet or Google Chat, send an invite in Calendar, add an action to your task list and more without leaving Gmail
+• Use suggested actions – like Smart Reply, Smart Compose, grammar suggestions and nudges – to help you stay on top of work and take care of simple tasks, so you can be more efficient with your time
+• Stay safe. Our machine-learning models block more than 99.9% of spam, phishing and malware from reaching our users
+
+*Google One AI Premium subscription and Internet connection required. Language and country availability may vary. Check responses for accuracy.",2011-11-02T17:13:30Z,2025-11-17T19:37:28Z
+ms,Montserrat,Productivity,6007,17,1528940523,VPN - Fast VPN Super ™,TOPAPPS TECH PTE LTD,https://apps.apple.com/ms/app/vpn-fast-vpn-super/id1528940523?uo=4,0.0,4.66667,6,Productivity,"VPN - Fast VPN Super
+Protect your security and privacy with ease. Stay safe and anonymous online with just one tap to connect.
+Our app ensures your online safety and anonymity effortlessly.
+
+■ Key Features:
+Effortless one-click connection for secure browsing
+Access to multiple high-speed dedicated VPN servers
+Unlimited bandwidth for seamless streaming and downloading
+Full unlimited VPN without any session limitations
+No registration required
+Stable connections at home and abroad
+Private and incognito browsing experience
+Lightning-fast VPN speeds for seamless connections
+Hotspot VPN protection for enhanced security
+Express VPN speeds comparable to a turbo for your VPN
+Private Internet Access with the convenience of a super VPN, all for free
+
+■ Security Highlights of of Fast VPN Super:
+Encrypted secure DNS to prevent unauthorized access
+Traffic encryption for enhanced security
+DNS & IP leak protection for secure connections
+Strict no-logs policy for complete privacy
+Instant IP change for enhanced anonymity
+Fast VPN Super is a free VPN proxy that offers limitless browsing capabilities.
+Enjoy unrestricted and secure browsing with our completely free virtual private network.
+Connect with a single tap and experience the internet like never before with Fast VPN Super,
+your trusted VPN companion.
+
+■ Where can you use Fast VPN Super ?
+The possibilities are endless. With numerous servers across different locations,
+Fast VPN Super caters to everyone's VPN needs.
+
+Experience seamless VPN performance across the globe with servers in:
+
+USA
+United Kingdom
+Netherlands
+Germany
+Singapore
+Spain
+France
+India
+Canada
+Japan
+Italy
+Austria
+Australia
+Switzerland
+Belgium
+Hong Kong
+UAE
+Discover the power of Fast VPN Super, a truly super VPN solution.
+
+Fast VPN Super, a genuinely free super power VPN.
+
+■ About Subscriptions
+You can become a premium user through an auto-renewable subscription
+
+Weekly: $1.99
+Monthly: $5.99
+Yearly: $53.99
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase
+• You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098 for more information
+• You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period
+• Any unused portion of a free-trial period, will be forfeited when the user purchases a subscription
+
+■ Terms of Service: https://www.supershell.me/about/tos.html
+■ Privacy Policy: https://www.supershell.me/about/privacy.html
+■ Contact Us: hotspotvpn.lab@gmail.com
+
+Install VPN - Fast VPN Super now to enjoy the internet with enhanced privacy and security!",2020-10-22T07:00:00Z,2025-11-19T11:00:42Z
+ms,Montserrat,Productivity,6007,18,1370293473,VPN - Super Unlimited Proxy ™,Mobile Jump Pte Ltd,https://apps.apple.com/ms/app/vpn-super-unlimited-proxy/id1370293473?uo=4,0.0,4.41026,39,Productivity,"FREE VPN FEATURES
+Experience the best free VPN: no ad interruptions and limits
+- Unlimited speed, bandwidth, and time at no cost
+- Access content from 40+ server locations (20+ US cities)
+- Fast VPN: 5,000+ servers dedicated to free users
+- No Activity Logs
+- Military-grade encryption
+- Optimized for iOS devices with 16.0+ (iPhone, iPad, Mac, Apple Vision)
+- No registration needed
+
+First time users get a 7-day free trial to our monthly and yearly plans.
+
+WHAT IS A VPN?
+
+VPNs create an encrypted tunnel for your data and protect your online identity by hiding your IP address. VPNs can help you
+- secure your connection on public WiFi - such as in school, at work, or traveling
+- protect your privacy from your Internet Service Provider or at work
+- access messaging services (e.g., WhatsApp, Telegram, Messenger, Discord)
+- access social media (e.g., Instagram, Tik Tok, Facebook, Snap, Twitter, X, Reddit
+- access streaming services (e.g., Netflix, HBO, Hulu, YouTube)
+- access mobile games (e.g., Plato, Honor of Kings, Genshin Impact, Pokémon GO, Rise of Kingdoms, Clash of Kings, PUBG Mobile, Call of Duty: Mobile, Fortnite, Minecraft, Mobile Legends: Bang Bang, Free Fire, Roblox, )
+
+VPN PROTOCOLS
+- We offer up to 4 VPN protocols for free users (depending on location)
+- Users are recommended to select “Auto” and our VPN will choose the best protocol for you
+- We support OpenVPN, IKEv2, Super, and V2Ray (new protocol)
+
+VPN SERVER LOCATIONS WORLDWIDE
+
+Choose from over 5,000+ servers across 55+ countries, including:
+- North America: USA (40+ cities), Canada (3 cities), Mexico
+- Europe: Austria, Belgium, Bulgaria, Switzerland, Czechia, Germany, Denmark, Estonia, Spain, Finland, France, United Kingdom (3 cities), Greece, Croatia, Hungary, Ireland, Iceland, Italy, Lithuania, Luxembourg, Latvia, Moldova, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Russian Federation, Slovakia, Sweden, Ukraine
+- Asia: Australia, Malaysia, Singapore, South Korea, Japan, Hong Kong, Indonesia, India, Israel, Kazakhstan, Taiwan, Vietnam, Turkey, Philippines
+- South America: Brazil, Chile, Colombia, Peru
+- Africa: Egypt, South Africa
+
+PREMIUM VPN FEATURES
+- Ultra fast 10Gbps servers
+- No ads
+- Servers in 55+ countries
+- 40+ US city-level servers
+- City-level servers in Canada and the UK
+- Premium users can protect up to 10 devices
+
+PREMIUM PLANS (no ads, 10G servers, and more):
+Weekly: $9.99/week
+Monthly: $11.99/month (7-day free trial)
+Yearly: $79.99/year (7-day free trial)
+
+PRIVACY COMMITMENT
+VPN - Super Unlimited Proxy is committed to privacy with zero activity logs. We don't collect or retain any information that could compromise your online security.
+
+Links to our Terms of Service and Privacy Notice can be found below:
+
+- Privacy Notice: https://www.vpnsuper.com/privacy-notice
+- Terms of Use: https://www.vpnsuper.com/terms-of-service
+
+Download the top free iPhone VPN to:
+
+- jump through gaming levels faster than you can say biubiu
+- express yourself on social media
+- browse the internet faster than a proton
+- shield yourself on hotspots
+- turbo charge your tunneling
+- break the filters with our proxy master
+- hide your internet activity better than an ostrich",2018-05-15T11:50:11Z,2025-11-24T09:14:21Z
+ms,Montserrat,Productivity,6007,19,1250312807,X-VPN: VPN Free Connected ™,LIGHTNINGLINK NETWORKS PTE. LTD.,https://apps.apple.com/ms/app/x-vpn-vpn-free-connected/id1250312807?uo=4,0.0,4.88889,9,Productivity,"■ Available on all main operating systems.
+■ Secure your connection and protect your privacy with X-VPN.
+■ 700K+ 5-Stars Ratings and millions of users worldwide.
+
+Want total control over your online freedom?
+Stay private and browse with confidence with just one tap.
+Introducing X-VPN (VPN Free Connected™) — a fast, stable, and efficient VPN service built on modern security protocols to help protect your data.
+Connect securely, enjoy smooth performance, and keep your online activity private across all your devices.
+Trusted by millions worldwide. Download X-VPN today to get started!
+
+- No-Logs Policy — nothing tracked, nothing stored.
+- 9+ secure protocols to fit your needs.
+- Multi-device access — connect up to 5 devices at once.
+- Access 8,000+ servers (full access for subscribers)
+- Advanced security: Kill Switch, Double VPN, Static IP and more (subscription required).
+- High-speed servers designed for streaming & gaming performance.
+- Built-in tools: IP checker, DNS leak test, password generator, and more. 
+
+▶ One-tap secure access to your favorite apps and services
+- Messaging: Stay connected on WhatsApp, Telegram, Messenger, Discord and more — with private, encrypted connections.
+- Social networks: Use Instagram, TikTok, Facebook, Snapchat, X/Twitter, Reddit with enhanced privacy and peace of mind.
+- Streaming & gaming servers: Enjoy your favorite content with low latency and stable performance.
+
+▶ Secure your internet activity & Wi-Fi connections
+Anonymous browsing hides your online activity from ISPs and third parties. Whether you’re at home, at work, traveling, or using a public hotspot, X-VPN keeps your traffic encrypted and your mind at ease.
+
+▶ Exclusive protocol for stable, high-performance access
+X-VPN’s exclusive protocol builds a resilient, low-latency tunnel designed to deliver smooth performance for gaming, streaming, and critical browsing. Our advanced VPN protocol keeps your data flowing so you can browse securely and smoothly—at the tap of a connect button.
+
+▶ Maximum Protection & Control
+- Kill Switch — Immediately cuts internet traffic if the VPN disconnects, preventing any data leaks.
+- Double VPN — Double encryption for the highest level of protection.
+- Static IP — Receive the same secure IP address every time you connect.
+X-VPN: premium security with advanced controls: customizable profiles, flexible traffic management, and selectable encryption levels.
+
+▶ Strict Privacy Policy
+We are committed to protecting our users’ privacy and strictly adhere to local laws regarding online privacy protection. Our designated staff regularly review relevant regulations, rules, and legal changes to ensure continuous privacy protection.
+For requests or inquiries concerning user privacy, feel free to contact us at support@xvpn.io, we will respond to requests or inquiries within 48 hours.
+
+You can find more details about the privacy policy on our site:
+- Privacy Policy: https://xvpn.io/?n=best.free.xvpn.PrivacyPolicyPage
+- Terms of Services: https://xvpn.io/?n=best.free.xvpn.TermsOfServicePage
+- EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+
+Contact us
+If you have any suggestions, feel free to contact us in the app.
+
+Follow us:
+- YouTube: https://www.youtube.com/@xvpnteam
+- X (Twitter): https://twitter.com/xvpnteam
+- Facebook: https://www.facebook.com/xvpnteam
+
+X-VPN Premium Subscription
+- 1 Month
+- 1 Year
+
+Additional Subscription Information
+- Charged to iTunes account at purchase.
+- 7-day free trial.
+- Auto-renews unless canceled 24h before period ends.
+- Manage or cancel in iTunes/App Store settings.
+- Renewal charged within 24h before period ends.
+- Unused trial days are forfeited upon subscription",2017-06-27T13:17:12Z,2025-11-21T05:38:42Z
+ms,Montserrat,Productivity,6007,20,842849113,Google Sheets,Google LLC,https://apps.apple.com/ms/app/google-sheets/id842849113?uo=4,0.0,4.8,5,Productivity,"Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:
+
+* Create new spreadsheets or edit existing ones
+* Share spreadsheets and collaborate with others in the same spreadsheet at the same time
+* Work anywhere, anytime - even offline
+* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more
+* Never worry about losing your work -- everything is automatically saved as you type
+* Open, edit, and save Excel files
+
+Google Sheets is part of Google Workspace: where teams of any size can chat, create, and collaborate.
+
+Google Workspace subscribers have access to additional Google Sheets features, including: 
+* Easily add collaborators to projects, see changes as they occur, receive notifications for edits that happen while you’re away, and chat with colleagues in the same spreadsheet. All changes are automatically saved as you make them. And with offline access, you can create, view, and edit files wherever and whenever
+* Get insights fast, powered by Google AI
+* Work seamlessly across Sheets and Excel
+* Maintain control with enterprise-grade security
+* Analyze data from other business-critical tools
+* Build custom solutions",2014-04-30T16:04:38Z,2025-11-17T14:55:04Z
+ms,Montserrat,Productivity,6007,21,1025707485,VPN Proxy Master - Unlimited,"All Connected Co., Ltd",https://apps.apple.com/ms/app/vpn-proxy-master-unlimited/id1025707485?uo=4,0.0,4.42856,7,Productivity,"VPN Proxy Master – best VPN proxy for WiFi hotspot security and privacy protection. You can stay anonymous online and enjoy your favorite content anytime, anywhere.
+
+Features
+* 6700+ worldwide VPN servers 
+* Protect your privacy on public Wi-Fi hotspots 
+* Best VPN for school Wi-Fi and home office
+* Fast servers for streaming(Premium only)
+* High-level encryption protocols: OpenVPN, IKEv2
+* Simple setup, one tap connect to VPN
+* Strict no log policy
+* 24/7 live chat support
+
+Stay Secure Online
+VPN Proxy Master brings an encrypted VPN connection to your iPhone. It will protect your online privacy and network traffic under any Wi-Fi hotspots. 
+
+Surf the Web Anonymously
+VPN Proxy Master hides your true IP address and is fully committed to your digital privacy. Your online activities will stay completely anonymous.
+
+Worldwide VPN Servers
+A worldwide VPN network with over 6700+ servers around the world to ensure you a fast and stable VPN experience. Now you can easily search and save your favorite servers.
+
+24/7 customer support
+Our team is always here to support you. Feel free to drop us a message via live chat or email.
+
+For policy reason, this service is not available in China. We apologize for any inconvenience caused.
+
+Additional Subscription Information
+
+- Subscription may be cancelled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.
+
+- Payment will be charged to iTunes Account at confirmation of purchase.
+
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. 
+
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. 
+
+- No cancellation of the current subscription is allowed during active subscription period.
+
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+
+- Check out our privacy policy and terms of use:
+Privacy policy: https://vpnproxymaster.com/ios/privacy_policy.html
+Terms of use: https://vpnproxymaster.com/ios/terms_of_use.html",2015-09-16T02:49:31Z,2025-11-18T00:28:53Z
+ms,Montserrat,Productivity,6007,22,1365309175,Turbo VPN Private Browser,INNOVATIVE CONNECTING PTE.LIMITED,https://apps.apple.com/ms/app/turbo-vpn-private-browser/id1365309175?uo=4,0.0,5,9,Productivity,"Do you want complete security and privacy while browsing? Turbo VPN Private Browser client provides an encrypted network. Now with Turbo VPN Private Browser, you can browse all your favorite websites smoothly and with complete anonymity! 
+
+Turbo VPN Private Browser - a private explorer that hides your true IP address which means your privacy is secure. With high VPN speed, You can protect your online privacy from losing online identity while using public Wi-Fi hotspots at airports, hotels, and coffee shops. Turbo VPN Private Browser protect your privacy with no logs, you can try Premium features (no ads) free for 3 days.
+
+Benefits of using Turbo VPN Private Browser
+In addition to the security provided by Turbo VPN Private Browser, you also get these benefits:
+
+* Ease of Use
+- One tap to connect to VPN proxy server
+- Choose or enter your favorite websites
+- Enjoy smooth and private web browsing
+- Easily find your favorite server
+
+* Safe & Smooth Browse
+- Access websites, apps and videos privately
+- Surf the web anonymously
+- Protect your internet connection
+- Secure your web sessions at WiFi hotspots
+
+* Stable Web Surfing
+- Lots of cloud proxy VPN servers to provide better private web browser service
+- Unlimited VPN proxy ensure super fast VPN speed to access websites
+
+For policy reason, this service is not available in China. We apologize for any inconvenience caused.
+
+Additional Subscription Information
+
+- Subscription may be cancelled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. 
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. 
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+- Offer limited to one 3 day trial per user. After the first 3 days, subscription renews automatically unless cancelled before the end of the 3 day trial. 
+
+Privacy Policy & Terms of Use
+
+Privacy Policy: https://turbovpn.com/ios/privacy_policy.html
+Terms of Use: https://turbovpn.com/terms-of-service
+______________________
+
+Download Turbo VPN Private Browser!
+Enjoy smooth and private browsing at your fingertips now!
+Protect your online privacy by surfing anonymously now!
+We never store or share your IP address.",2018-04-10T16:34:39Z,2025-10-14T02:13:56Z
+ms,Montserrat,Productivity,6007,23,1569379048,WeTransfer: Transfer Files,WeTransfer BV,https://apps.apple.com/ms/app/wetransfer-transfer-files/id1569379048?uo=4,0.0,5,1,Productivity,"WeTransfer is the simplest way to send (and receive) big files. Whether you’re at your desk or on the go, transfer up to 200 GB in one go. That’s about 2000 videos of your cat. Share photos and videos in their original format, including all the important EXIF metadata that originates from your camera. With WeTransfer, you can check the download status, forward, and delete transfers right from your phone. If you previously sent a transfer from your laptop, you can access the files and link in the app, so you can easily paste it into your favorite messaging app without needing to open your computer. Our Live Activity notifies you when a transfer finishes uploading, so you can multitask or play a quick game while sending huge files. Notifications let you know the minute you receive something so you can preview (or download) your files wherever you are.
+
+About us
+Having made our name in the game of quick and simple file-sharing, WeTransfer has grown into a collection of tools designed for and inspired by the creative process. Collect is the go-to app for saving and sharing inspiration in boards that organize your ideas. Portals makes it easy to request feedback on your in progress projects with Reviews that include asset markup and approval flows. WeTransfer is the original web platform, where creatives share their biggest files.
+
+Terms of Service: https://wetransfer.com/legal/terms
+Privacy policy: https://wetransfer.com/legal/privacy",2021-10-12T07:00:00Z,2025-11-21T14:59:17Z
+ms,Montserrat,Productivity,6007,24,1448677815,MON ESPACE MT,ITISSALAT AL MAGHREB,https://apps.apple.com/ms/app/mon-espace-mt/id1448677815?uo=4,0.0,0,0,Productivity,"Avec l’application « Mon Espace MT », gérez vos lignes en toute mobilité depuis votre smartphone ou tablette. L’application « Mon espace MT » vous permet d’avoir une vision globale de votre compte en temps réel et en un simple clic.
+
+
+Accédez gratuitement et sans consommer votre solde internet à toutes les fonctionnalités de votre espace MT :
+
+
+-       Suivez votre consommation et consultez votre solde en temps réel
+
+-       Consultez, téléchargez et payez vos factures via carte bancaire en toute sécurité
+
+-       Activez des services et options
+
+-       Gérez vos offres et changez vos formules au besoin
+
+-       Rechargez pour vous ou un proche des Pass pour compléter votre forfait en voix ou en data
+
+-       Envoyez des SMS gratuits
+
+
+Profitez de toutes les promotions en cours, retrouvez également les bons plans et participez aux tombolas en ligne",2019-03-16T01:38:54Z,2025-11-23T21:32:43Z
+ms,Montserrat,Productivity,6007,25,1615422104,WireVPN - Fast VPN Proxy,"WEILAI NETWORK TECHNOLOGY CO., LIMITED",https://apps.apple.com/ms/app/wirevpn-fast-vpn-proxy/id1615422104?uo=4,0.0,4,2,Productivity,"Wirevpn is a fast and secure VPN. Adhere to the user's privacy and security in the first place, give full respect and protection, and never force your user name, email address and any payment information to be recorded.
+
+Super many server nodes, you can choose, no matter where you are, Wirvpn will automatically find nearby servers with high bandwidth and low latency. There are no pop-ups and no soft broadcasts. We are committed to providing you with an ad-free app environment.",2022-03-29T07:00:00Z,2025-07-08T05:02:41Z

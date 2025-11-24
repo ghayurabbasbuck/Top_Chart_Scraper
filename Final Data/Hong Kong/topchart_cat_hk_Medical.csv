@@ -1,0 +1,538 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+hk,Hong Kong,Medical,6020,1,1469340861,HA Go,Hospital Authority,https://apps.apple.com/hk/app/ha-go/id1469340861?uo=4,0.0,4.25878,5495,Medical,"全新一站式醫院管理局手機程式「HA Go」，綜合多個醫管局應用程式，加設貼心新功能，讓病人能更有效管理就醫安排及護理健康。「HA Go」提供多項功能，例如：
+•	預約紀錄
+病人可查詢過去一年和未來的診症紀錄。
+
+•	預約通(預約專科門診新症)
+市民可透過此平台，遞交下列專科門診新症預約的申請，包括內科、心胸外科、外科、耳鼻喉科、兒科、骨科、神經外科、眼科、產科、婦科、麻醉科(痛症科門診)和臨床腫瘤科。
+
+•	繳費
+病人可透過此平台繳付醫療費用及查閱賬單。此平台也提供其他支付選項，包括「掃描付款」和「顯示便利店付款條碼」。
+
+•	康復
+病人可透過此程式，根據治療師處方設計的康復訓練方案（影片、遊戲等多媒體功能），在家中或社區隨時隨地進行康復練習。
+
+•	藥物
+病人可透過此程式，輕易找到配藥紀錄、藥物詳細資訊和過敏紀錄。
+
+•	自我管理
+病人可透過此平台，管理自我檢測項目。病人可以手動輸入十種健康數據，包括：體重、體重指標、血壓、脈搏、血糖、體溫、暈眩量表、疼痛量表、腹膜透析及陣痛時計。我的健康中的自我管理功能更可連結Apple健康App，並可以從Apple 健康App內讀取五項健康數據，包括血壓、心跳、血糖、體重及體溫，從而匯入到自我管理作紀錄。
+病人可選擇匯入以下健康數據：
+-	血壓
+-	心跳
+-	血糖
+-	體重
+-	體溫
+病人亦可以隨時於裝置上更改權限設定。
+自我管理可將病人所輸入的健康數據以紀錄及圖表形式展示，以協助病人閱覽其健康趨勢。相關的健康數據旨在促進病人自我健康管理。病人於自我管理功能所輸入或提供的所有健康數據或資料僅供個人參考及記錄之用，這些數據不會作臨床使用，醫管局並無責任根據病人輸入的數據提供任何醫療意見、診斷或治療。有關數據/資料會保存於醫院管理局數據庫兩年，供病人瀏覽或修改。此應用程式並不會向第三方分享這些數據，亦不會作廣告用途。
+
+•	我的資訊
+病人可透過此平台以電子單張、影片或聲帶的形式接收由醫護人員所發放的健康資訊及指引。聲帶播放器提供重複播放功能，聲帶可以在應用程式內或背景播放。此平台的健康資訊由醫院管理局提供。
+
+「HA Go」將陸續推出新功能。
+「HA Go」提供中文及英文版本。",2019-07-27T07:00:00Z,2025-10-27T04:05:09Z
+hk,Hong Kong,Medical,6020,2,1514742468,醫健通eHealth,"eHR Office, Health Bureau, HKSARG",https://apps.apple.com/hk/app/%E9%86%AB%E5%81%A5%E9%80%9Aehealth/id1514742468?uo=4,0.0,4.25018,5504,Medical,"由醫務衞生局電子健康紀錄統籌處開發的醫健通eHealth手機程式，為您提供一站式的健康資訊綜合平台，讓您獲取有用的健康資料以及取覽電子健康紀錄。透過醫健通eHealth手機程式，您可以隨時隨地有效管理及改善您和您的家庭成員的健康狀況。
+
+對於公眾人士：
+醫健通eHealth手機程式給您帶來公共健康資訊以及政府醫療計劃的有關信息。
+
+已登記電子健康紀錄互通系統的病人，更可透過醫健通eHealth手機程式享用其他貼心的功能：
+
+-	取覽電子健康紀錄
+•	預約紀錄
+•	敏感紀錄
+•	藥物紀錄
+•	疫苗紀錄
+•	2019冠狀病毒病相關紀錄（包括新冠疫苗接種紀錄，醫學豁免證明書和康復紀錄）和二維碼
+
+
+-	輸入健康資料
+•	疫苗紀錄
+•	兒童成長紀錄
+•	健康數據(例如血壓、血糖紀錄及體重指數)
+
+-	管理醫健通帳戶
+•	查閱及更新帳戶資料
+•	管理互通同意
+
+-	其他功能
+•	紀錄孩子的健康狀況
+•	搜尋醫生
+•	查閱有關長者醫療券及其他醫療計劃的資料
+
+將來還會增設更多新功能，請密切留意！
+如欲了解更多有關電子健康紀錄互通系統的詳情，請瀏覽www.ehealth.gov.hk",2020-11-19T08:00:00Z,2025-11-10T11:59:59Z
+hk,Hong Kong,Medical,6020,3,1493247674,卓健醫療手機應用程式,Quality Healthcare Medical Centre Limited,https://apps.apple.com/hk/app/%E5%8D%93%E5%81%A5%E9%86%AB%E7%99%82%E6%89%8B%E6%A9%9F%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id1493247674?uo=4,0.0,2.51557,289,Medical,"「卓健醫療手機應用程式」，隨身醫健，掌握健康。
+
+不論何時何地，您都可以透過卓健手機 App，取票掛號普通科門診。
+
+「卓健醫療手機應用程式」的健康記錄功能，加上電子預約及掛號、視像診症、健康助理服務、健康資訊短片等功能，為您提供數碼健康服務。
+
+【一站式健康紀錄服務】
+體檢報告連結至卓健手機App，即可輕鬆查看過往體檢資料及比較最近三次體檢的健康參數。您亦可連結指定醫健產品，為您自動紀錄健康參數,隨時隨地參考個人健康狀況，並記錄血壓、血脂、血糖等重要的個人健康資料。
+*以上功能需要連接外部設備才能正常操作。詳情可瀏覽卓健eshop。
+
+【視像診症及送藥服務】
+視像診症功能配合處方送藥服務，讓您足不出戶即可「睇醫生」，從預約至診症，再到派送處方藥物，讓您在生病時都可以輕鬆照顧自己。服務包括西醫普通科、西醫專科、中醫、心理健康、飲食治療及指定牙科服務。
+
+【電子掛號與預約服務】
+用卓健手機App搜尋就近的普通科醫生，更可即時取票掛號，在您生病時省卻門診的等候時間。此外，您還可以隨時隨地預約專科醫生、牙科、中醫、物理治療、身體檢查、醫學美容及護理等 20 多項服務。
+
+【搜尋診所及醫護人員】
+全球定位系統讓您更快捷搜尋就近的診所及醫護人員；另外更可將經常搜尋的醫護人員加入我的最愛，在有需要時便可即時進行電子掛號及預約，更貼心方便。
+
+【健康資訊與視頻】
+卓健醫療提供健康資訊影片，以充滿趣味性的方式增加您對健康的認知，為您逐一破解健康謬誤，照顧您的身心靈健康。我們亦提供不同主題並經醫護團隊核實的健康資訊。
+
+【健康助理服務】
+我們的專業醫護團隊隨時為您提供基本健康及護理上的建議，即時回應您的生病需要。
+
+【網上商店】
+您可以選購身體檢查、疫苗、中醫保健、醫學美容、牙科、物理治療及心理健康等服務，我們還為您搜羅各樣健康食品、智能醫健產品、復康產品等。
+
+免責聲明：「卓健醫療手機應用程式」不是醫療設備，亦無提供醫療建議。該應用程式的內容不能取代專業醫護人員的醫療意見、診斷或治療。如果對於醫療狀況有任何疑問，請立即尋求醫生或其他合資格醫療服務提供者的建議。",2020-03-31T07:00:00Z,2025-11-03T13:04:21Z
+hk,Hong Kong,Medical,6020,4,1554226009,18區中醫診所,Hospital Authority,https://apps.apple.com/hk/app/18%E5%8D%80%E4%B8%AD%E9%86%AB%E8%A8%BA%E6%89%80/id1554226009?uo=4,0.0,2.51493,134,Medical,"醫院管理局推出流動應用程式「18區中醫診所」，方便求診人士隨時隨地預約中醫診所暨教研中心（中醫診所）的政府資助中醫門診偶發性疾病的診症服務。應用程式設有多個貼心功能，讓病人有效地管理就診安排、查詢實時配藥狀況及各中醫診所的資訊。應用程式亦提供電子繳費功能，以支付應繳款項及查看有關繳費紀錄。
+
+「18區中醫診所」將陸續推出更多新功能。
+
+備註:
+- 資料傳送時或會產生傳送費用，建議用戶留意數據用量
+- 「18區中醫診所」備有繁體中文和英文兩種語言及字體大小選擇",2021-06-26T07:00:00Z,2025-02-03T10:30:24Z
+hk,Hong Kong,Medical,6020,5,6751347016,康健醫療,Town Health International Medical Group Limited,https://apps.apple.com/hk/app/%E5%BA%B7%E5%81%A5%E9%86%AB%E7%99%82/id6751347016?uo=4,0.0,3,2,Medical,"Town Health International Medical Group is one of Hong Kong’s leading healthcare networks, offering comprehensive medical, dental, and specialist services.",2025-10-05T07:00:00Z,2025-11-03T06:05:33Z
+hk,Hong Kong,Medical,6020,6,1490383593,国家医保服务平台,National Healthcare Security Administration,https://apps.apple.com/hk/app/%E5%9B%BD%E5%AE%B6%E5%8C%BB%E4%BF%9D%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0/id1490383593?uo=4,0.0,2.53571,28,Medical,"国家医保服务平台客户端震撼首发
+让您把医保装进手机，服务实时在线
+ 
+1、医保电子凭证。
+一码在手，医保无忧。就医、购药，均可使用医保电子凭证进行医保结算。
+2、异地就医备案
+一键解决异地就医难题。手机在线进行异地就医备案，备案完成即可使用医保电子凭证异地结算。
+3、医保查询服务
+查询方便、快捷。医保公共信息、个人医保信息均可在线查看。
+4、更多医保业务办理
+参保凭证打印、在线参保缴费、特检用药申请等等医保业务一键线上办理。",2020-01-06T08:00:00Z,2025-08-11T02:01:57Z
+hk,Hong Kong,Medical,6020,7,6743828427,AQ - 值得托付的健康管家,"Ant Yikang (Guangzhou) Information Technology Co., Ltd.",https://apps.apple.com/hk/app/aq-%E5%80%BC%E5%BE%97%E6%89%98%E4%BB%98%E7%9A%84%E5%81%A5%E5%BA%B7%E7%AE%A1%E5%AE%B6/id6743828427?uo=4,0.0,5,2,Medical,蚂蚁集团开发和运营的医疗健康AI应用，为用户提供各类健康咨询、图片解读（报告、病例、处方、药盒均支持）、个人和家庭健康档案管理及各类医疗健康服务，如预约挂号、云陪诊等。请注意，AI 答复内容仅为参考，不能替代专业医生的诊断和治疗建议，请视自身情况及时就医咨询。,2025-11-03T08:00:00Z,2025-11-19T08:55:08Z
+hk,Hong Kong,Medical,6020,8,593811445,健康160-挂号问诊体检购药,"Shenzhen Weikangzhiyuan Technology Co., Ltd.",https://apps.apple.com/hk/app/%E5%81%A5%E5%BA%B7160-%E6%8C%82%E5%8F%B7%E9%97%AE%E8%AF%8A%E4%BD%93%E6%A3%80%E8%B4%AD%E8%8D%AF/id593811445?uo=4,0.0,4.87308,520,Medical,"健康160（原就医160） 
+一站式专业医疗健康服务平台
+
+以专业、优质、便捷为服务宗旨，致力于为用户打造互联网+医疗健康”的就医新模式。以互联网手段连接医院、医生和患者，围绕诊前、诊中、诊后全流程健康场景，提供从体检、挂号、问诊到健康商城、健康管理等一站式医疗大健康服务，合作（入驻）单位有怡康（粤(B)广[2025]第04－30－667号）等医院机构，健康160打造“以用户为中心”全生命周期的医疗健康服务平台。
+
+
+免责声明：
+ 1) 健康160所提供的医疗咨询服务系国家法律法规规定的医疗卫生信息服务，并不属于网上诊疗活动，用户不得据此进行任何的治疗活动;相关医生回复不作为诊断、确诊和治疗依据，不能代替医生面诊和诊断。否则引发的任何责任由提问者自行负责，“健康160不予以负责。用户在使用健康160APP之外，做出任何医疗决定之前，应寻求医生的建议。
+ 2) 健康160与其他第三方合作所开展的其他活动，包括但不限于药品信息服务，健康160仅作为技术服务平台，并不作为具体交易的主体，用户知悉该等规定，并无条件同意不违反健康160的该等网站政策和国家法律法规的强制性规定。
+ 3）健康160 不保证医生回复的科学性和正确性。但健康160会确认所有入驻的医生均为合法执业、资质齐全的医生。
+
+联系我们：
+*客服电话：4001191160
+*官方网站：https://www.91160.com
+使用中遇到任何问题，也可以通过“个人中心“-“设置“-“意见反馈”告诉我们，我们会尽快与你联系。",2013-01-28T21:43:47Z,2025-11-13T19:03:06Z
+hk,Hong Kong,Medical,6020,9,1623991394,香港中文大學醫院病人流動應用程式,CUHK Medical Centre Limited,https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%B8%E9%86%AB%E9%99%A2%E7%97%85%E4%BA%BA%E6%B5%81%E5%8B%95%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id1623991394?uo=4,0.0,4.16667,6,Medical,"為了透過全面的創新服務來提供優質的臨床服務，香港中文大學醫學中心有限公司（「中大醫院」）開發了本「香港中文大學醫院病人流動應用程式」此一站式流動平台的設計，旨在中大醫院整個醫護服務旅程中，賦予病人更多參與的權利，以及提升病人整體的服務經驗。
+
+透過這一站式的「香港中文大學醫院病人流動應用程式」，病人能夠以方便及有效的方式，輕鬆管理自己的健康狀況。病人/由病人授權的登記親屬可以通過已登記的手提電話，查閱病人的資料。「香港中文大學醫院病人流動應用程式」提供的功能、特點及服務 （統稱「服務」） 包括讓病人隨時掌握 : 查核和管理臨床服務的預約，設定藥物管理時間表及健康保健的記錄。
+
+在不久的將來，「香港中文大學醫院病人流動應用程式」將提供更多新的服務。",2022-09-28T07:00:00Z,2025-11-03T00:55:56Z
+hk,Hong Kong,Medical,6020,10,1290033697,Union Hospital 仁安醫院,Shatin International Medical Centre Union Hospital,https://apps.apple.com/hk/app/union-hospital-%E4%BB%81%E5%AE%89%E9%86%AB%E9%99%A2/id1290033697?uo=4,0.0,3.44,25,Medical,仁安醫院手機應用程式現已推出！,2017-09-30T17:26:34Z,2024-07-31T01:20:59Z
+hk,Hong Kong,Medical,6020,11,6468657794,衞生署DH,"Department of Health, HKSARG",https://apps.apple.com/hk/app/%E8%A1%9E%E7%94%9F%E7%BD%B2dh/id6468657794?uo=4,0.0,4.65385,26,Medical,"@DH 流動應用程式是香港衞生署開發的電子公共衞生資訊平台，無論您是醫護專業、院舍或學校人員、業界或市民，都能為您提供易於使用及便捷的電子服務及資訊。主要功能如下：
+
+***【最新功能：熱門功能】***
+• 了解衞生署提供的熱門疫苗接種和牙科服務。
+
+***【最新功能：「查牌易」掃描器與牌照搜尋】***
+• 方便驗證持牌藥房、中藥商、私營醫療機構等的二維碼。
+• 只需掃描指定位置的二維碼即可獲取有關牌照的詳細資訊。
+• 若二維碼無效，用戶會收到彈出訊息提醒，保障用戶。
+• 輕鬆瀏覽各種牌照資料庫以進行快速驗證。
+
+【精神健康聊天機器人】
+• 認識您的精神健康支援伙伴 Bonbon 聊天機器人，它提供全天候服務，在您的困難時期提供支援。
+• 輕鬆取得建議和資源，幫助您改善精神健康。
+
+【衞生貼士】
+• 關注衞生防護中心的社交媒體頁面，隨時掌握最新資訊。
+• 獲取最新的公共衞生資訊和新聞公報，以了解重要資訊。
+• 探索各種公共衞生貼士，包括資訊圖表、有趣的短片、實用提示和刊物，以增強您的知識。 
+
+【活動日曆】
+• 探索各範疇的工作坊、活动、衞生講座及研討會。
+• 探索您感興趣的活動。
+• 輕鬆將感興趣的活動，加入個人行動裝置的日曆，方便規劃日程。
+
+【其他電子服務及工具】
+• 填寫便捷的電子申請表格。
+• 輕鬆安排愛滋病毒檢測。
+• 透過「戒煙達人」尋求戒煙支援。
+• 計算您的酒精消耗量。
+• 探索數碼標本館了解更多中藥資訊。
+• 瀏覽各種服務點以獲得協助。
+
+請密切留意更多即將推出的新功能！",2024-01-17T08:00:00Z,2025-08-25T01:34:36Z
+hk,Hong Kong,Medical,6020,12,1552326708,養和醫療,HKSH Medical Group Limited,https://apps.apple.com/hk/app/%E9%A4%8A%E5%92%8C%E9%86%AB%E7%99%82/id1552326708?uo=4,0.0,4.51851,27,Medical,"「養和醫療」應用程式作為您的個人化平台，功能包括預約、管理預約、查閱部分醫療紀錄、了解最新的健康新知及養和資訊。
+
+養和會在程式上透過簡單的問題將您導向適合的預約類型，獲即時確認後可收取預約提示、查閱和管理預約。
+
+養和醫療團隊在程式上為您精心準備全面的健康資訊，以便隨時閱讀常見疾病資訊或日常健康建議，健康生活盡在掌握之中。",2021-02-28T08:00:00Z,2025-10-02T02:12:50Z
+hk,Hong Kong,Medical,6020,13,1387423207,HK Blood,Hospital Authority,https://apps.apple.com/hk/app/hk-blood/id1387423207?uo=4,0.0,1.84291,261,Medical,"香港紅十字會輸血服務中心流動應用程式「HK Blood」，是捐血者的智能夥伴。
+
+透過「HK Blood」，捐血者可以更容易獲取捐血資訊，方便捐血者參與捐血，培養恆常捐血習慣。
+ 
+全新HK Blood提供更方便、更快捷的登入方法，讓你有更好的使用體驗。
+
+現在你可以透過：生物認證 ／ 智方便 登入HK Blood！
+
+「HK Blood」主要功能
+-	預約捐血時段
+-	查閱捐血紀錄
+-	查詢捐血地點
+-	進行捐血前自我評估
+-	接收中心最新宣傳推廣
+
+「賞‧捐血」積分獎勵計劃
+「HK Blood」推出全新捐血積分獎勵計劃，旨在推動更多市民培養恆常捐血習慣。
+
+捐血者在捐血後，會在「HK Blood」獲得積分，而積分可用以換取心儀的捐血紀念品。   
+
+請各位下載「HK Blood」，體驗全新介面及「賞‧捐血」積分獎勵計劃！
+ 
+馬上下載HK Blood！",2018-06-18T05:53:05Z,2025-11-04T23:43:46Z
+hk,Hong Kong,Medical,6020,14,995864179,280days : 讓夫妻共享「懷孕記錄、日記」的應用程式,amane factory inc.,https://apps.apple.com/hk/app/280days-%E8%AE%93%E5%A4%AB%E5%A6%BB%E5%85%B1%E4%BA%AB-%E6%87%B7%E5%AD%95%E8%A8%98%E9%8C%84-%E6%97%A5%E8%A8%98-%E7%9A%84%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F/id995864179?uo=4,0.0,4.81663,2285,Medical,"【可以了解肚子裡的寶寶成長過程！】
+【可由夫妻共享！】
+【可將懷孕記錄做成BOOK！】
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+加倍享受懷孕期間的樂趣！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+280days是為了讓各位能加倍享受懷孕期間樂趣的懷孕記錄及懷孕日記應用程式。夫妻可以一邊共享肚子裡的寶寶情形和媽媽的身體狀況，一邊享受一起做懷孕記錄、寫懷孕日記的樂趣。做好的懷孕記錄還能輸出，製成BOOK。
+無可取代的280days回憶可以做成BOOK，永久保存。
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+280days支援事務局敬請各位用戶配合　　
+ーーーーーーーーーーーーーーーーーーーーーーー
+即使在AppStore的評論寫下個別問題，由於無法掌握詳細狀況的關係，我們將無法解決問題。
+
+如發生問題，
+請利用應用程式內的諮詢功能，或聯絡
+totsukitoka.support@amanefactory.com
+
+我們將全力處理。
+煩請配合，謝謝。
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+用可愛的插圖展現肚子裡的寶寶！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+天天確認肚子裡的寶寶！！
+配合懷孕週數而成長的寶寶插圖，會在您打開應用程式時做出各式各樣的可愛動作。只要觸碰寶寶，寶寶就會說話。寶寶說話的內容會每天改變，表達寶寶的情形或加油的訊息。
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+身體狀況和回憶都會徹底管理！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+每天的身體狀況管理和產檢管理也只要靠這一款應用程式就OK！
+在應用程式中記錄身體狀況和產檢結果，就能一併管理超音波照片和體重記錄等。此外，孕婦照和懷孕期間的每日回憶則可以由夫妻一起記錄為照片日記。
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+新手爸媽也能安心！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+280days的不同懷孕週數的建議全都有附插圖！配合懷孕週數說明寶寶的成長和媽媽的身體狀況變化，給予生活上的建議等，讀起來十分有趣。
+媽媽身體狀況記錄和寶寶的情形都可以跟爸爸分享。應用程式中也有給爸爸的不同懷孕週數的建議，幫助爸爸了解懷孕，協助夫妻間的溝通。
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+懷孕期間所需的功能All-in-One！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+懷孕倒數、體重管理圖表等支援懷孕的功能滿載！
+把寶寶插圖拍成紀念照，上傳到社群網站，或是傳送祝福寶寶成長的訊息卡片，加倍享受懷孕期間的樂趣。
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+懷孕記錄可以做成BOOK！
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+儲存在280days的所有懷孕記錄，都能用好看的BOOK專用排版來輸出。
+儲存在應用程式的超音波照片和孕婦照、日記、彼此傳送的卡片等無法取代的懷孕期間回憶，都能做成BOOK，永久保存。
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーー
+可由夫妻共享！
+懷孕記錄及懷孕日記應用程式《280days》
+ーーーーーーーーーーーーーーーーーーーーーーー
+
+◇寶寶插圖
+・配合媽媽的懷孕週數成長
+・觸碰就會每天說出不同的話
+・取個名字，夫妻一同樂在其中
+・可拍紀念照＆分享至社群網站
+・可選擇設計
+・可顯示雙胞胎
+
+
+◇懷孕倒數
+・顯示生產前的天數、懷孕週數＆日數
+
+
+◇記錄孕婦身體狀況
+・每天都可以輸入身體狀況＆心情
+・蓋章式簡單輸入
+・記錄資料可由夫妻共享
+
+
+◇體重管理及圖表顯示
+・可記錄媽媽的體重變化
+・用圖表顯示體重的變化
+
+
+◇產檢管理
+・利用推播通知提醒產檢預定日
+・可記錄產檢結果
+・可儲存超音波照片
+・記錄資料可由夫妻共享
+
+
+◇懷孕日記
+・可利用附照片的日記來記錄回憶
+・記錄資料可由夫妻共享
+
+
+◇輸出為BOOK
+・於應用程式記錄的資料可用BOOK專用排版來輸出
+
+
+◇不同懷孕週數的建議
+・「這個時期的寶寶」
+配合懷孕週數顯示寶寶的成長
+・「這個時期的媽媽」
+配合懷孕週數顯示媽媽的身體變化及生活上的建議
+・「這個時期給爸爸的建議」
+顯示不同懷孕週數時給爸爸的建議
+
+
+◇懷孕月曆
+・顯示產檢預定日和預產日
+・顯示推薦祈求順產的戌之日
+
+
+◇訊息功能
+・爸爸可以傳送打氣的訊息給媽媽
+・夫妻都可收發訊息卡片
+
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+◆不顯示廣告
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+280days為了讓用戶能度過更舒適的懷孕期間，備有在應用程式內付費即可使應用程式下方的廣告不顯示的功能。若您喜愛本應用程式，敬請多加利用此功能。
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+◆諮詢
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+我們會觀看評論，以了解各位用戶寶貴的意見及感想。
+若您需要諮詢、要求、通報問題等，煩請寄至以下信箱：
+
+totsukitoka.support@amanefactory.com
+
+
+
+＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
+
+280days能連起懷孕期間的家人，孕育新的羈絆。
+祝福各位能度過最精彩的280days。
+
+280days　開發團隊全體成員敬上",2016-02-04T06:14:47Z,2025-03-17T01:22:29Z
+hk,Hong Kong,Medical,6020,15,1531879853,港怡智健康,GHK Hospital Limited,https://apps.apple.com/hk/app/%E6%B8%AF%E6%80%A1%E6%99%BA%E5%81%A5%E5%BA%B7/id1531879853?uo=4,0.0,4.58251,103,Medical,"港怡醫院「港怡智健康」為本院病人提供相關醫療資訊及便利服務。
+
+港怡醫院推出全面醫療資訊平台「港怡智健康」，提供尖端醫療、健康生活及優惠情報等資訊。「護您同行」應用程式提供一站式貼心、多元化服務，包括：
+- 24小時門診及急症室預計輪候時間
+- 專科門診預約
+- 預覽預約資訊及行程
+- 等候時間
+- 尋找路線
+- 帳單查詢
+- 門診繳費
+- 健康紀錄查詢
+- 搜尋醫生",2020-09-30T07:00:00Z,2025-09-29T15:23:16Z
+hk,Hong Kong,Medical,6020,16,1252857347,寶寶生活記錄和育兒日記 - Piyo日誌,PiyoLog Inc.,https://apps.apple.com/hk/app/%E5%AF%B6%E5%AF%B6%E7%94%9F%E6%B4%BB%E8%A8%98%E9%8C%84%E5%92%8C%E8%82%B2%E5%85%92%E6%97%A5%E8%A8%98-piyo%E6%97%A5%E8%AA%8C/id1252857347?uo=4,0.0,4.8915,3364,Medical,"夫妻可以即時分享資訊的育兒記錄App[Piyo日誌]。
+這是一款母子筆記App，透過一隻手的簡易操作，即可替餵牛奶、換尿布及睡眠等事項做記錄！
+並具備了豐富齊全的各種功能，包括哺乳計時器功能、批次處理功能，以及成長曲線功能等等。
+
+◆內建分享功能◆
+輸入在App之中的內容可以立即分享，夫妻兩人隨時都能查看寶寶的記錄。
+當遇上媽媽外出、由爸爸負責照顧寶寶的日子，
+爸爸只要做好記錄，媽媽在外出時也能得知寶寶的睡眠時間和餵乳量，讓人好放心。
+
+◆記錄內容◆
+母乳、牛奶、預擠母乳、副食品、尿布、便便、尿尿、睡眠、
+體溫、身高、體重、洗澡、散步、
+咳嗽、發疹、嘔吐、受傷、服藥、醫院、
+其他自由記述、育兒日記（附照片）
+
+◆特色功能◆
+•即使是正在哺乳等狀況下也能用單手輕鬆操作的設計
+•內建一眼就能了解一整天的概要的時間條功能
+•自動統計一天的總量，清楚顯示哺乳時間、餵乳量及睡眠時間等等
+•可以將用餐、睡眠、排便及體溫的每週變化匯整成淺顯易懂的圖表，一次查看
+•可以透過成長曲線查看嬰兒的成長狀況
+•貼心通知您下一次的哺乳時間
+
+Terms of Use
+https://www.sakabou.co.jp/app/piyolog/eula_en.html",2017-11-02T00:38:06Z,2025-10-26T13:10:19Z
+hk,Hong Kong,Medical,6020,17,1449774428,FreeStyle LibreLink – HK,Abbott Diabetes Care Inc,https://apps.apple.com/hk/app/freestyle-librelink-hk/id1449774428?uo=4,0.0,2.59184,49,Medical,"The FreeStyle LibreLink app is approved for use with FreeStyle Libre and FreeStyle Libre 2 system sensors. You can check your glucose by scanning your sensor with your phone. Now FreeStyle Libre 2 system sensor users can get automatic glucose readings in the FreeStyle LibreLink app, updated every minute, and also receive alarms when your glucose is low or high. [1][2]
+
+You can use the FreeStyle LibreLink app to:
+
+* View your current glucose reading, trend arrow and glucose history
+* Receive low or high glucose alarms with FreeStyle Libre 2 system sensors [2]
+* Add notes to track your food, insulin use and exercise
+* See reports, such as Time in Range and Daily Patterns
+* Share your data with your doctor and family, with your permission [3]
+
+SMARTPHONE COMPATIBILITY
+Compatibility may vary between phones and operating systems. Learn more about compatible phones at http://FreeStyleLibre.com.
+
+USING YOUR APP AND READER WITH THE SAME SENSOR
+Alarms can only be issued on your FreeStyle Libre 2 reader or your phone (not both). To receive alarms on your phone, you must start the sensor with the app. To receive alarms on your FreeStyle Libre 2 reader, you must start the sensor with your reader. Once the sensor has been started with the reader, you can also scan that sensor with your phone.
+
+Remember that the app and reader do not share data with each other. For complete information on a device, scan your sensor every eight hours with that device; otherwise, your reports will not include all your data. You can upload and view data from all of your devices on LibreView.com.
+
+APP INFORMATION
+FreeStyle LibreLink is intended for measuring glucose levels in people with diabetes when used with a sensor. For more information on how to use FreeStyle LibreLink, refer to the User’s Manual, which can be accessed through the app. If you require a printed User’s Manual, contact Abbott Diabetes Care Customer Support.
+
+Consult a healthcare professional to confirm if this product is right for you or if you have questions about how to use this product to make treatment decisions.
+
+Learn more at http://FreeStyleLibre.com.
+
+[1] If you are using the FreeStyle LibreLink app, you must also have access to a blood glucose monitoring system, as the app does not provide one.  
+
+[2] Alarms that you receive do not include your glucose reading, so you must scan your sensor to check your glucose.
+
+[3] Use of FreeStyle LibreLink and LibreLinkUp requires registration with LibreView.
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+For additional legal notices and terms of use, go to http://FreeStyleLibre.com.
+
+========
+
+To resolve any technical or Customer Service issues that you are having with a FreeStyle Libre product, please contact FreeStyle Libre Customer Service directly.",2019-03-23T13:04:38Z,2025-06-12T23:21:37Z
+hk,Hong Kong,Medical,6020,18,1498911504,DrGo,eSmartHealth Limited,https://apps.apple.com/hk/app/drgo/id1498911504?uo=4,0.0,2.83774,265,Medical,"DrGo應用程式將您與香港註冊醫生連繫，為您提供遙距視像醫療諮詢服務！
+•	簡易登記程序，優惠期內成功登記後可獲迎新禮品 (禮品換完即止)！
+•	可按需要選擇醫生、預約及通過視像通話諮詢醫生。
+•	DrGo會安排將醫生為您處方或簽發的藥物、醫療證明及/或轉介信派送至您手上！
+ 
+你可透過DrGo 賞步行存取iOS的HealthKit，以觀察及記錄你的健康數據，包括步數、運動分鐘、步行及跑步距離，助你進行健康管理。
+ 
+
+免責聲明：DrGo由益體健有限公司（「益體健」）提供。DrGo是一個以促進香港註冊醫生為合資格並處身香港的用戶提供醫療和健康護理服務的平台。益體健與用戶之間的關係不構成醫生–病人關係。對於醫生提供的醫療服務的質素或適當性（包括通過視像諮詢方式提供醫療服務），益體健並不承擔或分擔任何責任。在使用DrGo之前，請仔細閱讀DrGo的相關條款及細則（載於DrGo網站）。如果您遇到DrGo列出之任何症狀，則應通召喚救護車，或到就近醫院的急症室尋求緊急協助。DrGo不適合需要緊急醫療救助的症狀。",2020-02-23T08:00:00Z,2025-10-24T12:55:14Z
+hk,Hong Kong,Medical,6020,19,990509104,mSHR,Hospital Authority,https://apps.apple.com/hk/app/mshr/id990509104?uo=4,0.0,2.86239,109,Medical,"流動版員工健康紀錄
+
+mSHR旨在提供一個流動平台，讓註冊用戶查閱在香港醫院管理局的個人健康記錄，令他們更有效管理個人健康。
+
+你可以利用mSHR：
+- 查閱你的預約資料
+- 在線或直接致電職員診所作診症預約、更改及取消預約
+- 查閱你的藥物或其他過敏，及藥物不良反應紀錄
+- 查閱你的放射診斷報告
+- 查閱你的藥物紀錄
+- 查閱你的化驗報告
+
+這個程式的用戶必須持有
+-	醫院管理局的網域帳號或退休職員帳戶，並已啟動人力資源應用程式(HR App) 的行動裝置；或
+-	醫院管理局的eSHR戶口
+如有垂詢，請電郵至mSHR@ha.org.hk。",2015-10-28T15:38:44Z,2025-07-07T10:32:13Z
+hk,Hong Kong,Medical,6020,20,6454671163,香港急症室等候時間,Foodmatesss Limited,https://apps.apple.com/hk/app/%E9%A6%99%E6%B8%AF%E6%80%A5%E7%97%87%E5%AE%A4%E7%AD%89%E5%80%99%E6%99%82%E9%96%93/id6454671163?uo=4,0.0,3,7,Medical,"本程式可助你查看各醫院急症室的輪候時間, 減少你的等候時間, 亦達致分流的作用
+
+功能:
+- 查看各醫院急症室的輪候時間
+- 查看各醫院急症室的地址
+- 按掣以導航至各醫院急症室 (轉往Apple Map)
+- 收藏常用醫院急症室
+- 快速查閱收藏常用醫院急症室的輪候時間
+- 時間資訊由醫院管理局提供
+- 提供以下醫院急症室的輪候時間: 雅麗氏何妙齡那打素醫院, 明愛醫院, 廣華醫院, 北區醫院, 北大嶼山醫院, 瑪嘉烈醫院, 博愛醫院, 威爾斯親王醫院, 東區尤德夫人那打素醫院, 伊利沙伯醫院, 瑪麗醫院, 律敦治醫院, 長洲醫院, 將軍澳醫院, 屯門醫院, 天水圍醫院, 基督教聯合醫院, 仁濟醫院",2023-07-30T07:00:00Z,2023-08-03T15:29:16Z
+hk,Hong Kong,Medical,6020,21,6748640701,drSL,GRADE LIMITED,https://apps.apple.com/hk/app/drsl/id6748640701?uo=4,0.0,0,0,Medical,"好消息：我們現已推出 首次使用免費！所有首次使用 drSL 的費用，將由 GRADE LIMITED 全額補貼，讓您可以零風險體驗最便捷的線上醫療服務。
+
+隨時隨地身體不適？立即下載 DrSL！
+
+DrSL — Smart Life 智慧生活，健康隨行。
+
+．24小時全天候即時搜尋香港醫生
+．診金全免，只收極低平台服務費
+．整個診症過程費用可低至港幣九十元
+．電子醫生紙及專業建議即時提供
+．醫生紙可隨時線上驗證真偽，文件有效有保障
+．首次使用享豐厚津貼優惠
+．推薦好友享高達40%的津貼，推薦越多津貼越多
+．學生、早鳥、推薦多種津貼，助你解困
+
+立即加入 DrSL，用最方便、最快捷的方式 Live a Smart Life！",2025-08-22T07:00:00Z,2025-11-23T15:34:10Z
+hk,Hong Kong,Medical,6020,22,960508109,新界東急症先Phone (NTEC AE Aid ),Hospital Authority,https://apps.apple.com/hk/app/%E6%96%B0%E7%95%8C%E6%9D%B1%E6%80%A5%E7%97%87%E5%85%88phone-ntec-ae-aid/id960508109?uo=4,0.0,2.68421,19,Medical,"威院急症先Phone 已經擴展為新界東急症先phone，用戶可以查詢新界東聯網內威爾斯親王醫院、大埔雅麗氏何妙齡那打素醫院和北區醫院的急症室資訊，分流系統和實時輪候情況，也可以搜尋附近現正開診的診所聯絡方法，供市民參考以選擇適合的求診途徑。
+
+
+
+PWH AE Aid is extended to NTEC AE Aid. Users can retrieve the Accident & Emergency Department’s service, triage system and current waiting status in New Territories East Cluster(Prince of Wales Hospital, Alice Ho Miu Ling Nethersole Hospital and North District Hospital). Moreover, users can search for the contact information of nearby clinics which are now in service. Patients and the public can make reference in choosing suitable consultation channels.
+
+功能包括:
+1. 輪候情況
+2. 附近診所
+3. 急症錦囊
+4. 放鬆心情
+
+
+Main Function:
+1. Waiting Status
+2. Nearby Clinics
+3. A&E Info
+4. Relax",2015-10-01T07:00:00Z,2025-07-29T10:28:42Z
+hk,Hong Kong,Medical,6020,23,6566180586,SIBIONICS GS3,"Shenzhen Silicon Sensor Technology Co.,Ltd.",https://apps.apple.com/hk/app/sibionics-gs3/id6566180586?uo=4,0.0,0,0,Medical,"Stay in control of your health with SIBIONICS GS3, a comprehensive app designed for seamless glucose management. Monitor your blood sugar levels in real-time with Real-time Glucose Monitoring, receiving instant updates and alerts. Dive into your Daily Glucose Analysis to uncover patterns from past data, and utilize Multi-day Analytics & Reports to export detailed insights for informed decisions. Simplify your routine with Easy Meal & Activity Log, effortlessly tracking meals and behaviors. Finally, stay motivated with Daily Goal Tracking, visualizing your progress toward time-in-range targets.More than just CGM, Connecting and accelerating the journey from data to better diabetes management.
+
+Note: Countries and regions where medical devices are approved by regulatory authorities include the European Union (specific countries include: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden)
+
+Disclaimer: This app only provides data collection and display, which cannot be used as the basis for diagnosis, highly recommended to follow your doctor's advice.",2025-06-24T07:00:00Z,2025-11-18T08:23:28Z
+hk,Hong Kong,Medical,6020,24,6480453007,卓健護理介紹所,Quality Healthcare Medical Centre Limited,https://apps.apple.com/hk/app/%E5%8D%93%E5%81%A5%E8%AD%B7%E7%90%86%E4%BB%8B%E7%B4%B9%E6%89%80/id6480453007?uo=4,0.0,4.27273,11,Medical,"卓健護理介紹所助您隨時隨地尋找理想的護理工作， 為您搜羅香港護理行業空缺，以簡易快捷的工作申請流程為您迅速配對，助您發掘更多服務機會。
+
+【輕鬆管理您的工作】
+- 為自僱人士提供廣泛的護理轉介服務，捕獲每個機會！
+- 簡單幾步即可查看您的服務費用記錄。
+- 內建日曆助您有效地自行安排及管理工作時間和保持服務質素。
+
+【卓健護理APP簡單易用，助您提供服務更流暢】
+- 簡化申請過程，令您更容易地安排自己的工作。
+- 儲存工作以作稍後考慮，讓您在配對過程中更有彈性。
+- 隨時隨地接收最新空缺消息，捉緊工作機會。
+- 添加分享工作功能，推介朋友，開心share。
+
+【獎勵您和朋友努力工作】
+- 每月完成15項服務，即可解鎖額外獎勵。
+- 推薦朋友登記卓健護理介紹所，可獲得獎勵，有錢一齊搵！
+
+【利用科技，為環保出一分力】
+- 迅速配對，跟傳統的紙本流程說再見！
+- 全電子化的申請過程，實踐環保理念。
+- 創新科技，利用 GPS 輕鬆簽到。
+
+無論您是註冊護士、登記護士、醫護助理還是其他醫療專業人員，卓健護理介紹所的平台都能助您隨時隨地尋找理想的護理工作。立即下載並體驗專為自僱醫護人員而設的工作配對平台吧！",2024-07-15T07:00:00Z,2025-11-20T10:30:16Z
+hk,Hong Kong,Medical,6020,25,6739476637,德善醫療集團,CEMG Management Limited,https://apps.apple.com/hk/app/%E5%BE%B7%E5%96%84%E9%86%AB%E7%99%82%E9%9B%86%E5%9C%98/id6739476637?uo=4,0.0,0,0,Medical,"德善醫療 — 全方位健康生活平台
+由德善醫療集團打造的健康生活App，集健康資訊、會員獎賞與網上購物於一身，致力於為您提供專業且可靠的健康知識，幫助您養成良好生活習慣，促進身心健康。
+
+加入會員．輕鬆賺積分
+立即註冊成為會員，於德善醫療門市或應用程式購物，即可根據消費金額累積積分！積分可兌換現金券、人氣產品或療程體驗，讓您享受更多健康生活福利。首次下載並登記，即送您2500迎新積分！
+
+App功能亮點
+* 專業健康資訊由持牌中醫師、營養師及體適能教練分享，透過文章與影片介紹日常保健、營養知識及健康生活建議，助您輕鬆掌握實用健康資訊。
+* 會員尊享生日禮遇、推薦獎賞、限時折扣等多重優惠，專屬福利不斷。
+* 積分可於門市及網購平台兌換多樣禮品和現金券，使用方便。
+* 精選優質健康產品，正貨保證，一鍵下單輕鬆購物。
+
+掌握最新資訊與優惠
+開啟推送通知，即時接收最新健康資訊、會員專屬優惠及個人化禮遇，精彩不錯過！
+
+立即下載「德善醫療」App，健康知識與會員獎賞一手掌握，開啟您的智慧健康新生活！",2025-11-04T08:00:00Z,2025-11-06T01:08:44Z

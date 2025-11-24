@@ -1,0 +1,725 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+tm,Turkmenistan,Utilities,6002,1,6504287215,Happ - Proxy Utility,Flyfrog LLC,https://apps.apple.com/tm/app/happ-proxy-utility/id6504287215?uo=4,0.0,4.08511,94,Utilities,"Important Notice
+Happ does not sell or provide VPN services. Beware of scammers claiming to offer “official Happ VPNs” — they are not affiliated with us. Users must set up their own servers and follow local laws when using the app.
+
+Happ is a mobile app that makes using proxy and vpn servers easy, offering a user-friendly interface and useful features.
+
+Main functionalities include:
+
+Configuration of proxies based on rules.
+Support for multiple protocol types.
+Hidden subscriptions.
+Encrypted subscriptions.
+
+Protocols supported are:
+
+VLESS(Reality)
+VMess
+Trojan
+Shadowsocks
+Socks
+
+Happ ensures your network activity remains private by not collecting any data; your information remains solely on your device without being sent to external servers.
+
+It's important to highlight that Happ does not provide VPN services for purchase. Users are responsible for acquiring or setting up their own servers. Users should also comply with applicable laws in their jurisdiction when utilizing the app.",2024-06-18T07:00:00Z,2025-11-24T12:29:42Z
+tm,Turkmenistan,Utilities,6002,2,6748106726,SpeedTop VPN: Fast & Secure,SOON BODYWERKZ AUTO PTE. LTD.,https://apps.apple.com/tm/app/speedtop-vpn-fast-secure/id6748106726?uo=4,0.0,3.92857,14,Utilities,"SpeedTop is a performance-optimized VPN app designed to deliver reliable and fast internet connections. Whether you're browsing or streaming, even in low-bandwidth environments, SpeedTop enhances your online experience. It comes with multiple server nodes and a minimal design, making it the ideal solution for efficient and secure connectivity.
+
+Key Features:
+
+Fast Speeds: Smart routing for optimized and accelerated connections
+
+Reliable Stability: Maintains consistent performance even on unstable networks
+
+Servers: Access a range of high-quality, no-cost servers
+
+Lightweight Build: Minimal app size and low resource usage
+
+User-Friendly Interface: One-tap connection and clean, simple layout
+
+Encryption & Security: Protects your data with advanced encryption protocols
+
+Privacy-First: SpeedTop does not store or log user connection or browsing activity",2025-08-31T07:00:00Z,2025-11-14T01:54:25Z
+tm,Turkmenistan,Utilities,6002,3,6451097052,JumpJumpVPN – Super Unlimited,SOON BODYWERKZ AUTO PTE. LTD.,https://apps.apple.com/tm/app/jumpjumpvpn-super-unlimited/id6451097052?uo=4,0.0,3.86057,875,Utilities,"JumpJumpVPN - A Secure and High-Speed VPN Proxy Application
+
+Providing you with a secure, stable, and anonymous internet experience
+
+What is a VPN?
+A Virtual Private Network (VPN) establishes an encrypted connection from your device to a network over the internet. This encrypted connection ensures the secure transmission of sensitive data, prevents unauthorized eavesdropping on your traffic, and allows you to browse the web safely and anonymously.
+
+Why Choose JumpJumpVPN?
+JumpJumpVPN is an intuitive VPN proxy application with a clean and user-friendly interface, offering an exceptionally smooth user experience. Simply open the app, click the ""Connect"" button, or choose any server from the list. Ultra-fast and secure connections, unlimited bandwidth, multiple global VPN servers, reliable service, and privacy protection are the reasons why you should choose JumpJumpVPN.
+
+Key Features:
+• High-Speed Connection: JumpJumpVPN has a dedicated server network to ensure your internet connection remains fast and stable
+• Anonymous Browsing: Hide your real IP address to keep your online activities completely private and secure
+• Easy to Use: Connect with just one click—no complicated setup required to get VPN protection
+
+Auto-Renewal Details:
+• Upon purchase confirmation, payment will be charged to your Apple account
+• The subscription service will automatically renew 24 hours before the end of the current billing cycle
+• The renewal fee will be charged to your account within 24 hours before the subscription expires
+• You can manage your subscription and turn off auto-renewal in your Apple Store account settings
+• If a free trial is offered, any unused portion will be forfeited upon purchasing a subscription
+
+Related Terms:
+
+Terms of Service: https://jumpjump.io/#/termsofservice/index
+
+Privacy Policy: https://jumpjump.io/#/privacyterms/index
+
+Contact Us:
+support@jumpjump.io",2023-09-26T07:00:00Z,2025-11-19T09:39:02Z
+tm,Turkmenistan,Utilities,6002,4,6749478156,Mia VPN - Private Browser,MOBINOVA BILISIM SANAYI VE TICARET LIMITED SIRKETI,https://apps.apple.com/tm/app/mia-vpn-private-browser/id6749478156?uo=4,0.0,3.2,15,Utilities,"Welcome to MiaVPN – Your Gateway to Secure and Private Internet Access
+MiaVPN offers a fast, reliable, and secure VPN experience that puts your privacy first.
+	• Privacy First: Encrypt your internet traffic and keep your IP address private.
+	• Global Server Access: Connect to our VPN network to browse safely from multiple regions.
+	• Always-On Protection: Stay protected on public Wi-Fi and untrusted networks.
+	• No Logs, No Tracking: We respect your privacy. MiaVPN does not collect or store browsing history.
+	• Fast Connection Speeds: Enjoy smooth performance for browsing, video calls, and more.
+	• Simple Interface: Designed for ease of use with just one tap to connect.
+	• Customer Support: We’re here to help you whenever you need assistance.
+
+Experience peace of mind with MiaVPN — secure, private, and always on.",2025-08-08T07:00:00Z,2025-11-16T18:53:49Z
+tm,Turkmenistan,Utilities,6002,5,6596777532,Hiddify Proxy & VPN,Holistic Resilience,https://apps.apple.com/tm/app/hiddify-proxy-vpn/id6596777532?uo=4,0.0,4.7,10,Utilities,"Hiddify is an open source software available in https://github.com/hiddify/Hiddify-Next with more than 16K stars in Github.
+
+The key goal of Hiddify is to provide a secure, user-friendly and efficient tunnelling client. It enables you to route all traffic to a remote server of your choose, utilising VPN-Service permission.
+
+Note: We do not provide any server; users are required to ensure their online activities stay private by using use their own self-hosted server or trusted servers. 
+ 
+We support servers with:
+- Normal V2ray/Xray Connection Profile Link
+- Clash Connection Profile Link
+- Sing-Box Connection Profile Link
+
+What is our unique features?
+ - User Friendly
+ - Optimized and Fast
+ - Automatically select LowestPing 
+ - Show user usage information
+ - Easily import sublink by one click using deeplinking 
+ - Free and No ADS
+ - Easily switch user sublinks
+ - more and more
+
+Support:
+- All Protocols supported by Sing-Box 
+- VLESS + xtls reality, vision
+- VMESS
+- Trojan
+- ShoadowSocks
+- Reality
+- V2ray
+- Hystria2
+- TUIC
+- SSH
+- ShadowTLS",2024-10-31T07:00:00Z,2024-10-31T14:52:38Z
+tm,Turkmenistan,Utilities,6002,6,6446814690,V2Box - V2ray Client,techlaim,https://apps.apple.com/tm/app/v2box-v2ray-client/id6446814690?uo=4,0.0,4.75047,1050,Utilities,"V2box - VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, Trojan , SSH , Socks
+
+
+Features:
+
+- Support for adding custom servers proxy (Shadowsocks, v2ray, trojan,vless,vmess, SSH)
+- Support Reality (xray)
+- Support vless vision
+- Support utls
+- Support SSH with UDP Gateway (udpgw)
+
+- Multiple encryption protocol support, AES-128-GCM, AES-192-GCM, AES-256-GCM, Chacha20-IETF, Chacha20 - ietf - poly1305, xchacha20 ietf -- poly1305
+
+- Stealth and stable, no need to log in and register, easy to use
+
+- Does not save any user log information
+
+- Wi-Fi Security when using Public Hotspots
+
+- Protect your network IP and privacy security
+
+- Unmatched network speed and performance
+
+
+Terms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Privacy Policy: https://hexasoftware.dev/v2box-terms/",2023-04-07T07:00:00Z,2025-10-08T01:02:51Z
+tm,Turkmenistan,Utilities,6002,7,6450534064,Streisand,ARCADIA ODYSSEY INC.,https://apps.apple.com/tm/app/streisand/id6450534064?uo=4,0.0,4.32075,53,Utilities,"Streisand is an app that helps you use proxy servers. It has a user-friendly interface and useful features.
+
+Key features:
+1. Rule-based Proxy Setup.
+2. Compatibility with Various Protocols.
+3. Custom DNS Support.
+
+Supported Protocols:
+- VLESS(Reality)
+- VMess
+- Trojan
+- Shadowsocks
+- Socks
+- SSH
+- Hysteria(V2)
+- TUIC
+- Wireguard
+
+
+This app doesn't collect your network activity data. All your data stays on your device and is never uploaded to our server.
+
+Please note that this application does not offer VPN services for sale. You need to create or purchase your own servers. Also, make sure to follow local laws while using this app.
+
+Terms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://streisand.pages.dev/privacy-policy",2023-07-08T07:00:00Z,2025-10-16T08:27:53Z
+tm,Turkmenistan,Utilities,6002,8,1356177741,Outline App,Jigsaw Operations LLC,https://apps.apple.com/tm/app/outline-app/id1356177741?uo=4,0.0,3.95652,138,Utilities,"Outline is an easy way for you to set up your own virtual private network (VPN) server to more safely access the open internet and keep your communications private. 
+
+If you have received an access key, download the Outline app to get started. 
+
+If you haven’t received an access key, you’ll first need to set-up your own server. Get started by downloading the Outline Manager from getoutline.org. Creating your own server is quick and easy, and instructions in the Manager will guide you through each step. 
+
+How Do I Set Up Outline? 
+- Outline consists of two related products: the Outline Manager and Outline. 
+- The Outline Manager lets you create and operate your own VPN, and share access with anyone you choose by sending them an invitation directly from the Manager. Once you’ve downloaded the Manager, you can easily set up a VPN server on a cloud provider in less than five minutes. 
+- After setup is complete, you can download the Outline app on your phone and desktop. 
+- Share internet access with coworkers or friends by inviting them directly from the Manager. 
+- If you’ve received an access code from someone using an Outline Manager you’re all set! Just download the app and get started. 
+
+Why use Outline?
+- Fast, reliable access to the open internet, powered by the Shadowsocks protocol
+- Allows you to create and maintain your own VPN server and provide access with those you trust
+- Strong encryption keeps your communications private
+- Completely open source and audited by a nonprofit security firm",2018-04-03T18:55:16Z,2025-08-27T22:56:01Z
+tm,Turkmenistan,Utilities,6002,9,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/tm/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.7125,640,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+tm,Turkmenistan,Utilities,6002,10,1629465476,Npv Tunnel,VONMATRIX CO. LTD,https://apps.apple.com/tm/app/npv-tunnel/id1629465476?uo=4,0.0,3.75235,319,Utilities,"Npv Tunnel is a V2ray and SSH VPN client tool to browse the internet securely. It supports V2ray protocols vless, vmess, shadowsocks, trojan and socks. It also supports ssh and all the popular ssh tunnel types.",2022-06-29T07:00:00Z,2025-10-31T16:42:17Z
+tm,Turkmenistan,Utilities,6002,11,1276263909,Psiphon VPN: Freedom Online,Psiphon Inc.,https://apps.apple.com/tm/app/psiphon-vpn-freedom-online/id1276263909?uo=4,0.0,3.83777,826,Utilities,"Welcome to Psiphon, an open source application built on leading-edge, research-driven security and network technologies. With over 150,000,000 downloads, Psiphon securely connects you to your apps and sites. Whether you're browsing on public Wi-Fi or looking for a more private connection, Psiphon offers a worry-free online experience with our mobile security.
+
+
+PSIPHON’S FEATURES:
+
+
+MOBILE SECURITY - MORE THAN A SECURE MOBILE AND HOTSPOT VPN
+- Proxy access ensures that you can browse securely
+- VPN enables secure and private browsing from virtually anywhere
+- Protect your connection across networks, including public hotspots
+- Hotspot VPN protection means your mobile security is safeguarded on any network
+
+
+PRIVATE BROWSING AND A SEAMLESS EXPERIENCE
+- Mobile security automatically selects protocols to provide a reliable connection
+- Secure VPN allows for a smooth and private browsing experience, available with multiple language options
+
+OPEN SOURCE & TRUSTED FOR SECURE BROWSING
+- Secure VPN established through a trusted network of constantly changing servers, designed for private access
+- Open source transparency ensures trust and confidence in your secure connection
+
+
+FAST, PRIVATE, AND RELIABLE VPN CONNECTION
+- Mobile security protection is maintained, even on public or unfamiliar networks
+- Private browsing supports users including international journalists, independent media, and NGOs
+- Our optimized VPN infrastructure ensures consistent and responsive connectivity
+- Browse securely with Psiphon, and stay protected online with just one tap
+
+
+ABOUT SUBSCRIPTIONS:
+- A subscription removes ads and allows you to surf the Internet with a faster VPN!
+- Payment will be charged to your iTunes Account at confirmation of purchase.
+- Subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the current period.
+- Your account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the subscription.
+- No cancellation of a current subscription is allowed during the active subscription period.
+- Subscriptions may be managed and auto-renewal may be turned off by going to your Account Settings after purchase.
+- Any unused portion of a free trial period will be forfeited when you purchase a subscription.
+
+
+Privacy Policy: https://psiphon.ca/en/privacy.html
+Terms of Use: https://psiphon.ca/en/license.html",2017-09-22T20:44:05Z,2025-09-12T18:13:12Z
+tm,Turkmenistan,Utilities,6002,12,535886823,Google Chrome,Google LLC,https://apps.apple.com/tm/app/google-chrome/id535886823?uo=4,0.0,4.65557,421,Utilities,"Chrome helps you do what's possible on the web. Download the fast, secure browser by Google.
+
+GET THE BEST OF GOOGLE IN CHROME
+
+• SEARCH WITH GOOGLE – search and get answers on Google fast. Use your voice to search hands-free.
+• GOOGLE LENS – search what you see on your screen or with your camera.
+• GOOGLE TRANSLATE – explore the web in 130+ languages. Translate entire websites in one click.
+
+BROWSE WITH BEST-IN-CLASS SECURITY
+
+• ENHANCED PROTECTION MODE – browse confidently with the highest level of Chrome's security.
+• SAFETY CHECK – get peace of mind with proactive safety alerts.
+• GOOGLE PASSWORD MANAGER – securely generate and save passwords for fast sign-in, and get alerts if your passwords are at risk.
+
+ACCESS YOUR CHROME ACROSS DEVICES
+
+• SYNC ACROSS DEVICES – save your things (like bookmarks, tabs and passwords) and easily access them when you sign in to Chrome on your phone, computer or tablet.
+• TAB GROUPS – create tab groups to stay organised across devices.
+• AUTOFILL – save time typing by autofilling your saved payments, addresses and passwords.",2012-06-28T19:57:38Z,2025-11-20T15:29:06Z
+tm,Turkmenistan,Utilities,6002,13,1661127857,TOP VPN - Easy Fast Secure,Soniclink Pte Ltd,https://apps.apple.com/tm/app/top-vpn-easy-fast-secure/id1661127857?uo=4,0.0,4.0625,48,Utilities,"TOP VPN is 100% unlimited, fast and secure VPN proxy for all users. You only need one click to unlock and access your favorite websites and applications. It provides a completely Unlimited data, unlimited bandwidth and unlimited global servers. Besides, it always protects your privacy.
+
+- Large number of servers, high-Smart bandwidth.
+- Works with Wi-Fi, LTE/4G, 3G and all mobile data carriers.
+- Strict no-logging policy
+- Smartly choose the best server
+- Well-designed UI
+- No usage and time limit
+- No registration or configuration required
+- No additional permissions required
+- Unblock web sites and apps ,like facebook,twitter,instagram,whatsapp,telegram
+
+You can be a premium user through auto-renewing subscription:
+
+12-Month Plan, first 3 days free and then $89.99/year
+1-Month Plan $9.99/Month
+1-Week Plan $8.99/Week
+
+- Payment will be charged to iTunes Account at confirmation of purchase
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+– Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user’s Account Settings after purchase
+- You may cancel a subscription during its free trial period via the subscription setting through your iTunes account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit http://support.apple.com/kb/ht4098 for more information
+- You may turn off the auto-renewal of your subscription via your iTunes Account Settings. However, you are not able to cancel the current subscription during its active period
+- Any unused portion of a free-trial period, will be forfeited when the user purchases a subscription
+
+Links to our Terms of Service and Privacy Policy can be found below.
+Terms of Service: https://www.topvpn.cc/aboutme/service_agreement.html
+Privacy Policy: https://www.topvpn.cc/aboutme/protocol_privacy.html",2023-01-30T08:00:00Z,2025-11-14T01:29:11Z
+tm,Turkmenistan,Utilities,6002,14,1473774730,VPN - Free VPN Potato ™,FREE VPN POTATO PTE. LTD.,https://apps.apple.com/tm/app/vpn-free-vpn-potato/id1473774730?uo=4,0.0,4.44444,306,Utilities,"PotatoVPN protects your online privacy as an unlimited VPN proxy, offering a super service for those seeking a free VPN for your iPhone. Enjoy ultra-fast speeds, unlimited bandwidth, and a secure connection with our global servers, making it one of the best VPN services available.
+
+CHARACTERISTICS OF POTATOVPN:
+- Offer global free VPN proxy server locations (with ads), including the US, Canada, UK, Germany, Singapore, and India, ensuring you have access to a fast connection.
+- Try Premium features (ad-free) for 7 days in most regions, experiencing the master level of our VPN service.
+- No registration or login is required for basic services, making it a hassle-free proxy for every user.
+- User-friendly interface with a simple server selection process, ensuring you're always connected to the fastest server.
+- Multiple server locations worldwide, providing unlimited access to a global network.
+- Strong encryption protocols for privacy and security, establishing PotatoVPN as a secure and best choice for protecting your online activities.
+- No user activity logs are retained for maximum anonymity and privacy, reinforcing our commitment to being a master in privacy protection.
+- Automatically connects you to the fastest servers to change your IP address, offering a super fast VPN experience.
+
+> Protect Your Online Privacy
+Surf with high-level encryption anywhere anytime. Hide IP addresses and protect privacy with simple one-tap and ultra-fast speed both on mobile and desktop devices.
+
+> Secure All Your Surfing
+Use our WiFi proxy server to protect your identity online when you are on public wifi. PotatoVPN will protect your WiFi connection, browsing, and online privacy.
+When you use the mobile hotspot on your phone or tablet to connect to the Internet, you can also protect yourself from being tracked by your ISP or anyone else.
+
+> Ultra-Fast VPN Proxy Master Service
+We offer the best and ultra-fast proxy servers. Have a try and experience the fastest and the most stable speed. The best-unlimited proxy service is always ready to serve you!
+
+> Protect Your Private Data With No Logs
+PotatoVPN aims to be a privacy platform. It's our duty to protect your privacy data shield and secure all your browser history. We also provide a strict privacy policy complying with local laws to protect your privacy with our VPN proxy service.
+
+In-App Purchase:
+Monthly Plan: $11.99/month
+Annual Plan: $49.99 /year-( $4.17/month )
+
+>Additional Subscription Information
+- Payment will be charged to iTunes Account at confirmation of purchase
+- If offered, limited to one 7-day free trial per user. No commitment, cancel anytime. After the first 7 days, the subscription renews automatically unless canceled at least 24 hours before the end of the 7-day trial. Subscription may be canceled at any time within the iTunes and App Store Apple ID Settings. All prices include applicable local sales taxes.
+- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the period. Account will be charged $11.99 for a monthly subscription and $49.99 for an annual subscription for renewal within 24 hours before the end of the current period.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- No cancellation of the current subscription is allowed during the active subscription period. Any unused portion of a trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+
+Legal:
+Terms of Service: https://potatovpn.io/?n=potato.vpn.TermsOfService
+Privacy Policy: https://potatovpn.io/?n=potato.vpn.PrivacyPolicy
+
+Contact Us:
+If you have any questions or suggestions, feel free to email support@potatovpn.io.
+If you have any questions about your privacy, feel free to contact us :)",2019-08-14T07:00:00Z,2025-11-20T02:40:48Z
+tm,Turkmenistan,Utilities,6002,15,1010631459,Getcontact,GETVERIFY LDA,https://apps.apple.com/tm/app/getcontact/id1010631459?uo=4,0.0,4.73145,566,Utilities,"We're taking action to put a global stop to unauthorized calls. Every year, we block at least three billion unauthorized calls or fraud attempts. Your feedback allows us to offer more effective protection to you and millions of other Getcontact users. We will happily continue to improve our services with your support.
+
+Explore Getcontact's Key Features
+ 
+CALLER ID and SPAM PROTECTION:
+Know who the caller is even if they are not saved in your contacts. Block unwanted calls and ensure that only the people you choose can contact you. Get instant protection from robocalls and scams with the SPAM filter.
+
+SMS spam filtering automatically blocks spam messages so that you only receive important and relevant messages. This way, you only see the messages you really need on your phone and avoid annoying spam SMS.
+ 
+VOICE ASSISTANT:
+When you are unable to answer calls from unwanted numbers, busy or unreachable, forward the calls to your personal assistant. Your assistant will answer these calls and send you notifications about the caller ID and the reason for the call. *The assistant feature is currently only available in select countries.
+ 
+CHATS:
+Communicate safely with free, encrypted chats. Have one-to-one or group chats and make voice or video calls with anyone you want.
+
+SECOND NUMBER:
+Second phone number service allows you to have a second mobile number that is not associated with your main number without the need for an additional SIM card. Choose your preferred number and start using it right away.
+ 
+Download the Getcontact app now to discover more.
+
+You can subscribe to paid plans in order to use Getcontact’s enhanced features. The payment is charged to your iTunes account, and prices vary by country. You will be able to see the total amount before you complete the payment. In-app purchases will renew depending on your plan. To prevent renewal, you must turn off auto-renewal at least 24 hours before your subscription expires. You can turn off auto-renewal at any time in your iTunes account settings. To access the settings, please go to: https://support.apple.com/en-us/HT202039
+
+
+
+Our community and news from us:
+- Facebook: https://facebook.com/getcontactapp
+- Instagram: https://instagram.com/getcontact
+- LinkedIn: https://linkedin.com/company/getcontact
+- Twitter: https://twitter.com/getcontact
+ 
+We deeply value your feedback. To report a problem or contact us:
+- Feedback: support@getcontact.com
+- Support: https://getcontact.faq.desk360.com
+ 
+For more information on Privacy and Terms of Service:
+Privacy Policy: https://getcontact.com/privacy
+Terms of Service: https://getcontact.com/terms",2016-04-06T07:24:46Z,2025-11-04T06:36:02Z
+tm,Turkmenistan,Utilities,6002,16,590379981,OpenVPN Connect,OpenVPN Inc.,https://apps.apple.com/tm/app/openvpn-connect/id590379981?uo=4,0.0,4.56529,536,Utilities,"OpenVPN Connect is the official OpenVPN client app developed by OpenVPN Inc., the creators of the OpenVPN® protocol. Designed for use with OpenVPN’s zero-trust business VPN solutions, this app enables secure remote access to internal networks, cloud resources, and private applications. A zero-trust VPN is a virtual private network that requires continuous identity and device verification for every access request, adhering to the principle of 'never trust, always verify,' regardless of the user's location.
+
+
+IMPORTANT NOTE:
+This app does NOT include a built-in VPN service. It establishes an OpenVPN tunnel to a VPN server or service that is compatible with the OpenVPN protocol. It is meant for use with OpenVPN’s business Zero-trust VPN solutions:
+• Access Server (self-hosted)
+• CloudConnexa® (cloud-delivered)
+ 
+
+KEY FEATURES
+• Fast, secure VPN tunneling with OpenVPN protocol
+• Strong AES-256 encryption and TLS 1.3 support
+• MDM-friendly with a global configuration file
+• Device posture checks**
+• Import of connection profile with URL**
+• Captive Wi-Fi portal detection
+• Web authentication for SAML SSO support
+• HTTP proxy configuration
+• Seamless split-tunneling and auto-reconnect
+• Works over Wi-Fi, LTE/4G, 5G, and all mobile networks
+• Easy setup & import of .ovpn profiles
+• Kill switch for fail-safe protection
+• IPv6 and DNS leak protection
+• Support for certificate, username/password, external certificate, and MFA authentication
+
+** Works with Access Server and CloudConnexa
+ 
+
+HOW TO USE OPENVPN CONNECT:
+Easily get connected by simply entering your organization’s URL and login — no complex setup required.
+
+
+BEST PAIRED WITH OPENVPN BUSINESS SOLUTIONS:
+• Access Server – Self-hosted zero-trust VPN software server with web-based administration, access control, clustering for horizontal scaling,  flexible authentication methods, and zero-trust controls.
+• CloudConnexa® – Cloud-delivered Zero-Trust business VPN service offered from 30+ worldwide locations with ZTNA, application domain name routing, IPsec support for connecting networks, and advanced identity, device posture, and location context continuous checks.
+
+ 
+Trusted by Global Businesses:
+Over 20,000 organizations, including Salesforce, Target, Boeing, and others, rely on OpenVPN’s Zero-Trust VPN solutions.",2013-01-17T00:15:38Z,2025-06-26T18:41:20Z
+tm,Turkmenistan,Utilities,6002,17,6463403383,Mix VPN - Fast & Unlimited,"GUAVA BRAVO TECHNOLOGY, LLC",https://apps.apple.com/tm/app/mix-vpn-fast-unlimited/id6463403383?uo=4,0.0,5,1,Utilities,"Discover the pinnacle of security and privacy with Mix VPN, an advanced Virtual Private Network solution designed to safeguard your online activities. Mix VPN offers unparalleled features that ensure a secure and confidential connection to the Internet, setting a new standard in digital protection.
+
+
+
+Mix VPN is a robust implementation of Virtual Private Network technology, offering a secure and private Internet connection.
+
+
+
+Key Features of Mix VPN:
+
+
+
+1. Strict no-logs policy:
+
+
+
+Mix VPN ensures your browsing history and personal data are never logged or collected.
+
+
+
+2. Multi-hop function:
+
+
+
+Utilize sequences of servers to enhance your anonymity and security online. Our AI-based server selection feature intelligently chooses servers based on real-time channel conditions specific to your current location.
+
+
+
+3. Kill-Switch:
+
+
+
+Kill-switch feature automatically blocks internet traffic if the VPN connection drops, ensuring your data remains protected.
+
+
+
+4. Impressive speed:
+
+
+
+Benefit from high connection speeds across our VPN servers.
+
+
+
+5. State-of-the-art encryption:
+
+
+
+We employ the IKEv2 protocol to maximize your online data security.
+
+
+
+6. Global server network:
+
+
+
+Connect to servers in over 10 countries worldwide with Mix VPN.
+
+
+
+7. User-friendly interface:
+
+
+
+Enjoy advanced protection with an intuitive setup that's accessible to everyone.
+
+
+
+8. 24/7 customer support:
+
+
+
+Our team is available round-the-clock to assist you with any inquiries.
+
+
+
+Mix VPN acts as your trusted online shield, safeguarding privacy and granting access to Internet resources while protecting you from threats like hacking, fraud, and unwanted data surveillance.
+
+Subscription Details:
+
+Subscribe now for ad-free full access!
+Experience our service with a free three-day trial, which automatically converts to a paid subscription.
+Choose from weekly, monthly, or annual subscription plans.
+Payment will be charged upon purchase confirmation.
+You can cancel anytime before the current period ends to avoid auto-renewal.
+Manage your subscription and disable auto-renewal in your account settings after payment.
+Unused trial periods will be forfeited upon subscribing.
+For more details, refer to our privacy policy at https://guavabravotechnology.com/privacy.html and our EULA at https://guavabravotechnology.com/eula.html.",2023-09-25T07:00:00Z,2025-11-16T13:45:04Z
+tm,Turkmenistan,Utilities,6002,18,1503251395,VPNIFY - Unlimited VPN,Neonetworks solution ltd,https://apps.apple.com/tm/app/vpnify-unlimited-vpn/id1503251395?uo=4,0.0,4.59908,434,Utilities,"vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on for your iOS device. It is highly secure with military-grade encryption so you can safely navigate public, business and school networks. 
+ 
+ 
+In General: 
+- easy to use one-click connect to secure your connection 
+- multiple high-speed dedicated VPN servers 
+- no bandwidth usage limitations for streaming and downloading 
+- there is no VPN trial - Full unlimited VPN, no session limitations 
+- no registration necessary 
+- stable connection wherever you go - home and abroad 
+- you’re privately incognito browsing when tunnelling traffic 
+- ultra-fast VPN speeds for blazing-fast connections 
+- Hotspot VPN protection, a hotspot shield security APP 
+- Express VPN speeds you can call it a turbo for your VPN 
+- it's like a Private Internet Access, super VPN for free 
+ 
+ 
+ 
+Security with vpnify: 
+- Encrypted secure DNS to prevent bad actors from snooping 
+- traffic encryption 
+- DNS & IP leak-protected connections 
+- we won't store traffic logs, it’s a perfect private browsing VPN 
+- get a new, fresh, IP and do the IP vanish 
+ 
+vpnify is a free VPN proxy. Browser without limits. It is a totally unlimited and free virtual private network. Quickly establish a connection simply by touching connect. We are the VPN Teachers, who provide you with an Internet network: a better Internet.
+ 
+ 
+The use cases for vpnify are really unlimited; 
+- a simple way to add an additional layer of security to your privacy 
+- Use it in public networks to avoid personal data loss 
+- Protect yourself from harmful APPs that collect your IP and track your location data 
+- watch videos and movies through a VPN proxy  
+- access to social networking sites
+- VoIP messaging chat applications
+ 
+ 
+Where can I use vpnify? 
+We do not limit the use. With dozens of servers at multiple locations, we can make sure it's a VPN for everyone. 
+ 
+ 
+ 
+The VPN works great everywhere! 
+ 
+The locations are available as follows: 
+ 
+- VPN USA (East and West Coast) 
+ 
+- VPN United Kingdom (London and Manchester) 
+ 
+- VPN Netherlands 
+ 
+- VPN Germany 
+ 
+- VPN Singapore 
+ 
+- VPN Spain 
+ 
+- VPN France 
+ 
+- VPN India 
+ 
+- VPN Canada 
+ 
+- VPN Canada 
+ 
+- VPN Japan 
+ 
+- VPN France 
+ 
+- VPN Italy 
+ 
+- VPN Austria 
+ 
+- VPN Australia 
+ 
+- VPN Switzerland 
+ 
+- VPN Belgium 
+ 
+- VPN Romania 
+ 
+- VPN Hungary 
+ 
+ 
+ 
+ 
+ 
+vpnify, a genuinely free super power VPN. 
+ 
+ 
+We do our best to cover worldwide usability and bring you a great internet experience. 
+ 
+Unfortunately, we cannot guarantee a 100% availability in every country. Should there be problems with connecting in your country, please contact us by submitting feedback within the APP (if possible leave us your skype name), we'll try to make it work!
+
+Our Terms of services can be found at: https://vpnifyapp.com/tos",2020-07-31T07:00:00Z,2025-09-17T16:30:14Z
+tm,Turkmenistan,Utilities,6002,19,6473805038,Whatever VPN,Appforce LTD,https://apps.apple.com/tm/app/whatever-vpn/id6473805038?uo=4,0.0,5,1,Utilities,"Secure Your Galaxy of Online Activities: Step into the digital realm with Whatever VPN, your trusted guardian for online security. Safeguard your internet connection and protect your personal data from potential threats with our powerful and intuitive VPN service.
+
+Lightspeed Encryption: Whatever VPN employs cutting-edge encryption technology, ensuring that your data travels at lightspeed across the web while remaining completely shielded from prying eyes. Keep your online activities confidential and secure with the Force of encryption.
+
+Universal Accessibility: Whether you're navigating the web from Tatooine or Coruscant, Whatever VPN provides universal access to websites. Explore the full potential of the internet across the galaxy.
+
+Blazing Fast Connection: Experience internet speeds that rival the Millennium Falcon's hyperdrive. Whatever VPN optimizes your connection for speed, allowing you to stream, browse, and download with ease, all while maintaining a secure and encrypted link.
+
+Seamless Integration with All Devices: Whatever VPN seamlessly integrates with all your devices, from your lightsaber-wielding mobile device to your trusty droid companion. Protect your online presence across the entire galaxy with the convenience of multi-device compatibility.
+
+User-Friendly Interface: Harness the power of the Force with Whatever VPN's user-friendly interface. Navigating through different servers and settings is as intuitive as mastering your Whatever training. No technical Whatever mind tricks required!
+
+Protect Your Whatever Identity: Worried about your digital identity being exposed? Fear not! Whatever VPN shields your IP address, ensuring that you can surf the galaxy anonymously. Protect your Whatever persona and explore the digital universe without leaving a trace.
+
+Constant Vigilance - Regular Updates: Our commitment to your online security is unwavering. Whatever VPN is equipped with regular updates, ensuring that you stay one step ahead of the Sith Lords of the digital world. Your online protection is our top priority.
+
+Embrace the path of digital enlightenment – install Whatever VPN now and let the Force guide you through a secure, unrestricted, and private online experience. May the VPN Force be with you!
+
+One week full access subscription: By purchasing full weekly access, you get access to a reliable secure connection that will ensure your safety and fast connection speeds while using your internet browser.
+
+Privacy Policy: https://shorturl.at/bciDV
+
+Terms Of Use: https://shorturl.at/qMO78",2023-12-08T08:00:00Z,2024-02-21T15:57:50Z
+tm,Turkmenistan,Utilities,6002,20,6467000086,Shadesocks - countdown,盛 张,https://apps.apple.com/tm/app/shadesocks-countdown/id6467000086?uo=4,0.0,4.72,200,Utilities,"A very practical timing assistant. Nowadays, online e-commerce is developing rapidly. Many people shop online. Nowadays, on-site shopping is also very popular. This software can help anyone quickly purchase the goods they need, and it can also provide everyone with countdown services, making your online shopping easier.",2023-09-26T07:00:00Z,2025-02-08T16:53:26Z
+tm,Turkmenistan,Utilities,6002,21,1134784923,VPN cat: Fast Secure Unlimited,SAFDAR NETWORK SMC-PRIVATE LIMITED,https://apps.apple.com/tm/app/vpn-cat-fast-secure-unlimited/id1134784923?uo=4,0.0,4.384,125,Utilities,"Experience the World’s Fastest VPN with VPN Cat!
+Enjoy a secure, private, and ultra-fast connection on your iPhone or iPad with just one tap. VPN Cat is designed to protect your privacy and ensure seamless online browsing.
+
+
+VPN Cat Key Features:
+- Reliable Connections: Powered by an advanced VPN protocol developed by VPN Cat, you’ll experience stable and secure connections wherever you are. Explore the internet without boundaries in just a single tap.
+- Privacy First: Your privacy is our top priority. With our strict zero-log policy, we don’t monitor, record, or store your VPN activity.
+- Free to use & Flexible Upgrades: Start with our free VPN service, perfect for light browsing. Need faster speeds? Upgrade to our premium plan for a high-speed, ultra-fast experience.
+
+
+What VPN Cat Can Do for You:
+- Safeguard your data on WiFi & mobile networks  
+- Protect your personal information from websites and third parties  
+- Hide your location with an IP address changer  
+- Access global media content from almost anywhere  
+- Conceal your IP to prevent online tracking  
+- Ensure anonymity in your online activity  
+- Download and share private files with ease  
+
+
+Subscription & Auto-Renewal Details:
+- Purchase subscriptions directly within the app.  
+- Payments will be charged to your Apple ID at the time of purchase.  
+- Your subscription will renew automatically 24 hours before the current period ends unless auto-renew is disabled.  
+- Manage subscriptions or turn off auto-renew anytime via your Apple ID account settings.  
+
+
+Privacy Policy:  
+https://www.vpncat.net/privacy/com.vpn.cat.html
+
+
+Terms of Service:  
+https://www.vpncat.net/terms-of-service/com.vpn.cat.html
+
+
+Need Help?  
+Contact us at support@vpncat.net for assistance or to share your feedback.",2016-07-22T05:57:44Z,2025-09-08T11:36:47Z
+tm,Turkmenistan,Utilities,6002,22,1618096210,Дядя Ваня VPN,KONDAKOV OOO,https://apps.apple.com/tm/app/%D0%B4%D1%8F%D0%B4%D1%8F-%D0%B2%D0%B0%D0%BD%D1%8F-vpn/id1618096210?uo=4,0.0,5,17,Utilities,"Дядя Ваня VPN — тот самый ВПН, который вам нужен. Работает в России.
+
+Shadowsocks VPN клиент с возможностью добавления ключей QR кодом.",2022-08-04T07:00:00Z,2023-11-07T23:12:12Z
+tm,Turkmenistan,Utilities,6002,23,6593680423,All Video Downloader -RingPlus,SOON BODYWERKZ AUTO PTE. LTD.,https://apps.apple.com/tm/app/all-video-downloader-ringplus/id6593680423?uo=4,0.0,0,0,Utilities,"RingPlus is an entertainment browser focused on security and privacy, offering dual protection for both device and network, blocking third-party tracking, and featuring video playback and downloading.
+
+ - Privacy Protection: safeguards user data with multi-layer encryption and automatically clears browsing history
+ - High-Speed Downloads: supports fast downloads of social media and web videos, adapts to multiple resolutions, auto-detects, and works with one-tap operation
+ - Smooth Playback: delivers seamless video playback without lag, supports speed adjustment and offline viewing",2024-08-09T07:00:00Z,2025-09-15T18:00:04Z
+tm,Turkmenistan,Utilities,6002,24,483693909,Yandex Browser,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/tm/app/yandex-browser/id483693909?uo=4,0.0,4.7773,467,Utilities,"Yandex Browser — a quick and safe browser with voice search.
+
+Protect your personal data when using public Wi-Fi networks and stay away from harmful or fraudulent pages – with the browser’s active security system Protect.
+
+Surf the web in private using Incognito Mode — Yandex Browser will not keep track of your passwords, search queries, or browsing history in this mode.
+
+Change the look of new tabs to suit your mood using different preset background designs or your own photos from your device.
+
+Access your favourite websites and bookmarks on any of your devices – just allow syncing of your data via your Yandex account.
+
+Share your feedback or suggest a function right in the app (Settings -> Feedback) or using the feedback form at https://yandex.com/support/browser-mobile-iphone/feedback/feedback.xml.
+
+By downloading the application, You accept the terms of the License agreement https://yandex.com/legal/browser_agreement/",2012-06-04T02:36:17Z,2025-11-20T13:05:27Z
+tm,Turkmenistan,Utilities,6002,25,6444299466,GearUP: Lower Lag Game Booster,GEARUP PORTAL PTE. LTD.,https://apps.apple.com/tm/app/gearup-lower-lag-game-booster/id6444299466?uo=4,0.0,4,4,Utilities,"A game booster that actually works! Say goodbye to game latency, and reach your real gaming potential! 
+
+GearUP is the ultimate gaming companion, accelerating and safeguarding your network. With our patented technology and specialized servers worldwide, we provide gamers around the world with lightning-fast, stable gaming connections. 
+
+► Maximum Performance 
+A game booster that actually reduces game lag! We utilize real, patented server technology to set up a better network environment for your device. 
+
+► Minimal Requirements
+Our technology ensures that our game booster does not cause higher data usage, higher battery usage or overheating. Perfect for gaming on the go!
+
+► Boost any Game
+You can boost popular MOBA games such as Brawl Stars and Mobile Legends, the most-played shooter games like Free Fire, PUBGM and CODM and many other games! We also support all Roblox minigames!
+
+► Easy to use 
+Never used a game accelerator before? Worry not! Select the game you wish to play, and click boost. As easy as just one click!
+
+► Patented Technology 
+We provide an exclusive path for you to connect directly to the game server! No need to compete with other gamers for the usual congested route, ensuring lower latency and hence lower ping.
+
+► Guaranteed Results
+With years of experience building network tools under our belt, we deliver results . We work closely with network service providers in each country to ensure we provide only the best routes to users around the world.
+
+►Free Trial & Subscription
+Try before you buy with a free trial and flexible subscription options.
+If you’re enjoying a free trial, you will be charged on the last day of your free trial.
+Your subscription will renew automatically at the end of each billing cycle, unless canceled at least 24 hours before the expiration date.
+Easily manage your subscription and cancel anytime through your App Store account settings.
+Purchasing a subscription will result in the forfeiture of any unused portion of a free trial period, if applicable.
+You are welcome to read Subscription Terms here: https://mobile.booster.gearupportal.com/happ/statement/subscription",2022-12-01T08:00:00Z,2025-11-12T10:25:22Z

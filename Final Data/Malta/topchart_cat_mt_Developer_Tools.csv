@@ -1,0 +1,419 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mt,Malta,Developer Tools,6026,1,6751247034,Anything - AI App Builder,"Create, Incorporated",https://apps.apple.com/mt/app/anything-ai-app-builder/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+mt,Malta,Developer Tools,6026,2,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/mt/app/testflight/id899247664?uo=4,0.0,4.75616,730,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+mt,Malta,Developer Tools,6026,3,1477376905,GitHub,GitHub,https://apps.apple.com/mt/app/github/id1477376905?uo=4,0.0,4.95833,24,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+mt,Malta,Developer Tools,6026,4,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/mt/app/o-kam-pro/id1602054864?uo=4,0.0,4.52941,17,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-11-24T09:35:35Z
+mt,Malta,Developer Tools,6026,5,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/mt/app/a-shell-mini/id1543537943?uo=4,0.0,0,0,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-22T21:42:27Z
+mt,Malta,Developer Tools,6026,6,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/mt/app/expo-go/id982107779?uo=4,0.0,5,7,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+mt,Malta,Developer Tools,6026,7,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/mt/app/web-inspector/id1584825745?uo=4,0.0,0,0,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+mt,Malta,Developer Tools,6026,8,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/mt/app/apple-developer/id640199958?uo=4,0.0,3,2,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+mt,Malta,Developer Tools,6026,9,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/mt/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+mt,Malta,Developer Tools,6026,10,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/mt/app/ish-shell/id1436902243?uo=4,0.0,0,0,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+mt,Malta,Developer Tools,6026,11,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/mt/app/userscripts/id1463298887?uo=4,0.0,0,0,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+mt,Malta,Developer Tools,6026,12,1447750768,Jayson,Simon Stovring,https://apps.apple.com/mt/app/jayson/id1447750768?uo=4,0.0,0,0,Developer Tools,"Jayson is a simple yet powerful JSON viewer and editor with Siri Shortcuts, Share Sheet Actions and URL schemes.
+
+Features include:
+
+- Browse JSON files stored on your device.
+- Toggle between viewing JSON in a table or as syntax highlighted text.
+- Tabbed interface to quickly switch between files or different objects in a single file.
+- Use multiple splits to easily compare JSON documents in a single file or across multiple files.
+- Multiple windows on the iPad allows for even more options to browse and edit JSON documents.
+- Parse text or the contents of a URL in your clipboard to JSON.
+- Siri Shortcuts that parse JSON from a text or a link stored in your clipboard. The shortcuts can open the JSON in the app or preview it in an interactive notification.
+- Share Sheet Actions for parsing JSON from plain text, loading JSON from a link and importing files as JSON.
+- URL schemes for parsing a text, loading the contents of a link as JSON or parsing the contents of your clipboard.
+- Choose a location on your device to store imported files.
+- Highlight a key from a child of an array to quickly get an overview.
+- Short videos that help you get started with the app.
+
+Features that require the ""Unlock Everything"" in-app purchase:
+
+- Switch between light and dark themes.
+- Changing the visual appearance, including the app icon, accent color and type icons.
+- Opening more than two tabs.",2019-02-02T03:20:44Z,2021-10-15T22:02:20Z
+mt,Malta,Developer Tools,6026,13,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/mt/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,0,0,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+mt,Malta,Developer Tools,6026,14,6466878964,Trymata Testing,TRYMYUI INC,https://apps.apple.com/mt/app/trymata-testing/id6466878964?uo=4,0.0,0,0,Developer Tools,"The Trymata app is for registered Trymata testers or guest testers to find and take paid tests of websites, apps, and other mobile products. During a Trymata test, you will record your screen and voice as you try to perform tasks on the target site/app, and give feedback about what you like and dislike, what's easy or difficult, and where you get frustrated or confused. The researchers running the tests will use your feedback to improve the user experience of their designs! 
+
+You don't have to be a UX/design expert to take Trymata tests – you just have to be willing to provide your honest thoughts and opinions as you try out the various products for testing. Tests can take anywhere from 5-60 minutes to complete, but are usually in the 10-25 minute range. Each available test will show an estimated duration before you choose to perform it. 
+
+If you don't already have a Trymata tester account, make sure to sign up on our main website! You'll use the same login credentials to access both our site and app.",2024-01-16T08:00:00Z,2025-09-01T07:46:52Z
+mt,Malta,Developer Tools,6026,15,1583154375,REST API Client,Tevon Wallace,https://apps.apple.com/mt/app/rest-api-client/id1583154375?uo=4,0.0,0,0,Developer Tools,"Send and analyze requests with detailed response headers and results.
+
+Add query parameters, authorization tokens, headers, or body content to tailor every request.
+
+Choose from four flexible body types: none, form-data, form-urlencoded, or raw.
+
+Search and filter requests by name, URL, HTTP method, or modified date, and organize them by month or year.
+
+Create, save, update, or delete requests seamlessly within the REST API Client.
+
+Fully optimized for iPadOS, with support for Smart/Magic Keyboard and time-saving keyboard shortcuts.",2021-09-07T07:00:00Z,2024-12-16T02:49:14Z
+mt,Malta,Developer Tools,6026,16,6443620901,AppsOnAir,Logicwind Technologies LLP,https://apps.apple.com/mt/app/appsonair/id6443620901?uo=4,0.0,0,0,Developer Tools,"AppsOnAir is your solution to invite in-house teams or clients or anyone you want to share app releases with. Upload your IPA file for iOS and simply submit. AppsOnAir comes with a mobile app to see all releases directly on your phone and instantly send notifications about a new app release or use a custom link to share your apps. Protect your build with links that are password protected or share them publicly. You can also assign permissions and set a password to generate a private link for each app. All the versions of the build uploaded and deployed are preserved and you can roll back to a previous version and restore it instantly. Additionally, keep track of all the basic stats like releases, uploads, and downloads and check how many users have downloaded your builds. With AppsOnAir you can empower your app testing and beta distribution timely and accurately.",2022-10-13T07:00:00Z,2025-11-03T04:22:31Z
+mt,Malta,Developer Tools,6026,17,1580931216,Eye4 Plus,"Shenzhen Vstarcam Technology Co., Ltd.",https://apps.apple.com/mt/app/eye4-plus/id1580931216?uo=4,0.0,0,0,Developer Tools,"Eye4 Plus is designed for IP cameras, smart WiFi unit, smart home systems from VStarcam.",2021-09-03T07:00:00Z,2021-09-28T07:08:11Z
+mt,Malta,Developer Tools,6026,18,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/mt/app/app-store-connect/id1234793120?uo=4,0.0,4.93333,15,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+mt,Malta,Developer Tools,6026,19,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/mt/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.8,10,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-23T22:12:12Z
+mt,Malta,Developer Tools,6026,20,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/mt/app/koder-code-editor/id1447489375?uo=4,0.0,2,3,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+mt,Malta,Developer Tools,6026,21,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/mt/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,0,0,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+mt,Malta,Developer Tools,6026,22,6739190379,Paddly - Paddle Companion App,"Nureply, Inc.",https://apps.apple.com/mt/app/paddly-paddle-companion-app/id6739190379?uo=4,0.0,0,0,Developer Tools,"Paddly is the only companion iOS app available for Paddle Billing and allows you to easily track your product's revenue, manage your active products, discounts and more.
+
+With one tap, you can see how your sales progressed over multiple months, and even display them in a GitHub-styled activity grid.
+
+See your active discounts and create a new discount on the fly without having to manually do so from Paddle's Dashboard.
+
+Receive live Sales, Payout and Subscription-related Push Notifications for your business.
+
+Of course can also view your business information as a widget on your home screen!
+
+----- Legal Notice ----- 
+Paddly is an independent product of Nureply Inc and is not associated with Paddle (Paddle.com Market Ltd., Paddle Payments Ltd. and Paddle. com Inc.).
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-12-24T08:00:00Z,2025-08-19T07:48:59Z
+mt,Malta,Developer Tools,6026,23,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/mt/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,5,1,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-23T23:02:33Z
+mt,Malta,Developer Tools,6026,24,1554623088,Termux+,志鹏 潘,https://apps.apple.com/mt/app/termux/id1554623088?uo=4,0.0,0,0,Developer Tools,"Termux+ - Fully Featured SSH & SFTP Client for iOS
+
+Manage your servers effortlessly with Termux+, an all-in-one SSH and SFTP client that empowers you to access server files, open interactive terminals, and complete tasks on the go.
+
+Key Features:
+* Comprehensive Server Access: Connect to SSH and SFTP servers with support for SOCKS5 proxy and jump host functionality, ensuring secure and versatile connections.
+* File Management: Seamlessly copy, move, rename, and delete files on your servers. Directly manage remote files, and easily edit text files.
+* Effortless File Transfers: Import and export files between SFTP servers, iPhones, and iPads. Copy files across servers or your devices without hassle.
+* Customizable Themes: Switch between Dark and Light Themes to match your environment and preference.
+* Secure SSH Connections: Connect to SSH servers using passwords or secure key-based authentication.
+* Interactive SSH Terminal: Access your SSH terminal on the go, continuing your work from any location with full functionality.
+* Code Snippet Management: Save frequently used commands and scripts as snippets for quick execution with a single tap.
+* Multi-Server Snippet Execution: Run saved snippets on multiple servers at once, enhancing your productivity.
+* Text Editor Support: Use popular terminal-based text editors like Nano or Vim for seamless file editing directly from the terminal.
+* Full Keyboard Support: A complete virtual keyboard with all the special keys you need, mirroring the experience of a desktop keyboard.
+* iOS Integration: Upload photos and videos from photo library to your SFTP servers.
+* HTML Code Preview: Write and preview HTML, with support for HTML and SVG rendering, perfect for web development tasks.
+* Document Preview: View a variety of files, including images, PDFs, Word documents, Excel sheets, and PowerPoint presentations right within the app.
+
+Termux+ is designed to bring the power of server management and file transfers right to your mobile device, combining security, flexibility, and ease of use. Take your server tasks with you, wherever you go.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be done up to 24 hours before the end of an ongoing period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling of auto-renew, in the Account Settings after purchase.
+
+Privacy policy and terms of use https://srmapp.com/docs/terms.html",2021-02-22T08:00:00Z,2025-06-30T22:25:59Z
+mt,Malta,Developer Tools,6026,25,1049254261,Textastic Code Editor,Alexander Blach,https://apps.apple.com/mt/app/textastic-code-editor/id1049254261?uo=4,0.0,0,0,Developer Tools,"Textastic is a comprehensive and versatile text and code editor for iPad and iPhone. It supports syntax highlighting of more than 80 programming and markup languages. Connect to SFTP, FTP, and WebDAV servers or to your Dropbox account. Use the built-in SSH terminal to work directly on your server.
+
+FEATURES:
+• Syntax highlighting of more than 80 languages: HTML, JavaScript, CSS, C++, Swift, Objective-C, Rust, XML, Markdown, PHP, Perl, Python, Ruby, Lua, YAML, JSON, SQL, shell scripts, and many more (full list available on the website) 
+• Compatible with Sublime Text 3 and TextMate 1 syntax definitions and themes 
+• Code completion for HTML, CSS, JavaScript, C, Objective-C, and PHP
+• SFTP (SSH connection), FTP, FTPS (FTP over SSL), WebDAV and Dropbox clients
+• SSH terminal connections
+• Code formatter for HTML, CSS, JavaScript, and JSON
+• Git repositories from the Git client app Working Copy can be opened as external folders in Textastic
+• Emmet support
+• JavaScript console
+• iCloud Drive file synchronization
+• WebDAV server to easily transfer files from your Mac or PC over Wi-Fi.
+• Symbol list to quickly navigate in a file 
+• Full support for external keyboards, trackpads, and mice
+• Configurable keyboard shortcuts
+• Displays additional keys over the virtual keyboard to make it easy to type characters often used for programming 
+• Cursor navigation wheel for easy text selection
+• Easily move the cursor using swipe gestures
+• Split View and Slide Over multitasking on iPad
+• Open multiple files in tabs
+• Multiple Windows on iPadOS
+• Support for Dark Mode
+• Supports most encodings like UTF-8, UTF-16, and ISO-8859-1
+• Supports different tab widths and soft tabs (spaces instead of tabs) 
+• Custom fonts
+• Find & Replace (including regular expression search)
+• Find in multiple files
+• File information like character count and word count 
+• Local and remote web preview for HTML and Markdown files 
+
+To unlock all features, activate Textastic Pro through a yearly or monthly subscription (includes a 7-day FREE trial) or with a one-time purchase.
+
+Privacy Policy: https://www.textasticapp.com/privacy.html
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2016-03-12T09:33:30Z,2025-11-22T16:59:07Z

@@ -1,0 +1,667 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+il,Israel,Lifestyle,6012,1,429047995,Pinterest: Lifestyle Ideas,"Pinterest, Inc.",https://apps.apple.com/il/app/pinterest-lifestyle-ideas/id429047995?uo=4,0.0,4.62373,66400,Lifestyle,"Pinterest is a place of endless possibilities. You can:
+- Discover everyday inspiration
+- Shop styles you love
+- Try and learn something new
+
+Create boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? 
+
+It's Possible.",2011-04-28T15:51:13Z,2025-11-19T16:28:23Z
+il,Israel,Lifestyle,6012,2,1462875428,Roborock,"Beijing Rockrobo Technology Co., Ltd.",https://apps.apple.com/il/app/roborock/id1462875428?uo=4,0.0,4.69452,7503,Lifestyle,"Roborock App is a dedicated application designed to control Roborock’s smart hardware devices. 
+It supports network-enabled products in Roborock’s robotic vacuum cleaners, wet and dry vacuum cleaners, and molecular sieve-based washer dryers.
+You can remotely control smart devices and check their status and cleaning progress through this app anytime, anywhere.
+Easily unlock more advanced features through the Roborock app.
+
+【Roborock Robotic Vacuum Cleaner】
+· Check the cleaning map and path anywhere and anytime you want, and control the cleaning progress in real-time. 
+· Choose from various personalized cleaning methods, including room cleaning, zone cleaning, scheduled cleaning, and spot cleaning routines.
+· Set up frequently used cleaning tasks as routines for one-tap starts. 
+· Choose multiple cleaning preferences, including Vacuum, Mop, Vac & Mop, SmartPlan (applicable to certain models only), and Customize mode. 
+· Set up a personalized cleaning plan by adjusting suction power, water flow, cleaning frequency, and route (applicable to certain models only).
+· Enables you to edit a map based on your home and set names for thresholds, carpets, floor types, furniture, and rooms. 
+· Set up invisible walls and no-go zones and your robot will not cross or enter them during cleaning.
+· Enjoy a variety of fun features, including remote viewing, obstacle photos, pet snapshots, cruise mode, pet search, and custom tones (applicable to select models only).
+
+【Roborock Wet and Dry Vacuum Cleaner】
+· Adjust water flow, suction power, roller speed, and detergent level (applicable to select models only) based on the floor and dirt level.
+· Smart scheduled self-cleaning and drying: automatically initiates self-cleaning and drying based on historical operation records.
+
+【Roborock Washer Dryer】
+· Check the washing progress and operating status anywhere and anytime you want.
+· Choose from over 20 smart washing and drying programs to meet the professional needs of various fabrics and clothing, ensuring optimal washing performance.
+· Set one program as the App Program for quick access on the control panel.
+
+【Permissions】
+To provide certain services, you need to enable the relevant permissions on your mobile device. We will only need the relevant permissions and access your personal information (if relevant) when you use the relevant functions. For the optional permissions, you can refuse or withdraw these permissions at any time, for which you may not be able to use the corresponding services, but this will not affect other functions of the App. The current permissions that the app may need are as follows: 
+· Location (Optional)
+Accesses location information to connect to WiFi, find nearby devices ready for connection, and retrieve details about the current WiFi connection.
+· Camera (Optional)
+Enables the camera to scan QR codes for easier WiFi connection.
+· Photos (Optional)
+Allows access to photos for uploading profile pictures and attaching images when providing feedback. If your device supports features like downloading obstacle images, taking screenshots, or recording during remote viewing, photos and videos can be stored.
+· Microphone (Optional)
+Used for sound transmission on devices that support remote viewing.
+· WLAN (Optional)
+Facilitates connection to WiFi networks emitted by smart devices for communication and connectivity.
+· Bluetooth (Optional)
+Enables connection to Bluetooth signals from smart devices for communication and device connecting.
+· Notifications (Optional)
+Allows the app to send you device and system notifications.
+· Local Network (Optional)
+When connecting devices on the iOS local network, grants access to the local network to connect to WiFi networks emitted by smart devices.
+· Siri & Search (Optional)
+When opening Siri on iOS, interacts with Siri to control the starting and moving of devices based on the Routines set up in the mobile device.",2019-06-18T06:57:57Z,2025-11-19T09:35:50Z
+il,Israel,Lifestyle,6012,3,957323480,Xiaomi Home,"Beijing Xiaomi Co., Ltd",https://apps.apple.com/il/app/xiaomi-home/id957323480?uo=4,0.0,3.6428,1299,Lifestyle,"A professional app to help you manage your intelligent devices. 
+•  Add new devices with a few easy steps
+•  Control your device wherever you are 
+•  Get the status of you devices in real time
+•  Share your devices with friends and family members
+•  Set up and perform intelligent tasks
+•  Continued use of GPS running in the background can dramatically decrease battery life
+
+【Mi Cloud Storage Automatic Renewal Service Description 】
+- Renewal Service:7-day overwriting Renewal storage plan,30-day overwriting Renewal storage plan
+- Renewal period:one month
+- Renewal price: 7-day overwriting Renewal storage plan for 10 yuan/month, 30-day overwriting Renewal storage plan for 24 yuan/month
+- Payment: after confirming the subscription, your Apple ID account will be debited;
+- Cancel renewal:If you cancel the renewal, please manually turn off the automatic renewal function in the iTunes/AppleID settings management 24 hours before the current subscription period expires. Specific path:Please open the Apple mobile phone""settings""-->enter""iTunes store and AppStore""-->click""Apple ID"",select""View Apple ID"",enter the ""Account Settings""page,click""subscribe"",select Mi Cloud Storage unsubscribe. If you cancel within 24 hours before the expiration, the subscription fee will be charged;
+- Renewal: Apple ID account will be deducted within 24 hours before expiration. After the deduction is successful, the subscription period will be extended by one subscription period;
+- Mi Cloud Storage Automatic Renewal Service Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/auto_renew-en.html，
+- Mi Cloud Storage User Agreement: https://camera.api.io.mi.com/cloud-service/app/doc/user_licence-en.html
+- About Cloud Storage Automatic Renewal: https://camera.api.io.mi.com/cloud-service/app/my_cloud.html?channel=iosinfo&locale=en#/renew
+- Terms of Use and User Agreement: https://g.home.mi.com/views/user-terms.html?locale=en&type=userLicense
+- Privacy Policy: https://g.home.mi.com/views/user-terms.html?locale=en&type=userPrivacy
+
+【HealthKit】
+- Your record after each weighing: BMI (body mass index), body fat percentage, weight, lean body mass will be shared to Apple Health.",2015-01-27T18:32:39Z,2025-11-20T14:37:49Z
+il,Israel,Lifestyle,6012,4,338701294,OkCupid: Online Dating App,OkCupid,https://apps.apple.com/il/app/okcupid-online-dating-app/id338701294?uo=4,0.0,4.3074,34005,Lifestyle,"Get the best online dating app experience and find a match based on who you really are and what you love. OkCupid is all about inclusive online dating for every single person!
+We know how hard it is to find a serious relationship, to have that meaningful connection (and dare we say -find love?!) with another special person, but don’t worry - we’re here to help!
+Great dates come from great connections - that’s why OkCupid shows off who you are beyond a photo. Meet new people and find love based on what makes you, well, you - because you deserve it. It’s a free dating app that you’ll super like ;)
+
+* Love doesn’t discriminate, and neither does OkCupid. Create a free dating profile that highlights what makes you special and unique 
+* Choose from over 60 different gender identities and sexual orientations: Gay, Lesbian, Bisexual, pansexual, queer and more. Let those colors shine through, queer dating is here!
+*  She/her, he/him, they/them - highlight your gender pronouns and meet locals near you!
+* Go on great dates, and find your match answering our unique questions!
+* Round it off with your cutest profile picture and you’re ready to meet new people, find love or a great date for tonight. 
+* meaningful connections can come in many shapes and sizes - create new friendships, chat with new and interesting people, or find a new exciting romance!
+
+OkCupid isn’t just another online dating app. Our free dating app helps you meet singles, connect, chat or have a deep conversation through our one-of-a-kind messaging system. Focus on the connections you’re interested in, without the ones you’re not. Then, plan to meet up and go on great dates - whether you’re looking for local dating, virtual dating or anything in between!
+
+Take the stress out of online dating 
+OkCupid can help you find your match, whether you want casual dating, marriage, or just to find your love story – YOU choose what matters. Match with people with similar interests and receive personalized compatibility % when you answer our unique questions. We’re here to help you find relationships on your terms. 
+
+Flirt, find love, build connections and go on great dates with OkCupid, the best free dating app! Download now!
+
+MATCH, CONNECT AND MEETUP 
+• Meet people and find relationships with our unique messaging system
+• Local dating features help you meet people nearby
+
+DATING APP UPGRADE 
+OkCupid is a free dating app for everyone, but we offer an optional premium subscription that unlocks exclusive features. Additional premium dating features include:
+See who likes you without having to like them first
+Send unlimited likes for more matches!
+Set Dealbreakers so you can find just who you're looking for, and match on what matters
+
+WHAT PEOPLE ARE SAYING 
+“Want to have ‘hell yes’ first dates? OkCupid is the perfect wingman.” - Huffington Post
+“OkCupid may be the OG of dating sites, but that doesn’t mean it’s done innovating.” - Glamour
+“OkCupid is giving you a chance to really connect with someone…” - Elite Daily
+
+Meet singles and find a great connection – download OkCupid and enjoy the best online dating app today!
+
+Privacy: https://okcupid-app.zendesk.com/hc/en/articles/22780694078491
+Terms: https://okcupid-app.zendesk.com/hc/en/articles/23941864418203",2009-11-25T20:52:52Z,2025-11-22T14:56:42Z
+il,Israel,Lifestyle,6012,5,547702041,Tinder Dating App: Meet & Date,Tinder LLC,https://apps.apple.com/il/app/tinder-dating-app-meet-date/id547702041?uo=4,0.0,4.05781,30601,Lifestyle,"MATCH, CHAT & DATE. IT STARTS WITH A SWIPE™.
+With 97+ billion matches to date, Tinder® is the top free dating app and the best place to meet new people, with safety features that work to help you date more safely. Looking for love? An open relationship? Trying to find a date or new friends to chat with? Connect with local people everywhere on Tinder and get the best out of your dating experience:
+
+Come As You Are: whether you're straight, gay, bisexual or anything in between, you can be who you are and find who you want on Tinder.
+Date Beyond Photos: share your interests and learn more about your matches to get the conversation started.
+Seek What You’re Looking For: set your relationship goals and make connections on your terms.
+
+HOW TINDER WORKS
+It’s easy and fun to find new people on Tinder®. Express yourself to make your personality shine in your profile and stand out to potential matches. Answer a prompt, share a little about you and show your face in your pics to increase your match-making potential. Use the Swipe Right™ feature to like and the Swipe Left™ feature to nope. If they like you back, It’s a Match! And with our double opt-in feature, it’s only a match if the interest is mutual.
+
+PUT SAFETY FIRST
+Try some of our safety features to help you make connections more confidently:
+
+– Share My Date: share date plans with friends and fam, so they know who you’re planning to meet up with and where
+– Get Photo Verified: verify your photos to help potential matches know it’s really you in that cute pic & increase your chances of matching
+– Are You Sure / Does This Bother You: Tinder detects inappropriate language so people think twice before sending a disrespectful message
+– Report a Profile: quickly report and block profiles with suspicious activity or inappropriate behaviour
+– Block Contacts: take control and block anyone (like an ex) you don’t want to see on the app
+– Video Chat: hitting it off in chat? Test your online dating chemistry and meet new people from home!
+
+TRY TINDER PLUS
+– Unlimited likes for you to catch feelings for as many new people as you want
+– Use Passport Mode™ to match and chat with locals anywhere in the world before you arrive
+– Unlimited Rewinds to undo your last like or nope
+– Go Incognito and be seen only by the people you like
+
+EXPERIENCE TINDER GOLD
+– Get everything in Tinder Plus™, and try it out for a week before you commit to a monthly subscription
+– See who likes you and match with them on the spot for faster connections
+– Monthly Boost puts your profile to the top for 30 minutes to help increase your profile views
+– Weekly Super Likes, because sometimes you really, really like someone
+
+UPGRADE TO TINDER PLATINUM
+Get most of Tinder’s premium features: join Tinder Platinum™ to get your likes prioritised with potential matches, send them a compliment before matching and more.
+
+So what are you waiting for? Join millions of people worldwide! Tinder offers the most daters, increasing your chances of finding exactly what you're looking for. Download the best free dating app today!
+
+––––––––––––––––––––
+If you choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, payment will be charged to your Apple account, and your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Tinder Plus®, Tinder Gold™ or Tinder Platinum™, you can simply continue using Tinder for free.
+
+All photos are of models and used for illustrative purposes only.
+
+Privacy: https://www.gotinder.com/privacy
+Terms: https://www.gotinder.com/terms
+Visit: https://www.tinderlove.com/",2012-08-03T01:43:39Z,2025-11-20T18:10:28Z
+il,Israel,Lifestyle,6012,6,1115101477,SmartLife - Smart Living,Volcano Technology Limited,https://apps.apple.com/il/app/smartlife-smart-living/id1115101477?uo=4,0.0,4.74289,3481,Lifestyle,"SmartLife is a smart device management App for you to control and manage your intelligent home products easier and to live smarter. 
+
+SmartLife has integrated with HealthKit. It allows you to seamlessly connect your health records using the body fat scale to Apple Health, where BMI, weight, height, fat percentage, and more can be found in Apple Health's body measurements, giving you a clear and comprehensive picture of your health. You'll need to enable health privacy permissions for Smart Life.
+
+During the use process, how to ask questions and comments can be feedback to us in the ""FAQ & Feedback"" in the app.You can also contact us in the following ways:
+Official email: volcano@volcano-smart.com
+
+
+Terms of Use (EULA): https://images.tuyaus.com/app/html/Service_Agreement_en.html
+Privacy policy: https://developerapp.tuyaus.com/protocol/1479c88e9cc0101a?lang=en",2016-05-26T02:16:05Z,2025-11-23T20:20:54Z
+il,Israel,Lifestyle,6012,7,6742016543,"Muslim: Quran, Athan & Qibla",Ngo Thi Thom,https://apps.apple.com/il/app/muslim-quran-athan-qibla/id6742016543?uo=4,0.0,5,3,Lifestyle,"Muslim: Quran, Athan & Qibla is your comprehensive Islamic companion, designed to support your daily spiritual journey. With essential features like accurate prayer time reminders, Azkar collection, and Qibla direction, it helps strengthen your faith and manage your daily worship seamlessly.
+
+Key Features:
+
+* Accurate Prayer Times: Never miss a prayer again! Get precise notifications for all Salah times (Fajr, Dhuhr, Asr, Maghrib, Isha) based on your location.
+* Azkar & Duas: Immerse yourself in spiritual invocations with a curated collection of Azkar and Duas, perfect for morning, evening, and every moment in between. Strengthen your connection with Allah through heartfelt invocations.
+* Tasbih Counter: Elevate your Dhikr practice with the built-in Tasbih Counter. This feature includes an electronic tasbih and prayer bead counter to help you track your count while reciting your prayer or Dua.
+* Qibla Direction: Find the Qibla direction accurately, no matter where you are. The integrated Qibla compass ensures precise alignment for your prayers.
+* Quran Access: Read and reflect on the Holy Quran directly within the app. The clear and user-friendly interface allows for easy navigation between chapters and verses, supporting your daily recitation goals.
+* Prayer Reminders: Never miss a prayer with customizable reminders that fit your routine. Whether it's a gentle nudge for Fajr or a midday reminder for Dhuhr, you'll stay connected to your worship schedule.
+
+Muslim: Quran, Athan & Qibla is designed to be your trusted spiritual companion, integrating faith seamlessly into your daily routine. Whether you're managing prayer times, reflecting on Quranic verses, or seeking solace in Azkar and Duas, this app supports your spiritual growth and devotion.
+
+Download now and experience the convenience, guidance, and fulfillment of having a complete Islamic companion right at your fingertips. Stay connected to your faith, no matter where life takes you.",2025-02-16T08:00:00Z,2025-11-22T04:18:43Z
+il,Israel,Lifestyle,6012,8,1222822904,SmartThings,"Samsung Electronics Co., Ltd.",https://apps.apple.com/il/app/smartthings/id1222822904?uo=4,0.0,4.51283,4520,Lifestyle,"Quickly and easily connect and control your smart home devices through SmartThings.
+SmartThings is compatible with 100s of smart home brands. So you can control all of your smart home gadgets in one place, including your Samsung Smart TV and smart home appliances.
+With SmartThings, you can connect, monitor and control multiple smart home devices quicker and easier. Connect your Samsung smart TVs, smart appliances, smart speakers and brands like Ring, Nest and Philips Hue - all from one app.
+Then control your smart devices using voice assistants including Google Assistant
+
+[Key Features]
+- Control and check in on your home from wherever you are
+- Connect your smart devices across many different brands to work together by setting ‘scenes’
+- Build routines that are set on time, weather, and device status, so your home runs smoothly in the background
+- Allow shared control by giving access to other users
+- Receive status updates about your devices with automated notifications
+- Talk to your devices using Google Assistant
+- Track, monitor and save money on energy with SmartThings Energy. See how much your home and compatible Samsung devices cost to run, and try various energy saving features, such as AI saving mode, or schedule devices to run during off peak hours.
+- Receive recipe recommendations by scanning meal kits, wine, and meat. Plan, shop and prep meals with the help of SmartThings Cooking 
+
+※ Some features may not be available in all countries.
+
+[App requirements]
+Some mobile devices may not be supported.
+- iOS 16.0 or later / iPhone 6s or later / iPad mini 4 or later
+
+※ App permissions
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed. 
+
+[Required access permissions]
+-
+ 
+[Optional access permissions]
+• Bluetooth: to find nearby devices using Bluetooth or BLE
+• Microphone: Used to set up ultrasonic sensor-equipped devices
+• Camera: Scan QR codes.
+• Location: to automate actions using GPS (GPS optional)
+                    Used to find Wi-Fi information to add devices with iOS 13 or later versions
+• Contacts: Used to verify user information that will be used when sending text messages",2017-06-20T04:18:53Z,2025-10-02T10:00:06Z
+il,Israel,Lifestyle,6012,9,6741062364,Deepsearch AI Search Assistant,XSTUDIOS BILISIM TEKNOLOJILERI REKLAMCILIK ANONIM SIRKETI,https://apps.apple.com/il/app/deepsearch-ai-search-assistant/id6741062364?uo=4,0.0,4.19949,401,Lifestyle,"Find Anyone Online with Ease – The Ultimate AI Powered People Search & Social Media Lookup App!
+
+Ever wondered where to find social profiles of someone you just met? Looking to reconnect with an old friend or check out a new acquaintance's social media presence? Our powerful DeepSearch AI Search Assistant app helps you discover publicly available information about individuals effortlessly – all in one place!
+
+With just a name, our AI Search Assistant scans multiple platforms, letting you find people online quickly and conveniently. No more endless searching across multiple websites—our social media profile discovery tool consolidates everything in a single, easy-to-use interface.
+
+
+• Why Choose Our People Search & Social Media Lookup App?
+- Find Social Profiles Easily – Search by name, phone number, email, or username to locate social media accounts across various platforms.
+- Comprehensive Background Search – Access publicly available records, images, videos, and other relevant information about people.
+- Find Friends Online – Reconnect with lost contacts, old classmates, or former colleagues in just a few taps.
+- Social Media Discovery – Get insights into someone’s online presence, including publicly available professional and personal information.
+- Stay Informed – Instantly see what’s trending and discover who’s being searched the most.
+- Quick & Simple Searches – Our intuitive interface makes finding people online fast, efficient, and hassle-free.
+
+
+• Powerful Features at Your Fingertips!
+- Advanced Social Media Finder: Locate someone’s social accounts, including any social media accounts.
+- Cross-Platform Search – Save time by searching multiple sources at once instead of manually browsing different websites.
+- Publicly Available Background Info – See professional details, online mentions, and other insights about individuals.
+- Find PPL Online in Just Seconds – Enter a name or username, and we’ll handle the rest.
+- Search History & Popular Searches – Keep track of your previous searches and explore the most searched individuals.
+- Privacy & Transparency – We only provide publicly accessible information, ensuring ethical and responsible use.
+
+
+•Who Can Benefit from This App?
+- Networking Enthusiasts: Whether you're at a business event or meeting someone new, find their online profiles instantly.
+- Recruiters & Employers: Look up professional backgrounds to make informed hiring decisions.
+- Journalists & Researchers: Gather publicly available data for articles, reports, and investigations.
+- Curious Individuals: Learn more about friends, colleagues, or even public figures without the hassle of searching manually.
+- Online Daters: Verify someone’s online and publicly available presence before taking the next step.
+
+
+No more guesswork or endless web searches! Whether you're trying to find social profiles, reconnect with a friend, or conduct a background search, our app delivers fast and accurate results using publicly available data.
+
+
+UNLIMITED ACCESS TO ALL FEATURES
+- You can subscribe for unlimited access to all app’s features.
+- Subscriptions are billed automatically at the rate depending on the selected subscription plan.
+
+By using the app, you confirm that you acknowledge and accept our Privacy Policy and Terms of Service:
+Privacy Policy: https://deepsearchai.app/privacy
+Terms of Use:  https://deepsearchai.app/terms",2025-03-13T07:00:00Z,2025-11-16T07:38:57Z
+il,Israel,Lifestyle,6012,10,993504342,LG ThinQ,LG Electronics,https://apps.apple.com/il/app/lg-thinq/id993504342?uo=4,0.0,4.53829,1776,Lifestyle,"Connect your IoT home appliances to the LG ThinQ app.
+Enjoy effortless product control, smart care, and convenient automation in one simple solution.
+
+■ Discover the convenience of smart home appliances through the Home tab.
+ - Control your IoT home appliances from anywhere with our app.
+ - Get personalized recommendations for managing appliances based on usage history.
+ - Find out ways to better make use of the app's features from ""Explore""
+■ Upgrade your products from ThinQ Play.
+ - Use your products more efficiently and with greater ease by introducing new features to products you are currently using.
+ - Upgrade your products based on your lifestyle and personal preferences.
+■ Monitor your energy consumption data quickly.
+ - Use Energy Monitoring to compare your power usage with your neighbors’.
+ - Set energy saving goals and get usage status notifications to help save energy more efficiently.
+ - Receive care services for your products all in one place.
+■ Handle everything from troubleshooting to service requests directly from the app.
+ - Use the Smart Diagnosis function to check your product’s status.
+ - Book a service visit from a professional engineer for an accurate diagnosis and inspection.
+■ Conveniently reference LG home appliance manuals in one place.
+ - Access a range of content, including function descriptions and essential usage solutions for products.
+
+※ Services and features may vary depending on your product model and your country or region of residence.
+
+The following access permissions are necessary for the ThinQ app. 
+All the access permissions requested are optional access permission, so even if you do not allow them, you can still use the app except for the related services. (Including OS Request Permissions such as ""Siri & Search"", ""Notification"", ""Background App Refresh"", and ""Cellular Data"")
+
+[Optional Access Permissions]
+• Location
+- To find and connect to nearby Wi-Fi when registering the product.
+- To set and save the home location in Manage Home
+- To search for and use information about current locations, such as weather.
+- To check your current location in the ""Smart Routines"" function.
+
+• Camera
+- To take a profile picture
+- To share a home or account scanned from a QR code.
+- To take and attach photos in ""1:1 Inquiry.""
+- To record and store purchase receipts when registering additional information about the product..(미국 Only)
+- To use the AI oven Cooking Record feature.
+- To use in “Chat with LG” when entering the product and serial number information 
+
+• Photo, Media, File
+- To use the smartphone's storage when downloading the information of the product to be connected
+- To take and attach photos in ""1:1 Inquiry.""
+- To record and store purchase receipts when registering additional information about the product.
+- To view photo/video on your smartphone on the TV.
+- To use in “Chat with LG” to save photos/videos of product symptoms or proof of purchase
+- To use in “Chat with LG” when entering the product and serial number information
+
+• Media and Apple Music
+- To view photo/video on your smartphone on the TV.
+
+• Microphone
+- To check product status via Smart Diagnosis
+- To use in “Chat with LG” when inputting through the microphone in the input window and using STT.
+
+• Local Network
+- To obtain the device connecting Wi-Fi info when adding devices
+
+• Bluetooth
+- To find and connect to nearby Bluetooth devices when adding a product to the app.
+
+• HomeKit
+- To add IoT-based products
+
+• Notifications
+- Notifications are essential for receiving updates on product status, important notices, benefits, and information.",2016-09-08T08:25:28Z,2025-11-20T06:39:26Z
+il,Israel,Lifestyle,6012,11,930441707,Bumble Dating app: Meet People,Bumble Holding Limited,https://apps.apple.com/il/app/bumble-dating-app-meet-people/id930441707?uo=4,0.0,4.35405,17754,Lifestyle,"The dating app bringing people closer to love
+
+Bumble is the dating app where people meet, make connections, and start their love stories. We believe meaningful relationships are the foundation of a happy, healthy life — and we're here to help you find yours with a commitment to member safety and tools that empower confident dating.
+
+Match with the right people, date, and find meaningful connection
+
+Bumble is a free app for meeting singles and building connections grounded in mutual respect and trust. Whether you’re ready to find the one or date for fun, Bumble can help you connect with real people to build something authentic.
+
+As champions of love, we prioritize creating a space where our members feel respected, confident, and empowered to make connections
+
+- Our members are at the heart of everything we do
+- We put safety first — so you can date with confidence, knowing you’re connecting with verified matches
+- Respect, courage, and joy guide how we show up — and inspire others to do the same
+
+Try our free features — built to make dating easier
+- For better connections, conversations, and dates, personalize your profile with interests and prompts to showcase who you are, what you’re into, and what you’re looking for
+- Trust that the person you’re talking to is real with ID Verification
+- Feel confident with expert-backed dating advice designed to help you succeed
+- See what music you bond over by linking your Spotify account
+- Video chat and share your favorite pictures with your matches to get to know them better
+- Chat with peace of mind — knowing that when you’re talking to new people, all messages must meet our community guidelines
+- Get extra reassurance by sharing the details of your meetups with someone you trust
+- If you’re ever in need of a dating break, hide your profile with the Snooze Mode (you'll still keep all your matches)
+
+Want even more ways to connect? Bumble Premium unlocks extra features to boost your dating experience
+- See everyone who likes you
+- Use Advanced Filters like “What are they looking for?” to meet people who share your values, hobbies, and goals
+- Rematch with expired connections — so you don’t miss out on a great potential date
+- Browse anonymously with Incognito Mode and only seen by who you want to see you
+- Extend your matches by 24 hours
+- Swipe as much as you like to meet more people
+- Tap into dating scenes around the world with Travel Mode
+- Stand out and get noticed with free SuperSwipes & Spotlights, refreshed weekly
+
+Inclusivity is key
+At Bumble, we promise to support and include all forms of love: straight, gay, lesbian, queer, and beyond. We want everyone in our community to feel safe and welcome. So no matter how you identify, if you're looking for a place to chat, date, and find real love, we’ve got what you’re looking for.
+
+---
+Bumble is a free dating app to download and use. We offer optional subscription packages (Bumble Boost & Bumble Premium) and non-subscription, single, and multi-use paid features (Bumble Spotlight & Bumble SuperSwipe). Your personal data is securely processed in line with our privacy policy and applicable laws—be sure to read our privacy policy and terms and conditions.
+https://bumble.com/en/privacy
+https://bumble.com/en/terms
+Bumble Inc. is the parent company of Bumble, Badoo, and BumbleBFF, social networks, and dating apps free to download and use.",2015-01-06T20:30:40Z,2025-11-24T09:27:43Z
+il,Israel,Lifestyle,6012,12,680819774,Google Home,Google LLC,https://apps.apple.com/il/app/google-home/id680819774?uo=4,0.0,4.24913,2886,Lifestyle,"The Google Home app helps you get the most out of Gemini for Home.
+
+See your home at a glance
+The Google Home app is designed to show you the status of your home and keep you up to date with what you may have missed.
+
+Keep up with what’s important
+Updated design and streamlined organisation help you group your devices into dashboards and easily navigate your settings. Plus, you can check in on your home at any time.
+
+Scan camera events quickly
+The camera live view and history interface makes it easier than ever to see what happened.
+
+Search or ask your home
+Control your home in a brand new way. Just say what you want your devices to do with Gemini for Home.
+
+* Some products and features may not be available in all regions. Compatible devices required.",2013-10-17T06:15:41Z,2025-11-15T06:00:12Z
+il,Israel,Lifestyle,6012,13,926013767,iStudent Israel,finitiOne Ltd,https://apps.apple.com/il/app/istudent-israel/id926013767?uo=4,0.0,2.7971,138,Lifestyle,"להיות סטודנט בישראל זה סיפור לא פשוט בכלל! אפליקציית istudent הוקמה במטרה להקל עליכם, הסטודנטים, בקשיים היומיומיים ולרכז עבורכם את המענה המקסימאלי לצרכים אלו במקום אחד ו-ב-ח-י-נ-ם!
+ב-istudent תוכלו להנות ממגוון ענק של הטבות באתרים וברשתות מובילות בארץ ובעולם בכל התחומים: אופנה, life style, הופעות חיות, הצגות, רשתות המזון המובילות, ביטוח ופיננסים ועוד... וכל זה רק בגלל שאתם סטודנטים!",2014-10-28T13:09:02Z,2025-11-14T10:30:42Z
+il,Israel,Lifestyle,6012,14,595287172,Hinge Dating App: Match & Date,"Hinge, Inc.",https://apps.apple.com/il/app/hinge-dating-app-match-date/id595287172?uo=4,0.0,4.34558,1577,Lifestyle,"HINGE, DESIGNED TO BE DELETED
+Hinge is the dating app for people who want to get off of dating apps. With profiles that show your personality through text, photos, video, and voice, you have unique conversations that lead to great dates. And it’s working. Currently, people on Hinge go on a date every three seconds. Additionally, in 2022, we were the fastest-growing dating app in the US, UK, and Canada.
+
+HOW WE GET YOU OFF HINGE
+When it comes to online dating, people are so busy matching that they’re not actually connecting, in person, where it counts. Hinge is on a mission to change that. So we built an app that’s designed to be deleted. Here’s how:
+
+* We quickly learn your type. You’ll only be introduced to the best people for you.
+
+* We give you a sense of someone’s personality. You’ll get to know potential dates through their unique answers to prompts, as well as information like religion, height, politics, dating intentions, relationship type, and much more.
+
+* We make it easy to start a conversation. Every match begins by someone liking or commenting on a specific part of your profile.
+
+* We want you to feel confident about meeting people in person. Selfie Verification makes it easier for daters on Hinge to ensure that they are who they say they are.
+
+* We ask how your dates are going. After exchanging phone numbers with a Match, we’ll follow up to hear how your date went so we can make better recommendations in the future.
+
+The app is free to use. Members looking to see everyone who likes them or send unlimited likes can upgrade to Hinge+. To access additional features, including enhanced recommendations and priority likes, we offer HingeX.
+
+PRESS
+""It's the go-to dating app for many people looking for love."" - The Daily Mail
+“Hinge’s CEO says a good dating app relies on vulnerability, not algorithms.” - Washington Post
+""Hinge is the first dating app to actually measure real-world success"" - TechCrunch
+
+SUBSCRIPTION INFO
+Payment will be charged to Apple Account at confirmation of purchase
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+Account will be charged for renewal within 24-hours prior to the end of the current period
+Subscriptions may be managed and auto-renewal may be turned off by going to Account Settings after purchase
+
+Support: hello@hinge.co
+Terms of Service: https://hinge.co/terms.html
+Privacy Policy: https://hinge.co/privacy.html
+
+All photos are of models and used for illustrative purposes only.",2013-02-06T06:50:22Z,2025-11-17T15:23:55Z
+il,Israel,Lifestyle,6012,15,6472498645,Apple Invites,Apple Distribution International,https://apps.apple.com/il/app/apple-invites/id6472498645?uo=4,0.0,4.5119,84,Lifestyle,"Create unique invitations and bring people together for life’s most exciting moments. Customise the background of your invitation with a photo from your library, or choose an emoji background to bring your event to life. Easily see who is attending and make sure you never miss a moment by adding a Shared Album directly to the event. Whether you’re attending an event or hosting one yourself, Invites makes it easy to get the party started.
+
+Create beautiful invitations:
+* Choose a background from a curated set of options or pick a photo from your own library to catch your guests’ attention.
+* Customise the font of your invitation so it feels just right.
+* Maps and Weather are automatically added to make sure guests have all the details.
+
+Invite and manage RSVPs:
+* Invite others with just a link using any messaging platform.
+* Guests can RSVP in the iPhone app or on the web from any device.
+* Keep guests up to date on any last minute items by posting a message in the event for all to see.
+
+Fuel the party with Music and relive it with Photos:
+* Add a collaborative playlist so guests get to hear their favourite songs at the party.
+* Include a Shared Album so everyone can add their favourite photos from the event.
+* Access to collaborative playlists and Shared Albums is automatically given to guests in your event.
+
+Requirements:
+* Apple Invites is available for all iPhone models with iOS 18 or later.
+* Ability to collaborate with Apple Music Playlists requires an Apple Music subscription.
+* Anyone can reply to invitations. Creation of invitations requires an iCloud+ subscription.",2025-02-04T08:00:00Z,2025-11-11T19:05:32Z
+il,Israel,Lifestyle,6012,16,411873937,שופרסל App,SHUFERSAL LTD,https://apps.apple.com/il/app/%D7%A9%D7%95%D7%A4%D7%A8%D7%A1%D7%9C-app/id411873937?uo=4,0.0,3.96439,19237,Lifestyle,"שופרסל גאה להציג את האפליקציה הכי שימושית על הסמארטפון הכוללת מגוון רחב של שירותים דיגיטליים מתקדמים ללקוחות האונליין וסניפי הרשת.
+
+ קופונים ומבצעים בין אם אתם קונים בסניף או מזמינים קניות במשלוח הביתה, התחילו ליהנות ממגוון הטבות ומבצעים שחוסכים לכם כסף.
+הקופונים והמבצעים ניתנים לשימוש ברשתות שופרסל השונות: שופרסל דיל, שופרסל דיל EXTRA, שופרסל שלי ובאתר שופרסל Online.
+
+שופרסל Online במשלוח עד הבית מהיום למחר 
+הזמנת משלוחים עד הבית ממגוון הפריטים של רשת שופרסל: סופרמרקט - מזון ומשקאות, רשת Be - מוצרי פארם בישום קוסמטיקה וויטמינים, רשת GREEN (גרין) למוצרי בריאות וטבע. מוצרי חשמל, מצעים, מגבות ועוד מגוון מוצרים לבית.  בוחרים מועד למשלוח וממלאים סל בקלות ובמהירות ומקבלים את המשלוח עד הבית!
+ 
+
+קנייה מהירה באמצעות רשימות
+במקום לבלות שעות בהרכבת רשימות קניות אונליין, אפליקציית שופרסל תטען עבורכם את סל הקניות עם המוצרים שאתם נוהגים לקנות באופן קבוע, כל מה שנותר הוא רק לשלם 
+
+שירותים דיגיטליים בסניפי שופרסל
+אפליקציית שופרסל מספקת לכם גישה קלה ונוחה למגוון כלים שירותים דיגיטליים מתקדמים בסניפי הרשת שיחסכו לכם זמן וכסף: שחרור עגלת קניות בקליק ללא צורך במטבעות, איתור מבצעים בסניף או יועץ קניות חכם שימליץ על מוצרים חלופיים מותאמים אישית שיחסכו לכם כסף.
+
+אז למה אתם מחכים? הורידו את אפליקציית שופרסל והצטרפו למועדון הלקוחות השווה ביותר בישראל",2010-12-28T08:00:00Z,2024-07-24T06:46:41Z
+il,Israel,Lifestyle,6012,17,6469645973,Mylo AI - Dating & Love,Mylo AI LTD,https://apps.apple.com/il/app/mylo-ai-dating-love/id6469645973?uo=4,0.0,4.59956,1813,Lifestyle,"Are you ready to fall in love? You’ve come to the right place! Hi there, I’m Mylo, the first-ever AI that was built to help you find love. Basically, think of me as your new AI wingman. I’m using advanced algorithms to help you meet those who share the same vibes as you. So if you are ready to start, just hit the DOWNLOAD button and I’ll meet you inside! 
+
+
+You are still not fully convinced? Well, I know that meeting new people can be hard sometimes but here is the kicker: When was the last time you met someone who truly gets you? This is where I come to the picture with my AI abilities: 
+
+Forget about endless swiping—I’ll get to know you better and introduce you only to those who have the highest potential to share your vibes. Cool, huh?
+AI is more than Hey/Hi—I encourage you to speak with your potential partner. In fact, I’ll invite you to a mutual chat and make sure that the conversation runs smoothly. So forget about awkward silences—not on my watch. I’ll ask you different questions to help you get to know each other. 
+Deeper connections go beyond profile photos; they're about getting to know the real you, and I’ll help you maximize your full potential. 
+
+As an AI wingman, I’ll get better each time you are using the app, chatting with me, or with a potential match on the mutual chat - it means that I’m not here for long. Why are you still here, reading instead of hitting this download button right now? Still, have some questions? I’m available inside, and you can also check my T&C right here: 
+
+Eula Term of use: https://docs.google.com/document/d/1o8iwmiufvAzLB7Cqf_AOBTHFE1CetEcregBilNdxHQ8/edit?pli=1",2024-08-01T07:00:00Z,2025-11-22T10:07:38Z
+il,Israel,Lifestyle,6012,18,6746407379,Aibik - Live Video & Chat Now,帅 田,https://apps.apple.com/il/app/aibik-live-video-chat-now/id6746407379?uo=4,0.0,4.81818,33,Lifestyle,"The engine roared and the blood was boiling! Welcome to the Aibik, a wonderful convergence point of riders and intelligence! Open the software and start your motorcycle exploration journey right away.
+
+Meet AI cycling companions with distinct personalities. Each AI character has a unique personality and can interact deeply with you, accompanying you to explore the romance that only a rider can understand.
+
+You can have a 24-hour non-stop conversation with AI, freely talk about your motorcycle dreams, discuss modification plans, or share your adventures on the ride. Whether it's a sudden inspiration in the dead of night or doubts during a bike ride, AI is always online to answer your questions and provide solutions.
+
+Turn on the accelerator and awaken your AI motorcycle army - let every conversation be as smooth as running the gas, and every ride be filled with fresh stories!",2025-06-09T07:00:00Z,2025-06-23T01:36:50Z
+il,Israel,Lifestyle,6012,19,1493268178,DMSS,"Hangzhou Dong Bin Information Technology Co., Ltd.",https://apps.apple.com/il/app/dmss/id1493268178?uo=4,0.0,4.73966,4521,Lifestyle,"The DMSS app can enhance your security management efficiency. You can watch real-time surveillance videos and play them back anytime, anywhere, via Wi-Fi or cellular networks. If a device alarm is triggered, DMSS will immediately push an instant notification to you.
+
+DMSS offers：
+1. Real-time Live View：
+You can view real-time surveillance videos from the added devices anytime, anywhere, to help you better monitor the safety of your home environment.
+
+2. Video Playback：
+You can quickly find the events you care about by date and event category, and playback the required historical video footage.
+
+3. Instant Alarm Notifications：
+You can subscribe to different alarm events according to your needs.  When an event is triggered, you will immediately receive the message notification.
+
+4. Device Sharing
+You can share the device with family members for shared use and assign them different usage permissions.
+
+5. Alarm Hub
+You can add a variety of peripheral accessories to the alarm hub to provide warnings for potential theft, intrusion, fire, water damage, and other situations. In case of an unforeseen event, DMSS can immediately activate alarms and send out danger notifications.
+
+6. Visual Intercom
+You can add visual intercom devices to engage in video calls between the device and the DMSS, as well as perform functions like locking and unlocking.
+
+7. Access Control
+You can add access control devices to check the current status of doors and view unlock records, as well as perform remote unlocking operations on the doors.",2020-01-10T08:00:00Z,2025-11-19T02:06:24Z
+il,Israel,Lifestyle,6012,20,413502543,easy - איזי,easy co.il ltd,https://apps.apple.com/il/app/easy-%D7%90%D7%99%D7%96%D7%99/id413502543?uo=4,0.0,4.29608,40627,Lifestyle,"איזי - למצוא את כל מה שסביבך!
+מסעדות, חנויות, בעלי מקצוע, אירועים ועוד אלפי קטגוריות בכל הארץ, לפי כל מה שקרוב, מה שטוב ו/או מה שמשתלם! 
+
+איזי היא אפליקציית החיפוש המקומי הגדולה בישראל, המחברת בין אנשים ועסקים טובים.
+המידע באיזי מתעדכן על בסיס יומי, מבוסס על אלפי אתרים וכולל מאות אלפי עסקים, נק' עניין ובעלי מקצוע. 
+העסקים ברשימה מדורגים לפי ציון איזי המשקלל נתונים וביקורות מכל רחבי הרשת. לאיזי קהילת משתמשים גדולה ופעילה המורכבת מעשרות אלפי חברים אשר מוסיפים תמונות, ביקורות ועדכונים ודואגים בכך להעשיר את המידע המוצג לך. 
+
+ויש גם ווידג'ט! משתמשים הרבה באיזי? במיוחד בשבילכם, חיפוש בקליק אחד. כי תמיד אפשר יותר איזי :)
+להוספה לחצו לחיצה ארוכה על אייקון האפליקציה ומשם נותר רק למקם על המכשיר. תהנו!
+
+באיזי אפשר למצוא את כל הפרטים על עסקים בישראל!
+כתובות, טלפונים, שעות פתיחה, תמונות, הנחות, מבצעים, ביקורות גולשים ומומחים, מחירונים ועוד! 
+מצאת עסק מתאים? אפשר ליצור איתו קשר בטלפון או באמצעות הצ'אט באפליקציה, לנווט ליעד בקלות, להזמין מקום ועוד שלל אפשרויות.
+
+איזי כוללת מאגר של אנשי מקצוע במאות קטגוריות: אינסטלטורים, חשמלאים, מנעולנים, טכנאים, רופאים, עורכי דין, מורים פרטיים ואפילו דוג-ווקרים - כל נותני השירות בארץ בכל תחום, במקום אחד. 
+
+שירות easyFix
+
+ חוסך זמן ומאפשר לך לשלוח פנייה לקבלת שירות למס' בעלי מקצוע במקביל בהתאם לפרטי התקלה ולפי השעות שנוחות לך. להזמין איש מקצוע מעולם לא היה כל כך קל ובטוח!
+
+יש לך עסק?
+כנראה שהוא כבר נמצא באיזי! ניתן לתפוס בעלות על העסק בחינם
+דרך האפליקציה או האתר. 
+ניהול עמוד העסק באיזי יאפשר לך לשלוט בנראות העמוד ולהשתמש בכלים מתקדמים כמו קידום, סטטיסטיקות, משלוחים ועוד.
+
+איך משתמשים באיזי?
+מערכת החיפוש המתקדמת של איזי מבוססת מיקום ומורכבת מאלפי קטגוריות ואפשרויות פילטור שעוזרים לך למצוא בדיוק את העסק שחיפשת עם כל הפרטים הנחוצים. את התוצאות ניתן לסדר בעזרת הסליידר לפי מה שטוב ו/או מה שקרוב. רוצה לנסות?
+
+""מסעדת בשרים מתאימה לילדים"" 
+""מסלול טיול בחורף""
+""פלאפל ללא גלוטן""
+""מסעדה איטלקית כשרה חלבית"" 
+""ברים עם אוכל טבעוני"" 
+""אטרקציות נגישות""
+""מסעדה פתוחה בשבת""
+
+
+• רוצים לאכול? באיזי ניתן למצוא בקלות את כל המסעדות באזורכם, עם חלוקה לפי סגנון מטבח, אווירה, סוג כשרות, צמחוני, טבעוני, ידידותי לילדים, אמצעי תשלום, חבר מועדון ועוד!
+• צריכים איש מקצוע? באיזי רשומים עשרות אלפי אנשי מקצוע, כולל ביקורות של משתמשים אחרים, תחומי התמחות, מחירון ואפילו תו ""יצאת צדיק"". קצרים בזמן? נסו את easyFix לשליחת בקשת שירות למס' בעלי מקצוע במקביל.
+• עם הילדים? אפשר לחפש פעילויות לכל הגילאים - ג'ימבורי, חדרי בריחה, גני שעשועים ועוד!  
+• הולכים לטייל? אפשר למצוא מסלולי טיול לפי עונה מומלצת! וגם: שמורות טבע, גנים לאומיים, חופי רחצה, מעיינות, יערות ועוד! 
+• בדרכים? חיפוש ""על הדרך"" מאפשר לך לבחור עסקים ומקומות לאורך המסלול ממיקומך הנוכחי כל הדרך אל היעד.
+• מתכננים שופינג? באיזי אפשר למצוא חנויות מקומיות מכל התחומים: אופנה, ספורט, מזון, חשמל, רהיטים ועוד המון.
+• מתכוננים לסופ""ש? כל סוגי הפעילויות והאטרקציות, עם חלוקה לגילאים, מחירים והתאמה לעונות השנה.
+• יוצאים לבלות? הופעות, סטנד אפ, סרטים, אירועי ספורט ומסיבות - כל האירועים לפי סוג, מיקום ותאריך.  
+• הכל סביבך באיזי! תחנות דלק, כספומטים, בתי כנסת, דואר ישראל, אנטנות סלולריות, גינות כלבים, מיחזוריות ועודדדדדדדדדד.",2011-01-15T00:40:42Z,2025-11-03T22:27:46Z
+il,Israel,Lifestyle,6012,21,6754687873,Lesi - Style & Community,丽 王,https://apps.apple.com/il/app/lesi-style-community/id6754687873?uo=4,0.0,0,0,Lifestyle,"**Lesi** is a vibrant fashion community app that connects style enthusiasts worldwide. Discover the latest trends, share your unique outfits, and get inspired by fashion-forward individuals from around the globe.
+
+### Core Features
+- **AI Fashion Assistant**: Get personalized outfit recommendations and AI-powered fashion scoring
+- **Style Discovery**: Browse curated fashion content and trending outfits
+- **Photo Sharing**: Capture and share stunning outfit photos
+- **Personal Style Sharing**: Upload and share your daily looks with the community
+- **Fashion Community**: Connect with like-minded fashion enthusiasts and influencers
+- **Style Inspiration**: Get outfit ideas and fashion tips from real users
+- **Social Features**: Like, comment, and follow your favorite fashion creators",2025-11-05T08:00:00Z,2025-11-10T14:13:34Z
+il,Israel,Lifestyle,6012,22,1055362240,דלק - אפליקציה לתדלוק והטבות,DELEK THE ISRAEL FUEL CORP. LTD.,https://apps.apple.com/il/app/%D7%93%D7%9C%D7%A7-%D7%90%D7%A4%D7%9C%D7%99%D7%A7%D7%A6%D7%99%D7%94-%D7%9C%D7%AA%D7%93%D7%9C%D7%95%D7%A7-%D7%95%D7%94%D7%98%D7%91%D7%95%D7%AA/id1055362240?uo=4,0.0,3.93454,993,Lifestyle,"מידע על אפליקציה זו 
+איך נשמע לקבל כסף חזרה על הדלק שלך? מדהים נכון? גם אנחנו חושבים בגלל זה יצרנו את אפליקציית ג'ו דלק! האפליקציה שמתדלקת אותך במתנות ועוד מלא הטבות שוות אז שנצא לדרך:
+ארנק דיגיטלי קודם כל אפשר לתדלק בלי ארנק! בלי להקיש מחדש את הפרטים ולעשות את זה ממש מהר ועל כל הטוב הזה גם מגיע לך לקבל כסף חזרה.
+איך זה עובד? על כל ליטר שמתדלקים צוברים 10 אגורות עד 30 ₪ ! עצרת ונכנסת לחנות הנוחות שלנו? גם שם מגיע לך 10% צבירה משווי הקנייה. ברגע שמגיעים ל50 ₪ אז אפשר לממש את הכסף שצברת בכיף בחנויות ג'ו דלק 
+תדלוק מהיר תדלוק בלחיצת כפתור! ממש נוח וקל כבר אמרנו בלי להקיש פרטים כמו מספר רכב ותעודת זהות?
+
+
+כרטיסיית קפה:
+הזמנת קפה באחת מחנויות ג'ו דלק? לא לשכוח ""לנקב"" את כרטיסיית הקפה באפליקציה, הקפה השישי עלינו!כי מי לא אוהב קפה איכותי חינם.
+
+הטבת הצטרפות:
+הורדת לראשונה את האפליקציה? איזה כיף מגיעה לך מתנה לבחירה מבין 6 הטבות שונות מתחלפות מתנת יום הולדת איתך גם בחגיגות שלך! בחודש היום הולדת נשלח לך מתנהגם מאיתנו 20 שקלים לקנייה בחנויות ג'ו דלק.
+
+מבצעים בלעדיים באפליקציה:
+באפליקציה תמיד אפשר למצוא מבצעים בלעדיים וסופר שווים שיגרמו לך לעצור ולבקר בחנות
+
+
+אז יאללה שניתן על זה גז?
+נתראה באפליקציה",2015-11-19T08:13:36Z,2025-11-16T22:55:42Z
+il,Israel,Lifestyle,6012,23,6450396992,"KwaKwa - By Creators, For You",Flying Pigs LTD.,https://apps.apple.com/il/app/kwakwa-by-creators-for-you/id6450396992?uo=4,0.0,5,12,Lifestyle,"KwaKwa: Mobile Courses, Challenges, Digital Products & Memberships - All in One Place
+
+Ready to turn your knowledge, content, and passion into impact? Whether you're a creator looking to launch, sell, and scale your expertise or a learner hungry for inspiring and bite-sized insights - KwaKwa delivers a unique mobile-first experience where learning meets community, creativity, and ease.
+From interactive challenges and digital courses to premium memberships and downloadable content - everything is designed to be created, shared, and consumed on-the-go, in a seamless, vertical format that feels like your favorite social apps.
+
+Four Ways to Create & Sell with KwaKwa:
+
+Interactive Challenges
+———————————
+Create guided, date-based learning experiences that keep your audience engaged day by day. Perfect for launching programs like “21 Days of Productivity” or “10 Days to Better Photos.” Participants join as a group, progress together, and engage with daily interactive steps like videos, quizzes, polls, and reflections - all built for mobile with a strong sense of community, habit-building, and shared momentum.
+
+Short Mobile Courses
+———————————
+Launch self-paced, mobile-optimized digital courses where learners unlock all the content immediately after purchasing. Ideal for creators who want to package their expertise into short, high-impact learning journeys that fit today’s on-the-go lifestyle. Add videos, swipeable steps, quizzes, links, and more - no tech skills needed.
+
+Membership Club
+———————————
+Offer a premium monthly subscription to your inner circle. Share exclusive content with your superfans in a dedicated membership hub - from behind-the-scenes videos and bonus tutorials to live sessions and community posts. Set your own price and build a recurring income stream while nurturing deeper connections.
+
+Digital Content Hub
+———————————
+Sell any kind of digital product - from PDFs to video files, image bundles, or any other format you can think about. Upload, price, and share your content with just a few taps. KwaKwa handles the payment, delivery, and mobile experience - you focus on creating, we handle the rest.
+
+Built for Creators: Easy, Fast & Powerful
+
+Creating with KwaKwa is as smooth as creating stories on Instagram Stories or TikTok videos. You can launch your digital products and learning experiences in minutes - no complex setup, coding, or design required.
+
+With built-in AI-powered features, you save hours of work:
+- One-tap image background Removal
+- Auto-generated contextual quizzes
+- Free automatic captions for all videos
+- Beautiful, pre-designed templates
+- Smart links & embedded content
+- Context-aware generation of replies
+- Optimized for vertical mobile experience
+- Generate cover photo for your content
+
+Whether you’re a fitness coach, business mentor, educator, artist, or just getting started - KwaKwa gives you the fastest way to launch high-value content and get paid for your knowledge.
+
+Why KwaKwa?
+
+- Built for mobile
+- Super easy to create
+- All-in-one platform: content, payments, community
+- Empowering creators worldwide
+- Super engaging content
+
+Where creativity meets simplicity, and where knowledge becomes action.",2023-06-27T07:00:00Z,2025-11-17T07:00:28Z
+il,Israel,Lifestyle,6012,24,6717593634,Aragi-Video Chat&Share Fun,SAYIM CETINKAYA,https://apps.apple.com/il/app/aragi-video-chat-share-fun/id6717593634?uo=4,0.0,4.5,2,Lifestyle,"Aragi, a comprehensive art exhibition exploration and application platform specially designed for art enthusiasts. Here, whether you are a professional in the art industry, a seasoned collector, or an ordinary audience who loves art, you can find your own artistic inspiration and joy, allowing you to freely explore the ocean of art anytime, anywhere and discover those touching moments.
+
+[Exhibition recommendation introduction]
+You can browse exhibition information from major art museums, galleries, and art centers, covering multiple fields such as painting, sculpture, photography, and installation art. With detailed graphic and textual introductions, artist backgrounds, highlights of exhibits, and exhibition time and location information, visitors can watch the exhibition without leaving their homes.
+
+[Exhibition rating and evaluation]
+You can rate the exhibition and write a personal review to help other users make more suitable exhibition choices. Exchange exhibition experiences with other users in the evaluation area, discover different artistic perspectives, and broaden the circle of artistic communication.
+
+[Community hot topic discussion]
+Set up multiple discussion topics around current popular art exhibitions, art events, and artists, encouraging users to express their opinions and share their viewpoints.
+
+On Aragi, you can fully explore the infinite possibilities of art and share the feast of art with art enthusiasts around the world. Download now and embark on your artistic journey, allowing your soul to soar freely in the world of art!",2024-11-29T08:00:00Z,2025-10-22T11:59:20Z
+il,Israel,Lifestyle,6012,25,1632961329,Ringle - Jewish Dating App,Ringle Dating LTD,https://apps.apple.com/il/app/ringle-jewish-dating-app/id1632961329?uo=4,0.0,4.06419,2290,Lifestyle,"Ringle: Where Jewish Hearts Meet for Meaningful Connections
+
+Welcome to Ringle, a groundbreaking dating app rooted in Israeli innovation and dedication. Originating from the heart of Israel, Ringle is a testament to love, tradition, and faith, created by a team of enthusiastic founders, including veterans of the Israel Defense Forces. Our mission is clear: to unite Jewish singles in their journey towards meaningful, marriage-focused relationships.
+
+Launched in Israel - A Story of Rapid Growth:
+Ringle made its debut in the middle of 2023, right in the land where ancient traditions meet modern innovation - Israel. Since then, we've experienced remarkable growth, quickly becoming a favorite among Jewish singles seeking authentic and lasting connections.
+
+Marriage at the Forefront:
+Ringle is designed for those who dream of wedding bells and lifelong partnerships. We offer a sanctuary for singles who are ready to take that next significant step in life. Our platform is a bridge between hearts desiring not just a date, but a soulmate.
+
+Deep, Personalized Matching:
+Our meticulously crafted questionnaire dives deep into the essence of your personality, values, and life goals. This thorough approach ensures that every match is more than just a swipe - it's a potential chapter in your love story, steeped in shared beliefs and mutual understanding.
+
+A Safe Haven for All Jewish Singles:
+Ringle is more than an app - it's a community that embraces every shade of Jewish identity. Whether you're Orthodox, Conservative, Reform, or culturally Jewish, our app is your go-to place for finding someone who truly gets you.
+
+Unwavering Commitment to Excellence:
+Our vision is to be the leading dating app for Jewish singles globally. Every feature, every update, is a step towards perfecting your experience on Ringle. We're constantly evolving, driven by our commitment to help you find not just any partner, but the right partner.
+
+Experience Ringle:
+Immerse yourself in an app that's as serious about marriage as you are. With Ringle, your path to finding your Jewish soulmate is paved with respect, depth, and a shared heritage. Download Ringle today and embark on a journey towards love, the way it's meant to be.
+
+Privacy: https://www.ringledating.com/privacy-policy
+Terms: https://www.ringledating.com/terms-of-use
+
+מחפשים קשר רציני? לחתונה? רינגל זה המקום בשבילכם.
+ובואו נהיה כנים לרגע, עולם הדייטינג של היום זה לא מה שהיה פעם,
+כי רוב האנשים מכירים אונליין.
+ברינגל, אפליקציית הדייטינג החינמית והאיכותית ביותר לציבור הדתי והמסורתי,
+מחכים לכם אלפי אנשים פנויים שרוצים לפגוש מישהו כמוכם.
+רינגל נמצאת כאן כדי ליצור את הניצוץ ולמצוא לכם את האחד/ת.
+מונעים על ידי המשימה שלנו לתת מענה לצרכים הייחודיים של הקהילה שלנו,
+השקענו את ליבנו ביצירת פלטפורמה המשלבת את הטכנולוגיה העדכנית ביותר
+עם המסורת והערכים שחשובים לנו.
+הורידו עכשיו ותראו בעצמכם!",2023-01-25T08:00:00Z,2025-10-30T14:26:53Z

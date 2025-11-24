@@ -1,0 +1,412 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ru,Russian Federation,Utilities,6002,1,6746188973,Happ - Proxy Utility Plus,Flyfrog LLC,https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973?uo=4,0.0,4.05664,565,Utilities,"Важное уведомление
+Happ не продаёт и не предоставляет VPN-услуги. Осторожно: мошенники могут предлагать «официальные Happ VPN». Эти предложения не имеют отношения к нам. Пользователи должны самостоятельно настраивать свои серверы и соблюдать местные законы при использовании приложения.
+
+Happ Plus — это мобильное приложение, которое упрощает работу с прокси-серверами, предлагая удобный интерфейс и расширенные возможности настройки.
+
+Основные возможности включают:
+ • Настройку прокси по правилам.
+ • Поддержку различных типов протоколов.
+ • Скрытые подписки.
+ • Шифрованные подписки.
+
+Поддерживаемые протоколы:
+ • VLESS (с поддержкой Reality)
+ • VMess
+ • Trojan
+ • Shadowsocks
+ • Socks
+
+Happ Plus обеспечивает конфиденциальность вашей сетевой активности, не собирая никаких данных — вся информация остаётся исключительно на вашем устройстве и не передаётся на внешние серверы.",2025-05-29T07:00:00Z,2025-11-17T19:00:10Z
+ru,Russian Federation,Utilities,6002,2,6502572134,HitProxy,AIRSHARP LTD,https://apps.apple.com/ru/app/hitproxy/id6502572134?uo=4,0.0,2.32364,3782,Utilities,"HitProxy — мобильное приложение, обеспечивающее защищенное и зашифрованное соединение для доступа в Интернет.
+
+Приложение поддерживает современные протоколы VLESS и WIREGUARD.
+Для настройки приложения достаточно просто вставить ссылку на туннель от сервера VLESS или WireGuard. .
+
+ОСОБЕННОСТИ
+– Удобное приложение для iOS
+– Настройка через ссылку
+– Надежная криптография
+– Без сохранения логов
+– Максимальная скорость
+
+ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+Никакая информация, которую вы предоставляете приложению, не передаётся нам.
+HitProxy не собирает и не хранит ваши данные. Мы не получаем информацию о вашем устройстве и не передаем данные третьим лицам.
+
+Если у вас есть вопросы по нашей Политике конфиденциальности, пишите на support@hitproxy.net
+
+КОНТАКТЫ
+Если у вас есть вопросы о HitProxy, свяжитесь с нами: support@hitproxy.net
+
+ИСПОЛЬЗУЕМЫЕ ЛИЦЕНЗИИ
+В приложении используется код WireGuard, разработанный Jason A. Donenfeld и распространяемый по лицензии Apache License версии 2.0.
+Также используется код Xray-core от Project-X, выпущенный под лицензией Mozilla Public License версии 2.0.",2024-07-31T07:00:00Z,2025-11-20T04:48:08Z
+ru,Russian Federation,Utilities,6002,3,6670333179,avoVPN,Lark Company Limited,https://apps.apple.com/ru/app/avovpn/id6670333179?uo=4,0.0,3.2133,2105,Utilities,"avoVPN — клиент для продвинутых протоколов v2ray, vless и vmess.
+
+МОЛНИЕНОСНАЯ СКОРОСТЬ
+avoVPN использует современные и передовые протоколы, обеспечивающие высокую скорость при просмотре потокового видео, серфинге в интернете и работе с тяжелыми файлами. 
+
+НАИВЫСШАЯ БЕЗОПАСНОСТЬ
+На базе новейших протоколов семейства X-ray (v2ray, VLESS, VMess) avoVPN гарантирует усиленную защиту ваших данных и полную конфиденциальность. 
+
+ПРОСТОТА И УДОБСТВО
+Интуитивно понятный интерфейс avoVPN позволяет легко настраивать приложение. Соединение включается и выключается по нажатию на кнопку.
+
+КАК НАСТРОИТЬ
+Получите ключ у вашего VPN-провайдера. Приложение поддерживает ключи формата vless:// и vmess://. Просто вставьте ключ в приложение — и начинайте безопасное и анонимное подключение к интернету.
+
+ПРАВИЛА И ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+avoVPN не собирает ваши персональные данные, не ведет журналы активности и не записывает данные о вашем трафике. Политика конфиденциальности: https://avovpn.net/policy/.
+Приложение предоставляется «как есть», без гарантий. Пользователь обязуется соблюдать законодательство и этические нормы при использовании avoVPN. Полные правила: https://avovpn.net/rules/.",2024-10-03T07:00:00Z,2025-11-06T15:02:00Z
+ru,Russian Federation,Utilities,6002,4,1618096210,Дядя Ваня VPN,KONDAKOV OOO,https://apps.apple.com/ru/app/%D0%B4%D1%8F%D0%B4%D1%8F-%D0%B2%D0%B0%D0%BD%D1%8F-vpn/id1618096210?uo=4,0.0,4.06961,24392,Utilities,"Дядя Ваня VPN — тот самый ВПН, который вам нужен. Работает в России.
+
+Shadowsocks VPN клиент с возможностью добавления ключей QR кодом.",2022-04-25T07:00:00Z,2023-11-07T23:12:12Z
+ru,Russian Federation,Utilities,6002,5,6746035819,ВПН - Buck Super,FATCAT TECH PTE. LTD.,https://apps.apple.com/ru/app/%D0%B2%D0%BF%D0%BD-buck-super/id6746035819?uo=4,0.0,4.72316,1575,Utilities,"Buck Super — безопасный, быстрый и приватный сетевой инструмент, обеспечивающий плавное и стабильное подключение с наглядной визуализацией данных.
+
+- Безопасность и конфиденциальность: локальная обработка, запутывание данных, минимальный сбор
+- Стабильность и производительность: оптимизация задержки; скорость и задержка синхронизируются каждые 2 секунды
+- Панель в реальном времени: задержка/джиттер/потери/скорость с двумя плавными кривыми
+- Тест скорости: анимированный прогресс; сохранение результата в историю в один тап
+- Центр конфигураций: Build and Import; поддержка URL/папки/буфера обмена/сканирования QR
+
+Политика конфиденциальности: https://jialeconvertv.xyz/p.html
+Условия использования: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-06T08:00:00Z,2025-11-18T01:46:02Z
+ru,Russian Federation,Utilities,6002,6,6749755540,VPN-ВПН-Безопасный,jsq vpn Ltd.,https://apps.apple.com/ru/app/vpn-%D0%B2%D0%BF%D0%BD-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D1%8B%D0%B9/id6749755540?uo=4,0.0,4.2091,1363,Utilities,"Минимальный, стабильный сетевой ускоритель! Один клик ускоряется, поддерживает многоуровневые прикладные сцены.
+
+Автоматическое обслуживание
+
+*** название подписки: премиальная еженедельная карта
+Срок подписки: 1 неделя
+*** цена подписки: $3,99 в неделю
+
+Оплата: пользователь подтверждает покупку и осуществляет платежи, которые будут записаны на iTunes. Отмена продления: если вы хотите отменить продление, пожалуйста, вручную отключите автоматическое обновление в режиме настройки iTunes/Apple за 24 часа до истечения текущего срока подписки. Продление: аккаунт Apple iTunes будет взиматься за 24 часа до истечения срока действия и продлевать дополнительный срок подписки после успешного вычета.
+
+Конфиденциальн услов: https://docs.google.com/document/d/1rGhSr07cN6b1ZGAQcEoW7Pf5Fs50K9AVrnmvjhge0jk/edit?usp=sharing
+
+Пользовательск соглашен: https://docs.google.com/document/d/1QWx639U8yJ7X-4mt9Hs368Zy10GXZv91NDNlj15F-OM/edit?usp=sharing",2025-10-28T07:00:00Z,2025-10-29T01:20:22Z
+ru,Russian Federation,Utilities,6002,7,6754324055,f3 vpn 17,Frigate Inc,https://apps.apple.com/ru/app/f3-vpn-17/id6754324055?uo=4,0.0,2.97273,110,Utilities,"f3 VPN helps you use the internet safely. Protects your traffic from being intercepted.
+Maximum speed, maximum protection and privacy.
+
+The application does not collect or store any information using VPN absolutely and data is not transferred to third parties.
+
+Application support support@frig8.net
+Privacy Policy: https://f3cdn.org/privacy-policy.html
+Terms of use: https://f3cdn.org/terms-and-conditions.html",2025-11-04T08:00:00Z,2025-11-20T21:18:36Z
+ru,Russian Federation,Utilities,6002,8,6444905068,Kirin VPN-Super VPN/ВПН прокси,HISEND HIGH INC,https://apps.apple.com/ru/app/kirin-vpn-super-vpn-%D0%B2%D0%BF%D0%BD-%D0%BF%D1%80%D0%BE%D0%BA%D1%81%D0%B8/id6444905068?uo=4,0.0,4.58955,21311,Utilities,"Особенности kirin VPN:
+
+Бесплатная пробная версия: новые пользователи могут получить бесплатное пробное время после первой загрузки и установки, чтобы испытать его функции, прежде чем принимать решение о покупке.
+Онлайн поддержка клиентов: свяжитесь с нашей поддержкой клиентов по электронной почте или в приложении, чтобы получить помощь и руководство в любое время.
+Неограниченная пропускная способность: наш продукт не ограничивает пропускную способность пользователя, только время. Неограниченное использование в период членства.
+Подключение с помощью одного клика мыши: использует запатентованные передовые технологии для стабильного использования без сложных настроек. Один клик, чтобы соединиться и наслаждаться свободой.
+Конфиденциальность фокус: мы не собираем информацию о конфиденциальности пользователей в любой форме, обеспечивая безопасность пользовательской информации.
+
+Один клик ускорения позволяет вам наслаждаться различными онлайн-сервисами, такими как музыка, видео и игры плавно. Выберите Один из различных премиум маршрутов для высокоскоростной стабильности!
+
+Автоматическое обновление членского состава:
+
+Преимущества членства: предотвращает заторы с неограниченной скоростью.
+Годовой :12 месяцев 53,99 долл. США
+Ежеквартально :3 месяца USD 15,49
+Ежемесячный :1 месяц USD 6.69
+Еженедельно :7 дней USD 2.99
+
+Оплата: пользователь подтверждает покупку и оплата взимается с учетной записи iTunes.
+Отмена подписки: вручную выключите автоматическое обновление в iTunes/Apple ID settings management по крайней мере за 24 часа до окончания текущего периода подписки.
+Обновление :Apple iTunes счет будет снята в течение 24 часов до даты истечения срока действия. После успешного вычета период подписки будет продлен на Один период подписки.
+
+Политика конфиденциальности:
+https://docs.google.com/document/d/13XI1FAHHnrgJ2VsIs3kyOrOazBmsdEI6CqXif7nPN4g/edit?usp=sharing
+
+Условия предоставления услуг:
+https://docs.google.com/document/d/14KajdJko66rlhTI-Mh96vwQx8cqfmiss8MzcCMZSx4M/edit?usp=sharing",2023-01-03T08:00:00Z,2025-06-10T06:44:17Z
+ru,Russian Federation,Utilities,6002,9,6450534064,Streisand,ARCADIA ODYSSEY INC.,https://apps.apple.com/ru/app/streisand/id6450534064?uo=4,0.0,3.58195,2715,Utilities,"Streisand is an app that helps you use proxy servers. It has a user-friendly interface and useful features.
+
+Key features:
+1. Rule-based Proxy Setup.
+2. Compatibility with Various Protocols.
+3. Custom DNS Support.
+
+Supported Protocols:
+- VLESS(Reality)
+- VMess
+- Trojan
+- Shadowsocks
+- Socks
+- SSH
+- Hysteria(V2)
+- TUIC
+- Wireguard
+
+
+This app doesn't collect your network activity data. All your data stays on your device and is never uploaded to our server.
+
+Please note that this application does not offer VPN services for sale. You need to create or purchase your own servers. Also, make sure to follow local laws while using this app.
+
+Terms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://streisand.pages.dev/privacy-policy",2023-07-08T07:00:00Z,2025-10-16T08:27:53Z
+ru,Russian Federation,Utilities,6002,10,1050704155,Яндекс — с Алисой,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/ru/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D1%81-%D0%B0%D0%BB%D0%B8%D1%81%D0%BE%D0%B9/id1050704155?uo=4,0.0,4.66238,1067158,Utilities,"Поиск с Алисой. Ищите в Яндексе так, как вам удобно: текстом, голосом, или по картинке. На сложные вопросы Алиса даст подробные ответы с картинками и видео. А если вы размышляете о покупке — покажет товары, которые рекомендуют в обзорах и посоветует, на какие параметры обратить внимание при выборе. Также приложение подскажет, кто звонит с незнакомого номера, поможет выбрать выгодный вклад, разобраться в сложных вопросах и решить другие повседневные задачи.
+
+Алиса — ещё и нейросеть для самых разных задач. Заглядывайте в чат и спросите Алису — она ответит. Дайте задачу — порассуждает, рассмотрит её со всех сторон и объяснит решение. Попросите — нарисует картинку или сгенерирует текст. Киньте в чат файл — изучит его за вас и ответит на вопросы по содержанию. Всё это бесплатно, нужно только войти в аккаунт на Яндексе.
+
+Умная камера. Наведите на уравнение или математическую задачу — и камера объяснит, как их решать. А ещё она распознаёт предметы, рассказывает о них и советует, где купить; переводит надписи, открывает QR-коды и даже заменяет собой сканер.
+
+Бесплатный автоматический определитель номера. Включите АОН в меню настроек или попросите: «Алиса, включи определитель номера». Он покажет, кто звонит, даже если номера нет в контактах. База данных из более чем 5 миллионов организаций и отзывы пользователей сэкономят время и защитят от нежелательных разговоров.
+
+Поисковые вертикали: Квартиры, Товары и Финансы. Вертикаль — это специализированный поиск, который помогает найти и сравнить разные предложения по конкретной теме и выбрать самое выгодное или подходящее. С удобными фильтрами можно подобрать выгодный вклад, нужный товар и даже квартиру. Для этого не придётся изучать разные сайты — Поиск покажет предложения из разных источников.
+
+Погода с точностью до района. Подробный почасовой прогноз на текущий день с динамической картой осадков, ветров, температуры и давления. И ежедневный — на неделю вперёд с детальной информацией о скорости ветра, атмосферном давлении и уровне влажности. А ещё — специальные режимы с полезной погодной информацией для рыбаков, садоводов и не только.
+
+Приложение доступно для iPhone и iPad.
+
+Загружая программу, Вы принимаете условия Лицензионного соглашения https://yandex.ru/legal/yaalice_mobile_agreement/ru/",2015-12-02T13:55:06Z,2025-11-20T13:07:37Z
+ru,Russian Federation,Utilities,6002,11,483693909,Яндекс Браузер,DIRECT CURSUS COMPUTER SYSTEMS TRADING LLC,https://apps.apple.com/ru/app/%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80/id483693909?uo=4,0.0,4.7347,1174395,Utilities,"Яндекс Браузер — быстрый и безопасный браузер с голосовым помощником Алисой и ответами Нейро.
+
+Нашли промокоды за вас
+Открываете сайт магазина и нажимаете % Промокоды рядом с адресной строкой — появятся доступные промокоды для этого сайта.
+
+Встроенный редактор пишет, редактирует и переводит тексты. А ещё — кратко пересказывает видео и статьи. Даже очень большие.
+
+Алиса умеет решать повседневные задачи: подскажет погоду, посоветует, где поесть или купить продуктов, найдёт что угодно в интернете.
+
+Вкладки и группы можно добавлять в облако — и они появятся везде, где вы залогинены в Браузере. Просто выберите, какие группы нужны вам на всех устройствах.
+
+Технология активной защиты Protect предупреждает пользователей об опасных сайтах и страницах с платными мобильными подписками.
+
+Автоматический определитель номера подскажет, кто звонит, даже если номера нет в контактах вашего телефона. Яндекс Браузер найдёт название организации в Справочнике или сообщит цель звонка, основываясь на отзывах пользователей.
+
+Режим Инкогнито помогает обойтись без лишних следов. Включите его, чтобы браузер не запоминал пароли, данные для автозаполнения, поисковые запросы и историю посещений.
+
+Умная строка открывает сайты по их названиям, а не адресам (например, «ведомости» или «википедия»), даёт моментальные ответы на простые вопросы («курс доллара») и легко переводит иностранные слова.
+
+Браузер синхронизирует закладки, пароли и другие данные между вашими мобильными устройствами и компьютером. Достаточно включить синхронизацию.
+
+Если у вас есть предложения или пожелания по функциональности и работе браузера, напишите нам прямо из приложения (Настройки → Обратная связь) или со страницы поддержки https://yandex.ru/support/browser-mobile-iphone/feedback/feedback.xml.
+
+Загружая программу, Вы принимаете условия Лицензионного соглашения https://yandex.ru/legal/browser\_agreement/",2011-12-15T06:11:48Z,2025-11-20T13:05:27Z
+ru,Russian Federation,Utilities,6002,12,6754383022,Альфа-Банк:HealthDiary,Vikram Kumar,https://apps.apple.com/ru/app/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B1%D0%B0%D0%BD%D0%BA-healthdiary/id6754383022?uo=4,0.0,4.61062,113,Utilities,"Espa:HealthDiary is a manual app for users who want to document their health journey. Users can log daily health data such as meals, exercise, sleep, and mood. The app allows users to add personal notes and track any changes over time.
+With Espa:HealthDiary, users can better understand their health and wellness patterns and make informed decisions.",2025-11-14T08:00:00Z,2025-11-14T12:12:39Z
+ru,Russian Federation,Utilities,6002,13,284815942,Google,Google LLC,https://apps.apple.com/ru/app/google/id284815942?uo=4,0.0,4.51173,136411,Utilities,"С приложением Google вы всегда будете в курсе важных событий. Быстро находите ответы на вопросы, узнавайте интересные новости и получайте рекомендации. Чем чаще вы пользуетесь приложением Google, тем удобнее оно становится.
+
+Основные функции:
+• Используйте камеру, чтобы узнавать больше о мире вокруг. Неважно, что вас интересует: яркая бабочка, загадочное растение-колючка или что-то ещё.
+• Переводите более чем с сотни языков. Указатели на дороге, меню и любые другие надписи станут понятными – просто наведите на них объектив.
+• Увидели интересную вещь? Воспользуйтесь камерой, чтобы узнать, где ее купить.
+• Получайте более подходящие результаты, добавляя уточняющие слова. Хотите такие же туфли, но голубые, или вас интересует не где купить вон ту деталь на велосипеде, а как ее починить? Просто укажите это при поиске с помощью камеры.
+• Узнавайте названия песен, даже если вы забыли слова. Напойте мелодию, и приложение Google поможет вам найти трек.
+• Легко делайте домашние задания. Пошаговые руководства и видео помогут вам научиться решать задачи по математике, химии, физике и биологии.
+
+
+Персональные рекомендации:
+• Следите за новостями по темам, которые вам интересны.
+• Получайте прогноз погоды на день и информацию о том, что происходит вокруг.
+• Будьте в курсе событий в мире спорта и кино.
+• Узнавайте первыми о новых альбомах любимых исполнителей.
+• Читайте истории обо всем, что связано с вашими интересами и хобби.
+• Подписывайтесь на интересные вам темы прямо на странице результатов поиска.
+
+Безопасность при поиске:
+• Когда вы ищете что-то в приложении, соединение с серверами Google шифруется для вашей защиты.
+• Настройки конфиденциальности легко найти и изменить. Коснитесь фото профиля, чтобы перейти в меню и одним нажатием удалить недавнюю историю поиска из аккаунта.
+• Веб-спам фильтруется алгоритмами Поиска, чтобы вы получали только безопасные и качественные результаты.
+
+Дополнительные возможности Google:
+• Виджет Поиска. Находите информацию в Google с домашнего или заблокированного экрана. Выберите один из двух размеров: в обоих можно вводить запросы в строке, а в виджете побольше доступны варианты поиска с помощью камеры, голоса и в режиме инкогнито.
+
+
+Дополнительную информацию о возможностях приложения Google можно посмотреть на страницеhttp://www.google.com/search/about.
+
+Политика конфиденциальности: https://www.google.com/policies/privacy.
+
+Ваши отзывы помогают нам создавать по-настоящему полезные продукты. Пройдите небольшой опрос для пользователей:
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+ru,Russian Federation,Utilities,6002,14,1356177741,Outline App,Jigsaw Operations LLC,https://apps.apple.com/ru/app/outline-app/id1356177741?uo=4,0.0,3.3896,3211,Utilities,"Outline is an easy way for you to set up your own virtual private network (VPN) server to more safely access the open internet and keep your communications private. 
+
+If you have received an access key, download the Outline app to get started. 
+
+If you haven’t received an access key, you’ll first need to set-up your own server. Get started by downloading the Outline Manager from getoutline.org. Creating your own server is quick and easy, and instructions in the Manager will guide you through each step. 
+
+How Do I Set Up Outline? 
+- Outline consists of two related products: the Outline Manager and Outline. 
+- The Outline Manager lets you create and operate your own VPN, and share access with anyone you choose by sending them an invitation directly from the Manager. Once you’ve downloaded the Manager, you can easily set up a VPN server on a cloud provider in less than five minutes. 
+- After setup is complete, you can download the Outline app on your phone and desktop. 
+- Share internet access with coworkers or friends by inviting them directly from the Manager. 
+- If you’ve received an access code from someone using an Outline Manager you’re all set! Just download the app and get started. 
+
+Why use Outline?
+- Fast, reliable access to the open internet, powered by the Shadowsocks protocol
+- Allows you to create and maintain your own VPN server and provide access with those you trust
+- Strong encryption keeps your communications private
+- Completely open source and audited by a nonprofit security firm",2018-04-03T18:55:16Z,2025-08-27T22:56:01Z
+ru,Russian Federation,Utilities,6002,15,590379981,OpenVPN Connect,OpenVPN Inc.,https://apps.apple.com/ru/app/openvpn-connect/id590379981?uo=4,0.0,4.76679,15184,Utilities,"OpenVPN Connect is the official OpenVPN client app developed by OpenVPN Inc., the creators of the OpenVPN® protocol. Designed for use with OpenVPN’s zero-trust business VPN solutions, this app enables secure remote access to internal networks, cloud resources, and private applications. A zero-trust VPN is a virtual private network that requires continuous identity and device verification for every access request, adhering to the principle of 'never trust, always verify,' regardless of the user's location.
+
+
+IMPORTANT NOTE:
+This app does NOT include a built-in VPN service. It establishes an OpenVPN tunnel to a VPN server or service that is compatible with the OpenVPN protocol. It is meant for use with OpenVPN’s business Zero-trust VPN solutions:
+• Access Server (self-hosted)
+• CloudConnexa® (cloud-delivered)
+ 
+
+KEY FEATURES
+• Fast, secure VPN tunneling with OpenVPN protocol
+• Strong AES-256 encryption and TLS 1.3 support
+• MDM-friendly with a global configuration file
+• Device posture checks**
+• Import of connection profile with URL**
+• Captive Wi-Fi portal detection
+• Web authentication for SAML SSO support
+• HTTP proxy configuration
+• Seamless split-tunneling and auto-reconnect
+• Works over Wi-Fi, LTE/4G, 5G, and all mobile networks
+• Easy setup & import of .ovpn profiles
+• Kill switch for fail-safe protection
+• IPv6 and DNS leak protection
+• Support for certificate, username/password, external certificate, and MFA authentication
+
+** Works with Access Server and CloudConnexa
+ 
+
+HOW TO USE OPENVPN CONNECT:
+Easily get connected by simply entering your organization’s URL and login — no complex setup required.
+
+
+BEST PAIRED WITH OPENVPN BUSINESS SOLUTIONS:
+• Access Server – Self-hosted zero-trust VPN software server with web-based administration, access control, clustering for horizontal scaling,  flexible authentication methods, and zero-trust controls.
+• CloudConnexa® – Cloud-delivered Zero-Trust business VPN service offered from 30+ worldwide locations with ZTNA, application domain name routing, IPsec support for connecting networks, and advanced identity, device posture, and location context continuous checks.
+
+ 
+Trusted by Global Businesses:
+Over 20,000 organizations, including Salesforce, Target, Boeing, and others, rely on OpenVPN’s Zero-Trust VPN solutions.",2013-01-17T00:15:38Z,2025-06-26T18:41:20Z
+ru,Russian Federation,Utilities,6002,16,6746191598,CyBear ВПН - Медведь VPN V2ray,Free Fast Network Inc,https://apps.apple.com/ru/app/cybear-%D0%B2%D0%BF%D0%BD-%D0%BC%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D1%8C-vpn-v2ray/id6746191598?uo=4,0.0,2.35135,74,Utilities,"Cybear VPN: Your Guardian for a Secure Digital Journey
+
+Cybear VPN empowers you with a robust and reliable internet connection, meticulously designed to safeguard your online privacy. 
+Traverse the digital landscape with confidence and speed, leveraging our expansive network of high-performance servers situated across the globe.
+
+Key Features Engineered for You:
+
+Ironclad Security: Employing cutting-edge encryption protocols, Cybear VPN creates an impenetrable shield around your sensitive data, protecting it from unauthorized access and surveillance.
+
+Lightning-Fast Performance: Our optimized infrastructure ensures blazing-fast connection speeds and unwavering stability, providing a seamless experience for all your online activities, from browsing to streaming.
+
+Intuitive User Experience: Connect effortlessly with a single tap. Cybear VPN is designed for simplicity, requiring no complex configurations, making secure online access accessible to everyone.
+
+Extensive Global Network: Access a vast array of servers strategically positioned worldwide, offering you flexible and efficient connectivity options to suit your needs.
+
+Unwavering Privacy Commitment: Your online privacy is our paramount concern. Cybear VPN operates with a strict no-logs policy, ensuring that your internet activities remain entirely private and untracked.
+
+Comprehensive Device Compatibility: Secure all your digital devices with Cybear VPN. Our application is compatible across multiple platforms, allowing you to maintain a protected connection wherever you go.
+
+Embark on a secure and unhindered online adventure. 
+
+Download Cybear VPN today!
+
+Privacy policy: https://cybearvpn.com/privacy-policy/
+Terms of service: https://cybearvpn.com/terms-of-service/",2025-07-09T07:00:00Z,2025-11-19T23:37:08Z
+ru,Russian Federation,Utilities,6002,17,6446814690,V2Box - V2ray Client,techlaim,https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690?uo=4,0.0,4.37052,12957,Utilities,"V2box - VPN Internet network proxy , Supports multiple proxy protocols, such as Shadowsocks, V2ray, Vmess, Trojan , SSH , Socks
+
+
+Features:
+
+- Support for adding custom servers proxy (Shadowsocks, v2ray, trojan,vless,vmess, SSH)
+- Support Reality (xray)
+- Support vless vision
+- Support utls
+- Support SSH with UDP Gateway (udpgw)
+
+- Multiple encryption protocol support, AES-128-GCM, AES-192-GCM, AES-256-GCM, Chacha20-IETF, Chacha20 - ietf - poly1305, xchacha20 ietf -- poly1305
+
+- Stealth and stable, no need to log in and register, easy to use
+
+- Does not save any user log information
+
+- Wi-Fi Security when using Public Hotspots
+
+- Protect your network IP and privacy security
+
+- Unmatched network speed and performance
+
+
+Terms of Services: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Privacy Policy: https://hexasoftware.dev/v2box-terms/",2023-04-07T07:00:00Z,2025-10-08T01:02:51Z
+ru,Russian Federation,Utilities,6002,18,1665892408,Браузер Луна,INNOVATIVE DEVELOPMENT LLC,https://apps.apple.com/ru/app/%D0%B1%D1%80%D0%B0%D1%83%D0%B7%D0%B5%D1%80-%D0%BB%D1%83%D0%BD%D0%B0/id1665892408?uo=4,0.0,4.77297,121327,Utilities,"Луна — простой и надёжный браузер для просмотра сайтов и поиска информации в интернете.
+
+С нашим браузером вы будете тратить меньше времени и внимания на назойливую рекламу и всплывающие окна.
+
+Браузер всегда открывает российские сайты благодаря встроенным российским сертификатам безопасности.",2023-02-15T08:00:00Z,2025-11-06T17:37:31Z
+ru,Russian Federation,Utilities,6002,19,569251594,билайн,PJSC VimpelCom,https://apps.apple.com/ru/app/%D0%B1%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD/id569251594?uo=4,0.0,4.65154,528480,Utilities,"управляйте связью с обновлённым билайном — понятным и минималистичным. пополняйте баланс, подключайте услуги и eSIM, настраивайте обещанный платёж в несколько касаний
+
+что ещё можно делать в приложении билайн?",2012-10-26T02:15:23Z,2025-11-16T11:49:29Z
+ru,Russian Federation,Utilities,6002,20,1010648429,t2. Новый уровень,"T2 MOBILE, LLC",https://apps.apple.com/ru/app/t2-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%83%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C/id1010648429?uo=4,0.0,4.68884,842622,Utilities,"Лучший способ управлять услугами и счетом для абонентов t2 Россия.
+
+Тарифы и услуги
+— проверка остатков гигабайт и минут;
+— настройка тарифа;
+— подключение или отключение дополнительных услуг;
+— возможность делиться гигабайтами с абонентами t2;
+— удобный виджет для отслеживания остатков и баланса.
+
+Управление счетом
+— пополнение баланса с помощью банковской карты;
+— установка автоплатежа с привязанной банковской карты;
+— использование «Обещанного платежа»;
+— просмотр статистики расходов и заказ детализации;
+
+Больше
+— скидки, кэшбэк и подарки от наших партнеров;
+— уникальные предложения и приглашения на интересные события.",2015-10-21T09:00:40Z,2025-11-22T15:49:13Z
+ru,Russian Federation,Utilities,6002,21,6749765255,Матрёшка VPN: Россия,FORGE OF THE GODS LLC,https://apps.apple.com/ru/app/%D0%BC%D0%B0%D1%82%D1%80%D1%91%D1%88%D0%BA%D0%B0-vpn-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/id6749765255?uo=4,0.0,4.57637,1041,Utilities,"Защитите своё соединение к госуслугам, банкам, мос.ру, налоговой, кинопоиску и другим сервисам России из заграницы и в России с быстрым и надёжным VPN по всему миру. Приватность, шифрование и полная анонимность.
+
+Условия использования: https://matryoshka.cloud/ru/terms
+Политика конфиденциальности: https://matryoshka.cloud/ru/privacy",2025-08-28T07:00:00Z,2025-11-04T17:49:18Z
+ru,Russian Federation,Utilities,6002,22,778681735,МегаФон,PJSC MegaFon,https://apps.apple.com/ru/app/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD/id778681735?uo=4,0.0,4.26922,848418,Utilities,"Ваш личный кабинет, который всегда под рукой.
+Бесплатное приложение «МегаФон» для управления номером и услугами связи.
+
+∙ Полный контроль
+Проверяйте остатки, подключайте и отключайте услуги, меняйте тариф и контролируйте свои финансы где бы вы ни были.
+
+∙ Полезный виджет
+Следите за балансом и остатками по пакетам прямо на экране смартфона. Выбирайте цвет виджета — фирменный зелёный или системный. А при статусах VIP и Exclusive его цвет подчеркнёт вашу индивидуальность!
+
+∙ Дополнительные номера
+Подключите до 3 дополнительных номеров на ту же SIM-карту, чтобы использовать их для работы, интернет-магазинов, объявлений и служб доставки вместо основного. Оставьте свой основной номер только для самых близких.
+
+∙ Забота о близких
+Привяжите номера близких к своему личному кабинету — следите за их балансом и управляйте услугами. Или создавайте МегаСемью и делитесь минутами, интернетом и SMS из тарифа.",2013-12-15T21:37:55Z,2025-07-14T07:21:50Z
+ru,Russian Federation,Utilities,6002,23,1010631459,Getcontact,GETVERIFY LDA,https://apps.apple.com/ru/app/getcontact/id1010631459?uo=4,0.0,4.44093,444276,Utilities,"Мы начали действовать, чтобы сказать «‎Стоп» нежелательным вызовам во всем мире. Каждый год мы блокируем как минимум 3 миллиарда нежелательных вызовов или попыток мошенничества. Ваша обратная связь помогает нам защищать Вас и миллионы других пользователей Getcontact более эффективным образом. Мы с радостью продолжим улучшать наши услуги благодаря Вашей поддержке.
+
+Откройте Некоторые Функции Getcontact
+
+ИДЕНТИФИКАТОР ВЫЗЫВАЮЩЕГО АБОНЕНТА и ЗАЩИТА ОТ СПАМА:
+Знайте, кто Вам звонит, даже если абонент не находится у Вас в контактах. Блокируйте нежелательные вызовы и общайтесь только с теми людьми, которых Вы выбираете. С фильтром СПАМА получите мгновенную защиту от автоматических вызовов и мошенников.
+
+Фильтрация спам SMS автоматически блокирует спам сообщения, чтобы Вы получали только важные и актуальные сообщения. Таким образом, Вы увидите на своем телефоне только те сообщения, которые Вам действительно нужны, и избежите надоедливых спам сообщений.
+
+ГОЛОСОВОЙ АССИСТЕНТ:
+Переадресовывайте входящие вызовы на персонального ассистента, когда Вы не можете хотите отвечать на вызовы от нежелательных номеров или когда Вы заняты или находитесь вне сети. Ваш ассистент ответит на эти вызовы и отправит Вам уведомления о том, кто и по какой причине звонит. *Функция Ассистент на данный момент доступна только в некоторых странах.
+
+ЧАТЫ:
+Общайтесь безопасно с помощью бесплатных, зашифрованных чатов. Общайтесь в индивидуальных или групповых чатах и ​​совершайте голосовые или видеозвонки с кем захотите.
+
+2-й НОМЕР:
+2-й телефонный номер позволяет Вам иметь два разных независимых номера, не приобретая дополнительную SIM-карту. Выберите номер и начните пользоваться им прямо сейчас.
+
+Скачайте приложение Getcontact прямо сейчас, чтобы открыть больше функций.
+
+Вы можете приобрести подписку на платные планы, чтобы воспользоваться улучшенными функциями Getcontact. Сумма взымается с Вашего аккаунта iTunes, а цена варьируется в зависимости от страны. Вы увидите общую сумму перед тем, как завершить оплату. Покупки внутри приложения будут обновляться согласно с Вашим планом. Для отмены обновления Вам нужно отключить автоматическое обновление не позже, чем за 24 часа до окончания подписки. Вы можете отключить автоматическое обновление в любое время через настройки аккаунта iTunes. Для настроек: https://support.apple.com/ru-ru/118428
+
+Наше сообщество и новости о нас:
+- Facebook: https://facebook.com/getcontactapp
+- Instagram: https://instagram.com/getcontact
+- LinkedIn: https://linkedin.com/company/getcontact
+- Twitter: https://twitter.com/getcontact
+
+Ваше мнение очень важно для нас. Вы можете сообщить нам о проблеме или связаться с нами через:
+- Обратная связь: support@getcontact.com
+- Помощь: https://getcontact.faq.desk360.com
+
+Подробная информация о Конфиденциальности и Условиях Пользования:
+Политика Конфиденциальности: https://getcontact.com/privacy
+Условия Пользования: https://getcontact.com/terms",2016-04-06T07:24:46Z,2025-11-04T06:36:02Z
+ru,Russian Federation,Utilities,6002,24,1441195209,WireGuard,WireGuard LLC,https://apps.apple.com/ru/app/wireguard/id1441195209?uo=4,0.0,3.9216,1301,Utilities,"WireGuard is a fast, modern, and secure VPN tunnel. This app allows users to manage and use WireGuard tunnels. The app can import new tunnels from archives and files, from QR codes, or you can create one from scratch. It is currently undergoing rapid development, and we are listening to our users in implementing new and exciting features. Please visit wireguard.com for a summary of the WireGuard protocol and how to set up your own WireGuard server for use with this app.",2018-12-20T14:27:47Z,2023-02-16T15:35:43Z
+ru,Russian Federation,Utilities,6002,25,6478942365,AmneziaWG,Privacy Technologies OU,https://apps.apple.com/ru/app/amneziawg/id6478942365?uo=4,0.0,4.07692,377,Utilities,"AmneziaWG is a contemporary version of the popular VPN protocol, WireGuard. It's a fork of WireGuard and offers protection against detection by Deep Packet Inspection (DPI) systems. At the same time, it retains the simplified architecture and high performance of the original.",2024-04-02T07:00:00Z,2025-03-14T22:46:40Z

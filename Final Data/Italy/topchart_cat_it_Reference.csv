@@ -1,0 +1,944 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+it,Italy,Reference,6006,1,433400878,INPS mobile,Istituto Nazionale Previdenza Sociale,https://apps.apple.com/it/app/inps-mobile/id433400878?uo=4,0.0,2.68441,4772,Reference,"INPS mobile permette di interagire con alcuni servizi online presenti sul sito web www.inps.it. L’Inps è sempre più vicino a te con diverse modalità di comunicazione.
+
+Servizi con autenticazione: Estratto Conto Contributivo; Cassetta Postale; Estratto Conto Datore lavoro domestico;  Stato pratiche Gestione Dipendenti Pubblici; Pagamento Riscatti, Ricongiunzioni e Rendite; Pagamento Lavoratori Domestici; Cassetto Previdenziale Aziende; Consultazione Domande ANF Lavoratori Domestici; Esito Domande di Pensione; Consultazione Domande ANF Gestione Separata; Cedolino Pensione; Stato Domanda; Stato Pagamenti e Cedolini; INPS Risponde; Certificato di Pensione (modello ObisM); Certificazione Unica; Quota Cedibile; Consultazione Red Est; Gestione Notifiche; Esiti Domande Disoccupazione Agricola; La mia Pensione (Previsione per i lavoratori); Bonus Nido; Esiti Domande NASpI; Premio Nascita; CIP - Consultazione Info Previdenziali; Consultazione Domande ANF Pagamenti Diretti per Aziende; Consultazione Reddito/Pensione di Cittadinanza; Simulatore ISEE per Reddito/pensione di cittadinanza; Verifica Verbale Invalidità Civile; Gestione 730/4; Consultazione ISEE; Assegno unico e universale per i figli a carico; Lavoro Domestico; Durc OnLine; 
+
+Servizi senza autenticazione: Simulazione Calcolo Contributi Lavoro Domestico; INPS Risponde; Sportelli di Sede; Amministrazione Trasparente;
+
+
+L’esposizione dei servizi è stata riorganizzata consentendo all’utente diversi tipi di accesso, tra questi la possibilità di navigare in base al tipo di utente o tematica. 
+La vista principale consente di visualizzare le ultime notizie, accedere ai social dell’Istituto, salvare i servizi preferiti consentendo una navigazione diretta verso servizi specifici.
+
+L’utente può visualizzare l’elenco completo dei servizi disponibili anche senza inserire le credenziali richieste per una parte dei servizi disponibili nell’app INPS mobile. 
+Deve accedere con PIN / SPID / CIE solo quando sceglie di utilizzare un servizio con autenticazione.
+
+Questa versione si avvale di una nuova interfaccia utente, studiata ad hoc per l'utilizzo delle nuove funzionalità.
+Il sistema di navigazione è di tipo 'Tab Bar' e aggiornato agli standard di usabilità delle app.
+
+Ulteriori novità:
+
+- è stato integrato un tutorial che guida l’utente nell’uso della nuova interfaccia grafica al primo accesso
+- i servizi sono stati categorizzati per tema , per tipologia di utente 
+- è stata aggiunta la possibilità di visualizzare i canali social dell’Istituto
+- è possibile visualizzare le news e comunicati stampa 
+- è stata aggiunta la possibilità di autenticarsi con SPID
+- è possibile creare la lista dei servizi preferiti;
+- è possibile cercare i servizi per nome;
+- è possibile segnalare problemi tecnici. 
+
+Dichiarazione di accessibilità: https://form.agid.gov.it/view/5c2389e0-7cc1-11ef-a539-31fd2d4dc2c5",2011-05-08T07:00:00Z,2025-11-18T09:11:47Z
+it,Italy,Reference,6006,2,414706506,Google Traduttore,Google LLC,https://apps.apple.com/it/app/google-traduttore/id414706506?uo=4,0.0,4.09787,7561,Reference,"Traduci fino a 249 lingue. Il supporto delle funzionalità varia in base alla lingua:
+• Testo: traduci tra lingue digitando
+• Offline: traduci senza connessione a Internet
+• Traduzione istantanea con fotocamera: traduci il testo nelle immagini in modo istantaneo puntando la fotocamera
+• Foto: traduci il testo nelle foto scattate o importate
+• Dettatura: traduci parole e frasi pronunciate
+• Conversazioni: traduci conversazioni bilingue al volo
+• Trascrizione: traduci ininterrottamente qualcuno che parla in un'altra lingua quasi in tempo reale
+• Scrittura a mano libera: anziché digitare, disegna caratteri di testo
+• Frasi preferite: aggiungi traduzioni di parole e frasi a Speciali e salvale per riutilizzarle in futuro
+
+Notifica di autorizzazione:
+• Microfono per la traduzione vocale
+• Fotocamera per la traduzione del testo tramite scansione
+• Foto per l'importazione di foto dalla raccolta
+
+È supportata la traduzione tra le seguenti lingue:
+Abcaso, Accinese, Acioli, Afar, Afrikaans, Albanese, Alur, Amarico, Arabo, Armeno, Assamese, Avaro, Awadhi, Aymara, Azero, Balinese, Bambara, Basco, Bashkir, Batak karo, Batak simalungun, Batak toba, Baulé, Beluci, Bengalese, Betawi, Bhojpuri, Bicol, Bielorusso, Birmano, Bosniaco, Bretone, Bulgaro, Buriat, Cantonese, Catalano, Cebuano, Ceceno, Ceco, Chamorro, Chichewa, Chiga, Chirghiso, Chuukese, Ci, Cinese (semplificato), Cinese (tradizionale), Ciuvascio, Coreano, Corso, Creolo delle Seychelles, Creolo haitiano, Creolo mauriziano, Croato, Curdo (Kurmanji), Curdo (Sorani), Danese, Dari, Dhivehi, Dinka, Diula, Dogri, Dombe, Dzongkha, Ebraico, Esperanto, Estone, Ewe, Faroese, Figiano, Filippino, Finlandese, Fon, Francese, Francese (Canada), Frisone, Friulano, Fulah, Ga, Gaelico scozzese, Galiziano, Gallese, Georgiano, Giapponese, Giavanese, Greco, Guaraní, Gujarati, Hakha Chin, Hausa, Hawaiano, Hindi, Hmong, Hunsrik, Iban, Igbo, Ilocano, Ilongo, Indonesiano, Inglese, Inuktut (latino), Inuktut (sillabico), Irlandese, Islandese, Italiano, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazako, Khasi, Khmer, Kinyarwanda, Kituba, Kokborok, Komi, Kongo, Konkani, Krio, Lao, Latino, Letgallo, Lettone, Ligure, Limburghese, Lingala, Lituano, Lombardo, Luganda, Luo, Lussemburghese, Macedone, Madurese, Maithili, Makasar, Malayalam, Malese, Malese (Jawi), Malgascio, Maltese, Mam, Manx, Maori, Marathi, Mari Meadow, Marshallese, Marwari, Maya yucateco, Meiteilon (Manipuri), Menangkabau, Mizo, Mongolo, N'Ko, Nahuatl (Huasteca orientale), Ndau, Ndebele del sud, Nepalbhasa (newari), Nepalese, Norvegese, Nuer, Occitano, Odia (Oriya), Olandese, Oromo, Osseto, Pangasinan, Papiamento, Pashto, Patois giamaicano, Persiano, Polacco, Portoghese (Brasile), Portoghese (Portogallo), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Q'eqchi', Quechua, Romanì, Rumeno, Rundi, Russo, Sami del nord, Samoano, Sango, Sanscrito, Santali (latino), Santali (Ol Chiki), Sepedi, Serbo, Sesotho, Shan, Shona, Siciliano, Sindhi, Singalese, Slesiano, Slovacco, Sloveno, Somalo, Spagnolo, Sundanese, Susu, Svedese, Swahili, Swati, Tagico, Taitiano, Tamazight, Tamazight (Tifinagh), Tamil, Tataro, Tataro di Crimea (cirillico), Tataro di Crimea (latino), Tedesco, Telugu, Tetum, Thai, Tibetano, Tigrino, Tiv, Tok pisin, Tongano, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turco, Turkmeno, Tuvinian, Ucraino, Udmurt, Uiguro, Ungherese, Urdu, Uzbeco, Venda, Veneziano, Vietnamita, Waray, Wemba, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+it,Italy,Reference,6006,3,472618543,Esselunga,Esselunga SPA,https://apps.apple.com/it/app/esselunga/id472618543?uo=4,0.0,4.56743,10974,Reference,"IL MONDO ESSELUNGA NEL TUO SMARTPHONE
+
+Organizza al meglio la tua esperienza di spesa con la nuova app Esselunga! Gestisci la tua Carta Fìdaty, le tue offerte personalizzate e servizi in negozio in modo semplice e veloce. 
+
+ 
+
+PERSONALIZZA LA TUA SPESA 
+
+• ATTIVA E SCONTA: Scegli fino a 10 prodotti da scontare ogni giorno 
+
+• PROMOZIONI ESCLUSIVE: Per te sempre più di 1.000 prodotti in sconto 
+
+• CARTA FÌDATY DIGITALE: Accumula i Punti e accedi ai tuoi vantaggi in ogni momento
+
+• SCONTI E REGALI SU MISURA: Buoni, sconti e vantaggi pensati in esclusiva
+
+ 
+SERVIZI SMART PER LA TUA SPESA  
+
+• LISTA DELLA SPESA DIGITALE: Crea, organizza e condividi le tue liste 
+
+• PRESTO SPESA: Velocizza i tuoi acquisti in negozio, ora anche dal tuo smartphone
+
+• PAGAMENTI DIGITALI: Paga in modo sicuro e veloce 
+
+• SCONTRINO VIRTUALE: Tutti i tuoi acquisti sempre a portata di mano 
+
+ 
+
+VANTAGGI ESCLUSIVI 
+
+• CATALOGO FÌDATY: Scegli tra tante idee e premi delle migliori marche  
+
+• SERVIZI IN NEGOZIO: Scopri tutti i servizi del tuo negozio preferito
+
+• NOTIFICHE PERSONALIZZATE: Rimani sempre aggiornato su offerte e novità 
+
+ 
+
+TROVA IL TUO NEGOZIO 
+
+Cerca il negozio più vicino a te e scopri orari e servizi disponibili. 
+
+ 
+
+PERCHÉ SCEGLIERE L'APP ESSELUNGA? 
+
+• Offerte personalizzate e promozioni esclusive 
+
+• Accesso rapido a Carta Fìdaty e buoni
+
+• Tutti i servizi Esselunga in un unico posto
+
+• Esperienza d'uso intuitiva e veloce 
+
+• Aggiornamenti costanti su promozioni e novità 
+
+ 
+
+Scarica ora l'app Esselunga e scopri un modo tutto nuovo di fare la spesa, tutto ciò di cui hai bisogno sempre a portata di smartphone!",2011-10-18T19:23:17Z,2025-11-20T09:02:16Z
+it,Italy,Reference,6006,4,1634551626,CoinSnap: Guida ai valori,Next Vision Limited,https://apps.apple.com/it/app/coinsnap-guida-ai-valori/id1634551626?uo=4,0.0,4.70949,6141,Reference,"Con oltre 300.000 tipi di monete, un'accuratezza di riconoscimento del 99% e un database alimentato dall'IA, CoinSnap è il compagno ideale per gli appassionati di monete. Che tu stia identificando una moneta rara con errore, scoprendo il valore di un tesoro nascosto o organizzando una collezione di centinaia di monete, CoinSnap rende l'esplorazione del mondo affascinante della numismatica veloce, facile e divertente.
+
+Caratteristiche principali:
+Riconoscimento delle Monete Alimentato dall'IA
+Identifica istantaneamente le monete da tutto il mondo con una foto rapida o un caricamento.
+Copertura di oltre 240.000 tipi di monete con un'impressionante accuratezza di riconoscimento del 99%.
+Supporta la fotografia ad alta risoluzione per risultati precisi.
+Informazioni Complete sulle Monete
+Ricevi panoramiche dettagliate, inclusi nome della moneta, origine, anno di emissione, numero di conio e altro.
+Verifica i livelli di rarità e accedi ai prezzi di mercato aggiornati.
+Esplora più enciclopedie di monete per una conoscenza approfondita.
+Analisi Professionale delle Monete
+Identifica monete rare con errori di stampa con rapporti di analisi esperti.
+Accedi a rapporti di classificazione delle monete con analisi dettagliate e valori di mercato stimati.
+Supportato da approfondimenti di numismatici professionisti.
+Gestione Intelligente della Collezione
+Crea e gestisci facilmente la tua collezione personalizzata di monete.
+Organizza le monete per serie e traccia il valore totale dei tuoi oggetti da collezione.
+Mantieni la tua collezione sicura e accessibile in qualsiasi momento.
+
+Perché Scegliere CoinSnap?
+Riconoscimento delle monete veloce e preciso.
+Database esteso che copre monete da ogni angolo del mondo.
+Soluzione completa per identificazione, classificazione e gestione delle collezioni.
+
+Informazioni su CoinSnap Premium
+
+-Nome dell'abbonamento: CoinSnap Premium (Annuale con Prova)
+-Durata dell'abbonamento: 1 anno (prova di 7 giorni)
+-Descrizione dell'abbonamento: Sblocca tutte le funzionalità Premium.
+
+• Il pagamento verrà addebitato sull'account iTunes al momento della conferma dell'acquisto
+• L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo corrente
+• L'account verrà addebitato per il rinnovo entro 24 ore prima della fine del periodo corrente, e verrà identificato il costo del rinnovo
+• Qualsiasi parte inutilizzata di un periodo di prova gratuito, se offerto, verrà persa quando l'utente acquisterà un abbonamento a quella pubblicazione, ove applicabile
+• Gli abbonamenti possono essere gestiti dall'utente e il rinnovo automatico può essere disattivato accedendo alle Impostazioni dell'account dell'utente dopo l'acquisto dell'abbonamento.
+Si prega di notare che si applicano i termini e le condizioni, così come la nostra politica sulla privacy.
+Termini di utilizzo: https://app-service.coinidentifierai.com/static/user_agreement.html
+Informativa sulla privacy: https://app-service.coinidentifierai.com/static/privacy_policy.html
+Contattaci: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+it,Italy,Reference,6006,5,6738537088,YarnPal-Uncinetto principianti,PIXELCELL PTE. LIMITED,https://apps.apple.com/it/app/yarnpal-uncinetto-principianti/id6738537088?uo=4,0.0,4.67882,548,Reference,"Benvenuto nel mondo dell’artigianato semplificato: YarnPal è l’app che dà vita alle tue abilità di maglia e uncinetto in pochi istanti. Basta scattare una foto, seguire le istruzioni passo passo e creare progetti personalizzati—ovunque e in qualsiasi momento.
+
+YarnPal è il tuo compagno quotidiano per maglia e uncinetto, offrendoti facile accesso a tutorial, schemi e ispirazioni di design. Provalo ora con la nostra prova gratuita e scopri un mondo di punti, motivi e possibilità creative—perfetto sia per principianti che per esperti!
+
+Cosa può fare YarnPal
+1. Scatta una foto e impara un punto
+Hai visto un punto che ti piace? Scatta una foto e YarnPal ti dirà come si chiama e come realizzarlo. Imparare nuovi punti è veloce e semplice!
+2. Assistenza passo passo sugli schemi
+Sei bloccato su uno schema? Caricalo su YarnPal. L’app lo suddividerà in passaggi e ti aiuterà a tenere traccia dei tuoi progressi. Puoi anche regolare la velocità secondo le tue esigenze.
+3. Strumenti creativi con IA
+Ricevi idee per nuovi schemi: manca l’ispirazione? Lascia che l’IA di YarnPal ti suggerisca nuovi motivi per sciarpe, scialli o altri progetti divertenti.
+Correggi errori: hai commesso un errore? YarnPal può trovarlo e aiutarti a correggerlo.
+Comprendi grafici e simboli: non capisci uno schema? YarnPal ti spiega simboli e grafici per seguirli senza difficoltà.
+4. Chiedi al coach IA
+Hai domande su maglia o uncinetto? Chiedi qualsiasi cosa al coach IA! Dalle basi alle tecniche avanzate, ricevi risposte e consigli immediati.
+5. Personalizza i tuoi progetti
+Vuoi realizzare qualcosa di unico? Modifica misure, stili e motivi secondo le tue idee. YarnPal ti aiuta a creare progetti davvero esclusivi.
+
+Per chi è YarnPal?
+1. Principianti
+Sei alle prime armi con maglia o uncinetto? YarnPal rende l’apprendimento semplice, con istruzioni chiare e suggerimenti per iniziare con sicurezza.
+2. Appassionati
+Hai già esperienza? Usa YarnPal per provare nuovi strumenti, risolvere problemi difficili e personalizzare i tuoi progetti. Porta la tua creatività a un nuovo livello!
+3. Esperti
+Anche se sei esperto, YarnPal ti fa risparmiare tempo e ti dà nuove idee. Progetta meglio, risolvi più in fretta e resta sempre ispirato.
+
+Perché usare YarnPal?
+Con YarnPal, la creatività è:
+Semplice: impari punti e schemi senza stress.
+Divertente: esprimi la tua creatività e prova cose nuove.
+Organizzata: tieni facilmente traccia dei tuoi progetti e dei tuoi progressi.
+
+Unisciti alla community di YarnPal
+Entra in contatto con magliaie e appassionati di uncinetto di tutto il mondo per condividere idee, mostrare le tue creazioni e trovare ispirazione. Con YarnPal, non sarai mai solo nel tuo percorso creativo.
+
+Inizia a creare con YarnPal oggi stesso!
+Scarica subito YarnPal e scopri cosa puoi realizzare. Che sia la tua prima sciarpa o un progetto complesso, YarnPal ti guiderà passo dopo passo. Creiamo qualcosa di straordinario insieme!
+
+[Informazioni su YarnPal Premium]
+• Il pagamento verrà addebitato sul tuo account iTunes al momento della conferma dell’acquisto
+• L’abbonamento si rinnova automaticamente, a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo corrente
+• Il rinnovo verrà addebitato entro 24 ore prima della fine del periodo corrente
+• Eventuali periodi di prova gratuiti non utilizzati andranno persi all’acquisto dell’abbonamento
+• Gli abbonamenti possono essere gestiti dall’utente e il rinnovo automatico può essere disattivato tramite le Impostazioni di iTunes dopo l’acquisto
+
+Termini di utilizzo: https://app-service.knit-ai.com/static/EuropeanUnion/user_agreement.html
+Informativa sulla privacy: https://app-service.knit-ai.com/static/EuropeanUnion/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+it,Italy,Reference,6006,6,1664437810,PlantAI-Identifica&Diagnostica,Glority Global Group Ltd.,https://apps.apple.com/it/app/plantai-identifica-diagnostica/id1664437810?uo=4,0.0,4.47152,685,Reference,"PlantAI è l'assistente AI per la cura delle piante più aggiornato che utilizza una tecnologia all'avanguardia. L'app ti aiuta a ottenere direttamente risposte alle tue domande relative alle piante, ma l'utilizzo non è limitato a questo. Puoi identificare qualsiasi specie di pianta sconosciuta, diagnosticare la tua pianta e ottenere guide professionali per la cura delle piante.
+
+Con PlantAI sarai in grado di soddisfare la tua curiosità sulle piante ovunque e in qualsiasi momento in pochi secondi. Riceverai informazioni dettagliate sulla pianta come nome, caratteristiche e tossicità. Inoltre, questa app ti offre suggerimenti pratici per la semina e la coltivazione come acqua, fertilizzazione, nebulizzazione, pulizia e report.
+
+Prova oggi stesso il chatbot per piante AI più trendy per esplorare un mondo di piante più vasto!
+
+Caratteristiche principali:
+Ottieni risposte immediate a qualsiasi domanda sulle piante
+Identificazione delle piante con elevata precisione
+Diagnostica automaticamente i problemi di salute delle piante e ottieni le soluzioni corrispondenti
+Suggerimenti per la cura delle piante a livello di esperti per aiutare la tua vegetazione a crescere meglio
+Dai Mi piace alla conversazione
+
+A proposito di Premium
+-Nome abbonamento: Premium annuale
+-Durata dell'abbonamento: 1 anno (7 giorni di prova)
+-Descrizione dell'abbonamento: gli utenti riceveranno un premio di 1 anno che include messaggi illimitati, identificazione delle piante e diagnosi delle piante.
+• Il pagamento verrà addebitato sull'account iTunes alla conferma dell'acquisto
+• L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo corrente
+• L'account verrà addebitato per il rinnovo entro 24 ore prima della fine del periodo corrente e identificherà il costo del rinnovo
+• Qualsiasi parte inutilizzata del periodo di prova gratuito, se offerto, verrà persa quando l'utente acquista un abbonamento a tale pubblicazione, ove applicabile
+• Gli abbonamenti possono essere gestiti dall'utente e il rinnovo automatico può essere disattivato accedendo alle Impostazioni account dell'utente dopo l'acquisto
+
+Termini di utilizzo: https://app-service.askmybotanist.com/static/EuropeanUnion/user_agreement.html
+Informativa sulla privacy: https://app-service.askmybotanist.com/static/EuropeanUnion/privacy_policy.html
+
+Contattaci: mailto:support@askMyBotanist.com
+Scopri di più su PlantAI su: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+it,Italy,Reference,6006,7,919979642,Reverso Context Traduttore,Theo Hoffenberg,https://apps.apple.com/it/app/reverso-context-traduttore/id919979642?uo=4,0.0,4.69155,4474,Reference,"Traduci parole ed espressioni e ti esprimerai come un madrelingua.
+
+Reverso è lo strumento ideale e gratuito per chi vuole traduzioni di qualità e desidera leggere, scrivere, parlare e conoscere a fondo una lingua straniera.
+
+Studenti, insegnanti e professionisti di diverse competenze linguistiche utilizzano Reverso per imparare nuovi termini ed evitare di commettere errori.
+
+Reverso consente di tradurre subito il testo selezionato durante la lettura nel browser o in qualsiasi altra applicazione.
+
+La app si basa sui dati raccolti in milioni di testi (documenti ufficiali, sottotitoli di film, descrizioni di prodotti), elaborati tramite tecniche di apprendimento automatico e potenti algoritmi di analisi dei Big Data in modo da fornire i migliori risultati possibili.
+
+Cosa si intende per contesto? I termini cercati e le loro traduzioni sono inseriti in frasi autentiche; leggendole potrai comprendere il significato e l'uso del termine ed eviterai di commettere errori. 
+
+Digitando o pronunciando la parola o l'espressione che vuoi tradurre vedrai comparire subito i risultati: le traduzioni e i relativi esempi ti mostreranno come si usa correttamente quella parola o espressione in contesto.
+
+La app propone anche flashcard e quiz basati su cronologia di ricerca e preferiti per aiutarti a memorizzare i termini e a migliorare le tue abilità linguistiche. A differenza di altri comuni strumenti di apprendimento Reverso ti permetterà di concentrarti solo sui termini che desideri imparare.
+
+Funzionalità: 
+
+* traduzione istantanea di testo selezionato durante la lettura su browser, iBook o qualsiasi altra applicazione; possibilità di cliccare sulla familiare opzione ""Condividi"" senza uscire dall'applicazione in uso
+
+* traduzione in 14 lingue:  inglese, spagnolo, francese, portoghese, tedesco, polacco, olandese, arabo, russo, rumeno, giapponese, turco, ebraico, cinese; stiamo lavorando per aggiungerne altre
+
+* tra le funzioni avanzate: pronuncia, cronologia, raccolta personale di termini e altro ancora
+
+* creazione di elenchi di parole ed espressioni estratte da esempi e traduzioni precedentemente selezionati con elenchi accessibili anche offline
+
+* pronuncia naturale dell'intero esempio
+
+* con un click è possibile ottenere traduzioni, dettagli sulla frequenza e sulla coniugazione dei verbi (se disponibile)
+
+* cronologia di ricerca, accessibile offline
+
+* suggerimenti: parole ed espressioni compariranno automaticamente durante la digitazione
+
+* condivisione dei risultati via e-mail o social media.
+
+
+Condizioni di abbonamento rinnovabile automaticamente:
+
+Scegli l'abbonamento adatto alle tue esigenze:
+
+- Abbonamento mensile (con 7 giorni di prova gratuita) a € 4.99;
+
+- Abbonamento annuale a € 39.99;
+
+Questi prezzi corrispondono a quelli determinati dalla calcolatrice Matrix dell'App Store di Apple in altre valute.
+
+Attenzione:
+
+- l'abbonamento di prova gratuita si trasformerà automaticamente in un abbonamento a pagamento a meno che il rinnovo automatico venga disdetto almeno 24 ore prima della scadenza del periodo di prova
+
+- se hai acquistato un abbonamento Premium durante il periodo di prova, eventuali frazioni non utilizzate del periodo di prova (se offerti) andranno perduti
+
+L'abbonamento di prova gratuita e quello a pagamento possono essere annullati in qualsiasi momento disattivando il rinnovo automatico nelle impostazioni dell'account di iTunes. Per evitare addebiti, la disdetta dovrà essere effettuata almeno 24 ore prima del termine dell'abbonamento o del periodo di prova gratuita; la disdetta avrà effetto il giorno successivo all'ultimo giorno del periodo di abbonamento in corso, con conseguente declassazione del profilo alla versione gratuita.
+
+Informativa sulla privacy:
+
+http://www.reverso.net/privacy_app.aspx?lang=IT
+
+Condizioni d'uso:
+
+http://www.reverso.net/disclaimer.aspx?lang=IT",2014-11-05T16:17:47Z,2025-11-12T14:15:40Z
+it,Italy,Reference,6006,8,1348028646,Traduttore - Traduci ora,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/it/app/traduttore-traduci-ora/id1348028646?uo=4,0.0,4.64058,13391,Reference,"Traduci testo, voce e immagini in 320 lingue con un traduttore vocale istantaneo e una tastiera smart.
+
+Che tu stia viaggiando, lavorando, studiando o semplicemente parlando ogni giorno, Traduci Ora è il tuo traduttore AI definitivo. Abbatti le barriere linguistiche all’istante con strumenti di traduzione multipli, rendendo ogni conversazione multilingue semplice e naturale.
+
+Caratteristiche Principali
+
+▶ Traduttore Vocale a Mani Libere per Conversazioni dal Vivo
+Abbatti le barriere linguistiche in tempo reale con un traduttore vocale istantaneo AI a mani libere. Parla direttamente nel dispositivo per una traduzione istantanea bidirezionale e goditi ogni conversazione multilingue.
+▶ Traduttore Foto per Traduzione Istantanea
+Traduci menu, cartelli e documenti in un attimo. Scatta una foto per ottenere una traduzione in tempo reale: perfetto per i viaggi e per leggere lingue da tutto il mondo.
+▶ Tastiera del Traduttore per Chat Multilingue
+Scrivi nella tua lingua e invia traduzioni live in oltre 60 lingue in qualsiasi app per messaggiare senza sforzo.
+▶ Traduttore di Testo AI per Comprensione Immediata
+Traduci testo con precisione migliorata dall’AI, supporto fonetico e traduzione contestuale in oltre 320 lingue.
+▶ Traduzione AR con Fotocamera per Esperienze Immersive
+Utilizza la fotocamera e la realtà aumentata per tradurre in tempo reale: imparare le lingue e viaggiare non è mai stato così intuitivo.
+▶ Dizionario AI e Assistente Grammaticale
+Arricchisci il tuo vocabolario con significati contestuali e ricevi correzioni grammaticali in tempo reale per una traduzione testuale precisa.
+
+Traduci Ora offre Modelli AI di Traduzione, Frasario, App per Apple Watch, Estensione di Traduzione, Modalità Offline, Modalità Scura, Comandi Siri, Widget Interattivi e SharePlay.
+
+Scarica Traduci Ora, il tuo traduttore AI definitivo! Vivi la traduzione in tempo reale senza interruzioni. Testo, parla e traduci senza sforzo tra inglese, italiano, latino, spagnolo, francese, cinese e altro ancora!
+
+Porta la tua esperienza al livello successivo con Air Apps One: l’abbonamento definitivo. Un solo abbonamento sblocca oltre 30 potenti strumenti per produttività, apprendimento, fitness e creatività senza costi aggiuntivi. Semplifica la tua vita con accesso senza interruzioni, sconti esclusivi e integrazione perfetta nella tua routine quotidiana. Abbonati ora per un’esperienza tutto-in-uno senza stress!
+--- 
+I pagamenti degli abbonamenti vengono addebitati sul tuo account iTunes al momento dell’acquisto e del rinnovo. Le prove gratuite si rinnovano automaticamente in abbonamenti a pagamento, a meno che non vengano annullate almeno 24 ore prima della fine del periodo corrente. L’annullamento avrà effetto alla fine del periodo attuale, passando al servizio gratuito. Le porzioni inutilizzate della prova gratuita vengono annullate all’attivazione dell’abbonamento premium.
+
+Tutti gli abbonamenti sono gestiti tramite il tuo ID Apple, inclusi cancellazioni, rimborsi e modifiche. Per ulteriore assistenza, contatta il supporto Apple.
+
+Se risiedi nell’Unione Europea, puoi annullare l’ordine entro 14 giorni seguendo il processo dell’App Store. Nota: non sono disponibili cancellazioni o rimborsi se hai scaricato e iniziato a usare l’app.
+
+Connettiti con noi:
+Web: https://airapps.co
+LinkedIn: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms of Use: https://airapps.co/terms
+Support: Contattaci a support@airapps.co",2018-03-23T15:08:59Z,2025-11-24T01:05:18Z
+it,Italy,Reference,6006,9,1624481466,impresa italia,INFOCAMERE SOCIETA' CONSORTILE DI INFORMATICA DELLE CAMERE DI COMMERCIO ITALIANE PER AZIONI,https://apps.apple.com/it/app/impresa-italia/id1624481466?uo=4,0.0,3.73632,201,Reference,"Sei un’imprenditrice o un imprenditore? Scarica impresa italia, l’app delle Camere di Commercio,  e accedi gratuitamente alle informazioni e ai documenti ufficiali della tua impresa: visure, atti, bilanci, stato delle proprie pratiche e molte altre informazioni. Impresa italia, attualmente in versione BETA, è in costante evoluzione per offrirti sempre nuovi servizi e miglioramenti grazie alla tua esperienza diretta.
+
+Dichiarazione di accessibilità: https://impresa.italia.it/cadi/app/accessibilita/appsapple",2023-12-11T08:00:00Z,2025-11-03T10:01:50Z
+it,Italy,Reference,6006,10,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/it/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.80914,875,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+it,Italy,Reference,6006,11,1036725690,Traduci la voce: AI Translate,BP Mobile LLC,https://apps.apple.com/it/app/traduci-la-voce-ai-translate/id1036725690?uo=4,0.0,4.30349,9005,Reference,"La traduzione vocale non è mai stata così facile! Puoi viaggiare in tutto il mondo e comunicare facilmente in qualsiasi Paese – «Traduttore vocale» pronuncerà in modo istantaneo le frasi tradotte al volo! Non riesci a leggere le voci del menu in un elegante ristorante straniero? Quei giorni sono ormai storia passata con la traduzione istantanea via fotocamera!
+
+Comunica liberamente in aeroporto, in hotel, al distributore di carburante, al supermercato o in qualsiasi altro posto. Leggi i segnali stradali in un paese straniero, traduci i manuali dei tuoi acquisti all'estero o il testo di qualsiasi immagine che hai già nel telefono. Devi solo mettere il tuo interprete personale in tasca e usarlo per tutte le tue esigenze di traduzione!
+
+«Traduttore vocale» è uno strumento di apprendimento essenziale per ragazzi e adulti: puoi imparare nuove frasi e ascoltare la pronuncia corretta.
+
+Inizia subito a usare «Traduttore vocale» e non dovrai più cercare la frase corretta nel dizionario, basta dire la frase e l'interprete pronuncerà la traduzione ad alta voce!
+
+Funzionalità:
+– Traduzione immediata di conversazioni in tempo reale
+– Usa la fotocamera per la traduzione istantanea del testo
+– Traduci i testi delle tue foto e immagini
+– Traduci mentre digiti in tutte le tue app di messaggistica preferite
+– Ampio frasario offline
+– Rilevamento lingua per modalità da testo a testo
+– Oltre 100 lingue operative in modalità da voce a voce e da testo a testo
+– Puoi parlare o scrivere per tradurre il tuo testo
+– Modalità da testo a testo intelligente
+– Velocizza l'immissione del testo con i suggerimenti durante la digitazione
+– Converti testi scritti in alfabeti non latini
+– Copia, incolla e condividi traduzioni con un solo tocco
+– Interfaccia di conversazione intuitiva
+– Pronuncia la frase tradotta ad alta voce
+– Controlla la velocità della voce
+– Voce maschile e femminile disponibili
+– Modalità Umano-Cucciolo e Cucciolo-Umano (solo per scopi di intrattenimento). Traduci il miagolio o l'abbaiare del tuo animale domestico nella tua lingua.
+
+Lingue da voce a voce attualmente supportate:
+
+Arabo (Arabia Saudita)
+Catalano (Spagna)
+Cinese (Semplificato)
+Cinese (Tradizionale)
+Cinese (Cantonese)
+Ceco (Cechia)
+Danese (Danimarca)
+Olandese (Paesi Bassi)
+Inglese (Australia)
+Inglese (Canada)
+Inglese (India)
+Inglese (Regno Unito)
+Inglese (Stati Uniti d'America)
+Finlandese (Finlandia)
+Francese (Canada)
+Francese (Francia)
+Tedesco (Germania)
+Greco (Grecia)
+Ebraico (Israele)
+Hindi
+Italiano (Italia)
+Giapponese (Giappone)
+Coreano (Corea del Sud)
+Norvegese (Norvegia)
+Polacco (Polonia)
+Portoghese (Brasile)
+Portoghese (Portogallo)
+Romeno (Romania)
+Russo (Russia)
+Slovacco (Slovacchia)
+Spagnolo (Messico)
+Spagnolo (Spagna)
+Svedese (Svezia)
+Tailandese (Thailandia)
+Turco (Turchia)
+e altro
+
+Puoi scegliere una prova gratuita con tutte le funzionalità disponibili.
+
+QUOTA DI ADESIONE PER ACCESSO ILLIMITATO
+
+• È possibile abbonarsi per ottenere l'accesso illimitato a tutte le funzionalità di «Traduttore vocale».
+• Gli abbonamenti vengono fatturati ogni settimana, mese, trimestre o anno alla tariffa selezionata e a seconda del piano di abbonamento.
+
+Servizio di traduzione parzialmente fornito da Google Translate™.
+
+Informativa sulla privacy: http://bpmob.com/voicetranslator/privacy
+le condizioni d'uso: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+it,Italy,Reference,6006,12,373044013,Prezzi Benzina! HVO GPL Metano,Prezzi Benzina S.r.l.,https://apps.apple.com/it/app/prezzi-benzina-hvo-gpl-metano/id373044013?uo=4,0.0,4.61264,69310,Reference,"Con Prezzi Benzina trovi al volo il distributore di carburante più economico vicino a te. Puoi aggiornare i prezzi del carburante di ogni stazione di servizio.
+
+Prezzi Benzina rende i prezzi dei carburanti più trasparenti. Il servizio migliora con la collaborazione di ogni singolo utente, quindi più siamo, più prezzi inseriamo e più i risparmi saranno disponibili a tutti.
+
+- per inserire un nuovo punto vendita recati presso il distributore e clicca su ""Nuovo distributore"" nel menu a tendina seguendo le istruzioni che compariranno
+
+- le distanze chilometriche sono calcolate in linea d'aria, sono una stima per difetto della distanza reale da percorrere
+
+- per qualsiasi informazione o problema scrivici all'indirizzo iphone@prezzibenzina.it",2010-05-21T20:51:20Z,2024-11-18T18:07:06Z
+it,Italy,Reference,6006,13,6749890021,Сhісkеn Rоаd,"Neocode, TOO",https://apps.apple.com/it/app/%D1%81h%D1%96%D1%81k%D0%B5n-r%D0%BE%D0%B0d/id6749890021?uo=4,0.0,1.75,4,Reference,"Chyvo non è solo un'altra app di viaggio; è il tuo compagno di viaggio ideale che ti aiuta a entrare in contatto con viaggiatori che condividono i tuoi stessi interessi, a scoprire nuove destinazioni e a creare esperienze significative. Che tu stia esplorando una nuova città o pianificando la tua prossima avventura, Chyvo ti permette di incontrare persone che vanno nella tua stessa direzione, organizzare incontri entusiasmanti e partecipare a conversazioni di viaggio in tempo reale.
+
+Perché scegliere Chyvo?
+
+Connettiti con viaggiatori che condividono i tuoi interessi: Chyvo ti aiuta a trovare viaggiatori che condividono le tue destinazioni e i tuoi interessi. Sfoglia i profili e invia un messaggio per sbloccare le chat con altri esploratori, creando connessioni autentiche basate su esperienze di viaggio condivise.
+
+Scopri incontri ed eventi locali: partecipa a eventi, tour o attività locali organizzati da altri viaggiatori o unisciti ai meetup creati da altri utenti di Chyvo. Che tu stia cercando un nuovo compagno di viaggio, partecipando a un evento culturale o esplorando un tesoro nascosto in una città, Backpackr semplifica la partecipazione ad avventure entusiasmanti.
+
+Esplora le destinazioni: esplora i profili di viaggio dettagliati degli altri utenti, con le destinazioni che hanno visitato o che stanno pianificando di visitare. Condividi i tuoi racconti di viaggio e ispira gli altri con consigli su luoghi, ristoranti o esperienze imperdibili.
+
+Saluta, trova un partner e chatta: inviare un saluto a qualcuno è il primo passo per creare connessioni di viaggio significative. Se ricambia il saluto, puoi iniziare a chattare per pianificare il tuo prossimo incontro o condividere consigli sui tuoi viaggi.
+
+Privacy prima di tutto: Chyvo dà valore alla tua privacy. Non ci sono foto obbligatorie e puoi mantenere il tuo profilo semplice o dettagliato a tuo piacimento. Le tue connessioni si basano su interessi e obiettivi di viaggio condivisi, non su dati personali.
+
+Funzionalità divertenti e coinvolgenti: tieni traccia dei tuoi viaggi, incontra nuove persone ed esplora nuove destinazioni con divertenti sfide e viaggi di successo. Chyvo ti aiuta a rimanere motivato e coinvolto mentre pianifichi e intraprendi la tua prossima avventura.",2025-08-20T07:00:00Z,2025-08-26T14:19:32Z
+it,Italy,Reference,6006,14,282935706,Bibbia,Life.Church,https://apps.apple.com/it/app/bibbia/id282935706?uo=4,0.0,4.87303,53932,Reference,"È difficile rimanere concentrati su Dio e la Sua Parola. Ecco perché l'App Bibbia gratuita di YouVersion ti offre strumenti per cercare il cuore di Dio ogni giorno: ascolta le Bibbie audio, crea Preghiere, studia con Amici, esplora oltre 2000 versioni della Bibbia e molto altro. Scarica ora!
+
+Su oltre 400 milioni di dispositivi in ​​tutto il mondo, le persone leggono, ascoltano, guardano e condividono la Bibbia usando l'App Bibbia gratuita di YouVersion. Oltre 2000 versioni della Bibbia, in oltre 1300 lingue. Migliaia di Piani di Lettura in oltre 65 lingue.
+
+Personalizza la tua esperienza con l'App Bibbia. Accedi a tutto online, o scarica versioni selezionate da leggere offline.
+
+Esplora la Bibbia con i tuoi amici più cari. Condividi conversazioni oneste sulla Scrittura con una comunità di fiducia.
+
+FAI DELLA PREGHIERA UN'ABITUDINE QUOTIDIANA
+- Usa le schede di Preghiera per tenere traccia delle tue Preghiere nell'App Bibbia.
+- Organizza facilmente liste di Preghiera.
+- Rendi private le tue Preghiere o condividile con Amici.
+- Festeggia riposte alle richieste di Preghiera con i tuoi Amici dell'App Bibbia.
+
+SCOPRI LA BIBBIA
+- Scegli facilmente tra migliaia di versioni della Bibbia, in oltre 1300 lingue.
+- Oltre 60 lingue tra cui scegliere per l'interfaccia della tua App Bibbia.
+- Scegli tra versioni popolari come Nuova Riveduta, Riveduta, TILC e altro.
+- Bibbie offline: lettura senza accesso alla rete (disponibile per versioni selezionate).
+- Ascolta le Bibbie audio e goditi i controlli di salto, velocità di riproduzione e timer. (Bibbie audio disponibili per determinate versioni e non scaricabili.)
+
+COLLEGATI CON AMICI
+- Metti la Sacra Scrittura al centro delle tue amicizie con l'App Bibbia.
+- Guarda un flusso di attività della Bibbia che mostra ciò che tu e i tuoi Amici avete annotato, segnalato ed evidenziato.
+- Commenta per porre domande e avere conversazioni significative nell'app mentre studiate la Parola di Dio insieme.
+
+STUDIA LA BIBBIA
+- Migliaia di Piani: Devozionali e Piani che ti guidano attraverso argomenti specifici, porzioni della Bibbia o l'intera Bibbia in un anno (sia Bible in One Year sia One Year® Bible).
+- Guarda e condividi video clip dal film ""JESUS"", ""The Lumo Project"" e altro ancora.
+- Cerca nella Bibbia usando parole chiave.
+
+PERSONALIZZA LA TUA BIBBIA
+- Temi ti consentono di selezionare una tavolozza di colori per l'intera esperienza dell'App Bibbia.
+- Immagini Versetto: Trasforma i versetti della Bibbia in immagini da condividere.
+- Evidenzia con colori personalizzati - proprio come una Bibbia di carta.
+- Crea segnalibri per passi: Condividi, memorizza oppure tieni conto di tuoi passi preferiti.
+- Condividi dei versetti con gli amici sui social network o per e-mail o SMS.
+- Aggiungi Note: Tienile private in modo che solo tu possa vederli o rendile pubbliche da condividere con gli amici.
+- Sincronizzazione Cloud: Con un account YouVersion gratuito, vedi tutte le tue Note, Evidenziazioni, Segnalibri e Piani di Lettura su qualsiasi dispositivo supportato.
+- Facile Lettura: Regola impostazioni come caratteri, spaziatura e dimensione del testo e leggi anche in Modalità Scura.
+
+CONNETTERTI CON YOUVERSION
+- Contattare il Supporto Tecnico dall'interno dell'App Bibbia.
+- Unisciti alla community di @youversion su Instagram, Facebook, Twitter, TikTok e Pinterest.
+- Tieniti aggiornato sulle ultime novità su blog.youversion.com
+- Accedi alla Bibbia online su bible.com
+
+Scarica subito l'App Bibbia #1 al mondo e goditi l'esperienza di lettura della Bibbia amata da milioni di persone!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+it,Italy,Reference,6006,15,6748595105,VinylSnap: Scansiona vinili,Next Vision Limited,https://apps.apple.com/it/app/vinylsnap-scansiona-vinili/id6748595105?uo=4,0.0,4.52593,135,Reference,"Scopri il vero valore dei tuoi vinili — all’istante
+E se quel vecchio LP nella tua collezione valesse 100 €, o magari 1 000 €? Con VinylSnap lo scopri subito. Scatta una foto, identifica il disco, ottieni una valutazione di mercato precisa, suggerimenti di classificazione e aggiungilo alla tua raccolta.
+VinylSnap è il compagno perfetto per gli amanti del vinile — ideale per collezionisti, rivenditori o per chi ha appena ritrovato una scatola di vecchi dischi in soffitta. Provalo gratis e scopri quanto valgono davvero i tuoi vinili.
+Cosa può fare VinylSnap
+  Valutazione di mercato affidabile
+ Ottieni un prezzo di riferimento prima di acquistare, vendere o archiviare — scopri se hai tra le mani un disco da 10 € o un tesoro da 1 000 €.
+  Identificazione immediata e dettagliata
+ Scansiona l’etichetta per vedere informazioni sulla pressa, anno di pubblicazione, tracklist e curiosità sull’artista — compatibile con la maggior parte dei vinili da 12"", 10"" e 7"".
+  Suggerimenti di classificazione
+ Indicazioni VG / VG+ / NM basate su usura visibile, leggibilità dell’etichetta e stato della copertina.
+  La tua libreria di vinili digitale
+ Salva ogni disco scansionato e segui nel tempo l’evoluzione del valore complessivo della tua collezione.
+  Impara ed esplora
+ Leggi articoli esclusivi su vendite record, consigli per collezionisti e guide fondamentali per principianti.
+A chi è rivolto VinylSnap
+• Principianti
+ Stai iniziando con il vinile? VinylSnap ti aiuta a capire cosa possiedi e quanto vale, senza bisogno di esperienza.
+• Collezionisti
+ Organizza il tuo archivio, monitora gli investimenti e assicurati che le tue edizioni più rare siano correttamente valutate.
+• Rivenditori
+ Prendi decisioni rapide e consapevoli mentre cerchi dischi nei mercatini o nei negozi di usato.
+Perché scegliere VinylSnap
+Preciso — Valutazioni e classificazioni affidabili in pochi secondi
+ Semplice — Basta una scansione, nessuna ricerca manuale
+ Informativo — Tutte le informazioni a portata di mano
+ Ordinato — Gestisci la tua collezione in un’unica app intuitiva
+Inizia a utilizzare VinylSnap oggi stesso. Scaricalo ora e riscopri il valore dietro ogni disco.
+Informazioni su VinylSnap Premium
+• Il pagamento verrà addebitato sul tuo account iTunes al momento della conferma dell’acquisto.
+• L’abbonamento si rinnova automaticamente, salvo disattivazione almeno 24 ore prima della scadenza del periodo corrente.
+• Il rinnovo sarà addebitato entro 24 ore dalla fine del periodo in corso.
+• Eventuali giorni di prova gratuita non utilizzati verranno persi al momento dell’acquisto di un abbonamento.
+• Gli abbonamenti possono essere gestiti tramite la sezione Abbonamenti su iTunes.
+Termini di utilizzo: https://app-service.vinylsnaps.com/static/EuropeanUnion/user_agreement.html
+Informativa sulla privacy: https://app-service.vinylsnaps.com/static/EuropeanUnion/privacy_policy.html",2025-08-25T07:00:00Z,2025-11-12T21:41:35Z
+it,Italy,Reference,6006,16,1552407475,DeepL Traduttore,DeepL SE,https://apps.apple.com/it/app/deepl-traduttore/id1552407475?uo=4,0.0,4.80149,4020,Reference,"- Traduzione in tempo reale con la fotocamera: inquadra il testo per tradurre subito ciò che vedi (richiede iOS 15).
+- Traduzione di foto: traduci il testo nelle foto scattate o importate.
+- Dettatura: traduci quello che dici ad alta voce.
+- Funzione da testo a voce: ascolta il testo tradotto.
+- Traduzione di file: traduci il testo contenuto nei file.
+- Rilevamento rapido della lingua di partenza: l’app comincia a tradurre non appena inizi a digitare.
+- Traduzioni alternative: visualizza altre possibili traduzioni per singole parole e frasi brevi.
+- Traduzioni salvate: memorizza parole e frasi tradotte per consultarle in futuro.
+- Cronologia: trova, modifica e riusa traduzioni precedenti.
+- Traslitterazione: visualizza in alfabeto latino le traduzioni in lingue come il giapponese e il russo.
+- Glossario: uniforma la traduzione di parole e frasi chiave (solo con un piano a pagamento).
+- Tono: scegli tra un tono formale o informale (solo con un piano a pagamento).
+- Scrittura manuale: scrivi a mano il testo da tradurre (solo su iPad).
+- DeepL Write: con i suggerimenti di scrittura crei testi corretti, chiari e d’impatto.
+
+
+Le funzioni supportate variano a seconda della lingua. Lingue disponibili al momento: acehnese, afrikaans, albanese, arabo, aragonese, armeno, assamese, aymara, azero, baschiro, basco, bielorusso, bengalese, bhojpuri, bosniaco, bretone, bulgaro, birmano, cantonese, catalano, cebuano, cinese (semplificato)*, cinese (tradizionale)*, croato, ceco, danese, dari, olandese, inglese (americano)*, inglese (britannico)*, esperanto, estone, finlandese, francese*, galiziano, georgiano, tedesco*, greco, guarani, gujarati, creolo haitiano, hausa, ebraico, hindi, ungherese, islandese, igbo, indonesiano, irlandese, italiano*, giapponese*, giavanese, kapampangan, kazako, konkani, coreano*, curdo (kurmanji), curdo (sorani), kirghiso, latino, lettone, lingala, lituano, lombardo, lussemburghese, macedone, malgascio, malese, maithili, maltese, maori, marathi, mongolo, nepalese, norvegese (bokmål), occitano, pangasinan, pashto, persiano, polacco, portoghese*, portoghese (brasiliano)*, quechua, rumeno, russo, sanscrito, serbo, siciliano, slovacco, sloveno, spagnolo*, spagnolo (latinoamericano), sundanese, swahili, svedese, tagalog, tagiko, tamil, tataro, telugu, tsonga, tswana, turco, turkmeno, ucraino, urdu, uzbeko, vietnamita, gallese, wolof, xhosa
+*Disponibile anche per DeepL Write 
+
+Scarica l’app gratis e usa le funzioni principali senza costi!
+
+- Un account DeepL offre ulteriori opzioni di traduzione.
+- Effettua il login tramite Single Sign-On (SSO) con l’account per team della tua organizzazione.
+- Alcune funzioni esclusive sono disponibili solo con un piano a pagamento.
+
+Termini e condizioni: https://www.deepl.com/it/app-terms
+Informativa sulla privacy: https://www.deepl.com/it/privacy
+Supporto clienti: https://www.deepl.com/it/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+it,Italy,Reference,6006,17,1672111368,CoinIn: Coin Scan Identifier,Vortemol Limited,https://apps.apple.com/it/app/coinin-coin-scan-identifier/id1672111368?uo=4,0.0,4.61894,1816,Reference,"Sei un collezionista di monete che cerca di identificare la tua ultima scoperta? O forse ti sei imbattuto in una moneta e vuoi conoscerne il valore? Bene, non cercare oltre! Presentazione del nuovo Coin Identifier: il tuo sportello unico per tutto ciò che riguarda le monete. Con un semplice scatto di un'immagine, la nostra app può identificare la tua moneta, fornire informazioni dettagliate sulla sua storia, stimare il valore della moneta e persino metterti in contatto con venditori e acquirenti di monete. Non dovrai più setacciare interminabili cataloghi di monete o setacciare Internet per ore. La nostra app rende la raccolta di monete facile, divertente e redditizia.
+
+Caratteristiche principali di CoinIn:
+
+Identifica le monete alla velocità della luce
+Non dovrai passare ore a cercare libri di riferimento o navigare in Internet per una conferma visiva.
+
+Identifica con precisione oltre 270.000 monete
+Il nostro ampio database contiene più di 270.000 monete e ti consente di identificare qualsiasi tipo di moneta. Lo scanner CoinIn tiene conto del tipo di materiale, dell'ora di creazione e delle condizioni della moneta, per fornirti le informazioni più precise e affidabili.
+
+Riconosci le monete rare, straniere e di errore
+Che tu sia uno dei collezionisti di monete esperti alla ricerca di una gemma rara o un principiante che ha appena iniziato, CoinIn ti copre.
+
+Classifica il valore delle monete, monitora i prezzi in tempo reale
+Ottieni una stima dei prezzi delle monete identificate e un'idea del valore totale della tua collezione. CoinIn Finder utilizza un'API per fornirti un tracker dei prezzi dalle piattaforme numismatiche, in modo da sapere esattamente quanto valgono le tue monete.
+
+Compra e vendi le tue monete
+CoinIn ti mette in contatto con venditori e acquirenti, così puoi acquistare e vendere monete con fiducia.
+
+Segui le tendenze della raccolta di monete
+Rimani aggiornato con la serie di collezioni di monete e sii il primo ad aggiungere nuove monete d'oro e di metallo al tuo stock.
+
+Crea una collezione online personalizzata
+Registra, archivia e accedi alle tue raccolte direttamente nell'app sempre e ovunque.
+
+Con CoinIn, puoi trasformare la tua collezione di monete in un tesoro - inizia oggi!
+
+Informazioni sull'abbonamento CoinIn:
+- Quando acquisti l'abbonamento all'app CoinIn, il pagamento verrà addebitato sul tuo account iTunes dopo la conferma.
+- L'abbonamento si rinnoverà automaticamente, a meno che non disattivi l'opzione di rinnovo automatico almeno 24 ore prima della fine del periodo corrente.
+- Il costo del rinnovo verrà identificato e addebitato sul tuo account entro 24 ore prima della fine del periodo in corso.
+- Se c'è una parte inutilizzata di un periodo di prova gratuito offerto, verrà annullata al momento dell'acquisto di un abbonamento alla pubblicazione.
+- Puoi gestire i tuoi abbonamenti e disattivare il rinnovo automatico accedendo alle Impostazioni del tuo account dopo l'acquisto.
+
+Pronto a identificare facilmente le monete? Ottieni CoinIn oggi!
+
+
+Si prega di notare che si applicano termini e condizioni, nonché la nostra politica sulla privacy.
+Informativa sulla privacy: https://legal.coininapp.com/privacy-policy.html
+Condizioni d'uso: https://legal.coininapp.com/terms-of-service.html
+
+Contattaci: support@coininapp.com",2023-03-16T07:00:00Z,2025-11-14T08:39:59Z
+it,Italy,Reference,6006,18,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/it/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.34586,133,Reference,"Supera le barriere linguistiche con AI Translator – Il tuo traduttore in tempo reale.
+
+Parla, scansiona e traduci ora, ovunque, con Translate AI, il traduttore IA definitivo per comunicazione, viaggi, lavoro e studio. Che tu stia esplorando un nuovo paese o chattando con amici, questo potente traduttore istantaneo è progettato per aiutarti a capire. Grazie all'IA all'avanguardia, Translate AI offre un traduttore vocale, un traduttore per foto tramite fotocamera, traduzione di testo e un frasario offline, tutto in un'unica app.
+
+Caratteristiche principali:
+
+Traduttore vocale e audio in tempo reale: Sperimenta una comunicazione fluida e bidirezionale. Parla in modo naturale e ottieni risultati immediati con il nostro motore di traduzione automatica IA.
+Traduttore IA per fotocamera e foto: Punta la fotocamera su qualsiasi testo (menu, cartelli) e Translate AI lo rileverà e tradurrà all'istante. Usa la nostra tecnologia di traduzione foto con IA per vedere il mondo nella tua lingua.
+Traduttore di testo IA: Digita o incolla del testo per ricevere traduzioni rapide e precise. Da singole parole a intere frasi, il nostro traduttore garantisce sempre la massima chiarezza.
+Traduci audio con facilità: Il traduttore audio integrato rende la comunicazione parlata rapida e fluida.
+Supporta oltre 100 lingue: Dall'inglese, spagnolo e francese al cinese, giapponese, turco e altro ancora, accedi a oltre 100 lingue.
+Frasario offline: Salva frasi chiave e accedi ad esse anche senza internet. Il tuo strumento indispensabile per i viaggi.
+
+Perché scegliere Translate AI?
+
+Traduttore IA veloce e intuitivo per voce, testo e immagini
+Traduttore live tutto-in-uno con opzioni vocali, fotocamera e digitazione
+Traduci ora senza ritardi o complicazioni
+Traduttore chat IA ideale per le conversazioni di tutti i giorni
+Traduttore automatico innovativo che impara i tuoi schemi linguistici
+Casi d'uso:
+
+Viaggi: Esplora nuovi posti con sicurezza. Usa il tuo traduttore live per capire istantaneamente cartelli o menu.
+
+Lavoro: Semplifica la comunicazione globale durante le riunioni con il tuo affidabile traduttore IA.
+
+Studio: Potenzia il tuo apprendimento delle lingue con strumenti di traduzione rapida IA.
+
+Comunicazione quotidiana: Usa il traduttore chat IA per messaggi o social media in qualsiasi lingua.
+Supera la barriera della lingua. Parla liberamente. Traduci ora. Scarica AI Translator - Translate AI oggi e esplora il mondo con sicurezza.
+
+Informativa sulla privacy: https://heyos.co/privacy 
+Termini di utilizzo: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+it,Italy,Reference,6006,19,1663862037,EveryScan: Identifica Tutto,Conlan Limited,https://apps.apple.com/it/app/everyscan-identifica-tutto/id1663862037?uo=4,0.0,4.55882,68,Reference,"Siamo lieti di presentare EveryScan, l'app mobile evoluta che trasforma il tuo smartphone in un'enciclopedia visiva avanzata. Sfrutta la potenza dello sviluppato riconoscimento delle immagini IA per identificare rapidamente e ottenere informazioni approfondite sul mondo che ti circonda, direttamente dal tuo dispositivo mobile.
+
+Identificazione di animali
+Ti stai chiedendo ""che animale è questo""? Usa EveryScan per identificare istantaneamente gli animali, con tanto di razze e caratteristiche specifiche. L'app riconosce le razze di gatti e di cani e costituisce il tuo strumento essenziale per un riconoscimento completo degli animali.
+
+Riconoscimento di insetti e rettili
+Immergiti nel mondo degli insetti col nostro identificatore di insetti. Cattura immagini di bruchi, ragni e serpenti usando il tuo dispositivo mobile e scopri le loro caratteristiche e se sono innocui tramite il nostro identificatore di serpenti, che risponde a domande come ""che tipo di serpente è questo?""
+
+Informazioni su funghi e piante
+Basta che scatti una foto, per poter identificare piante e funghi in modo sicuro con il tuo telefono. Gli identificatori di fiori e funghi della nostra app forniscono consigli dettagliati per la loro cura e informazioni sulla sicurezza, migliorando direttamente le tue conoscenze botaniche.
+
+Esame di monete e gioielli
+Scansiona con facilità monete e gioielli col tuo cellulare per determinarne il valore e la cronologia, rispondendo a domande come ""quanto valgono le mie monete?"". La nostra funzione di scanner per monete ti aiuta a controllare rapidamente il valore e l'origine delle tue monete.
+
+Esplorazione culinaria
+Identifica alimenti, piatti e ricette e accedi ai loro dettagli nutrizionali direttamente dal tuo dispositivo mobile. Riconosci i piatti e il loro contenuto calorico con facilità, migliorando le tue conoscenze culinarie.
+
+Funzionalità basate sull'IA
+- Riconoscimento accurato delle immagini, adattato all'uso su dispositivo mobile
+- Rilevamento istantaneo di oggetti tramite smartphone
+- Identificatore universale di oggetti: identificatore di insetti, identificatore di razze di cani, identificatore di fiori, identificatore di ragni e serpenti, ecc.
+- Ricerca e scansione in tempo reale tramite il tuo cellulare
+- Dati esaustivi su tutto, dagli animali agli oggetti di uso quotidiano
+- Salvataggio e aggiunta ai preferiti per un facile accesso da dispositivo mobile
+
+Esplorazione senza fatica
+Salta i motori di ricerca: è sufficiente che scatti una foto per poter identificare gli oggetti all'istante tramite il tuo telefono. EveryScan si integra perfettamente con il tuo cellulare, offrendo un identificatore di immagini all-in-one con la capacità di ricerca di immagini tramite IA. Scopri i segreti che ti circondano con curiosità e fiducia. Scarica EveryScan oggi e accedi ad un mondo di conoscenza a portata di mano.
+
+Informativa sulla privacy: http://aiscanner.co/pp
+Termini di utilizzo: http://aiscanner.co/tou
+Assistenza: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+it,Italy,Reference,6006,20,1405323394,"Hallow: Preghiera, Meditazione","Hallow, Inc.",https://apps.apple.com/it/app/hallow-preghiera-meditazione/id1405323394?uo=4,0.0,4.71445,893,Reference,"#L'app di preghiera numero 1 al mondo 
+
+
+Hallow è l'app cattolica numero 1 al mondo. Radicata nella fede e nella tradizione cattolica, è una risorsa straordinaria per tutti i cristiani che vogliono approfondire il loro rapporto con Dio. Con migliaia di preghiere e meditazioni audioguidate, la missione di Hallow è aiutare il mondo a trovare la pace, a dormire serenamente e ad avvicinarsi a Dio. L'applicazione è stata utilizzata per pregare oltre 250 milioni di volte in più di 150 Paesi.
+
+""Hallow mi ha permesso di vedere che non ero solo. Gesù era lì con me"".
+
+""Hallow ha cambiato la mia vita e il mio matrimonio"".
+
+""Se qualcuno vuole iniziare una vita di preghiera, questa è la strada da intraprendere. Sono passato dal non pregare affatto al pregare due volte al giorno"".
+
+
+COSA C'È SU HALLOW?
+
+Hallow include migliaia di preghiere audioguidate, meditazioni, corsi, audio Bibbia, musica e altro ancora: 
+
+* Preghiera quotidiana, rosario e riflessioni 
+* Sfide mensili di preghiera comunitaria per pregare e imparare con alcuni dei più grandi gruppi di preghiera del mondo
+* Omelie domenicali guidate da leader internazionali della fede, tra cui il vescovo Robert Barron e padre Mike Schmitz, conduttore del podcast cristiano n. 1 ""La Bibbia in un anno"".
+* Preghiere, meditazioni e racconti biblici 
+* Registrazioni vocali originali di Padre Pio 
+* Musica e preghiere a tema di artisti cristiani famosi, tra cui la Famiglia Bocelli e Matt Maher.
+* Preghiere e meditazioni tradizionali, tra cui il Rosario, l'Examen, la Lectio Divina, le Preghiere della Sera, la Coroncina della Divina Misericordia e una raccolta di novene e litanie in continua crescita.
+
+
+Tutti i contenuti di Hallow sono al 100% in linea con la Chiesa. Persone di diversi ambiti, professione e interessi hanno raccomandato Hallow come strumento per avvicinarsi a Dio e scoprire la Sua pace ogni giorno. 
+
+
+FUNZIONI DELL'APP PER PERSONALIZZARE LA TUA ESPERIENZA
+
+* Disponibile in inglese, spagnolo, polacco, portoghese, italiano, tedesco e presto anche in francese.
+* La funzione Gruppo di preghiera serve per aggiungere riflessioni, intenzioni di preghiera e condividere le proprie reazioni insieme agli amici, alla famiglia, alla Chiesa o ad altri gruppi di fede.
+* Routine per costruire il tuo programma di preghiera personale con promemoria personalizzati ogni giorno.
+* Molto presto ci saranno più voci guida tra cui scegliere per guidarti nella preghiera e nella meditazione. 
+* Opzioni per la durata della preghiera: da 1 a 5 minuti e da 15 minuti a un'ora.
+* Possibilità di scaricare le sessioni per l'ascolto offline 
+* Varietà di musiche di sottofondo tra cui scegliere: suoni della natura, canti tradizionali, pianoforte e altro ancora.
+* Condividere preghiere e meditazioni con amici e persone care.
+
+
+PREZZI E CONDIZIONI DI ABBONAMENTO
+
+Gli utenti possono accedere gratuitamente alla Riflessione del Giorno, al Rosario e alla Bibbia in un anno, oltre che ad altre preghiere e meditazioni. 
+
+Per accedere al pacchetto completo di Hallow, scegli una delle due opzioni di abbonamento a rinnovo automatico: 
+
+7,99 € al mese 
+54,99 € all'anno
+
+L'abbonamento a Hallow si rinnoverà automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo di abbonamento in corso. È possibile accedere alle impostazioni del proprio account Apple per gestire l'abbonamento e disattivare il rinnovo automatico. L'addebito sul conto dell'utente avverrà al momento della conferma dell'acquisto. Hallow si integra anche con l'app Apple Health per sincronizzare i minuti di mindfulness. Per saperne di più, visitate il sito hallow.com.
+
+Termini e condizioni: https://hallow.com/terms-of-service
+Informativa sulla privacy: https://hallow.com/privacy-policy",2018-12-06T11:07:12Z,2025-11-23T20:35:35Z
+it,Italy,Reference,6006,21,6747442689,HoloDex - TCG Scan & Collect,MAVELLI  - FZCO,https://apps.apple.com/it/app/holodex-tcg-scan-collect/id6747442689?uo=4,0.0,4.875,8,Reference,"HoloDex is the fastest way to scan and organize your card collection. Whether you're managing a childhood binder or flipping alt arts from the latest set, HoloDex gives you real-time prices, powerful organization tools, and instant card recognition, right from your phone.
+
+Instant Pokémon Card Scanning
+Just point your camera and scan. Identify any card in seconds, from Base Set to Scarlet & Violet.
+
+Real-Time Card Values
+Check live market prices instantly. Know exactly what your cards are worth before you buy, trade, or sell.
+
+Organize Your Collection
+Build your portfolio, track duplicates and create your wishlist. Your digital collection stays synced and accessible anywhere.
+
+Secure Cloud Backup
+Your collection is safe and available across all devices. Never lose track of a card again.
+
+Whether you're a casual fan or serious collector, HoloDex helps you stay organized, make smarter trades and track your collection with confidence.
+
+#Key Features:
+
+- Pokémon card scanner with instant recognition
+- Real-time market price tracking
+- Collection organization
+- Value your portfolio
+- Wishlist 
+- Multi-device sync
+- Multi currency support
+- Track profits and losses 
+
+#In-App Purchases Unlock:
+
+- Unlimited card scans
+- Export your data
+- Exclusive filters
+- Early access to new features
+
+Built for collectors. Backed by data.
+
+Start scanning your cards today with HoloDex.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-09-08T07:00:00Z,2025-11-17T10:19:52Z
+it,Italy,Reference,6006,22,1608514533,Cambia la voce per le chiamata,"CRAFTY TECH, SOCIETATEA CU RASPUNDERE LIMITATA",https://apps.apple.com/it/app/cambia-la-voce-per-le-chiamata/id1608514533?uo=4,0.0,4.45614,57,Reference,"Magic Voice Changer for Calls è l'app che ti permette di registrare facilmente le tue chiamate e di cambiare la voce con effetti durante la chiamata. Magic Voice Changer for Calls offre anche un servizio di numero virtuale per la ricezione di SMS. Ora puoi proteggere completamente la tua privacy se hai paura di utilizzare il tuo vero numero di telefono su servizi e siti web sospetti.
+
+Funzionalità principali dell'app:
+- Registrazione delle chiamate.
+- Cambia voce per le chiamate.
+- Ricevi SMS verso numeri virtuali.
+- Oltre 1000 numeri virtuali da diversi paesi.
+- Dopo aver registrato l'audio, puoi salvarlo, riprodurlo o aprirlo in Registrazioni.
+- Effetti (Alieno, Robot, Predatore, Maschio e molti altri...)
+- Crea la tua voce.
+- Modalità colore dell'app (chiaro / scuro).
+
+Abbonandoti alla versione premium, avrai accesso a tutte le nostre funzionalità e contenuti premium.
+- Niente più pubblicità!
+- Registratore di chiamate illimitato.
+- Ricevi una moneta bonus ogni giorno.
+- Funzione di cambio voce illimitata.
+- Registrazioni vocali illimitate.
+- Verifiche SMS illimitate.
+Tutte le nuove funzionalità sono incluse in questo abbonamento.
+* Nome degli abbonamenti con rinnovo automatico: Voice Premium e Voice Premium senza prova. Si tratta di due opzioni di abbonamento mensile: una include una prova gratuita di tre giorni, l'altra no. Al termine del periodo di prova, ti verranno addebitati automaticamente 14,99 $ al mese. Non vi è alcun obbligo e puoi annullare in qualsiasi momento.
+* Qualsiasi parte non utilizzata del periodo di prova gratuito, se offerto, verrà confiscata al momento dell'acquisto di un abbonamento a questa pubblicazione, ove applicabile.
+* Il pagamento verrà addebitato sul tuo account iTunes alla conferma dell'acquisto. L'abbonamento si rinnova automaticamente a meno che il rinnovo automatico non venga disattivato almeno 24 ore prima della fine del periodo corrente. L'addebito per il rinnovo verrà effettuato entro 24 ore dalla fine del periodo corrente e il costo del rinnovo verrà determinato dagli account. Gli abbonamenti possono essere gestiti dall'utente e il rinnovo automatico può essere disattivato accedendo alle impostazioni dell'account utente dopo l'acquisto.
+* È possibile annullare l'abbonamento tramite questo URL:
+https://support.apple.com/en-us/HT202039
+* Informativa sulla privacy: https://callrecorder.craftytech.info/apps/callrecorder/privacy.html
+* Termini di utilizzo: https://callrecorder.craftytech.info/apps/callrecorder/terms.html",2022-02-04T08:00:00Z,2025-10-22T07:21:31Z
+it,Italy,Reference,6006,23,515127233,Dizionario Inglese WordRef.,"WordReference.com, LLC",https://apps.apple.com/it/app/dizionario-inglese-wordref/id515127233?uo=4,0.0,4.20833,120,Reference,"App 100% gratuita.
+
+La app del sito di dizionari di lingue più diffuso ed esaustivo del mondo. Consente l'accesso rapido ai nostri ricchi dizionari e ai forum di lingue.
+
+I dizionari di WordReference.com:
+inglese-spagnolo
+inglese-francese
+inglese-italiano
+inglese-tedesco
+inglese-portoghese
+inglese-polacco
+inglese-rumeno
+inglese-ceco
+inglese-greco
+inglese-turco
+inglese-giapponese
+inglese-cinese
+inglese-coreano
+inglese-arabo
+spagnolo-francese
+spagnolo-portoghese
+inglese monolingue
+spagnolo monolingue
+italiano monolingue
+
+Coniugatori di verbi:
+coniugatore spagnolo
+coniugatore francese
+coniugatore italiano
+
+I forum contengono oltre un milione di domande e risposte riguardo l'italiano e le traduzioni. Troverete già la risposta alle vostre domande.
+
+NOTA: richiede una connessione a internet.
+Spesso nelle ricerche WordReference viene scritto scorrettamente come ""Word Reference"".",2012-05-15T04:46:09Z,2025-11-19T15:07:49Z
+it,Italy,Reference,6006,24,1137963102,"Muslim: Qibla, Azan, Al Quran",Assistant App Teknoloji Anonim Sirketi,https://apps.apple.com/it/app/muslim-qibla-azan-al-quran/id1137963102?uo=4,0.0,4.69034,7069,Reference,"Millions of Muslims around the world use Muslim Assistant app to see prayer times and find Qibla direction.
+
+Muslim Assistant, the most downloaded prayer time application in all Muslim countries, includes many useful features.
+
+MUSLIM ASSISTANT FEATURES
+
+Prayer Times: The application shows you the most accurate azan times according to your location or region. If you want, you can receive prayer time notifications with Azan sound or with other sound options.
+
+Qibla Finder: You can find Mecca and Kaaba on the map, and you can determine the Kaaba direction of your location in the most accurate way. With the help of Compass Mode, It is easy to see where the Kaaba is located even when you are offline, and you can pray according to Islamic rules.
+
+Dhikr Counter: You can easily make dhikrs, record your dhikr counts and dhikr loops.
+
+Friday Messages: You can send special Friday messages to your loved ones.
+
+Nearby Mosques: You can see the Mosques and Masjids closest to your location on the map.
+
+The Quran: You can read the Quran in 40+ different languages and there are also transliteration options. You can see the Juz list and change the text size as well. You have the option to listen to the Quran recited by famous reciters, providing a unique and diverse listening experience.
+
+Kaaba Live Broadcast: You can watch the Kaaba live 24 hours a day.
+
+Esma-ul Husna: You can see the 99 names of Allah and their meanings and listen to Esma hymn and make dhikr of each Name.
+
+Hijri Calendar: You can follow the dates of important islamic days such as Ramadan, Laylat-ul Qadr, Eid al-Fitr and Eid al-Adha.
+
+Message Editor: You can choose existing messages or compose new ones, with a variety of background options, using the editor tool and send your custom messages to your loved ones.
+
+Notes:
+
+For proper Qibla Finder usage, you need to hold your phone on a flat surface and keep it away from electromagnetic fields and metal objects. If it is necessary, you can manually rearrange your location through pressing the marker.
+
+Because the app uses your device's location settings to give you prayer times, please kindly be aware your location settings are open and up to date.
+
+May Allah bless us all.
+
+تطبيق مساعد المسلم هو الأفضل لتذكير المسلم بالواجبات اليومية: أوقات الصلاة، إتجاه القبلة، كما يحتوي أيضا على القرآن الكريم، الذِكر، محرر الرسائل، رسائل يوم الجمعة، تقويم رمضان وأوقات الإفطار والسحور، وأكثر من ذلك انه مثالي لواجباتك الإسلامية، فأنه تطبيق إسلامي متكامل.
+
+----------------------------------------
+
+If you choose to purchase Muslim Assistant Premium, payment will be charged to your iTunes account, and your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. Current Muslim Assistant Premium subscription price starts at $2.49 USD/month and one-month(Monthly Auto - Renewal) and twelve-month(Yearly Auto - Renewal) or Lifetime (One Time Purchase) packages are available. There is free trial for yearly subscriptions, subscription begins immediately but billed when the trial is over. Prices are in US dollars, may vary in countries other than the US and are subject to change without notice. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Muslim Assistant Premium, you can simply continue using Muslim Assistant for free.
+
+This application is subject to Apple's Standard End User License Agreement (EULA).
+Privacy and Terms: https://www.muslimassistant.com/privacy-terms.html",2016-08-03T17:49:14Z,2025-11-15T10:29:52Z
+it,Italy,Reference,6006,25,1570594940,Sky Tonight - Stelle e Pianeti,Vito Technology Inc.,https://apps.apple.com/it/app/sky-tonight-stelle-e-pianeti/id1570594940?uo=4,0.0,4.75732,5394,Reference,"SKY TONIGHT è una nuovissima app astronomica per esplorare il cielo. Aiuta gli astronomi a rispondere alle tre domande più comuni:
+
+⁕ Cos'è quel punto luminoso nel cielo?
+⁕ Dove cercare qualcosa di interessante sopra di me?
+⁕ Come faccio a trovare l'oggetto celeste che mi interessa?
+
+FUNZIONALITÀ DI SKY TONIGHT:
+
+► Punta il tuo dispositivo verso il cielo per vedere le posizioni in tempo reale degli oggetti spaziali sulla mappa interattiva del cielo.
+► Attiva la macchina del tempo e determina la posizione dei corpi celesti in diversi periodi di tempo.
+► Usa la modalità di realtà aumentata e visualizza la mappa del cielo sovrapposta all'immagine della fotocamera del tuo dispositivo.
+► Ottieni informazioni approfondite su qualsiasi oggetto del cielo toccando il suo nome.
+► Rimani aggiornato sulle ultime notizie dal mondo dell'astronomia con la sezione ""Novità"".
+► Attiva la modalità notturna per rendere più agevole osservare il cielo durante la notte.
+► Filtra gli oggetti che appaiono sulla mappa del cielo secondo la loro luminosità visiva.
+► Regola la luminosità degli oggetti sulla mappa del cielo.
+► Individua decine di asterismi oltre che le costellazioni ufficiali. 
+► Regola le costellazioni visibili e personalizza la loro rappresentazione sullo schermo.
+
+FUNZIONALITÀ UNICHE:
+
+◆ TRAIETTORIE INTERATTIVE RELATIVE A UN OSSERVATORE
+
+Invece della classica traiettoria che mostra la traiettoria dell'oggetto nella sfera celeste rispetto al centro della Terra, l'applicazione presenta la traiettoria dell'oggetto nel cielo rispetto a un osservatore. Un lungo tocco sulle traiettorie relative all'osservatore sposterà l'oggetto in cielo nel punto selezionato. Continuando a premere, muovi il dito lungo la traiettoria per cambiare l'ora.
+
+◆ RICERCA FLESSIBILE
+
+Utilizza la ricerca flessibile: trova rapidamente l'oggetto che ti interessa, naviga facilmente tra diversi oggetti e tipi di eventi. Cerca ""stelle"", ""lune di Marte"", ""congiunzioni di Marte"", ""eclissi solare"", e l'applicazione ti mostrerà tutti gli oggetti, eventi e articoli correlati!
+
+◆ PROMEMORIA DI EVENTI COMPLETAMENTE PERSONALIZZABILI
+
+Imposta un promemoria di eventi, completamente personalizzabile, per qualsiasi ora e data, per non perdere un'eclissi solare, una luna piena, o una configurazione di stelle e pianeti che ti interessa.
+
+◆ CALENDARIO ASTRONOMICO CON INDICE DI OSSERVAZIONE DELLE STELLE E PREVISIONI DEL TEMPO
+
+Controlla il calendario degli eventi celesti che mostra fasi lunari, piogge di meteoriti, eclissi, opposizioni, congiunzioni e altri eventi emozionanti. Scopri quali eventi astronomici si verificheranno questo mese o scopri quello che è successo nel cielo un anno fa!
+
+Verificate l'Indice di osservazione stellare calcolato in base alla fase lunare, l'inquinamento luminoso, la nuvolosità e l'ora in cui un oggetto è visibile. Più questo indice è alto, migliori sono le condizioni di osservazione.
+
+Non hai più bisogno di diverse app per pianificare la tua osservazione delle stelle; Sky Tonight contiene tutte le informazioni di cui hai bisogno. 
+
+ACCESSO PREMIUM:
+
+* L'app include l'accesso Premium a pagamento. Ottieni l'accesso Premium per usare Sky Tonight senza limiti! Senza l'abbonamento, non potrai vedere la maggior parte degli elementi dell'interfaccia in varie sezioni come Visibili stasera, Calendario e Ricerca. Pertanto, sei limitato nella pianificazione e nel miglioramento delle tue osservazioni. L'accesso Premium ti consentirà di sbloccare tutti gli elementi dell'interfaccia in qualsiasi visualizzazione e sfruttare al massimo tutte le funzionalità dell'app. Anche gli annunci pubblicitari verranno rimossi, in modo da non interrompere la tua esperienza di osservazione delle stelle.
+
+Politica sulla privacy: https://vitotechnology.com/privacy-policy
+Termini di utilizzo: https://vitotechnology.com/terms-of-use",2021-08-18T07:00:00Z,2025-10-23T13:17:23Z

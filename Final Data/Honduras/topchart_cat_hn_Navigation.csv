@@ -1,0 +1,931 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+hn,Honduras,Navigation,6010,1,585027354,Google Maps,Google LLC,https://apps.apple.com/hn/app/google-maps/id585027354?uo=4,0.0,4.78303,24109,Navigation,"Explora y recorre el mundo con confianza con Google Maps. Encuentra las mejores rutas para conducir, caminar, ir en bicicleta o en transporte público con datos del tráfico y navegación GPS en tiempo real. Descubre más de 250 millones de empresas y lugares, desde restaurantes y tiendas hasta básicos del día a día, con fotos, opiniones y datos útiles.
+
+Recorre el mundo de la forma que quieras:
+• Elige rutas con mayor ahorro de combustible para llegar a tu destino.
+• Encuentra la mejor ruta con instrucciones de navegación paso a paso por voz o en pantalla en tiempo real.
+• Ahorra tiempo con el redireccionamiento automático basado en información en tiempo real sobre el tráfico, incidentes y rutas cerradas.
+• Toma a tiempo y fácilmente autobuses, trenes y transportes compartidos gracias a las actualizaciones en tiempo real.
+• Encuentra alquileres de bicicletas o monopatines para moverte de forma más simple.
+
+Planifica viajes y experiencias de manera fácil:
+• Explora un lugar antes de ir (p. ej., el estacionamiento o las entradas) con Street View.
+• Usa Immersive View para recorrer puntos de referencia, parques y rutas; hasta puedes consultar el clima para prepararte con anticipación.
+• Crea listas personalizadas de tus lugares guardados favoritos y compártelas con otras personas.
+• Pide comida para llevar o con entrega a domicilio, y haz reservas en restaurante y hoteles.
+• Usa mapas sin conexión para no perderte en zonas donde no hay buena señal.
+• Busca lugares y cosas que hacer en una ciudad, y elige dónde ir según las fotos y las opiniones de los usuarios.
+
+Descubre y explora lugares como un habitante local:
+• Explora lugares con la confianza de saber que 500 millones de usuarios colaboran y mantienen actualizados los mapas todos los años.
+• Evita las multitudes consultando qué tan concurrido está un lugar antes de ir.
+• Usa Lens en Maps para ver instrucciones sobre cómo llegar a pie superpuestas a la vista del mundo real.
+• Filtra restaurantes según el tipo de comida, el horario de atención, el precio, la calificación y mucho más.
+• Haz preguntas sobre un lugar, desde qué platos ofrece hasta si cuenta con estacionamiento, y recibe respuestas rápidas.
+
+Algunas funciones no están disponibles en todos los países o ciudades.
+La navegación no está diseñada para vehículos de gran tamaño ni de emergencia.",2013-07-17T04:03:28Z,2025-11-20T16:03:21Z
+hn,Honduras,Navigation,6010,2,323229106,Waze Navegación y Tráfico,waze,https://apps.apple.com/hn/app/waze-navegaci%C3%B3n-y-tr%C3%A1fico/id323229106?uo=4,0.0,4.74465,889,Navigation,"Conoce las condiciones en la ruta con la ayuda de otros conductores. Waze es un mapa en tiempo real que aprovecha los conocimientos locales de decenas de millones de conductores en todo el mundo. Las diversas funciones de los mapas de Waze permiten que los conductores lleguen cada día a sus destinos de forma segura y confiable: navegación por GPS, actualizaciones del tráfico en vivo, alertas de seguridad en tiempo real (incluida información sobre construcciones, accidentes automovilísticos, controles policiales, baches, entre otros) y horas de llegada estimada precisas.
+
+
+Haz que tu próximo viaje sea sin sorpresas ni estrés:
+• Llega a destino más rápido con instrucciones sobre cómo llegar en tiempo real, horas de llegada estimadas precisas y redireccionamiento automático en función de información en tiempo real sobre el tráfico, los incidentes y las rutas cerradas.
+• Incluso si ya conoces el camino, puedes evitar sorpresas en la ruta con las alertas de seguridad en caso de accidentes automovilísticos, construcciones, objetos en la ruta, baches, reductores de velocidad, curvas pronunciadas, mal tiempo, vehículos de emergencia, cruces ferroviarios y mucho más.
+• Evita multas con información sobre la presencia de controles policiales y la ubicación de radares de velocidad y cámaras en semáforos.
+• Comparte con otros conductores lo que sucede en la ruta informando incidentes y peligros en tiempo real.
+• Mantente informado de futuros cambios en los límites de velocidad y ten tu velocímetro bajo control.
+• La indicación de varios carriles te permitirá saber qué carril debes tomar.
+• Consulta los precios de los peajes y decide si deseas evitarlos en tus rutas.
+• Agrega pases de rutas y viñetas de peaje para los carriles VAO y las zonas de tráfico restringido.
+• Encuentra gasolineras (y sus precios) y estaciones de carga de VE en tu ruta.
+• Encuentra estacionamientos cerca de tu destino.
+• Utiliza la navegación paso a paso guiada por voz en una variedad de idiomas, acentos locales y tus celebridades favoritas.
+• Planifica tu próximo viaje revisando las horas de llegada estimadas según las futuras horas de salida o llegada.
+• Utiliza tus aplicaciones de audio favoritas (para podcasts, música, noticias y audiolibros) directamente en Waze.
+• Sincroniza Waze con la pantalla integrada de tu automóvil con Apple CarPlay.
+
+
+* Algunas funciones no están disponibles en todos los países.
+
+
+* La navegación de Waze no está pensada para vehículos de emergencia o de gran tamaño.
+
+
+Administra tu configuración de privacidad en la app cuando quieras. Obtén más información sobre la política de privacidad de Waze en www.waze.com/legal/privacy.",2009-08-01T21:14:40Z,2025-11-10T12:05:02Z
+hn,Honduras,Navigation,6010,3,843156974,Traccar Client,Anton Tananaev,https://apps.apple.com/hn/app/traccar-client/id843156974?uo=4,0.0,5,14,Navigation,"Traccar Client is an app that allows you to use your mobile device as a GPS tracker. It reports location to your own or hosted server with selected time intervals.
+
+By default application is configured to use free Traccar service (address - demo.traccar.org, port - 5055). To see your device on map register on http://demo.traccar.org/ and add your device with identifier.
+
+Traccar (Server) is a free open source server that supports more than 80 different protocols and GPS tracking devices. You can use this application with your own hosted instance of Traccar. For more information visit https://www.traccar.org/.
+
+NOTE: Continued use of GPS running in the background can dramatically decrease battery life.",2014-03-27T17:19:56Z,2025-10-22T07:50:05Z
+hn,Honduras,Navigation,6010,4,588364107,Family Locator - GPS tracker,GEO TRACK LABS LTD,https://apps.apple.com/hn/app/family-locator-gps-tracker/id588364107?uo=4,0.0,4.45209,1409,Navigation,"Localizador Familiar te permite mantenerte conectado con tus familiares durante el día. ¡Localizador Familiar garantiza la seguridad de tu familia, incluso cuando están lejos!
+
+IMPORTANTE: Compartir la ubicación GPS solo es posible con el consentimiento mutuo de todos los miembros. Comparte tu ubicación solo con personas de confianza.
+
+Con Localizador Familiar también puedes:
+• Ver el historial de ubicación de tus familiares durante los últimos 7 días
+• Localizar un teléfono robado o perdido si ya instalaste la app
+• Recibir notificaciones cuando los familiares rastreados lleguen a su destino
+• Configurar zonas seguras basadas en GPS, como la escuela o el hogar, en el mapa familiar
+• Crear tus propios grupos en la app
+
+Localizador Familiar mantiene a tu familia segura:
+• La app te permite encontrar fácilmente a tus seres queridos con realidad aumentada
+• Te mantiene en el mapa familiar incluso si estás ocupado
+• Registrarte para compartir tu ubicación con tu familia
+
+Aunque puedes obtener todas las funciones con la versión gratuita, ¡nuestra suscripción te ofrece aún más!
+
+La suscripción Premium incluye:
+- Alertas de ubicación ilimitadas
+- Historial de ubicación para todos los miembros de la familia
+- Encuentra a tus familiares más rápido con RA
+- Recibe llamadas de emergencia automatizadas si necesitan ayuda
+
+Los precios de la suscripción pueden variar según la ubicación. El pago se cargará a tu cuenta de iTunes al confirmar la compra. La suscripción se renueva automáticamente a menos que se desactive la renovación automática al menos 24 horas antes del final del período actual. El cargo por renovación se realizará en la cuenta dentro de las 24 horas previas al final del período actual. Puedes administrar las suscripciones y desactivar la renovación automática desde la configuración de tu cuenta después de la compra. La parte no utilizada del período de prueba gratuito (si se ofrece) se perderá al adquirir otra suscripción.
+
+Solicitudes de permisos opcionales:
+• Servicios de ubicación: para informar a tu familia sobre tu ubicación actual
+• Notificaciones: para informarte sobre los cambios de ubicación de tu familia
+• Contactos: para encontrar otros usuarios que se unan a tu círculo
+• Fotos y cámara: para cambiar tu foto de perfil
+• Seguimiento de aplicaciones: para mostrar anuncios relevantes
+
+Ten en cuenta que compartir la ubicación GPS solo es posible con el consentimiento mutuo de todos los miembros. La privacidad de tu familia es nuestra principal prioridad: comparte tu ubicación solo con personas de confianza.
+
+Para obtener más información sobre nuestra Política de privacidad y Términos de uso, haz clic en:
+https://family-locator.com/privacy-policy/
+https://family-locator.com/terms-of-use/
+
+Aviso legal: El uso continuo del GPS en segundo plano puede reducir drásticamente la duración de la batería.
+
+Comparte tus comentarios y sugerencias: support@family-locator.com",2013-01-08T08:00:00Z,2025-11-21T12:19:55Z
+hn,Honduras,Navigation,6010,5,1491200353,"Famio: Buscar Familia, Amigos",Gismart Ltd,https://apps.apple.com/hn/app/famio-buscar-familia-amigos/id1491200353?uo=4,0.0,4.2969,421,Navigation,"Prioriza la seguridad con Famio.
+
+Diseñado para tu tranquilidad, Famio hace un seguimiento de tus seres queridos para que tú no tengas que hacerlo. Gracias a Famio, siempre sabrás dónde están y si necesitan ayuda.
+
+¿Qué puedes hacer con Famio?
+
+Localiza a tus familiares, niños, amigos y seres queridos en tiempo real, en cualquier momento.
+Observa el historial de ubicaciones de tus seres queridos para asegurarte de que todos estén seguros.
+Recibe notificaciones cuando lleguen o salgan de casa, el trabajo o la escuela.
+Crea grupos separados para familiares y amigos.
+Recibe una alerta cuando el teléfono de alguien tenga poca batería, lo que puede afectar tu comunicación.
+Lleva tu seguridad al siguiente nivel y concéntrate en tu día, sabiendo que todos están bien. Famio te mantendrá actualizado las 24 horas del día, los 7 días de la semana.
+
+Famio ofrece una variedad de funciones que van más allá del seguimiento de ubicación:
+
+Alertas de emergencia: envía un mensaje de SOS y tu ubicación precisa a amigos, familiares y socorristas con un solo clic.
+Reacciones en el mapa: mantente conectado con reacciones rápidas y emojis.
+Chat privado: comparte actualizaciones rápidas sin salir de la aplicación.
+Modo de conducción: desarrolla mejores hábitos de conducción y asegúrate de que tus seres queridos conduzcan de manera segura.
+Modo infantil: Haz que Famio sea súper fácil y útil para los más pequeños.
+Alerta de violación de datos: Famio se asegurará de tu seguridad en Internet y la protección de tus datos.
+¿Siempre estás preocupado por la seguridad de tus seres queridos y esperando sus mensajes? Famio aliviará tu ansiedad y te ayudará a mantenerte al tanto de las cosas.
+
+Una medida de seguridad adicional nunca está de más. ¡Descarga Famio ahora y mantente informado las 24 horas del día, los 7 días de la semana!
+
+Aviso legal
+Ten en cuenta que el seguimiento de ubicación en tiempo real depende de obtener permiso de otro usuario para acceder a sus datos de geolocalización.
+
+La aplicación ofrece los siguientes tipos de suscripción:
+
+- Semanal a 7,99 USD con una prueba gratuita de 3 días, 29,99 USD cada 12 semanas.
+- El pago se cargará a la cuenta de iTunes utilizada al confirmar la compra. 
+- La suscripción se renueva automáticamente a no ser que la renovación automática se desactive al menos 24 horas antes del final del período actual.
+- La suscripción gratuita de prueba se renueva automáticamente salvo que se cancele 24 horas antes de la renovación.
+- El usuario gestionará sus suscripciones y podrá desactivar las renovaciones automáticas después de realizar su compra, en la sección “Configuración de la cuenta”.
+- El coste de la renovación es igual al valor que la “Matriz de la App Store de Apple"" determina como el equivalente del precio de la suscripción en dólares estadounidenses. 
+- En caso de que se ofrezca período de prueba, cualquier tiempo restante del mismo se perderá al pagar una suscripción a esa publicación.
+
+Política de privacidad: https://myfamio.com/privacy-policy
+Сondiciones de uso: https://myfamio.com/terms-of-use",2020-10-08T07:00:00Z,2025-10-17T09:47:58Z
+hn,Honduras,Navigation,6010,6,1493743521,Randonautica,"Randonauts, LLC",https://apps.apple.com/hn/app/randonautica/id1493743521?uo=4,0.0,3.42105,19,Navigation,"Quantum random exploration can change reality as you know it. The superpower behind Randonautica gives you a random location to journey to. Set your intention in your mind for what you seek, you will find. 
+
+Reasons to use Randonautica to generate completely random coordinates for you to travel to:
+
+-To go on an unexpected adventure
+-To test out quantum entropy and the mind's ability to influence reality
+-To break the matrix
+-To get some exercise by walking to a random location
+-To open a real world portal
+-To get off screens and go on an outdoor adventure
+-To feel heightened awareness and observation
+-To feel being present 
+-To find new areas in your neighborhood, town or city
+-To connect with other people of similar interests across the globe on Randonautica's in-app Social Media feed, Discover
+
+Randonautica is the first ever quantumly generated adventure game that takes you on a journey of true randomness. The adventure is yours to have and the legend will be yours to tell. Welcome, future Randonauts!
+
+Explore the world beyond the habitual and deterministic patterns of your everyday life, discover adventures right in front of your doorstep. 
+
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-02-19T08:00:00Z,2025-10-31T17:02:25Z
+hn,Honduras,Navigation,6010,7,6463052823,"MapXplorer: Mapas, Navegación",GOLDLAB APPLICATIONS YAZILIM VE BILISIM ANONIM SIRKETI,https://apps.apple.com/hn/app/mapxplorer-mapas-navegaci%C3%B3n/id6463052823?uo=4,0.0,4.60465,172,Navigation,"Radar de Navegación: Viaje Seguro y Fácil con Mapas Avanzados
+
+Con Radar de Navegación, cada viaje se vuelve menos estresante y más gratificante. En lugar de preocuparse por giros equivocados o señales deficientes, disfrutará de confianza, seguridad y libertad. La combinación de mapas, navegación y herramientas GPS le brinda el control de su experiencia de viaje para que pueda concentrarse en lo que más importa: llegar cómodamente y a tiempo.
+
+Viaje de forma más inteligente, ahorre tiempo
+
+Evite multas y sorpresas estresantes con alertas en tiempo real. El rastreador GPS, los dispositivos de rastreo y la pantalla HUD le mantienen informado sobre los límites de velocidad, las zonas de radar y los peligros. Esto se traduce en menos distracciones, una conducción más segura y tranquilidad en cada ruta.
+
+Manténgase conectado en cualquier lugar
+
+No deje que una señal débil interrumpa su aventura. Con la compatibilidad con mapas sin conexión, siempre tendrá acceso a su ruta planificada. Combinado con un diseño de mapas orgánico, su navegación se siente natural y confiable. La cámara de mapas GPS le ayuda a capturar y revisar sus viajes para que siempre pueda volver sobre sus pasos.
+
+Maximiza cada viaje
+
+Encuentra combustible, comida u hoteles al instante con la búsqueda inteligente. Guarda tus lugares favoritos, marca rutas y revisa tu historial de viajes con el rastreador GPS. Con el respaldo de dispositivos de rastreo, la integración con HUD y las vistas de mapas orgánicos en capas, viaja con la tranquilidad de saber que todo lo que necesitas está al alcance de la mano.
+
+Tu beneficio
+
+Navigation-Radar no se trata solo de mapas: te ofrece mayor libertad, seguridad y eficiencia. Ahorra tiempo, reduce el estrés y disfruta de un control total de tus viajes. Con herramientas como la cámara con mapa GPS, mapas detallados y navegación precisa, tus viajes serán más fáciles, fluidos y placenteros.
+
+Descarga Navigation-Radar hoy mismo y toma el control de tus viajes. Llega más rápido, seguro e inteligentemente.
+
+Tu suscripción se renueva automáticamente, lo que garantiza que nunca te pierdas ni un segundo de las mejoras de la aplicación. Sin embargo, tienes la flexibilidad de administrar la configuración de tu suscripción y desactivar la renovación automática en cualquier momento desde las preferencias de tu cuenta.
+
+Política de privacidad: https://www.goldlabtechnology.com/privacy-policy.html
+Condiciones de uso: https://www.goldlabtechnology.com/end-user-license-agreement/",2023-09-06T07:00:00Z,2025-11-13T22:22:29Z
+hn,Honduras,Navigation,6010,8,498477945,Moovit: Transporte público,Moovit App Global LTD,https://apps.apple.com/hn/app/moovit-transporte-p%C3%BAblico/id498477945?uo=4,0.0,4.7284,81,Navigation,"Moovit es la aplicación para todos tus viajes de movilidad urbana y transporte.
+ 
+El transporte es una parte integral de la vida urbana. Ya sea que viajes en tren, metro,  autobús, tren ligero o ferry, uses scooters, bicicletas o compartas el viaje en Uber, obtener la mejor información sobre movilidad es fundamental. Moovit te guía desde el punto A hasta el punto B de la manera más fácil y eficiente. Obtén horarios e indicaciones de trenes y autobuses, mapas, y tiempos de llegada en tiempo real con facilidad para que puedas planificar tu viaje con confianza. Encuentra alertas críticas e interrupciones en el servicio para tus líneas favoritas.
+ 
+Moovit guía a más de 865 millones de usuarios en más de 3200 ciudades de todo el mundo. Los usuarios encontrarán horarios de autobuses y trenes actualizados, mapas de transporte y, donde esté disponible, llegadas en tiempo real. Ubica las paradas de autobús y estaciones de tren cercanas, recibe alertas para saber dónde bajar y tener un viaje sin problemas. Es por esto que Moovit ha sido nombrada entre las mejores apps del año en 2017 por la App Store.
+ 
+► La herramienta ¡Vamos! Y las notificaciones te guiarán paso a paso en tiempo real durante tu trayecto para que sepas hacia donde caminar, cuánto durará la espera y cuántas paradas faltan hasta tu destino. Además tienes la sección de “mapas sin conexión” en el que puedes descargar los mapas de tren, autobús y metro de tus líneas favoritas.
+ 
+► Bicicletas Compartidas - Para los días soleados, días en los que no deseas caminar, días en que te gustaría hacer un poco de ejercicio extra y más
+ 
+► Tiempo real de llegada (en ciudades en las que esté disponible) te permite saber cuándo debes estar en una parada o cuánto tiempo tienes para hacer cualquier otra cosa mejor que esperar en la parada.
+ 
+► Cobertura global en más de 3200 ciudades lo que significa que cuando viajes, podrás usar el transporte público como cualquier local.
+ 
+► Pantalla exclusiva para ver el mapa de tren por paradas, estaciones exactas de autobuses y recorridos completos de cualquier línea.
+ 
+► La Pantalla de Favoritos te permite guardar ubicaciones y líneas usadas frecuentemente con un solo toque. Puedes guardar los mapas de tren, autobús o metro y ahorrar mucho tiempo.
+  
+► Alertas de Servicio que te mantienen informado para que no te quedes esperando un autobús que no llegará o sentado en la estación de tren a causa de un retraso. Al guardar tus líneas favoritas, Moovit te enviará un mensaje cuando haya un problema que podría afectar tus viajes.
+ 
+► ¿Viajas a otra ciudad? Anticipa tu viaje y mira de antemano los mapas de tren, recorrido de autobuses y estaciones de metrobús para aprovechar al máximo tu estadía.
+ 
+Usa Moovit en las principales ciudades de toda Latinoamérica:
+Buenos Aires
+Santiago de Chile
+Ciudad de México
+Montevideo
+Bogotá
+Santo Domingo
+Caracas
+Y más
+
+Moovit colabora con los principales operadores de transporte nacionales, tales como:
+•Metro de Santiago
+•Metrobús
+•DOTA
+Y más
+
+Bicicletas públicas y transportes alternativos proporcionados por: 
+•Bike Santiago
+•Ecobici
+• Y más
+ 
+
+Puedes encontrarnos en cientos de lugares de todo el mundo, tales como:
+Europa
+Asia
+Norte América
+y más
+ 
+Solo necesitas una aplicación en tu teléfono para viajar en transporte público en los EE. UU. y en otros 106 países y en 45 idiomas. Si deseas conocer los horarios de los autobuses y los trenes en Londres, Barcelona, ​​Madrid o Roma, o si necesitas saber cuándo sale el último autobús de una determinada parada en Río de Janeiro, São Paulo, Melbourne, Seúl. , Moovit te guiará.
+
+ 
+Tienes ideas, comentarios o preguntas? Contáctanos:
+ 
+https://moovitapp.zendesk.com/hc/requests/new
+moovit@Facebook, Twitter
+
+Condiciones de Servicio
+https://moovitapp.com/en-us/legal/terms-of-service-en",2012-04-27T07:00:00Z,2025-10-26T07:14:19Z
+hn,Honduras,Navigation,6010,9,6499511842,Street View en mapa en vivo,Sonal Kevadiya,https://apps.apple.com/hn/app/street-view-en-mapa-en-vivo/id6499511842?uo=4,0.0,0,0,Navigation,"Street View on Live Google Map es una herramienta para explorar diferentes vistas de calles en todo el mundo con su dispositivo. Vea las diferentes vistas de las calles a través de un mapa terrestre, que le permite mantenerse en contacto fácilmente y explorar diferentes vistas de las calles en vivo con una cámara de 360°. Encuentre su lugar favorito y véalo en Street View buscando en un mapa a través de Street View en la aplicación Live Google Map. Verifique su ubicación actual y encuentre sus detalles. Puede ver fácilmente atracciones famosas, vistas de calles y más información utilizando su dispositivo.
+
+Obtenga el beneficio de ver los detalles de la ubicación actual en un mapa con vista satelital y también puede verlos en una vista de mapa 3D. Street View en Live Google Map permite a los usuarios encontrar fácilmente detalles de ubicaciones cercanas. Convierte tu dispositivo en una brújula y encuentra fácilmente la dirección exacta de tu área. La aplicación te permite guardar tus lugares favoritos en tu carpeta de favoritos. En la aplicación también puedes encontrar la opción de calculadora de distancia y calculadora de área, ahora calcula fácilmente la distancia entre dos lugares y diferentes áreas.
+
+Características clave:
+
+Explora vistas de calles de todo el mundo en vivo con una cámara de 360°
+Mapa de la Tierra para buscar cualquier lugar y mirarlo en una cámara de 360°
+Ver su ubicación actual y sus detalles
+Vea los lugares famosos, encuentre sus detalles y explórelos con una cámara de 360°
+mapa satelital para explorar su ubicación en 3D o un mapa de vista satelital
+Busca lugares cercanos con solo un toque
+Agregue su elección de lugares favoritos a su carpeta de favoritos
+Brújula para encontrar direcciones en cualquier momento y lugar, con tu dispositivo
+Encuentra la distancia entre dos lugares usando la calculadora de distancia.
+Calcule fácilmente cualquier área usando esta herramienta
+
+Check out the premium features right now:
+• Go with the Ad-Free version without any single ads
+
+Plans are here to make the app premium:
+• Street View Live Map One Week - 5.99 $
+• Street View Live Map One Month - 9.99 $
+• Street View Live Map Lifetime - 44.99 $
+
+the app offering is auto-renewable subscriptions
+
+
+For More Information :
+Privacy - https://sonalkevadiya19.blogspot.com/2024/04/privacypolicy.html
+
+
+Term Of Use - https://sonalkevadiya19.blogspot.com/2024/04/terms-of-use.html",2024-05-04T07:00:00Z,2024-06-06T08:34:48Z
+hn,Honduras,Navigation,6010,10,6445970688,地铁地图-全国地铁站点和换乘路线查询,Beijing Cnmaps Technology Company Limited,https://apps.apple.com/hn/app/%E5%9C%B0%E9%93%81%E5%9C%B0%E5%9B%BE-%E5%85%A8%E5%9B%BD%E5%9C%B0%E9%93%81%E7%AB%99%E7%82%B9%E5%92%8C%E6%8D%A2%E4%B9%98%E8%B7%AF%E7%BA%BF%E6%9F%A5%E8%AF%A2/id6445970688?uo=4,0.0,0,0,Navigation,"【产品简介】
+查看全国主要城市的地铁线路图和站点数据，支持设置起点和终点以后计算换乘方案。
+包括北京,上海,广州,深圳,西安,天津,无锡,苏州,杭州,沈阳,大连,长春,哈尔滨,南京,宁波,福州,南昌,青岛,郑州,武汉,长沙,佛山,东莞,南宁,重庆,成都,昆明,香港,澳门,合肥,石家庄,贵阳,厦门,乌鲁木齐,温州,济南,兰州,常州,徐州,芜湖,绍兴,湘西土家族苗族自治州,南通,台州,金华等城市。
+
+【产品特色】
+1、新版数据：今年新版地铁线路图和站点数据。
+2、换乘方案：设置起点和终点，查看换乘方案。
+3、附近站点：一键定位当前位置并显示距离附近站点。
+4、数据全面：支持包括香港澳门在内的全国40多座城市。
+5、清晰流畅：采用先进的HTML5的方式显示地铁线路，可以随意放大缩小。
+
+【联系方式】
+cnmaps@qq.com
+
+【官方网站】
+http://www.beido.net",2023-03-04T08:00:00Z,2025-03-19T09:10:58Z
+hn,Honduras,Navigation,6010,11,744920098,Navionics® Boating,Garmin International,https://apps.apple.com/hn/app/navionics-boating/id744920098?uo=4,0.0,5,3,Navigation,"Obtén cartas detalladas y actualizadas que puedes usar sin conexión y muchas funciones para tenerlas a mano. Usa App Boating para navegar, pescar, bucear y todas tus actividades acuáticas. Pruébala gratis por tiempo limitado. Para seguir utilizando las cartas y las funciones avanzadas, adquiere una suscripción anual que se renueva automáticamente*.
+
+PAQUETE COMPLETO
+• CARTAS NAVIONICS® DE RENOMBRE INTERNACIONAL: úsalas sin conexión con superposiciones para conocer mejor qué hay por encima y debajo del agua.
+-CARTA NÁUTICA: estudia planos portuarios, anclajes y líneas de profundidad de seguridad, localiza ayudas a la navegación, servicios náuticos y más.
+-MAPAS BATIMÉTRICOS HD SONARCHART™: obtén curvas de nivel detalladas de 0,5 m en HD para localizar áreas de pesca.
+-CARTAS OFICIALES DE EE. UU. (NOAA): disponibles en EE. UU. y Canadá, México, Caribe a Brasil.
+-SUPERPOSICIONES: la superposición de sombreado Relief Shading te ayuda a conocer mejor la topografía del fondo para la pesca y el buceo. Sonar Imagery revela la dureza del fondo de ciertos lagos con claridad y en colores vivos. ¿Quieres más? Descubre las imágenes por satélite terrestres y acuáticas.
+-OPCIONES DE MAPAS: cambia las combinaciones de superposiciones de cartas para personalizar vistas de carta, activar el modo nocturno, resaltar zonas poco profundas, definir varios rangos de pesca y más.
+-ACTUALIZACIONES DIARIAS: hasta 5000 actualizaciones diarias en todo el mundo.
+
+• HERRAMIENTAS PARA PLANIFICAR Y DISFRUTAR DEL DÍA
+-AUTO GUIDANCE+™**: planifica tu viaje con una ruta de muelle a muelle recomendada según datos de cartas y ayudas a la navegación. Obtén la hora de llegada estimada, distancia hasta la llegada, rumbo a waypoints, consumo de combustible y más.
+-TIEMPO Y MAREAS: conoce las condiciones antes de salir. Consulta datos meteorológicos en tiempo real, pronósticos diarios y horarios e información sobre el viento, boyas meteorológicas, mareas y corrientes.
+-MARCADORES, TRAZADOS, DISTANCIA: marca un buen punto de anclaje o donde hayas pescado un pez grande. Registra tu trazado y revísalos cuando quieras. Comprueba fácilmente la distancia entre dos puntos.
+
+• UNA COMUNIDAD ACTIVA Y ENTREGADA
+-COMMUNITY EDITS y COMUNIDAD ACTIVECAPTAIN®: recibe y comparte conocimiento local útil con miles de navegantes, como puntos de interés, ayudas a la navegación y recomendaciones valiosas de personas con experiencia de primera mano en el entorno local.
+-CONEXIONES: mantén el contacto con amigos y otros navegantes compartiendo en directo tu ubicación, trazados, rutas y marcadores para localizaros en el agua o mostrar tus aventuras.
+-GPX IMPORT/EXPORT: comparte los datos guardados fuera de la aplicación o transfiérelos a un plotter.
+
+• ADMITE DISPOSITIVOS EXTERNOS
+-PLOTTER SYNC: sincroniza un plotter compatible con la aplicación para transferir rutas y marcadores, y activar, actualizar o renovar tu suscripción a cartas de Navionics.
+-CREACIÓN DE MAPAS SONARCHART™ LIVE***: conecta una sonda/plotter compatible y crea tus propios mapas mientras navegas.
+-AIS: conéctate a un receptor AIS compatible con conectividad Wi-Fi® para ver el tráfico náutico cercano. Define unadistancia de seguridad y recibe alertas audiovisuales ante posibles colisiones.
+
+NOTAS
+*Puedes gestionar tu suscripción y desactivar la renovación automática en cualquier momento. Cuando la suscripción caduque, no se podrá acceder a las cartas, superposiciones, actualizaciones diarias y funciones avanzadas.
+**Auto Guidance+ se ha diseñado solo con fines de planificación y no exime de emplear un comportamiento responsable en las operaciones de navegación
+***Funciones gratuitas
+Actualizaciones disponibles con iOS 13.0 o superior. Un tablet conectado a una red Wi-Fi calcula tu ubicación aproximada. Un tablet con Wi-Fi y 3G funciona de manera similar a un teléfono en lo que respecta al GPS.
+Wi-Fi es una marca registrada de Wi-Fi Alliance. iOS es una marca comercial con licencia de Apple, Inc.",2014-01-02T14:55:55Z,2025-10-27T10:00:04Z
+hn,Honduras,Navigation,6010,12,901574501,Velocímetro - velocidad GPS,"BITHAUS.TECH, UNIPESSOAL LDA",https://apps.apple.com/hn/app/veloc%C3%ADmetro-velocidad-gps/id901574501?uo=4,0.0,4.75833,120,Navigation,"Transforma cada viaje en datos valiosos con Velocímetro GPS - la app más completa de seguimiento de velocidad para conducir, ciclismo, navegación y más. Experimenta funciones profesionales que te mantienen informado y en control.
+
+FUNCIONES PRINCIPALES:
+- Seguimiento GPS de velocidad en tiempo real con precisión máxima
+- Ordenador de viaje completo: velocidad, distancia, altitud, rumbo, duración
+- Grabación de viajes con seguimiento de rutas
+- Vista de mapa en vivo con posición en tiempo real
+- Guarda y exporta tus trayectos
+
+CAPACIDADES AVANZADAS:
+Modo Picture in Picture (PRO):
+- Mantén tu velocidad visible mientras usas otras apps
+- Velocímetro flotante redimensionable
+- Perfecto para navegación o apps de música
+
+Pantalla Head-Up (HUD):
+- Proyecta la velocidad en el parabrisas para conducir más seguro
+- Modo espejo para visualización por reflexión
+- Mantén la vista en la carretera mientras monitoreas la velocidad
+
+Límites de Velocidad Basados en la Vía (PRO):
+- Detección automática del límite de velocidad actual
+- Alertas en tiempo real al exceder límites
+- Cobertura mundial con tecnología inteligente
+- Umbrales de aviso y sonidos personalizables
+
+Métricas de Rendimiento:
+- Medidor de fuerza G para aceleración y frenado
+- Seguimiento mejorado de altitud con sensores barométricos
+- Análisis de tiempo en movimiento vs. detenido
+- Cálculos de velocidad máxima y promedio
+
+INTEGRACIÓN PERFECTA:
+- Visualización y controles de Apple Music
+- Ve la canción actual sin cambiar de app
+- Controla tu música mientras registras el viaje
+
+PERSONALIZACIÓN COMPLETA:
+- Elige unidades: KM/H, MPH o Nudos
+- Múltiples modos de visualización y diseños
+- Amplia selección de temas con colores personalizados
+- Soporte para modo oscuro/claro
+- Escala de velocímetro ajustable
+- Formato vertical/horizontal con bloqueo de orientación
+- Posición del velocímetro izquierda o derecha
+
+SUSCRIPCIÓN PRO INCLUYE:
+- Guardado y grabación ilimitada de viajes
+- Exportación de rutas en formato GPX
+- Detección y alertas de límites de velocidad basados en la vía
+- Modo Picture in Picture
+- Información meteorológica con pronósticos
+- Iconos de app personalizados
+- Todos los temas y colores
+
+INFORMACIÓN DE SUSCRIPCIÓN:
+- Descarga gratuita con funciones básicas siempre gratis
+- Suscripción PRO opcional para funciones avanzadas
+- Cancela cuando quieras desde los ajustes del App Store
+- El pago se carga a tu Apple ID al confirmar la compra
+- Renovación automática salvo cancelación 24 horas antes del periodo
+- Gestiona suscripciones en tu configuración del App Store
+
+NOTAS IMPORTANTES:
+- Requiere GPS/Servicios de Ubicación para seguimiento de velocidad
+- No compatible con modelos iPad solo WiFi
+- La precisión GPS varía según señal y entorno
+- Mejor precisión en áreas abiertas con vista despejada al cielo
+- El uso continuo de GPS afecta la duración de batería
+- Nunca manipules el dispositivo mientras conduces - ¡la seguridad primero!
+
+¿Te gusta la app? ¡Valóranos en el App Store!
+Tu opinión nos ayuda a mejorar y añadir nuevas funciones.
+
+Términos de Uso: https://speedometer.app/terms",2014-08-12T17:13:16Z,2025-11-13T19:31:31Z
+hn,Honduras,Navigation,6010,13,6444058891,Earth Mapa-3D Satelite Maps,FOXPOI PTE. LTD.,https://apps.apple.com/hn/app/earth-mapa-3d-satelite-maps/id6444058891?uo=4,0.0,4.8,5,Navigation,"1. Globo 3D de alta definición
+2. Cargue los datos del mosaico del mapa
+3. Función de brújula oriental
+4.vista histórica de la calle
+5. Distancia del área de medición
+6.últimas imágenes satelitales
+
+World Satellite Map le permite ver cualquier lugar de la Tierra usando fotos tomadas desde satélites. La ventaja del mapa satelital mundial sobre otros mapas es que el mapa satelital le permite considerar la superficie del terreno, bosques, ríos, lagos, edificios, caminos con suficiente detalle con un alto grado de detalle. Con mapas satelitales, puede viajar por el mundo en línea sin dejar su teléfono.
+
+Del mapa satelital mundial.",2022-12-01T08:00:00Z,2025-11-19T17:59:45Z
+hn,Honduras,Navigation,6010,14,484527651,Île-de-France Mobilités,Ile de France Mobilites,https://apps.apple.com/hn/app/%C3%AEle-de-france-mobilit%C3%A9s/id484527651?uo=4,0.0,5,16,Navigation,"Île-de-France Mobilités vous accompagne au quotidien, achetez un titre dématérialisé, rechargez votre passe Navigo, recherchez un itinéraire pour les trains, RER, métros, tramways, bus, cars, vélos, Vélib’, en covoiturage, autopartage, cherchez un horaire en temps réel ou une info trafic... Retrouvez les outils et informations essentielles à l’organisation de vos déplacements en Île-de-France. Ensemble, voyageons en toute simplicité.
+
+Évitez les files d’attente en station : achetez vos titres de transport depuis votre iPhone !
+Il est possible d’acheter les titres suivants :
+
+- Tickets Métro-Train-RER ou Ticket Bus-tram
+- Titres Paris Région Aéroports (ce titre ne peut être acheté lorsqu’un Ticket Métro-Train RER est déjà chargé sur votre support (passe Navigo ou iPhone)
+- Forfaits Navigo jour (ce titre ne permet pas de se rendre aux aéroports), semaine ou mois
+- Titres spéciaux (Forfait antipollution, Forfaits Paris Visite etc.)
+- Titres Vélib’ journaliers
+
+Les titres achetés peuvent ensuite être (en fonction du parcours d’achat choisi) :
+
+- Stockés sur l’iPhone et validé directement en station (à partir de l’iPhone Xr et à partir d'iOS 17.5)
+- Chargés sur votre passe Navigo (à partir d’un iPhone 7, disposant au minimum de la version iOS 13. Les iPhones XR et XS sont compatibles à partir d’iOS 14.5)
+
+Pour les titres compatibles (Tickets Métro-Train-RER ou Ticket Bus-Tram, forfaits Navigo Jour, titres spéciaux) aucun compte n’est nécessaire, et vous pouvez payer directement avec Apple Pay !
+
+Vous pouvez préparer et planifier vos déplacements :
+
+- Retrouver les arrêts de bus, gares et stations de métro proches de vous
+- Rechercher en temps réel vos itinéraires en transports en commun, en covoiturage et vélo
+- Enregistrer vos trajets à venir sur l’agenda de votre téléphone
+- Consulter les prochains passages de vos lignes en temps réel et l’ensemble des fiches horaires
+- Visualiser les plans des réseaux de transport en commun (accessibles même hors connexion)
+- Suivre l’itinéraire piéton pour les tronçons de marche
+
+Soyez le premier informé et anticipez les perturbations :
+
+- Consulter le fil Twitter de vos lignes pour connaitre l’info trafic en temps réel
+- Être alerté en cas de perturbations sur vos lignes et trajets favoris
+- Rester informé sur l’état des ascenseurs dans les stations empruntées
+
+Personnalisez vos déplacements :
+
+- Enregistrer vos destinations (travail, domicile, salle de sport…), stations et gares en favoris
+- Personnaliser votre profil (marcheur rapide, avec difficultés, mobilité réduite…)
+- Sélectionner les lignes ou stations à éviter
+
+Privilégiez des modes de transport doux ou alternatif :
+
+- Réservez vos trajets en covoiturage et/ou en autopartage, en partenariat avec les principaux acteurs
+- Préférez les itinéraires à vélo proposés pour tous vos trajets
+- Louez une voiture ou un utilitaire pour une courte durée en choisissant un véhicule d'autopartage Communauto parmi un large choix de stations autour de vous et réservez-le sans délai pour la durée de votre choix.
+--
+Vous utilisez déjà l'application Île-de-France Mobilités et appréciez ses services ? Faites-le nous savoir avec 5 étoiles !
+Des bugs ou des remarques à nous faire remonter ? Aidez-nous à nous améliorer en nous envoyant vos suggestions depuis le formulaire de contact disponible via l'espace personnel.",2012-01-27T16:21:24Z,2025-11-17T08:30:26Z
+hn,Honduras,Navigation,6010,15,6737717786,Mapa Satelital - Vista Tierra,ANKAGIS YAZILIM ANONIM SIRKETI,https://apps.apple.com/hn/app/mapa-satelital-vista-tierra/id6737717786?uo=4,0.0,5,3,Navigation,"¡Descubre el mundo de una manera completamente nueva con Mapa Satelital - Vista Terrestre!
+Explora imágenes satelitales en 3D de alta definición, navega por mapas detallados y disfruta de vistas impresionantes de nuestro planeta. Ya sea que tengas curiosidad por países lejanos, estés planeando un viaje o simplemente explorando desde casa, esta aplicación es tu compañera ideal para descubrir las maravillas terrestres de la Tierra.
+
+Características principales:
+• Imágenes satelitales: Visualiza mapas satelitales en alta definición con detalles increíbles.
+• Vista Calle: Explora calles y vecindarios con panoramas inmersivos de 360 grados.
+• Mapas 3D y globo terrestre: Experimenta la Tierra en 3D con un globo interactivo y visualización de terrenos.
+• Atlas mundial: Accede a información geográfica sobre países, capitales y banderas.
+• Navegación en tiempo real: Encuentra tu ubicación y navega con soporte GPS preciso.
+• Vistas detalladas: Acércate para explorar paisajes, monumentos y edificios.
+• Cobertura global: Explora ciudades, continentes y áreas remotas alrededor del mundo.
+
+¿Por qué elegir Mapa Satelital - Vista Terrestre?
+• Ideal para viajes virtuales y exploraciones terrestres.
+• Descubre monumentos históricos, lugares famosos y maravillas naturales.
+• Útil como herramienta educativa para estudiantes y amantes de la geografía.
+• Navega fácilmente por las calles con el modo Vista Calle inmersivo.
+
+Ya sea que estés planeando tu próxima aventura, explorando lo desconocido o simplemente disfrutando de la belleza terrestre de la Tierra, Mapa Satelital - Vista Terrestre pone el mundo al alcance de tus manos.
+
+¡Descárgala ahora y comienza tu viaje por el mundo!
+
+Comience con funciones esenciales de forma gratuita. La suscripción premium desbloquea proveedores de mapas mejorados, fronteras interactivas de países con visualización de banderas y estilos de mapas adicionales. Para aprovechar al máximo fuentes de mapas mejoradas, funciones avanzadas y una experiencia sin anuncios, ¡suscríbase ahora!
+
+Su suscripción se renovará automáticamente para garantizar el acceso continuo a funciones premium. Puede gestionar sus preferencias de suscripción o desactivar la renovación automática en cualquier momento en la configuración de su cuenta.
+
+Política de privacidad: https://www.ankagis.com/satellitemap/privacy/
+Términos de uso: https://www.ankagis.com/satellitemap/tos/",2025-01-02T08:00:00Z,2025-11-09T17:55:42Z
+hn,Honduras,Navigation,6010,16,1610276914,GPS Live Navigation & Live Map,Erasoft,https://apps.apple.com/hn/app/gps-live-navigation-live-map/id1610276914?uo=4,0.0,0,0,Navigation,"GPS Live Navigation & FreeMaps with voice navigation, live map, traffic, offline Gps & direction. Map GPS navigation route directions location live car driving satellite view. Maps is provide Flyover and 3D maps's map service to replace the Google Maps application on iOS devices.
+
+Real-time GPS navigation & local suggestions for food, events, & activities. Control maps, media and messaging. iMaps can Save time on every drive. Sygic will provide you useful features: street view, offline+maps, gps tracker, location sharing, navigation maps, gps driving route and many more! GPS Maps tells you about directions, traffic, police, crashes & more.
+
+In Live GPS Navigation & Maps, You can find driving directions using GPS, Maps, Voice Navigation & Directions App also can check Live traffic updates, voice navigation, find location, weather & transit info. GPS maps can help Live traffic updates, voice navigation, find location, Gps live location, whether & transit info.
+
+Get there faster with real-time updates:
+• Maps - Navigate & Explore
+• Maps Auto - Google Maps, Media & Messaging
+• Navigation for Google Maps Go
+• GPS, Maps, Traffic Alerts & Live Navigation
+• GPS, Maps, Voice Navigation & Directions
+• GPS Live Navigation, Maps, Directions and Explore
+
+GPS Maps and Directions main features:
+• REAL-TIME MAPS
+• MAPS & LIVE NAVIGATION
+• TRAFFIC ALERTS
+• GPS TRACKER
+• NAVIGATION
+• STREETVIEW
+
+Why GPS Maps Navigation?
+• Find Path: Truck GPS & Maps
+• Transit is your real-time urban travel companion
+• Truck Stops & Weigh Stations
+• Maps - Transit & Food
+• MapQuest GPS Navigation & Maps
+
+GPS location is maps an online service that builds custom maps based on OpenStreetMap. Waze is a web mapping and navigation service with street view map, radar detector, satellite map.
+
+GPS Signals
+Get real-time GPS navigation and street view, traffic, and transit info, and find what you need by getting the latest information on businesses, including grocery stores, pharmacies and other important places using offline maps. My maps helps radars, speed-traps & traffic.
+
+Maps Customisation
+Waze navigation live traffic is the only offline map application that combines real-time alerts with the best speed camera detection system using GPS. Navigation & Live Traffic will helps avoid traffic, police, hazards and Navigation and hiking trails.
+
+By using Free GPS Navigation
+• Live online Maps
+• Directions and transit
+• Traffic conditions
+• Navigation
+• GPS
+• Street View
+• 45° imagery
+• Live earth map view
+• Indoor maps
+• Satellite maps
+• Google Local Guides
+• Map data and imagery
+• Windows Live Maps
+
+Subscription Details:
+
+- Payment will be charged to iTunes Account at confirmation of purchase.
+- Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of
+the current period.
+- Account will be charged for renewal within 24 hours before the end of the current period, and identify
+the renewal cost.
+- No cancellation of the current subscription is allowed during the active subscription period.
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a
+subscription to that publication, where applicable.
+
+Privacy Policy: - https://www.privacypolicycenter.com/view_custom.php?v=V1MrWkRTcHB2N2d4TXpvYndaUkNadz09&n=GPS-Live-Navigation-Privacy-Policy
+Terms and Condition: - https://www.privacypolicycenter.com/view_custom.php?v=MXVkUFpuUGF6ZFhRVWw3T0hqaHV2Zz09&n=GPS-Live-Navigation-Terms-
+EULA: - https://www.privacypolicycenter.com/view_custom.php?v=cGFibTdqRFI3eE1WMjZhaHhkRmxuZz09&n=End-User-License-Agreement-(EULA)-of-GPS-Live-Navigation",2022-02-17T08:00:00Z,2025-04-02T14:24:13Z
+hn,Honduras,Navigation,6010,17,6746847664,Velocímetro: Speed Radar Bot,菲 张,https://apps.apple.com/hn/app/veloc%C3%ADmetro-speed-radar-bot/id6746847664?uo=4,0.0,0,0,Navigation,"Speed ​​Radar Bot es una completa aplicación de medición de velocidad GPS diseñada para conducir, andar en bicicleta, correr y practicar deportes extremos. Ya sea para desplazamientos diarios, viajes de larga distancia o deportes al aire libre, te proporciona información precisa de la velocidad en tiempo real, registros de trayectos, recordatorios de límites de velocidad y otras prácticas funciones, convirtiéndola en un asistente inteligente en tus viajes.
+
+Funciones principales destacadas
+
+• Medición de velocidad precisa y en tiempo real
+Gracias a la tecnología GPS de alta precisión, muestra la velocidad actual, la velocidad media y la velocidad máxima en tiempo real, y permite cambiar libremente entre km/h y mph para satisfacer las necesidades de los usuarios en diferentes países.
+
+• Registro de trayectos y seguimiento de recorridos
+Registra automáticamente el recorrido de conducción, el kilometraje total, la velocidad media, la velocidad máxima y otra información, lo que facilita la revisión y el análisis de cada trayecto o ejercicio.
+
+• Compatibilidad con múltiples modos
+Compatible con coche, ciclismo, correr, todoterreno, esquí y otros modos, con cambio libre para satisfacer diversas necesidades de medición de velocidad.
+
+• Recordatorio inteligente de límite de velocidad
+Puedes establecer un límite de velocidad personalizado y emitir un recordatorio al superarlo, lo que te ayudará a desarrollar buenos hábitos de conducción y a garantizar la seguridad al volante.
+
+• Modo Imagen en Imagen (PiP)
+Tras activar la función Imagen en Imagen, puedes consultar la velocidad actual en tiempo real, incluso al usar otras aplicaciones, como la navegación o la reproducción de música. Es fácil de usar y no afecta a la experiencia de conducción.
+
+• Pantalla de visualización frontal HUD
+Proyectar la información de velocidad en el parabrisas hace que conducir de noche sea más seguro y tecnológico.
+
+• Monitoreo de pasos
+El radar de velocidad es ideal para viajes de montaña y aventuras al aire libre. También admite estadísticas de pasos en segundo plano para registrar cada uno de tus logros deportivos.
+
+¡Descarga el radar de velocidad ahora y comienza una experiencia de medición de velocidad profesional y segura!
+
+Política de privacidad: https://sites.google.com/view/speedometerplus-privacy-policy
+Términos: https://sites.google.com/view/speedometerplus",2025-06-17T07:00:00Z,2025-11-19T21:39:09Z
+hn,Honduras,Navigation,6010,18,498151501,Transit • Horarios Bus y Metro,9280-0366 Quebec inc.,https://apps.apple.com/hn/app/transit-horarios-bus-y-metro/id498151501?uo=4,0.0,4.7322,295,Navigation,"Transit es el compañero de viaje ideal para desplazamientos urbanos en tiempo real. Abre la aplicación para ver los próximos horarios de salida, seguir buses y trenes cerca de ti en el mapa y consultar el resto de horarios del transporte público. Usa el planificador de viajes para comparar itinerarios rápidamente en autobús, en bicicleta, en metro y muchos más. Recibe alertas sobre modificaciones e incidencias del servicio y retrasos en tus rutas favoritas, y guarda ubicaciones que uses con frecuencia para obtener indicaciones rápidamente.
+
+LO QUE DICEN DE NOSOTROS
+ “Te enseña la mejor ruta para llegar a donde quieres ir” - New York Times
+ “No te darás cuenta del tiempo que puedes ahorrar planificando hasta que uses esta aplicación” - LA Times
+ “Aplicación imprescindible” - Wall Street Journal
+ “MBTA tiene una aplicación de transporte público favorita; se llama Transit” - Boston Globe
+ “Una solución todo en uno” - Washington Post
+
+Y ESTO ES LO QUE DICEN LOS USUARIOS DEL TRANSPORTE PÚBLICO
+ “Su aplicación fue el factor decisivo para vender mi coche”.
+ “Google Maps no tiene nada que hacer contra ella”.
+ “El responsable de nuestra agencia de transporte local recomienda esta aplicación por encima de la que creó su propia agencia”.
+
+5 COSAS QUE TE GUSTARÁN DE TRANSIT
+
+1) LOS MEJORES DATOS EN TIEMPO REAL
+
+Al usar las mejores fuentes de datos de las agencias de transporte público y nuestro sofisticado motor de predicción de hora de llegada, podemos ofrecerte la información más precisa posible en tiempo real para todos los tipos de transporte público: autobuses o colectivo, metro o subterráneo, trenes, tranvías, ferris, servicios de transporte compartido y otros. ¿Prefieres viajar con dos ruedas? Con el GPS, puedes ver en un mapa dónde hay bicicletas y patinetes disponibles en tiempo real.
+
+2) VIAJES SIN CONEXÍON
+
+No necesitas estar conectado para ver horarios de autobuses, ubicaciones de paradas, mapas de metro e incluso usar nuestro planificador de viajes.
+
+3) PLANIFCACIÓN AVANZADA DE VIAJES
+
+Visualiza trayectos rápidos y fáciles que integran buses, metros y trenes: la aplicación incluso sugiere rutas que combinan distintas opciones para completar un viaje, como autobús + bici o scooter + metro. ¡Descubrirás opciones de viaje que ni se te pasaban por la cabeza! ¿Prefieres no tener que caminar mucho o evitar algún medio de transporte o agencia? No hay problema, puedes configurar esas y otras opciones de viaje en los ajustes.
+
+4) INSTRUCCIONES DE NAVEGACIÓN PASO A PASO CON GO*
+
+Recibe avisos de salidas inminentes para no perder tu colectivo o tren, así como alertas cuando sea hora de bajarte o de hacer un trasbordo. Al usar GO, también ayudarás a mejorar la precisión de la información y las llegadas en tiempo real a las que tendrán acceso otros pasajeros, acumulando puntos y agradecimientos por ser uno de los pasajeros más útiles en tu ruta.
+
+5) INFORMES DE USUARIOS
+
+¡Entérate de lo que otros usuarios opinan! Gracias a los millones de usuarios que colaboran en la aplicación, recibirás información útil sobre niveles de afluencia, puntualidad, las salidas de metro más cercanas y muchos datos más.
+
+*Nota: el uso continuo del GPS en segundo plano puede disminuir la vida útil de la batería.
+
+MÁS DE 900 CIUDADES, INCLUIDAS:
+
+Barcelona, Buenos Aires, Ciudad de México, Los Angeles, Madrid, Nueva York, San Francisco, Santiago, Tenerife, Washington D.C., Valencia
+
+MÁS DE 1000+ AGENCIAS DE TRANSPORTE PÚBLICO, INCLUIDAS:
+
+AC Transit, AMB, DC Metro (WMATA), EMT - Madrid, EMT - Valencia, FGC, LA Metro, Metro - Madrid, Metrobús, Metrovías, Metros Ligeros - Madrid, NYC MTA, Red (Santiago), RTP, SEMOVI, SF BART, SF MUNI, STC (Metro), STE (Trolébus & Tren Ligero), TMB, Trenes Argentinos
+
+VER TODAS LAS CIUDADES Y PAÍSES COMPATIBLES: TRANSITAPP.COM/REGION
+
+**¿Preguntas o comentarios? Consulta nuestras páginas de ayuda: help.transitapp.com, envíanos un correo electrónico: info@transitapp.com, o búscanos en X: @transitapp**",2012-06-22T00:29:13Z,2025-11-18T14:15:54Z
+hn,Honduras,Navigation,6010,19,469463298,Citymapper,Citymapper Limited,https://apps.apple.com/hn/app/citymapper/id469463298?uo=4,0.0,4.88346,266,Navigation,"La ciudad es tuya, ¡Citymapper la cuida! ¡Toma peseros sin preguntar tu camino! ¿Cuánto cuesta el micro hasta Toreo?
+¡La solución está aquí! ¡La mejor app para moverse por el DF en TRANSPORTE PÚBLICO!
+
+Utilizamos datos abiertos del gobierno, operadores de transporte, rutas de usuarios y otras fuentes: Metro, Metrobús, Pesero / Microbús, Ecobici, Uber, Mexibús, Pumabús, Trolebús & Tren Ligero (STE), Camiones RTP, Suburbano.
+
+* Ganadora del Gran Premio, Mejor Startup de Transporte y Mejor Startup Mobile - Premios Europas 2015
+* Finalista en la clasificación de Apple de 2013 
+* Mejor Aplicación Móvil Global 2014 (GSMA / Mobile World Congress) 
+* App / Web móvil ganadores del Premio Grand Winner MT App Quest 2013 (Nueva York) 
+* Premio al Mejor Diseño de 2014 del Museo de Diseño de Londres 
+* Aplicación del año para la revista Stuff
+
+“Aplicaciones para encontrar rutas dentro de una gran ciudad hay muchas, pero pocas con tantas opciones como Citymapper” - Genbeta
+
+Citymapper funciona en México DF, São Paulo, Madrid, Barcelona, Lisboa, Londres, Manchester, Birmingham, París, Lyon, Bruselas, Ámsterdam, Berlín, Hamburgo, Milán, Roma, Estocolmo, Copenhague, Moscú, San Petersburgo, Nueva York, Los Angeles, San Francisco, Chicago, Boston, Washington DC, Baltimore, Seattle, Philadelphia, Toronto, Vancouver, Montreal, Sydney, Melbourne, Seúl, Singapur, Hong Kong, Tokio (¡y pronto en más ciudades!). 
+
+Citymapper hace fáciles las ciudades más difíciles: es la app esencial para moverse en el entorno urbano. Busca cómo ir de punto A a punto B y mostrará toda la información de transporte necesaria para que llegues a tu destino. Planifica tus rutas, recibe información en tiempo real sobre llegadas, salidas, interrupciones de servicio y clima. Pide un Uber desde la app (gracias a la integración con Uber) y personalízala: guarda las paradas que más uses, tus trayectos y sitios y consúltalos también en la web. Todo lo necesario - y más - para orientar y organizar la vida en la ciudad.
+
+Actualizamos y mejoramos la app con frecuencia (y lo seguiremos haciendo hasta que sea la mejor de tu teléfono). 
+
+MILES DE RESEÑAS 5 ESTRELLAS
+* “La app más útil que tengo en mi teléfono.”
+* “Razón suficiente para comprarse un iPhone.”
+* “Te cambia la vida y la forma en la que viajas.”
+* “Nunca pensé que llegaría a querer tanto a una aplicación.”
+* “La mejor app que he usado. Jamás.”
+* ""Desde hace años existen en otros países, ya necesitábamos una en la Ciudad de México. Súper padre la aplicación.""
+* “Por fin una aplicación sencilla que tiene en cuenta todos los tipos de transporte.”
+* “Si sólo pudiera tener una app en mi teléfono, sería Citymapper.”
+* ""Súper recomendable y útil para poder mover en el transporte en la Ciudad de México.""
+* “Rápida, fiable y fácil de usar. Todo lo que necesitas.”
+* “Es un no-puedo-vivir-sin-esta-app. Nunca había escrito una reseña antes, pero ha cambiado literalmente mi vida.”
+* “Wow. La mejor app para moverse por Londres. Ojalá la hubiera descubierto antes. Díselo a tus amigos, a tu familia. Llama a tus ex y díselo también. Cuéntaselo a todo el mundo. Es muy buena.”
+* “Probablemente, la app más innovadora que he usado en los últimos 5 o 6 años.”
+
+ESTAMOS EN CONTACTO
+Si tienes preguntas o sugerencia, por favor mandanos un correo a support@citymapper.com
+Síguenos en Twitter: http://twitter.com/Citymapper
+Síguenos en Google+: http://google.com/+Citymapper
+Visita nuestra web: http://citymapper.com/DF
+
+Citymapper necesita conexión (wifi o 3G) y funciona mejor con la geolocalización / el GPS activado. El uso continuo del GPS en segundo plano puede disminuir bastante la duración de la batería. El GPS en segundo plano sólo se usa cuando la app está en modo ‘IR’.",2011-10-18T03:47:18Z,2025-11-07T14:37:50Z
+hn,Honduras,Navigation,6010,20,1351828788,Medidor de Velocidad GPS,"BITHAUS.TECH, UNIPESSOAL LDA",https://apps.apple.com/hn/app/medidor-de-velocidad-gps/id1351828788?uo=4,0.0,4.63636,22,Navigation,"Convierte tu dispositivo en un velocímetro GPS y compañero inteligente de viaje. Ya sea manejando, andando en bici, navegando o caminando, registra cada detalle de tu trayecto con estilo.
+
+VELOCIDAD Y NAVEGACIÓN:
+- Seguimiento de velocidad GPS en MPH, KM/H o nudos
+- Computadora de viaje en tiempo real: velocidad, distancia, altitud, rumbo, duración
+- Seguimiento de posición en vivo con mapa interactivo
+- Grabación de viajes con mapeo detallado de rutas
+- Guarda y revisa tus viajes cuando quieras
+
+MODOS DE PANTALLA INTELIGENTES:
+Pantalla de Proyección Frontal (HUD):
+- Refleja tu velocidad en el parabrisas
+- Muestra estadísticas importantes mientras manejas
+- Perfecto para uso nocturno con brillo automático
+
+Modo Imagen en Imagen (PRO):
+- Velocímetro flotante superpuesto funciona con cualquier app
+- Monitorea tu velocidad mientras usas apps de navegación o música
+- Completamente redimensionable y reposicionable
+
+ALERTAS INTELIGENTES:
+Detección de Límites de Velocidad (PRO):
+- Reconocimiento automático del límite de velocidad de tu carretera actual
+- Alertas inteligentes al acercarte o rebasar los límites
+- Cobertura mundial con tecnología de inferencia inteligente
+- Umbrales de advertencia personalizables y sonidos de notificación
+
+Seguimiento de Rendimiento:
+- Análisis de fuerzas G para aceleración y frenado
+- Seguimiento mejorado de altitud con sensores de presión
+- Análisis del tiempo en movimiento vs. detenido
+- Cálculos de velocidad máxima y promedio
+
+INTEGRACIÓN DE ENTRETENIMIENTO:
+- Controles y visualización de Apple Music integrados
+- Información de canción actual sin cambiar de app
+- Reproducción musical fluida durante tus viajes
+
+OPCIONES DE PERSONALIZACIÓN:
+- Múltiples temas de colores para adaptarse a tu estilo
+- Sistema de unidades flexible: KM/H, MPH o nudos náuticos
+- Varios diseños y orientaciones de pantalla
+- Soporte para modo oscuro y brillo automático
+- Escalas y rangos de velocímetro ajustables
+- Posicionamiento de velocímetro para zurdos o diestros
+- Vertical y horizontal con bloqueo de rotación
+
+CARACTERÍSTICAS DE SUSCRIPCIÓN PRO:
+- Grabación y almacenamiento ilimitado de viajes
+- Exportación GPX para compartir y respaldo
+- Detección de límites de velocidad basada en carreteras con alertas
+- Velocímetro flotante Imagen en Imagen
+- Pronósticos del clima y condiciones actuales
+- Temas de colores premium e iconos de app personalizados
+- Análisis de rendimiento avanzados
+
+CARACTERÍSTICAS GRATUITAS:
+- Velocímetro básico y computadora de viaje básica
+- Modo HUD estándar
+- Vista de mapa con seguimiento de posición
+- Almacenamiento limitado de viajes
+- Opciones de personalización básicas
+
+DETALLES DE SUSCRIPCIÓN:
+- Descarga gratuita con características básicas siempre disponibles
+- Suscripción PRO opcional para capacidades premium
+- Cancela cuando quieras a través de configuración de cuenta de App Store
+- El pago se carga al Apple ID al confirmar la compra
+- Renovación automática a menos que se cancele 24 horas antes del fin del período
+- Administra suscripciones a través de tu cuenta de App Store
+
+REQUISITOS IMPORTANTES:
+- Servicios de GPS/Ubicación requeridos para seguimiento de velocidad
+- No compatible con modelos de iPad solo WiFi
+- La precisión del GPS depende de la fuerza de señal y el entorno
+- Mejor rendimiento en áreas abiertas con vista clara del cielo
+- El uso continuo de GPS afecta la duración de la batería
+- ¡Nunca manejes el dispositivo mientras conduces - la seguridad es primero!
+
+Califica y Reseña:
+Tu opinión nos ayuda a mejorar y desarrollar nuevas características.
+¡Comparte tu experiencia en la App Store!
+
+Términos de Uso: https://joaosilveira.me/terms-of-use/",2018-10-10T14:26:19Z,2025-11-12T23:17:12Z
+hn,Honduras,Navigation,6010,21,1316528643,YMG(Yiwu Market Guide),孝锋 杨,https://apps.apple.com/hn/app/ymg-yiwu-market-guide/id1316528643?uo=4,0.0,0,0,Navigation,"#1 Built-in GPS directs your live location all the time. You won’t get lost.
+
+#2 Market map shows you where your products are located. You know where to go. 
+
+#3 A built-in tool helps you communicate, record, and share your interested products with efficiency. You can even place your orders right within the app, then export by Excel or PDF and share with anyone else easily. You  take control of your purchase.
+
+#4 Professional build-in live chat staff plus  emergency hotline help you whenever needed. You are always in safe hands.
+
+All FREE!",2017-11-27T22:13:10Z,2024-09-29T05:40:57Z
+hn,Honduras,Navigation,6010,22,6501647089,Locato: Localizador GPS,REIDXSOFT YAZILIM TICARET LIMITED SIRKETI,https://apps.apple.com/hn/app/locato-localizador-gps/id6501647089?uo=4,0.0,3.66667,6,Navigation,"Localizador Celular GPS: El mejor localizador celular que permite rastrear dispositivos usando números de teléfono con una precisión impecable. Con Localizador Celular GPS, el proceso de rastrear celular se transforma en una experiencia sencilla y confiable.
+
+¿Necesitas rastrear un celular usando simplemente un número? ¡Nuestro sistema está diseñado para ello! Con solo ingresar un número de teléfono, nuestro localizador celular realiza la tarea en segundos.
+
+Características Principales:
+Localización por Número: Con nuestro localizador celular, simplemente introduce el número de teléfono y obten la ubicación exacta del dispositivo en cuestión.
+Rastrear Celular con Precisión: Ya sea por GPS o mediante el número, te ofrecemos resultados precisos siempre.
+Actualizaciones Rápidas: No esperes para saber dónde están tus seres queridos. Recibe actualizaciones inmediatas con nuestro sistema.
+Historial Detallado: Utiliza nuestro localizador celular para acceder a un historial completo de ubicaciones.
+Estado de Batería: Asegura el bienestar de tus seres queridos conociendo el nivel de batería de su dispositivo mientras usas nuestro servicio para rastrear celular.
+
+Beneficios Únicos:
+- Funcionamiento 24/7: Nuestro localizador celular no descansa, garantizando información cuando la necesites.
+- Privacidad Garantizada: A pesar de la potencia para rastrear celular, priorizamos tu privacidad y seguridad.
+- Soporte en Varios Idiomas: Para que puedas rastrear celular en cualquier parte del mundo.
+
+Sin Costos Escondidos: Disfruta de la capacidad de rastrear celular sin preocupaciones de cargos adicionales.
+
+Instrucciones de Uso:
+
+Descarga Localizador Celular GPS.
+Ingresa el número que deseas rastrear.
+Recibe información precisa al instante.
+
+Con Localizador Celular GPS, tienes el poder de la tecnología de rastreo al alcance de tu mano. Únete a miles de usuarios satisfechos y mantente siempre conectado.",2024-06-28T07:00:00Z,2025-02-15T21:56:30Z
+hn,Honduras,Navigation,6010,23,6742807606,Velocímetro GPS: Speedometer,"Changsha Duyou Network Technology Co., Ltd",https://apps.apple.com/hn/app/veloc%C3%ADmetro-gps-speedometer/id6742807606?uo=4,0.0,0,0,Navigation,"Velocímetro GPS: Speed ​​Monitor es un velocímetro GPS de alta precisión que integra monitoreo de velocidad, registro de viajes, pantalla HUD, recordatorio de exceso de velocidad y otras funciones. Ofrece seguimiento de velocidad preciso en tiempo real y asistencia de navegación para conductores, ciclistas, corredores y exploradores. Ya sea para desplazamientos diarios, viajes de larga distancia o carreras, ¡esta app de velocímetro es la opción ideal!
+
+Funciones principales
+
+Medición precisa de la velocidad GPS
+
+Gracias a la tecnología GPS de alta precisión, muestra la velocidad actual, la velocidad promedio y la velocidad máxima en tiempo real para garantizar una medición precisa de la velocidad. Permite alternar entre kilómetros por hora (km/h) y millas por hora (mph).
+
+Alarma inteligente de exceso de velocidad
+
+Establezca un límite de velocidad personalizado. Al exceder la velocidad, la aplicación emitirá una alarma para recordarle, previniendo eficazmente el exceso de velocidad y ayudándole a conducir con seguridad.
+
+Modo de visualización frontal HUD
+
+Después de activar el modo HUD, coloque el teléfono debajo del parabrisas para proyectar la información de velocidad, lo que aumenta la seguridad al conducir de noche.
+
+Registro de datos de conducción
+
+Registra automáticamente datos detallados como tiempo de viaje, distancia recorrida, tiempo de permanencia, altitud, etc. Esto le permite consultar fácilmente el historial de viajes o compartirlo.
+
+Mapa integrado
+
+El mapa integrado muestra la ubicación actual en tiempo real y traza la trayectoria de conducción para evitar pérdidas.
+
+Modo Imagen en Imagen (PiP)
+
+Active el modo Imagen en Imagen (PiP) para ver la información de velocidad en tiempo real mientras usa otras aplicaciones.
+Ideal para escenarios como navegación y reproducción de música, de modo que la medición de velocidad no afecte a otras operaciones.
+El tamaño y la posición de la ventana se pueden ajustar para garantizar la mejor experiencia visual al conducir.
+
+Altímetro y medición de altitud
+
+Función integrada de medición de altitud precisa, monitorización en tiempo real de la altitud actual, ideal para conducción en montaña, ciclismo y aventuras al aire libre.
+
+El velocímetro te ayuda a conducir con seguridad, medir la velocidad con precisión y evitar multas. ¡Descárgalo ahora y disfruta de un servicio profesional de medición de velocidad!
+
+Funciones gratuitas:
+
+Las siguientes funciones principales están disponibles sin suscripción:
+
+Medición de velocidad en tiempo real
+
+Estadísticas de kilometraje restante
+
+Establecer límite de velocidad máxima
+
+Funciones de suscripción (funciones premium):
+
+Desbloquea la experiencia completa y obtén acceso mediante suscripción:
+
+Modo Head-up Display (HUD)
+
+Modo Imagen en imagen (PIP)
+
+Integración de navegación con mapas
+
+Registro de datos de conducción y estadísticas
+
+Cambiar el estilo del panel de velocidad
+
+Condiciones de renovación automática
+
+Las suscripciones se cargarán a tu cuenta de iTunes. El pago se cargará a la cuenta inmediatamente después de confirmar la compra. Las suscripciones se renovarán automáticamente a menos que se cancelen al menos 24 horas antes del final del período de suscripción actual. El cargo por la renovación se realizará en la cuenta dentro de las 24 horas anteriores al final del período actual y se determinará el importe de la renovación. Los usuarios pueden gestionar o cancelar sus suscripciones en ""Ajustes"" > ""ID de Apple"" > ""Suscripciones"". Una vez finalizada la prueba gratuita (si la hubiera), el sistema iniciará automáticamente la suscripción según el plan seleccionado, a menos que se cancele con antelación.
+
+Política de privacidad: https://sites.google.com/view/duyou-privacy-policy
+Términos: https://sites.google.com/view/duyou-terms",2025-03-07T08:00:00Z,2025-11-08T18:58:14Z
+hn,Honduras,Navigation,6010,24,1212137522,MAPAS: Mapas 3D GPS y Vista en,SOAD HAMADEH,https://apps.apple.com/hn/app/mapas-mapas-3d-gps-y-vista-en/id1212137522?uo=4,0.0,4.64286,14,Navigation,"◉ ¡Explora el mundo como nunca antes con MAPAS: Earth Live Street Maps! Esta poderosa aplicación transforma tu dispositivo en una ventana virtual al mundo, utilizando lo último en vista de calles en vivo, integración con Google Maps e imágenes en 3D. Descubre nuevos lugares, navega con facilidad y mantente actualizado con nuestras funciones mejoradas. Pasea por los lugares más famosos del mundo desde la comodidad de tu hogar.
+
+Características Principales:
+
+— Vista de Calle en Vivo:
+
+Disfruta de vistas en tiempo real de calles y monumentos de todo el mundo
+Cambia fácilmente entre ubicaciones y explora lugares famosos con una claridad impresionante
+Aprovecha los extensos datos de vista de calles de Google para una experiencia inmersiva
+Disfruta de paseos en vivo por cualquier lugar del mundo
+— Integración Mejorada con Google Maps:
+
+Navega con precisión utilizando los datos más recientes de Google Maps
+Accede a mapas detallados con múltiples opciones de vista, incluyendo satélite, calle y terreno
+Encuentra tu ubicación actual y obtén direcciones sin esfuerzo
+— Integración de Mapas de Calles en Vivo:
+
+Ve imágenes a nivel de calle aportadas por usuarios para una vista completa de varios lugares
+Benefíciate de la base de datos en constante actualización de Mapillary para vistas frescas y precisas
+— Imágenes de la Tierra en 3D:
+
+Sumérgete en un mundo 3D con imágenes detalladas de la tierra
+Acércate, desplázate y rota para explorar edificios y paisajes desde cualquier ángulo
+Perfecto para tours virtuales y propósitos educativos
+— Funciones Interactivas:
+
+Captura y comparte capturas de pantalla de tus lugares favoritos
+Añade lugares a tus favoritos para un acceso rápido
+Usa la brújula integrada para mejor orientación y navegación
+— Interfaz de Usuario Amigable:
+
+Disfruta de un diseño elegante e intuitivo que hace que la exploración sea fácil y divertida
+Accede rápidamente a las funciones esenciales con un menú simplificado
+— Mejoras Adicionales:
+
+Opciones de compra dentro de la aplicación para eliminar anuncios y desbloquear contenido premium
+Notificaciones push para mantenerte actualizado sobre nuevas funciones y contenido
+Rendimiento mejorado y tiempos de carga reducidos para una experiencia más fluida
+— Detalles de la Suscripción:
+Planes de suscripción mensual y de por vida disponibles
+
+Las suscripciones se cargarán a tu cuenta de iTunes al confirmar la compra
+Tu suscripción se renovará automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual
+Puedes gestionar tu suscripción y desactivar la renovación automática yendo a la Configuración de tu Cuenta después de la compra
+◉ Explora la Tierra con MAPAS y descubre el mundo desde la comodidad de tu hogar. ¡Descárgalo ahora y comienza tu viaje virtual hoy mismo!",2017-03-17T01:12:41Z,2025-09-22T22:41:55Z
+hn,Honduras,Navigation,6010,25,6738186587,Marine Traffic: Ship Tracker,ISRAFIL YIGIT,https://apps.apple.com/hn/app/marine-traffic-ship-tracker/id6738186587?uo=4,0.0,0,0,Navigation,"Marine Traffic: Ship Tracker is the world's most powerful real-time vessel tracking app, putting global maritime data at your fingertips! Track ships, yachts, and port activity worldwide with live maps, detailed vessel information (including type, speed, destination), and AIS data from coastal stations and satellites. Whether you're monitoring cargo shipments, following cruise liners, or checking local harbor activity, Marine Traffic delivers accurate, up-to-the-minute positioning for over 500,000 vessels daily.
+
+Perfect for maritime professionals, shipping enthusiasts, and curious explorers, the app features port schedules, weather overlays, photo sharing, and customizable alerts. See what ships are near your location right now or track vessels anywhere on Earth with our comprehensive database.
+
+Unique Features:
+- Get weather forecasts for the best yachting
+- Monitor marine navigation routes in the app
+- View departure and destination information
+- Identify active boats that are sailing nearby
+- Share boat information with friends and family
+- Get detailed vessel information and position
+
+Please note: There are no free features available; a subscription is required to access all content and tools.Please keep in mind that the app does not offer any free content. To access all features and content, a subscription is necessary.
+
+Subscription Information:
+MarineScope: Vessel Tracker Sub: $10.99/ 7 days
+Payment will be charged to your iTunes account upon confirmation of your purchase.
+Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+You will be charged for the renewal within 24 hours before the current period expires.
+To manage your subscriptions or disable auto-renew, go to your Account Settings after purchasing.
+If you upgrade to a premium subscription after a free trial, any unused trial period will be forfeited.
+
+For more information, please see our privacy policy and terms of service:
+
+- Privacy Policy: https://docs.google.com/document/d/1fD3vwdu-cR1cJHDTv-iZrnhTjPHu9GaHY5ZnndsrLTo/edit?usp=sharing
+- Terms of Use: https://docs.google.com/document/d/1MjZq78G7MbkjzBJL1qbdlc_3vaKM-JsMz8rDgxQXwUY/edit?usp=sharing",2025-05-05T07:00:00Z,2025-08-22T06:46:09Z

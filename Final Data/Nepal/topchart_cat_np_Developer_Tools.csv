@@ -1,0 +1,384 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+np,Nepal,Developer Tools,6026,1,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/np/app/expo-go/id982107779?uo=4,0.0,4.72222,36,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+np,Nepal,Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/np/app/github/id1477376905?uo=4,0.0,4.74627,67,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+np,Nepal,Developer Tools,6026,3,899247664,TestFlight,Apple Services Pte. Ltd.,https://apps.apple.com/np/app/testflight/id899247664?uo=4,0.0,4.59722,1800,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+np,Nepal,Developer Tools,6026,4,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/np/app/scriptable/id1405459188?uo=4,0.0,4.6875,64,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+np,Nepal,Developer Tools,6026,5,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/np/app/o-kam-pro/id1602054864?uo=4,0.0,4.77778,9,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-11-24T09:35:35Z
+np,Nepal,Developer Tools,6026,6,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/np/app/ish-shell/id1436902243?uo=4,0.0,4,1,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+np,Nepal,Developer Tools,6026,7,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/np/app/ipa-installer/id6748286191?uo=4,0.0,1,1,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+np,Nepal,Developer Tools,6026,8,640199958,Apple Developer,Apple Services Pte. Ltd.,https://apps.apple.com/np/app/apple-developer/id640199958?uo=4,0.0,4.44444,9,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+np,Nepal,Developer Tools,6026,9,1661004679,WebView - Tester,Tommy Gaessler,https://apps.apple.com/np/app/webview-tester/id1661004679?uo=4,0.0,0,0,Developer Tools,"Easily test webpages in a Safari or WebKit WebView. Save time by not having to spin up your own iOS WebView environment to test your webpage's functionality in a WebView.
+
+This app has camera and microphone permission support, which is useful for testing the Zoom Video SDK and Zoom Meeting SDK embedded in a WebView.",2022-12-22T08:00:00Z,2024-08-18T12:48:28Z
+np,Nepal,Developer Tools,6026,10,6751247034,Anything - AI App Builder,"Create, Incorporated",https://apps.apple.com/np/app/anything-ai-app-builder/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+np,Nepal,Developer Tools,6026,11,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/np/app/termux/id6738933789?uo=4,0.0,4.83333,6,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+np,Nepal,Developer Tools,6026,12,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/np/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.42424,33,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+np,Nepal,Developer Tools,6026,13,1234793120,App Store Connect,Apple Services Pte. Ltd.,https://apps.apple.com/np/app/app-store-connect/id1234793120?uo=4,0.0,4.53125,32,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+np,Nepal,Developer Tools,6026,14,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/np/app/rork/id6746410361?uo=4,0.0,0,0,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+np,Nepal,Developer Tools,6026,15,1614646280,reduce image size - resizer,Sounak Sarkar,https://apps.apple.com/np/app/reduce-image-size-resizer/id1614646280?uo=4,0.0,4.53571,28,Developer Tools,"Image Resizer & Compressor is a powerful and user-friendly mobile application designed to simplify the process of resizing and compressing images on the go. Whether you're a professional photographer, social media enthusiast, or simply someone who wants to optimize their image files for various purposes, this app is your go-to solution.
+
+Features:
+
+Image Resizing: Easily resize your images to specific dimensions or choose from various preset sizes suitable for social media platforms like Instagram, Facebook, Twitter, and more. Maintain the aspect ratio while resizing to ensure your images look perfect.
+
+Image Compression: Reduce the file size of your images without compromising on quality. The app employs advanced algorithms to compress images while preserving essential details, so you can save storage space on your device or share images faster online.
+
+Video Resizing: Resize videos to specific dimensions and share on different social media platforms.
+
+Video Compressor: Compress videos in bulk and save device space.
+
+Image converter: Change image format easily using this app.
+
+Batch Processing: Save time and effort by resizing and compressing multiple images at once. The app's batch processing feature allows you to apply the same settings to a group of images, making it perfect for handling large photo collections.
+
+Customizable Settings: Tailor the compression level and image size according to your needs. The app offers various compression options, allowing you to strike the right balance between image quality and file size.
+
+Intuitive Interface: The app boasts a user-friendly interface, making it easy for both beginners and professionals to navigate and utilise its powerful features effectively.
+
+Share and Save: After resizing and compressing your images, conveniently save them to your device or share them directly to your favourite social media platforms or messaging apps.
+
+Image Format Support: Image Resizer & Compressor supports various popular image formats, including JPG, PNG, GIF, and more, ensuring compatibility with a wide range of devices and platforms.
+
+Secure and Private: Your images are processed locally on your device, ensuring your privacy and data security. The app does not store or transmit your images to any external servers.
+
+Whether you want to optimize images for online sharing, create stunning social media posts, or manage your photo gallery more efficiently, Image Resizer & Compressor provides a comprehensive solution with its quick and easy image resizing and compression capabilities. Download the app now and take control of your image files with ease!
+
+
+Our App can be used for free with Ads and limited features, however, you can purchase a Image Resizer Premium subscription for the additional advanced features, and remove Ads.
+
+SUBSCRIPTION AND TERMS:
+
+When you download our App you can opt in to a 3 days free trial for monthly and 7 days free trial for yearly subscription. Our App offers auto-renewing monthly/yearly subscription options for access to the app's features and content. Your Image Resizer Premium subscription will automatically renew at the end of each term and payment will be charged through your iTunes account. You can turn off auto-renew at any time from your iTunes account settings but refunds will not be provided for any unused portion of the term. To avoid renewal, you must cancel at least 24 hours before your subscription or trial ends. Your account will be charged for renewal within 24 hours prior to the end of the current period. Any unused portion of a free trial period will be forfeited if you purchase a subscription.
+
+SUBSCRIPTION PRICING:
+
+Premium Monthly: $0.99 / Month (3 days free trial)
+Premium Yearly: $5.99 / Year (7 days free trial)
+
+Read more about our terms, conditions, and privacy here:
+
+• Privacy Policy: https://www.racersoft.in
+• Terms of Use: https://racersoft.in/terms-of-use/",2022-03-18T07:00:00Z,2025-08-07T21:15:21Z
+np,Nepal,Developer Tools,6026,16,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/np/app/bluetooth-terminal/id1058693037?uo=4,0.0,0,0,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+np,Nepal,Developer Tools,6026,17,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/np/app/resolutioner/id1563852783?uo=4,0.0,4.2069,29,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z
+np,Nepal,Developer Tools,6026,18,6753763875,Vip Proxy Server,Moad Slimani,https://apps.apple.com/np/app/vip-proxy-server/id6753763875?uo=4,0.0,4.88889,9,Developer Tools,"welcome to FF Vip Proxy Server
+FF Vip Proxy Server is an app for all users, all Vip Proxy Server tools for devs and modules saver free.",2025-10-09T07:00:00Z,2025-10-10T00:26:05Z
+np,Nepal,Developer Tools,6026,19,6739161698,QuackBASIC: Code in BASIC,Ammonite Design Studios Ltd,https://apps.apple.com/np/app/quackbasic-code-in-basic/id6739161698?uo=4,0.0,0,0,Developer Tools,"Learn, Code, and Relive the Golden Era of Programming!
+Bring the nostalgic experience of BASIC programming to your fingertips with this powerful yet easy-to-use BASIC interpreter! Whether you're a beginner diving into the fundamentals of programming or a seasoned developer looking for a nostalgic trip down memory lane, QuackBASIC is the perfect playground for all coding enthusiasts.
+•  Write and Execute Code On-the-Go: Type, run, and debug BASIC programs directly on your device with a sleek and intuitive interface.
+•  Full Language Support: Includes essential commands like PRINT, GOTO, INPUT, and advanced constructs like CASE OF, loops (FOR, DO, WHILE), and mathematical functions (SIN, COS, TAN, etc.).
+•  Interactive Library: Browse through built-in functions with detailed explanations and load example programs to get started quickly.
+•  Preloaded Examples: Explore classic programming examples like Hangman, Fibonacci, Prime Numbers, and more, to learn by example or inspire your own creations.
+•  Retro-Inspired Design: Relive the charm of classic BASIC editors with a clean, minimalist, and functional design.
+•  Save & Load Projects: Save your progress and load your favourite .BAS programs with ease. Share your creations with the community!
+•  Customisable Settings: Tweak the interface to your liking with handy configuration options.
+
+BASIC (Beginners' All-purpose Symbolic Instruction Code) is a high-level programming language designed for ease of use & learning.",2024-12-09T08:00:00Z,2025-01-03T19:51:14Z
+np,Nepal,Developer Tools,6026,20,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/np/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.14286,7,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+np,Nepal,Developer Tools,6026,21,1584825745,Web Inspector,And a Dinosaur,https://apps.apple.com/np/app/web-inspector/id1584825745?uo=4,0.0,0,0,Developer Tools,"### Please refresh the page if you tap the ""i"" button and nothing happens ###
+
+Web Inspector expands Mobile Safari with a set of web development tools:
+
+DOM: View, inspect, edit, and search the elements that make up the DOM of a webpage.
+
+Elements: See the details about the webpage’s nodes and styles.
+
+Console: Type JavaScript commands in the console to debug, modify, and get information about your webpage. You can also see logs, errors, and warnings emitted from a webpage.
+
+Network: See a detailed list of network requests and responses made from a webpage.
+
+Resource: Find details about the data stored by a webpage such as cookies, local storage, and session storage.",2021-09-16T07:00:00Z,2024-10-06T11:34:52Z
+np,Nepal,Developer Tools,6026,22,1601434613,Store Redirect,翔 何,https://apps.apple.com/np/app/store-redirect/id1601434613?uo=4,0.0,4.5,2,Developer Tools,"Store Redirect helps developers to view their apps in multiple countries and regions. 
+Developers can easily query ranks, reviews, featured app, stories and more.
+By checking the apps in each countries and regions, developers can better localize apps.",2022-01-12T08:00:00Z,2022-02-23T16:01:14Z
+np,Nepal,Developer Tools,6026,23,1673080794,Sparrow sms,Roshan Sah,https://apps.apple.com/np/app/sparrow-sms/id1673080794?uo=4,0.0,0,0,Developer Tools,"Try sending sms in Nepal just using sparrow sms API. 
+Note: please buy an API token and add it to this app.
+
+Developers can be guided to purchase tokens. You can utilize this app to send SMS and preview token details. You can also see great documentation for implementing in your own app.",2023-05-06T07:00:00Z,2023-05-13T12:58:47Z
+np,Nepal,Developer Tools,6026,24,1522630336,HTTPS Traffic,GLOBAL CONCEPT NETWORKING LTD.,https://apps.apple.com/np/app/https-traffic/id1522630336?uo=4,0.0,0,0,Developer Tools,"A modern network traffic capture and debugging tool with simple configuration and a clean interface.
+Used by developers to analyze and debug web requests, such as viewing cookies, interface return JSON and HTML content. etc. This application stores the content of all web requests locally and does not upload any user related data.
+
+Supports the following features:
+
+1. Support for HTTP/HTTPS/WebSocket and WSS traffic acquisition
+
+2. Automatically save records to local
+
+3. Support for custom filter conditions, multiple ways to view the request content
+
+4. Support for exporting response content, including CURL, HAR, source files and other formats
+
+5. Support for custom rules to ignore or reject requests for specified domains
+
+6. Support rewrite and domain map, modify any part of the network request
+
+
+Privacy Policy: https://github.com/HttpsPacket/HTTPS-Packet/wiki/Privacy
+Terms & Conditions: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2020-07-28T07:00:00Z,2024-12-17T21:06:26Z
+np,Nepal,Developer Tools,6026,25,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/np/app/python-editor-app/id1672453872?uo=4,0.0,4.57895,19,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z

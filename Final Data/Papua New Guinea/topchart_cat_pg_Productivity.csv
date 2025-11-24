@@ -1,0 +1,574 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+pg,Papua New Guinea,Productivity,6007,1,6755475759,CNCFeedWizard,Junery Sausa,https://apps.apple.com/pg/app/cncfeedwizard/id6755475759?uo=4,0.0,0,0,Productivity,"CNCFeedWizard is a handy calculator app made for machinists, CNC programmers, and shop owners. It helps you quickly find the right cutting speed and RPM, feed rate, and chip load per tooth for your tools. You can also work out metal removal rate (MRR) to see how fast you’re really cutting. The app includes a tool life prediction calculator using the Taylor equation, so you can plan tool changes better. It can estimate cost per part by combining tooling cost and machine time. You also get tool life per edge or per corner to track insert usage more clearly. For quality control, CNCFeedWizard offers a simple surface finish estimator for turning and milling. It even handles radial chip thinning and spindle power needs, so your feeds and speeds stay safe, efficient, and easy to set.",2025-11-19T08:00:00Z,2025-11-19T13:07:15Z
+pg,Papua New Guinea,Productivity,6007,2,6755465169,BoringBarCalc,Nguyen Thi Hieu,https://apps.apple.com/pg/app/boringbarcalc/id6755465169?uo=4,0.0,0,0,Productivity,"BoringBarCalc is a handy tool made to help machinists, programmers, and shop owners work faster and smarter. The app brings together many useful machining calculators in one easy place. You can quickly check boring bar overhang, tapping torque, thread milling speeds, and more with simple inputs. It also helps adjust feeds for helical moves, ramps, plunges, and corner cutting. Surface finish, heat input, and other cutting conditions can be understood in seconds. The app even supports planning tasks like tool consumption, reorder timing, and shift capacity. Our goal is to make machining calculations simple, accurate, and easy for everyone. With BoringBarCalc, you save time, avoid mistakes, and improve your machining results.",2025-11-19T08:00:00Z,2025-11-19T11:49:20Z
+pg,Papua New Guinea,Productivity,6007,3,6755474140,BoosterPumpHeat,ZUNAIRA BIBI,https://apps.apple.com/pg/app/boosterpumpheat/id6755474140?uo=4,0.0,0,0,Productivity,"BoosterPumpHeat helps pump users see how elevation, weather, and water level change suction safety and NPSH margin. The app groups tools for altitude effects, daily pressure swings, tide or river level moves, and floating roof tank drawdown. Users can test strainers, fouling build-up, and suction line heat gain to balance protection, pressure loss, and temperature rise. Hot recirculation mixing, booster heater changes, and inlet velocity checks guide safer adjustments to flow and layout. Clear calculators show best and worst operating windows so cavitation risk becomes easier to spot. Simple inputs, quick graphs, and plain language make pump health checks fast for both operators and engineers. Use BoosterPumpHeat during design reviews, plant changes, or troubleshooting to keep suction conditions inside a safe zone. The app supports smarter, calmer pump decisions before problems appear in the field.",2025-11-19T08:00:00Z,2025-11-19T11:57:51Z
+pg,Papua New Guinea,Productivity,6007,4,6755479064,CutterUsageTracker,Nguyen Chau Pha,https://apps.apple.com/pg/app/cutterusagetracker/id6755479064?uo=4,0.0,0,0,Productivity,"CutterUsageTracker is a app to keep track of every cutting tool you use on the shop floor. It lets you log tool life with fields like tool code, machine, material, cutting time, parts made, and wear condition so you can see when a cutter really needs to be changed. You can also keep a clean regrind history, noting each regrind number, date, shop, material removed, and current tool size to know how many good runs are left in a tool. Built-in converters help you switch between power, torque, and speed, and between coolant flow units like L/min and gal/min, plus bar and psi for pressure. The app also gives small calculators for engagement time per part, cycle time per part, and best step-over or step-down so you can tune your programs. With all tool and regrind data in one place, you can spot bad cutting conditions, catch root causes, and cut down on sudden tool breaks. CutterUsageTracker helps you use each cutter for the right time, lower tool costs, and keep your machines running more smoothly.",2025-11-19T08:00:00Z,2025-11-19T13:47:22Z
+pg,Papua New Guinea,Productivity,6007,5,6477489729,Google Gemini,Google LLC,https://apps.apple.com/pg/app/google-gemini/id6477489729?uo=4,0.0,4.58451,142,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+pg,Papua New Guinea,Productivity,6007,6,725215120,"SHAREit: Transfer, Share Files",SHAREit Technologies Co. Ltd,https://apps.apple.com/pg/app/shareit-transfer-share-files/id725215120?uo=4,0.0,4.33094,556,Productivity,"It’s time to Share it!
+
+Share files, Photos, Videos, Music, and more with the SHAREit file transfer app. SHAREit is a super-fast, data-free and safe app to transfer big files. Trusted by 2 billion+ users worldwide, SHAREit is the secure way to share your files.
+
+With SHAREit you can clean your phone to free up storage space with the phone cleaner, manage files on your phone with file manager. Transferring files from Mobile to Web & PC and vice versa is now faster and easier.
+
+It's super easy to use! And the best part? Its free!
+
+Why you must use SHAREit, file share & data transfer app?
+
+THE FASTEST FILE SHARING AND APP SHARING IN THE WORLD, OFFLINE & ONLINE
+● With 200 times faster than Bluetooth, the highest speed goes up to 42M/s. Share and receive files without any data consumption, transfer files without any quality loss.
+
+HIGH PRIVACY & DATA SECURITY
+● We know that privacy and data security are important, so we make sure they're protected in the best way while you enjoy your files transfer, for free. With SHAREit, you can quickly and securely send and share any file, anywhere in the world.
+
+POWERFUL CROSS-PLATFORM TRANSFERRING, SUPPORTS ALL TYPES OF FILES
+● Experience the best data-free file transferring and sharing app that offers cross-platform transferring, supports all types of files and makes your life easier. You don't have to worry about the size or type of data anymore because SHAREit helps you send large files without limitation across all your devices. Transfer: Files, Photos, Movies, Videos, Music, GIFs and Wallpapers with just one tap!
+
+ELEGANT MUSIC PLAYER - AUDIO PLAYER
+● SHAREit Music Player is the best way to listen to your favorite songs. It's so much more than just a music player: it's a powerful and easy-to-use audio player. 
+
+ONE CLICK PHONE CLEANER
+● We've got the file cleaner for you. It cleans junk, finds files fast, and shares them offline. With our professional cleaner, you can clean cache and free up so much space from your device without worrying about deleting the wrong file.
+
+DUPLICATE PHOTO CLEANER
+● Here’s your ultimate tool for cleaning up photos. It quickly finds duplicate photos, frees up space, and shares them offline. With our professional cleaner, you can easily remove extra photos to make more room on your phone, keeping only the clearest and most meaningful memories.
+
+VIDEO COMPRESSION
+●  With SHAREit’s video compression feature, quickly reduce the file size of videos to save storage space on your phone while maintaining high-quality resolution. After compression, video files can be reduced to 20% of their original size, freeing up as much as 80% of storage space!
+
+PHONE CLONE
+● Phone Clone is a very handy data migration function when you change phones. You can easily transfer contacts, videos, photos, music, documents from old phone to new phone without internet connection. 
+
+PRIVATE SPACE
+● We’ve got a secure space just for you. SHAREit’s private space feature lets you create an encrypted personal area to safeguard your sensitive files and information, ensuring only you can access them.
+
+CHARGING ANIMATION
+● We’ve got a fun way to charge your phone. SHAREit’s charging animation feature adds engaging animations while your phone charges, making the process more lively and enjoyable.
+
+「 MEMBERSHIP TRIAL AND SUBSCRIPTION TERMS 」
+Start your SHAREit membership with a free 3-day trial. Once the trial is over, you’ll be charged an annual subscription fee. Your Private Albums membership will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > iTunes Account & App Store > Apple ID > Subscriptions to manage your membership and turn auto-renew off. Your iTunes Account will be charged when the purchase is confirmed.
+
+Download SHAREit now! It's the perfect app to share and transfer files! If you like it, SHARE it with your friends! 
+
+Share, Watch & Play. All day. With SHAREit.",2013-10-31T23:39:23Z,2025-11-17T02:39:15Z
+pg,Papua New Guinea,Productivity,6007,7,507874739,Google Drive – online backup,Google LLC,https://apps.apple.com/pg/app/google-drive-online-backup/id507874739?uo=4,0.0,4.67093,547,Productivity,"Google Drive, part of Google Workspace, lets you securely store, intelligently organise and collaborate on files and folders from anywhere, on any device.
+
+With Drive, you can:
+• Safely store and access your files anywhere
+• Edit and store 100+ file types, including PDFs, Office files, videos and more
+• Quickly access recent and important files
+• Scan and upload paper documents using your device’s camera
+• Search for files by name and content
+• Filter files by type, last modified date and more
+• Share and set permissions for files and folders
+• View your content on the go while offline
+• Receive notifications about important activity on your files
+
+Google Workspace subscribers have access to additional Drive functionality, including:
+• Security and management controls for admins to help meet data compliance needs
+• Sharing files and folders directly with groups or teams within your organisation
+• Creating a shared drive to store all of your team’s content
+
+Learn more about Google Apps update policy: https://support.google.com/a/answer/6288871
+
+Google accounts get 15GB of storage, shared across Google Drive, Gmail, and Google Photos. For additional storage, you can upgrade to Google Workspace or Google One as an in-app purchase.
+
+Storage subscriptions purchased from the app will be charged to your iTunes Account, and automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. Subscriptions and auto-renewal may be managed by going to iTunes Account Settings after purchase.
+
+Google Privacy Policy: https://www.google.com/intl/en_GB/policies/privacy
+Google Drive Terms of Service: https://www.google.com/drive/terms-of-service
+
+Follow us for more:
+X: https://x.com/googleworkspace and https://x.com/googledrive
+LinkedIn: https://www.linkedin.com/showcase/googleworkspace
+Facebook: https://www.facebook.com/googleworkspace/",2012-06-28T17:40:50Z,2025-11-17T16:38:37Z
+pg,Papua New Guinea,Productivity,6007,8,983156458,Microsoft Authenticator,Microsoft Corporation,https://apps.apple.com/pg/app/microsoft-authenticator/id983156458?uo=4,0.0,4.7931,29,Productivity,"Use Microsoft Authenticator for easy, secure sign-ins for all your online accounts using multi-factor authentication, passwordless, or password autofill. You also have additional account management options for your Microsoft personal, work or school accounts.
+
+Getting started with multi-factor authentication
+
+Multi factor authentication (MFA)provides a second layer of security. When enabled, during login after entering your password, you’ll be asked for an additional way to prove it’s really you. Either approve the notification sent to the Microsoft Authenticator, or enter the one-time password (OTP) generated by the app. The OTP codes have a 30 second timer counting down. This timer is so you never have to use the same time-based one-time password (TOTP) twice and you don’t have to remember the number. The OTP doesn’t require you to be connected to a network, and it won’t drain your battery. You can add multiple accounts to your app, including non-Microsoft accounts like Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub, and more.
+
+Getting started with passwordless
+
+Use your phone, not your password, to log into your Microsoft account. Just enter your username, then approve the notification sent to your phone. Your fingerprint, face ID, or PIN will provide a second layer of security in this two-step verification process. After you’ve signed in with two factor authentication (2FA), you’ll have access to all your Microsoft products and services, such as Outlook, OneDrive, Office, and more.
+
+Getting started with autofill
+
+Microsoft Authenticator app can also autofill passwords for you. Sign-in on the Passwords tab inside the Authenticator app with your personal Microsoft account to start syncing passwords, including the passwords saved in Microsoft Edge. Make Microsoft Authenticator the default autofill provider and start autofilling passwords on apps and sites you visit on your mobile. Your passwords are protected with multi-factor authentication in the app. You will need to prove yourself with your fingerprint, face ID, or PIN to access and autofill passwords on your mobile. You can also import passwords from Google Chrome and other password managers.
+
+Microsoft personal, work or school accounts
+
+Sometimes your work or school might ask you to install the Microsoft Authenticator when accessing certain organization resources. You will need to register your device to your organization through the app and add your work or school account. Microsoft Authenticator supports cert-based authentication by issuing a certificate on your device. This will let your organization know that the sign-in request is coming from a trusted device and help you seamlessly and securely access additional Microsoft apps and services without needing to log into each.",2015-05-30T09:25:44Z,2025-11-13T23:54:23Z
+pg,Papua New Guinea,Productivity,6007,9,422689480,Gmail - Email by Google,Google LLC,https://apps.apple.com/pg/app/gmail-email-by-google/id422689480?uo=4,0.0,4.66871,326,Productivity,"The official Gmail app brings the best of Gmail to your iPhone or iPad with robust security, real-time notifications, multiple account support and search that works across all your mail.
+
+With the Gmail app, you can:
+• Make Gmail your default email app on iOS
+• Use Gemini* in Gmail to summarise emails, craft or refine responses, or search your inbox to find what you're looking for
+• Automatically block more than 99.9% of spam, phishing, malware and dangerous links from ever reaching your inbox
+• Undo send, to prevent embarrassing mistakes
+• Turn on Google Chat to connect, create and collaborate with others
+• Get more done as a group in Spaces – a dedicated place for organising people, topics and projects
+• Enjoy high-quality video calling with Google Meet
+• Respond to emails quickly with Smart Reply suggestions
+• Switch between multiple accounts
+• Get notified of new mail fast, with notification centre, badge and lock screen options
+• Search your mail faster with instant results, predictions as you type and spelling suggestions
+• Organise your mail by labelling, starring, deleting and reporting spam
+• Swipe to archive/delete, to quickly clear out your inbox
+• Read your mail with threaded conversations
+• Auto-complete contact names as you type from your Google contacts or your phone
+• Respond to Google Calendar invites right from the app
+
+Gmail is part of Google Workspace, allowing you and your team to easily connect, create and collaborate. You can:
+• Connect with colleagues via Google Meet or Google Chat, send an invite in Calendar, add an action to your task list and more without leaving Gmail
+• Use suggested actions – like Smart Reply, Smart Compose, grammar suggestions and nudges – to help you stay on top of work and take care of simple tasks, so you can be more efficient with your time
+• Stay safe. Our machine-learning models block more than 99.9% of spam, phishing and malware from reaching our users
+
+*Google One AI Premium subscription and Internet connection required. Language and country availability may vary. Check responses for accuracy.",2012-07-24T19:40:02Z,2025-11-17T19:37:28Z
+pg,Papua New Guinea,Productivity,6007,10,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/pg/app/chatgpt/id6448311069?uo=4,0.0,4.74878,824,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+pg,Papua New Guinea,Productivity,6007,11,6755430134,PressureLawCalc,Nguyen Thi Dao,https://apps.apple.com/pg/app/pressurelawcalc/id6755430134?uo=4,0.0,0,0,Productivity,"PressureLawCalc is a smart tool to help users understand pressure-related behaviour in pumps, liquids, and gases. It explains how dissolved gases turn into bubbles and how mixed vapour pressures change in real systems. The app helps you check air content, find the right place for air separators, and avoid gas pockets in suction lines. It also points out risky temperature ranges in hot-water systems and shows how tank blanketing pressure can improve safety. PressureLawCalc includes tools to see how dissolved solids affect boiling points and how start-up conditions change NPSH. It even guides you on how fast to ramp VFDs to avoid sudden pressure drops. Overall, the app gives clear, practical insights to help prevent cavitation and keep systems running smoothly.",2025-11-18T08:00:00Z,2025-11-18T15:17:16Z
+pg,Papua New Guinea,Productivity,6007,12,6755356266,FlowRiskPassApp,Tran Thanh Dien,https://apps.apple.com/pg/app/flowriskpassapp/id6755356266?uo=4,0.0,0,0,Productivity,"FlowRiskPassApp is a simple and helpful app designed to check common pump and flow problems in an easy way. It helps users understand minimum flow needs, valve pressure drops, and cavitation risks without using complex formulas. The app also checks water hammer conditions, NPSH safety, and flashing risks in orifice plates. It can warn you about vortex formation, low-flow recirculation, and suction issues that may damage equipment. FlowRiskPassApp also supports surge tank and air-release sizing to keep pump suction pressure safe. It guides you in checking minimum submergence and sump approach velocity to avoid air entry and unstable flow. Overall, the app gives quick tools to make systems safer, more reliable, and easier to understand.",2025-11-16T08:00:00Z,2025-11-16T14:21:36Z
+pg,Papua New Guinea,Productivity,6007,13,6755355335,SumpBaffleSelector,Sau Van Be Nguyen,https://apps.apple.com/pg/app/sumpbaffleselector/id6755355335?uo=4,0.0,0,0,Productivity,"SumpBaffleSelector is designed to help engineers make quick and confident decisions for pump and sump setups. Our app brings together easy tools that guide you in sizing baffles, checking inlet elbow effects, and reviewing how pumps interact. It also helps you understand suction boost, seal conditions, and proper flush settings to avoid cavitation problems. You can compare inducer upgrades, explore impeller coating benefits, and estimate cavitation wear in a simple way. The app also offers a basic material selector so you can choose the right metal for tough operating conditions. We focus on clear inputs, simple steps, and results that are easy to apply in real projects. SumpBaffleSelector aims to save time, improve reliability, and support better decisions in everyday pump system work.",2025-11-16T08:00:00Z,2025-11-16T13:30:03Z
+pg,Papua New Guinea,Productivity,6007,14,388627783,CamScanner - PDF Scanner App,"INTSIG Information Co., Ltd",https://apps.apple.com/pg/app/camscanner-pdf-scanner-app/id388627783?uo=4,0.0,4.62431,181,Productivity,"* Scan docs into clear & sharp image/PDF, to email, fax, print or save to cloud
+* The choice for 300 million users all over the world
+
+CamScanner is a free scanner app that helps users scan, edit, store, and sync contents across smartphones, iPads, tablets and computers. Extract texts with OCR and convert PDF to Word, Excel, etc.
+
+Features:
+
+*Free Mobile Scanner
+Use your phone camera to scan receipts, notes, invoices, whiteboard discussions, business cards, certificates, etc. 
+
+*Optimize Scan Quality
+Smart cropping and auto enhancing make the texts and graphics look clear and sharp. 
+
+*E-signature
+Sign contracts and share to your counter party. It is widely used among real estate agents and in government form filling. 
+
+*Advanced Editing
+Making annotations or adding customized watermark on docs are made available for you.
+
+*Extract Texts from Image
+OCR (optical character recognition) feature extracts texts from single page for further editing or sharing. (Paid app only)
+
+*Share PDF/JPEG Files
+Easily share documents in PDF or JPEG format with others via social media, email attachment or sending the doc link. 
+
+*AirPrint & Fax Documents
+Instantly print out docs in CamScanner with nearby printer via AirPrint; directly fax docs to over 30 countries from the app.
+
+*Collaboration
+Invite friends or colleagues to view and comment on your scans in a group. (Registrants only)
+
+*Secure Important Docs
+Set passcode for viewing important docs; meanwhile, when sending doc link, you can set password to protect it.
+
+*Sync across Platforms
+Sign up to sync documents on the go. Just sign in to any smartphone, tablet or computer (visit CamScanner website) you own and you can view, edit and share any document. 
+
+Premium Subscription Service:
+1. Edit OCR results and notes of the doc, exporting as .txt file
+2. Create Doc Collage for multiple pages
+3. + 10G cloud space
+4. + 40 extra collaborators
+5. Send doc link with password protection and expiration date
+6. Auto upload docs to Box, Google Drive, Dropbox, Evernote, One Drive and etc.
+7. Batch download PDF files through web application of CS
+8. Import PDF to Camscanner for editing
+9. Scan academic questions to make practice tests for study
+10. High Standard ID Scan
+and More...  
+
+Payment models for Premium subscription:
+-4.99 USD/month
+-49.99 USD/year
+
+• Payment will be charged to iTunes Account at confirmation of purchase.
+• Account will be charged for renewal within 24-hours prior to the end of the current subscription period.
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+• Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+For Terms of Use, please visit
+https://www.camscanner.com/app/service?language=en-us
+For Privacy Policy, please visit https://www.camscanner.com/app/privacy?language=en-us
+
+CamScanner users scan and manage 
+* Bill, Invoice, Contract, Tax Roll, Business Card…
+* Whiteboard, Memo, Script, Letter…
+* Blackboard, Note, PPT, Book, Article…
+* Credential, Certificate, Identity Document, Painting…
+
+3rd Party Cloud Storage Services Supported:
+-Box, Google Drive, Evernote, Dropbox, OneDrive
+
+We’d love to hear your feedback: isupport@camscanner.com
+Follow us on X: @CamScanner
+Like us on Facebook: @CamScanner UA
+Follow us on Instagram: @CamScanner_Official
+Follow us on YouTube: @CamScanner_Official
+
+Check out other INTSIG’s products:
+CamCard - Business Card Reader",2012-06-03T02:13:44Z,2025-11-24T02:44:10Z
+pg,Papua New Guinea,Productivity,6007,15,6752896753,RepairBuddy - AI Fix,OCEAN FLOAT MOBILE LIMITED,https://apps.apple.com/pg/app/repairbuddy-ai-fix/id6752896753?uo=4,0.0,4.5,2,Productivity,"RepairBuddy - AI Fix is your smart assistant for diagnosing and fixing everyday problems. Simply enter the issue with any product or item in the Create category, and RepairBuddy will provide the most likely cause along with clear, step-by-step repair instructions. Whether it’s Home Appliances, Cars & Vehicles, Plumbing, or Phones, PCs & Tablets, RepairBuddy helps you troubleshoot and fix with confidence. Plus, with History, you can easily revisit past repairs anytime. Quick, practical, and AI-powered guidance at your fingertips.
+
+Subscription Details
+Some features are available for free, while full access requires a subscription. The subscription renews automatically at the end of the period unless it is canceled at least 24 hours before renewal. Manage or turn off auto-renewal anytime via your App Store account settings. Payment is charged at the time of purchase.
+
+https://www.oceanfloatmobile.com/terms-and-conditions/
+
+https://www.oceanfloatmobile.com/privacy-policy/",2025-10-05T07:00:00Z,2025-11-23T10:37:39Z
+pg,Papua New Guinea,Productivity,6007,16,6749363102,Chatbot AI Assistant ChatPrime,Wowoo Dijital Hizmetler Limited Sirketi,https://apps.apple.com/pg/app/chatbot-ai-assistant-chatprime/id6749363102?uo=4,0.0,5,2,Productivity,"ChatPrime gives you access to today’s most advanced AI technologies in one app. Whether you’re chatting, coding, learning, or creating images, ChatPrime connects you with multiple cutting-edge AI engines for smarter conversations and stunning visual results.
+
+Highlights of ChatPrime
+► Advanced text generation for creative writing and reasoning
+► Multilingual fluency with natural and culturally aware conversations
+► Real-time insights and up-to-date knowledge
+► Safe, responsible, and thoughtful responses
+► Powerful coding and debugging support
+► State-of-the-art text-to-image and image-to-image creativity
+
+Use Cases – What You Can Do with ChatPrime
+⊕ Learning & Study Help: Summaries, explanations, and practice questions
+⊕ Programming Support: Debug code, generate snippets, or learn new languages
+⊕ Writing Made Easy: Draft emails, essays, stories, or social posts
+⊕ Global Communication: Translate and chat fluently across languages
+⊕ Creative Projects: Generate unique artwork, posters, and design ideas
+⊕ Work Productivity: Brainstorm business ideas, draft reports, and automate tasks
+⊕ Everyday Assistance: Plan meals, create to-do lists, or get life tips instantly
+⊕ Real-Time Insights: Stay current with trending topics and cultural context
+
+Why ChatPrime Stands Out
+► Adaptive Conversations – From problem-solving to creative writing
+► Multilingual Support – Communicate naturally across languages
+► AI-Powered Creativity – Generate and refine images for art, design, or social media
+► Coding & Learning Tools – Debug code or explore new topics step by step
+► Trend-Aware Insights – Get fresh perspectives and context instantly
+
+Privacy & Security
+We prioritize secure, responsible use of AI. Your data is not stored, and all interactions follow strict privacy guidelines.
+
+Try ChatPrime for Free!
+Start your free trial today and explore conversations and creativity powered by multiple advanced AI engines—all in one place.
+
+Disclaimer: ChatPrime uses licensed APIs from third-party AI providers. Outputs may be inaccurate. Please do not share personal information. Review our Privacy Policy and Terms for details.",2025-09-21T07:00:00Z,2025-11-04T08:52:14Z
+pg,Papua New Guinea,Productivity,6007,17,951937596,Microsoft Outlook,Microsoft Corporation,https://apps.apple.com/pg/app/microsoft-outlook/id951937596?uo=4,0.0,4.71316,1011,Productivity,"Outlook lets you bring all your email accounts and calendars in one convenient spot. Whether it’s staying on top of your inbox or scheduling the next big thing, we make it easy to be your most productive, organised and connected self.
+
+Here's what you'll love about Outlook for iOS:
+
+- Focus on the right things with our smart inbox - we help you sort between messages you need to act on straight away and everything else.
+- Swipe to quickly schedule, delete and archive messages.
+- Share your meeting availability with just a tap and easily find times to meet with others.
+- Find everything you're looking for, including files, contacts, and your forthcoming trips.
+- View and attach any file from your email, OneDrive, Dropbox, and more, without having to download them to your phone.
+- Open Word, Excel, or PowerPoint attachments to edit them directly in the corresponding app and attach them back to an email.
+- Recap extra-long email threads in an instant with Summarise with Copilot*
+- Type a few words to have Copilot* jump-start your writing with an outline or draft
+- Before sending off your email, use Coaching with Copilot* to get tips and suggestions that help improve the overall tone, sentiment, and clarity
+ 
+*Microsoft 365 Personal/Family subscription or business account enabled with Copilot required to use Copilot features
+
+--
+
+Outlook for iOS works with Microsoft Exchange, Office 365, Outlook.com (including Hotmail and MSN), Gmail, Yahoo Email, and iCloud.
+
+--
+
+To make an in-app purchase of an Office 365 Home or Personal subscription, open the app, go to Settings and tap on Upgrade next to your Outlook.com or Hotmail.com account. Subscriptions begin at USD 6.99 a month in the US, and can vary by region. With an Office 365 subscription, you get 1 TB of storage for each user, access to all features in Word, Excel and PowerPoint on iPad, iPhone and iPod touch, and you can install Word, Excel, PowerPoint, Outlook and OneNote on PCs or Macs.
+
+Office 365 subscriptions purchased from the app will be charged to your iTunes account and will automatically renew within 24 hours prior to the end of the current subscription period, unless auto-renewal is disabled beforehand. To manage your subscriptions or to disable auto-renewal, after purchase, go to your iTunes account settings. A subscription cannot be cancelled during the active subscription period. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy and Cookies: https://go.microsoft.com/fwlink/?LinkId=521839 
+Terms of Use: http://go.microsoft.com/fwlink/?LinkID=530144",2015-01-29T05:22:59Z,2025-11-19T17:36:59Z
+pg,Papua New Guinea,Productivity,6007,18,842849113,Google Sheets,Google LLC,https://apps.apple.com/pg/app/google-sheets/id842849113?uo=4,0.0,4.7234,47,Productivity,"Create, edit, and collaborate on spreadsheets with the Google Sheets app. With Sheets you can:
+
+* Create new spreadsheets or edit existing ones
+* Share spreadsheets and collaborate with others in the same spreadsheet at the same time
+* Work anywhere, anytime - even offline
+* Format cells, enter/sort data, view charts, insert formulas, use find/replace, and more
+* Never worry about losing your work -- everything is automatically saved as you type
+* Open, edit, and save Excel files
+
+Google Sheets is part of Google Workspace: where teams of any size can chat, create, and collaborate.
+
+Google Workspace subscribers have access to additional Google Sheets features, including: 
+* Easily add collaborators to projects, see changes as they occur, receive notifications for edits that happen while you’re away, and chat with colleagues in the same spreadsheet. All changes are automatically saved as you make them. And with offline access, you can create, view, and edit files wherever and whenever
+* Get insights fast, powered by Google AI
+* Work seamlessly across Sheets and Excel
+* Maintain control with enterprise-grade security
+* Analyze data from other business-critical tools
+* Build custom solutions",2014-04-30T16:04:38Z,2025-11-17T14:55:04Z
+pg,Papua New Guinea,Productivity,6007,19,1597239701,"PDF Converter , Photo to PDF",Simple Health Limited,https://apps.apple.com/pg/app/pdf-converter-photo-to-pdf/id1597239701?uo=4,0.0,5,1,Productivity,"Image to PDF Converter can convert images (jpg, jpeg, png, heic, etc.) to PDF files. Try it now!
+
+With Image to PDF Converter, you can:
+
+►Convert all kinds of images to PDF 
+Import images or scan paper files with your camera and convert them to PDFs - notes, receipts, invoices, forms, business cards, certificates, whiteboards, ID cards, etc., all supported.
+
+►Resize images
+Resize, crop, doodle, and rotate the images as you like. Optimize images for better PDF output.
+
+►Auto sorting
+Automatically sort images and PDF files by name, size, created date, modified date, etc. Of course, you can sort manually if you want. 
+
+►Set password
+You can set passwords to protect your PDF files, and encrypt confidential files to be shared to prevent others from peeking at them. 
+
+►Work offline
+No need to send data to the cloud, easily convert your images to PDF offline.
+
+►Share converted PDF files
+Easily send and share converted PDF files via social media, Email, quick share, etc.
+
+►Quick search
+Try the quick search function, and you will find it’s easy to find your target files. Just enter the keywords and the results will be displayed automatically.
+
+This app requires permission to access your Camera and Photo Library for PDF conversion.
+
+We will keep working hard to optimize the app and improve the user experience. Please feel free to contact us at imgtopdfios@gmail.com if you have any suggestions.
+
+Subscription Terms and Details
+- Get unlimited access to all features: 
+① USD $9.99/month
+② USD $29.99/year with 3-day trial
+- The payment will be charged to your iTunes account at confirmation of purchase.
+- The subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period.
+- Subscription may be managed and auto-renewal may be turned off by going to Account Settings after purchase.
+- The account will be charged for renewal within 24 hours prior to the end of the current period.
+- Any unused portion of a free trial period will be forfeited when the user purchases a subscription to that publication.
+
+Privacy Policy: https://image2pdf.simplehealth.ltd/privacypolicy.html
+Terms of Use: https://image2pdf.simplehealth.ltd/terms.html",2022-03-15T07:00:00Z,2025-11-19T07:05:23Z
+pg,Papua New Guinea,Productivity,6007,20,6755429282,AccessLogCompanion,Talha Riaz khan,https://apps.apple.com/pg/app/accesslogcompanion/id6755429282?uo=4,0.0,0,0,Productivity,"AccessLogCompanion helps guards and site staff record contractor gate entries, exits, and authorizations. The app stores log ID, times, contractor names, companies, purpose of work, approving person, proof checks, plus notes on materials moving in or out. Induction records stay in order with worker names, badge numbers, contractor details, trade or role, module type, and pass or pending status. Quick angle tools change degrees to radians and slope percent for ramps, stairs, and small site checks. Length and height tools handle mm, cm, meters, inches, and feet, while area and volume tools cover m², ft², m³, and ft³. Load tools change kg and tons to kN estimates, helping with simple load checks on small works. Man-hour and speed tools turn people and time into clear totals, and show flow per minute or per hour for gates and barriers.",2025-11-18T08:00:00Z,2025-11-18T13:01:24Z
+pg,Papua New Guinea,Productivity,6007,21,586683407,Microsoft Excel,Microsoft Corporation,https://apps.apple.com/pg/app/microsoft-excel/id586683407?uo=4,0.0,4.64473,152,Productivity,"Microsoft Excel, the spreadsheet app, lets you create, view, edit, and share your files quickly and easily. Manage spreadsheets, tables and workbooks attached to email messages from your phone with this powerful productivity app.
+
+Work in data analysis, accounting, auditing, or other fields confidently with anyone, anywhere. Quickly graph the most complex formulas, charts and tables with amazing features.
+
+Review spreadsheets and run data analysis on the go. Customize tables and spreadsheets the way you want with robust formatting tools and great features. The productivity app lets you build your spreadsheet to meet your specific needs.
+
+Get the power of AI with Copilot1 in your favorite apps when you sign in with your Microsoft 365 subscription. Create templates, edit spreadsheets, organize charts and share with ease when you download Microsoft Excel.
+
+Tables & Spreadsheets: Create, Calculate and Analyze
+• Jump-start your budget, task list, accounting, or financial analysis with Excel’s modern templates.
+• Quickly graph with familiar formulas to run calculations and analyze your data.
+• Rich productivity features and formatting options make your workbook easier to read and use.
+• Use Cards View to easily see and manage spreadsheets.
+
+Productivity App: Review, Edit, and Work Anywhere
+• Review your Excel files from any device.
+• Edit sheets and data or update your task list from anywhere.
+• Spreadsheet features like sort and filter columns help focus your reviews.
+• Create, duplicate, hide, and unhide sheets easily.
+
+Data Analysis
+• Analyze data using common charts and graphs.
+• Use spreadsheet features like add and edit chart labels to highlight key insights in your data.
+• Pie chart maker: create charts and graphs from your data.
+
+Finance: Budgeting & Accounting
+• Use agile spreadsheets and charts to help manage budgets.
+• Familiar tools to help you drill down to your exact finance needs.
+• Calculate tax estimates, personal finances and more.
+
+Draw and Annotate with Ink
+• Make notes, highlight your worksheet, create shapes, or write equations using the draw tab feature in Excel on devices with touch capabilities.
+
+Sharing made easy
+• Share your files with a few taps to quickly invite others to edit, view, or leave comments directly in your workbooks.
+• Copy the content of your worksheet in the body of an email message with its format intact or attach or copy a link to your workbook for other sharing options.
+
+Download Microsoft Excel and get the best way to create, organize and manage data and spreadsheets from your iPhone or iPad.
+
+To create or edit documents, sign in with a free Microsoft account on devices with a screen size smaller than 10.1 inches.
+Unlock the premium Microsoft 365 experience with a qualifying subscription for your phone, tablet, PC, and Mac.
+
+Monthly Microsoft 365 subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.
+
+This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.
+
+
+Please refer to the Microsoft Software License Terms for Microsoft 365. See “License Agreement” link under Information. By installing the app, you agree to these terms and conditions.",2014-03-27T19:41:57Z,2025-11-24T05:04:23Z
+pg,Papua New Guinea,Productivity,6007,22,586447913,Microsoft Word,Microsoft Corporation,https://apps.apple.com/pg/app/microsoft-word/id586447913?uo=4,0.0,4.5201,398,Productivity,"Generate a draft with Copilot
+
+The trusted Word app lets you create, edit, view, and share your files with others quickly and easily. Send, view and edit Microsoft 365 docs attached to emails from your phone with this powerful word processing app from Microsoft.
+
+With Word, your office moves with you. Whether you’re a blogger, writer, journalist, columnist, student, or a project manager working on documentation, Word is as handy as you want it to be.
+
+Make impactful text documents, scripts, blogs, write-ups, or resumes. Customise your document, letter, CV or notes your way with robust tools that enable you to accomplish your best writing with the best format options and templates.
+
+Get the power of AI with Copilot1 in your favorite apps when you sign in with your Microsoft 365 subscription. Create and edit documents, collaborate and share with ease when you download Microsoft Word today.
+
+
+Create Documents
+
+• Use AI to turn a blank document into a polished draft with Copilot
+
+• Use rich formatting and layout options to note down your ideas and express them in writing.
+
+• Document formats and layouts stay pristine and look great on any device.
+
+
+ 
+Read, Write, & Edit Documents
+
+• Reading view lets you read lengthy docs, letters, scripts, and more on your device with ease.
+
+• Use familiar writing and editing tools as you’d find on a desktop word processor.
+
+ 
+Collaborate Anywhere
+
+• Share thoughts by commenting in docs right next to the text you’re discussing.
+
+• Everyone can collaborate and stay on top of changes to the text, layout, and formatting.
+
+• As you and your team make changes, you can revert to view earlier drafts with improved version history in Word.
+ 
+
+Simplified Sharing
+
+• Share files with a few taps to quickly invite others to edit or view your documents.
+
+• Easily manage permissions and see who’s working in a document.
+
+• Copy the content of your Word files directly into the body of an email message with its format intact or attach your docs to an email and make sharing easier.
+
+Download Microsoft Word now and get the best way to create, share and edit documents from your iPhone or iPad.
+
+To create or edit documents, sign in with a free Microsoft account on devices with a screen size smaller than 10.1 inches.
+
+Copilot in Microsoft Word iOS languages not supported: Hindi, Malay
+
+Unlock the premium Microsoft 365 experience with a qualifying subscription for your phone, tablet, PC, and Mac.
+ 
+Monthly Microsoft 365 subscriptions purchased from the app will be charged to your App Store account and will automatically renew within 24 hours prior to the end of the current subscription period unless auto-renewal is disabled beforehand. You can manage your subscriptions in your App Store account settings.
+
+This app is provided by either Microsoft or a third-party app publisher and is subject to a separate privacy statement and terms and conditions. Data provided through the use of this store and this app may be accessible to Microsoft or the third-party app publisher, as applicable, and transferred to, stored, and processed in the United States or any other country where Microsoft or the app publisher and their affiliates or service providers maintain facilities.
+ 
+Please refer to the Microsoft Software Licence Terms for Microsoft 365. See “Licence Agreement” link under Information. By installing the app, you agree to these terms and conditions.",2014-03-27T19:38:37Z,2025-11-24T05:04:07Z
+pg,Papua New Guinea,Productivity,6007,23,6447682225,eGovPH,Department of Information and Communications Technology,https://apps.apple.com/pg/app/egovph/id6447682225?uo=4,0.0,4.8,5,Productivity,"The eGovPH App serve as the single operating system unifying all government services in a single application. This one-stop-shop platform provides convenience to the public and facilitates effective transactions.
+
+This app is supported by several Republic Acts and simplifies government procedures, enhances transparency, reduces corruption and bureaucratic red tape, and promotes ease of doing business.
+
+An innovative solution that revolutionizes government services, promoting a more efficient transparent, and responsive government that benefits all Filipinos.",2023-05-31T07:00:00Z,2025-08-06T14:33:52Z
+pg,Papua New Guinea,Productivity,6007,24,1659992827,HTTP Injector,Evozi PLT,https://apps.apple.com/pg/app/http-injector/id1659992827?uo=4,0.0,0,0,Productivity,"HTTP Injector is a VPN and tunneling tool that combines multiple secure technologies in one app. Browse the Internet with enhanced privacy, strong encryption, and reliable protection on any network.
+
+With support for SSH, Proxy, SSL Tunnel, DNS Tunnel, Shadowsocks, V2Ray/Xray, Hysteria, and WireGuard, HTTP Injector encrypts your traffic to protect your data and enhance your online privacy.
+
+Take full control by configuring your own servers and connecting directly through the app, giving you maximum flexibility, performance, and security for your network.
+
+Key Features:
+- Secure VPN with multi-protocol tunneling
+- SSL/TLS & DNS tunneling (DNSTT / SlowDNS)
+- Built-in SSH, Shadowsocks, V2Ray/Xray, Wireguard clients
+- Built-in Host Checker & IP Hunter
+- Payload Generator for custom configs
+- App filter & DNS changer (Google DNS / custom DNS)
+- Hotshare (tether unlock) & data compression
+
+Tunnel Types Supported:
+- SSH
+- SSL (TLS)
+- VMess, VLESS, SOCKS (V2ray/Xray)
+- DNS Tunnel (DNSTT)
+- Hysteria (QUIC UDP/SlowUDP)
+- Wireguard
+- Websocket
+- Shadowsocks
+
+
+How to use:
+1) Import a config file from your local community/group
+2) Or connect instantly with our available servers",2023-03-20T07:00:00Z,2025-10-24T12:46:31Z
+pg,Papua New Guinea,Productivity,6007,25,6483293628,Voicenotes AI Notes & Meetings,Coping Hard Inc.,https://apps.apple.com/pg/app/voicenotes-ai-notes-meetings/id6483293628?uo=4,0.0,4.46666,15,Productivity,"Voicenotes is the easiest way to take notes — whether you’re in a meeting, on a walk, or processing a thought out loud.
+Just hit record. Voicenotes transcribes your speech instantly, summarizes what matters, and lets you ask your AI to recall anything later.
+
+Record everything. Remember anything.
+
+Use Voicenotes to:
+Record meetings, reflections, ideas, and conversations
+Get accurate transcriptions in 100+ languages
+Summarize long recordings into short, clear takeaways
+Ask your AI to remember details, dates, and decisions
+Create content directly from your notes
+Search across everything you’ve recorded
+
+Works across all your devices:
+iOS
+MacOS
+WatchOS
+
+Works with your favorite tools:
+Notion
+Todoist
+Readwise
+WhatsApp (via bot)
+Zapier for custom workflows
+
+Great for journaling, team meetings, personal reminders — or just getting your thoughts down.
+
+Privacy Policy: https://help.voicenotes.com/en/articles/9196879-privacy-policy
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Reddit: https://www.reddit.com/r/Voicenotesai/
+
+X: https://x.com/voicenotesai",2024-04-16T07:00:00Z,2025-11-13T05:12:25Z

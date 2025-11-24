@@ -1,0 +1,934 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mo,Macao,Navigation,6010,1,585027354,Google 地圖,Google LLC,https://apps.apple.com/mo/app/google-%E5%9C%B0%E5%9C%96/id585027354?uo=4,0.0,4.74644,6046,Navigation,"Google 地圖陪你自在遊覽及探索世界。你可以使用即時交通資訊和 GPS 導航功能，找出開車、步行、騎自行車和大眾運輸的最佳路線。探索超過 2.5 億個商家和地點，不管是餐廳、商店還是日常用品店，都有相片、評論和實用的資訊可以參考。
+
+隨心所欲遊覽世界：
+• 選擇節能路線，前往目的地
+• 運用即時導航功能找出最佳路線，跟著語音及螢幕指引安全抵達目的地
+• 路線會依即時路況 (車流量、交通事故和道路封閉資訊) 自動重新調整，為你節省寶貴時間
+• 掌握大眾運輸即時動態，輕鬆趕上公車、火車、共乘車
+• 尋找自行車或電動機車出租站點，往來更便利
+
+規劃行程和體驗，輕鬆不費力：
+• 出發前先用街景服務預覽該區環境，例如停車場、入口處
+• 運用沉浸式實景功能，一覽地標、公園、路徑甚至是天氣狀況，事先做好萬全準備
+• 建立自訂清單，與他人分享你儲存的最愛地點
+• 無論是訂購外送和外帶，還是訂位或訂房，都沒問題
+• 到訊號不好的區域別擔心，有離線地圖就不怕迷路
+• 搜尋當地觀光景點和地點，參考使用者的評論和相片，決定想去的地方
+
+探索周遭環境，有如在地人：
+• 每年有 5 億個使用者熱心貢獻內容，地圖資訊時時更新，你可以自信探索世界
+• 事先查看特定地點的繁忙程度，避開擁擠人潮
+• 使用 Google 地圖智慧鏡頭，在真實環境中預覽步行路線
+• 依餐點料理、營業時間、價格、評分等項目篩選理想餐廳
+• 詢問地點相關資訊，不管是餐點口味還是停車資訊，都能快速得到解答
+
+某些功能僅適用於部分國家/地區或城市
+導航功能不是為特大型車輛或緊急救援車輛所設計",2019-02-14T06:02:04Z,2025-11-20T16:03:21Z
+mo,Macao,Navigation,6010,2,461703208,高德地圖-導航巴士地鐵出行，高德打車,AutoNavi Information Technology Co. Ltd.,https://apps.apple.com/mo/app/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9C%96-%E5%B0%8E%E8%88%AA%E5%B7%B4%E5%A3%AB%E5%9C%B0%E9%90%B5%E5%87%BA%E8%A1%8C-%E9%AB%98%E5%BE%B7%E6%89%93%E8%BB%8A/id461703208?uo=4,0.0,4.78713,22286,Navigation,"高德地圖服務現已覆蓋全球超過230個國家和地區，有數以億計的地點和商家資訊可供查詢。
+
+【全球地圖出行服務】
+-目的地查詢、路線規劃即開即用；
+-巴士地鐵、揸車、行路、踩單車導航，一站式導航；
+-尋找餐廳、藥局、酒店等服務商戶，一搵即有；
+-香港及內地CALL車服務，快速回應，首單即享優惠！
+
+【港澳出行必備好拍檔】
+-提供港澳巴士、地鐵、揸車、貨車、行路、電單車、新能源等多種出行方式的智能路線規劃及即時導航。
+-根據即時交通狀況，提供避塞方案；行車中車道提示、複雜路口放大呈現、交通燈轉燈倒數，助你更快抵達目的地。
+-組隊行山，本地玩樂，支持好友位置分享，導航對講功能，不會「失聯」。
+
+【Call車用高德，拒載率低，價格超值】
+-Call車前先格價，省錢搭的士，輕鬆出門。
+-「內地及香港」兩地Call車都有優惠。
+-拒載率低，隨時Call車展開行程。
+-一鍵付款，支持自動扣款，搭車更省心。
+
+【巴士、地鐵不用等，到站有提示】
+-即時掌握附近巴士、地鐵的實時資訊，發車時間表、實時位置詳情、到站時間；
+-高德APP內，可直接查看並導航到指定的地鐵或巴士站上車，簡單又方便。
+
+【跨境出行，「北上深圳」吃喝玩樂】
+-跨境路線規劃，無縫接軌。
+-酒店全網格價功能，7/24 全天候服務保障
+-景區門票訂購優惠，即買即用，無理由退款。
+-上高德搜尋「充電地圖」/「加油站」，尋找附近電動車充電及油車加油設施，设施多，性價比強。
+
+【溫馨提示】
+高德地圖嘅駕車語音導航，巴士換乘提醒和步行語音導航會持續使用衛星定位服務，切換至後台播放時仍會繼續，某啲其他操作會消耗更多嘅電量，並影響電池續航時間。
+
+高德地圖支持iOS10.0版本系統下安裝和使用。（根據產品實際情況更新）
+
+【有關您的隱私和HealthKit數據說明】
+高德地圖已支持集成HealthKit，您可以根據需要在AppleHealth中打開或關閉這些權限。
+高德地圖僅在用戶訪問相關功能時，通過健康獲取用戶步數數據進行顯示，不會在其他場景使用該數據
+
+【聯繫我們】
+感謝使用高德地圖！如果有任何問題，請在「我的--幫助與反饋」提交反饋，客戶專員會及時處理，或者通過以下方式進行反饋：
+官方微信公眾號：高德地图/gaodeditu
+官方新浪微博：@高德地图
+官方客戶服務熱線：(+86) 400-810-0080",2011-09-08T22:19:39Z,2025-11-19T07:07:16Z
+mo,Macao,Navigation,6010,3,1122920020,巴士報站,Transport Bureau of the Macao S.A.R.,https://apps.apple.com/mo/app/%E5%B7%B4%E5%A3%AB%E5%A0%B1%E7%AB%99/id1122920020?uo=4,0.0,2.96802,344,Navigation,巴士報站是澳門交通事務局推出的巴士資訊發佈平臺，提供澳門巴士路線查詢、站點查詢、即時巴士資訊、巴士候車和乘車等資訊服務。,2016-07-27T02:04:46Z,2025-11-04T01:54:41Z
+mo,Macao,Navigation,6010,4,311867728,"NAVER Maps, Navigation",NAVER Corp.,https://apps.apple.com/mo/app/naver-maps-navigation/id311867728?uo=4,0.0,3.5,2,Navigation,"South Korea's GPS navigation Get started right away
+
+* Experience the completely new NAVER Map.
+※ Are you traveling Korea? 
+Don't miss the smart tips to use NAVER Map: https://naver.me/GfCSj5Ut
+
+[Key features]
+- Map Home Menu Tab
+You can now conveniently use the Discover, Bookmark, Transit, Navigation, and MY tabs on the Home.
+
+- Simplified search
+Search locations, buses, subway, and more in a comprehensive search bar.
+
+- Booking
+Explore a new Booking tab, a space that brings together businesses and products available for booking on NAVER. From nearby restaurants, hair salons, amusement parks, one-day classes to even train tickets, you can find them all in one place on the booking tab.
+
+- Discover
+Helps you find new places nationwide and nearby. Enjoy real-time rankings, recommendation feeds, trending spots, bookmarked lists, and coupon offers.
+
+- Navigation
+Fast and accurate navigation with real-time traffic info and optimized usability for any driving condition.
+
+- Vector map
+360 degrees rotation-enabled vector map with 3D view of key landmarks via tilting.
+
+- Transit
+You can easily reach your destination by using transit directions for various modes of transportation, real-time departure and arrival times, and notifications for when to get on/off.
+
+- Street view
+Seamless street and aerial views provided for location search and route planning.
+
+- Bookmark
+Easily save your best restaurants and must-visit tourist spots on NAVER Map and share them with others.
+
+- MY
+View all your maps, reviews, and bookings in one place and write reviews with ease.
+
+- Instant search
+View useful info about your query, such as opening/closing times for supermarkets while you search.
+
+- Language
+Korean/English/Japanese/Chinese maps and English navigation provided.
+
+*Requires iOS 16.0 or later
+*Find out more tips on how to use NAVER Map
+- NAVER Map customer service: http://naver.me/GYywEiT4
+- NAVER Map blog: https://blog.naver.com/naver_map
+- Email: naver_market@naver.com
+- Tel: 1588-3820
+- Address: 95, Jeongjail-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea",2009-05-01T07:00:00Z,2025-11-23T11:05:45Z
+mo,Macao,Navigation,6010,5,452186370,"百度地图-路线规划,出行必备","Beijing Baidu Netcom Science & Technology Co.,Ltd",https://apps.apple.com/mo/app/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE-%E8%B7%AF%E7%BA%BF%E8%A7%84%E5%88%92-%E5%87%BA%E8%A1%8C%E5%BF%85%E5%A4%87/id452186370?uo=4,0.0,4.75878,7462,Navigation,"百度地图——科技让出行更简单！
+
+【智能导航】
+-路况实时更新，推荐更优路线，智能躲避拥堵
+-智能定位，GPS信号弱也能持续导航 
+-公交导航到站提醒，实时公交覆盖多城
+【智能规划】
+-提供包含打车、驾车、公交、步行、骑行、火车、飞机、客车、货车、摩托车等出行方式的智能规划方案
+-未来通行时间智能预估，精准预估到达时间，规划路线更精准，更符合用户不同的出行或驾驶习惯 
+-全国范围内，提供多种交通方式组合的智能出行方案
+-时间优先，躲避拥堵，少收费，不走高速等多种路线偏好任你选择
+【低价打车】
+-打车惊喜特惠，周周领大额红包
+-多种车型智能比价，叫车快人一步
+-打车有保障，隐私保护，全程安全陪伴
+【智能语音】
+-语音技术行业领先，可实现全端唤醒，全局交互
+-喊“小度小度”，轻松查路线、搜地点、问天气，沿途搜等
+-只需9句话，生成个人定制语音包，并支持地图全场景使用
+【智能推荐】
+-根据个人出行时间、方式等偏好，个性化推荐出行方案
+-发现周边，探索吃喝玩乐好去处
+-智能旅游，游玩路线推荐、AI导游跟随讲解、AR导览实景沉浸式游玩体验，让你玩转景区
+
+【温馨提示】
+百度地图的语音导航和电子狗会持续使用GPS定位服务，切换至后台播放时仍会保持GPS连接，会影响电量消耗和电池续航时间。
+【遇到问题请联系】
+感谢您使用百度地图，如有任何问题您可在“我的--客服中心”中进行反馈，也可以通过以下方式进行反馈：
+官方微信公众号：百度地图/baiduditu
+官方新浪微博：@百度地图
+官方客服电话：400-099-8998",2011-07-31T07:00:00Z,2025-11-13T03:57:28Z
+mo,Macao,Navigation,6010,6,686373726,Japan Travel – 乘換案內與日本旅遊規劃,"NAVITIME JAPAN CO.,LTD.",https://apps.apple.com/mo/app/japan-travel-%E4%B9%98%E6%8F%9B%E6%A1%88%E5%85%A7%E8%88%87%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A%E8%A6%8F%E5%8A%83/id686373726?uo=4,0.0,4.72727,44,Navigation,"Japan Travel by NAVITIME 能幫您像在地人一樣走遍各地！ 
+
+應用程式概要： 
+-探索（旅遊指南與文章） 
+-路線查詢 
+-地圖 / 離線地點搜尋 
+-計畫 
+
+關於功能： 
+〔探索〕 
+- 由在日本生活的外國人編輯，介紹日本各地好吃好玩的最新文章 
+- 內容包含交通、外幣兌換、網路連線、美食、藝術和文化、夜生活、購物等。 
+- 以及編輯獨家的推薦的日本各地行程。 
+
+
+〔路線查詢〕
+- 從您所選的出發點導航到您的目的地
+- 涵蓋所有大眾運輸工具：電車(含JR、地下鐵等)、計程車、飛機和渡輪。
+- 提供實用資訊如：車站編號、車站清單和時刻表。 
+- 可縮放的東京地區地圖，讓查詢更方便。
+- 儲存約50 條路線搜尋紀錄，並支援離線查看。
+- 選擇旅遊通票／票券模式，導航路線將會優先選擇日本鐵路周遊券 (Japan Rail Pass) 等套票適用的地鐵站。
+
+〔地圖 / 離線地點搜尋〕
+- 離線模式時，支援查詢以下地點：免費無線網路熱點(NTT FREE Wi-Fi、FREESPOT、星巴克等)、外幣兌換、ATM、旅客服務中心和地鐵站。
+- 預訂現在地或目的地的飯店、租車或體驗活動。
+
+〔計畫〕
+- 在閱讀文章或在地圖上搜尋時，將有興趣的地點加入我的最愛。 
+- 從我的最愛選取景點排列在時間軸上，就能製作自己的旅遊計畫。
+- 自行選擇調整景點間的交通方式，也能在地圖上查看計畫。 
+- 也可參考編輯推薦行程，再加上自己想去的景點。
+
+【旅遊行程】（新內容！）
+- 搜尋、建立並分享旅遊行程。搜尋由編輯團隊及其他使用者建立的 200 多項旅遊行程。
+
+〔付費功能〕
+- 發生電車事故等電車停駛或誤點時，及時更新並調整路線。
+- 語音導航提示方向與地標。
+- 查看文章排名以了解熱門話題。
+- 收藏更多並歸整您最愛的景點。
+- 雨雪雷達顯示未來6小時預報。
+
+＊溫馨提醒
+- APP預設在背景中使用 GPS，以增強用戶體驗。
+- 持續使用 GPS 會消耗手機電量，您能從裝置設定中關閉GPS。
+- 在您初次使用本APP時，我們會請用戶參與一項為日本觀光機構所做的調查，其目的是為了加強在日本的觀光體驗。這項調查是選擇性的，您不回覆調查也能使用此APP。",2013-10-18T04:35:53Z,2025-11-20T00:44:15Z
+mo,Macao,Navigation,6010,7,6752559697,北況實景地圖-AR實景5G衛星實況導航,"Tianjin Maiyou Network Technology Co., Ltd.",https://apps.apple.com/mo/app/%E5%8C%97%E6%B3%81%E5%AF%A6%E6%99%AF%E5%9C%B0%E5%9C%96-ar%E5%AF%A6%E6%99%AF5g%E8%A1%9B%E6%98%9F%E5%AF%A6%E6%B3%81%E5%B0%8E%E8%88%AA/id6752559697?uo=4,0.0,1,1,Navigation,"北況實景地圖是一款專為戶外愛好者和高效出行者設計的全能地圖應用。我們不僅提供精準路線導航，更整合了全國海量專業釣點信息、實時週邊服務查詢、精準天氣預報及地鐵線路圖，致力於成為您探索未知、便捷生活的得力夥伴。
+
+功能亮點：
+1、精準導航與路線規劃：基於实况導航系統，提供更穩定、更精準的實時路線規劃與駕駛引導。無論是城市複雜路況還是郊野偏遠地區，都能為您護駕返航。
+2、全國獨家釣點地圖數據庫：專為釣魚愛好者打造！內置覆蓋全國範圍的詳盡釣點地圖，支持搜索篩選。輕鬆發現心儀釣位，分享漁獲喜悅，開啟您的垂釣之旅。
+3、智能週邊服務速查：出行在外，服務即刻掌握。一鍵快速查找附近的停車場、充電站、加油站等關鍵設施，並顯示距離、路線與狀態信息，讓行程規劃無憂。
+4、實時精準天氣預報：內置天氣預報功能，支持切換城市，查看實時天氣、未來24小時及多日預報。日常出行提前知曉天氣變化，有備無患。
+5、全覆蓋全國地鐵線路圖：輕鬆規劃城市內的公共交通出行，換乘方案一目了然，是您城市漫遊的便捷指南。
+
+會員服務說明：
+1、訂閱方案 ：年會員訂閱價格：198元/年 ；週會員訂閱價格：48元/週。
+2、扣費相關說明：
+扣費周期：訂閱到期前24小時自動從iTunes賬戶扣款續期，訂閱服務可隨時取消。
+取消路徑：通過【設置】→【Apple賬戶】→【訂閱】，找到對應的訂閱項目取消訂閱。成功取消後會員權益將在當期周期結束後服務即失效。
+
+相關協議說明：
+隱私政策：https://docs.qq.com/doc/DWGREVWV1RUVLTXpF
+用戶協議：https://docs.qq.com/doc/DWHdvaHp5aUFBZVJX
+會員服務協議：https://docs.qq.com/doc/DWGJ2UVZHYWhIQVRU
+自動續費服務協議：https://docs.qq.com/doc/DWEZuTFpHWmFvYWRL",2025-09-28T07:00:00Z,2025-11-15T10:06:28Z
+mo,Macao,Navigation,6010,8,299490481,Japan Transit Planner,"Jorudan Co.,Ltd.",https://apps.apple.com/mo/app/japan-transit-planner/id299490481?uo=4,0.0,4.82895,152,Navigation,"“Japan Transit Planner -日本換乘指南-”是日本下載次數最多的導航應用程式——“換乘指南”的多語言版。
+本應用程式可查詢日本國內的鐵道、飛機路線，並提供換乘指南。
+只需輸入出發站與到達站即可輕鬆查詢路線、票價以及所需時間。
+另外，本應用程式中收錄有日本全國所有車站（一部分區間除外），可計算得出正確的所需時間與乘車時間。
+
+查詢路線。幫助您輕鬆自如地在日本國內進行移動。
+·通過站名聯想功能與輸入歷史，可快捷輸入
+·使用當前位置查詢最近的車站
+·一鍵切換IC卡/車票票價
+·可將使用日本鐵路通票（Japan Rail Pass）、東京地鐵通票（Tokyo Subway Ticket）作為條件查詢路線
+·可輸入或顯示車站編號
+·中途停車車站的時刻
+·出發地、目的地的天氣情況
+·設定所輸入車站名稱的優先查詢地域
+·座位指定（指定座席/自由座/頭等座）
+·設置顯示順序（所需時長/費用高低/換乘多寡）
+
+時刻表。確認日本全國車站的時刻表。
+·閱覽時刻表時，有“列表”與“車站時刻表”兩種顯示方式
+·工作日、週末以及節假日之間的切換也很簡單
+·新幹線會顯示列車車號數為止的資訊
+
+分享功能。與家人或朋友共用查詢結果吧。
+·可通過郵件或日曆共用查詢結果
+
+增值模式。更為便捷的體驗。
+·通過指定優先使用列車，實現新幹線或慢車（各站停靠列車）的優先查詢功能
+·提供乘車位置（車廂編號）資訊，方便換乘
+·顯示發車、到著月台（月台編號）
+
+查詢歷史。隨身攜帶路線與時刻表的資訊吧。
+·自動保存最多50條查詢歷史
+·支持離線閱覽
+
+**********
+●價格（含稅）
+下載免費。如需使用全部功能需要購入方案。
+・連續包月 360日元
+・90日方案 1,000日元
+・365日方案 3,780日元
+
+●使用條款
+https://touch.jorudan.co.jp/iphone/japantransit/en/terms.html
+
+●隱私政策
+https://touch.jorudan.co.jp/iphone/japantransit/en/privacy.html
+
+使用本應用程式需要連接網路。
+應用程式更新後如無法啟動，麻煩您卸載後嘗試重新安裝。
+本公司力爭內容萬無一失，但無法保證沒有任何錯誤之處。僅供參考。
+
+※所記載的公司名稱、產品名稱以及服務名稱是各公司的商標或註冊商標。",2009-03-26T22:45:30Z,2025-11-12T00:45:58Z
+mo,Macao,Navigation,6010,9,667831823,车来了-精准实时公交,"Wuhan YuanGuang Tech. Co., Ltd.",https://apps.apple.com/mo/app/%E8%BD%A6%E6%9D%A5%E4%BA%86-%E7%B2%BE%E5%87%86%E5%AE%9E%E6%97%B6%E5%85%AC%E4%BA%A4/id667831823?uo=4,0.0,4.53571,28,Navigation,"“车来了”—深耕公交出行服务领域8年，服务覆盖全国300多个城市，为超1.5亿用户提供便捷的公交出行服务。
+
+【数据服务更准确】
+1.	核心数据处理能力：百人的算法团队，包含众多博士、信息学奥赛金牌获得者，确保公交实时信息的准确率。
+2.	百人路测团队：服务上线后，每个城市安排近百位路测人员，核实线路走向、站点位置、首末班时间等，让数据服务更准确。
+
+【提供公共出行解决方案】
+满足用户多样化的公共出行需求，拒绝等车焦虑。
+1.	实时查询：公交进站时间、公交运行位置、停靠站点等信息，让“公交到哪了”心中有数，告别等车焦虑，从容出行。
+2.	上/下车语音提醒：公交位置实时跟踪，上/下车到站及时语音提醒，不必担心错过车、坐过站。
+3.	创新的到站分析服务：提供每一班车的预计发车时间、今日前序发车时间、历史发车时间，解决在始发站/线路前几站等车的场景下，线路上看不见车或实时信息有延迟的苦恼。
+4.	路线规划：即便在异地的陌生场景下，提供多种换乘方案对比，公交、地铁、打车、骑行等，让出行更简单。
+5.	赶车闹钟：提前设置常用线路，按时提醒车辆的到站情况，出门不慌不忙
+6.	常用收藏：常用线路地点一键收藏到首页，让出行更便捷。 
+
+
+
+【温馨提示】
+1.""提醒服务""功能需要您允许软件获取消息推送权限，以便车辆到站时通知您；
+2.积分、以及积分活动由车来了团队全权负责，与苹果无关；
+3.后台持续运行 GPS 会影响电池续航时间（Continued use of GPS running in the background can dramatically decrease battery life）。
+
+【开通城市】
+实时公交覆盖300+个城市：北京、上海、广州、深圳、天津、武汉、东莞、佛山、成都、苏州、厦门、合肥、鞍山、淮南、保定、包头、长春、哈尔滨、长沙、常州、重庆、大连、福州、赣州、邯郸、杭州、清远、呼和浩特、惠州、焦作、吉林、济南、精河县、开封、兰州、拉萨、临沂、南昌、南京、南宁、鄂尔多斯、宝鸡、宁波、莆田、青岛、云浮、瑞安、三亚、商丘、绍兴、沈阳、石家庄、舟山、太原、楚雄、唐山、温州、乌鲁木齐、无锡、西安、新乡、许昌、徐州、达州、岳阳、张家口、郑州、中山、驻马店、淄博、海口、抚顺、嘉兴、银川、长治、泰安、绵阳、昆明、盘锦、晋城、六盘水、牡丹江、秦皇岛、日照、珠海、江门、铁岭、韶关、威海、宜昌、齐齐哈尔、镇江、济宁、潍坊、淄博、沧州、内江、九江、资阳、潮州、梅州、三明、宿迁、马鞍山、泰州、滨州、滕州、河源、江油、茂名、菏泽、莱芜、东营、衡水、广汉、湛江、滁州、盘州、吉安、德州、枣庄、岫岩、汕头、漳州、阿勒泰、香港、聊城、讷河、丽江、北海、吐鲁番、海宁、普洱、张家港、奉化、陵水、伊春、遵义、巴中、桂平、珲春、开远、汕尾、昭通、庄河、绥芬河、突泉、天门、调兵山、龙海、海林、永丰、佳木斯、阳城、东兴、东海、荣县、招远、咸宁、安宁，更多城市敬请期待。
+地铁线路查询：北京、上海、广州、深圳、武汉、天津、南京、成都、重庆、杭州、青岛、南昌、无锡、宁波、长沙、郑州、西安、苏州、长春、大连、沈阳、东莞、乌鲁木齐、佛山、兰州、南宁、哈尔滨、常州、徐州、昆明、济南、温州、石家庄、福州、香港，更多城市敬请期待。
+
+【联系我们】
+①微信公众号：车来了
+②新浪微博：@车来了
+③反馈邮箱：support@chelaile.net.cn
+
+合肥用户：每天上班下班都靠它节省了不少时间，避免出去过早在外面冻着，也能更好的安排时间。
+青岛用户：我以前用的是青岛公交查询，不过看这个下载率高就下了，确实好用，不用像以前一样还需要手动翻看自己在哪一站，还有时间提示，也很直观，确实好用
+吉林用户：吉林也上线了，查车特别准，出门能提前计划好公交到达时间，终于不用再慌忙赶公交啦。
+苏州用户：每天晚上坐夜班车回家，看一眼车来了就知道车什么时候来、什么时候可以到家，心里踏实了很多。",2013-08-11T19:50:45Z,2025-11-19T02:04:20Z
+mo,Macao,Navigation,6010,10,1480194097,HKBUS-香港巴士,Wei Hsiang Chen,https://apps.apple.com/mo/app/hkbus-%E9%A6%99%E6%B8%AF%E5%B7%B4%E5%A3%AB/id1480194097?uo=4,0.0,4.69231,286,Navigation,"HKBUS - 香港巴士
+
+支援查詢「九巴」、「龍運巴士」、「城巴」、「新大嶼山巴士」、「綠色小巴」及「港鐵巴士」之即時到站時間，助您掌握每一班車的最新動態。
+
+HKBUS 採用簡潔直觀的介面設計，方便您快速查找所需路線、站點及即時到站資料，無論是通勤、出行或旅遊，均能輕鬆應對。
+
+主要功能
+• 路線支援全面：涵蓋九巴、龍運、城巴、嶼巴、綠色專線小巴及港鐵巴士
+• 路線總覽：清晰展示所有路線編號、服務時間、方向及所屬公司
+• 智能搜尋：輸入起點或終點關鍵字，即可快速找到合適路線
+• 地圖模式：即時顯示您附近的巴士站及其所屬路線與公司
+• 瀏覽紀錄：自動儲存您曾查閱的路線，方便日後再次查閱
+• 我的最愛：收藏常用站點，自訂群組分類，加快查詢效率
+• 即時查詢：介面簡單易用，支援一鍵刷新最新到站資料
+• 鄰近站點：根據您的定位資訊，自動顯示附近的巴士站
+• 站點順序清晰：完整顯示全程站點順序，掌握行車路線一目了然
+• 路線地圖：以地圖方式展示路線與行駛軌跡，提升整體掌握度
+• 小工具支援：支援 iOS 小工具（Widget），快捷查詢即時到站時間
+• 主題切換：支援多種主題模式，配合不同使用習慣與視覺喜好
+• 語言支援：介面同時提供繁體中文及英文版本
+• 快捷輸入法：內建自訂快捷鍵盤，方便輸入站點及查詢內容
+• 鍵盤選項彈性：可選用 HKBUS 專屬輸入鍵盤或系統預設鍵盤
+• 收藏排序自訂：支援按到站時間或加入順序自動排序
+
+聯絡我們
+如對本應用有任何疑問或建議，歡迎透過電郵與我們聯絡：
+hkbus.contacts@gmail.com
+
+資料來源
+本應用之巴士即時到站資料來自香港政府「資料一線通」（DATA.GOV.HK）公開數據。
+如發現任何資料未能即時更新，歡迎通知我們，我們會盡快處理。敬請見諒，並感謝您的理解與支持。",2019-09-25T07:00:00Z,2025-11-11T08:27:42Z
+mo,Macao,Navigation,6010,11,469463298,Citymapper,Citymapper Limited,https://apps.apple.com/mo/app/citymapper/id469463298?uo=4,0.0,4.85156,128,Navigation,"圍繞您而設計的大眾運輸和共享交通體驗，即時提供所有最佳的交通選擇！
+
+為您所有的公共交通、步行、自行車旅程提供詳細路綫指示，讓您輕鬆在都市中移動。
+
+◀ 最佳路綫規劃 ▶
+
+輕鬆的規劃行程和導航，結合巴士／公車、地鐵／捷運、火車、渡輪、計程車、共享汽機車、共享單車、和步行，探索您所未知的路綫！
+
+◀ 點擊 GO 按鈕進行詳細導航 ▶
+
+為您的大眾運輸交通、步行、騎自行旅程提供精細的導航。查看您附近的共享單車或電動機車的電量，並避開禁止停車區。我們透過智能路綫規劃的演算，讓您可以輕鬆且自由地享受旅程
+
+◀ 體驗一站式的智慧交通 ▶
+
+比較計程車費用、公共交通票價、跳上共享單車或騎乘最近的共享機車。我們的合作夥伴包括：Uber、Youbike
+
+◀ 擊敗尖峰時段的人羣 ▶
+
+即時候車時間和預計到站資訊，讓您再也不用錯過任何一班巴士／公車、火車或渡輪。使用我們的追蹤功能，在地圖上實時追蹤即將到站的巴士／公車或火車。查看最適合搭乘的地鐵和捷運車廂，掌握下一停靠站資訊，設定下車提示，並從任何鐵路站的最佳出口進出
+
+◀ 讓您的日常交通更加智能 ▶
+
+獲取所有公共交通的每日更新：即時巴士公車、地鐵捷運、火車和其他共享交通工具動態資訊，以及延誤、替代路綫等狀態警報。隨時掌握當地的巴士／公車、火車或渡輪時間表的任何變化
+
+◀ 客製化屬於您的城市導航 ▶
+
+儲存住家、工作和常用車站，以便快速規劃行程路綫。訂閱您最喜歡的地鐵、捷運、火車、巴士／公車或渡輪綫路，以便接收最新的狀態警報。當地的大眾交通路綫地圖、下一班車的時間和全天時刻表都觸手可及
+
+◀ 社羣分享 ▶
+
+和家人或好朋友分享您的旅程：他們可以即時關心您的行動安全，也可預計您何時到達。分享任何位置或地址：輕鬆一按，對方即可取得路綫
+
+◀ 離綫旅行 ▶
+
+即使沒網路都不用擔心，我們提供各地區的地鐵捷運和巴士公車的離綫地圖
+
+◀ 地區 ▶
+
+台灣 | 香港 | 新加坡 | 首爾 | 倫敦 | 紐約 | 巴黎 | 羅馬 | 米蘭 | 柏林 | 赫爾辛基 | 墨爾本 | 維也納 | 威尼斯 | 瑞士 | 布拉格 | 里斯本 | 伊斯坦堡 | 洛杉磯 | 舊金山 | 波士頓 | 德州 | 多倫多 | 溫哥華 + 更多全球各地的城市！查看完整列表快到 https://citymapper.com/cities，也可以建議你希望我們服務的下一個城市！
+
+◀ 公共交通機構 ▶
+
+我們使用來自各交通機構的開放資料，包括：資料一線通 | 港鐵公司 | 城巴／新巴 | 香港電車 | 台灣鐵路 | 台灣高鐵 | 台北捷運 | 桃園捷運 | 高雄捷運 | 各縣市公車業者 | Youbike | T-Bike | Pbike
+
+◀ 聯絡我們 ▶
+
+如果您有任何問題或反饋，請電郵：support@citymapper.com
+
+在 Twitter 上關注我們：https://twitter.com/Citymapper
+
+來逛逛我們的網站：https://citymapper.com",2011-10-18T03:47:18Z,2025-11-07T14:37:50Z
+mo,Macao,Navigation,6010,12,1007055917,Pokeguide 即時交通轉乘專家,Pokeguide Limited,https://apps.apple.com/mo/app/pokeguide-%E5%8D%B3%E6%99%82%E4%BA%A4%E9%80%9A%E8%BD%89%E4%B9%98%E5%B0%88%E5%AE%B6/id1007055917?uo=4,0.0,5,5,Navigation,"主要功能:
+- 我們的 AI 能夠從附近的巴士、小巴、地鐵和輕鐵中挑選你有用的即時到站時間
+- 點對點交通搜尋，連van仔、免費接駁巴士及村巴都有
+- 包含所有交通轉乘資訊
+- 搜尋白天及通宵交通
+- 最快地鐵車廂車門位置
+- 計算目的地附近鐵路出口
+- 無需上網也能用鐵路攻略
+- 超簡易方便AR相機導航
+- 訂購飯盒、盤菜及到會食物
+
+交通覆蓋:
+- 香港: 香港地鐵 MTR (港鐵)、輕鐵、九巴 KMB、城巴 CityBus、新巴 NWFB、龍運 LWB、大嶼山巴士、村巴 (居民巴士)、免費接駁巴士、綠色專線小巴、電車、渡輪、愉景灣航運、珀麗灣客運、街渡等
+- 澳門: 新福利 Transmac、澳巴 TCM、免費接駁巴士 (發財巴)
+- 台灣: 公車、台北捷運、桃園捷運、高鐵、台鐵
+
+------
+【香港及澳門適用】
+1.「想找一個最齊全易用的交通app幫手」
+我們實地探訪各種交通路線，收集在地數據，
+為您提供香港及澳門主要交通工具選擇，計算出最省時的交通方式組合，精準、可靠，本地第一！
+
+------
+【全球通用】
+2. 「不想在路面迷路！」
+用AR 功能，最直接指引你去目的地，從此路癡也不會迷路！
+* AR 功能只支援iPhone 6s或以上，也只適合在戶外使用
+* AR 功能只適合在戶外使用，並有機會不能在個別電話使用
+
+------
+【香港地鐵、台北桃園捷運 適用】
+3. 「想一出車門就對準最近出口的扶手電梯！」
+您可輸入地標/地址，然後我們計算最近的出口，並教您在最佳車門上車，下車時扶手電梯/升降機/通道就在眼前。輕鬆轉乘，直達出口！
+
+4.「轉乘時不知道該去哪個候車月台，又怕搭錯方向！」
+告訴你該從哪邊下車，方便提早準備；並提供詳細轉乘月台資訊，連列車進站方向都以動畫顯示，輕鬆判斷是否到達正確月台！
+
+5. 「也不想在站內迷路！」
+【獨家】站內 VR 實景導航，再配合我們的車廂車門推介，最快捷轉車！
+
+6. 「 攜著大型行李/嬰兒車不方便！」
+提供 ""不要樓梯"" 及""只要升降機"" 的選項，適合孕婦、攜帶嬰兒車或行李等有需要人士！
+
+7. 「提供傷健人士的需要」
+支援輪椅模式及視障模式，提供特別答案和語音輸入功能
+
+-----
+
+技術支援及反映意見:
+我們很樂意聆聽及解答您們對 POKEGUIDE 的意見，歡迎到 https://m.me/PokeguideHK 跟我們聯絡。
+
+獎項:
+- Hong Kong Business - “Hong Kong's 20 Hottest Startups 2016”
+- Techflier - “11 Tech Startups in Hong Kong You Need to Know About in 2016”
+- Internet Society Hong Kong - ""Walk21HK CityTech Awards""
+
+媒體報道:
+- 香港及台灣蘋果日報 - 【最關注新聞】前十名
+- 東方日報
+- TVB
+- now 新聞
+- 明報
+- 星島日報
+- 經濟日報
+- 頭條日報
+- am730
+- 晴報
+- 文匯報
+- 香港電台
+- 新城電台
+- 輔仁媒體
+- Hong Kong Free Press - 【Top 5 This Week】
+- U Magazine
+- e-zone -【專題報道】
+- unwire.hk
+- 台灣數位時代
+- 新假期 -【編輯推介】
+- 港生活
+- Jumpstart Magazine
+- Young Post
+- 流動日報 限時免費 Apps
+- App 神
+- PC Market
+- Linuxpilot
+- 123出發‬
+- Stylesfeed
+- 今日時尚 Nobby Share
+- GS1 Supply Chain + Magazine
+- Tech In Asia",2015-07-07T02:56:35Z,2024-09-24T17:10:27Z
+mo,Macao,Navigation,6010,13,323229106,Waze 社群導航與即時路況,waze,https://apps.apple.com/mo/app/waze-%E7%A4%BE%E7%BE%A4%E5%B0%8E%E8%88%AA%E8%88%87%E5%8D%B3%E6%99%82%E8%B7%AF%E6%B3%81/id323229106?uo=4,0.0,4.63999,25,Navigation,"Waze 是一款社群驅動的導航應用程式，通過即時道路警報和最新地圖，幫助數百萬用戶安全到達他們想去的地方。 借助我們的用戶網路，Waze 可以立即提醒您交通、工程、車禍、警察等情況，從而節省您的時間。Waze 是一個為其他駕駛提供幫助的社群，提供避開塞車的改道路徑、即時安全更新，以及最低廉油價報告等等服務。
+
+
+有了 Waze，您...
+
+
+• 更快抵達目的地：避免交通堵塞的路綫更新
+• 避免罰款：提前知道警察、超速及闖紅燈攝影機的位置
+• 更準確的預計到達時間：基於即時交通、道路施工以及天氣因素等等
+• 基於社群的導航：來自其他駕駛們的即時更新
+• 省下汽油費 - 尋找途中最便宜的加油站
+• 避免收費：選擇路線時可以查看各路徑的收費價格
+• 使用 Apple CarPlay：可將 Waze 同步投射到汽車的内建螢幕上
+• 即時車速表：超速時收到警報，以避免昂貴的罰款
+• 自定您的駕駛設置：選擇您喜歡的名人語音和人物，陪您導航
+• 無需切換應用程式：直接從 Waze 使用您最喜歡的音樂應用程式
+
+
+駕駛更安全，更智能，有了 Waze！
+
+
+您可以隨時在 Waze 的應用程式內管理您的隱私設置。 如需了解有關 Waze的隱私政策，請訪問 www.waze.com/legal/privacy
+
+
+Waze 導航不適用於緊急車輛或大型車輛。",2009-08-01T21:14:40Z,2025-11-10T12:05:02Z
+mo,Macao,Navigation,6010,14,325924444,Subway Korea,"Malang Studio Co. Ltd,",https://apps.apple.com/mo/app/subway-korea/id325924444?uo=4,0.0,4.925,80,Navigation,"“地鐵( subway korea )的約定”
+-應用地鐵城市軌道官方數據，為您提供最准確的地鐵時間表
+-用積累10年的技術經驗，提供最優化的檢索功能
+-提供一體化的檢索結果
+（所需時間/費用/停靠站/換乘時間/快速換乘/下車車門/衛生間 等）
+-使用實時地鐵 信息地鐵（subway korea）告別上下班擁擠的地鐵!
+“只需韓國地鐵（subway korea）”
+
+從地名檢索到目的地一路導航
+提供出口及道路地圖
+
+--地鐵（subway korea）詳細說明--
+
+地鐵路線APP中最悠久最受人喜愛大眾交通地鐵APP（subway korea）將更上一層樓。
+韓國地鐵（subway korea）APP依照城市地鐵官方數據，為您提供所有大眾交通地鐵路線圖APP中，最迅速最準確的地鐵站點時間信息。
+根據上下班時間、工作日、週六、節假日提供實時變化的地鐵時間信息，並憑藉10年積累的技術經驗搜索算法，為您提供準確的獨家地鐵線路信息。
+使用韓國地鐵APP( subway korea ) 實時地鐵信息，告別上下班擁擠的地鐵。
+
+韓國地鐵APP提供主要城市（首爾地鐵、釜山地鐵、大田地鐵、光州地鐵、大邱地鐵）的大眾交通地鐵路線及地鐵站周邊地圖，直到目的地的道路導航功能等多種服務。是首爾旅行、釜山旅行、大田旅行、廣州旅行、大邱旅行必備的APP!
+
+[依照城市地鐵線路官方數據，最迅速最准確的地鐵時間表]
+-提供地鐵線路官方時間表
+（依據各地鐵路線運營情況，也可能會出現延遲和無法預期的變動。）
+-確保及適用持續更新的地鐵路線圖時間表
+-完美支持根據上下班時間、工作日、週六、節假日不斷變化的大眾交通時間表
+-支持主要地鐵路線圖（首爾地鐵、釜山地鐵、大田地鐵、光州地鐵、大邱地鐵）
+-首爾旅行、釜山旅行、大田旅行、光州旅行、大邱旅行必備APP!
+
+[ 支持簡單多樣的檢索功能 ]
+- 支持首字母搜索地鐵站
+- 一鍵點擊搜索末班地鐵時間表
+- 快捷列車推薦，提供最省時路徑
+- 自由選擇快車、慢車、出口，搜索地鐵路徑
+- 支持搜索最近地鐵站、地鐵路徑線路圖
+- 10年經驗地鐵搜索算法
+
+[ 首次引入地鐵地名檢索尋找道路! ]
+- 首創大眾交通導航! 提供包括地鐵出口信息在內的路線地圖
+- 搜索目的地，利用地圖可找附近1km內最近的地鐵及出口信息
+- 在主要路線圖（首爾地鐵路線圖、釜山地鐵路線圖、大田地鐵路線圖、光州地鐵路線圖、大邱地鐵路線圖）中設置目的地，一次可見出口編號等信息
+- 首爾旅行、釜山旅行、大田旅行、光州旅行、大邱旅行必備APP !
+
+[考慮到用戶經驗的功能改善]
+- 保證畫質可無限放大，提供國內唯一矢量地鐵路線圖
+- 提高地鐵路線圖縮放速度
+-新增到達目的地通知及換乘站通知功能
+- 設置主頁主按鍵，改善UI
+-地鐵路線圖APP首次採納地鐵換乘站、換乘時間、出口信息、上下班地鐵延遲、耗時等用戶參與改善的算法 使用實時地鐵信息上下班，告別擁擠的地鐵!
+
+[多種選項設置個性化UI]
+- 根據地區、語言、單位，提供共30種個性地鐵路線表和換乘信息
+-首頁設置功能:首頁搜索直接可選常選車站及常用路線
+
+[最為細緻 一體化檢索結果]
+地鐵途中信息:所需時間/費用/停車站/換乘時間/快速換乘路線檢索
+-地鐵信息:下車車門/是否可以橫穿道路/衛生間/哺乳設施/電梯/障礙人設施/歷史號碼
+-地鐵出口信息:谷歌地圖提供臨近地鐵出口信息，道路導航
+
+---
+This service includes In-app Purchase items, and a separate fee will be charged for purchase.
+
+- Terms of Service : https://bit.ly/38oF8eA
+- Privacy Policy : https://bit.ly/31Ht5rE 
+
+Contact
+Tel. support@malang.kr  / +827050386396
+Address. 11th floor, 508, Eonju-ro, Gangnam-gu, Seoul, Republic of Korea",2009-09-04T17:33:53Z,2025-09-23T07:40:55Z
+mo,Macao,Navigation,6010,15,498477945,Moovit: 香港巴士鐵路線搜尋,Moovit App Global LTD,https://apps.apple.com/mo/app/moovit-%E9%A6%99%E6%B8%AF%E5%B7%B4%E5%A3%AB%E9%90%B5%E8%B7%AF%E7%B7%9A%E6%90%9C%E5%B0%8B/id498477945?uo=4,0.0,4.7317,164,Navigation,"Moovit是一款適用於所有城市交通及公車的應用程式!  
+
+交通運輸是城市生活不可或缺的一部分。無論您搭乘火車、地鐵、公車、輕軌、纜車還是騎自行車，獲取最 好的城市交通信息至關重要。
+
+開啟Moovit!  Moovit以最簡單、最有效的方式將您從A點帶到B點。 輕鬆取得火車和公車的班次時間、地圖以及即時到達時間,安心地計畫您的行程。尋找最常用線路的變更及服務中斷。獲取公車、火車、地鐵、自行車或及換乘的最佳路線分步指導。
+
+這就是Moovit被評為2017年App Store最佳應用程式之一的原因。
+
+Moovit為全球3200多個城市的8.65億位使用者提供交通指南 - 這意味著在旅行時您可以像當地人一樣輕鬆地搭乘 公共交通工具。
+
+Moovit是全球首個城市交通及運輸應用程式:
+
+► 旅行計劃程式 結合了您所有的交通選擇,並為您提供即時抵達目的地的最佳路線。
+
+► 即時路線: 在旅途中,通過即時路線獲取分步引導:確切地瞭解您到達車站的步行時間、 等待時間、檢視線路的到達時間以及剩餘站數。
+
+Moovit會在下車時向您發出鬧鐘，由此您可以全程專注於其他事物 - 無需反復覽下一站網站。
+
+► 即時抵達。查看即時抵達更新,直接從公共汽車及火車的GPS 裝置上取得即時更新。 避免浪費時間猜測火車時間或公車的抵達時間。
+
+► 即時提醒。 接收服務提醒,及時瞭解問題,例如緊急或意外中斷、延誤、交通堵塞、新建築等,以便您可以提前根據公共汽車或火車時間 的變化提前更改行程計劃。
+
+► 用戶報告。 Moovit使用者可報告在車站、線路服務和時程表方面發現的問題,同時我們會向附近乘客報告發生的所有情況。
+
+► 常用路線、車站與地點。方便您隨時隨地查閱路線、車站和地點。另外,如果/當您的常用線路發生更改時,您還可以得到即時更新,以防止您的公車或火車計劃受到影響!
+
+► 自行車路線。除了公車、地鐵、火車或地鐵的路線之外,您還可以獲得自行車路線。 如果您騎自行車,我們可以為您規劃一條包含火車或公車的路線。
+Moovit將協助您計畫一次滿足您運輸需求的行程。
+
+► 地圖檢視。有興趣看整副畫面嗎? 在地鐵或巴士地圖上查看所有車站、路線和線路。此外,當您離線或搭乘地下地鐵時,也可以使用PDF格式的地圖。
+
+使用Moovit在所有主要城市搭乘交通工具:
+•北京
+•上海
+• 深圳
+• 廣州
+•重慶
+•成都
+•杭州
+•南京
+•天津
+•武漢及更多城市...
+
+Moovit支持所有主要的交通運輸工具:
+•快速公交
+•一汽巴士
+•上海地鐵
+•上海巴士
+•上海磁懸浮
+•上海輪渡
+•兩江公交
+•眾興客運
+•佛山公交
+•北京地鐵
+•南京地鐵
+•公交一公司及更多……
+
+一個手機應用程式即可以45種語言遊覽中國及其他106個國家的公車和所有不同類型的交通運輸工具
+
+您乘坐,我們引導!  
+
+請隨時與我們聯繫:
+Support@moovit.com
+moovit@Facebook, Twitter
+
+服務條款
+https://moovitapp.com/en-us/legal/terms-of-service-en",2012-04-27T07:00:00Z,2025-10-26T07:14:19Z
+mo,Macao,Navigation,6010,16,304608425,KakaoMap - Korea No.1 Map,Kakao Corp.,https://apps.apple.com/mo/app/kakaomap-korea-no-1-map/id304608425?uo=4,0.0,4.75,12,Navigation,"KakaoMap will show you the fastest routes in Korea!
+With KakaoMap, you can find everything you want in a map app,
+from directions to hot restaurants and local attractions, and more!
+
+► You need to find the fastest route?
+[Fastest and most accurate map]
+You will get the latest information updated within 24 hours for cars, public transportation, walking and bicycle.
+[Navigation system included]
+No need to install a separate navigation app. When you search for a route, KakaoMap will give you navigation directions right away.
+[Comprehensive search within one search window]
+You can find all information you need using one search window including a bus number, a bus stop, a specific place, etc.
+
+► When you need local information
+[Recommendation just for you]
+KakaoMap will provide useful information based on your current location including hot restaurants, keywords, spots, events, etc.
+[Search areas on the map]
+You can see search results right away by using the ""Re-search this area"" feature on the map.
+[Places suggested by data]
+KakaoMap analyzes big data on visitors and provides information on a specific place by age, gender and day of the week.
+
+► Need more systematic maps?
+[Favorites organized by group]
+You can manage Favorites by group and indicate them on the map. Folders can also be followed and shared.
+[Road View]
+After searching for a route, you can see the place you plan to visit in advance using the Roa View feature.
+[Realistic 3D Map]
+We provide a more realistic vector-based map which can be rotated or tilted 360 degrees. It looks very real!
+[Real 3D Sky View]
+When you want to search a three-dimentional map, you can use 3D Sky View.
+
+► Other convenient features
+- Favorite places shown on the map
+- Real-time bus information to help you reduce wait time
+- Real-time traffic information to help you find fastest routes
+- Convenient and accurate subway map
+- Use Friends Location when you want to know where your Kakaotalk friends are 
+- Hyper Accurate Bus services for Busan, Chuncheon, Mokpo, Ulsan, Jeju and Gwangju
+
+► KakaoMap shares data with Health Application(Workouts, cycling distance, active energy burned) when using bike navigation.
+
+► KakaoMap loves to hear your suggestions.
+
+► Questions & Feedback
+- maps@kakaocorp.com
+- Kakao Customer Service Homepage 
+(http://www.kakao.com/requests?locale=ko&service=59)
+- Customer Service: 1577-3321
+- Developer: 1577-3754
+
+——
+► Information about permission accessed
+[Optional permissions]
+- Location : To search nearby places and show directions using the current location info.
+- Mic : Voice Search
+- Camera : To review and report places, and to take photos for profile setting
+- Photos : To review and report places, and to attach photos for profile setting
+- Notification : Receive Arrival/Location-Sharing/Recommendation Alarms and Important Notices
+- Health: Used to save your cycling navigation records
+
+* You can still use the service even if you don't give the above permissions.",2009-03-18T11:35:37Z,2025-11-18T01:01:19Z
+mo,Macao,Navigation,6010,17,503492897,澳門地圖通 Macau GeoGuide,Cartography and Cadastre Bureau,https://apps.apple.com/mo/app/%E6%BE%B3%E9%96%80%E5%9C%B0%E5%9C%96%E9%80%9A-macau-geoguide/id503492897?uo=4,0.0,1.89542,153,Navigation,"《澳門地圖通》是地圖繪製暨地籍局發佈的流動地圖應用程式，為市民及遊客提供全方位的地理資訊應用服務，運用專業的地圖繪製技術，結合流動平台及多點觸控的優勢，可隨時隨地取得最新的地理資訊，為用戶帶來嶄新的使用體驗。在戶外的環境下，用戶可輕易地找到所需及鄰近的醫、食、住、行、育、樂等各類地理資訊，並可配搭使用點對點路線規劃功能，找到合適的出行路線。
+
+《澳门地图通》是地图绘制暨地籍局发布的流动地图应用程式，为市民及游客提供全方位的地理资讯应用服务，运用专业的地图绘制技术，结合流动平台及多点触控的优势，可随时随地取得最新的地理资讯，为用户带来崭新的使用体验。在户外的环境下，用户可轻易地找到所需及邻近的医、食、住、行、育、乐等各类地理资讯，并可配搭使用点对点路线规划功能，找到合适的出行路线。
+
+O “Macau GeoGuide” é uma aplicação móvel de mapas lançada pela Direcção dos Serviços de Cartografia e Cadastro (DSCC), com vista a proporcionar uma gama completa de serviços de informações geográficas a turistas e cidadãos e é alcançada através da aplicação de tecnologias cartográficas específicas, conjugadas com as vantagens da plataforma móvel e da tecnologia multitáctil, que permite a obtenção de últimas informações geográficas o que proporciona aos utilizadores novas experiências. Paralelamente, tendo em conta o uso deste APP ao ar livre, o utilizador pode obter facilmente as informações geográficas necessárias em redor, nomeadamente da medicina, de alimentação, de alojamento, transporte, educação e entretenimento e entre outras informações e também pode ser usado juntamente com a função de planeamento de percurso “ponto a ponto”, a fim de encontrar o percurso adequado.
+
+""Macau GeoGuide"" is a mobile map application published by the Cartography and Cadastre Bureau, provides a full range of geographic information services for citizens and tourists. It uses professional mapping technology, combined with the advantages of mobile platform and multi-touch, so that users can obtain the latest geographic information anytime and anywhere, bringing brand new use experience to the users. When using outdoor, users can easily locate the necessary geographic information around, such as health care, food, housing, transportation, education and entertainment, and use the point to point route planning function to find an appropriate travel route.",2012-03-19T04:58:21Z,2023-02-01T09:00:23Z
+mo,Macao,Navigation,6010,18,6737542196,Google 街景：实时地图,Kerem AKBULUT,https://apps.apple.com/mo/app/google-%E8%A1%97%E6%99%AF-%E5%AE%9E%E6%97%B6%E5%9C%B0%E5%9B%BE/id6737542196?uo=4,0.0,0,0,Navigation,"Google 街景：实时地图是一款完美的移动应用，适合旅行者、探险家、房地产经纪人以及任何想要通过手机体验世界的人。这款应用可无缝访问全景街景和实时地图，将您的智能手机变成强大的虚拟导航工具。无论您是在计划旅行、探索街区，还是仅仅对远方充满好奇，Street View 360 - Live Maps 都能提供精准的高分辨率图像和实时地图更新。
+
+只需轻点几下，即可在城市街道中穿梭、探索偏远地区或预览目的地。该应用将用户友好的设计与先进的 GPS 和定位技术相结合，提供流​​畅、沉浸式的体验。它也非常适合需要即时访问地理信息的学生、研究人员和专业人士。无论您是在探索全球还是仅仅在本地，这款应用都能让您轻松掌控世界。
+
+高级功能：
+
+360 度街景：沉浸于街道、地标和自然奇观的全景之中。
+
+实时地图导航：获取精准的路线指引、实时路况信息和位置详情。
+
+虚拟旅行：无论身处世界何处，都能体验著名地标和偏远地区。
+
+搜索附近地点：查找您附近的餐厅、景点和生活必需服务。
+
+离线模式：保存地图和视图，以便在没有网络连接的情况下访问。
+
+自定义标记：标记并保存您喜爱的地点，方便快速访问和规划行程。
+
+订阅详情：
+
+访问权限：所有内容和功能均需订阅才能使用；不提供免费功能。
+
+费用：高级街景 360：每周 10.49 美元（价格可能因货币而异，具体以 App Store 价格表为准）。
+
+试用：免费试用期结束后，订阅将自动续订为付费计划。如果您在试用期内切换到付费订阅，则未使用的试用天数将作废。
+
+续订：订阅将自动续订，除非在当前订阅期结束前 24 小时关闭自动续订。您可以在帐户设置中管理续订设置。
+
+更多信息，请查看我们的隐私政策和使用条款。隐私权政策：https://docs.google.com/document/d/18RGhnFRHkK6oVjCpm0ti-cXzr20MWE6AdnN4MSrsQzE/edit?usp=sharing
+
+使用条款：https://docs.google.com/document/d/1Ss6217DtnWmukEl9Kr7iCyLDPWUx81_Rtign_93c6YE/edit?usp=sharing",2025-07-06T07:00:00Z,2025-11-20T11:17:19Z
+mo,Macao,Navigation,6010,19,1361881265,香港地鐵通 - 港鐵出行路線導航搜尋app,球旺 李,https://apps.apple.com/mo/app/%E9%A6%99%E6%B8%AF%E5%9C%B0%E9%90%B5%E9%80%9A-%E6%B8%AF%E9%90%B5%E5%87%BA%E8%A1%8C%E8%B7%AF%E7%B7%9A%E5%B0%8E%E8%88%AA%E6%90%9C%E5%B0%8Bapp/id1361881265?uo=4,0.0,4.77941,136,Navigation,"1. 2023新版數據
+與時俱進的數據，精準的地鐵信息。
+
+2. 路線搜尋
+選擇起終點，即可獲得便捷的接駁方案。包含：路線，時間，票價，距離，只選對的。
+
+3. 抵站提醒
+精準的實時抵站提醒功能，安心玩手機，再也不用擔心坐過站。
+
+4. 站點周邊搜尋
+快速便捷的搜尋地鐵站周邊的吃喝玩樂資訊，一鍵導航，無憂生活。
+
+5. 全方位的地鐵資訊
+換乘指引、出口資訊、地鐵線路圖、線路站點資訊、首末車時間、車站周邊地標地圖等各類有價值的資訊，助您輕鬆計劃行程。
+
+6. 一鍵分享
+我們為您準備了換乘線路方案的文字和圖片版，只需一鍵即可分享給您的小夥伴啦，趕緊來試試吧！
+
+【自動續費會員】
+-- 訂閱周期：1周（連續包周產品）、1個月（連續包月產品），3個月(連續包季產品)，12個月（連續包年產品）。
+-- 訂閱價格：以iAP申請信息為準，例如連續包周產品為每周5元；連續包月產品為每月10元。
+-- 付款：用戶確認購買並付款後記入iTunes賬戶。
+-- 取消續訂：如需取消續訂，請打開蘋果手機""設置""->進入""iTunes Store 與 App Store""->點擊""Apple ID""，選擇""查看Apple ID""，進入""賬戶設置""頁面，點擊""訂閱""，選擇並取消訂閱。如未在訂閱期結束的至少24小時前關閉訂閱，此訂閱將會自動續訂。
+-- 續訂：蘋果iTunes賬戶會在到期前24小時內扣費，扣費成功後訂閱周期順延一個訂閱周期。
+-- 隱私政策：http://www.ikaytong.com/privacy
+-- 會員服務協議：http://www.ikaytong.com/service
+-- 自動續費服務協議：http://www.ikaytong.com/renew",2018-03-22T04:03:57Z,2023-09-28T19:32:11Z
+mo,Macao,Navigation,6010,20,6751310250,3D實況衛星導航 - 指南針北斗智能語音導航,"Hubei Kanju Technology Co., Ltd.",https://apps.apple.com/mo/app/3d%E5%AF%A6%E6%B3%81%E8%A1%9B%E6%98%9F%E5%B0%8E%E8%88%AA-%E6%8C%87%E5%8D%97%E9%87%9D%E5%8C%97%E6%96%97%E6%99%BA%E8%83%BD%E8%AA%9E%E9%9F%B3%E5%B0%8E%E8%88%AA/id6751310250?uo=4,0.0,5,1,Navigation,"3D實況衛星導航——您的全能出行探索家
+我們不僅僅是一款地圖應用，更是集精準導航、高清衛星視圖、垂釣旅遊探索和實用工具於一身的全能夥伴，期望為您提供優質的地圖體驗。
+
+【核心功能亮點】
+1、實況3D語音導航，行車如身臨其境
+真3D立體路況：道路、立交橋、建築模型全方位立體還原，複雜路況一目了然，告別迷路。
+實時準確播報：實時更新路況資訊，智能規劃最優路徑，精準語音播報，讓您安全抵達目的地。
+2、高清衛星地圖，世界盡在掌握
+上帝視角看世界：無縫切換至高清衛星地圖，街道、建築、山川河流清晰可見，探索城市脈絡與自然奇觀。
+多圖層自由切換：支援標準地圖、衛星圖、交通路線圖等多種模式切換，滿足您不同場景下的查看需求。
+3、全國釣點大全，垂釣愛好者的寶藏圖
+匯聚全國優質釣點：無論是野塘、水庫、江河還是海釣，各地區、各類型的釣點資訊一網打盡。
+輕鬆發現好去處：快速查詢附近釣點，查看釣場類型、魚種資訊，助您每一次出發都收穫滿滿。
+4、全國景點大全，解鎖旅行新方式
+景點分佈一目了然：一鍵查詢全國熱門景點、小眾寶藏地的分佈地圖，輕鬆規劃您的下一段旅程。
+深度遊必備神器：提前了解景點資訊，讓您的旅行更加省心、精彩。
+5、實用地圖工具箱，戶外探索好幫手
+海拔測量：登山、徒步時實時查看當前海拔高度。
+指南針：在野外為您辨別方向，指引前行道路。
+經緯度相機：拍照時自動記錄地理位置座標，分享您的獨特發現。
+
+無論您是日常通勤、長途自駕、戶外垂釣還是旅行休閒，【3D實況衛星導航】都是您手機裡不可或缺的得力助手。立即下載，以全新的視角探索世界！
+
+【會員訂閱服務說明】
+1、訂閱方案 ：年會員訂閱價格：198元/年 ；周會員訂閱價格：48元/周。
+2、扣費相關說明：
+扣費週期：訂閱到期前24小時自動從iTunes賬戶扣款續期，訂閱服務可隨時取消。
+取消路徑：通過【設定】→【Apple賬戶】→【訂閱】，找到對應的訂閱項目取消訂閱。成功取消後會員權益將在當期週期結束後服務即失效。
+
+【相關協議連結】
+用戶協議：https://docs.qq.com/doc/DWG1DektJTEp2RUtV
+隱私政策：https://docs.qq.com/doc/DWHpNTWVCa2N5bExp
+付費會員服務協議：https://docs.qq.com/doc/DWE5mZkZGV0tIUllN
+自動續費服務協議：https://docs.qq.com/doc/DWEVnQkJWU2RnRnRD",2025-08-28T07:00:00Z,2025-11-12T23:25:40Z
+mo,Macao,Navigation,6010,21,646277024,两步路户外助手 -- 记录户外精彩生活,Shenzhen 2bulu Information Technology Co. Ltd.,https://apps.apple.com/mo/app/%E4%B8%A4%E6%AD%A5%E8%B7%AF%E6%88%B7%E5%A4%96%E5%8A%A9%E6%89%8B-%E8%AE%B0%E5%BD%95%E6%88%B7%E5%A4%96%E7%B2%BE%E5%BD%A9%E7%94%9F%E6%B4%BB/id646277024?uo=4,0.0,4.59999,20,Navigation,"两步路户外助手——记录和导航，无网也能用
+
+两步路是国内领先的专业户外平台，拥有海量户外轨迹，丰富户外活动，优质户外装备，精彩户外攻略，户外使用两步路，出行安全不迷路。
+
+产品特色：
+1.户外记录：支持无网络记录运动和出行，还支持多款第三方穿戴设备数据同步
+2.海量轨迹：数千万精华轨迹揽括全国户外线路，全部免费下载
+3.约伴活动：快速召集志同“道”合小伙伴开启户外之行，一呼百应
+4.跟团活动：以体验和探索为核心，进行自然探索的个性化主题旅行
+5.户外装备：亲民价格，种草户外优质优惠装备
+6.社区动态：分享户外美景，户外心得，找寻户外攻略
+7.组队功能：查看队友位置，户外出行更加安全可靠
+8.精彩赛事：支持定位签到、里程挑战、天数打卡、团队PK各种线上线下玩法
+
+
+适用场景 ：
+徒步登山、跑步骑行、定向越野、极限运动、线路规划、户外救援、运动分析等。 
+
+公司简介： 
+两步路户外助手是深圳市两步路信息技术有限公司的系列产品之一。我司旗下包括两步路户外网、两步路户外助手APP、户外商城、赛事系统、救援平台等产品。两步路始终坚持以人为本，为用户提供安全、可靠、领先的户外科技，助力人们更安全、更自由的探索世界。
+
+联系方式： 
+微信公众号：两步路 
+新浪微博：@两步路-官微
+官方网站：https://www.2bulu.com/
+
+【自动续费会员说明】
+1.订阅服务：两步路VIP会员连续包月（1个月）、两步路VIP会员连续包季（3个月）、两步路VIP会员连续包年（12个月）
+2.订阅价格：连续包月会员为25元/月，连续包季会员为75元/季，连续包年会员为238元/年
+3.付款：用户确认购买并付款后计入iTunes账户
+4.续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期
+5.取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续订功能
+6.服务协议：
+a)隐私政策：https://www.2bulu.com/about/privacy.htm
+b)会员服务协议：https://www.2bulu.com/mc/vip/userduty
+c)用户协议：https://www.2bulu.com/about/terms_use.htm",2013-05-23T18:31:15Z,2025-10-31T02:47:09Z
+mo,Macao,Navigation,6010,22,1445630390,LUUP - RIDE YOUR CITY,"Luup, Inc.",https://apps.apple.com/mo/app/luup-ride-your-city/id1445630390?uo=4,0.0,4.97959,49,Navigation,"Ride e-scooters/e-bikes at a discount!
+
+""LUUP"" is a sharing service that allows you to ride small e-bikes and  e-scooters around town from anywhere and return them to the place you choiced. The service is currently available in Tokyo, Osaka, Kyoto, Yokohama, Utsunomiya, Kobe, Nagoya, Hiroshima, Sendai, Fukuoka, Kitakyushu and Hamamatsu! Please use this service for commuting to work, school, shopping, and other places that are a little too far to go on foot!
+
+FEATURES
+
+1. No license required! You can ride an e-scooters if you are 16 years old or older!
+You can ride an e-scooter after passing age verification and a traffic rules test.
+
+2. Complete everything from ride to payment with the app
+Procedures to use are completed via the app and the ride begins. Payment is also made through the app, so all you need is a mobile phone.
+
+3. Membership registration is free! You can start using it today!
+You can use the service immediately after downloading.
+
+4. Small but powerful electric assisted bicycles.
+Although the vehicle is designed to be small, it is powerful, and anyone can ride it stably without getting tired. It is perfect for sightseeing or cycling for a change of pace.
+
+5. High-density parking installation in our service areas
+Parkings are densely located in the service area, so you can ride right when you want to, without having to walk for a long time to the parking. You can check the parking map from the LUUP app.
+
+AREAS OF OPERATION  *As of July 2024
+
+Tokyo (Shibuya, Meguro, Minato, Setagaya, Shinagawa, Shinjuku, Chuo, Chiyoda, Koto, Sumida, Taito, Bunkyo, Toshima, Nakano, Suginami, Arakawa, Kita, Ota, Itabashi, Adachi, Mitaka, Musashino)
+Yokohama City (Kanagawa, Naka and Nishi areas)
+Osaka (Kita and Minami areas)
+Kyoto (Kyoto City)
+Tochigi(Utsunomiya City)
+Hyogo (Kobe City)
+Aichi (Nagoya City)
+Hiroshima(Hiroshima City)
+Miyagi(Sendai City)
+Fukuoka(Fukuoka City, Kitakyushu City)
+Shizuoka(Hamamtsu City)
+Other areas and nationwide!
+
+HOW TO USE LUUP
+
+You can use LUUP in [4 steps]!
+
+1. Find LUUP parkings around town
+You can find parkings on the app's map
+
+2. Use the in-app camera to read the QR code on the vehicle and unlock it
+Select the parking point for returning before the ride to ensure the return of the vehicle (* You can change the place during the ride)
+
+3. Start the ride to the destination
+
+4. End riding when you take a photo of your LUUP bikes or scooters parked in the parking and make an in-app payment
+
+PRICE
+
+Prices vary by city and region.
+
+Rates for Tokyo, Osaka City: 50 yen (including tax) as basic ride fee + 20 yen per minute (including tax) as time fee
+Rates for other major areas: 50 yen (including tax) as basic ride fee + 15 yen per minute (including tax) as time fee
+
+*Currently, the same fee applies to both e-scooters and bicycles.
+*Prices may differ in some areas. Please see the LUUP help page for details.
+
+NOTES
+
+ - Credit card registration is required.
+
+*The name ""loop"" is sometimes incorrectly used, but the correct name is ""LUUP"".
+*""QR Code"" is a registered trademark of DENSO WAVE INCORPORATED.",2023-06-04T07:00:00Z,2025-11-19T03:35:03Z
+mo,Macao,Navigation,6010,23,1410086154,珠海公交,"Hangzhou Public Transport Cloud Technology Co., Ltd.",https://apps.apple.com/mo/app/%E7%8F%A0%E6%B5%B7%E5%85%AC%E4%BA%A4/id1410086154?uo=4,0.0,3,8,Navigation,"珠海公交app接入公交系统数据，精准定位珠海市内公交车的实时位置和到站时间，公交车动态一目了然，准确率99%以上，是珠海市民出行必备app。内置高德地图，珠海公交线路查询，实时公交查询，公交换乘查询，路线收藏，到点提醒等功能，也是珠海旅游人士必备的线路查询工具。
+应用特色：
+数据精准，实时定位。
+内存占用小，速度快。
+简洁设计，体验好。",2018-09-30T04:38:07Z,2018-12-07T01:10:19Z
+mo,Macao,Navigation,6010,24,6737717786,衛星地圖 - 3D地圖・衛星照片・街景視圖,ANKAGIS YAZILIM ANONIM SIRKETI,https://apps.apple.com/mo/app/%E8%A1%9B%E6%98%9F%E5%9C%B0%E5%9C%96-3d%E5%9C%B0%E5%9C%96-%E8%A1%9B%E6%98%9F%E7%85%A7%E7%89%87-%E8%A1%97%E6%99%AF%E8%A6%96%E5%9C%96/id6737717786?uo=4,0.0,4.8,5,Navigation,"透過衛星地圖 - 3D地圖探索世界的全新方式！
+瀏覽高清3D衛星圖像，查看詳細地圖，發現地球的壯麗景色。無論是對遙遠的國家感到好奇、規劃旅行，還是從家中進行探索，這款應用都是您發現地球奇觀的完美夥伴。
+
+主要功能：
+• 衛星圖像： 查看高清衛星地圖，細節清晰。
+• 街景視圖： 使用沉浸式360度全景探索街道和社區。
+• 3D地圖與地球儀： 通過互動地球儀和地形可視化體驗3D地球。
+• 世界地圖冊： 了解國家、首都和旗幟的地理資訊。
+• 實時導航： 使用精準GPS定位找到您的位置並導航。
+• 詳細視圖： 放大以探索景觀、地標和建築物。
+• 全球覆蓋： 探索世界各地的城市、大洲及偏遠地區。
+
+為什麼選擇衛星地圖 - 3D地圖？
+• 完美適合虛擬旅行和探索。
+• 發現歷史地標、著名地點和自然奇觀。
+• 作為學生和地理愛好者的教育工具。
+• 使用沉浸式街景模式輕鬆瀏覽街道。
+
+無論您是計劃下一次冒險、探索未知領域，還是簡單地欣賞地球的美麗，衛星地圖 - 3D地圖讓世界觸手可及。
+
+立即下載，開啟您的世界之旅！
+
+從免費的基本功能開始，訂閱可解鎖更多高級地圖提供商和樣式。為了充分利用增強的地圖資源、高級功能和無廣告體驗，立即訂閱吧！
+
+您的訂閱將自動續訂，以確保您持續訪問高級功能。您可以隨時在賬戶設置中管理訂閱偏好或關閉自動續訂。
+
+隱私政策: https://www.ankagis.com/satellitemap/privacy/
+使用條款: https://www.ankagis.com/satellitemap/tos/",2025-01-02T08:00:00Z,2025-11-09T17:55:42Z
+mo,Macao,Navigation,6010,25,1645840877,NewFlash Pro,志坚 邓,https://apps.apple.com/mo/app/newflash-pro/id1645840877?uo=4,0.0,3,1,Navigation,"NewFlash Pro is a management software for MFI devices.
+The device is connected to the phone via USB
+You can backup your phone's photo album files to your device
+You can view and play video, picture, music files on the device.",2022-09-23T07:00:00Z,2024-01-23T22:42:29Z

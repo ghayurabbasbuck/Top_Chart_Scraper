@@ -1,0 +1,447 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+kr,"Korea, Republic of",Developer Tools,6026,1,899247664,TestFlight,Apple Services Pte. Ltd.,https://apps.apple.com/kr/app/testflight/id899247664?uo=4,0.0,4.77001,57419,Developer Tools,"TestFlight를 사용하면 앱 베타 버전 및 앱 클립을 손쉽게 테스트하고, 해당 앱이 App Store에 출시되기 전에 개발자에게 소중한 피드백을 제공할 수 있습니다. 개발자는 이메일 또는 공개 링크를 통해 테스터를 초대할 수 있습니다.
+
+베타 앱 또는 앱 클립을 테스트하는 경우 Apple이 충돌 로그, 사용 정보 및 사용자가 제출한 피드백을 수집하고 개발자에게 전송합니다. 개발자가 자사의 앱 및 관련 제품을 향상하기 위해 이 정보를 사용할 수 있습니다. Apple이 제품 및 서비스를 향상하기 위해 충돌 로그 및 사용 정보를 사용할 수 있습니다.
+
+설치, 테스트, 피드백 제출에 관한 설명 및 사용자의 데이터 처리 방법에 관한 자세한 사항은 testflight.apple.com 사이트를 참조하십시오.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+kr,"Korea, Republic of",Developer Tools,6026,2,1477376905,GitHub,GitHub,https://apps.apple.com/kr/app/github/id1477376905?uo=4,0.0,4.8932,2912,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+kr,"Korea, Republic of",Developer Tools,6026,3,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/kr/app/expo-go/id982107779?uo=4,0.0,4.57944,214,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+kr,"Korea, Republic of",Developer Tools,6026,4,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/kr/app/scriptable/id1405459188?uo=4,0.0,4.45737,868,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+kr,"Korea, Republic of",Developer Tools,6026,5,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/kr/app/a-shell-mini/id1543537943?uo=4,0.0,2.64762,105,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-22T21:42:27Z
+kr,"Korea, Republic of",Developer Tools,6026,6,1234793120,App Store Connect,Apple Services Pte. Ltd.,https://apps.apple.com/kr/app/app-store-connect/id1234793120?uo=4,0.0,4.83754,2419,Developer Tools,"iPhone 및 iPad용 App Store Connect 앱을 사용하여 이동 중에도 앱을 관리할 수 있습니다.
+
+• 앱의 상태 확인 및 App Store 제출 관리
+• 테스터 그룹 관리, 새로운 빌드 및 테스터 추가, 스크린샷 및 충돌 피드백 확인
+• 주요 판매 및 추세 정보를 확인하여 앱 실적 모니터링
+• 최신 고객 평가 및 리뷰를 확인하고 대응
+• App Store의 특정 위치에 추천되거나 새로운 앱 출시 또는 새 버전을 제출할 때와 같이 앱의 가장 중요한 순간을 홍보하기 위한 마케팅 자산 생성
+• 앱 상태 변경, 새로운 고객 리뷰, 테스터 피드백, App Store의 특정 위치에 추천되는 등 중요 이벤트가 발생했을 때 알림 받기",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+kr,"Korea, Republic of",Developer Tools,6026,7,1602054864,O-CAM,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/kr/app/o-cam/id1602054864?uo=4,0.0,4.61279,297,Developer Tools,"O-CAM, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-11-24T09:35:35Z
+kr,"Korea, Republic of",Developer Tools,6026,8,640199958,Apple Developer,Apple Services Pte. Ltd.,https://apps.apple.com/kr/app/apple-developer/id640199958?uo=4,0.0,3.89655,87,Developer Tools,"개발자 뉴스, 기능 및 비디오를 제공하는 Apple Developer에 오신 것을 환영합니다. WWDC를 경험하기 가장 좋은 장소입니다.
+
+• 최신 Apple 프레임워크 및 기술에 관한 최신 정보를 얻으십시오.
+• 뉴스, 기능, 개발자 기사 등을 둘러보십시오.
+• 지난 이벤트의 비디오를 보고 오프라인에서도 볼 수 있도록 다운로드하십시오.
+• 지원되는 지역에서 Apple Developer Program에 등록하십시오.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+kr,"Korea, Republic of",Developer Tools,6026,9,1058693037,Bluetooth Terminal,Lukas Pistrol,https://apps.apple.com/kr/app/bluetooth-terminal/id1058693037?uo=4,0.0,5,1,Developer Tools,"## Version 3 is now available ##
+
+With Bluetooth LE Terminal you can easily prototype your Bluetooth Smart enabled hardware. Send individual bytes encoded as ASCII, HEX or Decimal numbers and receive data from your hardware accessory.
+
+Test your data transfers even before having your own app!
+
+# More Features:
+• Send bytes as ASCII, HEX or Decimal
+• See device's services and characteristics and their associated values
+• Get information about your device such as name, UUID, and RSSI readings
+• Setup a button matrix (game controller) to send different data with just a tap.
+• Apple Watch support for button matrix
+• Send the current time as a unix timestamp (seconds since 1970)
+• Export current session as CSV
+• Use the app in split-view or slide-over on iPad
+
+If you have any questions about the app, or requests for features you would like to see, just write a short review or use the button inside the app to contact me!
+
+* Some features may require an optional one-time in app purchase.",2015-11-20T15:18:18Z,2023-06-05T12:50:10Z
+kr,"Korea, Republic of",Developer Tools,6026,10,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/kr/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.54922,386,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+kr,"Korea, Republic of",Developer Tools,6026,11,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/kr/app/ish-shell/id1436902243?uo=4,0.0,4.9661,59,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+kr,"Korea, Republic of",Developer Tools,6026,12,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/kr/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.81318,91,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+kr,"Korea, Republic of",Developer Tools,6026,13,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/kr/app/koder-code-editor/id1447489375?uo=4,0.0,4.73058,1815,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+kr,"Korea, Republic of",Developer Tools,6026,14,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/kr/app/stikdebug/id6744045754?uo=4,0.0,4.5,8,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+kr,"Korea, Republic of",Developer Tools,6026,15,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/kr/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.84657,2392,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-23T22:12:12Z
+kr,"Korea, Republic of",Developer Tools,6026,16,6670231909,SMSVerify - 가상 SMS 번호,APPSTERRA YAZILIM TICARET LIMITED SIRKETI,https://apps.apple.com/kr/app/smsverify-%EA%B0%80%EC%83%81-sms-%EB%B2%88%ED%98%B8/id6670231909?uo=4,0.0,4.60417,48,Developer Tools,"당신이 꿈꾸는 사업을 시작하든, 아니면 프라이버시를 보호하길 원하든, SMSVerify는 커뮤니케이션 요구 사항을 관리하는 가장 진보되고 사용자 친화적인 방법을 제공합니다. 저희 앱은 여러분의 필요에 맞춘 가상 번호로 SMS를 확인할 수 있도록 합니다.
+
+주요 기능:
+
+• 원활한 SMS 수신: 물리적인 SIM 카드 없이 즉시 SMS 메시지를 받을 수 있습니다. WhatsApp, Instagram, Telegram, Google 등과 같은 플랫폼에서 계정을 확인하는 데 완벽합니다.
+• 프라이버시 보호를 위한 일회용 번호: 단기적으로 사용할 수 있는 임시 번호를 빠르게 얻을 수 있으며, 계정 확인이나 1회성 커뮤니케이션에 이상적입니다. 고객의 프라이버시를 최우선으로 생각하며, 실제 번호가 불필요하게 노출되는 것을 방지합니다.
+• 투명한 가격 정책: 저희의 공정하고 투명한 가격 정책을 통해 숨겨진 요금 없이 경쟁력 있는 가격을 제공합니다.
+• 무제한 가상 번호: 프로젝트, 비즈니스, 또는 개인 용도로 필요한 만큼 가상 번호를 생성하고 해당 번호로 메시지를 수신할 수 있습니다. 유연하게 번호를 관리, 업데이트, 종료하거나 새로운 번호를 생성할 수 있습니다.
+• 글로벌 접근성: 미국, 유럽, 아시아 등 전 세계의 번호를 통해 고객 및 친구들과 연결할 수 있습니다. 현지 번호든 국제 번호든, 필요한 모든 번호를 쉽게 접근할 수 있습니다.
+
+이용 방법:
+
+    1.    서비스 선택: 가상 번호를 얻고자 하는 국가와 플랫폼을 선택하세요.
+    2.    번호 활성화 및 복사: 즉시 번호를 받고, 투명하게 가격을 확인하세요.
+    3.    번호 확인 및 사용: 해당 번호를 사용하여 계정을 확인하고, SMS를 수신하며 커뮤니케이션을 원활하게 관리하세요.
+    4.    유연성 경험: 필요에 따라 번호를 업데이트하거나 갱신하고, 또는 종료하는 유연성을 누리세요.
+
+커뮤니케이션을 제어할 준비가 되셨나요?
+
+지금 바로 SMSVerify를 설치하고 안전하고, 프라이빗하며, 유연한 커뮤니케이션을 즐기세요. 비즈니스 또는 개인 용도든, SMSVerify는 프라이버시를 보호하고 글로벌 연결성을 향상시키는 신뢰할 수 있는 파트너입니다.
+
+지원 및 협력: info@appsterra.co
+
+개인정보 보호정책: https://smsverify.app/privacy
+
+이용약관: https://smsverify.app/tos",2024-11-14T08:00:00Z,2025-08-28T07:26:04Z
+kr,"Korea, Republic of",Developer Tools,6026,17,6751247034,Anything - Make Apps,"Create, Incorporated",https://apps.apple.com/kr/app/anything-make-apps/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+kr,"Korea, Republic of",Developer Tools,6026,18,1606772645,Google Play Console,Google LLC,https://apps.apple.com/kr/app/google-play-console/id1606772645?uo=4,0.0,4.75,24,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+kr,"Korea, Republic of",Developer Tools,6026,19,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/kr/app/python-editor-app/id1672453872?uo=4,0.0,4.47652,575,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+kr,"Korea, Republic of",Developer Tools,6026,20,1624088498,ELX TCP Client,Sergey Abaev,https://apps.apple.com/kr/app/elx-tcp-client/id1624088498?uo=4,0.0,0,0,Developer Tools,TCP client to connect to a TCP server. Useful tool for testing TCP connection. Supports IP addresses and domains. Display in string and HEX format.,2022-05-13T07:00:00Z,2022-05-14T03:25:03Z
+kr,"Korea, Republic of",Developer Tools,6026,21,1473805438,a-Shell,Nicolas Holzschuch,https://apps.apple.com/kr/app/a-shell/id1473805438?uo=4,0.0,3.75,28,Developer Tools,"a-Shell is a complete local terminal emulator, allowing to run most Unix commands on your iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. You can work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with the BSD Unix that powers iOS/iPadOS.
+
+a-Shell includes Python, Lua, Perl, JavaScript, C, C++ for programming and TeX (texlive 2025, with Tikz and LuaTeX) for text processing. 
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-shell uses iOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+Compile your C or C++ programs to webAssembly using clang or clang++, and execute the resulting binary. A complete webAssembly SDK is included (WASI-libc).
+
+a-Shell is the complete version. If you need a smaller app, and you don't need a C compiler, a TeX engine, or numpy and matplotlib, there is a-Shell mini.",2019-10-25T07:00:00Z,2025-11-22T20:14:13Z
+kr,"Korea, Republic of",Developer Tools,6026,22,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/kr/app/userscripts/id1463298887?uo=4,0.0,4,12,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+kr,"Korea, Republic of",Developer Tools,6026,23,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/kr/app/ipa-installer/id6748286191?uo=4,0.0,0,0,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+kr,"Korea, Republic of",Developer Tools,6026,24,1447750768,Jayson,Simon Stovring,https://apps.apple.com/kr/app/jayson/id1447750768?uo=4,0.0,5,6,Developer Tools,"Jayson is a simple yet powerful JSON viewer and editor with Siri Shortcuts, Share Sheet Actions and URL schemes.
+
+Features include:
+
+- Browse JSON files stored on your device.
+- Toggle between viewing JSON in a table or as syntax highlighted text.
+- Tabbed interface to quickly switch between files or different objects in a single file.
+- Use multiple splits to easily compare JSON documents in a single file or across multiple files.
+- Multiple windows on the iPad allows for even more options to browse and edit JSON documents.
+- Parse text or the contents of a URL in your clipboard to JSON.
+- Siri Shortcuts that parse JSON from a text or a link stored in your clipboard. The shortcuts can open the JSON in the app or preview it in an interactive notification.
+- Share Sheet Actions for parsing JSON from plain text, loading JSON from a link and importing files as JSON.
+- URL schemes for parsing a text, loading the contents of a link as JSON or parsing the contents of your clipboard.
+- Choose a location on your device to store imported files.
+- Highlight a key from a child of an array to quickly get an overview.
+- Short videos that help you get started with the app.
+
+Features that require the ""Unlock Everything"" in-app purchase:
+
+- Switch between light and dark themes.
+- Changing the visual appearance, including the app icon, accent color and type icons.
+- Opening more than two tabs.",2019-02-02T03:20:44Z,2021-10-15T22:02:20Z
+kr,"Korea, Republic of",Developer Tools,6026,25,6443909948,Blueterminal,Maria Alejandra Wetsch,https://apps.apple.com/kr/app/blueterminal/id6443909948?uo=4,0.0,0,0,Developer Tools,"With Blueterminal, you will be able to test how you app's Bluetooth connection works by using this app as a peripheral. You can also use this terminal as the main app in order to test how your own Bluetooth device is working. 
+You can save some devices and commands you commonly use so you don't have to enter their information all the time.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://www.notion.so/blueterminal/Privacy-Policy-993fb70db3334707bc5edaa4ec79893a",2022-10-21T07:00:00Z,2025-01-30T00:09:28Z

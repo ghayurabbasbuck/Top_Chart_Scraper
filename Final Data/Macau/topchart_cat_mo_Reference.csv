@@ -1,0 +1,690 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mo,Macao,Reference,6006,1,414706506,Google 翻譯,Google LLC,https://apps.apple.com/mo/app/google-%E7%BF%BB%E8%AD%AF/id414706506?uo=4,0.0,4.04638,345,Reference,"可互譯高達 249 種語言，支援的功能因語言而異：
+• 文字翻譯：輸入文字即可互譯多種語言
+• 離線翻譯：不必上網也能翻譯
+• 即時鏡頭翻譯：將鏡頭對準圖片中的文字，就能即時翻譯
+• 相片翻譯：翻譯已拍攝或匯入的相片
+• 語音輸入：翻譯語音字詞和詞組
+• 對話翻譯：即時翻譯雙語對話
+• 轉錄：以近乎即時的速度翻譯不同語言的談話內容
+• 手寫功能：以手寫方式輸入文字，取代鍵盤輸入
+• 翻譯收藏簿：加上星號即可收藏翻譯，供日後參考
+
+權限聲明：
+• 語音翻譯功能需使用麥克風
+• 鏡頭翻譯功能需使用相機
+• 從相片庫匯入相片需使用相簿
+
+支援下列語言的互譯功能：
+丁卡文、土耳其文、土庫曼文、大溪地文、中文 (繁體)、中文 (簡體)、丹麥文、巴什噶爾文、巴布亞皮欽文、巴斯克文、巴塔克文、巴塔克卡羅文、巴塔克西馬隆貢文、日文、比科爾文、毛利文、爪哇文、牙買加方言、世界語、加文、加里西亞文、加泰隆尼亞文、北印度文、卡西文、卡努里文、卡納達文、古加拉特文、史瓦帝文、尼泊爾文、尼泊爾文 (尼瓦爾)、布列塔尼文、布里亞特文、弗利然文、本巴文、札那文、瓜拉尼文、瓦瑞文、白俄羅斯文、立陶宛文、伊洛卡諾文、伊班文、伊博文、冰島文、匈牙利文、印尼文、印尼巽他文、吉土巴文、吉爾吉斯文、因紐特文 (拉丁字母)、因紐特文 (音節文字)、多姆貝文、米佐文、米南文、艾馬拉文、西西里島文、西里西亞文、西班牙文、佛里烏利文、克丘亞文、克里米亞韃靼文 (西里爾字母)、克里米亞韃靼文 (拉丁字母)、克里奧文、克奇文、克拉蘇特文 (西格陵蘭文)、克羅埃西亞文、利古里亞文、努爾文、希伯來文、希里蓋農文、希魯巴文、希臘文、沃洛夫文、貝塔維文、車臣文、邦板牙文、邦阿西楠文、亞美尼亞文、亞塞拜然文、亞齊文、佩蒂文、奇切瓦文、奇加文、孟加拉文、宗卡文、宗喀文、帕皮阿門托文、帕施圖文、拉丁文、拉特加萊文、拉脫維亞文、東加文、林格拉文、林堡文、法文、法文 (加拿大)、法羅文、波士尼亞文、波斯文、波蘭文、芬蘭文、阿布哈茲文、阿瓦爾文、阿瓦德文、阿姆哈拉文、阿拉伯文、阿法文、阿喬利文、阿爾巴尼亞文、阿盧爾文、阿薩姆文、俄文、保加利亞文、信德文、南非文、南非柯薩文、南非祖魯文、哈薩克文、契維文、威尼斯文、威爾斯文、峇里文、查莫羅文、洪斯呂克文、科米文、科西嘉文、苗文、英文、迪尤拉文、迪維希文、俾路支文、倫巴底文、剛果文、埃維文、夏威夷文、庫德文 (庫爾曼吉文)、庫德文 (索拉尼文)、恩科文 (西非書面文)、恩道文、恩德貝萊文 (南)、挪威文、旁遮普文 (古木基)、旁遮普文 (沙木基)、桑戈文、桑塔利文 (拉丁字母)、桑塔利文 (桑塔利文)、泰文、泰米爾文、泰盧固文、海地克里奧文、烏干達文、烏克蘭文、烏茲別克文、烏爾都文、烏德穆爾特文、班巴拉文、納瓦特爾文 (東瓦斯特克)、索馬里文、草原馬里文、貢根文、馬耳他文、馬來文、馬來文 (爪夷)、馬其頓文、馬拉加斯文、馬拉地文、馬拉雅拉姆文、馬紹爾文、馬都拉文、馬爾瓦第文、高棉文、宿霧文、捷克文、曼島文、望加錫文、梅泰文 (曼尼普爾文)、梵文、紹納文、荷蘭文、通布卡文、博杰普爾文、喬治亞文、奥克文、富拉尼文、斐濟文、斯瓦希里文、斯洛伐克文、斯洛維尼亞文、景頗文、欽邦哈卡文、猶加敦馬雅文、菲律賓文、越南文、隆地文、雅庫特文、塔吉克文、塔馬塞特文、塔馬塞特文 (提非納文)、塞爾維亞文、奧塞提亞文、奧羅莫文、意第緒文、愛沙尼亞文、愛爾蘭文、楚瓦什文、楚克文、溫達文、瑞典文、瑟索托文、粵語、義大利文、葡萄牙文 (巴西)、葡萄牙文 (葡萄牙)、蒂夫文、蒂格里亞文、道格里文、達利文、圖瓦文、圖陸文、廓博羅克文、瑪姆文、維吾爾文、蒙古文、豪沙文、寮文、德文、德頓文、撣文、模里西斯克里奧文、歐利亞文 (奧里雅文)、緬甸文、盧安達文、盧森堡文、盧奧文、錫蘭文、鮑勒文、優魯巴文、賽席爾克里奧爾文、邁蒂利文、韓文、薩米文 (北)、薩波特克文、薩摩亞文、藏文、豐文、羅姆文、羅馬尼亞文、蘇格蘭蓋爾文、蘇蘇文、韃靼文",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+mo,Macao,Reference,6006,2,6458146511,Kuli Kuli - AI菜單藥妝翻譯專家,"Shanghai Ruoyou Network Technology Co., Ltd.",https://apps.apple.com/mo/app/kuli-kuli-ai%E8%8F%9C%E5%96%AE%E8%97%A5%E5%A6%9D%E7%BF%BB%E8%AD%AF%E5%B0%88%E5%AE%B6/id6458146511?uo=4,0.0,4.88889,9,Reference,"Kuli Kuli：值得信賴的旅遊翻譯助手
+
+透過 Kuli Kuli，這款專為全球旅人打造的 AI 智能翻譯工具，讓您輕鬆探索世界各地的美食菜單。我們先進的 AI 技術，能精確翻譯各類菜單，包含手寫菜單，讓您的美食冒險無憂又充滿樂趣。此外，我們也能即時解析藥品標籤、收據、御神籤、畫作、建築物等各類資訊。
+
+主要功能：
+
+- 菜單翻譯：自信點餐，告別猜測。
+- 過敏原資訊：提供菜單項目的過敏原詳細資訊，確保用餐安全。
+- 視覺參考：附上餐點圖片，讓您清楚知道所點內容。
+- 美妝品與日系保養品翻譯：了解產品標籤與成分，安心選購保養與美妝品。
+- 零食包裝翻譯：翻譯零食包裝與成分，放心探索在地零食。
+- 收據翻譯：清楚掌握每一筆消費明細。
+- 御神籤翻譯：揭開日本御神籤的神秘寓意。
+
+Kuli Kuli 適合以下族群：
+
+- 探索異國美食的旅人
+- 熱愛在地料理的美食愛好者
+- 有飲食限制或過敏需求者
+- 喜愛發掘國際美妝產品的美妝控
+- 對異國零食與文化體驗充滿好奇的您
+
+Kuli Kuli 打破語言隔閡，徹底改變您的旅遊體驗，讓您能全心投入當地美食文化、美妝產品與傳統習俗。不論是解讀複雜的餐廳菜單、逛市場尋寶，還是挑選理想紀念品，Kuli Kuli 都是您值得信賴的旅途夥伴。",2023-09-19T07:00:00Z,2025-10-13T10:14:33Z
+mo,Macao,Reference,6006,3,353115739,网易有道词典-工作学习必备,"Beijing NetEase Youdao Computer System Co.,Ltd",https://apps.apple.com/mo/app/%E7%BD%91%E6%98%93%E6%9C%89%E9%81%93%E8%AF%8D%E5%85%B8-%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E5%BF%85%E5%A4%87/id353115739?uo=4,0.0,4.644,750,Reference,"支持中文、英语、日语、韩语、法语、德语、俄语、西班牙语、葡萄牙语、藏语、西语等109种语言翻译。实景AR翻译、拍照翻译、语音翻译、对话翻译、在线翻译、离线翻译更顺畅。
+
+【权威词典】
+完整收录学习型牛津词典、《新牛津英汉双解大词典》、《韦氏大学英语词典》、《柯林斯COBUILD高级英汉双解词典》、《新世纪日汉双解大辞典》、龙朝《韩中词典》《中韩词典》等权威词典，英汉、汉英词汇和例句，满足商务英语、四六级、考研、GRE、托福、雅思等语言翻译学习需求。 
+【实景翻译】
+AR实景翻译，所见即所译，摄像头扫描即可实时翻译，支持中英日韩的在线和离线实景翻译。 
+【拍照翻译】
+拍照就能翻译，无需输入也能查词翻译的词典，支持英日韩离线拍照翻译。 
+【同传翻译】
+112种语言实时语音翻译，各国口音均可精准识别。自动生成AI总结及思维导图，课后、会后可轻松回顾。
+【对话翻译】
+自动识别语言，即说即译，与外国人交流0障碍。 
+【离线翻译】
+英语、日语、韩语等多种语言的离线翻译词库，没有网络也能查单词和翻译。 
+【文本翻译】
+输入文本即可翻译，支持109种语言的全球翻译，支持英日韩离线文本翻译。
+【文档翻译】
+一键翻译Word和PDF文档，支持整篇翻译，结果快速导出。 
+【热词翻译】
+囊括中文、英语、日语等互联网热词翻译。 
+【汉语词典】
+支持汉语拼音、手写、语音输入，中文读音、中文生僻字轻松查。 
+【日语词典】
+收录中文日语双语词汇、例句，支持日语单词语法查词、日语翻译、日语发音、日语假名标注、日语手写输入、日语罗马音检索、人名地名缩略语查询，助力日语学习。 
+【韩语词典】
+收录龙朝《韩中词典》《中韩词典》两部韩语学习者必备词典。
+【单词本】
+精选词库，方便易学；支持个性化背词计划，高效背单词，学习更轻松。
+【作文批改】
+基于AI技术的英语作文批改功能。一键上传照片，自动识别作文内容；自动检测拼写、语法和搭配错误并提供修改建议。
+【地道发音】
+支持英语、日语等的全球和本地发音。
+
+【会员自动续费说明】
+1、服务名称：会员自动续费
+2、价格：首月6元，次月起18元/月
+3、购买会员自动续费的账号，会在每个月到期前24小时，自动在iTunes账户扣费并延长1个月会员有效期。
+4、如需取消订阅，请手动打开苹果手机“设置”-->进入“iTunes Store与App Store”-->点击“Apple ID”，选择“查看Apple ID”，进入“账户设置”页面，点击“订阅”，选择网易有道词典VIP取消订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+5、会员自动续费服务协议：http://shared.ydstatic.com/dict/dic-vip/12041925/index2.html
+6、隐私协议：http://www.youdao.com/terms/privacy.html
+
+【联系我们】
+微信：dictyoudao
+官方网站：http://dict.youdao.com/
+官方微博：http://weibo.com/youdaocidian",2010-02-01T21:47:37Z,2025-11-14T02:14:09Z
+mo,Macao,Reference,6006,4,1136100673,澳門稅務資訊 Macau Tax,Financial Services Bureau of Macao S.A.R.,https://apps.apple.com/mo/app/%E6%BE%B3%E9%96%80%E7%A8%85%E5%8B%99%E8%B3%87%E8%A8%8A-macau-tax/id1136100673?uo=4,0.0,2.4127,63,Reference,"「澳門稅務資訊Macau Tax」由澳門特別行政區政府財政局製作，主要提供澳門稅務資訊，包括：
+
+登入服務（使用一戶通帳號登入）：
+更改通訊資料
+申請證明
+查詢稅單
+查詢債務狀況
+查詢已登記銀行帳戶資料
+查詢職業稅 ( 任職及收益紀錄、收益評定通知、郵寄地址、退還多繳職業稅、退稅計劃 )
+稅務申報 ( 職業稅M3/M4名表、所得補充稅B組M/1申報書 )
+非登入服務：
+繳納稅單
+稅務優惠
+稅務手續
+稅務模擬計算
+查詢職業稅
+查詢車輛稅務價格
+查詢商號登記有效性",2016-09-17T04:25:13Z,2025-07-03T00:59:20Z
+mo,Macao,Reference,6006,5,6751138152,"Lok L0k: Watch TV drama, Movie",Liam Calder,https://apps.apple.com/mo/app/lok-l0k-watch-tv-drama-movie/id6751138152?uo=4,0.0,4.5,24,Reference,"Lok L0k — Your All-Access Pass to the World of Movies.
+
+This ultimate movie companion is designed for film lovers who want it all — discovery, excitement, and a front-row seat to every story.
+
+- Browse Your Way – Explore films by genre, rating, or release date, and find exactly what fits your mood.
+
+- Never Miss a Premiere – Get instant alerts for new releases and upcoming must-see premieres.
+
+- Your Watchlist, Your Rules – Save the titles you can’t wait to see and track the ones you’ve conquered.
+
+- Rate & Relive – Share your take on movies and TV shows, and watch reviews from critics and fans alongside cast info and full details.
+
+- IPTV Smart Player – Enjoy smooth, integrated playback with a built-in, smart viewing experience.
+
+Download the app and step into a cinematic universe like never before.
+
+Data Source Transparency
+
+All movie and TV details — including images, ratings, and descriptions — are powered by The Movie Database (TMDB).
+We use the TMDB API to bring you this rich library of content, but we are not endorsed or certified by TMDB.
+
+Important Disclaimer
+
+This app is an entertainment guide, not a streaming service.
+We are not affiliated with, or endorsed by, any third-party content providers or film studios.
+No movies or TV shows are streamed or hosted within the app.
+All trademarks, copyrights, and other intellectual property remain the property of their respective owners.",2025-08-27T07:00:00Z,2025-09-06T05:48:54Z
+mo,Macao,Reference,6006,6,1348028646,翻譯 - 立即翻譯: 語音翻譯、拍照翻譯、對話翻譯、翻譯軟體,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/mo/app/%E7%BF%BB%E8%AD%AF-%E7%AB%8B%E5%8D%B3%E7%BF%BB%E8%AD%AF-%E8%AA%9E%E9%9F%B3%E7%BF%BB%E8%AD%AF-%E6%8B%8D%E7%85%A7%E7%BF%BB%E8%AD%AF-%E5%B0%8D%E8%A9%B1%E7%BF%BB%E8%AD%AF-%E7%BF%BB%E8%AD%AF%E8%BB%9F%E9%AB%94/id1348028646?uo=4,0.0,4.65075,2534,Reference,"翻譯文字、語音和照片，支援 320 種語言。提供翻譯鍵盤與沈浸式翻譯功能。
+
+無論您是因為旅遊、工作、學習或日常對話需要翻譯，立即翻譯都是您終極的 AI 翻譯軟體。透過立即翻譯的多語言翻譯神器，即刻打破語言隔閡，讓每次多語交流變得輕而易舉。
+
+主要功能 
+
+▶ 免持語音翻譯神器，實現即時對話翻譯
+使用即時、免持的 AI 語音翻譯神器，輕鬆打破語言障礙。只需對著裝置說話，即可即時雙向口譯，暢享多語對話。
+▶ 拍照翻譯，即拍即譯
+翻譯菜單、標誌與文件即時完成。只要拍張照片，即可立即翻譯。是旅遊與閱讀世界語言的最佳利器。
+▶ 翻譯鍵盤，輕鬆進行多語聊天
+使用母語輸入文字，在任何應用程式中即時翻譯並發送，支援多達 60 種語言，聊天無障礙。
+▶ AI 文字翻譯，即時理解更準確
+以 AI 增強準確度，支援語音拼音與語境辨識，翻譯 320 種以上語言文字內容。
+▶ AR 沈浸式翻譯，打造在地體驗
+透過相機與擴增實境即時翻譯，讓語言學習與旅行體驗更直覺。
+▶ AI 智慧字典與文法助手
+提供語境相關的詞義說明，並即時文法校正，提升文字翻譯的準確性。
+
+立即翻譯 提供多種 AI 翻譯模型、常用語手冊、Apple Watch 應用程式、翻譯擴充功能、離線模式、深色模式、Siri 捷徑、互動小工具，以及 SharePlay 功能。
+
+立即下載立即翻譯、您的 AI 智慧語言翻譯軟體！體驗即時無縫的翻譯，輕鬆完成文字、語音與多語溝通。支援英文翻譯、韓文翻譯、越南翻譯、日語翻譯、台語翻譯、印尼翻譯、泰文翻譯等多種語言！
+
+使用 Air Apps One、將您的體驗提升到全新層次、終極訂閱方案。只需訂閱一款應用程式，即可解鎖超過 30 款強大工具，涵蓋生產力、學習、健身與創意，無需額外付費。透過無縫存取、專屬優惠與輕鬆整合日常生活，簡化您的生活。立即訂閱，享受全方位、零煩惱的體驗！
+---
+訂閱費用將於購買與續訂時從您的 iTunes 帳戶扣款。免費試用將自動轉為付費訂閱，除非在目前期間結束前至少 24 小時取消。取消將在當前期間結束後生效，屆時帳號將降為免費服務。如您已購買高級訂閱，未使用完的試用期將自動失效。
+
+請注意並確認，所有訂閱均透過您的 Apple ID 處理與管理，包括取消、退款與方案變更。c，請聯繫 Apple 支援團隊。
+
+與我們聯繫：
+官方網站：https://airapps.co
+LinkedIn：https://www.linkedin.com/company/airapps
+Instagram：https://www.instagram.com/airappsco
+
+隱私權政策：https://airapps.co/privacy
+使用條款：https://airapps.co/terms
+支援服務：請聯繫我們：support@airapps.co",2018-03-23T15:08:59Z,2025-11-24T01:05:18Z
+mo,Macao,Reference,6006,7,1147874819,Naver Papago - AI Translator,NAVER Corp.,https://apps.apple.com/mo/app/naver-papago-ai-translator/id1147874819?uo=4,0.0,4.47368,19,Reference,"Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean? 
+In Esperanto, Papago refers to a parrot, a bird with language abilities. 
+Papago supports 14 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic. 
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button 
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation 
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation 
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a 
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like :  https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+※ Supporting iOS 15.0 or above
+ ※ Available on PC and mobile. https://papago.naver.com
+ ※ For app-related issues and errors: https://goo.gl/9LZLRe
+  
+Developer Contact No.: 
+1588-3820  
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul",2016-09-11T05:54:33Z,2025-10-21T16:11:38Z
+mo,Macao,Reference,6006,8,393499958,네이버 - NAVER,NAVER Corp.,https://apps.apple.com/mo/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958?uo=4,0.0,3,2,Reference,"모바일에 최적화된 다양하고 풍부한 정보! 매일 새로워지는 네이버앱을 만나보세요.
+
+네이버앱은 콘텐츠 유형에 따라 5개의 공간을 제공합니다.
+내가 좋아하는 건 주제별로 ‘홈피드’에서, 짧고 빠르게 즐기는 숏폼은 ‘클립’에서, 뉴스와 각종 읽을 거리는 ‘콘텐츠’에서, 나의 쇼핑 흐름에 맞춰 깎고, 받고, 쌓는 경험은 ‘네이버플러스 스토어’에서, 인증과 결제 뿐만 아니라 내 활동 내역을 확인할 수 있는 ‘마이’까지, 일상의 편리함 네이버앱, 지금 다운로드하세요!
+
+1. 내 취향 콘텐츠를 주제별로 탐색해 보세요.
+검색홈 하단에서 내가 좋아하는 주제를 골라 콘텐츠를 탐색할 수 있어요. 스포츠, 엔터, 패션뷰티와 테크까지! 다양한 주제의 맞춤 콘텐츠를 끊임 없이 추천해드려요.
+
+2. 이미지와 영상으로 남기는 나만의 리뷰, 클립
+짧은 여유 시간엔 클립을 감상하고 특별한 순간엔 직접 이미지와 영상으로 남겨보세요. 마음에 드는 크리에이터를 팔로우 할 수 있고 나만의 공간에서 내 클립들을 모아볼 수 있어요. 클립 하나로 보는 즐거움과 만드는 재미를 모두 경험해 보세요.
+
+3. 더 깎아주고 더 쌓아주는 네이버플러스 스토어
+홈 하단에서 내게 꼭 맞는 상품과 혜택이 가득한 쇼핑 콘텐츠를 통해 탐색과 발견의 즐거움을 더해줍니다.
+오늘의 할인 혜택과 다양한 프로모션, 인기 트렌드까지 초개인화 맞춤 추천으로 깎고, 받고, 쌓는 셈이 다른 쇼핑을 경험해 보세요.
+
+4. 인증, 결제, 활동내역까지 마이에서 한눈에
+현장에서 지갑대신 사용할 수 있는 인증, 결제도구와 내 결제/예약 주문 목록 및 찜한 상품, 저장한 장소 등 흩어져있던 내 활동내역을 마이에서 모아볼 수 있어요.
+
+5. 그린닷 AI검색으로 일상을 편리하게 
+그린닷을 통해 이미지 기반으로 정보를 검색하는 렌즈, 궁금한 음악을 찾아주는 음악검색, 손을 쓰지 않아도 검색이 가능한 음성검색, 음식점을 비롯한 주변 정보를 알려주는 내 주변 등 다양한 검색 기능을 더욱 편리하게 이용할 수 있어요.
+
+※ 참고 사항
+네이버앱을 쾌적하게 이용하기 위해서는, iOS 16.0 이상의 환경에서 설치하는 것을 권장합니다. 앱이용 중 문제가 발생한 경우 네이버앱 설정-고객센터로 문의해 주세요.
+
+웹사이트에서 음성 인식 기능 이용 시 '음성인식' 권한이 필요할 수 있습니다. '음성인식' 권한을 허용한 상태에서 음성인식 기능을 이용하는 경우 Apple의 정책에 따라 음성 데이터가 Apple로 전송되며, 그 외 다른 정보는 일체 전송 되지 않습니다.
+
+A wealth of information optimized for mobile! Experience the NAVER app, refreshed daily.
+
+The NAVER app offers five spaces tailored to different content types. Your favorite is in “Home Feed,” short and quick entertainment can be found in “Clip,” and “Content” provides news and various reading materials. “NAVER Plus Store” offers a personalized shopping experience, with deals, rewards, and benefits, and “MY” is where you check your activity logs as well as authentication and payments. Download the NAVER app now for your everyday convenience!
+
+1. Browse content tailored to your interests by topic.
+Select your favorite topics and explore the content at the bottom of the search home. From sports and entertainment to fashion and beauty to tech, NAVER continuously recommends personalized content across various subjects.
+
+2. Clip – Your Personal Reviews in Photos and Videos
+Enjoy short moments by watching Clips, and create your own special ones with photos and videos. Follow your favorite creators and keep all your clips neatly archived in your personal space. Discover the joy of both watching and creating.
+
+3. NAVER Plus Store, where you save more and earn more
+A wealth of shopping content with tailored products and offers at the bottom of Home will help you explore and discover the joy of shopping. Experience a unique shopping journey that lets you save, earn, and collect more through hyper-personalized deals that include today’s discounts, various promotions, and trending items.
+
+4. Authentication, payments, and activity logs — all at once in MY
+MY brings together your scattered activities, including on-site wallet alternatives, payment solutions, checkout/pre-order lists, favorite items, and saved locations. 
+
+5. Make your daily life convenient with the Green Dot AI Search 
+Try out Green Dot, an AI search tool that adds convenience to your daily life. You can enjoy various search functions more conveniently, including Lens that searches for information based on images, music search that finds the music you’re curious about, voice search for hands-free searching, and location-based search for information about neighborhoods, such as restaurants. 
+
+* NOTE
+For the best experience with NAVER app, we recommend installing it on iOS 16.0 or higher. If you have problems while using the app, please send your inquiries via NAVER app's Settings - Customer Center.
+
+Using speech recognition features on the website may require ""Speech Recognition"" permission. When using speech recognition features with ""Speech Recognition"" permission enabled, your voice data will be sent to Apple in accordance with Apple's policies, and no other information will be sent.
+
+----
+개발자 연락처: naver_market@naver.com, 1588-3820
+경기도 성남시 분당구 정자일로 95, NAVER 1784, 13561",2010-10-07T05:57:29Z,2025-11-19T01:49:17Z
+mo,Macao,Reference,6006,9,282935706,聖經,Life.Church,https://apps.apple.com/mo/app/%E8%81%96%E7%B6%93/id282935706?uo=4,0.0,4.85813,2023,Reference,"要持續專注在上帝和祂的話語上實在很難。 為此，YouVersion 聖經軟體提供你免費的工具，可以天天尋求上帝的心意： 聆聽語音聖經，創建禱告事項，與朋友一同學習，探索 2000多個聖經譯本及更多功能。 現在下載！
+
+全世界有超過 4億台設備安裝了免費的聖經軟體，人們可以使用它來閱讀、聆聽、觀看和分享聖經 。 超過2,000個聖經譯本，並有逾1,300種語言的選擇。 數以千計的讀經計畫，以65多種語言呈獻給你。
+
+客製化你在聖經軟體上的使用體驗。 上線時可隨心所欲地使用所有譯本與功能，或者下載特定譯本以備離線時使用。
+
+與摯友一起探索聖經。 與你信任的社群坦誠分享關於聖經的對話。
+
+讓禱告成為你的日常習慣
+- 在聖經軟體上用禱告卡來追蹤你的禱告。
+- 輕鬆編排禱告事項。
+- 選擇不公開你的禱告，或與朋友分享。
+- 與你在聖經軟體內的朋友一同歡慶蒙應允的禱告事項。
+
+研讀聖經
+- 備有1,300種語言、數以千計的聖經譯本，讓你輕鬆選擇。
+- 聖經軟體有60多種語言的界面供你選擇。
+- 從多個最常用的譯本裡選擇，如《新標點和合本》、《和合本修訂版》、《聖經當代譯本修訂版》 、《中文標準譯本》、《新譯本》，以及《客語聖經——現代臺灣客語譯本》等等。
+- 離線聖經：在沒有網路連線時也可以閱讀（只限特定譯本）。
+- 聆聽語音聖經，享受跳過、播放速度和定時器控制等功能。 （語音聖經只限特定譯本，並且不提供下載）。
+
+與朋友聯繫
+- 用聖經軟體使聖經成為你友誼的中心。
+- 看看你和朋友們使用聖經的連串動態——建立筆記、標記書籤，以及醒目顯示。
+- 用聖經軟體一起學習上帝的話語，透過評論功能提出問題，並進行有意義的交流。
+
+研讀聖經
+- 數以千計的讀經計畫：你可選擇靈修、專題計畫、部份聖經書卷，或一年通讀整本聖經的計畫，例如《The One Year® Bible》。
+- 觀賞和分享連續短片《The Bible Project》、電影《耶穌》的視訊片段等等。
+- 用關鍵字來搜尋聖經。
+
+定制個人化的聖經
+- 備有調色板的全新主題供你選擇，讓你使用聖經軟體時能享受完整的個人化體驗。
+- 用經文圖將經文轉化為可以分享的藝術創作。
+- 以自訂色彩作醒目標示——就像在紙本聖經上使用螢光筆一樣。
+- 標記經文書籤：分享、背誦，或收錄你個人喜愛的經文。
+- 透過社交網路、電子郵件，或簡訊與朋友分享經文。
+- 添加經文筆記：可設定為只有你自己看得見的保密模式，或將筆記公開與朋友分享。
+- 雲端同步：有了免費的 YouVersion 帳戶，你可以在任何受支援的設備上查看筆記、醒目顯示、書籤和讀經計畫。
+- 輕鬆閱讀：調整字體、間距和文本大小等設定，甚至可以在深色模式下閱讀。
+
+與 YOUVERSION 聯繫
+- 在聖經軟體內尋求支援。
+- 在 Instagram, Facebook, Twitter, TikTok & Pinterest 上加入 @youversion 社群.
+- 在 blog.youversion.com 了解最新消息
+- 存取 bible.com 的線上聖經
+
+現在就下載全世界最受好評的聖經軟體！隨時體驗與享受千萬用戶所推崇的聖經閱讀方式！",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+mo,Macao,Reference,6006,10,6471475844,Translate Rabbit,"HAPPY BLUE HOUSE CO.,LIMITED",https://apps.apple.com/mo/app/translate-rabbit/id6471475844?uo=4,0.0,4,2,Reference,"Introducing our revolutionary translation app: Translate Rabbit；
+Break the language barrier and communicate easily, let us be your best translation partner. Whether you are traveling, on international business, or want to communicate with people from different cultures, this app is your go-to solution.
+With it, you can have a powerful translation tool anytime, anywhere. We try to ensure real-time, accurate translations so you can have smooth and in-depth conversations without the need for tedious language dictionaries or language learning. Say goodbye to the worries of difficult communication and embrace smooth understanding.
+The main function:
+1. Instant translation: Our app provides fast translation in multiple languages, allowing you to get what you need anytime, anywhere. Just type or speak your message and get translations quickly.
+2. Voice recognition: Communicate easily by using voice input. Just speak into the device and seamless translation converts your words into the desired language.
+3. Camera translation: Just point the camera at the text and you can instantly translate the text on the picture.
+4. User-friendly interface: Our app provides a simple and intuitive interface, making it easy for anyone to use. Enjoy a seamless user experience from start to finish.
+5. When relaxing, we have built-in word arrangement games, allowing you to learn languages through alphabet games in your spare time.
+Don't let language differences stop you from connecting with others.",2023-11-15T08:00:00Z,2025-08-01T01:44:51Z
+mo,Macao,Reference,6006,11,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/mo/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,0,0,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+mo,Macao,Reference,6006,12,605670941,百度翻译-英语学习必备,"Beijing Baidu Netcom Science & Technology Co.,Ltd",https://apps.apple.com/mo/app/%E7%99%BE%E5%BA%A6%E7%BF%BB%E8%AF%91-%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%BF%85%E5%A4%87/id605670941?uo=4,0.0,4.75182,274,Reference,"世界很复杂，百度更懂你
+百度翻译于2015年率先在世界上发布了互联网NMT（神经网络机器翻译）系统，引领机器翻译进入神经网络翻译时代，和传统的机器翻译相比，能够根据上下文合理调整用词，译文自然流畅，大幅提升了翻译质量。荣获国家科技进步二等奖，中国电子学会科技进步一等奖。历经多年的积累与优化，翻译质量更优，且文本、拍照、语音、离线翻译均已替换成全新系统。在NMT时代，百度翻译走在了世界的前列，目前支持全球200种语言互译，每日响应过亿次的翻译请求，全方位满足用户的翻译需求。
+ 
+【主要功能】
+- 杜小译词典：收录权威牛津、柯林斯词典，累积覆盖2100万词条，更有海量双语例句、视频讲解、同反义词、词根词缀、同义词辨析、词组、专业术语和英英释义等词典资源，更是人人可贡献助记/释义的UGC词典，杜小译与你一起共建更好的词典！
+- 拍照翻译：无需输入，轻轻一拍，翻译结果立刻实景展现。支持拍照、涂抹、AR三种模式，覆盖中、英、日、韩、法等20种热门语言。
+- 语音/对话翻译：实时语音翻译，支持中、英、日等21种热门语言的语音输入，更有英文口语打分纠音，助力口语提升。
+- 背单词：教、学、测、三位一体的背词模式，支持按同根词、考频、易错词、随机乱序等多种背词顺序，重点单词优先背。
+- 作文批改：基于深度学习技术打磨的智能英文作文批改，从格式、语法、拼写三大评分维度智能纠错并给出修改建议；同时支持拍照识别英文手写字体。
+- 语法分析：AI解构英文句子，高亮主谓宾等核心成分，并指出句子中每个单词的用法，从而高效掌握语法，轻松看懂长难句。
+- 每日跟读：精美卡片和美句，专业多维度打分和纠错，同时支持音标学习，助力提升口语发音。
+- 英语短视频：好玩的英语短视频社区，英语单词演出来，英语土味情话等趣味话题，轻松涨知识。
+- feed文章：每天更新精选双语文章，语法讲解、BBC英语、奇妙趣闻、神翻译各种栏目带你轻松涨知识。同时支持关注专栏，不错过精彩内容。
+- 打卡圈：通过打卡记录你的学习成效、与共同努力的同学交流心得，每天进步一点点，水平提高看得见！
+-杜小译：你的全能语音助手。支持语音查词、翻译、全局搜索。杜小译陪伴你的点滴进步！",2013-03-07T02:48:30Z,2025-10-27T07:09:55Z
+mo,Macao,Reference,6006,13,6747155709,Miss键盘,"Nanjing Yanmao Information Technology Co., Ltd.",https://apps.apple.com/mo/app/miss%E9%94%AE%E7%9B%98/id6747155709?uo=4,0.0,5,1,Reference,"Miss键盘，Miss & Love
+
+【智能聊天助手】心动，聊天，疑问，所有关于恋爱的苦恼miss都懂，都能指导，一对一的训练让你成为恋爱大师
+【专属回复键盘】miss键盘，帮你回复，支持幽默、暖心、高冷等多种回复风格，适配不同聊天场景
+【百变聊天主题】多种精美聊天背景、主题颜色可选，打造专属聊天风格，让你的聊天界面与众不同
+【关键进阶指导】针对约会、表白等关键场景，提供专属话术库，助你轻松拉近距离，提高爱情成功率
+
+Miss键盘VIP服务说明：
+1. 会员权益
+您订阅的会员权益内容及有效期以订阅页面显示为准。
+订阅成功后，费用将自动从您的 Apple iTunes账户 扣除。
+2. 自动续费规则
+若开启自动续费，系统将在 当前会员到期前24小时 自动扣费并延长服务周期。
+如何取消自动续订？
+请在下次扣费日 至少提前24小时 按以下步骤操作：
+设置 → iTunes与App Store → Apple ID → 订阅 → 选择「语爱键盘」取消订阅
+3. 注意事项
+若未及时取消，系统将默认同意续订，并自动扣费延续会员服务。
+建议定期查看订阅状态，以便灵活管理您的会员服务。
+扣费及退款规则均遵循 苹果App Store官方政策。
+（服务细则以实际订阅页面及苹果商店条款为准。）
+
+Miss键盘协议链接：
+隐私政策：http://ym.njyanmao.com/scenead-frontend/agreement?type=1&prdId=1510572&channel=0
+用户协议：http://ym.njyanmao.com/scenead-frontend/agreement?type=2&prdId=1510572&channel=0
+会员协议：http://ym.njyanmao.com/scenead-frontend/agreement?type=7&prdId=1510572&channel=0
+自动续费说明：http://ym.njyanmao.com/scenead-frontend/agreement?type=8&prdId=1510572&channel=0
+免责声明：http://ym.njyanmao.com/scenead-frontend/agreement?type=9&prdId=1510572&channel=0",2025-06-15T07:00:00Z,2025-09-08T17:26:57Z
+mo,Macao,Reference,6006,14,1021094295,MOJi辞書: 日文學習辭典,"Krosea (Guangzhou) Co.,Ltd",https://apps.apple.com/mo/app/moji%E8%BE%9E%E6%9B%B8-%E6%97%A5%E6%96%87%E5%AD%B8%E7%BF%92%E8%BE%AD%E5%85%B8/id1021094295?uo=4,0.0,4.74747,99,Reference,"『一起學日文，渡辭海』- MOJi辞書（じしょ）是百萬用戶共建的日文學習詞典，支持自動識別假名、漢字、羅馬音輸入，共收錄百萬詳解詞條。
+
+【查詞】
+精准搜索：快速精准查詞，確保第一個結果就是想要的
+海量詞庫：實時更新，自創單詞打造專屬詞庫，內置離線詞庫無網可用
+詳解詞條：動詞活用一覽，分類解析，涵蓋近反義詞，支持寫筆記
+
+【輸入】
+手寫輸入：簡單畫幾筆，就可精准識別漢字假名
+圖片識別：提取圖片中的日文並提供查詞、翻譯等
+五十音建議：初學者輸入日語更方便
+
+【更多】
+翻譯：中日互譯，解析句子結構，對日文注音，提取重點詞彙
+問答：用戶共建，補充查詞無法覆蓋的難點
+詞單：單詞列表由官方/全球用戶創作，可收藏背詞
+背詞：支持十多種題型，艾賓浩斯遺忘曲線復習，自由配置
+輔助閱讀：長文本/網頁標注發音，動詞原型，一鍵查詞
+小組件：桌面隨機，遇見新詞
+收藏：打造你的專屬辭書，全平台同步，數據多地備份
+聽單字：單詞列表洗腦循環，跟讀黨耳機黨福音
+推送：定制單字推送，可選詞單（如：JLPT N1詞單）
+
+【政策協議】
+使用協議：https://www.shareintelli.com/mojidict-terms-of-use/
+會員服務協議(自動訂閱服務協議等)：https://www.shareintelli.com/mojidict-payment agreement/
+
+【聯繫方式】
+App：打開「我的」>「聯繫我們」
+郵箱：mojisho.support@mail.shareintelli.com
+微信公眾號：MOJi辞書
+Twitter：MOJI_SERIES",2015-07-29T22:53:52Z,2025-11-21T05:00:58Z
+mo,Macao,Reference,6006,15,1544742935,VPN - 夏时国际加速器 VPN,XIASHI LIMITED,https://apps.apple.com/mo/app/vpn-%E5%A4%8F%E6%97%B6%E5%9B%BD%E9%99%85%E5%8A%A0%E9%80%9F%E5%99%A8-vpn/id1544742935?uo=4,0.0,4.67296,318,Reference,"我們的應用程式使用非常簡單，直接點擊連接即可。
+
+1. 你不需要注册，不需要提供任何信息。
+2. 免費服務器，我們提供許多免費服務器以供選擇，每條線路均有顯示網絡延遲，您可以選擇最適合您的線路使用。
+3. VIP服務器，我們提供不同地區的優質服務器，採用商務專線直連，網絡更加穩定，響應速度更加迅速，滿足您更高的需求。
+4. 我們很注重您的隱私，我們不會收集任何關於您的信息。
+
+應用內購買：
+1. VIP服務器月付，美金$4.99
+2. VIP服務器年付，美金$43.99
+3. 移除廣告，美金$24.99
+
+
+隱私政策網址：https://xiashinet.com/policy/
+服務條款： https://xiashinet.com/terms/",2020-12-17T08:00:00Z,2025-11-20T12:38:43Z
+mo,Macao,Reference,6006,16,6749419942,心语壁纸-动态壁纸、金句语录、白噪音,"Guangzhou Xiangxin Network Technology Co., Ltd.",https://apps.apple.com/mo/app/%E5%BF%83%E8%AF%AD%E5%A3%81%E7%BA%B8-%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8-%E9%87%91%E5%8F%A5%E8%AF%AD%E5%BD%95-%E7%99%BD%E5%99%AA%E9%9F%B3/id6749419942?uo=4,0.0,0,0,Reference,"无论你是想将承载着心情的图文分享给亲朋好友，还是带着疲惫寻找一处治愈的角落，心语壁纸都会是您的不二之选。
+
+心语壁纸为您精心挑选了丰富的高清壁纸与金句语录内容。壁纸与文字结合展示的方式，让您总能快速找到符合这一刻心境的图文，搭配舒缓的背景音乐，实现视觉与听觉的双重治愈。
+
+-自定义壁纸与金句随心组合，让您找到最符合今日心情的图文，将每日心语分享给亲朋好友，或用于手机壁纸。
+
+-海量精美文案，根据不同的心境分类，让您不管是寻求静心正念、励志正能量、治愈解压、还是分享喜悦，总能找到触动内心深处的文字。
+
+-精心挑选超高清无水印壁纸资源，各种风格分类，山海江河、花草朝露尽收屏中，给您带来极致的视觉享受。
+
+-舒适解压的背景音乐，从让人身临其境的白噪声到涤荡心灵的空灵纯音乐，让您在享受精美图文内容的同时，也得到听觉的治愈。
+
+-自由设计的小组件让您无需进入APP，打开手机就能享受我们为您精选的今日心语，开启一天的好心情。
+
+【自动订阅服务说明】 
+ -订阅服务：根据所选的订阅计划，订阅按周、按月、按年计费。 
+ -订阅价格：例如连续包年产品为198元/年；连续包月产品为88元/月。 
+ -付款：用户确认购买并付款后计入iTunes账户。 
+ -续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。-取消--取消续订：如需取消续订，请在当前订阅周期24小时前，手动在iTunes/Apple ID设置管理中关闭自动续订功能。 
+ 
+ 隐私协议：https://docs.qq.com/doc/DVUF5S3BkS29yTUtO
+ 用户协议：https://docs.qq.com/doc/DVW9NdHFZV3ZSa25u",2025-08-07T07:00:00Z,2025-11-17T18:25:51Z
+mo,Macao,Reference,6006,17,1376380683,汉语拼音学习-幼升小学拼音拼读和趣味拼音游戏,森 袁,https://apps.apple.com/mo/app/%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E5%AD%A6%E4%B9%A0-%E5%B9%BC%E5%8D%87%E5%B0%8F%E5%AD%A6%E6%8B%BC%E9%9F%B3%E6%8B%BC%E8%AF%BB%E5%92%8C%E8%B6%A3%E5%91%B3%E6%8B%BC%E9%9F%B3%E6%B8%B8%E6%88%8F/id1376380683?uo=4,0.0,4.42373,59,Reference,"每天10分钟，开心边玩边学30天，完全掌握小学拼音！
+超过百万妈妈的选择！我们特聘经验丰富的小学语文老师设计课程，从孩子的兴趣入手，寓教于乐，在游戏的过程中学拼音，较传统的教学方法有明显的效果，是儿童早教的好帮手，让您的孩子赢在起跑线上。
+拼音是儿童学习汉字发音的基础, 是一门必修课,汉语拼音学习包含了拼音笔顺、词组发音、声调，声母，韵母，整体认读音节和拼音字母表知识。
+汉字是我们生活交流必不可少的能力，而拼音是认识汉字的基础，家长一定要重视并让孩子提前学习，赶快下载试用吧！
+
+
+使用条款
+我们致力于为用户提供优质服务。如您想要了解更多关于使用条款的信息，您可以访问http://app.uuumeng.com/terms-of-use-cn.htm 阅读更多内容。
+
+隐私政策
+我们致力于保护用户隐私。如您想要了解更多关于隐私政策的信息，您可以访问http://app.uuumeng.com/privacy-policy-cn.htm 阅读更多内容。",2018-04-27T13:04:17Z,2025-11-19T16:20:10Z
+mo,Macao,Reference,6006,18,453417814,倉頡速成字典,Dream With Us,https://apps.apple.com/mo/app/%E5%80%89%E9%A0%A1%E9%80%9F%E6%88%90%E5%AD%97%E5%85%B8/id453417814?uo=4,0.0,2.21429,28,Reference,"倉頡輸入法(Cangjie Input)是一種常用的中文輸入法,由有「中文電腦之父」稱譽的台灣人朱邦復先生於1976年創製。初期只有正體中文版本,原名「形意檢字法」,用以解決電腦處理漢字的問題,包括漢字輸入、字形輸出、內碼儲存、漢字排序等。朱邦復發明此輸入法時正值他為三軍大學發展中文通訊系統之際,時任三軍大學校長的蔣緯國將軍為紀念上古時期倉頡造字之精神,乃於1978年將此輸入法重新定名為「倉頡輸入法」。
+1982年,朱邦復登報公開放棄倉頡輸入法專利權,並且極力推動電腦之中文化。現今大部分作業系統,甚至一些電子辭典皆附有倉頡輸入法,為正體中文世界最普及的形碼輸入法。
+
+倉頡輸入法適用於多種平臺,主流作業系統和大部分電子辭典均有內嵌。一些線上漢字字典也採用倉頡編碼作為檢索工具。
+
+本程式為一眾學倉頡的用家而設計,使用者只需輸入你要查詢的字,就能自動列出該字的倉頡碼及速成碼。
+
+感謝大家使用倉頡字典(Cangjie Input dictionary)及速成字典(Quick Input dictionary)，這兩本輸入法字典。",2011-08-12T21:01:16Z,2018-10-14T03:32:51Z
+mo,Macao,Reference,6006,19,6740013449,好用翻譯：120+種語言，AI語音專業翻譯,HIGHONE GAMES LIMITED,https://apps.apple.com/mo/app/%E5%A5%BD%E7%94%A8%E7%BF%BB%E8%AD%AF-120-%E7%A8%AE%E8%AA%9E%E8%A8%80-ai%E8%AA%9E%E9%9F%B3%E5%B0%88%E6%A5%AD%E7%BF%BB%E8%AD%AF/id6740013449?uo=4,0.0,5,4,Reference,"""Convenient travel, eTranslator first; Enjoy the journey and translate as you please.""
+
+Featured functions:
+【iOS18 feature 】· No offline translation function
+
+[Super practical travel tool] · Exchange rate, time difference calculation, unit conversion tool
+
+【 Intelligent simultaneous interpretation 】· Real-time voice input, one-click switching language selection, to meet the needs of a variety of professional scenes such as meetings and classes
+
+【 Main function of translation 】
+Support 100+ language translation;
+Provide text translation, voice translation, photo translation, picture translation of a variety of forms to choose from
+Automatically detect the input language, read the text with one click, and quickly extract the picture text
+
+【 Situation translation 】
+Preset a variety of use scenarios, provide hundreds of dialogue references, including: restaurants, scenic spots, shopping, hotels and other scenes
+
+【 Quick operation 】
+Provides convenient operations such as desktop widgets, shortcuts, and quick operations to improve usage efficiency
+
+Subscription auto-renewal related information:
+Subscription service-After subscribing, you can unlock access to all functions in the app;
+Subscription period-For example, continuous weekly subscription: subscription period is 1 week; continuous monthly subscription: subscription period is 1 month; continuous annual subscription: subscription period is 1 year;
+Subscription price-Specific information is subject to IAP information; for example, continuous weekly subscription is 8 yuan per week;
+Payment-After the user confirms the purchase and pays, it will be charged to the iTunes account;
+Free trial-If you renew or cancel the renewal again during the free trial period, the free trial rights will not be withdrawn from the user, and the user can try it until the end of the trial period;
+Renewal-""Weekly/Monthly/Yearly Subscription"" products are auto-renewal products. After confirming the purchase, the fee will be deducted from your iTunes account. The subscription will be automatically renewed unless the auto-renewal is turned off at least 24 hours before the end of the current subscription;
+Within 24 hours before the expiration of your subscription period, Apple will automatically deduct the fee from your iTunes account, and the membership validity period will be automatically extended by one period after success;
+Cancel subscription-If you need to cancel the subscription, please click ""Settings"" on your phone, click ""Apple ID"", choose to enter the ""Subscription"" page, and choose the corresponding membership service to cancel the subscription.
+
+About User Agreement：
+https://translater.hoolohealth.com/UserAgreement-en.html
+
+About  Privacy Policy：
+https://translater.hoolohealth.com/Privacy-en.html",2025-01-15T08:00:00Z,2025-11-14T10:27:04Z
+mo,Macao,Reference,6006,20,341922306,Pleco 中文詞典 （中英－英中）,Pleco Inc.,https://apps.apple.com/mo/app/pleco-%E4%B8%AD%E6%96%87%E8%A9%9E%E5%85%B8-%E4%B8%AD%E8%8B%B1-%E8%8B%B1%E4%B8%AD/id341922306?uo=4,0.0,4.09091,11,Reference,"注意：該應用的使用者介面當前僅有英文版。
+
+Pleco是旗艦版中文伴侶 - 集成了詞典/文件閱讀器/單詞卡系統，支援全屏手寫輸入及即時OCR功能，出品公司自2001年開始一直致力於開發世界最優秀的移動中文學習應用。 
+
+主要功能: ($ = 付費外掛程式) 
+
+• 卓越的詞典。內置兩款實用的免費詞典: 一款是流行的開源CC-CEDICT，擁有超過110,000個常更新的詞條，另一款是我們自己的PLC詞典，擁有125,000個更多詳細詞條及超過25,000個例句(帶拼音)。此外還提供二十幾個其他免費及付費($)詞典外掛程式。 
+
+• 強大的搜尋: 可使用漢字、拼音或英語來搜尋單詞，支援萬用字元和全文檢索搜尋功能。無需繁瑣地切換詞典來查詞，只需輸入你的搜尋詞，即刻會出現一個按頻率排序的綜合結果清單。 
+
+• 連結和交叉參考: 可輕鬆查詢漢字組成部分、將詞語拆分成單字、查詢含某個字的詞語，或搜尋所有詞典查看例句。 
+
+• 通用於大陸/香港/臺灣: Pleco全面支援簡繁漢字，詞目發音可顯示注音和拼音，甚至還支援粵語。 
+
+• 音訊: 通過iOS 7的文字轉語音系統免費內置；我們還提供中文母語者的普通話及粵語錄音外掛程式，以及一個更高品質的普通話文字轉語音系統外掛程式。 
+
+• 文件閱讀器: 可粘貼粘貼板上的文字，點按其中的單詞可即刻查詞。升級($)後支援點按查詢，支援的檔案包括文字檔案、DOC、DOCX、RTF、PDF、EPUB檔案，以及嵌入的歌曲/播客歌詞。 
+
+• OCR: 將裝置攝像頭對準單詞即可查詞，或觸按靜態圖片上的單詞查詞。($) 
+
+• 全屏手寫: 支援全屏手寫，而非限制在小框中手寫。精確識別，高度容許筆劃順序錯誤。($) 
+
+• 單詞卡: 支援從詞條一鍵建立卡片，導入預先製作的單詞表，使用高級記憶技術如SRS，並可選擇各種模式來學習，包括手寫填空及聲調練習。($) 
+
+• 筆劃表: 提供每個漢字的書寫動畫；涵蓋20,000個以上的漢字。($) 
+
+• 絕對無廣告。 
+
+我們還提供卓越的客服支援並擁有一個活躍的使用者社區：http://www.plecoforums.com。此外，我們仍在不斷改進產品；我們的銷售和客戶群連續12年以來在4大移動平臺上不斷增長。可以確信我們會在未來增加更多功能。",2009-12-17T20:53:10Z,2025-10-09T16:14:51Z
+mo,Macao,Reference,6006,21,714042749,BMW Driver's Guide,Bayerische Motoren Werke Aktiengesellschaft,https://apps.apple.com/mo/app/bmw-drivers-guide/id714042749?uo=4,0.0,4.90909,11,Reference,"BMW Driver's Guide 為特定 BMW 車型* BMW i 與 BMW M，提供重要的車型專屬車輛資訊。
+
+按一下即可瞭解如何操作車輛與其設備。本應用程式提供動畫說明、圖片搜尋、常見問題解答以及許多其他的功能。
+
+輸入車輛識別碼 (VIN) 後，系統會下載對應的車型專屬車輛資訊，離線時也可閱讀。可以在 BMW Driver’s Guide 中管理多部車輛。
+若沒有車輛識別碼  (VIN)，請直接參考 BMW 試駕車輛的資訊即可。
+
+BMW Driver’s Guide 概覽：
+
+• 完整的車型專屬車主手冊，內含導航、通訊、娛樂
+• 動畫說明與個人化教學影片
+• 指示燈與警示燈解說
+• 快速連結與簡要資訊
+• 360° 環景：互動式探索 BMW 車型的內裝與外觀
+• 以主題搜尋
+• 以車輛照片搜尋功能
+• 常見問題解答 (FAQ)
+• Apple iPhone 適用的智能掃描功能：將手機鏡頭對著內裝中的圖示，即可獲得功能資訊
+• 下載 BMW Driver's Guide 後，可離線使用
+
+*BMW Driver's Guide 支援的車型如下：
+• 我們支援自 2012 年起的所有 BMW 車型，並為舊車型提供部分支援
+
+車上隨附文件的其他手冊裡還有補充資料可參考。
+
+越瞭解座駕，行駛起來越如魚得水。
+BMW 祝您行車安全、駕駛愉快。",2017-05-18T03:49:20Z,2025-10-20T18:17:56Z
+mo,Macao,Reference,6006,22,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/mo/app/deepl-translate/id1552407475?uo=4,0.0,4.84337,83,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+mo,Macao,Reference,6006,23,1363362566,紫薇斗數-紫微斗數八字算命,丰 王,https://apps.apple.com/mo/app/%E7%B4%AB%E8%96%87%E6%96%97%E6%95%B8-%E7%B4%AB%E5%BE%AE%E6%96%97%E6%95%B8%E5%85%AB%E5%AD%97%E7%AE%97%E5%91%BD/id1363362566?uo=4,0.0,4.56566,99,Reference,"紫微斗數—唯一全部免費先天\大運\流年\流月\流日\流時\流分命盤的APP
+
+紫微派系集大成者
+中州、三合、四化、飛星、欽天排盤軟體
+
+命盤時間全覆蓋
+先天、大運、流年、流月、流日、流時、流分
+
+十二宮位全解析
+命宮、事業、愛情、財運、健康等完整詳批
+
+大師權威運勢報告
+皇家報告、姻緣錦囊、財富報告、事業報告等
+
+
+紫微斗數—最權威最精准的紫微斗數排盤批命APP ！",2018-05-26T21:46:25Z,2021-09-26T07:11:44Z
+mo,Macao,Reference,6006,24,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/mo/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,0,0,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+mo,Macao,Reference,6006,25,1537300883,去水印大师-人工智能去水印,婷婷 孙,https://apps.apple.com/mo/app/%E5%8E%BB%E6%B0%B4%E5%8D%B0%E5%A4%A7%E5%B8%88-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8E%BB%E6%B0%B4%E5%8D%B0/id1537300883?uo=4,0.0,0,0,Reference,"去水印大师，一款利用人工智能实现魔法的APP
+
+*去水印：利用人工智能技术，支持抖音，快手，火山小视频，皮皮虾，最右，比心，哔哩哔哩，微视等几十个平台
+*裁剪：自由剪裁，无限尺寸，随用随剪
+*涂鸦：文字，图片，文本多种涂鸦方式
+*滤镜：数十种滤镜效果可供选择
+*抓拍神器：自由截取视频高清无码图片
+*更多功能还在路上",2020-10-29T07:00:00Z,2020-11-07T01:29:18Z

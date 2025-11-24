@@ -1,0 +1,777 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mn,Mongolia,Finance,6015,1,6745158721,e-barimt,"General Department of Taxation, Mongolia",https://apps.apple.com/mn/app/e-barimt/id6745158721?uo=4,0.0,1.66859,347,Finance,"Цахим төлбөрийн баримтын системийн (ebarimt.mn) албан ёсны дагалдах бүтээгдэхүүн болох Ebarimt аппликейшн шинэчлэгдэж, хэрэглэгчдэд зориулсан илүү ухаалаг, боловсронгуй хувилбараа танилцуулж байна.
+Шинэ хувилбар нь өмнөх системийн бүх давуу талыг хадгалан, илүү хүртээмжтэй, аюулгүй, хялбар хэрэглээтэй байдлаар хөгжүүлэгдлээ.
+Хэрэглэгч бүрт ойлгомжтой интерфейс, сайжруулсан гүйцэтгэл, шинэ функцууд нь таны өдөр тутмын хэрэглээг илүү хялбар болгож байна.
+ 
+Шинэчлэлтийн онцлогууд
+ 
+- Өнгөний тохиргоо: Өнгөний харалган болон ялгаатай хараатай хэрэглэгчдэд зориулсан өнгө удирдах тохиргоо.
+- Нэмэлт баталгаажуулалт: Хэрэглэгчийн мэдээллийн аюулгүй байдлыг нэмэгдүүлсэн.
+- Сайжруулсан гүйцэтгэл: Илүү хурдан ажиллагаа, тогтвортой холболт, орчин үеийн интерфейс.
+- Эмийн үнийн мэдээлэл: Эмийн сангуудын бүтээгдэхүүний үнийг ил тод харьцуулж, нэг дороос мэдээлэл авах боломжтой эрүүл мэнд цэс нэмэгдсэн.
+- Өргөн хэрэглээний барааны үнийн дүн: Иргэд өргөн хэрэглээний барааны үнийн мэдээллийг харах, худалдан авах барааны үнийн мэдээлэлтэй харьцуулан шийдвэр гаргах боломж бүрдсэн.
+ 
+Гол функцууд
+ 
+- Баримтаа QR код, ДДТД эсвэл сугалааны дугаар ашиглан бүртгүүлэх
+- НӨАТ-ын буцаан олголт, сугалааны урамшуулал бодит цагийн мэдээллээр авах
+- Сугалааны тохирлын хугацаа болон урамшууллын мэдээллээ нэг дор хянах
+- Худалдан авалтаа ангилж, бүртгэлтэй баримтаа хялбар удирдах
+- Хувийн мэдээлэл, урамшууллын дансаа тохируулах
+- Ebarimt.mn сайтад шинээр бүртгүүлэх эсвэл шууд нэвтрэх
+ 
+Хувилбарын мэдээлэл
+ 
+- Аппликейшны загвар, гүйцэтгэл цогцоор шинэчлэгдсэн
+- Хүртээмж, аюулгүй байдлын тохиргоо сайжирсан
+- Хэрэглэгчийн туршлагыг шинэ түвшинд хүргэсэн
+ 
+Ebarimt — илүү ил тод, илүү ухаалаг хэрэглээ таны гар дээр.",2025-09-22T07:00:00Z,2025-11-14T02:11:59Z
+mn,Mongolia,Finance,6015,2,1475442374,Bogd Mobile,Bogd Bank LLC,https://apps.apple.com/mn/app/bogd-mobile/id1475442374?uo=4,0.0,4.35632,87,Finance,"Customers can access our banking services without the need for visiting a physical branch and access our banking services regardless of time or location. 
+Account
+•	Check account balance 
+•	Account statement
+•	Check the loan account balance
+•	Open new account
+•	Instant balance inquiry
+•	Account authorization settings and status change
+Transaction
+•	Transaction between own accounts 
+•	Transaction within Bogd bank
+•	Interbank transfer
+•	International transfer
+•	Transaction template
+•	Subscribe for standing order payment
+•	QPay
+Loan 
+•	View credit balance
+•	View loan repayment schedule
+•	Calculate available credit amount
+•	Apply for a quick loan, establish an agreement
+•	Deposit backed loan
+Card
+•	Order new card
+Other
+•	Manage your registered email address and phone number to the bank
+•	Replace username and password of Internet banking
+•	Look up ATM and branch information
+•	Savings and Loan calculator
+•	Exchange rate
+•	Website 
+•	Chatbot
+•	Fingerprint access
+•	Account securitization
+You can download an application to register as a customer, open an account and to access all other banking services even if you are not a customer already.
+We will be your trustworthy partner in banking to ensure customer privacy and security through our mobile banking application platform with easy solutions.",2019-12-14T08:00:00Z,2025-11-13T05:18:13Z
+mn,Mongolia,Finance,6015,3,6747012606,Zeely by Optimal N Max LLC,Tanasoft LLC,https://apps.apple.com/mn/app/zeely-by-optimal-n-max-llc/id6747012606?uo=4,0.0,3.79191,173,Finance,"Өмнө нь тогтмол орлого, барьцаа хөрөнгөтэй, сайн зээлийн түүхтэй хүн л зээл авах боломжтой байсан бол 2018 онд Zeely апп бий болсноор энэхүү уламжлалыг эвдэж, сэтгэл зүйд суурилсан шинэлэг аргаар зээл олгож эхэлсэн юм.
+
+Бид “Enabling Everyone” уриатайгаар сэтгэл зүйд суурилсан зээлийн үнэлгээ тогтоох аргачлал /кредит скоринг/-ийг ашиглан хэрэглэгчдийнхээ зээлжих эрхийг тогтоон, уламжлалт  шалгуураар зээл авах боломжгүй хүмүүст санхүүгийн шинэ, хүртээмжтэй  боломжийг нээн ажиллаж байна.
+
+Бүтээгдэхүүний онцлог:
+•	Сэтгэл зүйн скоринг
+•	Цахим гэрээ байгуулах
+•	Уян хатан төлбөрийн нөхцөл
+•	Хүртээмжтэй хэрэглээний зээл
+•	Урамшууллын хосолсон онооны систем
+•	Санхүү болон сэтгэл зүйн зөвлөмж
+
+Зээлийн ерөнхий нөхцөл:
+•	Дүн: 20,000₮–1,500,000₮
+•	Хугацаа: 1–3 сар
+•	Төлөлт: Сард 2 удаа, хэрэглэгчийн сонголтоор",2025-08-03T07:00:00Z,2025-11-17T06:13:25Z
+mn,Mongolia,Finance,6015,4,1455928972,М bank,M LLC,https://apps.apple.com/mn/app/%D0%BC-bank/id1455928972?uo=4,0.0,4.06156,1527,Finance,"М бол дараагийн үеийн салбаргүй, бүрэн дижитал банк. Бид уламжлалт банкны бүтээгдэхүүн үйлчилгээг дахин загварчилж, хувь хүний эрүүл санхүүг дэмжих орчинг хамтдаа бүтээнэ.",2022-06-15T07:00:00Z,2025-11-19T04:12:06Z
+mn,Mongolia,Finance,6015,5,978594162,monpay,Mobicom Corporation LLC,https://apps.apple.com/mn/app/monpay/id978594162?uo=4,0.0,3.90625,1664,Finance,"Шинэчлэгдсэн Монпэй апликейшныг танилцуулж байна.
+
+- Энгийн, найдвартай, хурдан
+- Зээлийн уян хатан шинэ нөхцөл
+- Dark mode
+- Өдөр тутмын хэрэгцээнд нийцсэн төрөл бүрийн мини апп
+- Монпэй маркет – Хүн бүрд нээлттэй
+- Төрөл бүрийн QR код уншуулан худалдан авалт хийх
+- Хамтрагч байгууллагын олон төрлийн хямдралтай купонууд
+
+
+We are proudly introducing a new version of MonPay application.
+
+- Simple, Secure, Fast
+- Зээлийн уян хатан шинэ нөхцөл
+- Dark mode
+- Daily lifestyle miniapps
+- MonPay market – Open for everyone
+- QR payment
+- Various types of discounted coupons",2015-04-26T12:42:57Z,2025-11-12T06:24:48Z
+mn,Mongolia,Finance,6015,6,6478477781,DiGi-Pay,Khan Bank,https://apps.apple.com/mn/app/digi-pay/id6478477781?uo=4,0.0,3.88626,211,Finance,"Амьдралын чинь хэмнэлтэй нийцэх ая тухтай бүхэн Digi Pay-д бий. 
+Enjoy everything! 
+
+Шимтгэл хураамжгүй хялбар гүйлгээ: Дуртай картаа холбоод ямар ч шимтгэлгүйгээр төлбөр тооцоогоо хийгээрэй. Бас ердөө 4 оронтой пин кодоор гүйлгээ хийх тул тун хялбар!
+Өөрийн хүслээр апп-аа бүтээ: ХААН Банкны бүх картаа нэг дор холбох төдийгүй апп-ынхаа дүр төрх, бүтцийг хүссэнээрээ өөрчлөөрэй!
+Амьдралын хэмнэл, ая тухыг мэдэр: Амьдралын хэмнэлд нийцэх олон төрлийн мини апп-уудыг нэгтгэсэн ая тухтай үйлчилгээг enjoy!
+Гоё, гоё хөнгөлөлт, урамшуулал: Ойрхон гоё газруудын хөнгөлөлт, картын урамшууллуудаас битгий хоцроорой!
+Digi Pay delivers conveniences tailored to your lifestyle. 
+Enjoy everything!
+•	Free Transfers: Make transactions and payments at no cost by linking your preferred banking cards.
+•	Effortless Comfort: Experience seamless service through a variety of mini-apps designed to complement your daily routine.
+•	Convenient Savings: Stay tuned for irresistible promos and discounts. Don’t miss out!",2024-05-13T07:00:00Z,2025-11-18T00:12:08Z
+mn,Mongolia,Finance,6015,7,1152919460,SocialPay,Golomt bank,https://apps.apple.com/mn/app/socialpay/id1152919460?uo=4,0.0,4.13833,600,Finance,"Таны амьдралын хэв маягийг маш хялбар болгох бүх төрлийн үйлчилгээг нэг дороос авах боломжтой.
+
+•	Хаанаас ч, Хурдан, Хялбар: Утасны дугаараар мөнгө шилжүүлэх/нэхэмжлэх боломжтой. (шимтгэл 0 төгрөг)
+•	Дэвшилтэт технологи Чимэгэ API: Яриаг бичвэр болгон хөрвүүлэгч Чимэгэ технологийг ашиглан SocialPay аппликейшнаар гүйлгээ хийх боломжтой. Бат руу 5000 төгрөг шилжүүлье.
+•	Customized theme /Өөрт тохирох өнгөө сонго/: 8 ширхэг ялгаатай өнгө төрхөөс таалагдсанаа сонгоод аппликейшнаа өөрт тохирохоор загварчлан ашиглах боломжтой.
+•	Банк хоорондын гүйлгээ: Бусад бүх банкны данс руу гүйлгээ хийх боломжтой.
+•	Дэлгүүр хэсэхдээ Дижитал хэтэвчтэйгээ: Олон улсад болон Монголдоо худалдаа, үйлчилгээний байгууллагууд дээр SocialPay-ээрээ төлбөр тооцоо хийгээрэй. (SocialPay-д бүх банкны картаа холбох боломжтой)
+•	Онлайн худалдаа, Виртуал карт: Бүх төрлийн онлайн худалдаа хийх, олон улсын эрхтэй Мастер, ЮнионПэй, Виза виртуал дебит карт болон Амекс кредит карт нээх боломжтой.
+•	Олон улсад төлбөр тооцоо хийх: ЮнионПэй картын QR/Barcode ашиглан дэлхийн 50 гаруй улс орнуудад SocialPay хэтэвчээ уншуулан төлбөр тооцоо хийх боломжтой.
+•	Лояалти хөтөлбөр: Голомт банкны лояалти системтийг SocialPay аппликейшны үндсэн үйлчилгээ болгон оруулж ирсэн.
+•	Бусад нэмэлт үйлчилгээ – Гуравдагч талын мини апп-ууд 
+•	Англи, Монгол хэлний сонголт",2017-04-05T09:56:47Z,2025-11-14T06:13:28Z
+mn,Mongolia,Finance,6015,8,6443731069,PayOn.v2,Tavan Bogd Finance NBFI Limited Liability Company,https://apps.apple.com/mn/app/payon-v2/id6443731069?uo=4,0.0,4.32603,365,Finance,"PayOn гэж юу вэ?
+
+PayOn гэдэг нь 5 сая хүртэлх төгрөгийн зээлийг илүү хялбараар илүү хурдан хугацаанд авах боломжтой цахим зээлийн аппликейшн юм.
+
+PayOn аппликейшний давуу тал юу вэ?
+
+-Орлого нотлох олон боломжууд
+-Зээлээ хугацаанд нь эргэн төлсөн харилцагчдад олгох урамшуулал
+-Урамшууллын эрхээр TreeOn тоглоом тоглож байгальд мод тарих
+
+PayOn аппликейшнтай хэрхэн холбогдох вэ?
+Лавлах утас: +976 75331111
+
+What is PayOn?
+Meet PayOn.mn, a time-saving mobile lending application for Mongolians powered by Fintech technology. Access your loan whenever you need to.
+
+Why PayOn?
+-Flexible income verification methods
+-Loyalty points for on-time repayments 
+-Play the ""TreeOn"" game to plant real trees with your loyalty points
+
+Loan: 
+
+The app where you complete certain information and meet certain criteria. Once you sign a contract, you will be eligible for a loan of 50,000 MNT - 5,000,000 MNTLoan terms are displayed below, and can be find in the app when the user enters ""Зээл баталгаажуулах"""" screen.
+a way to get a loan in this app:
+1. Register: Download the PayOn.mn application, register your user information and confirm your phone number.
+2. Defining credit rights:Based on the information you generate, we will determine the amount of loan and loan terms that can be analyzed.
+3. Concluding a loan agreement:If a loan decision is made, you will come in person once and sign a paper agreement. Come to the contract office and sign a contract.4. Get a loan:You can use the PayOn.mn application to select the type of loan and click on the loan button to adjust the loan amount and term, and transfer the loan to your bank account.
+
+Loan terms and fees:
+• Loan amount: 50,000 MNT - 5,000,000 MNT
+• Loan repayment: 3 month - 24 months
+• Monthly interest rate: 1.9%-3% 
+• Annual interest rate: 22.8%-36%
+• Service fee: 0 ₮
+
+
+Sample Loan :
+• Loan Amount: 300,000 MNT• Service fee: 0 ₮
+• Loan repayment period: 3 months
+• APR: 29.0%
+• Monthly payment: 105,041.15 MNT
+• Interest: 14,909.44 MNT
+• Total payment: 314,909.44 MNT
+
+Loyalty:
+Play ""TreeOn"" game to plant virtual tree to real tree with your loyalty points & steps you take. 
+*We need users' permission to activate Health app to count steps. This app uses the HealthKit APIs*",2022-10-12T07:00:00Z,2025-11-07T04:54:38Z
+mn,Mongolia,Finance,6015,9,1448956579,Sono Mongolia,Rico Capital LLC,https://apps.apple.com/mn/app/sono-mongolia/id1448956579?uo=4,0.0,4.64487,6378,Finance,"“СОНО” зээлийн аппликейшн нь “СОНО ФИНТЕК ББСБ” ХХК-ийн өмч бөгөөд ухаалаг гар утасны аппликейшн ашиглан цахим зээлийн үйлчилгээ үзүүлэгч финтекийн аппликейшн юм. “СОНО ФИНТЕК ББСБ” ХХК нь 2020 оны 3-р сард байгуулагдсан бөгөөд Монгол Улсын Санхүүгийн Зохицуулах Хорооны 2020 оны 05-р сарын 20-ны өдрийн 268 тоот тогтоолын дагуу банк бус санхүүгийн үйлчилгээний тусгай зөвшөөрөл авсан.
+
+Зээлийн төрөл:
+Барьцаагүй зээл: Өөрийн мэдээллээ бөглөж тодорхой шалгуур хангаж авдаг зээл. Нэг удаа гэрээ байгуулж 20,000-2,000,000₮ зээлийн эрхтэй болно.
+Худалдан авалтын зээл: Аппликейшинд байрласан нийлүүлэгчдийн бараа, үйлчилгээг худалдан авах зээл. Нэг удаа гэрээ байгуулж 20,000-2,000,000 зээлийн эрхтэй болно.
+ТЭГ ТЭГ зээл: Аппликейшинд байрласан нийлүүлэгчдийн бараа, үйлчилгээг ХҮҮГҮЙ, ШИМТГЭЛГҮЙ худалдан авах зээл. Нэг удаа гэрээ байгуулж 20,000-2,000,000 зээлийн эрхтэй болно.
+Цахим зээл: Барьцаагүй зээлийн шалгуур хангасан боловч, биеэр ирэх боломжгүй бол гар утсаар дамжуулан цахим гэрээ байгуулж, 100,000 төгрөгийн эрхтэй зээл авч болно.
+
+Нууцлалын бодлого:
+Бид Мөнгө угаах, терроризмтой тэмцэх болон хувь хүний нууцын тухай холбогдох Монгол улсын хууль тогтоомж болон олон улсад дагаж мөрдөгддөг журам, зааврын дагуу үйл ажиллагаагаа явуулдаг. Нэмж дурдахад бид хувийн мэдээллийн нууцлалыг өндөр хамгаалалттай газар хадгалдаг. 
+
+Зээл авах:
+1. Бүртгүүлэх: 
+СОНО аппликейшнийг татан авч, хэрэглэгчийн мэдээллээ бүртгүүлж, утасны дугаараа баталгаажуулна
+2. Зээл хүсэх:
+Дөрвөн төрлийн зээлийн үйлчилгээнээс аль нэгийг сонгоод тухайн зээлд шаардлагатай мэдээллүүдийг бүрдүүлэн зээл авах хүсэлт илгээнэ
+3. Зээлийн гэрээ байгуулах:
+Зээлийн шийдвэр гарсан тохиолдолд нэг удаа биеэр ирж цаасаар гэрээ байгуулна. Хэрэв БАРЬЦААГҮЙ зээлийн шалгуур хангасан бол ЦАХИМ ЗЭЭЛИЙН гэрээ гар утсаар дамжуулан байгуулж 100,000 зээлийн эрх нээлгэж болно.
+4. Зээл авах:
+Та СОНО аппликейшнийг ашиглан ИДЭВХТЭЙ зээлийн төрлөө сонгон зээл авах товчийг дарснаар авах зээлийн хэмжээ хугацаа зэргийг тохируулж өөрийн эзэмшдэг банкны дансанд зээлээ шилжүүлэн авах боломжтой.
+
+
+Зээлийн нөхцөл:
+Зээлийн дүн: 20,000 MNT - 2,000,000 MNT
+Үйлчилгээний шимтгэл: 0 MNT
+Зээлийн эргэн төлөлт: Таны сонголтоор буюу 3, 6, 9, 12 сар /Авч буй зээлийн дүн болон бүтээгдэхүүний төрлөөс хамаарч/
+Мөн та ямар ч хугацаатай зээл авсан тухайн зээлээ 0-6 удаа сунгах эрхтэй.
+APR: 0% - 36%
+
+Жишээлбэл: 
+Зээлийн дүн: 500,000 MNT
+Үйлчилгээний шимтгэл: 0 ₮
+Зээлийн эргэн төлөлт: 3 сар хугацаатай
+APR: 36%
+Сарын төлөлт: 176,765.18
+Хүү: 30,295.54
+Нийт төлөлт: 530,295.54",2019-06-20T04:56:11Z,2025-11-18T20:01:30Z
+mn,Mongolia,Finance,6015,10,1534832850,NetPay by Netcapital,Netcapital Financial Corporation NBFI LLC,https://apps.apple.com/mn/app/netpay-by-netcapital/id1534832850?uo=4,0.0,4.02222,315,Finance,"Үндсэн боломж
+- Гар утасны аппликейшн ашиглан харилцагч өөрөө өөрийгөө бүртгүүлнэ. Зээл авахаасаа өмнө апп-аар бүртгүүлэн салбар дээр өнгөрүүлэх цаг хугацааг хэмнэнэ.
+- Зээлийн дансны жагсаалт харах. Одоо байгаа идэвхтэй харилцагчид зээлийн дансаа харах.
+- Зээлийн эргэн төлөлтийн мэдээллээ харах. Өмнө нь төлж байсан үнийн дүн, хугацаагаа харах.
+- Зээлээ QPay болон аль ч банкны апп-аар дамжуулан шууд Netapp-аасаа шимтгэлгүй төлөх.
+Нэмэлт боломжууд
+- Салбарын байршил харах
+- Өөрийн мэдээлэл шинэчлэх",2020-10-12T07:00:00Z,2025-11-13T09:40:08Z
+mn,Mongolia,Finance,6015,11,1470947761,Storepay,Store pay llc,https://apps.apple.com/mn/app/storepay/id1470947761?uo=4,0.0,4.49115,678,Finance,"Хэрхэн харилцагч болох вэ? ​
+ 
+Та өөрийн гар утас дээр Storepay аппликейшн татаж бүртгүүлэн, хүсэлтээ 5 минутад онлайнаар илгээснээр үйлчилгээний эрхээ зайнаас шууд нээлгүүлэх боломжтой буюу ӨӨРИЙН БИЕЭР САЛБАР ДЭЭР ИРЭХ, БИЧИГ БАРИМТ БҮРДҮҮЛЭХ ЯМАР Ч ШААРДЛАГАГҮЙ ЮМ. ​
+1-р алхам: Storepay аппликейшнийг та өөрийн ухаалаг гар утсанд татаж авах ​
+2-р алхам: Та Storepay аппликейшнд бүртгүүлэн нэвтэрч орох ​
+3-р алхам: Хэрэглэгчийн бүртгэл баталгаажуулахад шаардлагатай бичиг баримт болон мэдээллээ оруулан хүсэлтээ илгээнэ. ​
+4-р алхам: Таны мэдээллүүд шаардлага хангасан тохиолдолд үйлчилгээний эрх 24 цагийн дотор нээгдэнэ. Таны оруулсан бичиг баримт, зураг нь шаардлага хангаагүй тохиолдолд дахин мэдээллээ шинэчлэн оруулах шаардлагатай ба энэ тухай таны бүртгэлтэй утасны дугаар руу мессеж илгээх болон аппликейшн notification-ээр мэдээлэл хүргүүлнэ.​
+ 
+Худалдан авалтын эрх, урамшуулал хэрхэн олгогдох вэ?​
+ 
+Танд Storepay-ээр дамжуулан хийх худалдан авалтын эрх 100,000₮-10,000,000₮ төгрөгийн хооронд үүсэх бөгөөд та худалдан авалт хийх тусам эрхийн хэмжээ нэмэгдэх боломжтой. ​
+Та өөрийн хийсэн худалдан авалтыг ямар ч хугацаа хэтрэлгүй хуваан төлснөөр SPC токены урамшуулал тогтмол авах ба тус эрхээр худалдан авалтын эрхээ нэмэгдүүлэх, урьдчилгаа төлөлтгүй худалдан авалт хийх, худалдан авалтын хуваарьт төлөлтөө хийхэд ашиглах боломжтой.​
+ 
+Хаанаас худалдан авалт хийж болох вэ?​
+ 
+Та манай 600,000 гаруй хэрэглэгчдийн нэг болж Монгол улс даяарх нийт 6000 гаруй салбар дэлгүүр болон үйлчилгээг Storepay-ээр дамжуулан өөрт тохирсон уян хатан нөхцөлөөр хуваан төлөх боломжтой. ​
+Илүү дэлгэрэнгүй мэдээллийг та манай аппликейшнийн түгээмэл асуулт хариулт, www.storepay.mn цахим хаяг вэбсайт болон лавлах утас 7611-0111 дугаараас авах боломжтой.",2019-08-27T07:00:00Z,2025-10-21T07:50:27Z
+mn,Mongolia,Finance,6015,12,6469474361,State Bank,State bank LLC,https://apps.apple.com/mn/app/state-bank/id6469474361?uo=4,0.0,3.95595,454,Finance,"Шинэ дэвшилтэт технологийг нэвтрүүлэгч Төрийн банк
+
+Та ухаалаг гар утас болон таблет ашиглан Төрийн банкны үйлчилгээг 24/7 цагаар ойлгомжтой, амархан, хурдан шуурхай, найдвартайгаар авах боломжийг олгож байна.
+Та манай Гялсбанкны Смарт аппликейшн руу нэвтрэхдээ Интернэт банкныхаа хэрэглэгчийн нэр, нууц үгийг ашиглана. Хэрэв та манай Интернэт банкны хэрэглэгч биш бол өөрт ойр байрлах Төрийн банкны дурын салбар нэгжид хандан Интернэт банкны үйлчилгээг аваарай. Мөн зөвлөгөө мэдээлэл авахыг хүсвэл Төрийн банкны 1800-1881 дугаарт холбогдоорой.
+Гялсбанкны Смарт аппликейшнаар авах үйлчилгээ:
+- Бүх төрлийн дансныхаа үлдэгдлийг лавлах, хуулга харах
+- Банк дотор дансны дугаар, картын дугаар эсвэл хувийн дугаараар гүйлгээ хийх
+- Банк хооронд гүйлгээ хийх
+- Хэрэглээний /байр, цахилгаан СӨХ, утас кабель, интернэт/ төлбөрөө Гялсбанкандаа холбох, төлөх, хураангуй болон дэлгэрэнгүй хуулгаа авах
+- Нийгмийн даатгал, гаалийн төлбөр болон торгууль, татвар төлөх
+- Банкны салбар нэгж, АТМ-н байршлыг харах,
+- Хадгаламж болон Зээлийн тооцоолуур ашиглах
+- Цахим зээл авах
+- Гүйлгээний загвараа хадгалах 
+- КЮПЭЙ үйлчилгээг ашиглах
+- Цахим төгрөг үйлчилгээг ашиглах
+- Кредит картын төлбөр төлөх
+- Гадаад гуйвуулга илгээх
+- Бүтээгдэхүүн, үйлчилгээнд бүртгүүлэх
+- Ханш лавлах гэх мэт.
+Шинэ дэвшилтэт технологийг нэвтрүүлэгч-Төрийн банк
+
+
+State Bank provides you easy, fast, secure access to 24/7 banking services on your smart phone and tablet devices.
+You can use your username and password of Internet banking to sign in our State bank Smart application. If you would like to sign up for Internet banking, please visit any nearby State bank branch. For more information, please contact hotline tel. 1800-1881.
+State bank Smart application service.
+- View your account balance, details of transactions
+- Send money using account number, card number, and personal number between State bank accounts
+- Make a interbank transactions
+- Connect and pay your Utility payment /housing fee, electricity, Homeowners Association fee, phone cable, internet/ to your State banking and receive detailed and summary statement
+- Social Insurance, taxes and fines payments service
+- Find a nearby State bank branch or ATM
+- Use savings and loan calculator
+- Digital loan
+- Save Transaction template
+- Use payment by Qpay
+- Use E-money service
+- Pay credit card bill
+- Send international remittance
+- Banking product’s
+- Check exchange rate.
+State bank- Introduction of innovative technology",2023-10-27T07:00:00Z,2025-11-20T21:20:21Z
+mn,Mongolia,Finance,6015,13,1555908766,Khan Bank,Khan Bank,https://apps.apple.com/mn/app/khan-bank/id1555908766?uo=4,0.0,3.54049,2309,Finance,"“Khan Bank” аппликэйшн шинэчлэгдлээ. 
+•	Хурууны хээ болон Face ID-аар нэвтрэх боломжтой
+•	Юнител, Жи-Мобайл болон Скайтелийн хэрэглэгчид Khan Bank аппликэйшн ашиглахад дата зарцуулахгүй
+
+Үндсэн боломжууд:
+•	Дансны мэдээллээ шалгах
+•	Гүйлгээ хийх
+•	Гүйлгээг давтаж болон хувааж төлөх
+•	Шинээр харилцах данс, хугацаагүй болон хугацаатай хадгаламж нээх
+•	Карт захиалах, И-ПИН код авах, картын төлөв өөрчлөх
+•	Цалингийн болон хадгаламж барьцаалсан зээл онлайнаар авах 
+•	Гааль, татвар төлөх
+•	Нэхэмжлэл илгээх, хүлээн авах
+
+1. Гүйлгээ:
+
+• ХААН Банкны данс руу гүйлгээ хийх
+• Бусад банкны данс руу гүйлгээ хийх 
+• Картын гүйлгээ хийх
+• QR кодоор гүйлгээ хийх
+• Фэйсбүүк, гар утасны дугаараар гүйлгээ хийх
+• Олон улсын гүйлгээ хийх
+
+2. Бусад үйлчилгээ:
+• Мобайл банк үйлчилгээнд бүртгүүлэх
+• Ухаалаг мэдээ үйлчилгээг идэвхжүүлэх, цуцлах
+• Валют арилжааны болон албан ханшийн мэдээ авах
+• Салбар, тооцооны төвийн байршил, цагийн хуваарь харах
+• Банкны бусад бүтээгдэхүүн, үйлчилгээний мэдээлэл авах
+
+Хэрэв та Khan Bank аппликэйшний хэрэглэгч болохыг хүсвэл  “Бүртгүүлэх” хэсэгт хандаарай. 
+
+------------------------------------------------------------------------------------
+
+Khan Bank application has been updated.
+• Fingerprint and Face ID access
+• Unitel, G-Mobile and Skytel users do not have to use data to use Khan Bank application
+
+Key features:
+• Check your account information
+• Make a transaction
+• Repeat or split payment
+• Open new current accounts, and term and demand deposits
+• Order a card, get an E-PIN code, or change the status of a card
+• Apply for a salary loan or deposit secured loan online
+• Pay customs and taxes
+• Send and receive invoices
+ 1. Transactions:
+• Transaction within Khan Bank 
+• Transaction outside of Khan Bank
+• Card transactions
+• QR code transactions
+• Transactions via Facebook and phone contacts
+• International transactions
+
+2. Other services:
+• Register for Mobile Banking
+• Activation or deactivation of Smart News
+• Receive currency trading and official exchange rate information
+• View the location and hours of Khan Bank branches
+• Find information about other banking products and services
+
+Click on “Register” to become a Khan Bank application user.",2021-03-09T08:00:00Z,2025-11-14T03:33:58Z
+mn,Mongolia,Finance,6015,14,1485529509,Golomt Digital Banking,Golomt bank,https://apps.apple.com/mn/app/golomt-digital-banking/id1485529509?uo=4,0.0,3.84756,492,Finance,"Банкны үйлчилгээнүүд:
+-          Үлдэгдэл, хуулга харах
+-          Бүх төрлийн гүйлгээ хийх
+-          Гар утас, интернэт, кабель, СӨХ, зэрэг хэрэглээний төлбөр төлөх
+-          Нэгж, дата худалдаж авах
+-          Торгууль төлөх
+-          Харилцах данс нээх болон хаах
+-          Хадгаламж нээх, сунгах болон хаах
+-          Хадгаламж барьцаалсан зээл авах
+-          Дижитал зээл авах 
+-          Тэтгэврийн зээл авах
+-          ПОС барьцаалсан зээл авах
+-          Зээл төлөх, зээл хаах
+-          Дебит карт захиалах
+-          Кредит карт захиалах
+-          Дансны дэвтэр
+-          Захиалгат шилжүүлэг
+-          Карт блоклох, блок гаргах
+-          Картын пин код авах
+-          Кредит картын төлбөр төлөх
+-          Нэвтрэх нэр, нууц үг солих
+-          Холбогдох мэдээлэл шинэчлэх
+-          Дансны эрх тохиргоо
+-          Миний санхүү – таны санхүүг таны өмнөөс хөтлөх автомат хөтөч цэс
+-          Товч холбоос – таны тухайн өдөр хийх магадлалтай гүйлгээ болон төлбөр
+-          Тусламж – Смарт банкыг ашиглахад туслах бүх хэрэгсэл агуулсан цэс
+ 
+Нэмэлт боломжууд:
+-          Хэл солих – англи, монгол хэл дээр апп-г ашиглах
+-          Dark mode – апп-н үндсэн өнгийг хар болгож цэнэг хэмнэх
+-          TouchID, FaceID – хуруу болон царайгаар апп руу нэвтрэх
+-          Swipe – дансыг хоёр тийш татаад дансны хуулга эсвэл гүйлгээ хийх
+-          АТМ, Салбарын байршил харах
+-          Ханшийн самбар
+-          Хадгаламж, зээлийн тооцоолуур
+ 
+Banking services:
+-          View balance and statement
+-          All types of transactions
+-          Bill payment for mobile, internet, cable, HOA
+-          Mobile unit and date top-up
+-          Penalty payment (traffic ticket)
+-          Open and close current account
+-          Open, renew and close savings account
+-          Get savings backed loan
+-          Digital loan
+-          Pension loan
+-          POS backed loan
+-          Loan payment, closure
+-          Debit card application
+-          Credit card application
+-          Account book
+-          Standing instruction
+-          Card block, unblock
+-          Card pin code
+-          Credit card payment
+-          Change log-in name, password
+-          Update contact information
+-          Account permission settings
+-          Personal Finance Management – automatically manages your finances for you
+-          Shortcut – suggested transactions or payments
+-          Help – All types of helpful tools for Smart Bank application usage
+ 
+Additional features:
+-          Change language – use app in English or Mongolian
+-          Dark mode – change the main color of the app into dark mode
+-          TouchID, FaceID – use fingerprint ID and face ID to login
+-          Swipe – swipe the accounts left or right for quick statement or transaction
+-          ATM, Branch Location
+-          Exchange rate
+-          Savings and loan Calculator",2019-11-10T08:00:00Z,2025-10-06T02:28:12Z
+mn,Mongolia,Finance,6015,15,1486845825,Pocket.mn,Invescore Wallet LLC,https://apps.apple.com/mn/app/pocket-mn/id1486845825?uo=4,0.0,4.16523,1047,Finance,"Pocket application is an AI and fintech based product of “Invescore Wallet NBFI” LLC and it offers online loan and payment service. “Invescore Wallet NBFI” LLC is established in May of 2019 and received the non-banking financial service license under the Decree No 327 of Financial Regulatory Commission of Mongolia on 25th of November, 2019. 
+
+Pocket application provides following services under Mongolian laws and regulations: 
+•	Online loan
+•	BNPL
+
+Registering on the app:
+•	Verification of phone number
+•	National Identification Number
+•	First and last name
+
+Privacy Policy
+We strictly adheres with the local regulations and laws of Mongolia. In addition, we keep the confidentiality of private information at high secured place. We are compliant with the Anti-Money Laundering Commission as well as National Data Privacy Commission.
+
+How to get loan?
+Once the customer download the application from App Store and register by using valid information, his/her credit scoring is evaluated based on our AI system and Centralized Loan Database of the Bank of Mongolia. This prevents the customers from receiving multiple loans, which may result in the failure of repayment. Once the customer’s credit scoring is completed and the Loan Agreement is signed by the parties, the customer will be able to receive loan anytime to his/her bank account or Pocket wallet without any additional criteria. 
+
+Loan term: from 14 to 180 days
+Fee: from 7.5% to 1% 
+Loan amount: MNT 20,000 – MNT10,000,000 
+
+How to repay the loan?
+The customer can repay the loan anytime without extra fee or  interest rate. Our system informs the customers regarding the repayment due date via SMS message, email, notification on the Pocket App and a phone call from our customer service. The customers can repay the loan directly from Pocket application, local banks applications as well as from local bank branches and ATMs. When the customers make repayments on time, they are able to increase loan amount, reduce fees and collect bonus points.   
+
+What is a bonus point?
+Customers are able to collect bonus points through the following multiple ways and use it for maximize their loan amount and reduce the fee: 
+1.	Repay the loan on time +6
+2.	Read daily news +1
+3.	Play games (+5 up to)
+4.	Invite friends +200
+5.	Watch explainer videos +50
+6.	Others  
+
+You will never be bored with Pocket.
+
+Contact us: 
+Customer service: (+976) 1900-1188; 7777-8885;
+E-mail: info@pocket.mn 
+Facebook: https://www.facebook.com/PocketMN 
+Address: 15th floor, Twin Tower-1, Seoul street 10/1, Sukhbaatar district, Ulaanbaatar, Mongolia
+
+Pocket апп нь “Инвескор Хэтэвч ББСБ” ХХК-иас гаргаж буй цахим зээл, цахим төлбөр тооцооны үйлчилгээ бүхий финтек технологи болон хиймэл оюун ухааны технологид суурилсан аппликейшн юм. “Инвескор Хэтэвч ББСБ” нь 2019 оны 05 сард үүсгэн байгуулагдаж, 11-р сарын 25-ны өдөр Санхүүгийн Зохицуулах Хорооны 327тоот тогтоолоор үйл ажиллагааны тусгай зөвшөөрлөө аван Монгол улсад албан ёсны эрхтэйгээр үйл ажиллагаа явуулж байна. 
+
+Pocket апп нь Монгол улсын хууль дүрмийн дагуу доорх үйл ажиллагааг аппликейшнаараа дамжуулан явуулж байна. 
+1.	Цахим зээл авах боломж
+2.	Онлайн худалдан авалт хийх
+
+Зээл авах тухай 
+Pocket аппликешныг татаж, албан ёсны мэдээллүүдээ бөглөж бүртгүүлсний дараагаар хэрэглэгчийн зээлжих эрхийг Монгол Банкны Зээлийн Мэдээллийн Сан болон системийн хиймэл оюун ухаанд тулгуурлан тогтоодог. Ингэснээр ямар нэг хэрэглэгч найдваргүй олон зээл авах эрсдэлээс сэргийлдэг. Хэрэглэгчийн зээлжих эрх нь ЗМС болон PocketMN-ийн шалгуурт суурилан гарсны дараагаар дахин бүртгэл шалгуур хийлгэхгүйгээр дуртай үедээ өөрт тохирсон хэмжээгээр зээлээ өөрийн банкны данс руу эсвэл pocket wallet руу авах боломжтой. 
+
+Зээлийн хугацаа: 14 хоногоос 180 хоног хүртэлх, 
+Мөнгөн дүн: 50,000₮-10,000,000₮-ийн хэмжээтэй",2019-12-31T08:00:00Z,2025-11-03T07:28:57Z
+mn,Mongolia,Finance,6015,16,1668748036,M Credit,Solomon Investments NBFI LLC,https://apps.apple.com/mn/app/m-credit/id1668748036?uo=4,0.0,4.71237,1787,Finance,"Соломон Инвестментс ББСБ ХХК -ийн M Credit апп нь 2023 оноос хойш цахим зээлийн үйлчилгээг тасралтгүй үзүүлж байгаа аппликэйшн юм. Зээл хүсэгчийн зээл авах боломж, цаг хугацааг хэмнэж зээлийн гэрээг зайнаас байгуулж, зээлийн эрхээ тогтоож хялбар, шуурхай зээлийн үйлчилгээг үзүүлж байна. Харилцагчиддаа илүү ойртож хүрэхийн тулд Монгол улсын 21 аймгуудын харьяалалд ч мөн нээлттэй. Бид ISO 27001:2022 олон улсын стандартыг нэвтрүүлж харилцагчдынхаа мэдээллийн аюулгүй байдлыг хангаж ажилладаг. 
+
+M Credit апп-н зээлийн бүтээгдэхүүнүүд:
+
+1. Цахим зээл 
+- 50,000-2,000,000₮ хүртэлх бэлэн мөнгөний цахим зээл
+- Зээлийн дүнгээс хамаарч 90 хоног хүртэл авах боломжтой
+- Цахим зээлээ 6 удаа хүртэл сунгах уян хатан нөхцөлтэй 
+- Зээлийн хугацаа дуусахаас өмнө хүссэн дүнгээрээ урьдчилан зээлийн нийт дүнгээс хасуулах боломжтой
+
+2. Худалдан авалтын зээл 
+- Урьдчилгаагүй
+- Хүүгүй 
+- Шимтгэлгүй
+- 4 хүртэл хувааж төлөх боломжтой
+- 3 хүртэл удаа төлөлтөө сунгах боломжтой
+
+3. ""Magic"" Кредит карт
+- 500,000-1,000,000₮ хүртэл эрх тогтоно
+- 1500 бонус оноогоо ашиглан картын хүсэлтээ илгээнэ 
+
+Мкредит апп-ын давуу тал: 
+- Хэзээ ч хаанаас ч зээлийн гэрээгээ цахимаар байгуулах боломжтой
+- Монгол улс даяар 21 аймгуудад нээлттэй
+- Цахим зээл, худалдан авалтын зээлийг нэг дороос 
+- Зээлийн гүйлгээ хийхэд хялбар, шуурхай
+- Зээлийн хугацаа дуусахаас өмнө хүссэн дүнгээрээ зээлээсээ төлөх боломжтой
+- Хугацаандаа зээлээ хаах бүрдээ бонус оноо цуглуулж, бонус оноогоороо зээлийн хүү бууруулах, зээлийн эрхээ нэмүүлэх боломжтой
+- Зээлээ сунгаж болох уян хатан нөхцөлтэй
+
+Your financial choice Mcredit
+
+Холбоо барих: 72002060
+Е-мэйл: support@mcredit.mn",2023-03-15T07:00:00Z,2025-11-18T01:26:27Z
+mn,Mongolia,Finance,6015,17,1167495761,LendMN,LendMN NBFI JSC,https://apps.apple.com/mn/app/lendmn/id1167495761?uo=4,0.0,4.17105,608,Finance,"LendMN аппликейшн шинэчлэгдлээ. Хамтдаа Асаая
+
+LendMN нь хиймэл оюун ухаанд суурилсан дэвшилтэт технологийг санхүүгийн үйлчилгээтэй хослуулсан Монголын анхны финтек аппликейшн юм. Та энэхүү аппликейшнээр дамжуулан Дижитал бизнесийн зээл, Хэрэглээний зээл, Худалдан авалтын зээлийн үйлчилгээг ашиглан төлбөр тооцоо, мөнгөн шилжүүлэг хийх болон Хөрөнгө оруулалтын бүтээгдэхүүнээр дамжуулан мөнгөө өсгөх, Онлайн дэлгүүрээс хүссэн бүтээгдэхүүн үйлчилгээгээ авах боломжтой.
+
+ЗЭЭЛИЙН БҮТЭЭГДЭХҮҮН
+
+Дижитал бизнесийн зээл
+Та бичил болон жижиг дунд бизнес эрхэлдэг бол LendMN аппликейшнээр 100% дижитал, 100 сая төгрөг хүртэлх бизнесийн зээлийг ямар нэгэн барьцаагүйгээр 2 минутад авах боломжтой.
+
+Хэрэглээний зээл
+Хэзээ ч хаанаас ч гар утсаараа 50 сая хүртэлх төгрөгийг сардаа 1 удаа төлөх нөхцөлтэйгөөр хормын дотор ашиглаарай.
+
+Худалдан авалтын зээл
+ЛэндМН-ийн хамтрагч байгууллагуудаас хүссэн бүтээгдэхүүн, үйлчилгээгээ урьдчилгаагүй, шимтгэлгүй 60 хоногт 4 хувааж төлөх болон хүссэнээрээ төлөх нөхцөлтэйгөөр 100’000₮ – 50 сая хүртэлх төгрөгийг шууд аваад, хувааж төлөөрэй.
+
+
+ХӨРӨНГӨ ОРУУЛАЛТЫН БҮТЭЭГДЭХҮҮН
+LendPlus итгэлцлийн үйлчилгээ нь таны мөнгөн хөрөнгийг LendMN аппликейшнээр дамжуулан үнэгүйдлээс хамгаалан өсгөх боломжийг олгох үйлчилгээ юм.
+
+ХЭРЭГЛЭГЧ БОЛОХ АЛХАМ:
+1. ХУВИЙН МЭДЭЭЛЭЛ
+Гар утасны дугаараар бүртгүүлж, бүртгэлээ баталгаажуулаарай..
+2. ГЭРЭЭ БАЙГУУЛАХ
+Та зээлийн эрхээ тогтоолгосон бол нэг удаа ЛэндМН-ийн харилцагчийн үйлчилгээний төв, өөрт ойрхон нотариатын салбар дээр очиж гэрээ байгуулснаар бүх төрлийн санхүүгийн асуудлаа хамгийн хялбараар дижиталаар шийдэх боломжтой.
+
+""ЛэндМН ББСБ"" ХК",2016-12-23T05:25:34Z,2025-04-17T03:48:53Z
+mn,Mongolia,Finance,6015,18,1458831706,TDB Online,Trade and Development Bank LLC,https://apps.apple.com/mn/app/tdb-online/id1458831706?uo=4,0.0,3.4933,448,Finance,"Худалдаа, хөгжлийн банк нь интернэт банк үйлчилгээгээ харилцагчдад ойртуулан гар утас, таблетанд зориулсан аппликэйшнийг шинэчлэн гаргаж байна.
+
+Та интернэт банкны хэрэглэгч бол өөрийн хэрэглэгчийн нэр, нэвтрэх нууц үгээ ашиглан нэвтэрнэ үү.
+
+Худалдаа, хөгжлийн банкны интернэт банк үйлчилгээний мобайл аппликэйшн дэх үндсэн функцууд:
+
+1.	Гүйлгээ
+• Өөрийн данс хооронд гүйлгээ хийх
+• ХХБ-ны болон бусад арилжааны банкны данс руу гүйлгээ хийх
+• Олон улсын гүйлгээ хийх
+• Багц гүйлгээ хийх, зөвшөөрөх
+• Хүлээгдэж байгаа гүйлгээнд зөвшөөрөл олгох
+• Тогтмол шилжүүлэх хийх
+•  Гүйлгээний мэдээллийг загвар болгон хадгалах
+• Хэлцэлтэй гүйлгээ
+ 
+2.	Данс
+• Дансны мэдээллийн дэлгэрэнгүйг харах
+• Сүүлийн гүйлгээний мэдээлэл харах
+• Картын мэдээлэл шалгах
+• Данс нээх
+
+3.	Карт
+• Карт захиалах
+• Картуудын жагсаалтыг харах
+• Картын дэлгэрэнгүй мэдээлэл харах
+• Пин код шинэчлэх
+• Интернэт пин авах
+
+4.	Төлбөр
+• TDB Pay үйлчилгээ ашиглан QR төлбөр төлөх
+• Билл төлбөр төлөх
+• Гаалийн төлбөр төлөх
+• Татвар төлөх
+
+5.	Зээл
+•  Шугамын зээл авах
+• Хадгаламж барьцаалсан зээл авах
+
+6.	Үйлчилгээ
+• Харилцагчаар шинээр бүртгүүлэх
+• Хурууны хээ таних
+• Үнэт цаас
+• Даатгал
+• Дансны тодорхойлолт авах
+
+7.	Нэмэлт боломж
+
+• Ханшийн мэдээлэл харах
+• Валют хоорондын тооцоолол хийх
+• Хадгаламжийн тооцоолол хийх
+• Орон сууцны, цалингийн, хадгаламж барьцаалсан зээлийн тооцоолол хийх
+• Зээлийн харьцуулсан тооцоолол хийх
+• ХХБ-ны салбар, АТМ, лэйди картын хөнгөлөлттэй үйлчлэх байгууллагуудын байршлыг харах, өөрт    хамгийн ойр байгаа байршлаар харах
+• Банкнаас зарласан урамшууллын мэдээлэл харах
+• Банктай тусгай шуудангаар харилцах
+• Банктай холбогдох
+
+
+Trade and Development Bank has developed application for smart phones and tablets to use internet banking service more easily and safer for 24/7.
+
+To start using this mobile application, you must register in our internet banking service.
+
+If you are already registered with our online banking service, use the current Internet banking login name (user ID) and passwords to start a mobile application.
+Main functions of “TDB” application:
+
+Transaction
+• Between your own accounts
+• Intra bank and interbank transactions
+• SWIFT transactions
+• Bulk transactions approval
+• To approve transaction which is in waiting status
+• Transaction template
+
+Account
+• Monitor your accounts
+• Check your last 12 transaction
+• Check your card inquiry
+• Open account
+
+Card
+• Order card
+• Check your cards information including enquiry
+• Change your cards limit and status
+• Generate PIN code
+• Generate E-PIN
+
+Loan
+• Savings deposit loan
+• Line loan
+
+Payment
+• QR payment using TDB Pay
+• Bill payments
+• Tax Payment
+• Customs Payment
+
+Services
+• Fingerprint
+• Securities
+• Insurance
+• Register 
+• Account Statement
+
+Additional functions
+• List of the services received from the bank
+• Foreign exchange rates
+• Calculation of the exchange rate
+• Calculation of savings
+• Mortgage, Salary and Savings deposit loan calculation
+• Compare loan
+• Locate ATM’s, Branch’s and Lady loyalty merchant’s locations
+• Information about the delivered by the bank Promotion
+• Information about banking products
+• Contact with the bank via message center in internet banking service",2019-05-15T07:28:12Z,2025-11-19T02:09:34Z
+mn,Mongolia,Finance,6015,19,1445520249,Numur,Numur Credit,https://apps.apple.com/mn/app/numur/id1445520249?uo=4,0.0,4.33711,11032,Finance,"Бидний эрхэм зорилго нь хүний хэрэгцээ шаардлагад нийцсэн санхүүгийн шийдэл үйлчилгээг мэдээлэл технологийн дэвшилд суурилан шуурхай, чанартай, найдвартай хүргэх билээ.
+
+Та Нөмөрийн хувийн зээлийн шугамаас өөрийнхөө нөхцөлд тохируулан зээл авах боломжтой. Хувийн зээлийн шугам (Personal Line of Credit) гэдэг нь хэзээ ч, хаанаас ч, хэдэн ч удаа 2 сая төгрөг хүртэлхи дүн бүхий өөрийн зээлийн шугам/эрхээс авч сонгосон хугацаандаа тогтмол хуваарьтай эргэн төлөх зээлийн үйлчилгээ юм.
+
+Барьцаа шаардахгүй, бичиг баримт бүрдүүлэх шаардлагагүй ба та нэг удаа гэрээ хийснээр таны эрх нээгдэх болно. Таны хувийн зээлийн шугамыг хүргэх Нөмөр Апп, Таны санхүүгийн нөмөр.",2019-01-16T23:50:29Z,2025-11-11T22:31:10Z
+mn,Mongolia,Finance,6015,20,6449488130,SocialPay Junior,Golomt bank,https://apps.apple.com/mn/app/socialpay-junior/id6449488130?uo=4,0.0,3.35417,96,Finance,"SocialPay Junior-ийн УХААЛАГ боломжуудаас онцлон дурдвал:
+•	Аппликэйшний өнгө төрхөө өөрөө сонгож бүтээх 
+•	Дотнын найзууд руугаа хялбар шилжүүлэг хийх, нэхэмжлэл илгээх
+•	Umoney автобусны картаа цэнэглэх
+•	ATM-с бэлэн мөнгө авах 
+•	Бүх банкны данс руу шилжүүлэг хийх 
+•	QPay ашиглан төлбөр төлөх 
+•	Бусад банкны картаа нэмж, QR төлбөр тооцоо хийх 
+•	Мини апп цэсийг ашиглан тоглоом цэнэглэлт, кино үзвэрийн тасалбар захиалах, онлайн дэлгүүрээс худалдан авалт хийх, хандив өгөх гэх мэт олон үйлчилгээг нэг дороос авах боломжтой. 
+
+The one app handles everything.",2023-06-07T07:00:00Z,2025-09-12T03:29:31Z
+mn,Mongolia,Finance,6015,21,1534265552,XacBank,XacBank LLC,https://apps.apple.com/mn/app/xacbank/id1534265552?uo=4,0.0,3.03641,1071,Finance,"Гүйлгээ:
+- Өөрийн данс хооронд гүйлгээ хийх
+- ХасБанкны данс хооронд гүйлгээ хийх
+- Банк хоорондын гүйлгээ хийх
+- Гадаад шилжүүлэг хийх
+- Хэрэглээний төлбөр төлөх
+- Мулти гүйлгээ хийх
+- QR кодоор гүйлгээ хийх
+- Утасны дугаараар гүйлгээ хийх
+- Багцаар гүйлгээ хийх
+
+Үйлчилгээ:
+- Дансны удирдлага
+- Харилцах хадгаламжийн данс нээх 
+- Хадгаламж барьцаалсан зээл авах
+- Онлайн цалингийн зээл авах
+- Зээлийн хүсэлтүүд илгээх
+- Төлбөрийн карт захиалах
+- Картын нэмэлт тохиргоонууд
+- Дансны тодорхойлолт авах
+- ХасИнфо үйлчилгээг удирдах
+
+Бусад:
+- Салбар нэгжийн байршил
+- Тооцоолуур
+- Хандалтын түүх
+- Дансны удирлага
+
+
+
+
+
+Dear customer,
+
+
+With updated version of XacBank brings banking service to you even closer than before. If you are not XacBank customer yet, with new APP you would be able to onboard yourself with few clicks - you do not need to come to branch.
+
+
+Transfer:
+- Transaction within XacBank accounts
+- Transaction outside of XacBank  accounts
+- Make an interbank transactions
+- Send worldwide transfers – SWIFT transaction
+- Multi transfer
+- Pay your bills
+- View your current, savings, loan, mortgage and credit card accounts
+
+Products:
+- Register yourself in digital banking
+- Account management functions
+- Open new savings account
+- Apply for deposit backed loan
+- Request for consumer loan 
+- Order a card, get an E-Pin code, or change the status of card
+- Payment card management functions
+- Get a reference letter
+- Activation or deactivation of XacInfo service
+   
+Additional features:
+- Find branches and ATMs near you
+- Loan and deposit calculator
+- Tracking
+- Other",2021-03-24T07:00:00Z,2025-11-18T09:16:09Z
+mn,Mongolia,Finance,6015,22,6745176180,valu up,Unet credit NBFI LLC,https://apps.apple.com/mn/app/valu-up/id6745176180?uo=4,0.0,4.53659,41,Finance,"VALU UP апп нь “Үнэт Кредит ББСБ” ХХК-аас гаргаж буй цахим зээлийн үйлчилгээ үзүүлэгч финтек аппликэйшн юм. Valu Up аппликэйшнээс  та өөрийн хэрэгцээ шаардлагад тохируулан 50,000-2,000,000 төгрөг хүртэлх зээлийг барьцаа хөрөнгө шаардахгүйгээр авах боломжтой.
+ 
+“Valu up” аппликэйшн нь танд
+•	Уян хатан нөхцөл
+•	Төлбөр тооцооны шинэлэг шийдлийг санал болгож байна.
+ 
+Зээлийн нөхцөл
+Зээлийн дээд хэмжээ: 2,000,000₮
+Зээлийн хугацаа: 90 хоног (3 Сар)
+Эргэн төлөгдөх хугацаа 0-90 хоног (Хэрэглэгч хүссэн үедээ эргэн төлөх боломжтой.)
+Сарын хүү: 2%-3% Зээлжих зэрэглэлээс хамаарч тогтоно.
+Жилийн хүү (APR): 24%-36% 
+ 
+Хүү тооцох арга: Сарын хүүг жилийн хүү болгон тооцож, 365 хоногт хуваан өдрөөр тооцдог. Жишээ тооцоо: Зээлийн дүн: 100,000₮ Хугацаа: 30 хоног Нийт төлөх дүн: 102,466₮ Нийт хүү: 2,466₮ (Энэ жишээ нь хүү болон хугацаанаас хамааран өөрчлөгдөж болно)",2025-04-30T07:00:00Z,2025-11-18T02:03:11Z
+mn,Mongolia,Finance,6015,23,1618191556,Мандал Хуримтлал,Mandal Asset Management Securities Firm LLC,https://apps.apple.com/mn/app/%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%D0%BB-%D1%85%D1%83%D1%80%D0%B8%D0%BC%D1%82%D0%BB%D0%B0%D0%BB/id1618191556?uo=4,0.0,3.87742,155,Finance,Энэхүү аппликейшн нь танд Хуримтлалын Хүчийг ашиглан мөнгөтэй болох боломжийг нээнэ.,2022-04-20T07:00:00Z,2025-05-05T23:14:14Z
+mn,Mongolia,Finance,6015,24,1369846744,Ard,Ard Financial Group,https://apps.apple.com/mn/app/ard/id1369846744?uo=4,0.0,3.57851,968,Finance,"Manage your financial assets 24/7 with this secure Ard application from Ard Financial Group for your Apple devices. With more updates and features on the way you can:
+
+    - Log on around the world
+    - View your account balances and transaction history
+    - Transfer funds
+    - Pay bills
+    - Request and get loan approvals within 5 minutes
+    - Automatic credit scoring
+    - Open new savings accounts
+    - Trade shares on Mongolian Stock Exchange
+    - Insurance products
+    - E-commerce platform
+
+
+
+Just download the application and use our customer self enrollment functionality to sign up without coming to a branch.
+
+
+Та Ард аппликейшныг ашиглан өөрийн санхүүгийн хөрөнгийг хаанаас ч, хэзээ ч удирдах боломжтой юм. Үндсэн боломжууд:
+    - Банкны салбарт ирэлгүйгээр бүх төрлийн дансны үлдэгдэл, хуулга шалгах
+    - Бүх төрлийн шилжүүлэг, гүйлгээ хийх
+    - Хэрэглээний төлбөрөө төлөх
+    - Хүсэлтээ илгээгээд 5 минутын дотор зээл авах
+    - Автомат кредит скоринг
+    - Хадгаламжийн шинэ данс нээх
+    - Монголын Хөрөнгийн Бирж дээр эзэмшдэг хувьцаагаа удирдах
+    - Даатгалын бүтээгдэхүүнүүд
+    - Онлайн худалдааны платформ
+
+
+
+Та манай аппликейшнийг суулгаад, бүртгэл хийж, харилцагч болох боломжтой тул салбар дээр биеэр ирэх шаардлагагүй.
+Та салбар дээр биеэр ирэлгүйгээр аппликейшнээ суулгаад, бүртгэл хийж, харилцагч болох бүрэн боломжтой.",2018-04-26T03:07:54Z,2025-09-15T02:14:11Z
+mn,Mongolia,Finance,6015,25,6751792240,CASH24,Satoshi Nakamoto LLC,https://apps.apple.com/mn/app/cash24/id6751792240?uo=4,0.0,5,6,Finance,"Таны хэрэгцээ шаардлагад нийцсэн цахим зээлийн CASH24 апп-г танилцуулж байна. Өөрийн мэдээллийг төрийн мэдээллийн ХУР-ДАН сервисүүд ашиглан баталгаажуулан цахимаар гэрээ байгуулан зайнаас зээл аваарай. Найзаа урих, зээлээ хугацаандаа төлөх бүрт урамшууллалын оноо авч түүгээрээ 7 хоног бүр тохиролтой бэлэн мөнгөний урамшуулалд хамрагдах боломжтой.
+
+
+Жишээ төлөлт:
+Үндсэн зээл - 500,000 MNT
+Зээлийн хугацаа – 3 months
+Сарын хүү – 1.5%, жилийн хүү 18%
+Сарын эргэн төлөлт – 171,400 MNT
+Шимтгэл - 0 MNT
+Нийт хүүгийн төлөлт - 14,198.32
+Нийт эргэн төлөх: 519,199 MNT",2025-09-29T07:00:00Z,2025-11-19T00:25:34Z

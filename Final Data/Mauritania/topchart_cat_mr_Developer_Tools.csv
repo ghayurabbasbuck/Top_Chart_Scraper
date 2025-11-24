@@ -1,0 +1,485 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mr,Mauritania,Developer Tools,6026,1,1601434613,Store Redirect,翔 何,https://apps.apple.com/mr/app/store-redirect/id1601434613?uo=4,0.0,4.46666,15,Developer Tools,"Store Redirect helps developers to view their apps in multiple countries and regions. 
+Developers can easily query ranks, reviews, featured app, stories and more.
+By checking the apps in each countries and regions, developers can better localize apps.",2022-01-12T08:00:00Z,2022-02-23T16:01:14Z
+mr,Mauritania,Developer Tools,6026,2,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/mr/app/testflight/id899247664?uo=4,0.0,4.46622,444,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+mr,Mauritania,Developer Tools,6026,3,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/mr/app/apple-developer/id640199958?uo=4,0.0,3.83333,6,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+mr,Mauritania,Developer Tools,6026,4,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/mr/app/rork/id6746410361?uo=4,0.0,0,0,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+mr,Mauritania,Developer Tools,6026,5,1477376905,GitHub,GitHub,https://apps.apple.com/mr/app/github/id1477376905?uo=4,0.0,4.25,4,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+mr,Mauritania,Developer Tools,6026,6,1508712998,Spectre VPN,Passion Only Pty Ltd,https://apps.apple.com/mr/app/spectre-vpn/id1508712998?uo=4,0.0,0,0,Developer Tools,"* The best way to connect
+Supports Shadowsocks and Trojan protocol, the lightweight, efficient yet powerful proxy applications.
+
+* Protect your privacy
+Multiple strong encryption methods that ensures your internet data will never be seen by third-party.
+
+* Simple and free
+Intuitive design makes life easier.
+Last but not least, it's free!",2020-11-16T08:00:00Z,2023-09-26T04:44:25Z
+mr,Mauritania,Developer Tools,6026,7,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/mr/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.33333,3,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+mr,Mauritania,Developer Tools,6026,8,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/mr/app/app-store-connect/id1234793120?uo=4,0.0,5,3,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+mr,Mauritania,Developer Tools,6026,9,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/mr/app/termux/id6738933789?uo=4,0.0,5,1,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+mr,Mauritania,Developer Tools,6026,10,6469385251,Xogot: Godot for iPad & iPhone,"Xibbon, Inc",https://apps.apple.com/mr/app/xogot-godot-for-ipad-iphone/id6469385251?uo=4,0.0,0,0,Developer Tools,"Xogot brings the full power of the Godot game engine to iPad — and now iPhone.
+
+With a native mobile experience designed for touch, you can create, test, and share games wherever inspiration strikes.
+
+And the best part? You can now use core Xogot functionality for free — start building games right away, no subscription required.
+
+Whether you’re making a pixel-perfect 2D platformer, a roguelike deck-builder, or an immersive 3D world, Xogot gives you everything you need to create, edit, and share games — all from your iPad or iPhone.
+
+Xogot makes game development fun, approachable, and fully mobile — no laptop required.
+
+Build for 2D and 3D
+- Make stunning 2D games with tile maps and a dedicated 2D engine, or dive into rich 3D worlds with advanced lighting and physics.
+
+Start Fast with Templates
+- Want to make an FPS, platformer, or RPG? Pick a ready-to-go template and have a playable game in minutes.
+
+Learn as You Go
+- Integrated API docs help you master game development step by step — no need to leave the app.
+
+Works Seamlessly with Godot on Desktop
+- Import projects from iCloud, USB drives, or GitHub (via Working Copy) and keep building on the go. Projects made in Xogot open in Godot on your computer, and vice versa — no lock-in.
+
+Fully Native Mobile Experience
+- Optimized for touch, Xogot supports Apple Pencil, Stage Manager, external monitors, and iPad multitasking — everything feels right at home.
+
+Play with Controllers & More
+- Test your games with Bluetooth controllers, keyboards, and mice for a full gameplay experience.
+
+Open Source Runtime
+- Xogot uses Godot’s open-source runtime, so you can distribute your games freely — no strings attached.
+
+Take your game ideas from concept to creation — anywhere, anytime.
+
+Terms of Service: https://xogot.com/terms-of-service
+Privacy Policy:  https://xogot.com/privacy-policy",2025-05-05T07:00:00Z,2025-11-23T18:04:51Z
+mr,Mauritania,Developer Tools,6026,11,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/mr/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.5,14,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+mr,Mauritania,Developer Tools,6026,12,1606772645,Google Play Console,Google LLC,https://apps.apple.com/mr/app/google-play-console/id1606772645?uo=4,0.0,0,0,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+mr,Mauritania,Developer Tools,6026,13,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/mr/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,5,2,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+mr,Mauritania,Developer Tools,6026,14,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/mr/app/expo-go/id982107779?uo=4,0.0,5,6,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+mr,Mauritania,Developer Tools,6026,15,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/mr/app/userscripts/id1463298887?uo=4,0.0,0,0,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+mr,Mauritania,Developer Tools,6026,16,1473805438,a-Shell,Nicolas Holzschuch,https://apps.apple.com/mr/app/a-shell/id1473805438?uo=4,0.0,0,0,Developer Tools,"a-Shell is a complete local terminal emulator, allowing to run most Unix commands on your iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. You can work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with the BSD Unix that powers iOS/iPadOS.
+
+a-Shell includes Python, Lua, Perl, JavaScript, C, C++ for programming and TeX (texlive 2025, with Tikz and LuaTeX) for text processing. 
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-shell uses iOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+Compile your C or C++ programs to webAssembly using clang or clang++, and execute the resulting binary. A complete webAssembly SDK is included (WASI-libc).
+
+a-Shell is the complete version. If you need a smaller app, and you don't need a C compiler, a TeX engine, or numpy and matplotlib, there is a-Shell mini.",2019-10-25T07:00:00Z,2025-11-22T20:14:13Z
+mr,Mauritania,Developer Tools,6026,17,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/mr/app/scriptable/id1405459188?uo=4,0.0,5,5,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+mr,Mauritania,Developer Tools,6026,18,6739738569,Device Tester: Check & Monitor,Musa Tenekeci,https://apps.apple.com/mr/app/device-tester-check-monitor/id6739738569?uo=4,0.0,4.38462,26,Developer Tools,"Full Device Diagnostics – Your Phone's Health at Your Fingertips!
+
+Tired of guessing if your phone is working properly? With our app, you can instantly test your device’s hardware and ensure it’s in top shape. From the camera to the microphone, GPS, and sensors – check it all in seconds!
+
+Key Features:
+
+Full Hardware Scan: Test cameras, speakers, microphone, flashlight, and more.
+System Reports: Get detailed insights into your device's performance.
+Quick One-Tap Testing: A seamless way to ensure everything is running smoothly.
+Battery & RAM Info: Monitor your device’s key resources in real-time.
+Easy to Use: Simple and intuitive interface – no tech skills required!
+Why Choose Us?
+
+Fast, accurate, and reliable.
+Regular updates to add more hardware tests.
+Designed to optimize device longevity and performance.
+Perfect for:
+
+Checking your phone after repair.
+Diagnosing potential issues before they worsen.
+Ensuring all features work before buying or selling a device. 
+
+Peace of Mind is Just One Tap Away!
+Download now and keep your phone healthy.",2024-12-29T08:00:00Z,2025-02-12T17:25:24Z
+mr,Mauritania,Developer Tools,6026,19,1544728400,xTerminal - SSH Terminal Shell,婉媚 邵,https://apps.apple.com/mr/app/xterminal-ssh-terminal-shell/id1544728400?uo=4,0.0,3.33333,3,Developer Tools,"xTerminal - Your Ultimate SSH Terminal Shell
+
+xTerminal is your all-in-one SSH terminal client for managing servers with speed and security. Whether you're an IT professional or a developer, xTerminal gives you the tools to easily connect, control, and manage your servers from anywhere.
+
+Key Features:
+* Interactive SSH Terminal: A fast, reliable terminal for executing commands on your servers. Eg: Use top to monitor system status or follow logs with tail -f.
+* Powerful Editor: Edit documents with vi/vim just like on a desktop, with full support for CTRL and arrow keys, making your SSH terminal experience smooth.
+* Multi-Session Management: Manage multiple SSH connections at once. Add, remove, and switch between sessions with ease, boosting your productivity.
+* Snippets: Save and organize frequently used SSH commands. Quickly search by name, command, or label, making repeated tasks quicker and simpler.
+* Device Management: Add your SSH servers, group them by labels, and search by name, host, or labels. Connect via password or public key authentication.
+* Advanced SSH Options: Support for SSH jump hosts and SOCKS5 proxies for enhanced security and flexible connections.
+* SFTP for File Management: Upload, download, edit, move, and delete files using the built-in SFTP, allowing you to manage files on your servers directly from the terminal.
+* Keep Sessions Alive: Use “Keep Awake” and “Keep Alive” features to maintain persistent SSH connections without interruptions.
+* User-Friendly Interface: Simple navigation with pull-to-refresh, search highlights, sortable lists, and drag-and-drop to reorder devices or snippets.
+* Live Ping Monitoring: Check device connectivity in real-time with ping stats, including ms and TTL, helping you monitor the health of your network.
+* Discover Network Devices: Easily find and save neighboring network devices for quick access later.
+* Secure Port Knocking: Add an extra layer of protection by using port knocking to guard your servers from unauthorized access.
+* Enhanced Security: Use TouchID/FaceID to protect your SSH sessions, ensuring secure access to your terminal on app launch or resume.
+* iCloud Sync: Backup and restore your device and snippet lists across all iOS devices, ensuring seamless access to your settings anywhere.
+* Copy & Paste: Effortlessly run commands from the clipboard or copy terminal output, streamlining your workflow in the terminal.
+* Universal App: Optimized for both iPhone and iPad, giving you a consistent experience across devices.
+* Secure Data Storage: All credentials and data are stored securely on your device, so you can rest assured your information is safe.
+* Batch Execution: Execute commands on multiple servers at once and view all the outputs in one go.
+* Startup Snippets: Set up essential commands to run on app startup, giving you immediate access to critical tasks as soon as you connect.
+
+xTerminal is built for anyone needing a fast, reliable, and secure SSH terminal. It’s perfect for managing remote servers on various platforms, including macOS, Linux, OpenBSD, FreeBSD, NetBSD, Solaris, and OpenVMS.
+
+Payment will be charged to iTunes Account at confirmation of purchase. 
+Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Terms of use https://septudio.com/terms-of-use and privacy policy https://septudio.com/privacy-policy",2020-12-17T08:00:00Z,2025-09-30T12:35:06Z
+mr,Mauritania,Developer Tools,6026,20,6445876146,Status Bar - Screenshot Editor,Jordan Zeleny,https://apps.apple.com/mr/app/status-bar-screenshot-editor/id6445876146?uo=4,0.0,0,0,Developer Tools,"Introducing our iOS app, designed specifically for those who want to showcase their screenshots in the best possible light. With our app, you can easily add a standard status bar to your screenshots, complete with the time at 9:41 and full network, wifi, and battery levels, just as recommended by the App Store.
+
+Our app features auto color detection and device detection, which means you can upload your screenshots and watch as our app automatically adds the standard status bar to match your device. You can also customize the text color and background color to make your screenshots stand out even more.
+
+With our app, you'll never have to worry about manually editing your screenshots again. Simply upload them to our app, and let us do the rest. Whether you're an app developer or just want to showcase your screenshots on social media, our app is the perfect tool for you.
+
+So why wait? Download our app today and start adding the perfect finishing touch to all your screenshots.
+
+Don't forget to leave a rating if you enjoyed this app!
+
+Contact:
+Jordanzeleny@gmail.com  
+
+TERMS OF USE:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-03-29T07:00:00Z,2025-04-24T14:05:44Z
+mr,Mauritania,Developer Tools,6026,21,6739386670,Termix: SSH Client & Terminal,Simon Zvara,https://apps.apple.com/mr/app/termix-ssh-client-terminal/id6739386670?uo=4,0.0,0,0,Developer Tools,"Termix is a modern SSH client and terminal developed by a European team of cybersecurity experts. It offers an unrivaled SSH and SFTP experience that enhances your productivity without compromising your privacy.
+
+With zero ads and a strict no-data-collection policy, Termix uses the most secure open-source libraries to keep your connections safe.
+
+Key Features:
+
+Ultimate SSH & SFTP Client:
+
+Termix delivers a robust, desktop-grade terminal experience across all Apple devices.
+
+Advanced File Manager & Code Editor:
+
+Inspired by WinSCP, our fully featured file manager lets you download, upload, manage, and edit files, directories, and permissions effortlessly. It also includes a rich code editor with syntax highlighting that supports over 40 programming languages.
+
+Native Gestures & Keyboard Shortcuts:
+
+Navigate like a pro with native touch gestures and hardware keyboard shortcuts, enabling fast navigation, multiline command editing, and precise text selection. Termix feels just like a regular text editor with all the perks you need for efficient terminal work.
+
+Multi-Session & Customization:
+
+Work in parallel with seamless split-screen support, advanced key management (including generation and uploading), and a fully customizable interface with themes tailored for power users.
+
+Serverless Security:
+
+Termix works completely serverless. All your hosts, private keys, and passwords are stored in encrypted form on Apple iCloud and never leave your device. This design guarantees that your sensitive data remains exclusively under your control.
+
+Enhanced Automation:
+
+Boost your workflow with startup snippets, execute commands across multiple hosts simultaneously, and configure environment variables with ease.
+
+Modern Apple-Native Design:
+
+Experience a clean, smooth, and beautifully modern interface designed exclusively for Apple products.
+
+Developer & Sysadmin Focused:
+
+Built for developers and loved by system administrators, Termix includes features such as command history, regex search, and snippet support to save hours of time and increase productivity.
+
+With Termix Pro, you can also:
+
+- Upload and edit files using the File Manager.
+- Create startup snippets.
+- Execute snippets on multiple hosts simultaneously.
+- Import custom fonts.
+- Manage and configure environment variables.  
+- Choose an alternative icon for Termix.
+
+Discover the most powerful, secure, and feature-rich SSH and SFTP client made for those who demand quality. Get Termix today and transform your remote management experience!",2025-03-06T08:00:00Z,2025-10-10T02:47:01Z
+mr,Mauritania,Developer Tools,6026,22,6478315305,Python,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/mr/app/python/id6478315305?uo=4,0.0,0,0,Developer Tools,"The Ultimate Mobile Companion for Developers!
+
+Our app revolutionizes the way developers work by bringing the full power of python coding directly to your mobile device. Designed with both seasoned programmers and aspiring coders in mind, our app offers an unparalleled mobile coding experience that is both efficient and accessible, no matter where you are.
+
+Key Features:
+
+- Seamless Execution: Run python scripts effortlessly with our optimized mobile interpreter. Whether you're debugging, learning, or prototyping, our app ensures your code runs smoothly on the go.
+- AI Support: Get instant AI-powered assistance to debug your code, troubleshoot errors, and enhance your python skills effortlessly. Whether you're a beginner or an experienced programmer, the AI is here to help you write better code.
+- Challenges: Sharpen your python skills with a collection of practical coding challenges, ranging from beginner-friendly tasks to advanced problem-solving exercises. Progress through different difficulty levels and master python coding style step by step.
+- User-Friendly Interface: our app boasts an intuitive and clean interface designed for optimal coding efficiency on mobile devices. With customizable themes, fonts, and layouts, you can personalize your coding environment to suit your style.
+- Advanced Code Editor: Our advanced code editor features syntax highlighting, code completion, and error detection, making coding on a small screen not just possible, but a pleasure.
+- Cloud Sync and Storage: Save your work on the cloud with our integrated storage solutions. Access your python scripts anytime, anywhere, across all your devices.
+- Community and Support: Join a growing community of mobile coders. Share tips, solve challenges, and get support from fellow developers. Our app is more than just an app; it's a movement towards mobile programming.
+
+Our app is perfect for professionals looking to stay productive on the move, students learning programming outside the classroom, and anyone interested in data science, machine learning, or just coding for fun. With our app, your mobile device becomes a powerful coding workstation, enabling you to bring your ideas to life wherever you are.
+
+Say goodbye to the constraints of desktop computing and hello to the freedom of mobile development with our app. Download now and start your coding adventure today!
+
+SUBSCRIPTION:
+We offer auto-renewing subscription:
+- Length: Weekly-Monthly-Yearly
+- Payment will be charged to iTunes Account at confirmation of purchase
+- You will be able to access the Premium features of the app for the duration of the subscription
+- Subscription automatically renews for the same price and duration period as the original period unless auto-renew is turned off at least 24-hours before the end of the current period
+- The account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase
+- No cancellation of the current subscription is allowed during the active subscription period
+- You may cancel a subscription during its free trial period via the subscription setting through your Apple account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit https://support.apple.com/HT202039 for more information on how to proceed.
+- You may turn off the auto-renewal of your subscription via your Apple Account Settings. However, you are not able to cancel the current subscription during its active period
+
+Privacy Policy : https://mcanswers.ai/pythonify/privacy-policy
+Terms of Use : https://mcanswers.ai/pythonify/terms-of-use",2024-06-19T07:00:00Z,2025-10-08T14:04:39Z
+mr,Mauritania,Developer Tools,6026,23,6749557696,Cursor Website Builder XVibe,Tetiana Oliinyk,https://apps.apple.com/mr/app/cursor-website-builder-xvibe/id6749557696?uo=4,0.0,0,0,Developer Tools,"cursor, lovable, wix website builder, vibecode, website builder, loveable, code editor, xvibe, cursor ai, lovable ai, building, seek, code scribe, windsurf, ai generator, custom code, code ai, lovo ai
+
+Generate custom code instantly with AI.
+
+XVibe AI is your AI-powered code generation tool. Turn prompts into working code for websites, apps, scripts, and more — without writing it yourself.
+
+Whether you’re a beginner or expert, get tailored code suggestions for frontend, backend, mobile, or APIs.
+
+Generate full app features, UI components, logic, database queries, and more using the power of AI.
+
+Perfect for developers, coders, makers, indie hackers, startups, and anyone building digital products.
+
+Supports: HTML, CSS, JavaScript, Python, React, Flutter, Swift, and more.
+
+Start generating now with XVibe AI.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-08-07T07:00:00Z,2025-10-02T17:26:33Z
+mr,Mauritania,Developer Tools,6026,24,1663675754,GDevelop - Create & Play Games,GDEVELOP FRANCE,https://apps.apple.com/mr/app/gdevelop-create-play-games/id1663675754?uo=4,0.0,0,0,Developer Tools,"Play a growing world of quirky, joyful indie games.
+Discover, play and support games made by independent creators from around the world... and create your own!
+
+Play and help shape the next indie gem:
+- Unlimited indie games instantly in-app, no install needed
+- Sharing feedback with creators
+- Explore new games every week, from around the world
+
+Every game in the app was built with GDevelop: the no-code and AI powered, open-source game engine used by thousands of creators, artists, and independent developers.
+Start exploring. Play something small. Or weird. Or wonderful.
+
+Create your own games. Or play any game you're dreaming of!
+
+It's fast, easy, and no technical knowledge is required to get started.
+Try it, or get a GDevelop subscription to unlock every feature!
+
+- Explore dozens of game templates or start from scratch.
+- Use AI to help you build your game step by step.
+- Use your own characters, or choose from a library of pre-made objects such as characters, animations, sounds, and music.
+- Quickly add pre-made logic to your game objects with GDevelop's Behaviors.
+- Write game logic with GDevelop's innovative event system based on ""if / then"" actions and conditions.
+- Publish your game in a few seconds and share it with your friends, colleagues, or customers.
+- Allow players to submit their scores with ready-to-use leaderboards or make online multiplayer games.
+
+Dozens of thousands of games are made every month with GDevelop.
+Unleash your creativity, and create all kinds of games: platformers, shoot’em up, strategy, 8-bit, or hyper-casual games... the sky is the limit.
+
+GDevelop is a powerful game engine that will transform you into a game designer:
+- Add explosions and effects with particles.
+- Use visual effects (""shaders"").
+- Pathfinding and advanced movements (bounce, elliptic movement, screen wrap, projectiles...).
+- Advanced rendering engine that can handle pixel-art games, modern 2D games, 2.5D isometric games and 3D games.
+- Text objects for scores, dialogues, with optional typewriter effects.
+- Transitions and smooth movement for objects.
+- Leaderboards and Real-time Multiplayer.
+- Platformer engine.
+- Realistic 2D and 3D physics engine.
+- Sound effects and music handling.
+- Ready-to-use objects for your game interface: text input, buttons, joysticks, progress bars...
+- Complete documentation available for each feature.
+- Dozens of extensions that give new behaviors, new actions, and new conditions: checkpoints, object shaking, 3D flip effects...
+
+GDevelop makes game development easy, even for those with no prior experience.
+Download the app and join a community of 400k+ monthly creators: gamers, hobbyists, teachers, and professionals.
+GDevelop's unique design makes game creation fast and fun!
+
+Our Terms & Conditions: https://gdevelop.io/page/terms-and-conditions
+Our Privacy Policy: https://gdevelop.io/page/privacy-policy",2023-04-10T07:00:00Z,2025-11-05T20:33:21Z
+mr,Mauritania,Developer Tools,6026,25,1356504527,Commands for Linux Terminal,雷 戴,https://apps.apple.com/mr/app/commands-for-linux-terminal/id1356504527?uo=4,0.0,0,0,Developer Tools,"A Complete Set of Linux commands in your pocket, using Markdown to write a detailed explanation of commands.
+Easy for users to quickly query Linux commands and how to use them.
+All Linux commands are offline, easy to search and use.",2018-03-09T20:11:16Z,2024-02-14T10:09:31Z

@@ -1,0 +1,815 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+nz,New Zealand,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/nz/app/google-translate/id414706506?uo=4,0.0,4.18008,522,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepalbhasa (Newari), Nepali, NKo, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+nz,New Zealand,Reference,6006,2,282935706,Bible,Life.Church,https://apps.apple.com/nz/app/bible/id282935706?uo=4,0.0,4.88424,75136,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+nz,New Zealand,Reference,6006,3,6739925865,Ascend - Bible Lessons,Pharah LLC,https://apps.apple.com/nz/app/ascend-bible-lessons/id6739925865?uo=4,0.0,4.69564,46,Reference,"Make Bible Study a Daily Habit with Gamified Scripture Learning and Your Own Pet Phoenix
+
+Ascend is a Bible study game that transforms traditional Scripture reading into an engaging learning experience. Build real spiritual habits with interactive Bible lessons, daily devotionals, and your personal phoenix companion that keeps you connected to God's Word.
+Whether you're beginning your faith journey or seeking deeper biblical understanding, Ascend helps you learn Scripture in a way that actually sticks.
+
+Why Choose Ascend
+
+* Game-based Bible learning with bite-sized Scripture lessons
+* Gamified biblical education with points, streaks, badges, and Christian community leaderboards
+* Personal phoenix guide for daily Bible reading reminders and spiritual motivation
+* Two free Bible lessons daily or upgrade to Pro for unlimited Scripture access
+* Created by Bible educators and theologians for authentic scriptural understanding
+* Perfect for busy Christians with Bible studies under 10 minutes
+* Join a global community of believers growing in biblical knowledge together
+
+What You'll Experience
+
+* Interactive Bible study that feels engaging, not overwhelming
+* Personalized Scripture reading plans covering biblical theology, church history, and Christian living
+* Bible quizzes, Scripture flashcards, and verse memorization challenges
+* Track spiritual growth with daily Bible reading streaks and biblical milestones
+* Build consistent Scripture habits with gentle reminders from your phoenix companion
+* Multiple Bible versions including ESV, NIV, NASB for comprehensive biblical study
+
+Upgrade to Ascend Premium
+
+* Unlimited access to Bible lessons and Scripture content
+* Ad-free biblical learning environment
+* Premium Bible study plans and exclusive devotional content
+* Advanced phoenix features for deeper spiritual accountability
+* Exclusive Christian community rewards and accelerated biblical growth
+
+Only $9.99 monthly or $49.99 annually.
+
+Perfect For
+
+* Christians seeking innovative Bible study methods
+* Believers who love game-style learning and want to grow spiritually
+* Families and small groups pursuing group Bible study
+* Anyone ready to build lasting Scripture reading habits with modern biblical tools
+* Faith communities wanting engaging Bible education resources
+
+Start Your Biblical Journey Today
+
+Ascend revolutionizes how Christians engage with Scripture. More than a Bible app—it's your pathway to consistent biblical growth, spiritual community, and joyful Scripture discovery. Download now and experience the future of Bible study.
+
+Terms of Use (EULA): [https://www.apple.com/legal/internet-services/itunes/dev/stdeula/](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-01-22T08:00:00Z,2025-11-23T23:36:14Z
+nz,New Zealand,Reference,6006,4,773457673,Merlin Bird ID by Cornell Lab,Cornell University,https://apps.apple.com/nz/app/merlin-bird-id-by-cornell-lab/id773457673?uo=4,0.0,4.76471,119,Reference,"What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.
+
+Merlin Bird ID helps you identify birds you see and hear. Merlin is unlike any other bird app—it's powered by eBird, the world’s largest database of bird sightings, sounds, and photos.
+
+Merlin offers four fun ways to identify birds. Answer a few simple questions, upload a photo, record a singing bird, or explore birds in a region.
+
+Whether you’re curious about a bird you’ve seen once or you’re hoping to identify every bird you can find, the answers are waiting for you with this free app from the renowned Cornell Lab of Ornithology.
+
+WHY YOU’LL LOVE MERLIN
+• Expert ID tips, range maps, photos, and sounds help you learn about the birds you spot and build birding skills.
+• Discover a new bird species each day with your own personalized Bird of the Day
+• Get customized lists of birds you can find where you live or travel - anywhere in the world!
+• Keep track of your sightings—build your personal list of the birds you find
+
+MACHINE LEARNING MAGIC
+• Powered by Visipedia, Merlin Sound ID and Photo ID uses machine learning to identify birds in photos and sounds. Merlin learns to recognize bird species based on training sets of millions of photos and sounds collected by birders at eBird.org, archived in the Macaulay Library at the Cornell Lab of Ornithology.
+• Merlin delivers the most accurate results thanks to experienced birders, who curate and annotate sightings, photos, and sounds, who are the true magic behind Merlin.
+
+AMAZING CONTENT
+• Merlin has bird photos, songs, and calls, and identification help for anywhere in the world, including Mexico, Costa Rica, South America, Europe, Africa, the Middle East, India, Australia, Korea, Japan, China, and more.
+
+The Cornell Lab of Ornithology’s mission is to interpret and conserve the Earth’s biological diversity through research, education, and citizen science focused on birds and nature. We are able to offer Merlin for free thanks to the generosity of Cornell Lab members, supporters, and citizen-science contributors.",2013-12-11T08:33:23Z,2025-11-19T16:42:05Z
+nz,New Zealand,Reference,6006,5,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/nz/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.86409,596,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+nz,New Zealand,Reference,6006,6,1663862037,EveryScan: Identify Everything,Conlan Limited,https://apps.apple.com/nz/app/everyscan-identify-everything/id1663862037?uo=4,0.0,3.76,25,Reference,"Introducing EveryScan — your ultimate mobile companion app that transforms your smartphone into an advanced visual encyclopedia. Harness the power of cutting-edge AI image recognition to swiftly identify and gain insights on the world around you, directly from your mobile device.
+
+Animal Identification
+Curious about ""what animal is this""? Use EveryScan to instantly identify animals, including specific breeds and characteristics. From cat breed recognizers to dog breed identifiers, this mobile app is your essential tool for comprehensive animal recognition.
+
+Insect and Reptile Recognition
+Dive into the insect world with our bug identifier. Capture images of caterpillars, spiders, and snakes using your mobile device, and learn about their characteristics and safety through our snake identifier, addressing questions like ""what kind of snake is this?""
+
+Mushroom and Plant Insights
+Simply snap a picture to identify plants and fungi safely with your phone. Our app's flower and mushroom identifiers provide detailed care tips and safety information, directly enhancing your botanical knowledge.
+
+Coin and Jewelry Examination
+Easily scan coins and jewelry with your mobile to determine their value and history, answering queries like ""how much are my coins worth?"" Our coin scanner feature helps you check your coins' worth and origins swiftly.
+
+Culinary Exploration
+Identify food items, dishes, and recipes while accessing nutritional details right from your mobile device. Recognize dishes and their caloric content with ease, enhancing your culinary knowledge.
+
+AI-Powered Features
+- Accurate image recognition tailored for mobile use
+- Instant object detection via your smartphone
+- Universal object identifier: insect identifier, dog breed identifier, flower identifier, spider, snake identifier, etc.
+- Real-time searching and scanning through your mobile
+- Comprehensive data on everything from animals to everyday items
+- Save and mark favorites for easy mobile access
+
+Effortless Exploration
+Skip search engines—just take a picture and identify items instantly using your phone. EveryScan integrates seamlessly with your mobile, offering an all-in-one picture identifier and AI image search capability. Unlock the secrets around you with curiosity and confidence. Download EveryScan today, and discover a world of knowledge at your fingertips.
+
+Privacy Policy: http://aiscanner.co/pp
+Terms of Use: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+nz,New Zealand,Reference,6006,7,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/nz/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.42856,42,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+nz,New Zealand,Reference,6006,8,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/nz/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,4.56322,87,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+nz,New Zealand,Reference,6006,9,349554263,Ancestry: Family History & DNA,Ancestry.com Operations Inc.,https://apps.apple.com/nz/app/ancestry-family-history-dna/id349554263?uo=4,0.0,4.65201,4253,Reference,"Explore who and where you personally came from through photos, stories, historical records, and so much more— even your ethnicity and family communities if you’ve taken an AncestryDNA® test. And with just one relative’s name, you can start to discover your family history anytime, anywhere with Ancestry®, the top genealogy app*.
+
+Why you’ll love to discover your family story using the Ancestry® app:
+ • View your family tree, search and add new family members, upload photos, and share stories - all with just a few taps
+ • With a free trial or paid subscription easily access more than 30 billion records, photos, and more
+ • The dynamic Discover feed lets you review, dismiss, and save your discoveries and hints for later
+ • Activate your AncestryDNA® kit and view your ethnicity results
+ • See your DNA matches and compare your results with them
+ • Learn even more about your family story when you combine your tree with your DNA results
+ • Preserve your history with your own personalized family tree
+ • Collaborate with friends and family - it couldn’t be easier
+ • Our modern layout design makes it even easier for you to explore
+ • Discover stories, photos, and records about your ancestors with Ancestry Hints®
+ • Personal traits. Add Traits to your DNA results to see how your genes could influence 35+ fitness, nutrient, sensory and appearance traits.
+
+Free Features:
+ • Build a family tree
+ • Search the census records and access more than 1.1 billion free records
+ • Receive hints based on your tree
+ • Scan or upload your own family pictures
+ • Receive messages from Ancestry members
+ • See your ancestors' life stories on a map
+
+Available with an optional free trial or subscription:
+ • View more than 30 billion records.
+ • Use Ancestry Hints® to learn about ancestors
+ • Find pictures of your family
+ • Discover new relatives
+ • Unrestricted messaging
+
+iPhone and iPad Features:
+ • Curious about your family tree? Simply look up a relative's name, discover their story, and then share it with your loved ones
+ • Review your personalized hints
+ • Add photos, hints, or ancestor stories and watch your personalized family tree grow
+ • Easily upload or scan photos and add facts or stories to your family tree
+ • Learn about historical events that affected your ancestors’ lives.
+
+Apple Watch Features:
+ • Get on-this-day alerts for events from your family history.
+
+Download the Ancestry Family History & DNA app to start exploring your heritage and more, today!
+
+View our Terms and Conditions at: https://www.ancestry.com/cs/legal/termsandconditions
+View our Privacy Statement at https://www.ancestry.com/cs/legal/privacystatement
+CCPA Notice at Collection https://www.ancestry.com/cs/legal/privacystatement#personal-info-categories
+*within free apps in the Apple App Store's Reference category",2010-01-19T03:17:36Z,2025-11-13T16:14:35Z
+nz,New Zealand,Reference,6006,10,6751138152,"Lok L0k: Watch TV drama, Movie",Liam Calder,https://apps.apple.com/nz/app/lok-l0k-watch-tv-drama-movie/id6751138152?uo=4,0.0,4.48515,101,Reference,"Lok L0k — Your All-Access Pass to the World of Movies.
+
+This ultimate movie companion is designed for film lovers who want it all — discovery, excitement, and a front-row seat to every story.
+
+- Browse Your Way – Explore films by genre, rating, or release date, and find exactly what fits your mood.
+
+- Never Miss a Premiere – Get instant alerts for new releases and upcoming must-see premieres.
+
+- Your Watchlist, Your Rules – Save the titles you can’t wait to see and track the ones you’ve conquered.
+
+- Rate & Relive – Share your take on movies and TV shows, and watch reviews from critics and fans alongside cast info and full details.
+
+- IPTV Smart Player – Enjoy smooth, integrated playback with a built-in, smart viewing experience.
+
+Download the app and step into a cinematic universe like never before.
+
+Data Source Transparency
+
+All movie and TV details — including images, ratings, and descriptions — are powered by The Movie Database (TMDB).
+We use the TMDB API to bring you this rich library of content, but we are not endorsed or certified by TMDB.
+
+Important Disclaimer
+
+This app is an entertainment guide, not a streaming service.
+We are not affiliated with, or endorsed by, any third-party content providers or film studios.
+No movies or TV shows are streamed or hosted within the app.
+All trademarks, copyrights, and other intellectual property remain the property of their respective owners.",2025-08-27T07:00:00Z,2025-09-06T05:48:54Z
+nz,New Zealand,Reference,6006,11,6448849666,Bible Chat - The Holy Bible,BookVitals APP SRL,https://apps.apple.com/nz/app/bible-chat-the-holy-bible/id6448849666?uo=4,0.0,4.90303,2444,Reference,"Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life
+
+Have you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Download Bible Chat today!
+
+Life is noisy. Fast. Overwhelming. Even when you’re trying to stay close to God, it’s easy to feel spiritually disconnected.
+
+Bible Chat is the ultimate all-in-one Christian app designed to make Bible reading, prayer, and Christian community a part of your everyday life. It is for Christians who want peace - real peace - anchored in Scripture.
+
+
+Whether you're a lifelong Christian or just starting your journey, Bible Chat gives you everything you need to:
+
+• Understand the Bible Better - Learn what the Bible really means with helpful guides and simple explanations that make God's Word easier to follow and apply.
+
+• Grow Your Prayer Habit - Build a consistent prayer routine supported by daily  inspiration and the power of a praying community.
+
+• Make Faith Part of Your Day - Improve your daily routine with spiritual prompts, Christian calendar reminders, and faith tools designed for the whole family.
+
+• Support Your Mental Health - Find peace and calm in moments of stress with simple tools that help you refocus on God’s strength.
+
+• Make Faith Fun and Interactive - Enjoy fun and easy ways to learn, think, and talk about how faith fits into your everyday life.
+
+
+
+Key Features to Explore:
+
+• Daily Plan: Stay on track with your faith. Follow a simple daily plan that helps you grow closer to God, one step at a time.
+
+• Structured Bible Study Plans: Follow simple Bible reading plans made for real life. Some of the topics include: healing, wisdom, leadership, grief, and more.
+
+•  Holy Calendar: See important Christian days in a monthly view. Never miss a feast, saint day, or holy event again.
+
+• Panic Button: Struggling with stress or temptation? Tap the Panic Button for guided deep breathing exercises that calm the mind and provide anxiety relief.
+
+• Live Prayer: Share your prayer intentions, and let's pray together to grow closer to God.
+
+• Send a Blessing:  Send a Bible verse with a kind message straight to a friend’s phone. Add a heart or doodle to make it personal and uplifting.
+
+• Bible Stories for Kids: Turn screen time into faith time! Show fun, Bible-based stories and videos to your kids.
+
+• Multiple Bible Versions: Read the Bible the way you like best. Choose from NKJV, KJV, WMB, FBV, World English Bible, Amplified, and NASB.
+
+• Bible Verse Widget: See a new Bible verse every day, right on your lock screen or home screen.
+
+• Bible Trivia: Challenge and enhance your biblical knowledge through interactive trivia games.
+
+• Verse Locator: Looking for a verse? Search and find it fast, along with what it means.
+
+• Personalized Devotionals & Prayers: Start your day with custom devotionals and write your own prayers to stay closer to God.
+
+• Biblical Character Profiles: Learn about the people in the Bible: their stories, struggles, and how God worked in their lives.
+
+• Let's Discuss Faith: Join honest chats about how faith connects to your real life - like work, family, and relationships.
+
+
+
+
+Experience More with Premium:
+Unlock unlimited conversations, full access to every feature, and exclusive designs for your Daily Prayer Widgets. Start with a FREE 7-day trial, then choose our weekly plan at $5.99 or opt for extended plans for greater savings.
+
+
+Privacy Policy & Terms and Conditions:
+https://thebiblechat.com/privacy-policy/
+https://thebiblechat.com/terms-and-conditions/
+
+
+Join Our Thriving Community:
+Join a friendly community of people who love God or are just starting to learn. With Bible Chat and the new Send a Blessing Widget, you can make Bible verses and prayer part of your everyday conversations.",2023-05-11T07:00:00Z,2025-11-22T20:53:15Z
+nz,New Zealand,Reference,6006,12,6503387382,Haven - Bible Chat,E12 Holdings LLC,https://apps.apple.com/nz/app/haven-bible-chat/id6503387382?uo=4,0.0,4.8569,587,Reference,"Step Into the Living Word! 
+
+Haven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt prayers right in your pocket, every moment becomes an opportunity to grow in faith.  
+
+Tap to explore the Bible, dive into rich verse citations, or ask Haven anything—God’s wisdom will flood your heart, strengthen your relationships, and reshape your life in beautiful, unexpected ways. Track your daily streak and feel the joy of bold, thriving faith. 
+
+Your spiritual journey is calling! Chat with Haven anytime, anywhere.
+
+Questions or feedback? We’d love to hear from you at havenappcontact1@gmail.com
+
+Terms: https://www.e-twelve.com/terms
+
+**Access to Haven requires a paid subscription**",2024-06-03T07:00:00Z,2025-11-21T23:31:56Z
+nz,New Zealand,Reference,6006,13,1490587079,Glorify: Devotional & Prayer,TUPOE LTD,https://apps.apple.com/nz/app/glorify-devotional-prayer/id1490587079?uo=4,0.0,4.88902,856,Reference,"Glorify: Your Daily Christian App for Devotional and Prayer. Grow with God. Every day.
+
+Over 20 million Christians have already enriched their faith journeys with Glorify. Join them! Download Glorify today. 
+
+Start your quiet time with an inspiring quote, followed by a Bible passage and a devotional that ties everything together. Wrap up with an immersive Daily Walk with God, a virtual walk meditating on God’s Word.
+
+Feeling busy? We get it. Glorify helps you connect with God in just 10 minutes, fitting into your daily routine.
+
+Build a deeper connection with God every day through daily devotionals, guided Christian meditation, and prayer.
+
+Plus, all the tools you need to strengthen your relationship with God:
+
+• Grow with your faith community: 
+
+Connect with friends, family, and church communities. Discuss devotionals, share prayer requests, and support each other.
+
+• Sleep and Calming Meditations: 
+
+Relax and focus on God with scripture-based meditations that draw you into a peaceful space.
+
+• Transformational Christian Courses: 
+
+Explore courses designed to deepen your understanding of the Bible and your faith.
+
+• Powerful Declarations: 
+
+Speak life over your circumstances with biblically-based declarations.
+
+• Official Bible Translations:
+
+ Access multiple Bible translations, including the King James Version (KJV).
+
+• Bible Journal and Worship Music: 
+
+Document your spiritual journey and enjoy your favorite worship music.
+
+• Grow closer to God and connect with others in prayer. 
+
+You may purchase an auto-renewing subscription through an In-App Purchase.
+
+• Auto-renewable subscription
+
+• $6.99 / month
+
+• Your subscription will be charged to your iTunes account at confirmation of purchase and will automatically renew (at the duration selected) unless auto-renew is turned off at least 24    hours before the end of the current period.
+
+• Current subscription may not be canceled during the active subscription period; however, you can manage your subscription and/or turn off auto-renewal by visiting your iTunes Account Settings after purchase
+
+Terms & Conditions: https://glorify-app.com/terms-conditions/ 
+
+Privacy Policy: https://glorify-app.com/privacy-policy/",2020-01-31T08:00:00Z,2025-11-19T23:29:44Z
+nz,New Zealand,Reference,6006,14,898683154,Christchurch Bins,Christchurch City Council,https://apps.apple.com/nz/app/christchurch-bins/id898683154?uo=4,0.0,2.82069,145,Reference,"The Christchurch Bins app makes it easy to find your property’s bin collection day and set reminders for when to put out and take in your bins. Use the look up tool to find out if items can be recycled, made into organic compost or disposed as rubbish.  
+
+
+Features:
+- Search for your address within Christchurch or Banks Peninsula
+- Bin collection information for multiple addresses 
+- Set reminders to put out and take in your bins 
+- Look up items to see what can be recycled, made into organic compost or disposed as rubbish
+- Stay updated with public holiday collection changes and receive notifications about any service changes
+- Learn helpful tips on reducing waste and how to ‘bin good’",2014-08-01T07:00:00Z,2025-03-03T19:02:33Z
+nz,New Zealand,Reference,6006,15,6458146511,Kuli Kuli - Travel Translator,"Shanghai Ruoyou Network Technology Co., Ltd.",https://apps.apple.com/nz/app/kuli-kuli-travel-translator/id6458146511?uo=4,0.0,0,0,Reference,"Kuli Kuli: Trusted Travel Translator
+
+Discover the world through its menus with Kuli Kuli, the ultimate AI-powered translator for global travelers. Our advanced AI technology excels at translating menus of all kinds, including handwritten ones, making your culinary adventures hassle-free and exciting. We also provide instant breakdown of pharmacy labels, receipts, fortune slips, paintings, buildings and etc.
+
+Key Features:
+
+- Menu Translation: Order with confidence - no more guesswork.
+- Allergen Information: Get crucial allergen details for menu items to ensure safe dining.
+- Visual References: See images of dishes to know exactly what you're ordering.
+- Cosmetics & J-Beauty Translation: Understand product labels and ingredients for skincare and beauty items.
+- Snack Decoder: Explore local snacks with confidence by translating packaging and ingredients.
+- Receipt Translation: Know exactly what you paid for.
+- Omikuji Translation: Uncover the mysteries of Japanese fortune-telling slips.
+
+
+Kuli Kuli is perfect for:
+- Travelers exploring new cuisines
+- Food enthusiasts diving into authentic local dishes
+- People with dietary restrictions or allergies
+- Beauty aficionados discovering international products
+- Anyone curious about foreign snacks and cultural experiences
+
+Kuli Kuli transforms your travel experience by breaking down language barriers, ensuring you can fully immerse yourself in local food culture, beauty products, and traditions. Whether you're deciphering a complex restaurant menu, exploring a bustling market, or picking out the perfect souvenir, Kuli Kuli is your reliable companion.",2023-09-19T07:00:00Z,2025-10-13T10:14:33Z
+nz,New Zealand,Reference,6006,16,1405323394,Hallow: Prayer & Meditation,"Hallow, Inc.",https://apps.apple.com/nz/app/hallow-prayer-meditation/id1405323394?uo=4,0.0,4.8521,595,Reference,"** The #1 Prayer App & #1 Catholic App **
+
+WHAT IS HALLOW
+Hallow is a Christian prayer app that offers audio-guided meditation sessions to help us grow in our faith & spiritual lives and find peace in God. Explore over 10,000 different sessions on contemplative prayer, meditation, Catholic Bible readings, music, and more.
+
+In today’s world, we’re stressed, anxious, distracted, & can’t sleep. At the same time, we’re searching for deeper meaning, purpose, & relationships. We believe these two challenges can be addressed with the same solution: peace in Jesus. In the end, after all, a halo in heaven is the goal :)
+
+WHAT YOU GET
+* Daily prayers: Pray daily across methods including 3 of our most popular - Lectio Divina (on the Daily Readings), the Rosary, & the Divine Mercy Chaplet
+* Christian Meditation: This can seem similar to mindfulness meditation in learning to be comfortable in silence, but the difference is the goal is never to remain in ourselves, but always to lift our hearts & minds to God, to talk with Him, listen to Him, & recognize His presence with us
+* Sleep Bible Stories: Try Night Prayer from Liturgy of the Hours / Daily Office, and Catholic Bible stories read by folks like Jonathan Roumie from the Chosen or Fr. Mike Schmitz from the New American Bible
+* Rosary: Meditate with Mary through the mysteries of the Catholic Rosary and other devotionals
+* Ignatian Examen: Reflect on your day & discover an awareness of God, Jesus Christ, & the Holy Spirit
+* Lectio Divina: Enter into a conversation with God through Bible passages / Scripture
+* Taizé & Traditional Chant: Meditative chant & music
+* Community: Match your prayers to the season with the Pray40 Lent Challenge, starting Ash Wednesday, or our Pray25 Advent Challenge for Christmas
+* Homilies & Guests: From Father Mike Schmitz, and on topics on being a Catholic Dad, St. Augustine & more!
+* Praylists: Sessions on joy, humility, discernment, or stress / anxiety / calm
+* Challenges: Re-discover the Our Father, Stations of the Cross, Psalms, and Saints - or start with the Intro 9 Day Novena
+* Litanies & Novenas: Try out the Litany of Humility, the 54 Day Novena, and more!
+* Pray like a Champion today: Athlete Prayers
+* Minute Meditations: Jesus, I Trust in You, Angelus, Rosary Decade, St. Michael the Archangel prayer and more!
+
+Additional features to help customize your prayer experience:
+* Journal after every prayer
+* Choice of 50+ guides
+* Options for 3 different lengths for every prayer (typically 5, 10, or 15 minutes)
+* Ability to set prayer reminders
+* Option to include calming background music like Gregorian Chant
+* Ability to download sessions for offline listening
+* Join a Hallow Family to share prayer intentions and prayer reflections with one another
+
+As Hallow is a Catholic App (#1 among Catholic Apps), the content is developed by experienced Catholic theology and spirituality guides and reviewed by senior leaders within the Church (e.g., PhD’s, professors, Bishops, authors) and based on content from the approved Catholic Bible. We were also featured on EWTN. While it can be a beautiful app for Catholic men and women, it is meant as a resource for people of all faiths & religions.
+
+SUBSCRIPTION PRICING AND TERMS
+Users can access our daily prayers (including the rosary) and the 9-day Intro Prayer Challenge for free.
+To access the full suite of Hallow, Hallow offers two auto-renewing subscription options:
+$9.99 per month
+$69.99 per year
+
+These prices are for United States customers.
+
+Your Hallow subscription will renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Apple account settings to manage your subscription and turn off auto-renew. Your account will be charged when the purchase is confirmed. Hallow also integrates with the Apple Health app to sync mindfulness minutes.
+Terms and conditions: https://hallow.com/terms-of-service
+Privacy policy: https://hallow.com/privacy-policy",2018-12-06T11:07:12Z,2025-11-23T20:35:35Z
+nz,New Zealand,Reference,6006,17,576588894,Sky Guide,Fifth Star Labs LLC,https://apps.apple.com/nz/app/sky-guide/id576588894?uo=4,0.0,4.77834,2346,Reference,"Bring the beauty of the stars down to Earth. Hold Sky Guide overhead to automatically identify any star, constellation, planet or satellite! Easy to use and powerful, it’s awesome stargazing for any experience level.
+
+Is it a star or the planet Mars? Knowing what’s up in your night sky is easier than ever. Sky Guide’s AR mode superimposes graphics onto your real sky so visualizing the heavens becomes effortless. Have you ever wished you could recognize constellations but didn’t want to fumble around with paper star charts? Now you can.
+
+A speck of light crosses the night sky, growing brighter. What could it be? You don’t have to wonder anymore. Track a bright satellite and receive perfectly-timed notifications whenever the International Space Station is about to fly over your location.
+
+Voyage to the past or future. Know where the Moon will be later in the evening so you can capture that perfect photo or be an eyewitness to history’s greatest comets.
+
+Whether you’re searching for Sagittarius, Saturn, or the next big meteor shower, Sky Guide is packed with information and rich graphics that will satisfy the most curious minds. Plus, stay current with location-filtered events like solar and lunar eclipses with Sky Guide’s personalized Calendar.
+
+Sky Guide can function with or without Wi-Fi, cellular service or GPS, so everything is at your fingertips no matter where you go.
+
+Join the millions who have discovered a more personal connection to the stars with Sky Guide. It might forever change the way you look up.
+
+Terms of Use: https://www.fifthstarlabs.com/terms-of-use",2013-05-06T19:45:52Z,2025-11-11T18:48:43Z
+nz,New Zealand,Reference,6006,18,6740540936,Sermon Scribe: Christian Notes,JAM AppWorks LLC,https://apps.apple.com/nz/app/sermon-scribe-christian-notes/id6740540936?uo=4,0.0,4.80769,26,Reference,"Sermon Scribe: Your all-in-one faith companion.
+
+Whether you're attending a Sunday service, diving into personal Bible study, or spending quiet time in prayer—Sermon Scribe is built to help you stay present, reflect deeply, and grow spiritually.
+
+Capture Every Word, Remember Every Insight
+With one tap, record sermons or devotionals and get accurate speech-to-text transcriptions. Take notes in real-time, highlight Scripture references, and revisit key teachings with AI-generated outlines, summaries, and reflection questions.
+
+Understand the Bible Like Never Before
+Sermon Scribe's Bible tab lets you explore any book of the Bible with clarity. Access concise overviews, chapter-by-chapter breakdowns, and deep insights into key verses, themes, and characters—making Scripture easier to grasp and apply.
+
+Grow Your Faith Daily
+- Daily Devotionals to keep you grounded
+- Bible study tools to enhance your understanding
+- Journaling for thoughts, reflections, and spiritual growth
+- Bible chat to explore your questions with thoughtful, Bible-rooted responses
+
+Organize & Reflect with Ease
+Everything you record or write is searchable and synced to the cloud, so your sermons, notes, and reflections are always at your fingertips.
+
+Whether you're in church, in a small group, or alone with your Bible, Sermon Scribe helps you preserve your spiritual moments, revisit them anytime, and deepen your walk with God.
+
+We hope you enjoy this app and that it helps you grow in your faith. We are always looking for feedback to improve your experience, so please do not hesitate to reach out.
+
+Terms: https://jamappworks.xyz/tos
+Privacy: https://jamappworks.xyz/privacy
+
+Disclaimer: A subscription is required to use Sermon Scribe's advanced features, however, everyone is given a free trial period to experience the app before choosing to commit to one of the subscription plans.",2025-01-27T08:00:00Z,2025-11-23T00:26:25Z
+nz,New Zealand,Reference,6006,19,6753166395,True Heritage & Ancestry: EDNA,MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI,https://apps.apple.com/nz/app/true-heritage-ancestry-edna/id6753166395?uo=4,0.0,4.42105,19,Reference,"Your face is a time machine with EDNA. Our advanced technology generates a stunning photo of your ancestors and reveals your true origin story. See who you really are. All from just one selfie.
+
+Forget boring family trees that end in names on a chart. We offer a tangible connection. Our technology renders a lifelike, era-authentic portrait of ancestors you’ve never met, capturing a plausible likeness with a strangely familiar face. It’s a jaw-dropping, shareable moment of connection when you see your own eyes, your smile, looking back at you from another time. This is the family photograph that was never taken.
+
+But the portrait is just the beginning. It’s your entry point into a complete Ancestral Report, a deep dive into the elements that define your heritage.
+
+First, discover your true origins with a detailed, percentage-based breakdown of your nationality. Go beyond continents to see the specific blend of cultures that make up your unique identity, revealing connections you never knew existed. Then, we reveal their story. Learn about the specific city your ancestors likely called home, the authentic craft they dedicated their lives to, and even the historical diet that fueled their world.
+
+Your origin story doesn't just end in the past—it echoes in your present. The resilience of a frontiersman, the precision of an artisan, the creativity of a storyteller; these are more than historical facts, they are potential traits within you. We connect your heritage to your life today, offering unique insights for modern careers and lifestyles that may align with these ancestral strengths. It’s a powerful new way to understand your own passions and potential.
+
+Join a growing community of people discovering themselves in a completely new way. The stories and portraits generated by EDNA are sparking conversations, connecting families, and helping people see their own identity in a richer, deeper light. It's a unique experience everyone is talking about.
+
+This isn’t a guess. Our analysis is powered by a vast database of real historical records, cultural trends, and geographic data. This robust framework allows us to create a narrative that feels both magical and deeply plausible. We are committed to your privacy; your photo and personal data are always secure and are never shared.
+
+To analyze your photos and create your unique ancestral story, you’ll need a True Heritage Pro subscription. The Pro subscription allows you to unlock full access to detailed reports, including Explore Your Ancestors, Explore Your Origins, Your Ideal Partner, and Your Past Life. Please note that photo analysis and viewing the complete content of any generated reports are premium features available only to subscribers
+
+Subscriptions:
+To access all premium content we have subscription packages. Subscription periods are 1 week and 1 year. Every week or year your subscription renews.
+1 week subscription price is $5.99 and 1 year price is $29.99.
+
+Subscriptions will automatically renew unless cancelled at least one day before the renewal date within 24 hours before the end of the current period. Payment will be charged to your Apple ID account at the confirmation of purchase. You can manage and cancel your subscription by going to your account settings in the App Store
+
+Download True True Heritage & Ancestry: EDNA now and finally meet your ancestors.
+--
+
+Privacy Policy: https://www.mobiversite.com/privacypolicy
+Terms & Conditions: https://www.mobiversite.com/terms
+EULA: https://www.mobiversite.com/eula",2025-10-03T07:00:00Z,2025-11-21T18:52:10Z
+nz,New Zealand,Reference,6006,20,1147874819,Naver Papago - AI Translator,NAVER Corp.,https://apps.apple.com/nz/app/naver-papago-ai-translator/id1147874819?uo=4,0.0,4.83636,55,Reference,"Whenever you need translation during your travels, business trips or while studying a language just bring Papago, a smart parrot who can translate multiple languages for you.
+
+▶ What does ‘Papago’ mean? 
+In Esperanto, Papago refers to a parrot, a bird with language abilities. 
+Papago supports 14 languages : Korean, English, Japanese, Chinese (Simplified/Traditional), Spanish, French, Vietnamese, Thai, Indonesian, Russian, German, Italian and Arabic. 
+
+▶ Main features
+1) Text Translation
+Real-time text translation for phrases and words
+
+2) Image Translation
+Automatic recognition and translation of text in the image by taking a picture and pressing the button 
+
+3) Voice Translation
+Real-time voice translation to both text and audio
+
+4) Offline translation
+Can translate even in offline
+
+5) Conversation Translation 
+Simultaneously speak in each other’s language when talking one-on-one with a foreigner
+
+6) Handwriting Translation
+Handwriting translation that finds the correct word and translation when you write using your finger
+
+7) Website Translation 
+Automatic translation for all content when you include the URL of a foreign website
+
+8) Edu
+Taking a picture of the passage you want to study will create a 
+My Note that you can use to study passages and words
+
+9) Dictionary
+Dictionary information provided to check additional meanings other than initial translation results
+
+Be confident anytime, anywhere with your translating partner Papago!
+
+Papago Facebook Like :  https://www.facebook.com/NaverPapago
+Papago Instagram Follow : https://www.instagram.com/papago_naver/
+
+
+※ Speech recognition permission provided by the mobile OS is used to provide voice translation and dialog translation in Vietnamese, Thai, Indonesian, Russian, and Italian. If you use voice translation or dialog translation in these languages after granting speech recognition permission, only voice data will be sent to Apple as per Apple's policy; no other information will be sent.
+
+
+
+※ Supporting iOS 15.0 or above
+ ※ Available on PC and mobile. https://papago.naver.com
+ ※ For app-related issues and errors: https://goo.gl/9LZLRe
+  
+Developer Contact No.: 
+1588-3820  
+
+178-1, Green Factory, Jeongja-dong, Bundang-gu, Seongnam-si, Gyeonggi-do, Seoul",2016-09-11T05:54:33Z,2025-10-21T16:11:38Z
+nz,New Zealand,Reference,6006,21,6504798650,Bible Path: Daily Devotional,DEEP FLOW SOFTWARE SERVICES - FZCO,https://apps.apple.com/nz/app/bible-path-daily-devotional/id6504798650?uo=4,0.0,4.82249,169,Reference,"Bible Path is a thoughtfully designed app aimed at enriching your spiritual journey with scriptures that offer guidance and holy inspiration. Whether you seek daily inspiration, devotional reflections, or a deeper understanding of the scriptures, Bible Path provides a serene and supportive environment for personal growth.
+
+Key Features:
+
+Bible Chat:
+Engage in conversations about faith, prayers, and scriptures with Bible Chat. This feature allows you to explore different interpretations of the scripture, ask questions, and connect with a community of fellow seekers in a holy atmosphere. The chat interface makes it easy to share your thoughts on scriptures and devotional topics with others.
+
+Audio Bible:
+Immerse yourself in the holy scriptures through our audio Bible. Perfect for quiet moments of reflection or during daily activities, the narrated scriptures help you stay connected to the Word of God. Whether you’re listening to audio prayers or meditating on the scripture, the app makes it easy to integrate devotional practices into your routine.
+
+Inspirational Verses and Prayers:
+Receive a daily dose of inspiration with verses and prayers that uplift and guide you. Each scripture verse and prayer is carefully chosen to offer spiritual nourishment, guiding you in your devotional journey with the holy scriptures.
+
+Personalized Daily Reflections:
+Reflect on personalized insights based on the holy scriptures and prayers that resonate with your spiritual needs. These reflections are crafted to help you ponder biblical themes and integrate their teachings into your daily life through consistent devotional practices.
+
+Interactive Bible Studies:
+Deepen your understanding of the Bible with our interactive study guides. These resources provide comprehensive insights and context, suitable for both personal study and group discussion, focusing on the holy scriptures to enrich your devotional life.
+
+Faith Building Exercises and Prayers:
+Engage in exercises designed to strengthen your faith and understanding, complemented by powerful prayers. These activities encourage you to reflect on scriptures and apply them to your life, guiding you in devotional practices.
+
+Studies and Resources:
+Access a wide range of study materials and resources tailored to different levels of biblical knowledge. Whether you are just beginning your journey or seeking advanced understanding of the scriptures, Bible Path provides a supportive resource filled with devotional insights and reflections on the holy scriptures.
+
+Why Choose Bible Path?
+Bible Path is a spiritual companion, offering a calm and nurturing space for exploring the scriptures and growing in faith. With tools like chat, audio resources, and study guides, the app is designed to be a gentle guide, helping you find clarity, comfort, and deeper meaning in your spiritual journey.
+
+Download Bible Path and begin a journey of reflection, learning, and spiritual growth. Let this app be a quiet support in your daily life, offering holy guidance and wisdom from the scriptures through prayers, verses, and more.
+
+Privacy Policy: https://static.holy-bible.app/:privacy-en.html
+Terms & Conditions: https://static.holy-bible.app/:terms-conditions-en.html",2024-08-14T07:00:00Z,2025-11-21T08:20:04Z
+nz,New Zealand,Reference,6006,22,521076445,NZSL Dictionary,David McKee,https://apps.apple.com/nz/app/nzsl-dictionary/id521076445?uo=4,0.0,4.3617,47,Reference,"New Zealand Sign Language Dictionary contains diagrams and videos for over 4,000 English words and phrases.
+
+A ""Word of the Day"" feature introduces you to a new vocabulary word every day.
+
+All the diagrams are built in to the application so they can be viewed offline. To view the videos, an active Internet connection is required.",2012-05-01T01:22:34Z,2023-05-26T08:39:48Z
+nz,New Zealand,Reference,6006,23,697904165,Freeview TV Guide,Freeview Ltd,https://apps.apple.com/nz/app/freeview-tv-guide/id697904165?uo=4,0.0,2.01603,312,Reference,"The free, easy-to-use Freeview TV Guide app is the smart way to keep tabs on all the great content showing every day on the Freeview channels. 
+
+Key Features:
+-8-day TV Guide 
+-Set and manage reminders 
+-Search and browse shows by genre  
+-Show details 
+
+For more info, head to freeviewnz.tv",2013-09-12T02:25:36Z,2024-11-20T23:13:55Z
+nz,New Zealand,Reference,6006,24,477971748,MyHeritage: Family Tree & DNA,MyHeritage Ltd,https://apps.apple.com/nz/app/myheritage-family-tree-dna/id477971748?uo=4,0.0,4.8129,1812,Reference,"Explore your roots, find new relatives, and make amazing discoveries with genealogical search tools and an intuitive family tree builder. Join our global community of users to map your ancestors and family history effortlessly.
+
+LiveMemory™
+Make your memories come to life as AI-powered videos with LiveMemory™! Turn photos into video clips with AI-powered photo animation and relive your favorite moments. Animate entire family photos and see your memories reimagined in lifelike videos. Our AI video generator creates animated memories that bring photos to life. Share on social media and amaze your family and friends!
+
+Build Your Family Tree
+Start your family tree by entering a few names, and MyHeritage will do the rest. Our matching technologies for genealogical research will automatically find new information for you in our diverse collection of 81 million family trees built by users all over the world, and in our huge database of 21 billion historical records. Watch your family history come to life and make fascinating discoveries with this family tree maker app.
+
+Make Instant Family History Discoveries
+MyHeritage’s genealogical search features can easily match your family tree to other family trees and historical records to provide you with meaningful new insights about your ancestors. Enrich your family tree with MyHeritage’s powerful search and matching technologies:
+
+Smart Matches™
+A unique technology that automatically matches your family tree to other family trees, revealing new information about your family origins.
+Record Matches: an innovative technology that finds new information about your ancestors in our global collection of historical records.
+Instant Discoveries™: a useful feature that adds entire branches and photos to your family tree in one click.
+
+Find Your Ancestors in Historical Records
+Explore your family history in MyHeritage’s vast database of more than 33 billion historical records from around the world. The historical record collections include vital records (birth, marriage, and death certificates) from 66 countries; census and immigration records; gravestone and burial records; and much more.
+
+MyHeritage DNA
+Locked inside your DNA is your unique ethnic makeup. The test consists of a simple cheek swab and reveals your genetic heritage across 2,114 geographic regions — more than any other test. It also matches you to relatives you never knew existed in our DNA database of 9 million people. View your DNA results on the app; they’re private and secure, and will never be shared or sold.
+
+Deep Nostalgia™
+Have you ever dreamed of bringing historical family photos to life? With MyHeritage’s Deep Nostalgia™ feature, your historical family photos will come to life and you’ll see your ancestors’ faces move! Deep Nostalgia™ uses AI technology to breathe new life into historical photos and recreate moments from your family history. Pull out those photo albums and discover your ancestry as you connect to cherished family memories and trace history across generations.
+
+Enrich Your Family Tree with Photos
+Capture and share your family memories, old and new. Scan your family photos directly from the app and use our AI-based photo tools to bring your family history to life. Repair scratched or damaged photos with Photo Repair, colorize your black and white photos, and bring blurry faces into focus with the MyHeritage Photo Enhancer. Record the stories behind your family photos with the Photo Storyteller™ and preserve them for generations to come.
+
+Download MyHeritage today to uncover your roots with an all-in-one family tree app, photo animator, and ancestry search tool.
+
+Terms of Use: https://www.myheritage.com/terms-and-conditions",2011-11-12T00:14:59Z,2025-11-16T15:44:00Z
+nz,New Zealand,Reference,6006,25,1255711035,#Bible - Verse of the Day,"Mind Blown Apps, LLC",https://apps.apple.com/nz/app/bible-verse-of-the-day/id1255711035?uo=4,0.0,4.84206,2292,Reference,"""Incredible App - My sister shared this app with me a few weeks ago and it is truly incredible. The music that plays when you read the verses, the scrolling like flipping a page, and everything about it just makes my time with God feel very intimate when I am reading daily verses and able to go through some of the devotionals. Really grateful to have had this app shared with me, especially during everything going on right now, it couldn’t have been better timing. Whoever designed this app did an incredible job! Thank you so much!""
+
+Receive God's word daily through beautiful Holy Bible stories, verses, and music. Receive personal, relevant verses for inspiration and sharing with loved ones.  Each day a new verse is sent to your device - it's like receiving a message from a dear friend who loves you and wants you to be happy.  Join the #Bible movement, share the Word, and fill social media with grace.
+
+Got questions? The Bible has answers! Includes Bible Chat®, the original Bible AI.
+
+You may use this app for free, but if you would be delighted to support our mission of delivering thousands of moments of grace, love, and wisdom each day, there are patronage subscriptions available. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://mindblownapp.com/privacy/",2017-10-21T02:47:16Z,2025-10-08T21:39:42Z

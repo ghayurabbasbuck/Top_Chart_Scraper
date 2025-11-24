@@ -1,0 +1,731 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+lu,Luxembourg,Medical,6020,1,877752291,Doctena,Doctena S.A.,https://apps.apple.com/lu/app/doctena/id877752291?uo=4,0.0,4.66085,3503,Medical,"Doctena helps you find and make an appointment online with a practitioner near you in just a few clicks.
+1. Choose a specialty
+2. Choose a location
+3. Optional: Refine the search by your preferred language
+Tap on a time slot to book your appointment.",2014-06-22T04:31:37Z,2024-07-14T00:27:47Z
+lu,Luxembourg,Medical,6020,2,6740692583,Staying Alive-Lu,Corps Grand-Ducal d'Incendie et de Secours,https://apps.apple.com/lu/app/staying-alive-lu/id6740692583?uo=4,0.0,4.83333,6,Medical,"The CGDIS (Corps grand-ducal d’incendie et de secours), in partnership with the Staying Alive association, provides the Staying Alive Luxembourg application. It allows anyone, whether trained or not in first aid, to be alerted by the emergency services (112) to intervene in the event of a nearby cardiac arrest.
+
+Our mission:
+Every minute counts during a cardiac arrest. In Luxembourg, more than 400 people fall victim to it each year, with a survival rate that remains too low. With the support of the Staying Alive association, the CGDIS mobilizes a citizen-based, supportive and responsive community to increase the chances of survival before emergency services arrive.
+
+Your role with Staying Alive Luxembourg:
+→ Be alerted in real time by 112 to intervene quickly
+→ Perform chest compressions or go and get a defibrillator (AED)
+→ Contribute to a collaborative map of defibrillators in Luxembourg
+
+Main features: 
+→ The most complete map of AEDs in Luxembourg: add, report, correct
+→ A practical guide to life-saving techniques
+
+Please note:
+Continuous use of GPS running in the background can decrease battery life.
+
+Developed by the Staying Alive association – [www.stayingalive.lu] – in partnership with the CGDIS",2025-05-06T07:00:00Z,2025-10-12T05:49:12Z
+lu,Luxembourg,Medical,6020,3,1242297692,MYLAB,Health Integration Technology,https://apps.apple.com/lu/app/mylab/id1242297692?uo=4,0.0,3.04673,107,Medical,"Plus qu'un serveur de résultat, MYLAB est une interface évolutive de communication entre laboratoires d'analyses médicales, professionnels de santé et patients.
+Totalement sécurisé, l'accès aux résultats est des plus simples avec Touch ID ou Face ID.
+MYLAB permet aux patients:
+• d'accéder à tout moment de façon simple et intuitive à leurs résultats d'analyse
+• de consulter l'historique de leurs analyses, de trouver les centres de prélèvement ouverts les plus proches par géolocalisation
+• de filtrer les centres spécialisés en fertilité, ayant un parking ou un accès pour personnes à mobilité réduite
+• de prendre rendez-vous sans frais via PICKEN DOHEEM pour une prise de sang pour eux-mêmes ou un proche (enfant ou personne âgée) à domicile, sur leur lieu de travail ou à l'adresse de leur choix
+• de trouver un médecin par spécialité ou un professionnel de santé.
+• de se pré-inscrire avec son ordonnance avant son prélèvement
+
+MYLAB permet aux médecins :
+• de générer une prescription électronique intégrant les règles de la nomenclature en vigueur
+• de prendre rendez-vous pour une prise de sang pour son patient
+• d'accéder de façon sécurisée aux derniers résultats de leurs patients avec une mise en avant automatique des résultats perturbés ou non lus
+• de filtrer les analyses
+• de générer des graphiques comparatifs des antériorités sélectionnées ainsi que des tableaux cumulés
+• de générer un PDF pour archivage et/ou export",2017-06-28T06:47:07Z,2025-11-20T07:47:02Z
+lu,Luxembourg,Medical,6020,4,1555054417,MyDSP,Agence eSante - Agence nationale des informations partagees dans le domaine de la sante G.I.E. GIE,https://apps.apple.com/lu/app/mydsp/id1555054417?uo=4,0.0,2.07407,54,Medical,"“MyDSP” est une application mobile qui vous permet d’accéder de façon simple et sécurisée à votre DSP (Dossier de Soins Partagé) - votre dossier de santé électronique et sécurisé qui regroupe vos données de santé essentielles. 
+
+Elle vous permet de consulter à tout moment les données de santé disponibles dans votre dossier et d’accéder à de nombreuses autres fonctionnalités, telles que déposer un document dans votre espace personnel, donner un droit d’accès à un professionnel de santé et vérifier les accès à votre dossier.
+
+Si vous n’avez pas encore activé votre compte eSanté  - qui vous donne accès à votre DSP - vous pouvez également effectuer l’activation via l’application et accéder ensuite directement à votre dossier.",2022-02-15T08:00:00Z,2025-09-16T17:08:15Z
+lu,Luxembourg,Medical,6020,5,1438638500,CMCM,Caisse Medico-Complementaire Mutualiste ASBL,https://apps.apple.com/lu/app/cmcm/id1438638500?uo=4,0.0,3.39024,41,Medical,"Submit your and your families medical invoices and complementary documents to CMCM through the CMCM APP.
+The CMCM APP allows you to simply submit medical invoices as well as certificats and other documents to CMCM. Take a picture, select a PDF file or choose a photo from your gallery and submit them through the CMCM APP to CMCM. The CMCM APP will notify you about status changes, allow you to track your submitted documents, and allow you to exchange information with our specialists.",2018-11-09T01:25:33Z,2025-09-29T07:52:36Z
+lu,Luxembourg,Medical,6020,6,1638884276,MyCHEM,Centre Hospitalier Emile Mayrisch,https://apps.apple.com/lu/app/mychem/id1638884276?uo=4,0.0,1.38028,71,Medical,"MyCHEM Application allows you to book appointments quickly et securely to the CHEM, Centre Hospitalier Emile Mayrish at Esch-sur-Alzette, Luxembourg.
+This application is available into 5 languages.",2023-06-06T07:00:00Z,2025-09-29T07:02:46Z
+lu,Luxembourg,Medical,6020,7,1625050421,Catalogue Ketterthill,Silk,https://apps.apple.com/lu/app/catalogue-ketterthill/id1625050421?uo=4,0.0,2.65,20,Medical,"Catalogue Ketterthill est une application médicale destinée aux professionnels de santé (infirmiers, sages-femmes, médecins…), travaillant avec des laboratoires d’analyses médicales. Cette application a pour vocation de les accompagner dans leurs actes de prélèvement.
+
+Pour utiliser cette application, il faut demander un identifiant et un mot de passe auprès de votre laboratoire.
+
+Cette application permet un accès simple, rapide et intuitif à un vaste répertoire d’analyse médicale. Chaque analyse possède une fiche descriptive rappelant les informations nécessaires : nature, tube, température de conservation, délais avant résultat, volume de prélèvement…
+
+Un onglet permet d’accéder aux fiches techniques qui récapitulent les bonnes pratiques de prélèvement ainsi que des conseils d’utilisation du matériel.
+
+Vous retrouverez également de l’information pratique sur vos laboratoires.
+
+Bonne utilisation.",2022-06-27T07:00:00Z,2025-04-15T19:58:20Z
+lu,Luxembourg,Medical,6020,8,613058743,EchoSOS,MobileMed Sarl,https://apps.apple.com/lu/app/echosos/id613058743?uo=4,0.0,5,2,Medical,"EchoSOS connects you immediately with the right emergency service in critical situations. The app automatically shows the correct emergency number, shares your location via GPS, and lets you provide important medical information directly to rescuers, helping save precious minutes.
+
+Local emergency numbers worldwide
+Emergency numbers from over 130 countries are stored in the app. You can always see the relevant numbers for your location on the home screen.
+
+Accurate location sharing
+Your location is sent to emergency services via GPS, even without an active internet connection.
+
+Emergency map
+The map shows nearby emergency stations, on-call services, and defibrillators. Partner organizations also provide contact and availability details.
+
+Digital emergency pass
+Store important medical information, such as blood type, allergies, or medications, and share it directly with medical personnel in an emergency.
+
+Echo Wallet
+Keep other important documents safely stored in Echo Wallet.
+
+Emergency guide
+Helpful articles and practical tips for medical emergencies.
+
+Test function
+Check in advance that location sharing works smoothly.",2013-04-15T08:22:44Z,2025-11-13T07:30:54Z
+lu,Luxembourg,Medical,6020,9,925339063,Doctolib - Your health partner,Doctolib,https://apps.apple.com/lu/app/doctolib-your-health-partner/id925339063?uo=4,0.0,4.9375,80,Medical,"Easily keep track of your health with the Doctolib app:
+• Access the availabilities of thousands of healthcare professionals from all specialities
+• Find and book medical appointments 24/7 online for in-person or video consultations
+• Send messages to doctors and therapists for follow up prescriptions, test results and more
+• Add relatives to your account to easily manage their appointments
+• Look after your child's appointments and documents together with another parent
+• Get automatic reminders for appointments in the app so you never miss one
+• Share prescriptions and other medical documents securely with your practitioner and pharmacy for seamless care
+• Store your appointment history and medical documents
+
+Doctolib - one of Europe's leading e-health companies:
+• 80 million patients
+• 900,000 healthcare professionals in France, Germany, and Italy
+
+Your health. Your data.
+Protecting your personal data is our absolute priority and influences everything we do at Doctolib.
+
+The Doctolib app is available in English, French, German, and Italian.",2020-03-11T07:00:00Z,2025-11-13T09:01:29Z
+lu,Luxembourg,Medical,6020,10,6741540498,FreeStyle Libre 3 – LU,Abbott Diabetes Care Inc,https://apps.apple.com/lu/app/freestyle-libre-3-lu/id6741540498?uo=4,0.0,1.8,5,Medical,"Die FreeStyle Libre 3 App ist für die Verwendung mit den Sensoren des FreeStyle Libre 3 Systems und den FreeStyle Libre Select-Sensoren freigegeben.
+
+Das neueste Mitglied der FreeStyle Libre Produktreihe umfasst die fortschrittlichste Technologie zur kontinuierlichen Glukosemessung (CGM), die entwickelt wurde, um Ihnen Fortschritte zu ermöglichen:
+
+•  Sehen Sie Ihre Glukosewerte in Echtzeit, jederzeit[1].
+ 
+•  Sie werden in Minutenschnelle benachrichtigt, wenn Ihr Glukosewert zu niedrig oder zu hoch ist. Optionale Alarme[2] informieren Sie darüber, wann Sie Maßnahmen ergreifen müssen.
+
+•  Echtzeit-Messwerte werden jede Minute aktualisiert – 5 Mal schneller als alle anderen CGMs[3].
+
+•  Erhalten Sie detaillierte Berichte, einschließlich der Zeit, die Sie in den einzelnen Messbereichen verbracht haben, um Ihre Glukosetrends und Muster besser zu verstehen.
+
+KOMPATIBILITÄT
+Sie können die FreeStyle Libre 3 App nur mit den Sensoren des FreeStyle Libre 3 Systems und dem FreeStyle Libre Select Sensor verwenden. Sie ist nicht mit Sensoren der FreeStyle Libre oder FreeStyle Libre 2 Produktreihen kompatibel.
+ 
+Die Kompatibilität kann je nach Smartphone und Betriebssystem unterschiedlich sein. Weitere Informationen zu kompatiblen Smartphones finden Sie unter www.FreeStyleLibre.com.
+
+APP-INFORMATIONEN
+Die FreeStyle Libre 3 App ist für die Messung der Glukosespiegel bei Menschen mit Diabetes in Verbindung mit den Sensoren des FreeStyle Libre 3 Systems oder dem FreeStyle Libre Select Sensor vorgesehen. Weitere Informationen zur Verwendung der FreeStyle Libre 3 App finden Sie im Benutzerhandbuch.
+
+Sprechen Sie mit einer medizinischen Fachkraft darüber, ob dieses Produkt wirklich für Sie geeignet ist, oder wenn Sie Fragen dazu haben, wie dieses Produkt für Behandlungsentscheidungen verwendet werden kann. 
+
+[1] Der Sensor ist 60 Minuten nach der Aktivierung für die Glukosemessung bereit.
+[2] Benachrichtigungen werden nur empfangen, wenn die Alarme eingeschaltet sind und sich der Sensor mit ungehindertem Signalweg höchstens [10 Meter bzw. 30 Fuß] vom Lesegerät entfernt befindet. Sie müssen die entsprechenden Einstellungen auf Ihrem Smartphone aktivieren, um Alarme und Warnungen zu empfangen. Weitere Informationen finden Sie im FreeStyle Libre 3 Benutzerhandbuch. 
+[3] Das Gerät des Benutzers muss über eine Internetverbindung verfügen, damit die Glukosedaten automatisch in LibreView hochgeladen werden können. 
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+Weitere rechtliche Hinweise und Nutzungsbedingungen sind unter www.FreeStyleLibre.com zu finden.
+
+========
+
+Bitte wenden Sie sich bei technischen Problemen oder Kundenserviceanfragen, die ein FreeStyle Libre Produkt betreffen, direkt an den FreeStyle Libre Kundenservice.",2025-04-22T07:00:00Z,2025-07-09T20:48:58Z
+lu,Luxembourg,Medical,6020,11,505864483,Pregnancy + | Tracker App,Philips Digital UK Limited,https://apps.apple.com/lu/app/pregnancy-tracker-app/id505864483?uo=4,0.0,4.73834,493,Medical,"Download the world's leading pregnancy tracker app today, for free week-by-week pregnancy information and articles!
+
+The Pregnancy+ app features expert advice, daily articles, healthcare tips and interactive 3D models so you can track your baby's development. Our pregnancy app has been downloaded over 80 million times by expecting families. Join our worldwide community today! 
+
+Baby Development
+► Unique, interactive 3D models showing your baby's development 
+► Baby Size Guide helps you visualise your baby's size in fruits, animals & sweets
+► Pregnancy Week-by-Week Guides explain what to expect in each pregnancy week
+► Simple & informative Pregnancy Timeline highlighting important milestones
+
+Pregnancy Guides & Information
+► In-depth Pregnancy Guides covering breastfeeding, exercise, food, twins & more 
+► Daily Pregnancy Articles, tailored to your pregnancy stage
+► 2D & 3D Scans by pregnancy week for you to browse
+► Daily Blog Posts with tips, tricks & helpful advice
+► Upload photos in My Bump to create a visual pregnancy diary
+
+Pregnancy Tools
+► Pregnancy Due Date Calculator helps you work out when your bundle will arrive
+► Kick Counter tracks your baby's movements & activity
+► Pregnancy Weight Log helps you keep an eye on changes in your weight
+► Contraction Timer measures contractions throughout your labour
+
+Organise & Plan
+► Pregnancy Calendar enables you to plan & document your prenatal appointments
+► Hospital Bag helps you prepare your hospital visit, for Mother, Birth Partner & Baby
+► Birth Plan allows you to customise, organise & export your needs & wishes
+► To-Do List & Baby Shopping List for ideas of what you need to do & buy
+► Search thousands of Baby Names for inspiration & share your favourites
+
+Our EXCLUSIVE 3D Models
+Enjoy our unique 3D models showing your pregnancy's week-by-week development, from blastocyst to foetus to baby. Our 3D models truly help you to connect with the baby growing inside you. 
+► Choose from multiple ethnicities
+► Zoom in or out & rotate to see the baby's intricate detail
+► Watch guided pregnancy week-by-week walk-throughs
+► Tap to see baby movements
+
+Pregnancy Articles & Guides
+If you're feeling overwhelmed by all the advice out there, don't worry. Our Pregnancy + tracker app will guide you through your pregnancy, week-by-week, keeping you up to date with your baby's development and helping you stay healthy through pregnancy and beyond. The Pregnancy+ app content is written in-house, with the help of medical experts, lactation consultants, midwives and, of course, parents.
+
+Share your journey with friends & family
+Our pregnancy tracker app can be personalised so your partner, future grandparents or best friend can join in the fun and follow your baby's development in the womb, from bump to birth! Keep everyone up to date with your pregnancy by inviting them to download the app today.
+
+Follow us on Social Media
+Facebook: facebook.com/PregnancyPlusApp
+Instagram: @pregnancyplus
+
+◆ Download Pregnancy+ App today ◆
+
+Privacy Policy
+https://info.philips-digital.com/PrivacyNotice?locale=en&country=GB
+
+Terms of Use
+https://info.philips-digital.com/TermsOfUse?locale=en&country=GB
+
+This app is not intended for medical use, or to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalised medical advice. If you have any concerns about your pregnancy, consult with your doctor or midwife.
+
+The Pregnancy + tracker app wishes you a healthy, full-term pregnancy and a safe delivery.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+lu,Luxembourg,Medical,6020,12,968720724,Sleep Tracker & Sleep Recorder,"Apirox, s.r.o.",https://apps.apple.com/lu/app/sleep-tracker-sleep-recorder/id968720724?uo=4,0.0,4.47727,44,Medical,"Analyze snoring, talking, sounds, and more. Track your night like never before!
+Awake or deep, light sleep too, Track it all—it’s made for you.
+
+→ High-quality sleep audio recordings.
+→ Make every morning a data-rich start to a well-rested day!
+→ Get useful in-depth analysis and a tailored sleep experience with Prime Sleep Recorder.
+
+Have less stress and listen to your snoring symphony or sleep-talking highlights. 
+See the charts every morning. App with unique features and technologies to analyze your sleep and  improve the quality of your rest.
+
+INSIGHTFUL MORNINGS
+Just one click and Prime Sleep Recorder will collects and evaluates data, providing you with valuable insights every morning when you wake up.
+
+TECHNOLOGY
+Prime Sleep Recorder optimizes microphone sensitivity, utilizing your phone's hardware for precise sleep analysis through AI, providing accurate and visualized sleep data.
+
+SCIENCE
+Snore detection is powered by Artificial Intelligence (A.I.) with the support of a new Apple machine-learning technology. By using a large number of snoring and sleeping samples from various users, we are able to deliver a precise sleep analysis tailored to each individual in statistics and in snoring detection. Your personalized evaluation is crafted based on the vast dataset, ensuring a unique and tailored experience for every user.
+
+HIGHLIGHTS:
+▷ PERSONAL SLEEP SYMPHONY RECORDING
+▷ EASY TO USE
+▷ HIGH TECH SNORING DETECTION
+Accurate snoring detection based on A.I.
+▷ ONE CLICK POSSIBILITY TO RECORD ONLY SNORING
+▷ LIFESTYLE FACTORS, WAKE-UP MOOD, NOTES
+Assign factors (alcohol, coffee, stress, etc.) to each night and the mood after waking up, or add your own notes.
+▷ AUDIO VISUALIZATION DURING RECORDING OR PLAYING
+▷ MEMORY SAVING SYSTEM ON YOUR PHONE
+aac audio compression for the best ratio quality and size
+▷ EASY SHARING OF YOUR SLEEP SYMPHONY WITH YOUR FRIENDS:
+Your sleep stories are meant to be heard. Turn your sleep recordings into a social media sensation!
+▷ CHART AND DATA OF NOISE IN THE ROOM DURING THE NIGHT
+▷ ADJUSTABLE RECORDING SOUND SENSITIVITY:
+For different sound conditions in your room (a quiet or loud environment)
+▷ ACTIVATION DELAY
+Starts monitoring after a preset period of time.
+
+▷ BACKGROUND MODE:
+Monitoring and alarm runs also in background mode. Use your smartphone as usual without limitation.
+▷ APPLE HEALTH INTEGRATION
+▷ iCLOUD SYNCHRONIZATION
+Synchronization among your devices and between free and paid versions.
+▷ EXPORTING OF HISTORY TO CSV FILE
+
+OPTIONAL APP EXTRAS:
+●  Smart Alarms
+●  Stop Snoring
+●  Sleepy Sounds
+● … and more
+
+Our team is constantly working on new improvements to enhance your experience.
+
+KNOW YOUR SLEEP HABITS WITH APP DESIGNED FOR:
+Insomnia Fighters: tailored solutions for those battling with insomnia or other difficulties falling asleep.
+Sleep Talkers and Snorers: capture and analyze your sleep talk and snoring patterns.
+
+Focused Minds: Ideal for individuals wanting to enhance concentration for work or study.
+
+Noise-Prone Sleepers: Designed for those easily affected by environmental noise during sleep.
+Students under Pressure: Support for students facing the stress of examinations and schoolwork.
+Quality Sleep Seekers: Tailored features for individuals striving to improve overall sleep quality.
+Prime Sleep Recorder is more than an app; it's your personalized sleep companion, providing insights for a diverse range of sleep needs.
+
+
+Terms And Conditions:
+https://apirox.com/docs/sleep_recorder_lite/terms_and_conditions.php
+
+Terms Of Use:
+https://apirox.com/docs/sleep_recorder_lite/terms_of_use.php
+
+Privacy Policy:
+https://apirox.com/docs/sleep_recorder_lite/privacy_policy.php",2015-05-13T16:50:54Z,2025-11-12T21:41:31Z
+lu,Luxembourg,Medical,6020,13,326574411,Baby Connect: Newborn Tracker,Seacloud Software LLC,https://apps.apple.com/lu/app/baby-connect-newborn-tracker/id326574411?uo=4,0.0,4.59999,10,Medical,"Baby Connect: The Ultimate Baby Tracker App
+
+Featured by Apple for Busy Moms | #1 All-Inclusive Baby Tracker
+
+Effortlessly track your baby's journey with Baby Connect - the only app available across all platforms, including web browsers!
+
+Key Features:
+- Real-time tracker: Feedings, nursing, naps, diapers, milestones, pump, and more
+- Instant sync: Share updates with family, babysitters, nannies, or daycare
+- Comprehensive reports: Trends, charts, and weekly averages
+- Health tracking: Medicine, vaccines, temperature, weight, height, and more
+- Photo integration: Capture and share your baby's precious moments
+- Cross-platform accessibility: Use on any device, anywhere
+
+What the Experts Say:
+""Comprehensive and well-designed"" - The New York Times
+""Top 5 Family & Fun App for Mom"" - babble.com
+""Keeps stress, anxiety, and guilt at bay"" - sitestouse.com
+""Most comprehensive way to log a child's daily activities"" - lilsugar.com
+
+Advanced Features:
+- Siri integration for voice-activated tracking
+- Percentile comparisons (US & international)
+- Push notifications for real-time updates
+- 100+ built-in activity descriptions
+
+Subscription:
+- 7-day free trial for all new users
+- Subscription required to save entries after trial period
+- Family Plan: Up to 5 children
+- Professional Plan: Up to 15 children
+- Auto-renews unless cancelled 24 hours before period ends
+- Subscription valid across all devices and family members/caregivers
+- Manage subscriptions via App Store Account Settings
+
+Note: Read-only access available without subscription
+
+Start your journey to stress-free parenting today with Baby Connect!
+
+Terms: https://www.babyconnect.com/terms
+Privacy: https://www.babyconnect.com/privacy",2009-09-14T19:56:45Z,2025-11-19T21:40:02Z
+lu,Luxembourg,Medical,6020,14,877303791,Contraction Timer & Counter 9m,Aleksei Neiman,https://apps.apple.com/lu/app/contraction-timer-counter-9m/id877303791?uo=4,0.0,4.59813,107,Medical,"*** Most downloaded Contraction Timer app in the world! Number 1 in the UK, USA, Australia, Canada, Italy and elsewhere! ***
+
+This is the simplest-to-use contraction timer. The app will help to track your contractions and determine when it's time to go to the hospital.
+If you plan on having a home birth, the app will tell you what stage of labor you are in at any given moment.
+
+Keep track of your labor by tapping a single button at the start and at the end of each contraction. The Contraction Timer analyzes the duration and frequency of contractions and will notify you when it's time to go to the hospital.
+
+Thousands of pregnant women around the world have become mothers using our app.
+
+Always consult your doctor to orient yourself in terms of contraction frequency and duration.
+This app is not a medical device and our recomendations are based on standard indicators. Your labor may occur differently. Therefore, do not rely exclusively on our app.
+If the duration and frequency of contractions do not yet correspond to the necessary indicators but labor pains become unbearable, it is better to go to the hospital as soon as possible rather than give birth at home or on the way there. Trust what your body is telling you.
+
+If you have any questions or suggestions, please email us at neumandev@gmail.com. Your feedback is very important to us.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+lu,Luxembourg,Medical,6020,15,1144871267,Pregnancy Tracker by Moms,Wachanga LTD,https://apps.apple.com/lu/app/pregnancy-tracker-by-moms/id1144871267?uo=4,0.0,4.78286,175,Medical,"Discover one of the top pregnancy tracker apps designed specifically for women and expecting parents. This application will keep you calm throughout your pregnancy, providing daily insights into your baby's development and your own health. It will let you know what’s happening with you and your unborn baby—week after week—and offer guidance on how to handle new situations. New, helpful articles are posted every day to support your pregnancy journey!
+
+
+
+
+Keep track of your weight, blood pressure, tummy growth, baby's first movements, and contractions with our advanced tracking tools. Save all your important data in a single, easy-to-share report for your doctor, ensuring your pregnancy progress is well-documented.
+
+
+May your pregnancy be pleasant and wonderful! Our app provides the tools and resources expecting parents need to feel confident and prepared.
+
+
+
+The Most Interesting Features of the App:
+- Convenient Calendar: Schedule tests and doctor visits effortlessly.  
+
+- Pregnancy Diary: Use this tracker to log your weight, tummy size, blood pressure, mood, and sexual activity daily. Never miss appointments or key tests.  
+
+- Weekly Baby Development Updates: Find out when your baby becomes the size of a grapefruit, grows eyelashes, or when you can discover their gender. Get nutritional and lifestyle advice tailored for women and their babies.  
+
+- Daily Articles: Access a wealth of resources and tools with professional advice to help women navigate emotions, relationships, and health during pregnancy.  
+
+- Doctor Report: Compile all your tracking data into a comprehensive report, available as a PDF or on your phone, to share with your doctor.  
+
+- Checklists and To-Do Lists: Stay organized with trimester-specific checklists and to-do lists—perfect for expecting parents.  
+
+- Smart Gestational Age Calculator: Trusted by top medical professionals, this tool calculates fetal and obstetric terms with pinpoint accuracy.  
+
+- Kegel Exercises: Prepare for childbirth with guided exercises, an essential tool for women’s health during pregnancy.  
+
+- Contraction Counter: This intelligent tracker distinguishes real contractions from practice ones, ensuring you and your baby are ready for delivery.  
+
+- Health App Synchronization: Securely save your pregnancy tracking data with seamless integration.
+
+
+We’ve worked hard to create one of the best apps for expectant mothers. Send your feedback to team@wachanga.com (mailto:team@wachanga.com)—we’re here to support women and parents every step of the way.
+
+
+
+GOLD STATUS IN THE APP
+- The subscription costs $1.99 per month
+- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+- Private Policy - https://wachanga.com/privacy
+- Terms of Use - https://wachanga.com/terms",2017-03-20T02:32:27Z,2025-11-13T01:09:53Z
+lu,Luxembourg,Medical,6020,16,1034069206,Anatomy 3D Atlas,Catfish Animation Studio S.r.l.,https://apps.apple.com/lu/app/anatomy-3d-atlas/id1034069206?uo=4,0.0,5,6,Medical,"This app is freely downloadable, however in-app purchase is required to unlock the contents. 
+The complete Skeletal System and a few other contents are always freely accessible enabling you to try the app properly.
+
+""Anatomy 3D Atlas"" allows you to study human anatomy in an easy and interactive way. 
+Through a simple and intuitive interface it is possible to observe every anatomical structure from any angle.
+The anatomical 3D models are particularly detailed and with textures up to 4k resolution.
+
+The subdivision by regions and the predefined views facilitate the observation and the study of single parts or groups of systems and the relationships between different organs.
+
+""Anatomy - 3D Atlas"" is an application aimed at medical students, doctors, physiotherapists, paramedics, nurses, athletic trainers and in anyone interested in deepening their knowledge of human anatomy.
+This app is a fantastic tool to complement classic human anatomy books.
+
+ANATOMICAL 3D MODELS
+• Musculoskeletal system
+• Cardiovascular system
+• Nervous system
+• Respiratory System
+• Digestive System
+• Urogenital system (male and female)
+• Endocrine system
+• Lymphatic system
+• Eye and ear system
+
+FEATURES
+• Simple and intuitive interface
+• Rotate and zoom each model in 3D space
+• Option to hide or isolate single or multiple selected models
+• Filter to hide or display each system
+• Search function to easily find every anatomical part
+• Bookmark function to save custom views
+• Smart rotation which moves the center of rotation automatically
+• Transparency function
+• Visualization of muscles through levels of layers from the superficial ones down to the deepest ones
+• By selecting a model or a pin, the related anatomical term shows up
+• Description of the muscles: origin, insertion, innervation and action
+• Show/Hide UI interface (very useful with small screens)
+
+MULTILINGUAL
+• The anatomical terms and the user interface are available in 12 languages: Latin, English, French, German, Italian, Portuguese, Russian, Spanish, Chinese, Japanese, Korean and Turkish
+• The anatomical terms can be displayed in two languages simultaneously",2015-09-16T05:59:16Z,2025-03-20T23:46:31Z
+lu,Luxembourg,Medical,6020,17,390427747,Pregnancy Tracker | Preglife,Preglife AB,https://apps.apple.com/lu/app/pregnancy-tracker-preglife/id390427747?uo=4,0.0,4.94737,19,Medical,"Preglife – Scandinavia’s Leading Pregnancy App
+
+Preglife is the all-in-one app for those who are pregnant, preparing for birth, or have recently become a parent. We offer trusted, evidence-based information from midwives and medical specialists – tailored to each week of your pregnancy and your baby’s early development. Our goal: to be your midwife in your pocket.
+
+► Pregnancy calendar – Track your journey week by week
+► Articles with in-depth info on your baby’s growth, nutrition, and pregnancy health
+► 3 expert-led podcasts on childbirth and parenting
+► Personalized insights for every stage of pregnancy
+► Guides on breastfeeding, car seats, insurance, vaccinations, and more
+
+All content is reviewed by an international network of midwives and medical professionals.
+
+During Pregnancy:
+► Contraction timer
+► Smart checklist for everything you need
+► Vaccination guide – Know what’s recommended and what’s free
+► Free online birth preparation course (in Swedish and English)
+
+Partner section:
+Tips and support for your partner – including shared activities before and after birth.
+
+Mumfulness – Mind & Body Wellness
+Choose from expert-led yoga, workouts, and guided meditations to support your well-being throughout pregnancy and early parenthood.
+
+Preglife is Scandinavia’s leading pregnancy app with over 9 million downloads and top ratings on the App Store!
+Download Preglife today for a confident, informed, and personalized pregnancy journey.
+
+Contact us: info@preglife.com
+
+Follow us:
+Instagram: instagram.com/preglife
+Facebook: facebook.com/preglife
+
+Privacy policy & terms of use:
+https://preglife.com/privacy-policy
+https://preglife.com/user-agreement",2010-09-23T00:02:09Z,2025-11-14T07:54:27Z
+lu,Luxembourg,Medical,6020,18,1221469319,CONTOUR DIABETES app (LU),Ascensia Diabetes Care US Inc.,https://apps.apple.com/lu/app/contour-diabetes-app-lu/id1221469319?uo=4,0.0,4.8,5,Medical,"The easy-to-use CONTOUR™DIABETES app is designed for adults of all ages with diabetes.(1) Since 2016, there have been over 1.2 million downloads.(2) Start your download and enjoy your journey.
+
+People using the system say they:(1,3)
+•	better understood their diabetes
+•	significantly decreased HbA1c values
+•	didn't find it to be a hassle that compromised their quality of life
+
+The CONTOUR™DIABETES app syncs with a CONTOUR™ connected meter for seamless blood glucose monitoring. This easy-to-use app can give you a better understanding of how your daily activities affect your blood glucose results to help you manage your diabetes. In addition to using the CONTOUR™DIABETES app, always consult with your Health Care Professional before making any changes to your diet, exercise or treatment regimen.
+
+The CONTOUR™DIABETES app presents your blood glucose results in a simple and easy-to-review way that’s personalized to you. Download the CONTOUR™DIABETES app today and start receiving meaningful information on your progress, with some of the latest features...
+•	My Patterns – can notify you of trends in your blood glucose readings, by presenting you with potential causes and guidance on how you may improve
+•	Test Reminder Plans – let you optimize your testing regime to give you results that are more insightful
+•	Record – allows you to record events such as diet, activities and medication, and also add photos, notes or voice memos to help put your results in context
+•	View – if you use insulin and/or log your carbs, you can now see your insulin doses, carb intakes and blood glucose results in one simple view
+•	Share – give your healthcare professional greater insight with the easy-to-read diary report – send this report in advance or take it with you on the day of your appointment
+•	Apple Health™ - is now integrated with the CONTOUR™DIABETES app
+
+Learn more about the CONTOUR™DIABETES app and CONTOUR™ connected meters at:
+www.diabetes.ascensia.com
+compatibility.contourone.com
+
+Note: Screenshots are for illustration purposes. Availability of blood glucose meter model based on country of purchase. Units of measurement in the app will match that of your synced meter. For more information, please refer to the user guide for your CONTOUR™ connected meter.
+
+© 2021 Ascensia Diabetes Care Holdings AG. All rights reserved.
+
+Manufacturer
+Ascensia Diabetes Care Holdings AG 
+Peter Merian-Strasse 90
+4052 Basel, Switzerland 
+www.diabetes.ascensia.com
+
+Ascensia, the Ascensia Diabetes Care logo and Contour are trademarks and/or registered trademarks of Ascensia Diabetes Care Holdings AG.
+
+1.	Fisher W et al. User Experience with a New Smartphone Application for Blood Glucose Monitoring (BGM) in an Information-Motivation-Behavioral Skills (IMB) Model Study. Poster presented at the 12th International Conference on Advanced Technologies & Treatments For Diabetes (ATTD); February 20-23, 2019; Berlin, Germany.
+2.	Data on file. Ascensia Diabetes Care. DCAM-147-5682.
+3.	Fernandez-Garcia D et al. The ICONE Study: A multicenter evaluation of the impact of CONTOUR™NEXT ONE and CONTOUR™DIABETES app on Self-Management and Adherence in Insulin-Treated Patients with Diabetes. ePoster presented at European Endocrinology Society Congress (ECE), 5-9 September 2020.",2017-04-30T08:26:57Z,2024-08-14T15:19:09Z
+lu,Luxembourg,Medical,6020,19,662170995,MyTherapy Medication Reminder,smartpatient GmbH,https://apps.apple.com/lu/app/mytherapy-medication-reminder/id662170995?uo=4,0.0,4.87302,63,Medical,"MyTherapy is your daily companion for pill reminders and many other features related to taking your medication and documenting your health. Millions of people use MyTherapy to be reminded to take the right medications at the right time.
+
+MyTherapy supports you in sticking to your personalized medication plan. You receive reminders for the scheduled medication times. If you wish, you can record measurements, symptoms, and doctor visits in the integrated patient diary.
+
+● EASY SETUP: Search our medication database or simply type in your specific medication to create your customizable reminders.
+
+● RELIABLE REMINDERS: Easily receive reminders to take your tablets or dietary supplements regularly.
+
+● NEW PACKAGE AND PRESCRIPTION REMINDER: We can remind you of your next packs and follow-up prescriptions in a timely manner.
+
+● BLOOD PRESSURE AND WEIGHT CONTROL: If you want, we will remind you of 20+ measurements and allow you to record them directly in MyTherapy.
+
+● APPLE HEALTH INTEGRATION: Connect MyTherapy with Apple Health to automatically sync your weight, step count, and water intake, making it even easier to track your health data and habits.
+
+● SYMPTOM AND PAIN DIARY: Keep track of how you feel to identify patterns and monitor whether your medications are working.
+
+● STREAKS: Develop healthy routines by tracking how many days in a row you complete your health tasks. Each completed task strengthens your streak.
+
+● MONTHLY OVERVIEW: Automatically maintain a health journal—a valuable resource for your next doctor's visit.
+
+● INJECTION SITE TRACKING: Users who inject medication can easily rotate and document injection sites within the app.
+
+● PARTICULARLY HELPFUL for people living with chronic or recurring health conditions such as:
+- ADHD (Attention Deficit/Hyperactivity Disorder)
+- Asthma
+- IBD (Inflammatory Bowel Disease)
+- COPD (Chronic Obstructive Pulmonary Disease)
+- Diabetes (Type 1 and Type 2)
+- Heart conditions (e.g. high blood pressure, CHD, atrial fibrillation, …)
+- HIV
+- MS (Multiple Sclerosis)
+- Psoriasis
+- Rheumatism (e.g. rheumatoid arthritis, …)
+- Thyroid disorders
+… and many more.
+
+● PRIVACY & SECURITY: We’re certified to international standards including ISO 13485 and ISO 27001—because your data deserves the highest protection.
+
+● EXCELLENT APP: Winner of the German Health Award by news channel N-TV and the German Institute for Service Quality (09/2023).
+
+For more information and helpful insights, visit the MyTherapy site: https://www.mytherapyapp.com",2016-07-11T09:04:08Z,2025-11-23T19:10:26Z
+lu,Luxembourg,Medical,6020,20,573916946,Medisafe Pill Reminder,MediSafe Inc.,https://apps.apple.com/lu/app/medisafe-pill-reminder/id573916946?uo=4,0.0,4.51999,125,Medical,"Keep yourself and loved ones safe and never forget to take your meds again with Medisafe, the easy-to-use app ranked #1 by pharmacists to help you remember when to take your pills.
+
+Don't put yourself or your loved ones at risk by missing a dosage -- or taking a double dose because nobody tracked. Our mission is giving people the tools, support and information they need to take their medications the way they're supposed to.
+
+Pharmacists rank Medisafe #1 out of 461 apps they've tested, and MyVCM has recognized Medisafe for HIPAA ""leadership and best practices in managing security and compliance.""
+
+That's why millions have downloaded Medisafe, the top-rated medication manager and pill reminder for those who need reminders to take meds, fertility drugs, birth control, and other medicines.
+
+Download Medisafe and start managing your medications, pills, refills, drug interactions, measurements and doctors' appointments to improve your health. Medisafe is the best pill tracker and planner on the App Store. Never forget to take your medications again! 
+
+Also featured on Fox TV, ABC, Mashable, Inc. Magazine, Los Angeles Times, Boston Globe, Life Hacker, Fast Company, TechCrunch, and many more.
+
+Here's why Medisafe is the best:
+CLEAN & SIMPLE: Visual and easy medical manager to handle drug reminders.
+HEALTH APP INTEGRATION: Keeps track of your measurements and syncs them to the HealthKit app: blood glucose, blood pressure, weight, pulse and temperature.
+REPORT SHARING: See your progress report and send it to the doctor or nurse as a visual informative PDF.
+FAMILY INTERACTION: Synchronizes the family's medicine pillboxes to one place, in real time. Manage your entire family from one account!
+MEDTONES: Various Medtones to make Medisafe playful and a great addition to your day: have President Obama, Darth Vader, Dr Evil, Austin Powers, Elsa or your Nagging Mom remind you about your meds. Choose your medication reminder sound to make Medisafe a comfortable addition to your day.
+REMINDERS: Reminds you to take medication doses on time every time, even if your device is asleep. Medisafe has timezone support too! No need to worry while traveling, your reminders are always on time.
+REFILL REMINDER: Rx refill reminds you when you need to restock your prescriptions.
+PRN FRIENDLY: List PRN (on demand) medication.
+
+Whether you are taking one drug dosage or more, you know how difficult it is remembering each pill right on time. If you are a caretaker for a child, parent, or patient suffering from chronic pain or illness, you know how stressful it is not knowing for sure if your loved one took their medications correctly.
+
+Medisafe does not provide medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding your medications or a medical condition.
+
+Terms of Use: https://www.medisafeapp.com/terms-and-conditions/
+Privacy Policy: https://medisafeapp.com/privacy-policy/
+
+More info:
+FAQs: https://www.medisafeapp.com/help/
+Pharmacists Rank Medisafe #1: http://bit.ly/2nTjmsI
+
+Please don’t hesitate to contact us: support@medisafe.com 
+
+Thanks,
+Medisafe Team",2012-11-08T22:22:53Z,2025-11-12T15:07:00Z
+lu,Luxembourg,Medical,6020,21,403117516,Staying Alive,Association Le Bon Samaritain,https://apps.apple.com/lu/app/staying-alive/id403117516?uo=4,0.0,5,1,Medical,"Staying Alive in a few words:
+
+Staying Alive is an app that allows anyone trained (or not)  in CPR to help save a victim of cardiac arrest by being alerted by Emergency Medical Services (EMS).
+
+Our mission:
+
+In France, there are 50,000 sudden cardiac arrests per year. The survival rate from this scourge is less than 10%. Our mission is to respond to the life-threatening emergency of cardiac arrest by engaging a trained, committed and supportive community to create a safer world.
+
+Your role downloading Staying Alive:
+
+You directly help the victim by performing a CPR or by getting a defibrillator.
+Our app allows each citizen to help in the event of cardiac arrest by doubling the victim's chances of survival (1 minute lost is 10% less chance of survival).
+You actively participate in creating an AED database provided free of charge to EMS.
+
+What you will find in Staying Alive:
+
+→ The largest AED database in the world: you can add, edit and report nearby defibrillators.
+→ A practical and comprehensive guide to life-saving actions.
+→ News about first aid and stats on the Staying Alive community.
+
+
+What you won't find:
+
+→ intrusive ads;
+→ unwanted notifications;
+→ in-app purchases
+
+---
+
+Disclaimer:
+
+- Continuous use of GPS in the background can significantly decrease battery life.
+- The location and list of defibrillators provided by Staying Alive are given for information purposes only. As a reminder, this is a collaborative app and the data shared by users is not verified by a dedicated organization. Unfortunately, we are not responsible for any errors that may appear on defibrillator locations.
+
+---
+
+Awards and recognitions won by Staying Alive:
+
+- DEKRA Label Medappcare Certification
+- 2015 French eHealth Trophy, mHealth category
+- Prix des Entretiens de Bichat 2013
+
+4 good reasons to download Staying Alive now:
+
+1. You save lives (whether you are trained or not).
+2. You join a community of more than 300,000 volunteers.
+3. Registration is done in a few clicks and will only take you 2 minutes.
+4. Why add a 4th reason when the first 3 are enough? 
+
+Developed by Staying Alive - [www.stayingalive.org]",2010-11-17T04:11:41Z,2025-11-07T10:00:39Z
+lu,Luxembourg,Medical,6020,22,1104967519,Shop Apotheke - Redcare,Shop-Apotheke Service B.V.,https://apps.apple.com/lu/app/shop-apotheke-redcare/id1104967519?uo=4,0.0,4.78709,155,Medical,"With Shop Apotheke / Redcare Pharmacy you always have your pharmacy and drugstore at hand. Order medicines, beauty and care products and many other products conveniently at low prices, fill your prescription or e-prescription (E-Rezept) and get online advice from a doctor.
+
+We offer everything you need. Discover a huge selection with over 100,000 products and have your order delivered quickly to your home. With our app, we can deliver your orders to the following countries: Germany, Austria, Italy, Switzerland, Belgium and France.
+
+● E-prescription on your health insurance card: Redeem your e-prescription digitally now
+All you need is your German health insurance card and the Shop Apotheke app!
+
+How do you redeem an e-prescription with your electronic health card?
+● Open the Shop Apotheke app.
+● Hold your health insurance card next to it.
+● And everything will be delivered to your home quickly.
+
+The e-prescription (eRx) has been officially launched in Germany.
+Now you can easily and quickly redeem your e-prescription in the Shop Apotheke App. And the delivery is also quickly.
+
+What are the advantages of the Shop Apotheke / Redcare Pharmacy app?
+
+● Choose from a huge selection of medicine, beauty and care products & much more
+● Collect your prescription or e-prescription safely and conveniently
+● Get your delivery very fast with Now! service
+● Enjoy regular discounts and voucher promotions
+● Log in safely and securely
+● Compare prices on the go using our barcode scanner
+
+
+We offer a wide range of products in the categories:
+
+■ Medications & prescription medicines
+■ Baby & family
+■ Beauty & care
+■ Nutrition, sports & weight loss
+■ Homeopathy & natural products
+■ Care & Medical supply store
+■ Pet pharmacy & pet supplies
+■ Books & much more!
+Discover a wide selection of products! From medicines to beauty and care products, from well-known brands such as Hexal, Aspirin, or Vichy. With our own brands; Redcare, Skintist, nu3 and Beativa, we also offer a wide range of high-quality products in the categories of medicine, cosmetics, beauty, fitness, and nutrition.
+
+● Our Now! delivery service enables fast delivery for thousands of products across our range. Simply place your order with Now! products in the app and depending on the time of your order, we will deliver it on the same or the following day*. 
+
+● Highest quality and safety are essential for us. Our pharmacy has been certified by TÜV Nord and has been chosen as Webshop of the Year 2020/2021. We have been awarded the Trusted e-Shops label ""very good"" and have already impressed over 10 million satisfied customers. 
+
+● Pay securely and easily with Visa, Mastercard, PayPal, Apple Pay, Klarna, direct debit, prepayment or purchase on account.
+
+● Take advantage of our customer loyalty program. Collect RedPoints** with every purchase to receive discounts and exclusive benefits.
+
+● You are safe with us! The data transmission takes place via a secured end-to-end encryption so that the data protection is optimally ensured.
+
+Download the Shop Apotheke / Redcare Pharmacy app today and get a reliable companion in matters of health and beauty care.
+
+*excludes prescription orders
+**Our loyalty program is available in Switzerland as RedCoins.
+
+
+Contact: mobile@shop-apotheke.com",2022-07-21T07:00:00Z,2025-11-19T08:56:25Z
+lu,Luxembourg,Medical,6020,23,1300573808,MediFile,MONECHO,https://apps.apple.com/lu/app/medifile/id1300573808?uo=4,0.0,0,0,Medical,"MediFile is today the essential application to find and save your ultrasound images and reports.
+
+You are patient :
+Find all the ultrasound images provided by your doctor or midwife. Medifile integrates directly a connector to the professional software of your practitioner iMonecho.com.
+
+You are a practitioner :
+MediFile allows you to find the reports sent by your colleagues. In one click share your reports with your colleagues.
+
+Create your Medifile account or Sign in via Google and Facebook social networks.
+
+Add the connector provided by your doctor or midwife by scanning the QR code on your review. (to be done only during the first connection to Medifile.)
+
+Simply save each of your images in your image gallery
+View your images, videos and reviews
+You will be able to receive Notifications when you receive new images during a new exam.
+Read our news and to stay informed!
+
+All health related information is approved by the iMonecho Team, publisher of the MediFile application.",2017-12-08T09:18:21Z,2025-05-15T15:04:53Z
+lu,Luxembourg,Medical,6020,24,707430013,Best Menstrual Period Tracker,Anastasia Kovba,https://apps.apple.com/lu/app/best-menstrual-period-tracker/id707430013?uo=4,0.0,4.30769,13,Medical,"The application is based on the scientific research. It helps to determine the fertile days of the month, so you can either achieve or avoid pregnancy. The application uses the date of the last period and shows the date of the next period, the best days to conceive a baby, the ovulation day and when you can avoid pregnancy.
+
+* Scientific Research *
+
+The popular baby gender prediction method is used by default. But it’s based only on the widely-spread theory by Landrum Shettles. The application also supports the scientific baby gender prediction method. It’s based on the scientific research by Rodrigo Guerrero and the statistics of thousands of women.
+
+You can change the gender prediction method on the “Settings” screen. But remember that either gender prediction method shows only slightly higher chances of conceiving a girl or a boy and it never guarantees the result.
+
+* Full Version *
+
+This is the full version of the application. You will be able to see the following data:
+
+- The probability of getting pregnant on the current or on any selected day.
+- The probability of conceiving a girl or a boy using the selected gender prediction method.
+- Chances of getting pregnant during the current period.
+- Chances of conceiving a girl or a boy during the current period.
+
+* How to Use *
+
+To generate the menstrual calendar you have to provide the following data:
+
+- The first day of the last cycle (select the day and use the button “Add”).
+- Average length of the menstrual cycle (adjust it on the “Settings” screen).
+- Length of the luteal phase (most women can use the default value).
+
+The application works best for women with regular menstrual cycle. But average cycle length is also a good way to predict when the ovulation should happen.",2013-11-20T00:19:39Z,2021-05-10T20:49:44Z
+lu,Luxembourg,Medical,6020,25,1538883990,Mediclinic - ميديكلينيك,MEDICLINIC MIDDLE EAST MANAGEMENT SERVICES FZ LLC,https://apps.apple.com/lu/app/mediclinic-%D9%85%D9%8A%D8%AF%D9%8A%D9%83%D9%84%D9%8A%D9%86%D9%8A%D9%83/id1538883990?uo=4,0.0,0,0,Medical,"Your healthcare, simplified. From booking a doctor to checking your results, the Mediclinic app gives you instant, secure access to the care you need anytime, anywhere.
+
+The Mediclinic Middle East app gives you secure, quick and easy access to the right care when you need it. It’s simple to set up and designed for a 
+seamless experience.
+
+Register using UAE Pass to get started. Book appointments with our doctors and access your digital healthcare tools right away.
+
+After your first visit, you’ll see a clear overview of your medical information in the app, helping you stay on top of results, prescriptions and next steps.
+
+Manage your care—and your family’s—in one secure place, with helpful alerts and options for earlier availability where possible.
+
+Features:
+
+• Book, reschedule and cancel appointments
+• Get notifications when earlier slots open with your doctor
+• Start on-demand virtual consultations
+• Manage family profiles and appointments
+• View test results, visit summaries and health history
+• Track referrals for labs, imaging and specialist visits
+• See current and past prescriptions
+• Access personalized maternity care plans and pregnancy tracking
+• Fast, secure login with UAE Pass
+• Available in Arabic and English
+
+We’re continuously improving the Mediclinic app to make your healthcare simpler and more connected.
+
+For support: 800 2026 • mymediclinic24x7@mediclinic.ae",2021-01-05T08:00:00Z,2025-11-11T20:08:53Z

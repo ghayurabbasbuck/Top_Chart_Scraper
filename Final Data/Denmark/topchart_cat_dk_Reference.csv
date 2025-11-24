@@ -1,0 +1,853 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+dk,Denmark,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/dk/app/google-translate/id414706506?uo=4,0.0,3.94113,1172,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+dk,Denmark,Reference,6006,2,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/dk/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.7243,214,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+dk,Denmark,Reference,6006,3,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/dk/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,4.51999,75,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+dk,Denmark,Reference,6006,4,6452190948,"PriceCharting: TCG, Games+",PriceCharting LLC,https://apps.apple.com/dk/app/pricecharting-tcg-games/id6452190948?uo=4,0.0,4.78788,66,Reference,"The best of PriceCharting and SportsCardsPro now on iOS! Find out what your collectibles are worth. Track market prices of video games, sports cards, Pokemon, YuGiOh, Magic the Gathering, Lorcana, and other trading cards, comic books, US coins, LEGO, and more. Completely free. We track thousands of sales from the top auction sites: eBay, Heritage, PWCC, and more, filter and sort them by condition into easy to use price guides.
+
+PriceCharting allows you to:
+- View pricing for all conditions of an item.
+- View previous sales of collectibles from across the web. 
+- Add items to your Collection to track their value over time. 
+- Add items to your Wishlist  
+- Use Search By Photo or Barcode Scanner to instantly ID your trading card or comic. 
+- View all of the variations of your collectibles with our extensive photo catalog.
+- Share collectibles with your friends via text message.
+- Get notifications when items on your wishlist are listed below market value on eBay or our own marketplace
+- Create lots from any number of items, add markups, and share PDF receipts when you're at conventions or just a garage sale
+- Get grading recommendations for your ungraded collectibles that would gain the most value 
+
+Example video games console supported: Playstation, PS2, PS3, PS4, PS5, Nintendo NES, SNES, Wii, Wii U, Gameboy, GBA, Nintendo DS , Xbox, Sega Genesis, Dreamcast,  and many others. 
+
+Example Pokemon sets supported: Base Set, Scarlet & Violet, Pokemon 151, Vivid Voltage, Obsidian Flame, and every other Pokemon English and Japanese set.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-09-11T07:00:00Z,2025-10-29T17:23:19Z
+dk,Denmark,Reference,6006,5,477971748,MyHeritage: Family Tree & DNA,MyHeritage Ltd,https://apps.apple.com/dk/app/myheritage-family-tree-dna/id477971748?uo=4,0.0,4.71207,3737,Reference,"Explore your roots, find new relatives, and make amazing discoveries with genealogical search tools and an intuitive family tree builder. Join our global community of users to map your ancestors and family history effortlessly.
+
+LiveMemory™
+Make your memories come to life as AI-powered videos with LiveMemory™! Turn photos into video clips with AI-powered photo animation and relive your favorite moments. Animate entire family photos and see your memories reimagined in lifelike videos. Our AI video generator creates animated memories that bring photos to life. Share on social media and amaze your family and friends!
+
+Build Your Family Tree
+Start your family tree by entering a few names, and MyHeritage will do the rest. Our matching technologies for genealogical research will automatically find new information for you in our diverse collection of 81 million family trees built by users all over the world, and in our huge database of 21 billion historical records. Watch your family history come to life and make fascinating discoveries with this family tree maker app.
+
+Make Instant Family History Discoveries
+MyHeritage’s genealogical search features can easily match your family tree to other family trees and historical records to provide you with meaningful new insights about your ancestors. Enrich your family tree with MyHeritage’s powerful search and matching technologies:
+
+Smart Matches™
+A unique technology that automatically matches your family tree to other family trees, revealing new information about your family origins.
+Record Matches: an innovative technology that finds new information about your ancestors in our global collection of historical records.
+Instant Discoveries™: a useful feature that adds entire branches and photos to your family tree in one click.
+
+Find Your Ancestors in Historical Records
+Explore your family history in MyHeritage’s vast database of more than 33 billion historical records from around the world. The historical record collections include vital records (birth, marriage, and death certificates) from 66 countries; census and immigration records; gravestone and burial records; and much more.
+
+MyHeritage DNA
+Locked inside your DNA is your unique ethnic makeup. The test consists of a simple cheek swab and reveals your genetic heritage across 2,114 geographic regions — more than any other test. It also matches you to relatives you never knew existed in our DNA database of 9 million people. View your DNA results on the app; they’re private and secure, and will never be shared or sold.
+
+Deep Nostalgia™
+Have you ever dreamed of bringing historical family photos to life? With MyHeritage’s Deep Nostalgia™ feature, your historical family photos will come to life and you’ll see your ancestors’ faces move! Deep Nostalgia™ uses AI technology to breathe new life into historical photos and recreate moments from your family history. Pull out those photo albums and discover your ancestry as you connect to cherished family memories and trace history across generations.
+
+Enrich Your Family Tree with Photos
+Capture and share your family memories, old and new. Scan your family photos directly from the app and use our AI-based photo tools to bring your family history to life. Repair scratched or damaged photos with Photo Repair, colorize your black and white photos, and bring blurry faces into focus with the MyHeritage Photo Enhancer. Record the stories behind your family photos with the Photo Storyteller™ and preserve them for generations to come.
+
+Download MyHeritage today to uncover your roots with an all-in-one family tree app, photo animator, and ancestry search tool.
+
+Terms of Use: https://www.myheritage.com/terms-and-conditions",2011-11-12T00:14:59Z,2025-11-16T15:44:00Z
+dk,Denmark,Reference,6006,6,1664437810,PlantAI: Identifier & Diagnose,Glority Global Group Ltd.,https://apps.apple.com/dk/app/plantai-identifier-diagnose/id1664437810?uo=4,0.0,4,3,Reference,"PlantAI is the most up-to-date AI plant care assistant using cutting-edge technology. The app helps you to get answers to your plant-related queries directly, but the usage isn't limited to that. You can identify any unknown plant species, diagnose your plant, and get professional plant care guides.
+
+With PlantAI, you will be able to satisfy your plant curiosity anywhere anytime within seconds. You will get detailed plant information like its name, characteristics, and toxicity. Moreover, this app offers you hands-on planting and growing tips like water, fertilize, mist, clean, and repot.
+
+Try the most trending AI plant chatbot to explore a bigger world of plants today!
+
+Key features:
+Get instant replies to any plant questions
+Plant identification with high accuracy
+Auto-diagnose plant health problems and get corresponding solutions
+Expert-level plant care tips to help your greenery grow better
+Give likes to the conversation 
+
+About Premium
+-Subscription Name: Yearly Premium
+-Subscription Duration:1 year (7 days trial)
+-Subscription Description: Users will get a 1-year Premium which includes unlimited messages, plant identification, and plant diagnosis. 
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+Terms of Use: https://app-service.askmybotanist.com/static/user_agreement.html
+Privacy Policy: https://app-service.askmybotanist.com/static/privacy_policy.html
+
+Contact us: mailto: support@askMyBotanist.com
+Find out more about PlantAI at: https://www.glority.com/",2023-10-15T07:00:00Z,2025-09-23T18:59:46Z
+dk,Denmark,Reference,6006,7,6747442689,HoloDex - TCG Scan & Collect,MAVELLI  - FZCO,https://apps.apple.com/dk/app/holodex-tcg-scan-collect/id6747442689?uo=4,0.0,4.85714,7,Reference,"HoloDex is the fastest way to scan and organize your card collection. Whether you're managing a childhood binder or flipping alt arts from the latest set, HoloDex gives you real-time prices, powerful organization tools, and instant card recognition, right from your phone.
+
+Instant Pokémon Card Scanning
+Just point your camera and scan. Identify any card in seconds, from Base Set to Scarlet & Violet.
+
+Real-Time Card Values
+Check live market prices instantly. Know exactly what your cards are worth before you buy, trade, or sell.
+
+Organize Your Collection
+Build your portfolio, track duplicates and create your wishlist. Your digital collection stays synced and accessible anywhere.
+
+Secure Cloud Backup
+Your collection is safe and available across all devices. Never lose track of a card again.
+
+Whether you're a casual fan or serious collector, HoloDex helps you stay organized, make smarter trades and track your collection with confidence.
+
+#Key Features:
+
+- Pokémon card scanner with instant recognition
+- Real-time market price tracking
+- Collection organization
+- Value your portfolio
+- Wishlist 
+- Multi-device sync
+- Multi currency support
+- Track profits and losses 
+
+#In-App Purchases Unlock:
+
+- Unlimited card scans
+- Export your data
+- Exclusive filters
+- Early access to new features
+
+Built for collectors. Backed by data.
+
+Start scanning your cards today with HoloDex.
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-09-08T07:00:00Z,2025-11-17T10:19:52Z
+dk,Denmark,Reference,6006,8,6740481012,Ayatique: Quran Stories,Apps Market FZE,https://apps.apple.com/dk/app/ayatique-quran-stories/id6740481012?uo=4,0.0,3.81818,11,Reference,"Unwind with narrated Quran stories in the Ayatique app. Play dozens of short inspiring stories from the Holy Quran to help you relax, sleep better, and find peace. Use immersive background sounds for a more soothing effect. End your day reflecting while studying Allah’s Word through audio.
+
+- Library of most popular Quran stories
+- Dozens of summarized Quran’s suras
+- 6 immersive background sound effects
+- Short audio clips (7 to 10 mins)
+- Multiple audio story filters
+- Beautifully narrated audio
+- Handy minimized mode 
+- Dark mode available 
+
+▶ Perfect bedtime routine 
+
+Take a moment to refresh your mind and pray for the day ahead. Whether you're feeling stressed, worried, tempted, or simply yearning for hope, listening to a Quran story could be the most comforting goodnight routine to help you sleep soundly. 
+
+▶ Works for any mood or situation
+
+Looking for peace of mind? Dealing with anxiety? Reflecting on your life? Ayatique might already have a narrated story for your current mood. With dozens of narrated stories in our library, you can strengthen your faith and learn a lesson today that might change your tomorrow. 
+
+▶ Short Islamic stories for any age 
+
+Ayatique has a separate section of summarized stories for kids to help toddlers learn the Holy Quran. Narrated storytelling along with background sound effects make it easier for children to grasp moral lessons at a young age. 
+
+▶ Comforting background audio
+
+Breathe life into narrated stories by adding a comforting background sound. Calming ocean waves, quiet drops of rain, gentle piano sounds, ambiently spinning vinyl, or whispers of bird chirping. Use them to create a completely immersive experience. 
+
+▶ Peace of mind for a good sleep
+
+Learn lessons from Islamic prophets before bedtime to get ready for the next day no matter what it holds. Play soothing and insightful Quran stories before bedtime and go to sleep feeling completely serene.
+
+PAYMENT AND SUBSCRIPTION OPTIONS
+
+Choose between the below to access the best Ayatique features:
+• Monthly Subscription
+• Annual Subscription
+
+You may cancel your subscription at any time. To do so, visit your Apple account to manage your subscription and turn auto-renewal off. 
+
+Support: support@ayatique.ai.
+
+Terms of Use - https://ayatique.ai/terms-of-use
+Privacy Policy - https://ayatique.ai/privacy-policy",2025-01-23T08:00:00Z,2025-09-13T13:34:22Z
+dk,Denmark,Reference,6006,9,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/dk/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.17672,1392,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+dk,Denmark,Reference,6006,10,6740403566,Deen Buddy - Quran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/dk/app/deen-buddy-quran-chat/id6740403566?uo=4,0.0,4.83249,197,Reference,"Deen Buddy – AI Quran, Daily Verses & Prayer
+
+Deen Buddy is your AI-powered Islamic companion. Get instant answers to Quranic questions, receive daily inspirational verses, and stay on track with accurate prayer time notifications.*
+
+AI Quran Chat
+• Ask any Quran-related question and get AI-powered answers.
+• Understand meanings, tafsir, and historical context easily.
+• Personalized responses based on authentic sources.
+
+Daily Quran Verses
+• Receive daily inspirational Quranic verses.
+• Bookmark and share your favorite ayahs effortlessly.
+• Enhance your understanding of the Quran one verse at a time.
+
+Prayer Time Notifications
+• Accurate prayer time alerts based on your location.
+• Customizable Athan notifications so you never miss a Salah.
+• Supports multiple calculation methods for accuracy.
+
+Why Choose Deen Buddy?
+• AI-powered Quran chat for instant insights.
+• Daily Quran verses to keep you inspired.
+• Prayer time alerts for timely worship.
+• Minimalist and distraction-free experience.
+
+Download Deen Buddy now and strengthen your connection with the Quran.
+
+**Access to Deen Buddy requires a paid subscription**
+
+Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+dk,Denmark,Reference,6006,11,6747474616,Language Pro,HEYLINGO OU,https://apps.apple.com/dk/app/language-pro/id6747474616?uo=4,0.0,0,0,Reference,"Language Pro combines AI translation, live communication, and smart learning tools to help you master any language. Whether you’re chatting with friends abroad, practicing pronunciation, or studying for fluency, Language Pro gives you everything in one powerful app.
+
+Key Features:
+
+Bilingual Live Voice Communicator – Speak in your language, get instant AI translation, and have real conversations across languages.
+
+Bilingual Messenger – Send and receive messages seamlessly in two languages.
+
+Practice Pronunciation – Record your voice, get instant feedback, and improve your accent.
+
+Photo Translation & Vocabulary Builder – Point your camera to translate signs, menus, or documents — and even learn new words from everyday photos without text.
+
+AI Tutor (Any Topic) – Learn and practice conversations on topics you choose, guided by an adaptive AI tutor.
+
+Advanced Translation – Translate words, phrases, or full texts with context-aware accuracy.
+
+Word Puzzles – Play fun, interactive games that boost vocabulary and memory.
+
+Flashcards – Build your knowledge with smart, spaced-repetition flashcards.
+
+Phrasebook – Save and organize useful phrases for quick access anytime.
+
+Privacy Policy: https://languagepro.ai/privacy-policy.html
+Terms of Service: https://languagepro.ai/terms-of-service.html",2025-09-11T07:00:00Z,2025-11-22T18:34:45Z
+dk,Denmark,Reference,6006,12,773457673,Merlin Bird ID by Cornell Lab,Cornell University,https://apps.apple.com/dk/app/merlin-bird-id-by-cornell-lab/id773457673?uo=4,0.0,4.78612,706,Reference,"What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.
+
+Merlin Bird ID helps you identify birds you see and hear. Merlin is unlike any other bird app—it's powered by eBird, the world’s largest database of bird sightings, sounds, and photos.
+
+Merlin offers four fun ways to identify birds. Answer a few simple questions, upload a photo, record a singing bird, or explore birds in a region.
+
+Whether you’re curious about a bird you’ve seen once or you’re hoping to identify every bird you can find, the answers are waiting for you with this free app from the renowned Cornell Lab of Ornithology.
+
+WHY YOU’LL LOVE MERLIN
+• Expert ID tips, range maps, photos, and sounds help you learn about the birds you spot and build birding skills.
+• Discover a new bird species each day with your own personalized Bird of the Day
+• Get customized lists of birds you can find where you live or travel - anywhere in the world!
+• Keep track of your sightings—build your personal list of the birds you find
+
+MACHINE LEARNING MAGIC
+• Powered by Visipedia, Merlin Sound ID and Photo ID uses machine learning to identify birds in photos and sounds. Merlin learns to recognize bird species based on training sets of millions of photos and sounds collected by birders at eBird.org, archived in the Macaulay Library at the Cornell Lab of Ornithology.
+• Merlin delivers the most accurate results thanks to experienced birders, who curate and annotate sightings, photos, and sounds, who are the true magic behind Merlin.
+
+AMAZING CONTENT
+• Merlin has bird photos, songs, and calls, and identification help for anywhere in the world, including Mexico, Costa Rica, South America, Europe, Africa, the Middle East, India, Australia, Korea, Japan, China, and more.
+
+The Cornell Lab of Ornithology’s mission is to interpret and conserve the Earth’s biological diversity through research, education, and citizen science focused on birds and nature. We are able to offer Merlin for free thanks to the generosity of Cornell Lab members, supporters, and citizen-science contributors.",2013-12-11T08:33:23Z,2025-11-19T16:42:05Z
+dk,Denmark,Reference,6006,13,6747167573,Poke Card Scanner & Collector,Lb Mobil Teknoloji Ve Ticaret Limited Sirketi,https://apps.apple.com/dk/app/poke-card-scanner-collector/id6747167573?uo=4,0.0,4.66667,3,Reference,"Poke TCG Card Scanner – Scan, Identify & Organize Pokémon Cards!
+
+Level up your Pokémon TCG experience!
+
+With Poke TCG Card Scanner, you can instantly scan, identify, and manage your Pokémon cards using just your phone. Whether you’re a casual collector or a serious trader, Poke TCG Card Scanner makes managing your Pokémon cards effortless. Instantly recognize cards with just your camera, organize your entire collection, and track real-time market prices wherever you are.
+Stop wasting time searching through long lists or guessing card details – our smart scanner delivers quick, accurate results every time. With your digital collection always in your pocket, you’ll never lose track of your cards again.
+
+Perfect for collectors, players, and investors who want to stay ahead in the Pokémon TCG world.
+
+Key Features:
+*Instant Card Scanning
+Use your camera to recognize Pokémon cards quickly and accurately.
+
+*Basic Card Info Access
+View card details like name, number, set, and rarity.
+
+*Create your collection
+Create your own card collection and track prices on the go!
+
+
+To access all features without limits, a premium subscription is required.
+- Payment will be charged to your iTunes account once the purchase is confirmed.
+- Subscriptions automatically renew at the end of each billing period unless canceled at least 24 hours before the renewal date.
+- You can manage your subscription and disable auto-renewal anytime through your iTunes account settings.
+
+Privacy Policy: https://sites.google.com/view/poke-tcg-card-scanner/home 
+Eula:https://www.apple.com/legal/macapps/stdeula/",2025-06-17T07:00:00Z,2025-09-09T08:53:05Z
+dk,Denmark,Reference,6006,14,282935706,Bible,Life.Church,https://apps.apple.com/dk/app/bible/id282935706?uo=4,0.0,4.83187,13394,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+dk,Denmark,Reference,6006,15,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/dk/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.33333,18,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+dk,Denmark,Reference,6006,16,475772902,Night Sky,iCandi Apps Ltd.,https://apps.apple.com/dk/app/night-sky/id475772902?uo=4,0.0,4.44991,5690,Reference,"Night Sky is a powerful AI personal planetarium.
+
+Quickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you’re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!
+
+FEATURE SET: 
+
+- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you’re interested in, provide information on anything to do with astronomy, or even show you how the sky looks on the other side of the world!  With your own personal AI Super Astronomer right by your side, Night Sky Aura becomes the new natural way to interact with the sky above! 
+
+- SKY TAGS - Make Night Sky yours, by adding personal Sky Tags to the map!  Pin Sky Tags to objects in the sky to save for future reference, and share them via iMessage so others can find them!  Sky Tags can be categorized, and are completely personal to you.  Maybe you want to tag a star as a memorial to someone, or tag something you’d like to observe later that night.  You can even add Astrophotography photos and observation notes to your Sky Tags!  
+
+- CONNECTED STARGAZING (+ Feature) - Connected Stargazing is a revolutionary new feature that utilizes SharePlay in iOS 15.1, allowing you to stargaze with others when you are apart!  Start a FaceTime Audio call with those who you would like to stargaze with, then create a session by adding objects for everyone to find in the sky!
+
+- SPATIAL AUDIO OBJECT NAVIGATION - Using AirPods Pro or AirPods Max, search for an object when automatic sky tracking is on, and Night Sky will make the star, planet or constellation ‘chirp’ in the 360° soundscape, assisting you to navigate to the object with sound!
+
+- AR SKY WINDOW - Erase the ceiling of your bedroom, lounge or classroom with AR!  Night Sky intelligently detects the ceiling or other flat surface in a room, and can make it magically disappear to reveal the sky behind it!  
+
+- BILLIONS OF STARS!  (+ Feature) - Space is vast, so Night Sky has been hyper charged with over 1.7 BILLION STARS streamed from the cloud!  With a new super deep zoom (greater than 10X before), prepare to delve deeper into space than you ever imagined!
+
+- MAPS UI - A clean and familiar interface with Search features including Quick Find, intelligent Night Red Mode, Light Pollution indicator and easy to use menu, prepare to navigate Night Sky quicker than ever before!
+
+- AR PLANETARY PORTALS & AR GRAND ORRERY (+ Features) - Step onto the surface of other planets by placing AR portals around your room!  Or walk around the entire Solar System using the newly refreshed interactive Grand Orrery!
+
+- NIGHT SKY WATCH AR - Night Sky magically comes to life on Apple Watch, with Glass Constellations, Red Vision, and Night Sky Live Tours - all on your wrist! 
+
+- AR OBJECT EXPLORATION  - Pull Planets, Stars and Constellations out of the sky and look at them in detailed AR!
+
+- NIGHT SKY TOURS (+ Feature):  Get a live sky tour or create your own sky tours for any location and time in the world!  
+
+- NIGHT SKY MINDFULNESS (+ Feature) - A mindfulness stargazing experience adding mindfulness minutes with Apple HealthKit. 
+
+- AND MANY MORE FEATURES! 
+
+
+Subscription Information: 'Night Sky +' and 'Night Sky + Aura' are available as optional subscriptions. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in your App Store account settings.  Privacy policy: http://www.icandiapps.com/privacy-policy/  Terms and Conditions of Use: http://www.icandiapps.com/terms-conditions/",2011-11-01T17:57:41Z,2025-11-18T18:32:54Z
+dk,Denmark,Reference,6006,17,1634551626,CoinSnap: Coin Identifier,Next Vision Limited,https://apps.apple.com/dk/app/coinsnap-coin-identifier/id1634551626?uo=4,0.0,4.60975,205,Reference,"With 300,000+ coin types, 99% recognition accuracy, and an AI-powered database, CoinSnap is a companion for coin enthusiasts. Whether you're identifying a rare error coin, uncovering the value of a hidden gem, or organizing a collection of hundreds of coins, CoinSnap makes it fast, easy, and fun to explore the fascinating world of numismatics.
+
+Key Features:
+AI-Powered Coin Recognition
+Instantly identify coins from around the globe with a quick photo or upload.
+Coverage of over 240,000 coin types with an impressive 99% recognition accuracy.
+Supports high-resolution photography for precision results.
+
+Comprehensive Coin Information
+Receive detailed overviews, including coin name, origin, year of issue, mint count, and more.
+Check rarity levels and access up-to-date market prices.
+Explore multiple coin encyclopedias for in-depth knowledge.
+
+Professional Coin Analysis
+Identify rare misprinted coins with expert analysis reports.
+Access coin grading reports with detailed breakdowns and estimated market values.
+Backed by insights from professional numismatists.
+
+Smart Collection Management
+Create and manage your personalized coin collection effortlessly.
+Organize coins by series and track the total value of your collectibles.
+Keep your collection secure and accessible anytime.
+
+Why Choose CoinSnap?
+Lightning-fast and accurate coin recognition.
+Extensive database covering coins from every corner of the world.
+All-in-one solution for identification, grading, and collection management.
+
+About CoinSnap Premium 
+-Subscription Name: CoinSnap Premium (Yearly with Trial) 
+-Subscription Duration: 1 year (7 days trial) 
+-Subscription Description: Unlock all Premium features. 
+
+• Payment will be charged to iTunes Account at confirmation of purchase 
+• Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period 
+• The account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal 
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable 
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase 
+
+Please note that terms and conditions, as well as our privacy policy, apply. 
+Terms of Use: https://app-service.coinidentifierai.com/static/user_agreement.html  
+Privacy Policy: https://app-service.coinidentifierai.com/static/privacy_policy.html 
+Contact us: support@coinidentifierai.com",2022-11-20T08:00:00Z,2025-11-20T01:43:57Z
+dk,Denmark,Reference,6006,18,6739222650,MyDex TCG Cards,Alberto Moral,https://apps.apple.com/dk/app/mydex-tcg-cards/id6739222650?uo=4,0.0,4.55,20,Reference,"MyDex - The Ultimate Pokémon Card Scanner & Collection Manager
+Scan, Track & Master your Pokémon TCG collection instantly! Whether you're a casual collector or serious trader, MyDex delivers the fastest card recognition, real-time prices, and smart collection tools.
+
+- Lightning-fast scanner with 99%+ accuracy
+- Real-time prices from TCGPlayer, CardMarket & eBay
+- Track 19,000+ Pokémon cards database
+- Advanced collection management & wishlists
+- Price history charts & market trends
+- Portfolio value tracking in real-time
+- Works offline - no internet required
+
+Perfect for collectors, traders & enthusiasts - from Base Set classics to newest releases!
+Download MyDex now and become a Pokémon TCG master!
+
+-------------
+
+Notice: MyDex is an independent project created by fans for fans and has no official connection to The Pokémon Company International, Inc. All references to the Pokémon Trading Card Game, including any images or descriptions of cards, remain the property of The Pokémon Company International, Inc., which holds all rights to these materials. MyDex is not endorsed, sponsored, or affiliated with The Pokémon Company International, Inc. in any way. Any use of related terms, visuals, or concepts is intended solely for informational and educational purposes. We fully respect the intellectual property rights of The Pokémon Company International, Inc. and encourage users to support the official products
+
+-------------
+
+Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-12-18T08:00:00Z,2025-10-31T17:10:17Z
+dk,Denmark,Reference,6006,19,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/dk/app/deepl-translate/id1552407475?uo=4,0.0,4.6063,254,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+dk,Denmark,Reference,6006,20,576588894,Sky Guide: AR Astronomy Finder,Fifth Star Labs LLC,https://apps.apple.com/dk/app/sky-guide-ar-astronomy-finder/id576588894?uo=4,0.0,4.65059,1431,Reference,"Bring the beauty of the stars down to Earth. Hold Sky Guide overhead to automatically identify any star, constellation, planet or satellite! Easy to use and powerful, it’s awesome stargazing for any experience level.
+
+Is it a star or the planet Mars? Knowing what’s up in your night sky is easier than ever. Sky Guide’s AR mode superimposes graphics onto your real sky so visualizing the heavens becomes effortless. Have you ever wished you could recognize constellations but didn’t want to fumble around with paper star charts? Now you can.
+
+A speck of light crosses the night sky, growing brighter. What could it be? You don’t have to wonder anymore. Track a bright satellite and receive perfectly-timed notifications whenever the International Space Station is about to fly over your location.
+
+Voyage to the past or future. Know where the Moon will be later in the evening so you can capture that perfect photo or be an eyewitness to history’s greatest comets.
+
+Whether you’re searching for Sagittarius, Saturn, or the next big meteor shower, Sky Guide is packed with information and rich graphics that will satisfy the most curious minds. Plus, stay current with location-filtered events like solar and lunar eclipses with Sky Guide’s personalized Calendar.
+
+Sky Guide can function with or without Wi-Fi, cellular service or GPS, so everything is at your fingertips no matter where you go.
+
+Join the millions who have discovered a more personal connection to the stars with Sky Guide. It might forever change the way you look up.
+
+Terms of Use: https://www.fifthstarlabs.com/terms-of-use",2013-05-06T19:45:52Z,2025-11-11T18:48:43Z
+dk,Denmark,Reference,6006,21,885982973,FamilySearch Tree,FamilySearch International,https://apps.apple.com/dk/app/familysearch-tree/id885982973?uo=4,0.0,4.55131,945,Reference,"Curious about your family history? Add branches to your family tree with FamilySearch Tree, the world’s largest online family tree. FamilySearch Tree makes it easy and convenient to discover and document your own branches of the world’s family tree while preserving family memories, such as photos, written stories, and audio recordings.
+
+Harness the power of a worldwide, crowd-sourced pedigree to discover your family story. As you add information, FamilySearch will start searching for your family members while looking at historical records like birth and death certificates. Share information that others might not know, and add sources to confirm correct information. Update information and records easily so that everyone has accurate information.
+
+Browse your family tree branches, and see portraits of relatives you’ve never seen before. Discover facts, documents, stories, photos, and recordings about your ancestors. Easily add new life details, photos, stories, and audio recordings for your relatives.
+
+Find and share meaningful, heart-turning family stories that will make an impact on your life and the lives of your loved ones.
+
+Genealogy at Your Fingertips
+Family history has never been easier to track and build.
+Build your family tree by finding or adding family members directly through the app.
+Once you add a deceased relative to the family tree, FamilySearch will try to connect you to any information it has about that person in its database.
+Discover new family members and descendants in the community tree.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Ancestors, Relatives, and Family
+Find your ancestors in the billions of records on FamilySearch.org to learn more details of your family story.
+Discover facts, documents, stories, photos, and recordings about your ancestors.
+Easily add new life details, photos, stories, and audio recordings for your relatives.
+See which ancestors FamilySearch has already found in historical records, and get ideas for what to do next.
+Discovering your own family history potentially helps others in their search.
+Explore your heritage in maps that show where the key events of your ancestors’ lives took place.
+
+Collaborate with Others
+Connect with other family members, and share information that others might not know.
+View, add, and edit information about your ancestors. 
+Enhance your tree by adding photos, stories, and documents.
+Add sources to confirm correct information.
+Communicate and collaborate with other FamilySearch users from within the app with in-app messaging.
+Connect with family near and far. You may find a relative who has visited the same graves, asked the same questions about—and even learned to love or admire—the same ancestors. 
+
+Watch your family tree grow. Discover family, learn your family history, and help map the family tree for mankind with FamilySearch Tree. 
+
+NOTE: Content you provide for deceased individuals will be publicly available. See our privacy policy for more details.",2014-07-15T07:00:00Z,2025-11-05T19:21:05Z
+dk,Denmark,Reference,6006,22,6503387382,Haven - Bible Chat,E12 Holdings LLC,https://apps.apple.com/dk/app/haven-bible-chat/id6503387382?uo=4,0.0,4.87037,432,Reference,"Step Into the Living Word! 
+
+Haven isn’t just an app—it’s your personal guide to draw closer to God and discover unshakable peace. With hand-picked daily verses, thoughtful devotionals, and heartfelt prayers right in your pocket, every moment becomes an opportunity to grow in faith.  
+
+Tap to explore the Bible, dive into rich verse citations, or ask Haven anything—God’s wisdom will flood your heart, strengthen your relationships, and reshape your life in beautiful, unexpected ways. Track your daily streak and feel the joy of bold, thriving faith. 
+
+Your spiritual journey is calling! Chat with Haven anytime, anywhere.
+
+Questions or feedback? We’d love to hear from you at havenappcontact1@gmail.com
+
+Terms: https://www.e-twelve.com/terms
+
+**Access to Haven requires a paid subscription**",2024-06-03T07:00:00Z,2025-11-21T23:31:56Z
+dk,Denmark,Reference,6006,23,6748595105,VinylSnap: Scan & Value Record,Next Vision Limited,https://apps.apple.com/dk/app/vinylsnap-scan-value-record/id6748595105?uo=4,0.0,4.58824,17,Reference,"Discover the True Value of Your Vinyl — Instantly
+What if that dusty record in your garage is worth hundreds—or even thousands? VinylSnap makes it easy to find out. With one quick photo, instantly identify your vinyl, get a reliable market price, see grading suggestions, and save it to your collection.
+VinylSnap is your go-to vinyl companion, perfect for collectors, resellers, or anyone who just found a box of old LPs in the attic. Try it free and see what your records are really worth!
+What Can VinylSnap Do?
+- Reliable Market Valuation  
+  Get a trusted reference price before you buy, sell, or store—know if you’ve found a $10 album or a $1,000 treasure.
+- Instant Identification with Rich Details  
+  Scan the label to unlock pressing info, release year, tracklist, and artist stories—works with most 12"", 10"", and 7"" records.
+- Grading Suggestions  
+  Helpful VG / VG+ / NM guidance based on visible wear, label clarity, and jacket condition—so you can price and sell with confidence.
+- Your Digital Vinyl Shelf  
+  Save every record you scan and track your collection’s total value over time—see how your vinyl library grows in worth.
+- Learn & Explore  
+  Read exclusive articles on record-breaking vinyl sales, collector tips, and essential guides for anyone new to vinyl—so you know what to look for and how to protect it.
+Who Is VinylSnap For?
+ • Beginners  
+  Just getting into vinyl? VinylSnap helps you understand what you have and how much it’s worth—no experience needed. 
+ • Collectors  
+  Build a well-organized vinyl archive, track your investments, and make sure your most valuable pressings are properly graded. 
+ • Resellers  
+  Use VinylSnap to make fast, informed decisions while crate-digging. Know what to buy, what to list, and what to keep.
+Why Choose VinylSnap? 
+Accurate — Trusted valuation and grading in seconds  
+Effortless — Just scan the label, no manual searching  
+Insightful — Background knowledge at your fingertips  
+Organized — Manage your entire vinyl library in one clean app
+Start Scanning with VinylSnap Today! Download now and discover the value behind every record.
+[About VinylSnap Premium]
+ • Payment will be charged to your iTunes Account at confirmation of purchase
+ • Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
+ • The account will be charged for renewal within 24 hours before the end of the current period
+ • Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription
+ • Subscriptions may be managed by the user, and auto-renewal may be turned off by going to iTunes Subscriptions after purchase
+Terms of Use: https://app-service.vinylsnaps.com/static/user_agreement.html
+ Privacy Policy: https://app-service.vinylsnaps.com/static/privacy_policy.html",2025-08-25T07:00:00Z,2025-11-12T21:41:35Z
+dk,Denmark,Reference,6006,24,6740606431,AI Translator Pro - UK English,DigitalSail (HK) Limited,https://apps.apple.com/dk/app/ai-translator-pro-uk-english/id6740606431?uo=4,0.0,5,5,Reference,"Live Translator - AI Translate: The Ultimate AI Translator Keyboard for TikTok, Instagram, X, Discord, RED, WhatsApp, Facebook, and all your favorite apps!
+
+Tired of machine translations that turn your witty comments into robotic text? Live Translator - AI Translate is your free multilingual assistant powered by advanced AI that actually understands internet culture and slang across languages!
+
+
+Why Live Translator - AI Translate is Revolutionary:
+
+• Instant translation that captures vibes, not just words
+• Real-time interpretation of internet slang and trending expressions
+• Preserves your tone, humor, and personality in every language
+• Makes your content resonate with international and bilingual audiences
+
+
+What Sets Our Translation App Apart:
+
+• AI-powered keyboard with cutting-edge language models trained on social media
+• Smart dictionary that understands context and cultural nuances
+• Translates the untranslatable - from trending slang to viral expressions
+• Authentic communication in English, Chinese, Korean, Japanese, Spanish and more
+
+
+Perfect for:
+
+• Content creators wanting their voice to shine in global communication
+• Social media users seeking accurate translations beyond basic text
+• Travelers needing instant language interpretation
+• International students and professionals messaging across language barriers
+• Anyone wanting to learn expressions in foreign languages
+
+
+Real-World Translation Examples:
+
+Traditional Translator: ""This is fire"" → ""This is burning""
+Live Translator - AI Translate: ""This is fire"" → ""C'est incroyable!"" (French) / ""¡Esto está que arde!"" (Spanish)
+
+
+Ready for seamless multilingual messaging? Download our free translator keyboard now and experience the future of global social media communication!
+
+
+Join thousands of bilingual speakers and content creators who've discovered the secret to authentic international engagement. Don't let language barriers hold your conversation back - let Live Translator - AI Translate help your voice be heard in any language!
+
+
+Key Features:
+
+• Free real-time text and voice translator
+• AI-powered keyboard integration for all apps
+• Instant voice-to-text translation
+• Support for English, Chinese, Korean, Japanese, Spanish, and more languages
+• Works across all messaging and social media platforms
+• Speech recognition for natural conversation
+• Dictionary and language learning tools included
+• Native-quality translations of slang and expressions
+
+
+Privacy and Security:
+
+iOS requires all third-party keyboard apps to be granted full access in settings before use. While this is a system requirement, our translation app never collects personal information without your explicit permission.
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula 
+Privacy Policy: https://redbrid-7be14.web.app/policy.html",2025-02-07T08:00:00Z,2025-11-14T09:53:01Z
+dk,Denmark,Reference,6006,25,1045449080,Find Gravsted,EG,https://apps.apple.com/dk/app/find-gravsted/id1045449080?uo=4,0.0,2.5625,16,Reference,"Find gravsted giver mulighed for at søge gravsteder på en lang række danske kirkegårde. Søge mulighederne administreres af de kirkegårde der bidrager med data.
+På oversigtskortet er det muligt at se hvilke kirkegårde app'en kan benyttes på.
+Det er muligt at se aktuelle takster for kirkegårdens ydelser, kontaktoplysninger og adresse.
+Gravsteder kan søges frem ved hjælp af afdødes navne.
+Søgeresultat vil blive vist som afdødes navn, fødsels og dødsdato samt nr. på gravsted. Er gravstedets placering angivet på et kirkegårdskort vil placeringen kunne vises på app'ens kort.
+Befinder man sig på kirkegården vil telefonens indbyggede GPS kunne vise den aktuelle position i forhold til de markerede gravsteder.",2015-10-12T21:09:17Z,2023-09-03T14:25:45Z

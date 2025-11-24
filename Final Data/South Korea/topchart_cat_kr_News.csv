@@ -1,0 +1,891 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+kr,"Korea, Republic of",News,6009,1,333903271,X,X Corp.,https://apps.apple.com/kr/app/x/id333903271?uo=4,0.0,4.35403,244299,News,"X(구 트위터)에 오신 것을 환영합니다 — 신뢰할 수 있는 디지털 광장, 대화가 실시간으로 펼쳐지고 전 세계가 속보·라이브 이벤트·팟캐스트 등으로 연결되는 공간입니다.
+
+스포츠, 테크, 음악, 정치 등 무엇에 열정이 있든, X는 전 세계에서 지금 일어나는 일을 가장 앞자리에서 보게 해주는 무대입니다.
+
+X는 또 하나의 소셜 앱이 아닙니다. 제대로 정보를 얻고, 생각을 나누고, 커뮤니티를 만들기 위한 최적의 목적지입니다. X와 함께라면 관련 트렌드와 속보를 여과 없이 즉시 화면으로 받아 보며 언제나 흐름의 한가운데에 있을 수 있습니다.
+
+X에서 할 수 있는 일:
+• 전 세계의 속보를 헤드라인이 뜨기 전에 팔로우하고, 트렌드 주제와 급격히 확산되는 대화에 대한 실시간 업데이트로 한발 앞서가세요.
+• 생각, 사진, 동영상을 글로벌 커뮤니티와 공유하세요. 수백만 사용자와 함께 사회·문화·정치 전반의 공적 대화를 만들어 갑니다.
+• X의 실시간 데이터를 바탕으로 작동하는 AI 어시스턴트 ‘Grok’을 만나보세요. 유행 중인 뉴스를 요약해 달라거나, 동영상을 설명해 달라거나, 게시물의 추가 맥락을 알려 달라고 요청할 수 있습니다.
+• 라이브 비디오를 스트리밍하거나 X의 오디오 기능 ‘스페이스’로 생방송을 시작하세요. 토론을 열고, 인터뷰를 진행하거나, 다음 라이브 팟캐스트를 시작할 수 있습니다. 콘서트, 생중계 경기, 뜨거운 이슈 등 무엇이든 X가 청중의 몰입을 이끌어 줍니다.
+• 비디오 시청: 실시간 속보와 스포츠 클립부터 팟캐스트, 최대 3시간 길이의 게임 스트림까지. 코미디, 게임, 팟캐스트, 정치 등 다양한 분야의 세계적 크리에이터들이 X에서 콘텐츠를 공유합니다.
+• 다이렉트 메시지(DM)로 친구, 팔로워, 고객, 협업자와 비공개로 소통하세요.
+• 관심사에 맞춘 커뮤니티에 가입하거나 직접 만들어 보세요 — 스포츠 뉴스, 게임, 엔터테인먼트, 암호화폐(크립토), 창업, 테크 등.
+• X 프리미엄을 구독해 파란 인증 배지(블루 체크), 강화된 노출, 답글 우선순위, 더 적은 광고, 더 긴 동영상, 게시물 편집 등 독점 기능을 이용하세요. 또한 크리에이터 수익 배분에 참여하고 구독자에게 전용 콘텐츠를 제공할 수 있습니다.
+
+왜 X인가요?
+끊임없이 변화하는 세상에서 X는 한발 앞서 나갈 수 있게 해 주는 실시간 정보 허브이자 사람들과 연결되고 다양한 관점을 만나는 창입니다. 생중계 속보와 트렌딩 밈부터 인기 팟캐스트와 좋아하는 크리에이터의 라이브 스트림까지 — X는 강력한 하나의 소셜 경험으로 모두를 한데 모읍니다.
+
+접근 권한 안내
+
+X 앱은 다음과 같이 기기의 특정 기능에 대해 접근을 요청할 수 있습니다.
+
+필수적 접근 권한: 없음
+
+선택적 접근 권한:
+• 마이크: X에서 오디오 기반 기능을 이용하기 위해 사용하는 권한입니다(스페이스, 라이브, 챗봇).
+• 사진: X에서 사진을 공유하기 위해 사용하는 권한입니다.
+• 앱이 활동을 추적하도록 허용: 관심사를 반영한 게시물 및 광고를 표시하기 위해 사용하는 권한입니다.
+• 연락처: 친구 연결 및 팔로우 추천을 위해 사용하는 권한입니다.
+• 위치: 위치에 기반한 맞춤형 X 경험을 제공하기 위해 사용하는 권한입니다
+• 카메라: X에서 촬영한 사진 및 동영상을 게시하기 위해 사용하는 권한입니다.
+
+선택적 접근 권한의 허용에 동의하지 않더라도 기본 서비스는 계속 이용할 수 있습니다.
+
+개인정보 처리방침: https://x.com/privacy
+이용약관: https://x.com/tos",2009-10-09T19:50:00Z,2025-11-24T03:35:31Z
+kr,"Korea, Republic of",News,6009,2,737534965,블라인드 Blind,Teamblind inc,https://apps.apple.com/kr/app/%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-blind/id737534965?uo=4,0.0,4.4498,41016,News,"● 실시간 인기 글
+내가 열심히 일하고 온 사이, 다른 직장인들은 어떤 이야기에 주목했을까요? 당신이 놓친 인기 글, 블라인드가 깔끔하게 요약해 드립니다.
+
+● 관심 회사 팔로우하기
+관심 있는 회사를 팔로우하면, 그 회사가 언급된 블라인드의 모든 글을 모아볼 수 있어요. 현직자들이 쓴 기업 리뷰, 채용 뉴스 등도 곧 추가될 예정이에요.
+
+● 더 똑똑해진 검색
+검색 결과를 회사나 토픽별로 필터링해서 검색의 정확도를 높여보세요. 지금 한국 직장인들이 검색하고 있는 실시간 인기 검색어도 볼 수 있어요.
+
+● 현직자 리뷰
+현직자가 직접 평가한 그 회사의 진짜 기업 문화를 만나보세요. 더 궁금한 게 있을 땐, 언제든지 실시간 대화를 걸어 직접 대화할 수 있어요.
+
+● 안심하세요
+블라인드는 가입자의 어떤 정보도 서비스 내에 저장하지 않습니다. 잃어버리면 안 되는 것은 가지고 있지 않는다. 블라인드의 보안 철학입니다.
+
+● 선택적 접근 권한 안내
+블라인드 앱은 아래의 선택적 접근 권한을 요청합니다. 권한을 허용하지 않아도 서비스를 사용할 수 있습니다. 모든 권한은 설정 앱에서 끌 수 있습니다.
+
+ - 카메라 롤: 게시글에 이미지를 첨부하거나 첨부된 이미지를 기기에 저장할 때 필요합니다.
+ - 카메라: 게시글에 이미지를 첨부하기 위해 사진을 찍을 때 필요합니다. 
+ - 푸시 알림: 알림, 사운드 및 아이콘 배지를 받을 때 필요합니다. 
+
+● 클린피드 구독
+클린피드 특징: 
+- 글 목록에 광고가 표시되지 않습니다.
+- 보기 싫은 키워드가 포함된 게시물을 글 목록에서 숨겨줍니다.
+
+구독 안내:
+- 클린피드 아이템을 구독하는 경우 앱스토어 계정으로 결제 금액이 청구됩니다.
+- 구독은 자동 갱신되며, 현재 청구 기간이 종료되기 최소 24시간 전에 자동 갱신을 해제할 수 있습니다. 
+- 앱스토어 계정 설정에서 구독을 관리하고 언제든지 자동 갱신을 해제할 수 있습니다. 
+- 클린피드 아이템의 구독료는 월간 ₩8,900입니다. 구독료는 한국 원화 기준이며 실제 요금은 거주 국가에 따라 현지 통화로 변환될 수 있습니다.
+- 금액은 한국 이외의 국가에서는 다를 수 있으며 공지 없이 변경될 수 있습니다.
+- 클린피드 아이템 구독하지 않아도 계속하여 블라인드 서비스를 무료로 이용할 수 있습니다. 
+* 이용약관: https://kr.teamblind.com/setting/term
+
+----
+ ● 개인정보 취급방침: https://kr.teamblind.com/setting/privacy
+ ● 고객 지원: support@teamblind.com
+ ● 광고 문의: ads@teamblind.com
+
+* 고용노동부, 사업체 노동실태 현황 2019, 300인 이상 기업 상용 근로자 수 대비 해당 기업 가입자 수",2013-11-27T10:13:40Z,2025-11-18T22:41:41Z
+kr,"Korea, Republic of",News,6009,3,1064216828,Reddit,"REDDIT, INC.",https://apps.apple.com/kr/app/reddit/id1064216828?uo=4,0.0,4.79734,7757,News,"Welcome to Reddit, the heart of the internet.
+
+Reddit is a social network with something for everyone: trending topics, diverse discussions, and engaging communities and comment threads.
+
+Redditors have authentic and interesting conversations around all sorts of curated content. You’ll find gaming communities, bloggers, meme-makers, fandoms, travel enthusiasts, support groups, AI forums, news junkies, artists, and creators of all types.
+
+Reddit has over 100,000 online communities (forums where members post and comment) dedicated to specific topics. Some of the most popular communities are:
+• r/AskReddit, where users can ask and answer questions
+• r/funny, which is full of humorous content
+• r/science, for scientific discussions and news
+• r/gifs, with funny animated gifs for your viewing pleasure
+
+On Reddit you’ll find:
+• Thousands of community groups
+Breaking news, social media trends, sports highlights, TV fan theories, open AI discussions and personalized content, there's a community for everyone.
+
+• Loads of laughs
+Find memes, oddly satisfying videos, funny cat videos, and more to help you lose track of time.
+
+• AMAs, or ""Ask Me Anything""
+Celebrities, politicians, and experts answer questions from users.
+
+• The best discussions on any topic
+Reddit’s discussion threads are where community members jump in with humor and insights for just about anything; pop culture, sports, entertainment, or financial advice.
+
+• Get answers to anonymous questions 
+Ask communities anything you want. Ask questions on relationships, mental health, parenting, career help, fitness plans, and more.
+
+• Anonymous profiles so you can do YOU
+Connect with people about any topic, join interactive community groups or threads, and chat with other redditors, all anonymously.
+
+Voting and Karma:
+
+Instead of likes and hearts, Reddit’s social network runs on upvotes or downvotes. Voting on posts and comments increase or decrease the creator’s karma, and helps popular and relevant posts rise to the top, while filtering out low-quality or irrelevant posts.
+
+While karma doesn't directly impact your ability to use Reddit, more karma can increase posts’ visibility and help you get noticed. Some communities require karma to post or comment, which helps prevent spam or low-quality content.
+
+Reddit Premium:
+
+Purchase Reddit Premium to enjoy an ads-free experience and access to premium avatar gear, r/lounge, custom app icons, and more.
+
+Payment will be charged on a recurring monthly or annual basis to your Apple account. Your monthly or annual Premium subscription will automatically renew unless you cancel at least 24 hours before your subscription ends. Cancel anytime in your device’s Account Settings. No partial refunds.
+
+Privacy Policy: https://www.redditinc.com/policies/privacy-policy 
+User Agreement: https://www.redditinc.com/policies/user-agreement 
+Reddit Rules: https://redditinc.com/policies/reddit-rules
+
+If you have any problems with the app, get support at RedditHelp.com",2016-05-18T06:01:47Z,2025-11-21T01:07:14Z
+kr,"Korea, Republic of",News,6009,4,365494029,다음 - Daum,Kakao Corp.,https://apps.apple.com/kr/app/%EB%8B%A4%EC%9D%8C-daum/id365494029?uo=4,0.0,2.65864,1620,News,"새롭게 개편한 다음앱의 하단 탭에서 더 넓어진 콘텐츠 세상을 지금 만나보세요.
+
+▶ 필요한 콘텐츠만 딱 모아놓은 피드 없을까?
+[ 홈 ] 탭에서 속보, 증시, 날씨 등 실시간 정보부터
+이슈를 빠르게 캐치하는 AI 이슈 브리핑까지
+내게 꼭 필요한 정보를 다음앱 하나로 해결하세요.
+[ 홈 ] 탭의 스크롤을 내려 끝없이 이어지는
+취향 저격 콘텐츠를 만나보세요.
+
+▶ 나에게 꼭 맞는 AI 콘텐츠 추천 서비스 없을까?
+[ 디디 ] 와 함께라면 당신에게 꼭 맞는 콘텐츠를 쉽고 빠르게 찾을 수 있어요.
+관심사, 콘텐츠 소비 성향 등을 분석해
+더 정교하고 몰입감 있는 콘텐츠 경험을 약속할게요.
+지금 바로 [ 홈 탭 ]에서 당신을 기다리는 콘텐츠를 확인하세요.
+
+▶ 나만 못 본 정보, 지금 핫한 이슈를 모두 챙겨 보고 싶다면?
+[ 콘텐츠 ] 탭에서 지금 막 나온 최신 이슈,
+주요 이슈를 종합적으로 읽어보는 주요 뉴스, 
+많은 이용자가 꼼꼼히 본 뉴스까지
+다양한 주제별 콘텐츠를 놓치지 마세요.
+
+▶ 지금, 다음 이용자들은 무슨 생각할까?
+[ 커뮤니티 ] 탭에서 이 시각, 모두의 관심사가 모여요.
+내 취향과 관심사, 그리고 핫한 화젯거리까지
+당신의 진솔한 이야기를 들려주세요.
+
+▶ 트렌드와 시즌 이슈를 담은 쇼핑 리스트!
+[ 쇼핑 ] 탭에서 매일 새로운 인기 상품과 쇼핑 트렌드를 만나보세요.
+파격 할인 상품부터 요즘 유행템까지
+똑똑한 쇼핑 큐레이션으로 쏠쏠한 쇼핑을 즐기세요.
+
+▶ 건강한 숏폼 콘텐츠로 하루를 채우세요! 
+[ 루프 ] 탭에서 몰입감 넘치는 숏폼 콘텐츠를 시청하세요. 
+유머, 뉴스, 정보 그리고 힐링까지
+트렌디하고 유익한 콘텐츠로
+당신의 시간을 더 풍요롭게 만들어보세요.
+
+▶ 출석만 해도 포인트가 적립돼요!
+[ 혜택플러스 ] 에서 매일 출석 체크만 하면
+카카오페이포인트를 드려요.
+쓰면 쓸수록 플러스가 되는 다음앱을 지금 사용해보세요.
+
+▶ 이 꽃, 그 책, 지금 이 노래 뭐지?
+[ 특수검색 ] 기능은 검색창 속 오른쪽에 위치한
+아이콘을 눌러 이용할 수 있어요.
+'꽃 검색'으로 길가에서 본 꽃의 이름을,
+'코드 검색'으로 궁금했던 책의 정보를,
+'음악 검색'으로 카페에 흘러나오는 음악 제목을 알려드려요.
+세상의 모든 지식이 궁금할 때 다음앱을 켜보세요.
+
+● 이용 안내
+· 다음앱은 iOS 16 이상의 버전을 지원합니다.
+이용자 여러분의 개인정보를 보호하고 안정적으로 서비스 품질을 향상시키기 위한 조치입니다.
+· 다음앱의 동영상과 음악 콘텐츠는 자동 재생되도록 초기 설정되어 있습니다. 무선 데이터(LTE, 5G 등) 환경에서 자동 재생되는 것을 원치 않을 경우, [더 보기] > [설정] > [미디어 자동 재생] 에서 변경해 주세요.
+
+● 선택적 접근 권한 안내
+다음앱에서 요청하는 모든 권한은 선택적 접근 권한으로, 동의하지 않아도 서비스를 이용할 수 있습니다.
+
+· 위치 : 현재 위치에 기반한 검색 결과, 날씨, 웹사이트에서 위치 정보 표기(지도에 현 위치 표시 등)
+· 카메라 : 특수 검색하거나 다음앱을 통해 진입한 웹페이지에서 카메라 이용
+· 마이크 : 음성 검색, 음악 검색하거나, 다음앱을 통해 진입한 웹페이지에서 녹음 기능 이용
+· 사진 : 파일, 이미지 다운로드 및 업로드
+· 알림 : 날씨, 메일, 카페 등 콘텐츠 알림 제공
+
+● 다음앱을 만드는 사람들
+· 사업자/개발사 : Kakao Corp.
+· 이메일 : daum_app@kakaocorp.com
+· 대표전화 : 1577-3321",2010-04-09T16:31:46Z,2025-11-24T02:28:28Z
+kr,"Korea, Republic of",News,6009,5,6667097167,뉴스보이 - 매일 분야별 TOP 10 뉴스 보기,curved road,https://apps.apple.com/kr/app/%EB%89%B4%EC%8A%A4%EB%B3%B4%EC%9D%B4-%EB%A7%A4%EC%9D%BC-%EB%B6%84%EC%95%BC%EB%B3%84-top-10-%EB%89%B4%EC%8A%A4-%EB%B3%B4%EA%B8%B0/id6667097167?uo=4,0.0,4.93269,312,News,"◎ 뉴스보이의 기사는 어떻게 제공되나요?
+• AI를 통해 전체 언론사의 기사를 종합하고 분석하여, 가장 중립적이고 핵심적인 내용을 알려드려요.
+• 가장 중요하게 다뤄지는 '빅 이슈 뉴스'와 '나에게 딱 맞는 뉴스'를 제공해요 
+
+◎ 뉴스보이는 어떻게 뉴스를 빠르고 쉽게 읽게 하나요?
+• 실제 신문을 읽는 것처럼 헤드라인과 핵심 요약만 보고 휙휙 넘기며, 쉽고 빠르게 읽을 수 있어요
+• 관심 있는 뉴스는 상세한 기사로 더 자세히 읽을 수 있어요 
+
+◎ 뉴스 내용을 더 오래 기억하는 방법은 무엇인가요?
+• 뉴스를 보고 퀴즈를 풀며, 한번 읽은 뉴스를 더 오래 기억하도록 해요
+
+◎ 어떻게 뉴스를 매일 읽게 되나요?
+• 매일 퀴즈 미션을 달성하며, 출석도장을 모두 채워봐요!",2024-09-26T07:00:00Z,2025-11-20T05:05:02Z
+kr,"Korea, Republic of",News,6009,6,1469507774,현대카드 DIVE,"Hyundaicard Co.,Ltd.",https://apps.apple.com/kr/app/%ED%98%84%EB%8C%80%EC%B9%B4%EB%93%9C-dive/id1469507774?uo=4,0.0,4.21628,1609,News,"놀면 놀수록 빠져드는 컬처 앱 DIVE
+
+· 날마다 업데이트되는 취향 맞춤 컬처 트렌드 정보
+
+· 가장 먼저 확인하는 슈퍼콘서트, 다빈치모텔 등 현대카드 컬처 행사 소식
+
+· 에어비앤비, 무신사 등 힙한 브랜드와 함께 하는 컬래버레이션 콘텐츠
+
+· 팬 메이드 라이브 등 오직 DIVE에서만 만날 수 있는 Exclusive한 이벤트 
+
+· DIVE만 있으면 현대카드 라이브러리 무료 입장
+
+[DIVE 앱 이용을 위한 접근 권한 안내]
+* 선택 접근 권한은 동의하지 않아도 앱 이용이 가능합니다.
+· 카메라(선택)
+ - 이미지 검색 및 프로필 사진 촬영
+· 사진(선택)
+ - 이벤트 참여, 프로필 사진 및 방문 인증 등록
+· 위치(선택)
+ - 위치기반 정보 제공
+· 알림(선택)
+ - 예약확인, 이벤트 당첨알림 정보, 관심 콘텐츠 추천 등 제공
+
+* iOS 14.0 버전 이상에서 이용 가능
+* 앱 사용 오류 문의: DIVE@hcs.com (1577-6000)",2019-07-26T07:00:00Z,2025-11-05T19:16:29Z
+kr,"Korea, Republic of",News,6009,7,1582601644,"코인니스 -  빠르고 정확한 코인 투자 뉴스, 커뮤니티",Pointex LLC,https://apps.apple.com/kr/app/%EC%BD%94%EC%9D%B8%EB%8B%88%EC%8A%A4-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%A0%95%ED%99%95%ED%95%9C-%EC%BD%94%EC%9D%B8-%ED%88%AC%EC%9E%90-%EB%89%B4%EC%8A%A4-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/id1582601644?uo=4,0.0,3.29148,223,News,"코인니스와 함께 새로운 암호화폐 투자 경험을 쌓아보세요.
+
+코인니스는 한국 암호화폐 투자자들이 가장 많이 사용하고 있는 NO.1 투자 정보 앱입니다. 실시간 글로벌 암호화폐 뉴스와 함께 시세, SNS 정보 등 투자에 필요한 모든 정보를 제공함으로써 색다른 거래 경험을 제공하고 있습니다. 숨가쁘게 움직이는 블록체인 산업과 암호화폐 투자 시장의 길라잡이가 되겠습니다.
+
+[주요기능]
+
+1. 24시간 라이브 속보 
+투자 시장에 최적화된 글로벌 모니터링 시스템으로 발굴한 전세계 미디어, 커뮤니티, 정책, 기업 공식 홈페이지의 가치있는 암호화폐 투자 정보. 핵심 정보만 간추려 24시간 쉬지 않고 정리합니다. 하루 평균 약 200건의 투자 정보를 생산합니다. 
+  - Quick order : 뉴스를 보고 이미 상승 중인 차트를 손놓고 보는 것은 이제 그만! 뉴스를 보고 바로 거래할 수 있는 Quick order 기능을 제공합니다. 내가 자주 쓰는 거래소를 연동만 하면 OK
+
+2. 뉴스룸
+주요 미디어의 암호화폐 및 블록체인 최신 뉴스 및 실시간 이슈를 모아서 볼 수 있습니다.
+
+3. 마켓
+암호화폐 투자에 도움이 되는 마켓 데이터를 보기 쉽게 정리해 제공합니다.
+1) 코인 : 국내·외 거래소의 암호화폐 가격과 데이터를 한눈에 볼 수 있습니다.
+2) 테마 : 각종 테마별 암호화폐와 테마 관련 뉴스를 정리해서 볼 수 있습니다.
+3) 김프 : 국내·외 거래소의 가격차이를 확인할 수 있습니다.
+4) 일정 : 다가오는 업계 이슈들을 확인할 수 있습니다.
+5) 선물 : 암호화폐 선물 관련 데이터를 확인할 수 있습니다.
+
+4. 라이브
+관심있는 전세계 암호화폐 프로젝트, 전문가, 인플루언서의 SNS 채널을 선택하고 소식을 실시간으로 받아 볼 수 있습니다.
+
+5. 커뮤니티
+나 홀로 하는 코인 투자는 그만! 암호화폐 업계 내 다양한 프로젝트, 거래소, 리서치 기관, 전문가가 자유롭게 자신의 콘텐츠를 업로드하고, 투자자들과 자유롭게 소통할 수 있는 공간입니다.
+1) 라운지 : 누구나 글을 쓰고 다른 투자자들과 소통할 수 있습니다.
+2) 전문가 : 흩어져있는 전문가의 콘텐츠를 한 번에 모아서 볼 수 있습니다.
+
+6. 펄
+코인니스 서비스 활동 보상 '펄'을 각종 이벤트를 통해 획득하고 펄 스토어에서 마음껏 사용할 수 있습니다. 
+
+7. 에어드롭 
+코인에서 돈될만한 것들이 다 모여있다. 잠재 에어드롭 미션 뿐 아니라 수익을 얻을 수 있는 거래소, 프로젝트의 이벤트를 모았습니다.
+
+8. 코인용어사전 
+어려운 코인 용어들, 이제 걱정하지 않으셔도 됩니다. 뉴스나 정보를 습득하다가 모르는 단어가 있다면 코인니스 코인용어사전을 활용해보세요.
+
+9. 고객지원
+24시간 친절한 고객응대를 제공합니다. 또한, 코인니스의 업데이트와 변경 내역을 자세히 볼 수 있는 공지사항과 모르던 기능까지 속속히 알 수 있는 이용가이드를 볼 수 있습니다.
+ 
+ 
+ 	
+코인니스와 함께 새로운 암호화폐 투자 경험을 쌓아보세요.
+
+코인니스는 한국 암호화폐 투자자들이 가장 많이 사용하고 있는 NO.1 투자 정보 앱입니다. 실시간 글로벌 암호화폐 뉴스와 함께 시세, SNS 정보 등 투자에 필요한 모든 정보를 제공함으로써 색다른 거래 경험을 제공하고 있습니다. 숨가쁘게 움직이는 블록체인 산업과 암호화폐 투자 시장의 길라잡이가 되겠습니다.
+
+[주요기능]
+
+1. 24시간 라이브 속보 
+투자 시장에 최적화된 글로벌 모니터링 시스템으로 발굴한 전세계 미디어, 커뮤니티, 정책, 기업 공식 홈페이지의 가치있는 암호화폐 투자 정보. 핵심 정보만 간추려 24시간 쉬지 않고 정리합니다. 하루 평균 약 200건의 투자 정보를 생산합니다. 
+  - Quick order : 뉴스를 보고 이미 상승 중인 차트를 손놓고 보는 것은 이제 그만! 뉴스를 보고 바로 거래할 수 있는 Quick order 기능을 제공합니다. 내가 자주 쓰는 거래소를 연동만 하면 OK
+
+2. 뉴스룸
+주요 미디어의 암호화폐 및 블록체인 최신 뉴스 및 실시간 이슈를 모아서 볼 수 있습니다.
+
+3. 마켓
+암호화폐 투자에 도움이 되는 마켓 데이터를 보기 쉽게 정리해 제공합니다.
+1) 코인 : 국내·외 거래소의 암호화폐 가격과 데이터를 한눈에 볼 수 있습니다.
+2) 테마 : 각종 테마별 암호화폐와 테마 관련 뉴스를 정리해서 볼 수 있습니다.
+3) 김프 : 국내·외 거래소의 가격차이를 확인할 수 있습니다.
+4) 일정 : 다가오는 업계 이슈들을 확인할 수 있습니다.
+5) 선물 : 암호화폐 선물 관련 데이터를 확인할 수 있습니다.
+
+4. 라이브
+관심있는 전세계 암호화폐 프로젝트, 전문가, 인플루언서의 SNS 채널을 선택하고 소식을 실시간으로 받아 볼 수 있습니다.
+
+5. 커뮤니티
+나 홀로 하는 코인 투자는 그만! 암호화폐 업계 내 다양한 프로젝트, 거래소, 리서치 기관, 전문가가 자유롭게 자신의 콘텐츠를 업로드하고, 투자자들과 자유롭게 소통할 수 있는 공간입니다.
+1) 라운지 : 누구나 글을 쓰고 다른 투자자들과 소통할 수 있습니다.
+2) 전문가 : 흩어져있는 전문가의 콘텐츠를 한 번에 모아서 볼 수 있습니다.
+
+6. 펄
+코인니스 서비스 활동 보상 '펄'을 각종 이벤트를 통해 획득하고 펄 스토어에서 마음껏 사용할 수 있습니다. 
+
+7. 에어드롭 
+코인에서 돈될만한 것들이 다 모여있다. 잠재 에어드롭 미션 뿐 아니라 수익을 얻을 수 있는 거래소, 프로젝트의 이벤트를 모았습니다.
+
+8. 코인용어사전 
+어려운 코인 용어들, 이제 걱정하지 않으셔도 됩니다. 뉴스나 정보를 습득하다가 모르는 단어가 있다면 코인니스 코인용어사전을 활용해보세요.
+
+9. 고객지원
+24시간 친절한 고객응대를 제공합니다. 또한, 코인니스의 업데이트와 변경 내역을 자세히 볼 수 있는 공지사항과 모르던 기능까지 속속히 알 수 있는 이용가이드를 볼 수 있습니다.",2021-10-05T07:00:00Z,2025-11-24T01:20:31Z
+kr,"Korea, Republic of",News,6009,8,612769954,팟빵,PODBBANG,https://apps.apple.com/kr/app/%ED%8C%9F%EB%B9%B5/id612769954?uo=4,0.0,3.77967,1466,News,"국내 오디오(팟캐스트) 플랫폼 1위 '팟빵'
+
+교양, 예능, 시사, 경제, 어학, 스포츠 등 다양한 장르의 팟캐스트, 
+작가 그리고 전문 성우, 연예인이 직접 읽어주는 오디오북, 그리고 경제, 역사 등 다양한 주제를 다루는 강연까지
+독보적인 오디오 플랫폼 팟빵을 지금 바로 만나 보세요!
+
+■ 팟빵 Only! 매거진 서비스
+오직 팟빵에서만! 김어준, 김혜리 등 분야 최고 인물들이 만드는 월간 오디오 매거진.
+한 번의 구독으로 매월 밀도있는 콘텐츠를 경험하세요.
+오디오와 함께 사진과 그림, 텍스트 등 다양한 미디어가 풍부하게 제공됩니다.
+
+■ 세상의 모든 지식과 재미, 팟빵에는 다~ 있다!
+  - 출퇴근길의 동반자 예능 콘텐츠
+  - 영어, 일본어, 중국어 등의 문법, 회화 공부에 안성맞춤 어학 콘텐츠
+  - 정치부터 사회 이슈를 제일 먼저 만날 수 있는 시사 콘텐츠
+  - 부자 되는 재테크가 궁금하다면 꼭 들어야 하는 경제 콘텐츠
+  - 책 읽을 시간이 없다면? 온 가족이 즐길 수 있는 도서 콘텐츠
+  - 꼭 알아야 하는 지식, 역사를 쉽게 들을 수 있는 교양 콘텐츠
+  - 야구, 축구, 농구, WWE까지! 스포츠 마니아들을 위한 스포츠/레저 콘텐츠
+  - 지금 제일 핫한 영화, 음악, 예술 등 다양한 대중문화 콘텐츠
+  - KBS, SBS 등 지상파부터 TBS 등의 종편까지 방송국 다시 듣기 콘텐츠
+  - 개신교, 불교, 천주교 등 마음을 평화롭게 하는 종교 콘텐츠
+
+■ 마음까지 힐링 되는 명품 오디오북
+청하, 하성운, 정세운, 라비, 위키미키 등 아이돌이 읽어주는 오디오북부터 
+최민식, 강부자, 문소리 등 국내 탑 배우 103명이 낭독한 한국소설 걸작 100편,
+숨 쉴 틈 없이 이어지는 스토리의 미스터리 오디오북까지! 이제 귀로 독서하세요
+
+■ 베스트 강사진의 프리미엄 강연!
+강연 듣고 싶은데 시간이 없어서 망설이셨다면, 시간과 장소에 구애받지 않는 팟빵 강연이 정답!
+휴먼밸류, 오마이스쿨, 마이크임팩트까지 국내 TOP 강연을 팟빵에서 만날 수 있습니다.
+
+
+--------------------------
+
+※ 접근 권한 안내
+
+[필수적 접근 권한]
+팟빵 서비스 사용에 대해 필요한 필수 접근 권한입니다. 허용하지 않을 시 서비스 이용이 불가능 합니다.
+· 전화 : 사용자 인증 상태를 유지하고 서비스를 지속적으로 확인하기 위해 필요한 권한입니다.
+· 저장공간 : 1:1문의 및 댓글/게시판에 이미지를 첨부하고, 에피소드 다운로드를 위해 필요한 권한 입니다.
+ 
+[선택적 접근 권한]
+선택적 접근 권한은 해당 기능을 사용할 때 허용이 필요하며, 비허용 시에도 서비스 이용이 가능합니다.
+· 카메라 : 사진 촬영/첨부를 위해 필요한 권한입니다.
+
+--------------------------------------
+개발자 연락처:
+1644-8080
+서울시 마포구 와우산로 29길 42
+help@podbbang.com",2013-03-29T01:25:57Z,2025-11-16T16:01:29Z
+kr,"Korea, Republic of",News,6009,9,1549450444,뉴닉 - 지식 플랫폼,"Newneek.Co.,Ltd",https://apps.apple.com/kr/app/%EB%89%B4%EB%8B%89-%EC%A7%80%EC%8B%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC/id1549450444?uo=4,0.0,4.15273,825,News,"세상이 궁금한 마음은 넘쳐나도,
+쏟아지는 정보 속에서 어떤 것부터 봐야 할지 모르겠다면?
+뉴닉에서 세상 소식을 더 쉽고 빠르게 만나보세요!
+
+- 시간없슴? 오늘 꼭 알아야 할 소식만 골라 요약해 드려요.
+- 365일 지금 뜨는 새로운 뉴스를 쉽고 빠르게 전달해요.
+- 시사를 넘어 경제, 테크, 인문학 등 혼자 알기 어려운 분야도 알기 쉽게 정리했어요.
+- 관심 있는 주제의 지식을 뉴니커와 함께 이야기해요.
+- 읽었던 콘텐츠 기억이 잘 안 난다고요? 뉴닉 퀴즈 풀고, 이번 주 어떤 소식이 있었는지 돌아볼 수 있어요.
+- 봤던 콘텐츠, 나중에 또 보고 싶다면? 저장해두고 언제든 다시 돌아와 편히 이어 볼 수 있어요.
+- 과거의 정보나 이슈가 궁금했나요? 예전 콘텐츠도 쉽게 검색할 수 있어요.
+
+진짜 알고 싶었던 지식부터 더 넓은 눈으로 세상을 이해할 수 있는 뉴스까지, 이제 뉴닉만 챙겨봐도 충분해요!
+
+웹사이트: https://newneek.co/
+인스타그램: https://www.instagram.com/newneek.official/
+트위터: https://twitter.com/newneek_co/
+
+[문의 및 약관]
+서비스 이용약관: https://newneek.co/terms-of-service
+개인정보처리방침: https://newneek.co/privacy-policy
+사용권 계약: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-01-08T08:00:00Z,2025-11-12T01:26:00Z
+kr,"Korea, Republic of",News,6009,10,6748309466,다시 스탠드 : 다양한 시각의 뉴스 스탠드,BEOMSEOK CHUNG,https://apps.apple.com/kr/app/%EB%8B%A4%EC%8B%9C-%EC%8A%A4%ED%83%A0%EB%93%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%8B%9C%EA%B0%81%EC%9D%98-%EB%89%B4%EC%8A%A4-%EC%8A%A4%ED%83%A0%EB%93%9C/id6748309466?uo=4,0.0,4.83333,12,News,"다시 스탠드 - 다양한 시각의 뉴스 스탠드
+
+바쁜 일상 속에서도 균형 잡힌 뉴스를 읽고 싶으신가요?
+
+다시 스탠드는 국내 주요 언론사 18곳의 기사를 실시간으로 수집하여, 같은 이슈를 다룬 서로 다른 보도를 한 화면에서 비교할 수 있게 해드립니다. AI가 각 매체의 핵심 논점을 요약하고, 보수·진보·중도 성향별 관점 차이를 명확히 정리해드립니다.
+
+주요 기능:
+
+- 18개 주요 언론사 실시간 뉴스 수집
+
+- 동일 이슈 다각도 분석 및 비교
+
+- 성향별 보도 차이점 시각화
+
+- 개인 맞춤 이슈 알림
+
+- 놓친 중요 뉴스 추천
+
+이제 한쪽 시각에 갇히지 않고, 모든 관점을 종합해서 판단하는 똑똑한 뉴스 읽기를 시작해보세요.
+
+현대인들은 하루에도 수십 개의 뉴스를 접하지만, 정작 진실에 가까운 정보를 얻기는 점점 어려워지고 있습니다. 같은 사건도 언론사마다 완전히 다르게 보도하고, 우리는 모르는 사이 특정 관점에만 노출되어 편향된 시각을 갖게 됩니다.
+
+여러 뉴스 앱을 오가며 다양한 관점을 찾아보려 해도, 시간은 부족하고 어떤 정보가 객관적인지 판단하기 어렵습니다. 특히 중요한 이슈일수록 언론사별 입장 차이가 크게 나타나는데, 이런 차이를 체계적으로 비교할 수 있는 도구가 절실했습니다.
+
+다시 스탠드만의 특별한 해결책
+
+1. 전방위 정보 수집
+
+대한민국을 대표하는 18개 언론사의 기사를 24시간 실시간으로 수집합니다. 놓치는 이슈 없이 모든 관점을 담아냅니다.
+
+2. AI 기반 다각도 분석
+
+단순히 기사를 나열하는 것이 아니라, 같은 이슈를 다룬 서로 다른 보도를 AI가 분석하여 핵심 논점을 추출하고 정리합니다. 각 언론사가 강조하는 포인트, 사용하는 표현, 생략하거나 강조하는 정보까지 세밀하게 비교 분석합니다.
+
+3. 성향별 관점 맵핑
+
+언론학 전문가들이 분류한 각 언론사의 정치적·경제적 성향을 바탕으로, 보수·진보·중도 관점에서 동일한 이슈가 어떻게 다르게 해석되는지 시각적으로 보여줍니다. 이를 통해 사용자는 자신이 평소 접하지 못했던 관점도 균형 있게 이해할 수 있습니다.
+
+4. 개인화된 뉴스 큐레이션
+
+사용자의 관심 분야와 읽기 패턴을 학습하여, 중요하지만 놓칠 수 있는 이슈를 개인별로 추천합니다. 평소 보수 매체만 읽는 사용자에게는 진보 매체의 다른 관점을, 진보 매체를 주로 보는 사용자에게는 보수 매체의 시각을 균형 있게 제공합니다.
+
+다시 스탠드와 함께하는 새로운 뉴스 경험
+
+더 이상 한쪽 시각에 갇힌 정보에 만족하지 마세요. 다시 스탠드는 여러분이 진정으로 균형 잡힌 시각을 가질 수 있도록, 모든 관점을 투명하게 제시하고 객관적인 판단을 도울 것입니다.
+
+복잡하고 혼란스러운 정보의 바다에서, 진실에 한 걸음 더 가까이 다가갈 수 있는 나침반이 되겠습니다. 지금 바로 다시 스탠드와 함께 새로운 뉴스 읽기를 시작해보세요.
+
+서비스 이용약관: https://passiondevelopers.github.io/docs_hosting/%EC%95%BD%EA%B4%80.html
+라이선스(EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+개인정보 처리방침: https://passiondevelopers.github.io/docs_hosting/privacy-policy-dasi-stand.html",2025-07-21T07:00:00Z,2025-11-17T13:15:17Z
+kr,"Korea, Republic of",News,6009,11,969867489,tbn,Korea Road Traffic Authority,https://apps.apple.com/kr/app/tbn/id969867489?uo=4,0.0,2.87097,31,News,"tbn 교통방송은 한국도로교통공단에서 운영하는 국내 유일 교통안전 전문방송으로서 전국 단위 라디오 네트워크를 운영하고 있습니다.
+● 서비스 구성
+교통방송 - 전국의 교통방송 청취 및 참여하기
+▶ 부산, 광주, 대구, 대전, 경인, 강원, 전북,
+경남, 울산, 경북, 제주, 충북, 충남 FM 방송듣기
+▶ 교통정보 : 주요 도시 및 고속도로의 실시간 교통정보 제공
+▶ 교통제보 : 실시간 교통제보
+▶ 글로 보는 라디오 : 라디오 방송 실시간 자막 제공
+● 주의사항
+- 무선인터넷(Wi-Fi)에서 사용을 권장합니다.
+5G 혹은 LTE망에서는 데이터 통화료가 부과될 수 있습니다.
+- 사용하다가 갑자기 종료되었을 경우 OS내에서 충돌이 발생했을 수 있습니다. 완전히 껐다가 다시 열었는데도 문제가 계속 발생한다면 앱을 삭제한 다음 다시 설치하여 보십시오.
+- 방송이 나오지 않은 경우 무선인터넷(Wi-Fi)이 떠도 실제로는 연결이 안되어 있는 경우가 있습니다. 5G 혹은 LTE로 접속하여 다시 실행하여 보세요.
+◈문의
+이메일 : dong3026@koroad.or.kr",2015-03-09T21:10:54Z,2025-07-15T07:23:16Z
+kr,"Korea, Republic of",News,6009,12,6450910866,롱블랙 LongBlack,"Time & Co., Ltd",https://apps.apple.com/kr/app/%EB%A1%B1%EB%B8%94%EB%9E%99-longblack/id6450910866?uo=4,0.0,3.96667,150,News,"하루 한 번의 성장, 롱블랙을 
+이제 앱에서 만나요.
+
+롱블랙 앱이 리뉴얼 되었어요!
+
+● 매일 오전, 앱으로 읽는 오늘의 노트! 빠르고 간편하게 만나요.
+
+● 원하는 요일, 시간에 노트 알림을 받아보세요. 
+롱블랙 노트로 매일의 루틴을 만들고 감각적인 습관을 더해보세요.
+
+
+롱블랙을 소개합니다.
+
+“감각의 시대, 감각적인 콘텐츠”
+
+오늘날 비즈니스에서 결정적 차이를 만들어내는 감각.
+롱블랙은 가장 트렌디한 비즈니스 이야기를 전합니다.
+
+“오늘이 지나면 사라지는 구독 서비스”
+하루에 하나, 오늘의 노트는 오늘만 읽을 수 있어요.
+매일 좋은 글을 읽는 습관을 가져보세요.
+
+지금 롱블랙과 함께 하루 한 번의 성장을 시작하세요.",2023-10-21T07:00:00Z,2025-07-28T04:32:07Z
+kr,"Korea, Republic of",News,6009,13,1581650857,Substack,Substack Inc.,https://apps.apple.com/kr/app/substack/id1581650857?uo=4,0.0,4.87992,508,News,"Substack is a new media app that connects you with the creators, ideas, and communities you care about most.
+- Support the creators you love: Subscribe for free or upgrade to view original work and connect directly with your favorite writers, artists, and podcasters.
+- Enjoy ad-free videos and podcasts: Access short-form clips, video episodes, and  read-aloud articles without interruptions.
+- Connect in real time: Join livestreams and live group chats, where top creators bring their biggest supporters into their world. 
+- Explore independent ideas: Discover bold opinions and engaging views across food, sports, politics, fashion, comedy, finance, and more.
+
+How it works:
+1. Download the Substack app.
+2. Claim your handle.
+3. Explore the feed to enjoy notes, videos, and clips from creators. 
+4. Subscribe to your favorites for free, tune into their livestreams and join private group chats.",2022-03-08T08:00:00Z,2025-11-17T17:28:36Z
+kr,"Korea, Republic of",News,6009,14,331786748,CNN: Live & Breaking News,"CNN Interactive Group, Inc.",https://apps.apple.com/kr/app/cnn-live-breaking-news/id331786748?uo=4,0.0,4.74118,7090,News,"The CNN app is your destination for unrivaled, fact-based reporting. Stay informed at every turn as the story breaks through short-form videos, interactives, articles, podcasts, live audio and more. Easily discover the day's top news from politics, health, world news, climate and beyond.
+
+Download the CNN app to start making sense of the world today.
+
+START STREAMING THE CNN EXPERIENCE TODAY.
+Now watch unlimited streaming, including 24/7 global news, daily programs from trusted journalists, award-winning shows and films, and more.
+
+FOLLOW LIVE UPDATES.
+Set custom alerts and notifications so you can follow developing stories. Our ""live update"" articles evolve as the news comes in, giving you accurate updates as they happen.
+
+WATCH THE STORY UNFOLD.
+See it for yourself with CNN’s live video or be in the know quickly with CNN Shorts.
+
+STAY SHARP WITH EXPERT INSIGHTS.
+Delivering in-depth analysis and context that matters from award-winning journalists, so you're prepared for what's next.
+
+DIVE DEEPER WITH LIVE REPORTING.
+Enjoy a 5-minute preview of CNN live. Unlock unlimited viewing, including CNN's original series and documentary collection, CNN, CNN International, and HLN by logging into your TV provider. Stay caught up with video clips, no login necessary.
+
+TAKE A BREAK.
+From travel and style news to the latest in entertainment, discover feel-good stories and get a daily dose of positivity.
+
+LISTEN TO STAY CONNECTED.
+Listen to top headlines anywhere you go with live audio from CNN, CNN en Español, CNN International and HLN. Hear the week's biggest and most talked-about stories with the ""1 Thing"" podcast.
+ 
+DIGITAL SUBSCRIPTION (Available in the United States)
+All Access plan - The premium CNN experience: streaming, exclusive videos, articles, and more.
+• 24/7 global news
+• Live coverage
+• Exclusive videos
+• Original series
+• Award-winning films
+• Unlimited articles
+
+Basic plan - The basic CNN experience
+• Unlimited articles
+
+Your subscription will automatically renew at the then-current price of your plan unless you cancel at least 24 hours before the renewal. Your App Store account will automatically be charged at the same price for renewal within 24 hours prior to the end of your current subscription period. You can manage your subscription by visiting the App Store or under Settings on your Apple device.
+
+By downloading the CNN app, you agree to:
+CNN Terms of Service:
+https://www.cnn.com/2014/01/17/cnn-info/interactive-legal/index.html
+CNN Privacy Policy:
+https://www.cnn.com/privacy",2010-12-14T06:20:13Z,2025-11-10T18:09:20Z
+kr,"Korea, Republic of",News,6009,15,1385502150,中国领事,"Ministry of Foreign Affairs, PRC",https://apps.apple.com/kr/app/%E4%B8%AD%E5%9B%BD%E9%A2%86%E4%BA%8B/id1385502150?uo=4,0.0,2.76364,55,News,"“中国领事”手机APP是外交部发布领事资讯、提供领事证件业务办理和服务的新媒体平台，由外交部领事司开发并运行维护。
+
+“中国领事”手机APP权威发布海外安全提醒、领事新闻和通知公告，开通中国驻外使领馆及外交部驻香港、澳门特派员公署护照、旅行证线上办理，海外遗失护照应急旅行证办理，领事认证查验，海外养老金资格认证等领事证件业务，实现线上支付，同时提供一键呼叫全球领事保护与服务应急呼叫中心12308热线等便捷服务。让海外同胞一键直达驻外使领馆，实现“掌上办”、“零跑腿”，“全天候”在线办理海外中国公民的旅行证件和领保服务。",2018-08-15T08:38:52Z,2025-09-18T01:43:32Z
+kr,"Korea, Republic of",News,6009,16,708032904,모바일한경,The Korea Economic Daily,https://apps.apple.com/kr/app/%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%95%9C%EA%B2%BD/id708032904?uo=4,0.0,2.6,165,News,"모바일한경이 새로운 모습으로 개편 되었습니다.
+
+콘텐츠에 쉽게 접근하는 탭방식으로 변경 
+친구관리, 친구에게 공유 기능 추가 
+클레이 관리와 멤버스몰에서 다양한 상품 제공 
+사용자 인터페이스 강화 
+아이패드 스플릿뷰 지원
+
+앱정보 
+성공을 부르는 습관 
+모바일한경은 한국경제신문의 디지털 신문을 제공합니다. 
+한국경제신문과 월스트리트저널의 다양한 정보를 볼 수 있습니다. 
+
+신문
+한국경제신문의 초판을 제공하며, 프리미엄 초판 상품은 2판, 3판, 최종판까지 판별로  알려드립니다. 
+
+월스트리트저널 
+세계 50여개국에서 전하는 월스트리트저널의 생생한 글로벌 기사와 콘텐츠를 제공합니다.
+
+뉴스레터 
+C레벨 뉴스레터, 한경 Issue Today, 전문 콘텐츠 등 뉴스레터로 콘텐츠를 구독할 수 있습니다. 
+
+전문콘텐츠 
+한경미디어그룹의 모든 전문 콘텐츠를 바로 확인 할 수 있습니다. 
+
+앞으로도 프리미엄 콘텐츠와 서비스 발굴에 노력하겠습니다.
+
+접근 권한 안내
+모바일한경은 아래 접근 권한을 요구합니다.
+* [필수] 기기 및 앱 기록 - 앱 실행시 중복실행 방지를 위해 앱 실행 검색시 사용.
+* [필수] 휴대전화, 구독신청시 독자서비스국으로 전화를 연결
+* [필수] 사진/영상/파일 - 신문 지면을 내려받아서 저장 
+* [필수] Wi-Fi 연결 정보 - 신문 지면 내려 받을때 데이터통신과 와이파이 연결 구분
+* [필수] 기기 ID 및 통화정보 - 알림 전송을 위한 기기 ID 등록 
+* [선택] 친구 공유를 위한 연락처 접근",2013-10-10T04:05:51Z,2025-10-28T08:45:18Z
+kr,"Korea, Republic of",News,6009,17,720291153,RadioApp - 간단한 라디오,Firetruck Productions Ltd.,https://apps.apple.com/kr/app/radioapp-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%9D%BC%EB%94%94%EC%98%A4/id720291153?uo=4,0.0,4.61895,2396,News,"아날로그 방식 같은 독특한 튜너로 지역 라디오 방송국과 전 세계의 라디오 방송국의 주파수를 쉽게 잡으세요. 
+
+• 인터넷에 연결해야 합니다
+
+특징: 
+• 아날로그 방식 같은 독특한 FM/AM 튜너 
+• 리모콘을 사용하여 방송국 찾기 
+• 동시에 여러 개의 국가 지원 
+• 재생 중인 곡명 표시(가능한 경우) 
+• 즐겨 듣는 방송국 
+• 알람시계 
+• 수면 타이머
+
+Privacy Policy: https://www.theradioapp.com/privacy-policy
+Terms of Use: https://www.theradioapp.com/terms-of-use",2013-11-11T18:58:47Z,2025-11-23T23:19:14Z
+kr,"Korea, Republic of",News,6009,18,325920454,매일경제,"Maeil Business Newspaper Co., Ltd.",https://apps.apple.com/kr/app/%EB%A7%A4%EC%9D%BC%EA%B2%BD%EC%A0%9C/id325920454?uo=4,0.0,3.57143,21,News,"모바일 No.1 매일경제 뉴스 앱
+
+국내 최대 경제 일간지인 매일경제신문 기사를 언제 어디서나 볼 수 있는 모바일 앱입니다.
+
+■ 뉴스
+매일경제 최신 주요 뉴스 제공
+
+■ 지면보기
+매일경제신문 지면 뷰어 (전일자 신문 제공)
+
+■ 속보
+실시간 속보 기사 알림
+ 
+매일경제는 앞으로도 뉴미디어 시대를 앞서가는 서비스로 독자 여러분에게 더 가까이 다가가도록 하겠습니다.
+
+감사합니다.
+
+[선택 접근 권한]
+
+알림 : 속보 뉴스 수신을 위해 사용됩니다.
+
+해당기능 이용시 허용이 필요하며, 허용하지 않아도 서비스 이용이 가능합니다.
+접근권한 변경은 설정 > 매일경제에서 권한 별로 변경 가능합니다.
+
+고객지원
+전화 문의 02-2000-2000
+이메일 문의 mkmaster@mk.co.kr",2009-09-28T04:46:29Z,2025-08-04T02:39:30Z
+kr,"Korea, Republic of",News,6009,19,406614875,한국경제 The Korea Economic Daily,Hankyung.com,https://apps.apple.com/kr/app/%ED%95%9C%EA%B5%AD%EA%B2%BD%EC%A0%9C-the-korea-economic-daily/id406614875?uo=4,0.0,3.24528,53,News,"디지털 시대를 선도하는 최고의 종합 경제신문 한국경제 앱을 다운로드하세요.
+
+한국경제앱 통해 실시간으로 전달되는 경제 뉴스와 전문 투자정보를 활용해 ‘성공을 부르는 습관’을 길러보시기 바랍니다.
+
+뉴스 
+- 전문 경제 뉴스 및 정치, 사회, 국제 등 다양한 카테고리 제공 
+
+시장지표
+- 증권, 가상화폐 전문 투자정보 
+
+알림
+- 실시간 속보 알림
+
+한국경제앱은 신속하고 정확한 뉴스와 정보를 전달합니다. 
+
+* 하단 툴바로 뉴스와 정보 페이지 전환이 용이하도록 제작되었습니다. 뉴스에서 이전 페이지는 기기 이전 기능을 사용해 주시기 바랍니다. 
+
+[필수 접근 권한 안내]
+아래의 접근 권한을 요구합니다. 
+- 없음
+
+[선택 접근 권한 안내]
+ - 알림 : 뉴스 알림을 받기 위해 필요
+ - 사진 : 이미지 저장을 위해 필요
+
+개발자 연락처 
+- 서울시 중구 청파로 463 한국경제신문사 3277-9900",2010-12-04T19:18:47Z,2025-05-13T23:54:47Z
+kr,"Korea, Republic of",News,6009,20,364147881,BBC: World News & Stories,BBC Studios Distribution Ltd.,https://apps.apple.com/kr/app/bbc-world-news-stories/id364147881?uo=4,0.0,4.67213,610,News,"THE BBC APP: News, stories, audio, videos and live coverage from our trusted global network of journalists.
+
+BBC STORIES: The latest, breaking news headlines, articles, podcasts and videos, including coverage of world News, UK News, elections, BBC Verify, BBC In-Depth and more. Stories and videos covering business, innovation, culture, arts, travel, Earth, and much more.
+
+LIVE COVERAGE: Follow live news updates and live global sport in our Live section.
+
+BBC AUDIO: Listen to, save, and follow BBC podcasts such as The Global Story and World of Secrets. Browse schedules and live stream BBC Radio 4 or BBC World Service. From news, politics and culture to true crime, history and science, you can find the latest episodes or dive into the BBC audio archive.
+
+WATCH BBC NEWS: Users in the US and Australia can stream live breaking news from around the world 24 hours a day on the BBC News channel.
+
+BBC VIDEOS: Watch BBC News videos, BBC Sport videos, and video stories about climate, sustainability, science, health, technology, entertainment, and history.
+
+BREAKING NEWS ALERTS: Sign up for breaking news notification alerts from BBC News, delivered straight to your mobile device.
+
+FEATURES:
+• Log into your BBC Account to save articles, podcasts and videos for later on the app and BBC.com
+• Watch videos and listen to audio over both cellular and wifi
+• Follow podcasts, save & download episodes to your mobile device or tablet 
+• Download and listen to podcast episodes offline  
+• Choose your settings to allow the app to automatically update in the background
+• Control audio playback with sleep timer and live rewind
+• Increase your font size for improved readability
+• Choose dark mode for a dark-background reading experience
+• Share stories, podcasts, and videos to social platforms like Facebook and WhatsApp, and send to friends via SMS and email
+• Opt-in or opt-out of breaking news push notifications, you decide
+
+ADDITIONAL INFO:
+If you choose to receive push notifications, a unique identifier relating to your device will be stored by Airship on behalf of the BBC to provide you with the service. You can choose to unsubscribe from push notifications from BBC in your device’s ‘Notifications’ screen.
+
+Our data processor AppsFlyer collects information on behalf of the BBC for attribution and analysis purposes. You can opt out from AppsFlyer tracking by filling out their ‘Forget My Device’ form: https://www.appsflyer.com/optout
+
+The BBC will keep your information secure and not share it with anyone else in accordance with the BBC’s Privacy and Cookies Policy. To read BBC’s Privacy Policy go to https://www.bbc.com/usingthebbc/privacy/
+
+If you install this app you accept the BBC Terms of Use at https://www.bbc.co.uk/usingthebbc/terms",2010-04-01T21:34:38Z,2025-11-10T13:34:10Z
+kr,"Korea, Republic of",News,6009,21,340212179,중앙일보,Joong-Ang Ilbo,https://apps.apple.com/kr/app/%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/id340212179?uo=4,0.0,4.53955,5069,News,"중앙일보앱을 통해 뉴스 그 이상의 저널리즘을 만나보세요!
+
+• 일상에 인사이트를 더해줄 프리미엄 유료 콘텐트 '더중앙플러스'
+중앙일보에서만 볼 수 있는 특별한 콘텐트를 내 관심사에 맞게 찾아 볼 수 있습니다.
+
+• 새로운 뉴스 검색의 시작, 중앙일보 AI 검색
+국내 언론사 최초, AI 뉴스 검색을 시작합니다. 중앙일보 60년의 기사가 답해드리는 믿을 수 있는 검색을 활용해보세요. 
+
+• 맞춤형 공간 '마이페이지'
+서비스 이용 현황을 확인하고 배지를 모아 혜택도 받아보세요.
+
+• 위젯으로 만나는 나만의 중앙일보
+기기 홈화면에 위젯을 추가하고, 내 구독 뉴스와 관심 인사이트의 최신 소식을 빠르게 만나보세요.
+
+• 광고없는 앱 경험
+로그인하면 AD Free! 광고 없이 뉴스를 볼 수 있습니다.
+
+• 강력해진 알림
+속보는 물론 구독한 최신 콘텐트와 댓글 알림 등 개인화된 알림을 받아볼 수 있습니다.
+
+• 콘텐트 이어읽기
+앱에서 읽고 있던 콘텐트가 있다면, 바로 이어서 볼 수 있습니다.
+
+ 
+
+[선택] 접근 권한
+중앙일보 앱의 원활한 이용을 위해 아래 항목에 대한 권한 동의가 필요합니다. 
+
+- 사진보관함 : 제보 및 게시판에 사진과 동영상을 첨부하기 위해 필요합니다. 
+- 카메라 : 사진과 동영상을 촬영하고 첨부하기 위해 필요합니다.
+- 마이크 : 동영상을 촬영하고 첨부하기 위해 필요합니다.
+- 알림 : 속보 및 추천기사 등 알림 수신을 위해 필요합니다. 
+(선택 접근 권한은 기능을 사용하는 시점에 동의를 받고 있으며, 권한을 허용하지 않아도 해당 기능 외 서비스는 이용이 가능합니다.)
+
+ 
+
+[이용권 및 App Store 결제 주의사항]
+
+- App Store 결제는 App Store 계정으로 진행됩니다.
+- 결제되는 금액은 부가세 및 결제 수수료 포함 금액이며, Apple의 국가별 가격 정책에 따라 변경될 수 있습니다.
+- App Store 자동결제는 App Store 내 [계정설정 > 구독]에서 해지하실 수 있습니다.
+- 구독상품 종료 24시간 이내에 취소되지 않는 한 자동으로 갱신됩니다.
+- 자동 결제 예정일 전 24시간 이내에 결제가 이루어지며, App Store 자동 결제 예정일과 실제 이용권 구매일/만료일 표기는 결제 시점 및 시차 등의 이유로 다르게 표기될 수 있습니다.
+- 이용 약관 : https://www.joongang.co.kr/purchase/terms.html 
+
+ 
+
+[선택] 입력 정보
+결제 시 선택 상품에 따라 선택적으로 아래와 같이 정보를 요청 할 수 있습니다.
+
+- 주소 : 구독 정보 확인을 위해 필요합니다.
+
+(선택 정보는 결제 정보 입력 시 요청을 할 수 있으며, 정보를 입력하지 않아도 상품 결제와 서비스 이용에는 문제가 없습니다.)",2009-11-20T21:57:02Z,2025-11-11T00:41:40Z
+kr,"Korea, Republic of",News,6009,22,281941097,Bloomberg: Business News Daily,Bloomberg Finance LP,https://apps.apple.com/kr/app/bloomberg-business-news-daily/id281941097?uo=4,0.0,4.75111,1796,News,"Breaking news on world finance, business, stock market and investments. Access award-winning journalism to help you understand the economics and financial news that’s shaping tomorrow, today.
+
+Before you change the world. Bloomberg.
+Customize the app to monitor the stock market and your investment portfolio. Stay up-to-date on trending topics like the US economy, oil prices, Dow Jones, NASDAQ and more.
+
+Bloomberg delivers critical business news for modern business leaders and financial professionals. Whether you need to monitor your stock portfolio, or understand the latest world news, Bloomberg provides data-driven insights and analysis, whenever and wherever you need it. 
+
+FEATURES:
+- News: Browse featured and trending stories in Business, Markets, Industries, Technology, Politics, Foreign Affairs, Personal Finance, Opinion and more from our 120+ global newsrooms.
+- Market Data: Get the latest financial data to enable fundamental analysis, including stock prices, equity indexes, futures, bonds, commodities & foreign currencies.
+- Alerts: Receive push notification alerts on the latest briefings on the financial economy and the biggest business headlines.
+- Watchlist: Easily track your portfolio’s performance by adding stocks, mutual funds, ETFs or currencies to your personal Watchlist, and get the latest news related to your investments.
+- Video & Audio: Stream Bloomberg TV and Bloomberg Radio live to get insights from the smartest names in Global Finance, Business, Economics & Investing, plus discover our catalog of podcasts.
+- Offline Reading: Download the latest issue of Businessweek to read offline, wherever you are. 
+- On the move updates: The Bloomberg App now has Apple CarPlay, so you can get Bloomberg radio, podcasts and audio articles when you’re on the road.
+
+A subscription to the Bloomberg app gets you unlimited access to all Bloomberg content within the app and on the website (after linking your account). 
+Start with a special 3 month introductory offer (subscription regularly $34.99/month or $329.99/year).
+
+Your payment will be charged to your iTunes Account at confirmation of purchase. Your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Your account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. You may manage your subscription and auto-renew may be turned off by going to Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. 
+
+Terms of Use: https://www.bloomberg.com/notices/tos
+Privacy Policy: https://www.bloomberg.com/notices/privacy",2019-02-01T08:00:00Z,2025-11-01T16:05:47Z
+kr,"Korea, Republic of",News,6009,23,1239397626,"The Economist - News, Podcasts",The Economist Newspaper Group Inc.,https://apps.apple.com/kr/app/the-economist-news-podcasts/id1239397626?uo=4,0.0,4.84717,4672,News,"The world is complex, and changing fast. The Economist app unlocks independent reporting and news analysis from correspondents across the globe. With articles, podcasts, videos and more, our app is a simple way to understand big news developments and why they matter.
+
+Now introducing The Economist Insider, a premium video offering available at launch for subscribers to The Economist. Join senior editors as they explain what's happening now—and what comes next.
+
+What does The Economist cover?
+
+With expert journalists around the world, The Economist reports on politics in America and around the world, as well as economics, business, science, technology and more. We connect the dots to explain the news today and implications for tomorrow.
+
+Why choose The Economist app?
+
+- Read global, fact-checked news reporting anywhere
+- Listen to award-winning podcasts and audio articles
+- Watch videos that distill big news 
+
+Get access to independent news reporting on your terms:
+
+- Catch up on the news quickly with The World in Brief 
+- Enjoy early access to weekly edition, ahead of print
+- Download articles for offline reading
+
+Play news games to test your knowledge:
+
+- Mini crossword: The Economist’s wordplay news puzzle
+- Dateline history quiz: guess when news extracts were published 
+- Pint-sized news quiz: have you been following the latest headlines?
+
+Enjoy additional features:
+
+- Bookmark news articles to read later
+- Give news articles to friends and family
+- Read news analysis easily with adjustable text size
+- Toggle dark mode
+
+See what The Economist subscribers say:
+
+“Great app, excellent journalism! The Economist is wonderful. The content is interesting and relevant and the reporting is superlative. Equally impressive is the drive to stay relevant by presenting media in multiple formats, from print to podcasts and short videos.”
+
+“Impeccable journalism with an app to match. The Economist doesn’t need my endorsement of the quality of their journalism. It speaks for itself. Rather, I’ll comment that their app is well-designed and refreshing to use…I love being able to easily download entire editions, listen to articles with real narrators and search for past articles.”
+
+Full terms of use: https://www.economist.com/legal/terms-of-use
+Our privacy policy: https://www.economist.com/privacy",2018-05-03T04:30:18Z,2025-11-24T08:56:21Z
+kr,"Korea, Republic of",News,6009,24,579581125,SmartNews: Breaking News,"SmartNews, Inc.",https://apps.apple.com/kr/app/smartnews-breaking-news/id579581125?uo=4,0.0,4.47305,167,News,"We combine the best of quality journalism with expert curation to help you stay informed—and feel good while doing it. With quality articles from trustworthy publishers, you can easily curate your feed based on your passions and topics that interest you most. 
+
+Discover top news from premium publishers: Bloomberg, The Atlantic, USA Today, TIME, The Huffington Post, Bleacher Report, Quartz, The Verge, LAT, VOX, AP, Reuters, Buzzfeed, Fast Company.
+
+Local 
+-Get informative stories from premium publishers based on your location. 
+-See the latest local news on government, traffic, weather, politics, school boards, and more.
+-Read news about local cultural events, hidden gems, restaurants, family-friendly activities, and your summer farmer’s market.
+
+Travel
+-Discover the best spots wherever you go with location-based news and updates.
+-Learn about top travel tips from your favorite publishers.
+-Plan your next vacation with trending news on the best destinations, travel hacks, and flight deals before you depart. 
+
+Politics
+-  Get prepared for the elections, polls, and debates with stories across the political spectrum from Democrat to Republican.
+- Understand candidates, ballot measures, debates, results, and city council elections near you.
+-Find voter information, campaign finance stories, verified election reports, and expert election analysis you can trust.
+
+Quality 
+-We partner with thousands of trusted publishers for premium, balanced news.
+-Our award-winning journalists validate content to ensure it meets our high-quality standards.
+- Read trustworthy breaking coverage for your area for free.
+
+Entertainment  
+-Get an inside look at entertainment.
+-Discover top movies or TV shows with your favorite actors. 
+-Follow entertainment topics so you never miss a story.
+
+Sports
+-Get daily articles highlighting the latest games, teams, players, and sporting events.
+-Set notifications for your favorite teams.
+-See breaking news about football, basketball, golf, tennis, soccer, and more.
+
+Health
+-Discover the healthcare news that impacts you all in one free app. 
+-See what experts say about wellness, aging, and mental health from top publishers.
+-Follow stories about pain relief updates, exercise trends, and home remedies. 
+
+
+
+***
+SMARTNEWS IN THE PRESS
+
+“Browse headlines quickly, customize your channels, and read the news offline. SmartNews is an excellent free alternative to other popular news apps.”
+- CNET
+
+***
+AWARDS
+
+Winner of the 2025 May Award Contest - Best Mobile App
+Best Mobile App Awards
+
+Best Local News App, 2024 (US)
+Bestapp
+
+Best News Aggregator, 2023 (US)
+Lifewire
+
+Best News App, 2023  (US)
+AndroidCentral
+
+
+***
+REVIEWS
+
+“Better than Feedly or Flipboard. Love it!” Joe C.
+
+“Much better than the new version of Apple News.” - Donald B.
+
+“Been using Google News, but this is better. Much easier to share.” Nikki H.
+
+***
+
+Terms of Service
+The SmartNews Terms of Service are linked below. Please read and confirm these terms before using our services.
+https://www.smartnews.com/terms/",2017-07-11T02:44:41Z,2025-11-17T01:03:44Z
+kr,"Korea, Republic of",News,6009,25,576210200,뉴스매일 - 멀티소스 뉴스 리더,Nobuyuki Kondo,https://apps.apple.com/kr/app/%EB%89%B4%EC%8A%A4%EB%A7%A4%EC%9D%BC-%EB%A9%80%ED%8B%B0%EC%86%8C%EC%8A%A4-%EB%89%B4%EC%8A%A4-%EB%A6%AC%EB%8D%94/id576210200?uo=4,0.0,4.68907,10588,News,"뉴스매일 매일 뉴스를 편안하게 읽을 수있는 무료 뉴스 애플리케이션입니다.
+
+각 뉴스 페이지는 뉴스매일 의 기본 알고리즘은 iPhone / iPad의 화면에 최적화되어 표시됩니다. 본문의 글자 크기, 글꼴, 테마 등 자신이 가장 읽기 쉬운 형태를 선택할 수 있습니다.
+
+모든 소스는 Google 뉴스의 RSS 피드이므로, 하나의 응용 프로그램에서 매우 많은 다양한 분야의 뉴스를 볼 수 있고 키워드를 입력하여 어떤 뉴스를 검색 할 수 있습니다.
+
+또한 자신이 신경이 쓰인 기사를 단말기에 스크랩으로 저장, 폴더를 재고하여 나중에 읽기 기능이 있습니다. 원래 기사가 웹상에서 사라지고, 오프라인 환경에 있어도 저장된 문서를 검토 할 수 있습니다.
+
+
+특징 :
+- 많은 뉴스 소스에서 모든 종류의 최신 기사보기
+- 내장의 최적화 엔진에 의해 기사는 읽기 쉬운 형식으로 변환되어 매우 빠른 속도로 표시
+- 일반적으로 웹 표시에 변경도 가능
+- 키워드를 입력하여 검색 기능
+- 기사의 로컬 디스크에 저장
+- 관심있는 키워드를 카테고리로 사용 가능
+- 항목 목록 해로 나타나는 드롭 다운 메뉴에서 관련 뉴스 및 공유 바로 가기에 쉽게 액세스
+- 밤의보기에도 쾌적한 다크 테마 모드
+- 유니버설 : iPhone과 iPad 모두에서 사용할 수
+- 와이프로 돌아 가기, iPad mini에도 편안한 풀 스크린 모드, 다기능 이미지 뷰어, 기록, 스타 기능 etc ...
+- (Pro) 키워드 필터링 기능
+- (Pro) 광고 숨기기",2013-01-09T02:00:00Z,2024-08-09T23:35:02Z

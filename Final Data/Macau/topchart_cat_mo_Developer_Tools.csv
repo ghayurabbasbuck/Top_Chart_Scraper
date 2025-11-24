@@ -1,0 +1,543 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mo,Macao,Developer Tools,6026,1,899247664,TestFlight,Apple Services Pte. Ltd.,https://apps.apple.com/mo/app/testflight/id899247664?uo=4,0.0,4.74158,5673,Developer Tools,"TestFlight 可讓你輕鬆測試 Beta 版 App 和輕巧 App，然後在開發者於 App Store 發佈 App 前提供寶貴的使用者意見。開發者可以透過電子郵件或公開連結邀請測試者。
+
+當你測試 Beta 版 App 或輕巧 App 時，Apple 會收集並傳送當機記錄、使用狀況資訊，以及任何你提供給開發者的使用者意見。開發者可能會使用此資訊來改進其 App 和相關產品。Apple 可能會使用當機記錄和使用狀況資訊來改進我們的產品與服務。
+
+如需安裝、測試和傳送使用者意見的指示，以及我們如何處理你資料的詳細資訊，請參訪 testflight.apple.com。",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+mo,Macao,Developer Tools,6026,2,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/mo/app/o-kam-pro/id1602054864?uo=4,0.0,4.68571,70,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-11-24T09:35:35Z
+mo,Macao,Developer Tools,6026,3,640199958,Apple Developer,Apple Services Pte. Ltd.,https://apps.apple.com/mo/app/apple-developer/id640199958?uo=4,0.0,5,3,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+mo,Macao,Developer Tools,6026,4,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/mo/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.75,16,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-23T22:12:12Z
+mo,Macao,Developer Tools,6026,5,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/mo/app/expo-go/id982107779?uo=4,0.0,5,3,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+mo,Macao,Developer Tools,6026,6,1477376905,GitHub,GitHub,https://apps.apple.com/mo/app/github/id1477376905?uo=4,0.0,4.9,10,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+mo,Macao,Developer Tools,6026,7,1643688878,Apps Connect,CITY OF THE SKY NETWORK LTD,https://apps.apple.com/mo/app/apps-connect/id1643688878?uo=4,0.0,0,0,Developer Tools,"One Click Connection v2board / SSPANEL
+Support Shadowsocks ShadowsocksR Vmess Vless Trojan Hysteria Socks Hysteria2
+- Lighter to use
+- Simpler interface
+- Faster connection speeds
+- Better Interaction",2022-10-17T07:00:00Z,2025-10-14T08:02:01Z
+mo,Macao,Developer Tools,6026,8,1522870046,Device Monitor²,Marco Ricca,https://apps.apple.com/mo/app/device-monitor/id1522870046?uo=4,0.0,4.59999,5,Developer Tools,"Device Monitor² is a one-of-a-kind app designed for iPhone, iPod Touch, iPad, and Apple Watch, providing all the essential information about your device at a glance, quickly and effortlessly. Discover which sensors apps have access to and take control of your privacy.  
+It is also compatible with Mac (equipped with M1 processors and later) and Apple Vision Pro, the available functions are limited.
+
+Why choose Device Monitor²?  
+Here are some of its main features:  
+• Clear and intuitive data visualization;
+• Detailed information about:  
+   - DEVICE,  
+   - SENSORS,  
+   - RAM,  
+   - STORAGE,  
+   - CPU,  
+   - GPU (not available on Apple Watch),  
+   - NETWORK,  
+   - BATTERY,  
+   - DISPLAY,  
+   - CAMERA (not available on Apple Watch).  
+• Shortcuts to the Shortcuts app;
+• Shortcuts to the Control Center (requires iOS 18);
+• Customizable widgets for StandBy Mode, Lock Screen and the Home Screen;
+• Options to hide or reorder panels according to your needs;
+• App icon customization.  
+
+Unlock advanced features with additional packs:  
+• PRO Kit:  
+   - Access to all features of other in-app purchases (present and future);
+   - Deep memory cleaning;
+   - Live activity for memory;
+   - Support for opening .synced files;
+   - Copy and paste data displayed in the app.
+• Test Kit:  
+   - Complete testing of device sensors, including:  
+       → GPS,  
+       → Compass,  
+       → Altimeter,  
+       → Accelerometer,  
+       → Magnetometer,  
+       → Gyroscope,  
+       → Barometer,  
+       → Device Motion,  
+       → Motion Coprocessor,  
+       → Pedometer,  
+       → Bluetooth,  
+       → iBeacon,  
+       → Microphone,  
+       → Volume,  
+       → Speakers,  
+       → Proximity Sensor,  
+       → NFC,  
+       → Touch ID/Face ID,  
+       → Vibration and Haptic Feedback,  
+       → Ping,  
+       → Traceroute,  
+       → DNS Lookup,  
+       → Acid3,  
+       → Speed Test,  
+       → Network Device Scanner,  
+       → Brightness,  
+       → Multi-touch,  
+       → Screen Color,  
+       → Camera,  
+       → Flash.  
+• Report Kit:  
+   - Export data displayed in the app as a PDF, CSV, XLSX or RFT document.  
+• Notification Kit:  
+   - Customizable notifications for:  
+       → RAM usage exceeding limits,
+       → Device temperature reaching abnormal levels.  
+• Ads Kit:  
+   - Remove ads from the app.  
+
+
+The app does not collect any personal data or even non-personal data. Why? Simple: We’re not interested!
+Oh, and don’t forget: the app is FREE!",2021-01-16T08:00:00Z,2025-11-04T00:07:17Z
+mo,Macao,Developer Tools,6026,9,1312141691,Stream,Stream Lab Inc.,https://apps.apple.com/mo/app/stream/id1312141691?uo=4,0.0,3.6,5,Developer Tools,"在下載本 App 之前，希望你能夠認真的閱讀以下介紹。
+
+1. Stream 面向對象為廣大前端開發、客戶端開發、後端開發、運維工程師、測試工程師以及具備一定網絡分析能力的普通用戶。
+2. Stream 的目的僅用於網絡調試，除此以外沒有其他目的。同時，開啟 Stream 需要您授權 VPN 權限。
+3. Stream 不會上傳任何用戶數據，請放心使用，同時也期望信任我們的用戶傳播給業內人士。
+
+如果您不認同以上的目的，不具備網絡分析能力，或者對於敏感數據從心理上就不信任第三方 App，建議您慎重考慮後再下載。
+
+
+功能介紹：
+
+Stream 用於客戶端本地抓包，僅用於QA&開發本地網絡調試。只是利用了 iOS 9+ 的 Network Extension Api，其實不具備連接 vpn 的功能。
+
+1. 抓取 HTTP&HTTPS 請求，其中 HTTPS 請求需要配置 CA 證書。
+2. 訪問抓包歷史，預覽請求體 (request body) 以及響應體 (response body)，目前支持文本/JSON/文件/表單。
+3. 支持構建請求和請求重放。
+4. 支持配置 Hosts，實現在電腦端的 Hosts 功能，用於前端開發以及移動端開發便捷的切換測試環境和線上環境。
+5. 比較簡單的支持打開 HAR 通用標準文件，可以將 Charles/Fiddler/Chrome/Firefox 等網絡記錄導出 HAR 然後在 Stream 打開並重放請求。
+6. 完美適配 iPhone X 以及支持 iPad MutiTask。",2018-01-04T16:29:42Z,2020-04-06T19:00:38Z
+mo,Macao,Developer Tools,6026,10,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/mo/app/ish-shell/id1436902243?uo=4,0.0,5,3,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+mo,Macao,Developer Tools,6026,11,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/mo/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,3,2,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+mo,Macao,Developer Tools,6026,12,1049254261,Textastic Code Editor,Alexander Blach,https://apps.apple.com/mo/app/textastic-code-editor/id1049254261?uo=4,0.0,5,1,Developer Tools,"Textastic is a comprehensive and versatile text and code editor for iPad and iPhone. It supports syntax highlighting of more than 80 programming and markup languages. Connect to SFTP, FTP, and WebDAV servers or to your Dropbox account. Use the built-in SSH terminal to work directly on your server.
+
+FEATURES:
+• Syntax highlighting of more than 80 languages: HTML, JavaScript, CSS, C++, Swift, Objective-C, Rust, XML, Markdown, PHP, Perl, Python, Ruby, Lua, YAML, JSON, SQL, shell scripts, and many more (full list available on the website) 
+• Compatible with Sublime Text 3 and TextMate 1 syntax definitions and themes 
+• Code completion for HTML, CSS, JavaScript, C, Objective-C, and PHP
+• SFTP (SSH connection), FTP, FTPS (FTP over SSL), WebDAV and Dropbox clients
+• SSH terminal connections
+• Code formatter for HTML, CSS, JavaScript, and JSON
+• Git repositories from the Git client app Working Copy can be opened as external folders in Textastic
+• Emmet support
+• JavaScript console
+• iCloud Drive file synchronization
+• WebDAV server to easily transfer files from your Mac or PC over Wi-Fi.
+• Symbol list to quickly navigate in a file 
+• Full support for external keyboards, trackpads, and mice
+• Configurable keyboard shortcuts
+• Displays additional keys over the virtual keyboard to make it easy to type characters often used for programming 
+• Cursor navigation wheel for easy text selection
+• Easily move the cursor using swipe gestures
+• Split View and Slide Over multitasking on iPad
+• Open multiple files in tabs
+• Multiple Windows on iPadOS
+• Support for Dark Mode
+• Supports most encodings like UTF-8, UTF-16, and ISO-8859-1
+• Supports different tab widths and soft tabs (spaces instead of tabs) 
+• Custom fonts
+• Find & Replace (including regular expression search)
+• Find in multiple files
+• File information like character count and word count 
+• Local and remote web preview for HTML and Markdown files 
+
+To unlock all features, activate Textastic Pro through a yearly or monthly subscription (includes a 7-day FREE trial) or with a one-time purchase.
+
+Privacy Policy: https://www.textasticapp.com/privacy.html
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2016-03-12T09:33:30Z,2025-11-22T16:59:07Z
+mo,Macao,Developer Tools,6026,13,6745097949,v0,"Vercel, Inc",https://apps.apple.com/mo/app/v0/id6745097949?uo=4,0.0,0,0,Developer Tools,"This is your collaborative AI assistant to design, iterate, and scale full-stack applications for the web.",2025-10-23T07:00:00Z,2025-11-18T16:33:04Z
+mo,Macao,Developer Tools,6026,14,1437086352,CSDN-程序员计算机技术交友学习社区,"CSDN Network Technology Co., Ltd.",https://apps.apple.com/mo/app/csdn-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%BA%A4%E5%8F%8B%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/id1437086352?uo=4,0.0,4.73585,53,Developer Tools,"CSDN——专业技术平台，成就一亿技术人。下载CSDN，您会享有全网最全代码资源、专业培训课程、一对一精品回答、最新行业资讯。
+CSDN——程序员必备编程交流学习平台！现已接入DeepSeek R1满血版_AI搜索，解决程序员工作学习中遇到的问题，所有技术疑问都能在CSDN找到可被信赖的解答。汇聚各类技术领域专家及大牛专业解答，最新的技术开发信息解决方案和编程学习教程。
+
+适用人群：互联网公司人士、极客、程序猿、白领、设计师、零基础编程爱好者、大学生；
+主要技术方向：
+【前端开发】HTML、CSS、JavaScript、 jQuery、WebApp、Node.js、Angular JS、Vue.js、Bootstrap、前端工具
+【后端开发】PHP、Java、Linux、rust、Python、C、 C++、Go、C#、数据结构
+【人工智能】机器学习、深度学习、计算机视觉、自然语言
+【移动开发】iOS、Unity3D、Cocos2d-X 
+【数据处理】MysQL、MongoDB、云计算、 Oracle、大数据、SQL Server 
+【图像处理】Photoshop、Maya、Premiere、 ZBrush 
+【工具资源】Git，GitHub，VS Code， Sublime Text
+
+
+「自动订阅会员说明」
+1、服务名称：CSDN VIP连续包月 (1个月)
+2、价格：CSDN VIP连续包月产品为88元/月
+3、购买自动订阅会员的账号，会在每个月订阅期到期前24小时，从您的iTunes账户中扣费，扣费成功后顺延一个订阅周期。
+4、关闭服务:您可以在苹果手机“设置”-->进入“iTunes Store与App Store""-->点击“Apple ID”，选择""查看Apple ID""，进入“账户设置""页面，点击“订阅""管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费。
+5、服务协议：
+
+「CSDN自动订阅服务协议」
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+「CSDN会员服务协议」
+
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+CSDN，致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务，并不断完善在移动端的学习体验，欢迎大家体验，提出宝贵意见~",2018-10-04T17:02:44Z,2025-11-22T11:12:03Z
+mo,Macao,Developer Tools,6026,15,1234793120,App Store Connect,Apple Services Pte. Ltd.,https://apps.apple.com/mo/app/app-store-connect/id1234793120?uo=4,0.0,3.875,8,Developer Tools,"隨時隨地使用 iPhone 和 iPad 上的 App Store Connect App 管理你的 App。
+
+• 檢視 App 狀態並管理 App Store 提交項目。
+• 管理測試者群組、加入新建置版本和測試者、並檢視截圖和當機意見反應。
+• 檢視關鍵銷售和趨勢資訊來監控 App 表現。
+• 檢視和回應最新的客戶評分和評論。
+• 生成行銷內容來推廣你 App 的重大時刻，例如在 App Store 精選位置獲得曝光，或當你推出新的 App 或新版本。
+• 接收關於重要事件的通知，例如 App 狀態更動、新的客戶評論、測試者意見反應，以及在 App Store 精選位置獲得曝光。",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+mo,Macao,Developer Tools,6026,16,1606772645,Google Play Console,Google LLC,https://apps.apple.com/mo/app/google-play-console/id1606772645?uo=4,0.0,1,1,Developer Tools,"• Monitor the metrics you care about
+• Manage your app's orders and issue refunds
+• View and reply to app reviews
+• Track and monitor the availability of your apps across different tracks and releases",2024-08-27T07:00:00Z,2025-10-10T15:20:55Z
+mo,Macao,Developer Tools,6026,17,6448190999,PromptBox 提示词盒子 - 创建与收藏AI提示词,逸飞 胡,https://apps.apple.com/mo/app/promptbox-%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%9B%92%E5%AD%90-%E5%88%9B%E5%BB%BA%E4%B8%8E%E6%94%B6%E8%97%8Fai%E6%8F%90%E7%A4%BA%E8%AF%8D/id6448190999?uo=4,0.0,0,0,Developer Tools,"PromptBox提示词盒子是一款专门用来储存您的各种AI提示词的工具，轻量小巧，可以便捷地储存任何图片或是文字提示词，并且支持导入其他来源的任何提示词。同时，它也支持iCloud云同步，在任何设备的PromptBox 应用之间同步您的提示词。
+在使用AI工具的时候，或许您有这样的疑问：
+
+为什么别人的AI对话可以解决那么多问题，而自己的AI却总是给出不着边际的答案？
+
+为什么别人的AI绘画的效果像是大师之作，而自己使用的效果却相差甚远？
+
+或许这不是AI工具的问题，而是您给AI提供的内容不够准确与详尽。您输入给AI的文字有一个更加专业的名称，叫提示词(Prompt)。提示词是否优质会直接影响AI的回答质量。也正是因为目前提示词对于AI工具的重要性，甚至还衍生出了提示词工程师这个(Prompt Engineer)职业。
+
+如果您是一个专业的AI工具爱好者，您或许也会发现一个问题。虽然可以在网上浏览到很多零零散散的优质提示词的文章和网站，但是每次需要使用的时候都需要去网站上搜索合适的提示词，并且在社交平台看到的一些很棒的提示词的帖子也很难集中储存到一个地方。
+
+不过，没有关系，希望我们的PromptBox 提示词盒子可以帮您解决上面的一切问题。
+
+PromptBox是如何解决这些问题的？
+
+
+【内置预设的提示词库】：目前PromptBox预设了100余条最常用的提示词，可以帮助您快速搭建您的提示词库，当然，如果您不喜欢我们提供的提示词，也可以从零开始搭建您的专属词库
+
+【全平台适配】：了解到很多朋友都喜欢在iPad或者Mac上浏览不同的提示词库，PromptBox提供了iPad和Mac版本，并已经适配了不同尺寸的屏幕，甚至为不同尺寸的屏幕提供了不同的显示效果
+
+【iCloud跨端同步】您的任何数据都被安全且隐私地储存在了Apple的iCloud中，所以PromptBox 应用不会读取您的任何隐私权限和数据，请放心使用
+
+【一键导入其他提示词】：您可以将任何来源的任何类型、任何格式的提示词通过我们预设的功能方便地导入PromptBox
+
+【便捷的提示词分类与搜索】：PromptBox支持多种搜索与筛选提示词的方式，例如搜索、分类、标签、并且他们可以同时配合，帮助您准确筛选需要的提示词
+
+【随手记录】：轻量的App启动速度在0.5秒以内，可以快速随手记录您喜爱的提示词
+
+【提示词分类】：由于提示词的格式完全不同，AI对话和AI绘画的提示词支持分类储存，互不干扰
+
+【可视化结果】：支持储存提示词的图像结果，尤其是对于AI绘画而言，极大地提升了在使用时的便利度
+
+【预览与编辑】：当然支持最基础的功能
+
+综上，希望AI工具可以在您的生活中充当小帮手的角色！
+
+使用条款：[https://tomorrowmc.github.io/](https://tomorrowmc.github.io/)
+
+隐私协议：[https://tomorrowmc.github.io/](https://tomorrowmc.github.io/)",2023-05-08T07:00:00Z,2023-10-03T17:40:08Z
+mo,Macao,Developer Tools,6026,18,6738670823,Jupyter Notebook - JuNote,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/mo/app/jupyter-notebook-junote/id6738670823?uo=4,0.0,0,0,Developer Tools,"Jupyter Notebook - JuNote
+A zero-setup Python environment & developer toolbox for mobile devices, designed for data analysis, machine learning, and software development.
+---
+Key Features:
+
+File & Code Management
+- Browse and manage files & folders, with quick document and media previews.
+- Syntax highlighting for scripts, JSON, XML, and other text-based formats.
+- Access external file system locations or open documents in place.
+
+Jupyter Notebook & Google Colab Support
+- Run Jupyter notebooks and Google Colab locally on your device.
+- Full notebook editing experience with interactive execution and live outputs.
+- Supports Python for data science & machine learning: NumPy, Matplotlib, SciPy, Scikit-learn, Pandas, LXML, etc.
+
+AI-Powered Bug Fixing
+- Automatically detects and suggests fixes for Python errors.
+- Provides AI-powered explanations to help users understand and resolve issues.
+- Enhances debugging efficiency, making Python coding smoother and faster.
+
+Developer Experience
+- Intelligent code completion with fast execution.
+- Versatile text editor with syntax highlighting for multiple formats.
+- Effortless package management – No installations needed, just import and use.
+
+---
+
+ Who is JuNote for?
+- Python developers & students who need an on-the-go coding environment.
+- Data scientists & researchers working with Jupyter notebooks.
+- Developers looking for an AI-assisted Python IDE to debug and enhance their code efficiently.
+
+---
+
+This AI-powered feature makes JuNote a next-gen Python Notebook IDE for mobile devices.
+
+SUBSCRIPTION:
+We offer auto-renewing subscription:
+- Length: Yearly
+- Payment will be charged to iTunes Account at confirmation of purchase
+- You will be able to access the Premium features of the app for the duration of the subscription
+- Subscription automatically renews for the same price and duration period as the original period unless auto-renew is turned off at least 24-hours before the end of the current period
+- The account will be charged for renewal within 24-hours prior to the end of the current period at the cost of the chosen package.
+- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's iTunes Account Settings after purchase
+- No cancellation of the current subscription is allowed during the active subscription period
+- You may cancel a subscription during its free trial period via the subscription setting through your Apple account. This must be done 24 hours before the end of the subscription period to avoid being charged. Please visit https://support.apple.com/HT202039 for more information on how to proceed.
+- You may turn off the auto-renewal of your subscription via your Apple Account Settings. However, you are not able to cancel the current subscription during its active period
+
+Privacy Policy : https://mcanswers.ai/jupyter-notebook/privacy-policy
+Terms of Use : https://mcanswers.ai/jupyter-notebook/terms-of-use",2025-03-09T08:00:00Z,2025-11-05T20:31:12Z
+mo,Macao,Developer Tools,6026,19,6448362669,NeoServer: SSH Client|Terminal,"Space-Time Transformation Technology Co., Ltd.",https://apps.apple.com/mo/app/neoserver-ssh-client-terminal/id6448362669?uo=4,0.0,0,0,Developer Tools,"NeoServer 提供一套全面的管理解決方案，透過 SSH 連接，無需在您的伺服器、NAS（網路附加儲存）和基於 Linux 的路由器上安裝額外軟件，支援 iPhone、iPad 和 Mac 平台。它支援終端遠程連接、多伺服器腳本執行、容器管理、SFTP 檔案管理和常見性能數據顯示。
+
+◉ 免費功能：
+◦ 支援透過 SFTP 瀏覽伺服器檔案，允許編輯（帶有常用語言的語法高亮）、重新命名、刪除、查看檔案大小和權限、上傳和下載檔案等。
+◦ 支援執行腳本和查看歷史記錄。同時允許在伺服器組或多個伺服器上批次執行。
+◦ 顯示伺服器參數和監控狀態，包括 CPU、記憶體、磁碟和網絡指標，並配有視覺化小工具。
+  ◦ 運行時間，1/5/15 分鐘的系統負載。
+  ◦ CPU 溫度、CPU 型號、CPU 使用率。
+  ◦ GPU 使用情況及 GPU 上的任務
+  ◦ 磁碟、IOPS、I/O 等待、讀寫速度、總讀寫大小。
+  ◦ 網絡、上傳/下載速度、總上傳/下載量。點擊查看網卡詳情、IP 綁定和網卡 UP/DOWN 狀態。
+◦ 支援 SSH 遠端連接，包括複製、粘貼、終端中的特殊鍵盤功能。支援連接時初始化 shell 腳本、tmux 恢復會話、命令行自動補全和雙擊觸發 TAB。
+◦ 顯示進程列表，包括 PID、用戶、CPU 使用率、記憶體使用率、命令和狀態，並能按標題排序及發送指定的終止信號。
+◦ 支援 Docker/Podman 容器管理，查看容器日誌和檢查信息、重啟、暫停、刪除容器以及管理容器映像。
+◦ 支援 iOS 17 小工具。
+◦ 支援 SSH 伺服器配置，包括密碼和鑰匙。支援跳板主機/堡壘伺服器和 SOCKS5 連接到企業內網。支援網絡喚醒 (WOL)。
+◦ 支援 iCloud 同步（使用私人 iCloud 空間），FaceID 解鎖應用程式。
+◦ 支援 Apple 多平台：iOS/macOS、iPadOS。
+
+◉ 高級版
+◦ 終端主題和終端腳本執行
+◦ 容器操作：創建、重啟、停止
+◦ SFTP 檔案編輯
+◦ Socks 代理和跳板伺服器
+◦ 批次伺服器腳本執行
+
+◉ NeoServer 在 NAS（Synology、TrueNAS、QNAP、FreeNAS）用戶、自託管愛好者、網站主人、AI 模型研究人員和開發者中非常受歡迎。
+
+◉ 反饋和問題聯絡：h2eros.z@gmail.com。
+
+◉ 數據隱私：
+
+所有數據存儲在您的設備上。NeoServer 不會將數據通過網絡傳輸到您配置的伺服器之外的任何伺服器，也不會參與任何第三方統計或廣告連接。
+
+隱私政策：https://www.playshare.cc/en/doc/neoserver-privacy.html
+
+使用條款：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-05-08T07:00:00Z,2025-11-15T04:44:41Z
+mo,Macao,Developer Tools,6026,20,6468591462,PLIST Editor Mobile,VDT LABS S.R.L.,https://apps.apple.com/mo/app/plist-editor-mobile/id6468591462?uo=4,0.0,0,0,Developer Tools,"PLIST Editor allows you to create, visualize, modify and save property list (.plist) documents.
+
+PLIST Editor is probably the only ""source control friendly"" property list editor that you can find on the market (except Xcode, of course). For all plist types (XML, Binary and OpenStep/ASCII), it maintains the order of dictionary elements and the editing capabilities are on parity with Xcode, so you don't see a difference between a file edited in PLIST Editor and one edited in Xcode.
+
+IMPORTANT: PLIST Editor is available as free to download, but there are a few features not available: i.e. Save documents, Find & Replace, Sort.
+In order to get the most out of the app, and to enable the aforementioned features, ""Premium"" is recommended to be purchased (""Premium"" is a one-time in-app purchase).
+
+Core features of the app:
+• Open and save property list files in XML, Binary and OpenStep/ASCII format.
+• Cut, copy, paste, duplicate, delete and reorder elements
+• ""Source control"" friendly - the order of dictionary elements is preserved, showing them in the same order as they are defined in the file. Similarly, when the property list is written to disk, the order of items from a dictionary written to disk is the same as the one seen on screen. This is especially useful when you keep the files in a repository, because only the relevant changes will be shown when diff-ing the edited files.
+• Find & Replace text in the property list elements. You can choose where the Find (and Replace) will take place: in ""Key"" column or ""Value"" column or both.
+• Find & Replace also lets you configure where in the text to look for matches: ""Contains"", ""Equals To"", ""Starts With"", ""Ends With"" and ""Regular Expression""
+• Sort children or siblings by key, type, value or sub-key
+• Edit the elements of a property list by double tapping a key or value.
+• Open and edit the files created using NSKeyedArchiver without any loss of information
+• Copy elements as Swift objects
+• Copy elements as JSON data, both readable and compact JSON
+• Copy elements as XML, Binary (Base 64 encoded) and OpenStep/ASCII plists
+• Embed selected elements in array or dictionary
+• Shift elements to left or right
+• Move elements up or down by pressing a row and then moving it to the desired location
+• Resize the columns for better readability by dragging the separator
+• Open and edit the files created using NSKeyedArchiver without any loss of information
+• Export files as JSON (compact or readable) and PLIST (XML, Binary, OpenStep/ASCII)
+• Option, in Settings to choose the default font, along with the font size
+• Option, in Settings, to enable (or disable) Auto Save 
+• Undo & Redo
+• Dark mode
+• Portrait & landscape
+• Split view and slide over for iPad
+• Keyboard support if you have an external keyboard connected or use “Universal control”
+
+If you're also interested in the Mac version of this app visit https://vdt-labs.com/plist-editor",2023-10-22T07:00:00Z,2024-08-25T09:13:57Z
+mo,Macao,Developer Tools,6026,21,6505142976,Smart Cloud Platform,志军 郑,https://apps.apple.com/mo/app/smart-cloud-platform/id6505142976?uo=4,0.0,0,0,Developer Tools,智控云是天美旗下考勤管理app，级考勤数据管理，员工管理，智能门禁功能,2024-07-11T07:00:00Z,2025-07-08T22:31:00Z
+mo,Macao,Developer Tools,6026,22,1353326686,Python程式設計-編碼與軟體開發課程,Xiamen Yidong Network Technology Company Limited,https://apps.apple.com/mo/app/python%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E7%B7%A8%E7%A2%BC%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E8%AA%B2%E7%A8%8B/id1353326686?uo=4,0.0,4.8,5,Developer Tools,"# 超過400萬位程式設計愛好者的首選
+# 全球4000+五星好評推薦
+# 創新學習體驗：遊戲化過關+實作練習
+
+Python程式教室是由W3Cschool團隊精心開發，專為初學者打造的Python入門APP。透過有趣且高效的學習方式，帶您輕鬆進入程式設計的世界。
+
+想學Python？從這裡開始！
+
+【適合零基礎】
+從零開始，循序漸進的課程安排，讓您輕鬆入門
+
+【即時學習系統】
+遊戲化過關學習，課程結合實作，快速上手
+
+【免費課程資源】
+豐富的教學內容與知識點，完全免費使用
+
+【Python題庫】
+透過練習鞏固觀念，查漏補缺
+
+【線上編輯器】
+手機就能寫程式，隨時隨地都能練習
+
+【彈性學習時間】
+每天30分鐘，零碎時間也能學習
+
+想找學習夥伴一起討論，互相切磋或尋求協助嗎？
+歡迎來信申請加入學習社群！
+
+● 聯絡信箱：kefu@eeedong.com",2019-11-25T08:00:00Z,2025-07-16T01:36:52Z
+mo,Macao,Developer Tools,6026,23,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/mo/app/stikdebug/id6744045754?uo=4,0.0,0,0,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z
+mo,Macao,Developer Tools,6026,24,1442620678,Surge 5,Surge Networks Inc.,https://apps.apple.com/mo/app/surge-5/id1442620678?uo=4,0.0,0,0,Developer Tools,"Surge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.
+
+These four capabilities form the core workflow of Surge:
+· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.
+· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript, and many other methods.
+· Forwarding: You can forward the taken over network requests to other proxy servers. This can be global forwarding or with a flexible rule system to determine an outbound policy.
+· Intercept: You can intercept and save specific data of network requests and responses, and you can also decrypt HTTPS traffic with MITM.
+
+Highlighted Features
+· Takeover all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to an HTTP/HTTPS/SOCKS5/SOCKS5-TLS/SSH proxy server following highly configurable rules.
+· Used as a WireGuard Client to convert the L3 VPN as a proxy.
+· Record and display HTTP requests and responses sent from your iOS devices, including body and header.
+· Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and GeoIP lookup.
+· Measure traffic usage and network speed on WiFi, cellular, and proxy connections.
+· High performance and suitable for intensive use.
+· Block ads by domain rules.
+· Local DNS Map (equivalent to /etc/hosts). You can use this function to switch the production/development environment for your app without changing any code.
+· All features work on the cellular network.
+· Decrypt HTTPS traffic with Man-in-the-Middle.
+· Perform URL rewrite.
+· Fully IPv6 supports.
+· Header rewrite.
+· Raw L3 packets capture.
+· Safari extension to add rules.
+· JSON, text, image and video viewer for the captured body.
+· Album mode for the request list.
+· Pre-filter for capturing.
+· HTTPS proxy protocol supports client-side SSL/TLS certificate validation.
+· Scripting: Use JavaScript to extend the ability of Surge as your wish.
+· Sync profiles cross devices with iCloud Drive or Dropbox.
+· DNS-over-HTTPS, DNS-over-HTTP3, DNS-over-QUIC, TLS 1.3 and more advanced features.
+
+You may read the online manual for more information: http://manual.nssurge.com/
+
+Terms and Conditions: https://nssurge.com/legal/terms
+Privacy Policy: https://nssurge.com/legal/privacy",2018-11-17T15:21:24Z,2025-10-24T05:50:33Z
+mo,Macao,Developer Tools,6026,25,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/mo/app/scriptable/id1405459188?uo=4,0.0,4,3,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z

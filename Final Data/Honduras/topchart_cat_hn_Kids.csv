@@ -1,0 +1,690 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+hn,Honduras,Kids,36,1,983156458,Microsoft Authenticator,Microsoft Corporation,https://apps.apple.com/hn/app/microsoft-authenticator/id983156458?uo=4,0.0,4.91226,718,Productivity,"Use Microsoft Authenticator para iniciar sesión de forma sencilla y segura en todas sus cuentas en línea gracias a la autenticación multifactor, sin contraseña o el autorrellenado de contraseñas. También tiene opciones adicionales de administración de cuentas para sus cuentas personales, profesionales o educativas de Microsoft.
+
+Introducción a la autenticación multifactor
+
+La autenticación multifactor (MFA) proporciona una segunda capa de seguridad. Cuando se activa, durante el inicio de sesión después de introducir su contraseña, se le pedirá una forma adicional para demostrar que es realmente usted. Apruebe la notificación enviada a Microsoft Authenticator o escriba la contraseña de un solo uso (OTP) generada por la aplicación. Los códigos OTP tienen una cuenta atrás de 30 segundos. Este temporizador es para que nunca tenga que usar la misma contraseña única basada en tiempo (TOTP) dos veces y no tenga que recordar el número. Las OTP no requiere que esté conectado a una red y no agotará la batería. Puede agregar varias cuentas a la aplicación, incluidas cuentas que no son de Microsoft, como Facebook, Amazon, Dropbox, Google, LinkedIn, GitHub y muchos más.
+
+Introducción a la autenticación sin contraseña
+
+Use su teléfono, no su contraseña, para iniciar sesión en su cuenta de Microsoft. Solo tiene que escribir su nombre de usuario y, a continuación, aprobar la notificación enviada a su teléfono. La huella digital, el id. facial o el PIN proporcionarán una segunda capa de seguridad en este proceso de verificación en dos pasos. Después de iniciar sesión con la autenticación en dos fases (2FA), podrá acceder a todos sus productos y servicios de Microsoft, como Outlook, OneDrive, Office y muchos más.
+
+Introducción al autorrellenado
+
+La aplicación Microsoft Authenticator también puede rellenar contraseñas por usted. Inicie sesión en la pestaña Contraseñas dentro de la aplicación Authenticator con su cuenta de Microsoft personal para iniciar la sincronización de contraseñas, incluidas las contraseñas guardadas en Microsoft Edge. Configure Microsoft Authenticator como el proveedor de autorrellenado predeterminado y empiece a rellenar automáticamente contraseñas en las aplicaciones y sitios que visite en su móvil. Las contraseñas están protegidas con autenticación multifactor en la aplicación. Tendrá que identificarse con su huella digital, con el id. facial o con el PIN para acceder y autorrellenar contraseñas en su dispositivo móvil. También puede importar contraseñas de Google Chrome y otros administradores de contraseñas.
+
+Cuentas personales, profesionales o educativas de Microsoft
+
+En ocasiones, puede que su trabajo o escuela le pida que instale Microsoft Authenticator para acceder a ciertos recursos de la organización. Tendrá que registrar el dispositivo en la organización mediante la aplicación y agregar su cuenta profesional o educativa. Microsoft Authenticator admite la autenticación basada en certificados mediante la emisión de un certificado en el dispositivo. Esto permitirá a su organización saber que la solicitud de inicio de sesión proviene de un dispositivo de confianza y le ayudará a acceder de forma rápida y segura a otros servicios y aplicaciones de Microsoft sin necesidad de iniciar sesión en cada uno.",2015-05-30T09:25:44Z,2025-11-13T23:54:23Z
+hn,Honduras,Kids,36,2,1641486558,Temu: compra como millonario,Whaleco Inc.,https://apps.apple.com/hn/app/temu-compra-como-millonario/id1641486558?uo=4,0.0,4.60982,1912,Shopping,"Compra en Temu y disfruta de ofertas exclusivas. 
+
+No importa qué busques, Temu lo tiene para ti. Desde moda y decoración del hogar hasta artesanías, belleza y cosméticos, ropa, zapatos y mucho más.
+
+Descarga Temu hoy y disfruta de increíbles ofertas todos los días.
+
+GRAN VENTA DE INAUGURACIÓN
+Compra regalos para ti y tus seres queridos. ¡Disfruta de hasta un 90% de descuento!
+
+GRAN VARIEDAD 
+Descubre miles de nuevos productos y tiendas.
+
+CONVENIENCIA
+Pago rápido y seguro.
+Envíos y devoluciones gratis dentro de 90 días.
+*Aplican restricciones
+
+Visita temu.com o síguenos en:
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu",2022-08-31T07:00:00Z,2025-11-23T05:33:13Z
+hn,Honduras,Kids,36,3,6746187834,Seekee - Buscador de IA,"SeekeeHorizon Technology (HK) Co., Limited",https://apps.apple.com/hn/app/seekee-buscador-de-ia/id6746187834?uo=4,0.0,4.46429,56,Utilities,"Descubre una nueva forma de buscar con la MegaSearch Bar de Seekee — Una barra, todo en uno.
+Con un solo toque, Seekee se convierte en tu asistente inteligente de IA. Extrae puntos clave de cualquier página web, realiza preguntas de seguimiento, genera o edita imágenes, organiza archivos, escanea documentos y mucho más. Toma una foto para resolver ejercicios, chatea sobre imágenes, limpia textos escritos a mano y convierte documentos largos en resúmenes o mapas mentales. Todo para potenciar tu estudio, trabajo y creatividad.
+Seekee reúne búsqueda, creación, edición y traducción con IA en una experiencia simple y poderosa.
+
+Funciones Principales
+MegaSearch Bar
+Una barra capaz de hacerlo todo: buscar, chatear, crear, analizar, traducir, resolver y editar. IA integrada en tu navegación diaria.
+Creación con IA
+Escribe más rápido y mejor:
+	•	Genera correos, resúmenes, informes y textos creativos
+	•	Crea imágenes y mejora ideas
+	•	Reescribe, expande o pule cualquier contenido
+Edición de Imágenes con IA
+Edición profesional a un toque:
+	•	Ampliación inteligente
+	•	Eliminación de fondo
+	•	Limpieza de marcas de agua
+	•	Mejora de calidad y restauración
+	•	Fotos tipo carnet automáticas
+Asistente de Aprendizaje con IA
+Tu tutor personal:
+	•	Resuelve ejercicios tomando una foto
+	•	Explicaciones paso a paso
+	•	Corrección inteligente de tareas
+	•	Resúmenes, puntos clave y mapas mentales
+Herramientas PDF y Archivos
+Gestión completa de documentos:
+	•	Edita y anota PDFs
+	•	Convierte entre múltiples formatos
+	•	Escanea, ordena y organiza archivos fácilmente
+Identifica Todo con tu Cámara
+Toma una foto y reconoce objetos, plantas, productos, lugares y más. Explora el mundo al instante.
+Traducción Multilingüe en Tiempo Real
+Comunícate sin barreras:
+	•	Traducción de texto, voz, imágenes y documentos
+	•	Precisa, rápida y natural
+Tendencias y Temas del Momento
+Mantente al día con:
+	•	Deportes
+	•	Entretenimiento
+	•	Noticias y tecnología Seekee te informa en tiempo real.
+
+¿Por qué elegir Seekee?
+	•	Asistente de IA todo-en-uno
+	•	Aprendizaje y búsqueda más eficientes
+	•	Navegación más inteligente
+	•	Herramientas completas para estudio, trabajo y creatividad
+	•	Soluciones con fotos: traducir, escanear, resolver y editar
+
+Descarga Seekee y vive una nueva experiencia de búsqueda inteligente, estudio y productividad. La IA hecha para simplificar tu día a día.",2025-06-04T07:00:00Z,2025-11-21T16:29:22Z
+hn,Honduras,Kids,36,4,6477489729,Google Gemini,Google LLC,https://apps.apple.com/hn/app/google-gemini/id6477489729?uo=4,0.0,4.66099,10950,Productivity,"La app de Google Gemini es tu asistente de IA personal, proactivo y potente.
+
+Con Gemini en tu iPhone o iPad, puedes hacer lo siguiente:
+
+- Usar la función Live de Gemini para intercambiar ideas, simplificar temas complejos y practicar para momentos importantes con solo hacer clic en el botón de Gemini Live de la app de Gemini
+- Conectarte con tus apps favoritas de Google, como la Búsqueda, YouTube, Google Maps, Gmail y más
+- Estudiar de forma más inteligente y explorar cualquier tema con imágenes interactivas y ejemplos reales
+- Convertir cualquier archivo en un podcast que puedes escuchar en cualquier momento, estés donde estés
+- Crear imágenes increíbles con solo unas pocas palabras
+- Planificar mejor tus viajes, y más rápido
+- Obtener resúmenes, análisis detallados y vínculos a las fuentes usadas, todo en un solo lugar
+- Generar nuevas ideas o mejorar las que ya tengas
+
+Prueba Nano Banana: generación y edición de imágenes de vanguardia basadas en Gemini 2.5 Flash
+
+Cambia tu plan a Pro y mejora tu experiencia en la app de Gemini para desbloquear nuevas y potentes funciones que te permitirán abordar tareas y proyectos complejos, y disfrutar de una ventana de contexto de 1 millón de tokens líder en la industria (lo que le permite a Gemini procesar hasta 1,500 páginas de texto o 30,000 líneas de código). Además, podrás aprovechar los siguientes beneficios:
+- Mayor acceso a nuestro modelo más potente, 2.5 Pro
+- La posibilidad de generar y analizar informes detallados sobre cualquier tema con Deep Research, potenciado por 2.5 Pro
+- La posibilidad de convertir palabras en clips de video de 8 segundos de alta calidad con la generación de video de Veo 3.1 y más
+
+Google AI Pro está disponible en 150 países y territorios, y además incluye beneficios adicionales. Como parte de Google AI Pro, la app de Gemini seguirá disponible en Google Workspace para los planes empresariales y educativos. Más información: https://gemini.google/subscriptions/
+
+Mejora tu plan a Ultra y aprovecha al máximo la app de Gemini para disfrutar del nivel de acceso más alto y funciones exclusivas que te permitirán darle rienda suelta a tu imaginación. Obtén el nivel de acceso más alto al modelo más potente de Google, 2.5 Pro, además de funciones como Deep Research en 2.5 Pro, la generación de video con Veo 3.1 y Gemini 2.5 Deep Think. También obtendrás acceso anticipado para probar las últimas innovaciones en IA en cuanto estén disponibles, como el Modo Agente.
+
+La app de Gemini en Google AI Ultra está disponible en EE.UU. e incluye beneficios adicionales como parte de la suscripción a Google AI Ultra. Actualmente, Google AI Ultra no está disponible para los usuarios de Google Workspace con planes empresariales y educativos. Más información: https://gemini.google/subscriptions/
+
+La app de Google Gemini para dispositivos móviles está disponible en idiomas y países seleccionados. Más información:
+g.co/gemini/iosrequirements
+
+La disponibilidad de la función Gemini Live varía según el idioma.
+g.co/gemini/ioslanguages
+
+Aunque Gemini puede ayudarte con varias tareas, como consultar el clima, obtener indicaciones sobre cómo llegar a un sitio, encontrar y resumir información en toda la Web y en apps, no admite acciones en dispositivos iOS como establecer alarmas, enviar mensajes de texto, entre otras.
+
+Consulta el Aviso de Privacidad de las Apps con Gemini:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+hn,Honduras,Kids,36,5,1500855883,CapCut - Editor de videos,BYTEDANCE PTE. LTD.,https://apps.apple.com/hn/app/capcut-editor-de-videos/id1500855883?uo=4,0.0,4.5392,8342,Photo & Video,"CapCut es una aplicación gratuita para edición de video con todo incluido que te ayudará a crear videos increíbles. 
+
+「Fácil de usar」
+Corta, retrocede y cambia la velocidad. Ahora hacer videos increíbles es más fácil que nunca. Publica solo tus momentos más maravillosos.
+
+「Alta calidad」
+Los filtros avanzados y los impecables efectos de belleza abrirán un mundo de posibilidades
+
+「Los mejores éxitos musicales/Sonidos increíbles」
+Una enorme biblioteca musical y canciones exclusivas con derechos de autor
+
+「Stickers y texto」
+Los stickers y las fuentes más populares te permitirán expresarte plenamente
+
+「Efectos」
+Sé más creativo con ayuda de una gran variedad de efectos mágicos
+
+Términos del servicio:
+http://www.capcut.com/clause/terms-of-service
+
+Política de privacidad:
+https://www.capcut.com/clause/privacy-policy
+
+Contacto: capcut.support@bytedance.com",2020-04-14T07:00:00Z,2025-11-21T06:41:15Z
+hn,Honduras,Kids,36,6,6744290388,El Impostor - Splash,Cranberry Apps GmbH & Co. KG,https://apps.apple.com/hn/app/el-impostor-splash/id6744290388?uo=4,0.0,4.625,80,Entertainment,"Hola, somos Hannes y Jeremy.
+
+Sabemos cómo es: cada noche de juegos empieza buscando reglas en Google, buscando bolígrafos y papel o probando apps al azar. Pero nunca hay una app de fiestas realmente buena. Así que decidimos crear una.
+
+¿Nuestro objetivo? Reunir los mejores y más virales juegos de fiesta en un solo lugar. Por ejemplo: ¿Quién es el impostor? – seguro que lo has visto en TikTok o Instagram.
+
+Fácil de aprender. Rápido de jugar. Perfecto para 3 a 12 personas.
+
+Ideal para fiestas en casa, cumpleaños o tu próxima noche con amigos. Reúne a tu grupo y pásalo en grande.
+
+¡La app es gratuita para disfrutar con tus amigos! Si quieres funciones extra, Splash Plus te da acceso completo con una suscripción semanal. Puedes consultar nuestros Términos, EULA y Política de Privacidad aquí: https://cranberry.app/terms
+
+Nota: Esta app no está pensada como juego de beber y no contiene contenido relacionado con el alcohol. Es apta para todo el público que busque diversión y juegos sociales.
+
+¡Que la disfrutes!",2025-04-12T07:00:00Z,2025-11-21T17:27:25Z
+hn,Honduras,Kids,36,7,6446901002,Threads,"Instagram, Inc.",https://apps.apple.com/hn/app/threads/id6446901002?uo=4,0.0,4.59384,4838,Social Networking,"Exprésate mejor con Threads, la app de conversaciones basadas en texto de Instagram
+
+Threads es el espacio donde las comunidades se unen en diversos debates, desde los temas que te interesan hoy hasta los que serán tendencia en el futuro. Cualquiera sea tu interés, puedes seguir a tus creadores favoritos y conectarte directamente con ellos y con otras personas con gustos afines, o bien crea por tu cuenta una base de seguidores leales para compartir tus ideas, opiniones y creatividad con el mundo.
+
+Con Threads puedes...
+
+■ Iniciar sesión con tu cuenta de Instagram
+Se te reservará tu nombre de usuario e insignia de verificación de Instagram. Sigue automáticamente la mismas cuentas que sigues en Instagram con tan solo unos toques y descubre también otras nuevas.
+
+■ Compartir tu punto de vista
+Ya sea nueva música, estrenos de películas, deportes, juegos, programas de TV, moda o los lanzamientos de productos más recientes, inicia un nuevo hilo para compartir tu opinión o dar comienzo a una conversación.
+
+■ Unirte a los mejores debates
+Ve a las respuestas para ponerte en acción y reacciona a comentarios, humor e información de otras personas. Encuentra tu comunidad y conéctate con personas a las que les interesa lo mismo que a ti.
+
+■ Encontrar ideas e inspiración
+Desde recomendaciones de TV hasta consejos profesionales, obtén respuestas a tus preguntas o aprende algo nuevo a partir de conversaciones de colaboración abiertas, líderes intelectuales y expertos del sector.
+
+■ Vivir cada momento sin perderte ni un detalle
+Mantente al corriente de las tendencias y eventos en vivo más recientes con debates y notificaciones cada vez que tus perfiles favoritos comiencen un nuevo hilo.
+
+■ Controlar la conversación
+Personaliza la configuración y usa controles para decidir a quién quieres ver y administrar quién puede ver tu contenido, responder tus hilos o mencionarte. Las cuentas que bloqueaste en Instagram seguirán en este estado, y aplicaremos las mismas Normas comunitarias para garantizar que todos interactúen de forma segura y auténtica. 
+
+Condiciones de Meta https://www.facebook.com/terms.php
+Condiciones complementarias de Threads https://help.instagram.com/769983657850450
+Política de privacidad de Meta https://privacycenter.instagram.com/policy
+Política de privacidad complementaria de Threads https://help.instagram.com/515230437301944
+Normas comunitarias de Instagram https://help.instagram.com/477434105621119
+
+Para conocer las medidas que tomamos para proteger nuestras comunidades en las tecnologías de Meta, visita el centro de seguridad de Meta: https://about.meta.com/actions/safety",2023-07-05T07:00:00Z,2025-11-19T23:58:42Z
+hn,Honduras,Kids,36,8,284815942,Google,Google LLC,https://apps.apple.com/hn/app/google/id284815942?uo=4,0.0,4.67882,15599,Utilities,"La app de Google te mantiene al tanto de los temas que te importan. Encuentra respuestas rápidas, explora tus intereses y mantente actualizado con Descubre. Cuanto más usas la app de Google, mejor funciona.
+
+Funciones destacadas:
+• Usa tu cámara para identificar lo que miras, ya sea una mariposa colorida, una planta con espinas o cualquier otro elemento que te genere curiosidad.
+• Traduce más de 100 idiomas en señales de tráfico, menús y cualquier otra palabra a la que puedas apuntar con la cámara.
+• ¿Ves algo que te gusta? Usa la cámara para saber dónde puedes comprarlo.
+• Para definir mejor tus búsquedas con la cámara, agrega palabras, ya sea que quieras esos zapatos, pero en ""azul"", o quieras aprender a ""reparar"" esa parte rota de tu bicicleta.
+• Busca cantando, aunque hayas olvidado la letra. Tararea una canción en la app de Google para saber cuál es.
+• Usa la cámara para obtener ayuda con las actividades para el hogar. Con guías paso a paso y videos, puedes aprender a resolver problemas de matemáticas, química, biología y física.
+
+
+Recibe actualizaciones personalizadas en Descubre:
+• No te pierdas los detalles sobre los temas que te interesan.
+• Empieza el día con información sobre el clima y las noticias destacadas.
+• Recibe actualizaciones en tiempo real sobre deportes, películas y eventos.
+• Entérate cuando tus artistas favoritos lanzan un álbum nuevo.
+• Recibe historias acerca de tus intereses y pasatiempos.
+• Sigue temas interesantes desde los resultados de la búsqueda.
+
+
+Realiza búsquedas de forma segura:
+• Todas las búsquedas en la app de Google están protegidas a través de la encriptación de la conexión entre tu dispositivo y Google.
+• Los controles de privacidad son fáciles de encontrar y usar. Presiona tu foto de perfil para acceder al menú y borrar el historial de búsqueda reciente de tu cuenta con solo un clic.
+• La Búsqueda filtra el spam web de forma proactiva para garantizar que veas resultados seguros y de alta calidad.
+
+
+Otras formas de acceder a Google:
+• Widget de la Búsqueda de Google: Realiza búsquedas desde tu pantalla principal o de bloqueo con el nuevo widget de Google. Elige entre 2 widgets que te ofrecen una barra de búsqueda rápida en ambos tamaños y accesos directos para elegir cómo buscar con Lens, Incógnito y Voice en el widget de tamaño mediano.
+
+
+Obtén más información sobre lo que puede hacer la app de Google en el siguiente vínculo: http://www.google.com/search/about
+
+Política de privacidad: https://www.google.com/policies/privacy
+
+Tus comentarios nos ayudan a crear productos que te encantarán. Participa en una investigación sobre usuarios aquí:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+hn,Honduras,Kids,36,9,585027354,Google Maps,Google LLC,https://apps.apple.com/hn/app/google-maps/id585027354?uo=4,0.0,4.78303,24109,Navigation,"Explora y recorre el mundo con confianza con Google Maps. Encuentra las mejores rutas para conducir, caminar, ir en bicicleta o en transporte público con datos del tráfico y navegación GPS en tiempo real. Descubre más de 250 millones de empresas y lugares, desde restaurantes y tiendas hasta básicos del día a día, con fotos, opiniones y datos útiles.
+
+Recorre el mundo de la forma que quieras:
+• Elige rutas con mayor ahorro de combustible para llegar a tu destino.
+• Encuentra la mejor ruta con instrucciones de navegación paso a paso por voz o en pantalla en tiempo real.
+• Ahorra tiempo con el redireccionamiento automático basado en información en tiempo real sobre el tráfico, incidentes y rutas cerradas.
+• Toma a tiempo y fácilmente autobuses, trenes y transportes compartidos gracias a las actualizaciones en tiempo real.
+• Encuentra alquileres de bicicletas o monopatines para moverte de forma más simple.
+
+Planifica viajes y experiencias de manera fácil:
+• Explora un lugar antes de ir (p. ej., el estacionamiento o las entradas) con Street View.
+• Usa Immersive View para recorrer puntos de referencia, parques y rutas; hasta puedes consultar el clima para prepararte con anticipación.
+• Crea listas personalizadas de tus lugares guardados favoritos y compártelas con otras personas.
+• Pide comida para llevar o con entrega a domicilio, y haz reservas en restaurante y hoteles.
+• Usa mapas sin conexión para no perderte en zonas donde no hay buena señal.
+• Busca lugares y cosas que hacer en una ciudad, y elige dónde ir según las fotos y las opiniones de los usuarios.
+
+Descubre y explora lugares como un habitante local:
+• Explora lugares con la confianza de saber que 500 millones de usuarios colaboran y mantienen actualizados los mapas todos los años.
+• Evita las multitudes consultando qué tan concurrido está un lugar antes de ir.
+• Usa Lens en Maps para ver instrucciones sobre cómo llegar a pie superpuestas a la vista del mundo real.
+• Filtra restaurantes según el tipo de comida, el horario de atención, el precio, la calificación y mucho más.
+• Haz preguntas sobre un lugar, desde qué platos ofrece hasta si cuenta con estacionamiento, y recibe respuestas rápidas.
+
+Algunas funciones no están disponibles en todos los países o ciudades.
+La navegación no está diseñada para vehículos de gran tamaño ni de emergencia.",2013-07-17T04:03:28Z,2025-11-20T16:03:21Z
+hn,Honduras,Kids,36,10,1666653815,HBO Max: Ve TV y películas,"WarnerMedia Global Digital Services, LLC",https://apps.apple.com/hn/app/hbo-max-ve-tv-y-pel%C3%ADculas/id1666653815?uo=4,0.0,4.87268,18002,Entertainment,"Las series y películas más populares de HBO, DC Universe, Discovery y mucho más.
+
+Con HBO Max, obtendrás:
+• Acceso a miles de series y películas.
+• Series exclusivas y galardonadas que dan que hablar, como The Last of Us, Succession, The White Lotus y House of the Dragon; contenido original de HBO.
+• Mira deportes en vivo de tus ligas y equipos favoritos. Requiere una suscripción al plan adicional de Deportes. La disponibilidad varía según el país y el proveedor de suscripción.
+• Los últimos éxitos de HBO, Max Originals, Discovery, Cartoon Network, ID, DC, Adult Swim y mucho más.
+• Series icónicas favoritas como Friends, Rick y Morty, 90 Day Fiancé, Looney Tunes y mucho más.
+• Entretenimiento familiar para toda la casa.
+• Documentales fascinantes y series sin guion.
+
+Características:
+• Disfruta de tus series y películas favoritas en casa o dondequiera que estés. HBO Max está disponible en televisores, navegadores web, dispositivos móviles, tabletas y consolas de videojuegos seleccionados. (La disponibilidad del dispositivo puede variar según la región y el plan).
+• Explora o busca fácilmente entre HBO, películas, series, géneros y marcas.
+• Descarga las series y películas que te encantan para ver dondequiera que estés con planes seleccionados. (Los límites de descarga varían según el plan).
+• Crea perfiles personalizados para toda la familia con clasificaciones personalizables y opciones de protección con PIN.
+• Retoma episodios y películas donde los dejaste en cualquiera de tus dispositivos favoritos.
+• Encuentra todo lo que te gusta, en un solo lugar, con My Stuff.
+• Ve contenido en varios dispositivos al mismo tiempo. (Los límites varían según el plan).
+• Transmite video de alta calidad con una resolución de hasta 4K y sonido envolvente, incluidas opciones con Dolby Atmos disponibles en planes seleccionados.
+
+La disponibilidad de contenido y funciones en HBO Max puede variar por región. Algunos títulos y funciones de los mencionados podrían no estar disponibles en tu país.
+
+Tu suscripción se renovará automáticamente al precio vigente de tu plan en ese momento a menos que desactives la renovación automática al menos 24 horas antes de la renovación. Tu cuenta de la App Store recibirá un cobro al mismo precio de renovación dentro de las 24 horas previas al fin de tu período de suscripción actual. Puedes administrar o cancelar tu suscripción visitando la App Store o la sección Suscripciones en la Configuración de tu dispositivo Apple después de la compra.
+
+Los propósitos descritos en la etiqueta Privacidad de la aplicación pueden variar según las funciones o servicios que podrían no estar disponibles en todas las regiones. HBO Max solo está disponible en algunos territorios.
+
+Términos de Uso: https://hbomax.com/terms-of-use",2024-02-27T08:00:00Z,2025-11-03T15:55:24Z
+hn,Honduras,Kids,36,11,6478151677,TikTok Studio,TIKTOK PTE. LTD.,https://apps.apple.com/hn/app/tiktok-studio/id6478151677?uo=4,0.0,4.72081,197,Photo & Video,"Te damos la bienvenida a TikTok Studio, ¡el lugar de encuentro de la innovación y la creatividad!
+
+Impulsa tu creatividad con nuestras herramientas avanzadas y funciones intuitivas diseñadas para ayudarte a ti y a tu contenido a destacar entre la multitud. Al abarcar posibilidades que van desde la identificación de nuevas oportunidades hasta el análisis predictivo, TikTok Studio permite adoptar un enfoque informado y estratégico a la hora de crear contenido para que puedas ampliar tu alcance y llegar a tu máximo potencial.
+
+ - Innovación: lleva tu contenido a otro nivel con las funciones innovadoras de TikTok Studio, diseñadas para despertar tu imaginación y maximizar tu impacto.
+
+ - Creatividad: ¡disfruta de tu experiencia en TikTok con plena confianza! Nuestras herramientas intuitivas, sugerencias personalizadas y tutoriales adaptados a todo tipo de creadores te acompañarán en cada paso. TikTok Studio es el mejor compañero para impulsar tu creatividad.
+
+ - Privacidad y seguridad: embárcate en el proceso creativo con la tranquilidad de que la seguridad de tu contenido y datos personales queda garantizada por un conjunto de sólidas medidas de seguridad. Asume y mantén el control total sobre tu creatividad, contenido e interacciones con los espectadores por medio de ajustes de privacidad completos y herramientas de administración de la comunidad. Tu privacidad es nuestra máxima prioridad, por lo que nos aseguraremos de que cuentes con un entorno seguro para expresarte de forma creativa. 
+
+ - Monetización: encontrarás más oportunidades de recibir recompensas por tu creatividad con las sugerencias de monetización personalizadas de TikTok Studio y las estadísticas avanzadas. Obtén información más detallada sobre los pagos y optimiza fácilmente el rendimiento de tus recompensas.
+
+ - Estadísticas de espectadores: descubre información valiosa que te permitirá profundizar en las preferencias y los comportamientos de tu público. Identifica las oportunidades de crear contenido y aumentar las interacciones, y adapta tu contenido en consecuencia para crear una gran comunidad.
+
+ - Administración: gestiona fácilmente tus publicaciones, comentarios e interacciones con la comunidad en un solo lugar gracias al conjunto integral de herramientas y posibilidades de TikTok Studio.
+
+Únete a TikTok Studio: ¡descarga ya la aplicación y sube de nivel en la creación de contenido!",2024-06-20T07:00:00Z,2025-11-17T21:08:00Z
+hn,Honduras,Kids,36,12,284882215,Facebook,"Meta Platforms, Inc.",https://apps.apple.com/hn/app/facebook/id284882215?uo=4,0.0,4.57244,142047,Social Networking,"El lugar donde personas reales despiertan tu curiosidad. Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como ninguna otra red social.
+
+Explora y amplía tus intereses: 
+* Pide a Meta AI que investigue sobre un tema que te interesa y obtén al instante resultados más interactivos que solo texto.
+* Encuentra en Marketplace ofertas y joyas ocultas para comprar a fin de cultivar tus pasatiempos.
+* Personaliza tu feed para ver más de lo que te gusta y menos de lo que no.
+* Explora reels y videos para ver tutoriales o disfrutar de entretenimiento rápido.
+
+Conéctate con personas y comunidades:
+* Únete a grupos para obtener consejos de personas reales con experiencia.
+* Activa la opción para compartir contenido en Instagram y ahorra tiempo.
+* Envía de forma privada publicaciones atractivas que solo tus mejores amigos entenderán o reels populares de los que todos hablan.
+
+Comparte tu mundo:
+* Usa IA generativa para deslumbrar a amigos con imágenes personalizadas o para recibir ayuda al escribir publicaciones.
+* Personaliza tu perfil para elegir cómo apareces y quién puede ver tus publicaciones.
+* Crea reels fácilmente con plantillas del momento o dale rienda suelta a tu creatividad con un conjunto completo de herramientas de edición.
+* Captura momentos sobre la marcha con historias.
+
+Condiciones y políticas: https://www.facebook.com/policies_center
+
+Para conocer las medidas que tomamos para proteger nuestras comunidades en las tecnologías de Meta, visita el centro de seguridad de Meta: https://about.meta.com/actions/safety",2019-02-05T08:00:00Z,2025-11-22T12:57:53Z
+hn,Honduras,Kids,36,13,454638411,Messenger,"Meta Platforms, Inc.",https://apps.apple.com/hn/app/messenger/id454638411?uo=4,0.0,4.5709,52565,Social Networking,"Messenger es una app de mensajes gratuita que te conecta con todos desde cualquier lugar. Mantente en contacto con amigos y familiares, explora tus intereses junto con personas afines a ti, crea una comunidad y aporta tu toque personal más allá de las palabras, todo en una sola app.
+
+CHATEA CON TODOS Y LLÁMALOS DESDE CUALQUIER PARTE
+
+
+Encuentra a tus amigos y familiares, y conéctate con ellos en Facebook y Messenger. No necesitas su número de teléfono.
+
+OBTÉN RESPUESTAS AL INSTANTE CON TU ASISTENTE DE IA*
+El asistente Meta AI responde preguntas, te da consejos, te ayuda con las tareas y mucho más.
+
+ENVÍA FOTOS EN ALTA DEFINICIÓN
+Envía y recibe fotos más claras y nítidas de tus momentos favoritos con Messenger.
+
+CREA ÁLBUMES COMPARTIDOS
+Desde las últimas vacaciones de verano hasta el cumpleaños n.º 80 de tu abuela, crea álbumes de fotos y videos para compartir, organizar y recordar momentos importantes en los chats en grupo.
+
+AGREGA NUEVAS CONEXIONES FÁCILMENTE CON CÓDIGOS QR
+Conéctate con las personas que conoces en la vida real escaneando su código QR de Messenger o compartiendo el tuyo mediante un enlace.
+
+COMPARTE ARCHIVOS GRANDES DIRECTAMENTE EN EL CHAT
+Ya sean documentos de Word, PDF o Excel, puedes enviar archivos grandes de hasta 100 MB en Messenger.
+
+EDITA Y ANULA MENSAJES 
+¿Te apuraste en enviar un mensaje? Puedes editarlo hasta 15 minutos después de haberlo mandado.
+
+USA MENSAJES TEMPORALES
+Ciertas cosas no duran para siempre. Decide por cuánto tiempo conservar los chats cifrados de extremo a extremo una vez leídos.
+
+REÚNETE CON TUS COMUNIDADES
+Conéctate de manera significativa con personas como tú de tu escuela, barrio o grupos de interés.
+
+ÚNETE AL CÍRCULO ÍNTIMO DE TUS CREADORES FAVORITOS
+Únete a los canales de difusión de los creadores para estar al tanto de sus novedades y acceder a contenido auténtico y casual.
+
+DA RIENDA SUELTA A TU IMAGINACIÓN CON META IA*
+Usa tu socio creativo preferido para crear, editar, animar imágenes y mucho más.
+
+CAPTURA MOMENTOS DE TU DÍA EN STORIES
+Destaca momentos de tu día con fotos y videos que desparecen después de 24 horas en Stories.
+
+DEJA UNA NOTA CON TUS PENSAMIENTOS
+Comparte actualizaciones breves que desaparecen tras 24 horas para estar en contacto con tus amigos.
+
+DALE AL CHAT UN TOQUE PERSONAL
+A veces las palabras no bastan. Descubre nuevas formas de expresarte con stickers animados, GIF, reacciones y más.
+
+ESTABLECE EL CLIMA DE TUS CHATS CON TEMAS
+Personaliza tus chats con una enorme lista de temas en constante evolución que incluye artistas populares, celebraciones y más. 
+
+* Meta AI está disponible solo en idiomas y países selectos. Próximamente se ampliará su disponibilidad.",2011-10-19T22:39:30Z,2025-11-19T08:58:25Z
+hn,Honduras,Kids,36,14,389801252,Instagram,"Instagram, Inc.",https://apps.apple.com/hn/app/instagram/id389801252?uo=4,0.0,4.74526,130651,Photo & Video,"Los pequeños momentos pueden conducir a grandes amistades. Comparte los tuyos en Instagram.
+— Meta
+Conéctate con amigos, consigue más fans y descubre las actividades y los intereses de las personas que te rodean. Explora lo que te gusta y publica lo que haces, desde momentos cotidianos hasta los grandes hitos de la vida.
+
+Comparte tus actividades e intereses.
+- Usa historias y notas que desaparecen en un plazo de 24 horas para mantenerte en contacto con tus amigos en tiempo real.
+- Crea chats en grupo y comparte momentos sin filtro con tus mejores amigos.
+- Comparte recuerdos recientes de eventos o viajes en el feed.
+- Convierte tu vida en una película y descubre videos cortos y entretenidos en Instagram con Reels.
+- Personaliza tus publicaciones con plantillas, música, stickers y filtros exclusivos.
+
+Explora en detalle todo lo que te interesa.
+- Mira videos de tus creadores favoritos y descubre contenido nuevo adaptado a tus intereses.
+- Inspírate con fotos y videos de cuentas nuevas en la sección ""Explorar"".
+- Descubre marcas y negocios pequeños, y compra productos que vayan con tu estilo personal.
+
+Es posible que algunas funciones de Instagram no estén disponibles en tu región o país en este momento.
+
+Condiciones y políticas: https://help.instagram.com/581066165581870
+
+Obtén más información sobre las medidas que tomamos para proteger a nuestras comunidades en las tecnologías de Meta en el centro de seguridad de Instagram: https://about.instagram.com/safety",2010-10-06T08:12:41Z,2025-11-17T17:50:43Z
+hn,Honduras,Kids,36,15,363590051,Netflix,"Netflix, Inc.",https://apps.apple.com/hn/app/netflix/id363590051?uo=4,0.0,4.76722,21394,Entertainment,"¿Buscas las series y películas de las que todo el mundo habla? Están todas en Netflix.
+
+Tenemos series, películas, documentales y especiales de stand up galardonados. Además, con la app móvil, puedes ver Netflix mientras viajas, vas al trabajo o en tus ratos libres.
+
+¿Qué es lo que más te gustará de Netflix?
+• Agregamos series y películas todo el tiempo. Busca títulos nuevos o tus favoritos; puedes verlos en cualquier dispositivo.
+• Cuanto más contenido veas, mejor podrá Netflix recomendarte series y películas que te encantarán.
+• Disfruta de un lugar seguro solo para peques, con entretenimiento para toda la familia.
+• Ve avances de nuestras series y películas, y recibe notificaciones sobre nuevos episodios y estrenos.
+
+La membresía de Netflix es una suscripción mes a mes que comienza en el momento de la suscripción. Puedes cancelarla fácilmente en cualquier momento, online, las 24 horas del día. No hay contratos a largo plazo ni cargos por cancelación. Solo queremos que disfrutes de lo que ves.
+
+Nota: Nuestras normas de privacidad relativas a las apps rigen toda la información recogida a través de las apps de Netflix para iOS, iPadOS y tvOS. Consulta la Declaración de privacidad de Netflix (enlace más abajo) para saber qué información recopilamos en otros contextos, tales como el registro de cuentas.
+
+Política de privacidad: www.netflix.com/privacy
+Términos de uso: www.netflix.com/terms
+
+Teléfono: +18667160414
+Email: iosappstore@netflix.com",2011-12-14T17:47:35Z,2025-11-18T18:49:39Z
+hn,Honduras,Kids,36,16,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/hn/app/chatgpt/id6448311069?uo=4,0.0,4.86273,24450,Productivity,"Presentamos ChatGPT para iOS: los últimos avances de OpenAI al alcance de tu mano.
+
+Esta aplicación oficial es gratuita, sincroniza tu historial en todos tus dispositivos y te brinda lo más reciente de OpenAI, incluido el nuevo generador de imágenes.
+
+Con ChatGPT en tu bolsillo, podrás obtener lo siguiente:
+
+· Generación de imágenes: genera imágenes originales a partir de una descripción o transforma imágenes existentes con solo unas palabras.  
+· Modo de voz avanzado: toca el ícono de ondas sonoras para tener una conversación en tiempo real donde estés. Resuelve un debate en la mesa o practica un nuevo idioma.  
+· Carga de fotos: toma o sube una foto para transcribir una receta escrita a mano u obtener información sobre un lugar emblemático.  
+· Inspiración creativa: busca ideas para regalos de cumpleaños personalizados o crea una tarjeta de felicitación única.  
+· Consejos personalizados: habla sobre una situación difícil, solicita un itinerario de viaje detallado o recibe ayuda para redactar la respuesta perfecta.  
+· Aprendizaje personalizado: explica la electricidad a un niño amante de los dinosaurios o repasa fácilmente un evento histórico.  
+· Asesoramiento profesional: haz una lluvia de ideas para textos publicitarios o planifica un negocio.  
+· Respuestas instantáneas: obtén sugerencias de recetas con solo unos pocos ingredientes.
+
+Únete a cientos de millones de usuarios y prueba la aplicación que está cautivando al mundo. Descarga ChatGPT hoy.
+
+Términos del servicio y Política de privacidad:  
+https://openai.com/policies/terms-of-use  
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+hn,Honduras,Kids,36,17,544007664,YouTube,Google LLC,https://apps.apple.com/hn/app/youtube/id544007664?uo=4,0.0,4.62577,157133,Photo & Video,"Obtén la app oficial de YouTube para iPhones y iPads. Descubre lo que está mirando el mundo, desde los videos musicales más populares hasta las tendencias en videojuegos, moda, belleza, noticias, aprendizaje y mucho más. Suscríbete a tus canales favoritos, crea tu propio contenido, mira videos
+en cualquier dispositivo y compártelos con tus amigos.
+
+Mira contenido y suscríbete a canales
+● Explora recomendaciones personalizadas en la página principal.
+● Entérate de lo más reciente de tus canales favoritos en Suscripciones.
+● Busca los videos que miraste, los que marcaste como “me gusta” y los que guardaste para mirar más tarde en Biblioteca.
+
+Descubre diferentes temas, contenido popular y creadores en ascenso (disponible en algunos países)
+● Mantente al tanto de las novedades musicales, así como de videojuegos, belleza, noticias, aprendizaje y mucho más.
+● Descubre las tendencias del momento en YouTube y el mundo en la pestaña Explorar.
+● Conoce a los creadores, artistas y creadores de contenido de videojuegos en ascenso más geniales (disponible en algunos países).
+
+Conéctate con la comunidad de YouTube
+● Entérate de las novedades de tus creadores favoritos a través de las publicaciones, las historias, los estrenos y las transmisiones en vivo,
+● Participa de las conversaciones publicando comentarios o interactuando con los creadores
+y otros miembros de la comunidad.
+
+Crea contenido con tu dispositivo móvil
+● Crea tus propios videos o súbelos directamente en la app.
+● Transmite en vivo desde la app para interactuar con tu público en tiempo real.
+
+Elige la experiencia más adecuada para ti y tu familia (disponible en algunos países)
+● Cada familia tiene una forma única de acceder a los videos en línea. Ofrecemos dos opciones:
+la app de YouTube Kids o una nueva experiencia de YouTube con supervisión parental en youtube.com/myfamily.
+
+Mejora tu experiencia con YouTube Premium (disponible en algunos países)
+● Mira videos sin pausas publicitarias y mientras usas otras apps o tienes la pantalla bloqueada.
+● Guarda videos para mirarlos cuando los necesites, como cuando viajes en avión o en tus trayectos diarios.
+● Accede a YouTube Music Premium como parte de los beneficios.
+
+Nota: Si te suscribes a través de Apple, el pago se cobrará a tu cuenta de App Store tras la confirmación de la compra. La suscripción se renovará automáticamente, a menos que la desactives hasta 24 horas antes de que termine el período actual. La renovación se cobrará a la cuenta 24 horas antes de que finalice el período actual, a la tarifa del plan que hayas seleccionado. Tras realizar la compra, puedes administrar las suscripciones y la renovación automática desde la configuración de la cuenta.
+
+Condiciones de los Servicios pagados de YouTube: https://www.youtube.com/t/terms_paidservice
+Política de Privacidad: https://www.google.com/policies/privacy",2012-09-11T07:23:19Z,2025-11-24T00:06:27Z
+hn,Honduras,Kids,36,18,835599320,TikTok,TIKTOK PTE. LTD.,https://apps.apple.com/hn/app/tiktok/id835599320?uo=4,0.0,4.77571,109061,Entertainment,"TikTok es una comunidad global de videos cortos. Con esta app podrás descubrir, crear y editar videos increíbles, y compartirlos fácilmente con tus amigos y el mundo entero. Crea y edita videos al instante usando filtros especiales, stickers divertidos y mucho más. 
+
+■ Descubre millones de videos seleccionados especialmente para ti
+¡Una experiencia diseñada específicamente para ti basada en el contenido que te gusta ver, darle like y compartir! Aprenderemos de tus hábitos para ofrecerte los videos más relevantes, interesantes e inspiradores según tus gustos. 
+
+■ Diviértete e inspírate por una comunidad global de creadores
+Millons de creadores están en TikTok demostrando sus increíbles talentos e historias. Déjate entretener, déjate inspirar.
+
+■ Añade tu música favorita o sonidos a tus videos. ¡Gratis!
+Edita tus videos con millones de clips de música y sonidos gratuitos. Hemos creado listas de reproducción con las canciones más populares del momento de cada género, incluyendo pop, rock, rap, electrónica, R&B, reggaetón, trap y mucho más. 
+
+■ Usa más de 100 stickers de emojis y filtros faciales gratuitos para llevar tus videos al siguiente nivel. Descubre toneladas de filtros facilares divertidos y efectos de belleza. 
+
+■ Herramientas de edición que te permiten cortar, editar, duplicar y mover de lugar tus clips de video. 
+
+■ Filtros de videos en vivo actualizados contantemente con diseños creativos. 
+
+■ Baile, comedia, vlog, belleza, maquillaje, moda, deportes, animales y mucho más. En TikTok puedes encontrar videos solo para ti.
+
+■ ¡Accede a las ventajas de LIVE para interactuar mejor con los anfitriones!
+Elige entre una suscripción de un mes o una suscripción de renovación automática para disfrutar de las ventajas especiales de LIVE (actualmente disponible solo en algunas regiones)
+
+Nota: 
+Si te suscribes a través de Apple, el pago se cargará a la cuenta de la App Store tras la confirmación de la compra. La suscripción se renovará automáticamente a menos que desactives la renovación automática como mínimo 24 horas antes de que finalice el periodo actual de la suscripción. La tarifa de la suscripción elegida se cargará a la cuenta en el plazo de 24 horas antes de la finalización del periodo actual. Puedes administrar la suscripción y la renovación automática en los ajustes de tu cuenta después de la compra.
+
+Términos del servicio:
+https://www.tiktok.com/legal/terms-of-service
+
+Política de privacidad:
+https://www.tiktok.com/legal/privacy-policy
+
+*¿Tienes alguna duda o sugerencia? Contáctanos en https://www.tiktok.com/legal/report/feedback o envíanos un tweet a @tiktok.",2014-04-02T22:44:45Z,2025-11-18T22:18:20Z
+hn,Honduras,Kids,36,19,1636235979,ReelShort: ¡Miniseries Ya!,"New Leaf Publishing, Inc.",https://apps.apple.com/hn/app/reelshort-miniseries-ya/id1636235979?uo=4,0.0,4.82473,1666,Entertainment,"¿Estás cansada de no terminar nunca una película o de pagar suscripciones que no usas?
+Ve ReelShort: ¡cada segundo es dramático!
+
+Conoce ReelShort, una plataforma de streaming HD de próxima generación que ofrece programas de televisión exclusivos. Reconocidos por Times100 por nuestra innovación en la industria del entretenimiento, estamos cambiando la forma de ver películas con nuestros episodios de un minuto que puedes disfrutar en cualquier momento y en cualquier lugar.
+
+En nuestra biblioteca podrás elegir de un sinfín de contenido adictivo que se añade diariamente: desde encuentros románticos con multimillonarios y tragedias desgarradoras hasta historias de regreso épicas, ¡y mucho más! ¡Nunca te faltará entretenimiento!
+
+Programas destacados:
+[No Me Extrañen Cuando No Esté] La tía Sandra, mi madrina, me acogió después de perder a mis padres. Por tres años viví bajo su techo con sus dos hijos, los hermanos Miller, rodeada de amor y cariño. Hasta pensé en casarme con alguno de ellos. Pero todo cambió el día en que Lola, la hija de la sirvienta se mudó. Los hermanos Miller, a quienes tanto amo, me cambiaron por ella y me hicieron añicos el corazón. Todo el amor que ellos me dieron ahora era para Lola y se pusieron en mi contra. No me quedó otra opción más que irme, pero ahora se volvieron locos intentando recuperarme.
+
+[¡Largo! ¡Yo soy el jefe!] Kingsley es el rey secreto de King's Corps y el hombre más rico de la Tierra, pero cuando regresa del campo de batalla, su novia de la infancia lo abandona brutalmente pensando que es un payaso. ¿Cómo hará el rey de todos los hombres para que ella se arrepienta?
+
+He aquí por qué te encantará ReelShort:
+• Historias originales de poco tiempo, diseñadas para ser vistas en cualquier momento
+• Programas exclusivos de pantalla vertical que te mantendrán enganchada
+• Cientos de episodios nuevos cada mes.
+• Entretenimiento con calidad de Hollywood, diseñado para la pantalla grande pero que puedes ver en una pantalla pequeña cerca de ti
+• El prime programa interactivo de acción en vivo para móviles en el que decide qué sucede a continuación
+
+Experimenta el futuro del entretenimiento minuto a minuto: ¡descarga ReelShort ahora!
+
+""Crazy Maple Studio está cambiando silenciosamente el juego de streaming con su aplicación ReelShort"". -Time100
+""El jugador más importante en este nuevo género es ReelShort"". - New York Times
+""Cada minuto tiene algo que hace que quieras seguir viendo"". -Wall Street Journal
+
+Síguenos en las redes sociales
+Instagram: https://www.instagram.com/reelshortapp
+Facebook: https://www.facebook.com/ReelShortlat
+YouTube: https://youtube.com/@reelshortapp
+TikTok: https://www.tiktok.com/@reelshortapp
+ReelShort's  Website: https://www.reelshort.com 
+
+Aviso:
+• Si te suscribe a través de Apple, el pago se deducirá de tu cuenta de App Store al confirmar la compra.
+• Privilegios de suscripción: mientras tu suscripción esté activa, puedes ver todas las historias de forma gratuita.
+• Tu suscripción entrará en vigencia dentro de las 24 horas posteriores a la compra, dependiendo del estado de tu pedido en Apple Store. La suscripción es válida por 7 días.
+• Renovación automática: tu suscripción se renovará automáticamente. Se te cobrará dentro de las 24 horas anteriores al inicio de cada período de suscripción hasta que canceles tu suscripción.
+• Cancelación: en dispositivos iOS, puedes cancelar tu suscripción al menos 24 horas antes de la próxima fecha de renovación yendo a Ajustes > iTunes y App Store > ID de Apple > Ver ID de Apple > Suscripciones > ReelShort.
+• La suscripción se factura semanalmente. El precio real puede variar según la región.
+
+Términos de servicio: https://crazymaplestudios.com/v/user-agreement
+Política de privacidad: https://crazymaplestudios.com/v/privacy-agreement",2022-08-07T07:00:00Z,2025-11-21T03:37:29Z
+hn,Honduras,Kids,36,20,324684580,Spotify: música y podcasts,Spotify,https://apps.apple.com/hn/app/spotify-m%C3%BAsica-y-podcasts/id324684580?uo=4,0.0,4.79732,201860,Music,"Con la aplicación de Spotify, puedes explorar una biblioteca llena de música y podcasts gratis. Crea las mejores playlists y reproduce millones de canciones, álbumes y podcasts originales gratis en tu dispositivo móvil o tablet. Suscríbete a Spotify Premium para descargar contenido y escucharlo en modo offline donde sea que estés y desbloquear nuestro catálogo de audiolibros.
+
+¿Por qué usar Spotify como tu aplicación favorita de música y podcasts? Porque puedes:
+• Escuchar más de 100 millones de canciones y 6 millones de podcasts
+• Explorar nuestra selección de playlists de artistas especialmente seleccionadas
+• Buscar tus canciones, álbumes, artistas y podcasts favoritos sin problemas
+• Descubrir recomendaciones musicales personalizadas según tu gusto musical único
+• Suscribirte a tus podcasts gratuitos favoritos para no perderte ningún episodio e incluso crear tu propia biblioteca de podcasts
+
+La versión gratuita de Spotify es más que un reproductor de música. Puedes encontrar los sonidos que te encantan y escuchar música y podcasts gratis en línea. Disfruta de playlists musicales personalizadas o crea y comparte las tuyas, descubre los últimos lanzamientos, explora los próximos eventos de tus artistas favoritos y más.
+• Reproduce millones de canciones y podcasts gratis.
+• Crea playlists con tu música favorita.
+• Comparte canciones y playlists con amigos y familiares (se pueden aplicar restricciones de funcionalidades en algunas regiones).
+• Descubre playlists personalizadas creadas solo para ti y colabora en la creación de playlists con tus amigos.
+• Disfruta de la playlist Descubrimiento Semanal para encontrar tus nuevas canciones favoritas cada semana.
+• Mantente al día con las playlists Radar de Novedades y Viernes de lanzamientos.
+• Encuentra eventos y conciertos de tus artistas favoritos cerca de ti.
+• Descubre cuáles fueron las canciones, géneros, artistas, podcasts y demás más escuchados por ti con el resumen anual de Spotify Wrapped.
+• Reproduce música en todos tus dispositivos con Spotify.
+• Usa Spotify Connect y disfruta de escuchar contenido en altavoces inteligentes, computadoras de escritorio y portátiles, smart TV, Chromecast, PlayStation®, Xbox®, smartwatch, tu auto y más. Hay una cantidad limitada de modelos de dispositivos compatibles.
+
+Spotify Premium: una manera increíble de disfrutar de los beneficios de un reproductor de música en modo offline y reproducir música sin conexión wifi. Al seleccionar la opción para descargar, puedes acceder a tus canciones, podcasts, playlists y audiolibros en modo offline, donde sea que estés.
+• Escucha música, podcasts y audiolibros, todo en un solo lugar.
+• Reproduce música sin anuncios: disfruta de tu música sin interrupciones por anuncios.
+• Disfruta de una reproducción completamente on-demand.
+• Por el momento, los audiolibros en Premium están disponibles en Australia, Canadá, Estados Unidos, Irlanda, Nueva Zelanda y Reino Unido. Descubre más de 250 000 títulos de audiolibros, 15 horas al mes de reproducción disponible para quienes tienen una suscripción a Premium Individual y los titulares de los planes Duo y Familiar.
+• Disfruta de audio de alta calidad en los dispositivos compatibles.
+• DJ con IA: una guía personalizada que conoce tus gustos musicales tan bien que puede elegir qué reproducir para ti.
+• Disfruta de contenido en tu computadora de escritorio, dispositivo móvil, tablet, smartwatch y automóvil.
+• Escucha música y controla la sesión junto con tus personas favoritas organizando una jam en tiempo real.
+• Descarga música, podcasts y audiolibros, y escúchalos sin conexión a Internet.
+• Sin compromisos: cancela tu suscripción a Spotify Premium cuando quieras.
+
+
+Spotify te permite reproducir música donde sea que estés. Escucha tus canciones favoritas y descubre música, podcasts y audiolibros nuevos con la aplicación.
+
+¿TE ENCANTA SPOTIFY?
+Síguenos en Instagram: https://www.instagram.com/spotify
+Síguenos en TikTok: https://www.tiktok.com/@spotify",2013-12-12T04:41:00Z,2025-11-20T16:39:40Z
+hn,Honduras,Kids,36,21,429047995,Pinterest,"Pinterest, Inc.",https://apps.apple.com/hn/app/pinterest/id429047995?uo=4,0.0,4.82124,32105,Lifestyle,"Un mundo de inspiración en un solo lugar.
+
+Pinterest es el lugar para explorar la inspiración. Puedes hacer lo siguiente:
+
+- Descubrir nuevas ideas
+- Guardar lo que te inspira
+- Comprar artículos que te gustan
+- Encontrar nuevos creadores
+- Compartir lo que te encanta
+
+Explora billones de ideas para hacer tus sueños realidad. En Pinterest, las posibilidades son infinitas: convierte tu patio trasero en una maravilla invernal. Dale un nuevo sentido a la decoración acogedora. Usa tus uñas como canvas. Agrega color a tu armario. Exprésate en 2022. Crea la vida que amas.
+
+¿Por qué esperar? Descárgalo hoy para crear la vida que te guste.",2011-04-28T15:51:13Z,2025-11-19T16:28:23Z
+hn,Honduras,Kids,36,22,310633997,WhatsApp Messenger,WhatsApp Inc.,https://apps.apple.com/hn/app/whatsapp-messenger/id310633997?uo=4,0.0,4.61921,169045,Social Networking,"WhatsApp from Meta es una aplicación de mensajes y llamadas gratuita usada por más de 2.000 millones de personas en más de 180 países. Es muy sencilla, confiable y privada, lo que la vuelve perfecta para mantenerse en contacto con amigos y familiares de todo el mundo. WhatsApp funciona en dispositivos móviles, tabletas y computadoras, incluso con conexiones lentas, y no tiene ningún cargo por suscripción*.
+
+Mensajes y llamadas privados en todo el mundo
+
+Tu privacidad es nuestra prioridad. Con el cifrado de extremo a extremo, tienes la seguridad de que los mensajes y las llamadas personales permanecen entre tú y las personas que tú quieres. Nadie más, ni siquiera WhatsApp, puede leerlos ni escucharlos.
+
+Conexiones simples y seguras, al instante
+
+Lo único que necesitas es tu número de teléfono. No hace falta crear un nombre de usuario ni iniciar sesión. Puedes ver fácilmente tus contactos de WhatsApp y comenzar a enviarte mensajes con ellos. También puedes vincular fácilmente tus otros dispositivos, incluidos los iPads, para tener una conectividad fluida.
+
+Llamadas y videollamadas de alta calidad
+
+Realiza llamadas y videollamadas gratis y seguras con hasta 32 personas. Las llamadas funcionan en todos los dispositivos, incluso si la conexión es lenta, con el servicio de Internet del teléfono o la tableta.
+
+Chats grupales para mantenerte en contacto
+
+Mantente cerca de tus amigos y familiares con llamadas y chats grupales cifrados de extremo a extremo. Comparte mensajes, fotos, videos y documentos en dispositivos móviles, tabletas y computadoras. También puedes usar enlaces de llamada y compartir pantalla para facilitar las llamadas grupales y la colaboración.
+
+Mantente en contacto en tiempo real
+
+Puedes compartir tu ubicación en los chats individuales o grupales mientras usas WhatsApp en tu teléfono móvil. O bien puedes grabar mensajes de voz para aquellos momentos en los que el texto no es suficiente.
+
+Comparte momentos cotidianos mediante el estado
+
+Comparte tu día a día con quienes más te importan. Con el estado, puedes compartir actualizaciones con texto, fotos, videos y GIF que desaparecen después de 24 horas. Siempre tendrás el control de quién puede ver tu estado. Tan solo elige con quién quieres compartirlo: todos tus contactos o solo los que selecciones. Y haz que tu día a día cobre vida.
+
+* Es posible que tu proveedor de servicios móviles aplique cargos por el uso de datos. Ponte en contacto con tu proveedor para obtener más información al respecto.
+
+
+---------------------------------------------------------------------------
+
+Si tienes comentarios o preguntas, ve a WhatsApp > Ajustes > Ayuda > Contáctanos
+
+Condiciones del servicio: https://www.whatsapp.com/legal/terms-of-service 
+
+Obtén más información sobre los mensajes privados: https://www.whatsapp.com/privacy 
+
+Obtén más información sobre la seguridad de WhatsApp: https://www.whatsapp.com/security",2009-05-04T02:43:49Z,2025-11-21T02:37:57Z
+hn,Honduras,Kids,36,23,447188370,Snapchat: Fotos con Amigos,"Snap, Inc.",https://apps.apple.com/hn/app/snapchat-fotos-con-amigos/id447188370?uo=4,0.0,4.73496,6105,Photo & Video,"Snapchat: Tu mundo, a tu manera
+Snapchat es una forma rápida y divertida de compartir el momento y chatear con tus amigos y familiares. Toma fotos, conéctate con amigos y explora contenido en tendencia, todo mientras creas recuerdos que querrás revivir.
+¡Feliz Snapping!
+Captura y Crea
+Abre directamente la cámara para capturar fotos o videos al instante. Dale un toque creativo con filtros, lentes y Bitmoji para que cada Snap destaque. Descubre diariamente filtros nuevos creados por la comunidad y mantén viva tu creatividad.
+Chatea y Conéctate
+Mantente en contacto con amigos mediante mensajes en tiempo real, Historias de grupo o videollamadas de hasta 16 personas. Usa filtros y lentes durante las llamadas para hacerlas aún más divertidas. Exprésate con Friendmojis, emojis personalizados para ti y tus amigos.
+Historias y Spotlight
+Mira las Historias de tus amigos y comparte las tuyas para mostrar tu día. Explora videos en tendencia en Spotlight o disfruta de programas exclusivos y actualizaciones en vivo adaptadas a tus intereses.
+Recuerdos y Snap Map
+Guarda tus Snaps favoritos en Recuerdos para revivirlos y compartirlos después. Usa Snap Map para descubrir Historias de todo el mundo o comparte tu ubicación con amigos cercanos. ¿Prefieres privacidad? Activa el Modo Fantasma para mantenerte fuera del radar.
+Celebra las amistades
+Cada conexión es especial con los perfiles de amistad privados. Revive momentos compartidos, recuerdos guardados y descubre detalles únicos sobre tu vínculo.
+Snapchat es donde la creatividad y la conexión cobran vida cada día. ¡Únete a millones y empieza a Snapear ahora!
+Para obtener una descripción completa de nuestras prácticas de privacidad, visita nuestro Centro de privacidad.",2011-07-13T23:51:40Z,2025-11-20T12:02:02Z
+hn,Honduras,Kids,36,24,508231856,Zello Walkie Talkie,Zello Inc,https://apps.apple.com/hn/app/zello-walkie-talkie/id508231856?uo=4,0.0,4.64846,586,Business,"Zello es la app #1 de estilo walkie talkie con más de 150 M de usuarios en 200+ países. Es perfecta para colaborar con tu equipo de trabajo o comunidad en tiempo real. Zello convierte tu teléfono en un walkie talkie que funciona en cualquier parte del mundo siempre y cuando estés conectado a Internet!
+
+Taxi y despachadores de entregas, trabajadores de construcción, gerentes de flotas de empresas, socios minoristas y trabajadores de hoteles aman usar Zello para ubicar a los miembros de su equipo, comunicar información crítica, y realizar su trabajo de una manera más eficiente. Zello incluso ha reemplazado radios de 2 vías para estas personas, lo que extendiendo el alcance de comunicación y toma ventaja de los teléfonos y tabletas que ya usan los trabajadores.
+
+Millones más utilizan Zello en lugar de mensajes de texto o llamadas: puedes usarlo para conversaciones privadas con tus amigos, conversaciones en vivo grupales con tu familia, coordinar rutas en una aventura, o para coordinar una práctica de fútbol.
+
+• Habla gratuitamente usando voz en vivo en cualquier proveedor de Internet o Wi-Fi con absoluta claridad
+• Organiza tu comunicación en canales de hasta 6000 usuarios
+• Envía fotos, textos o tu ubicación a tus compañeros de trabajo o amigos al instante.
+• Accede a tu historial de mensajes
+• Uso con un sinnúmero de dispositivos compatibles y accesorios push-to-talk - incluso radios
+• Observa quién está disponible u ocupado
+• Gratis y sin anuncios",2012-03-29T20:21:28Z,2025-11-06T18:45:41Z
+hn,Honduras,Kids,36,25,686449807,Telegram Messenger,Telegram FZ-LLC,https://apps.apple.com/hn/app/telegram-messenger/id686449807?uo=4,0.0,3.81851,1113,Social Networking,"Mensajería instantánea en estado puro. Simple, rápido, seguro y sincronizado en todos tus dispositivos. Una de las 5 apps más descargadas del mundo con más de 1000 millones de usuarios activos.
+
+RÁPIDO: Telegram es la aplicación de mensajería más rápida del mercado, poniendo en contacto a la gente a través de una red única y distribuida de centros de datos alrededor del mundo.
+
+SINCRONIZADO: Puedes acceder a tus mensajes desde todos tus teléfonos, tablets y computadoras al mismo tiempo. Las apps de Telegram son autónomas, así que no necesitas tener tu teléfono conectado. Comienza a escribir en un dispositivo y termina el mensaje en otro. Nunca más pierdas tus datos.
+
+ILIMITADO: Puedes enviar archivos y multimedia sin límites en cuanto a su tipo y tamaño. No requerirás espacio en tu dispositivo para todo tu historial de chat y estará guardado de forma segura en la nube de Telegram durante el tiempo que necesites.
+
+SEGURO: Nuestra misión es proporcionar la mejor seguridad en combinación con la facilidad de uso. Todo en Telegram, incluyendo los chats, grupos, multimedia, etc., se cifra usando una combinación del cifrado simétrico AES de 256 bits, el cifrado RSA de 2048 bits y el intercambio de claves seguras Diffie-Hellman.
+
+100% GRATUITO Y ABIERTO: Telegram tiene una API para desarrolladores completamente documentada y gratuita, apps de código abierto y compilaciones verificables para demostrar que la app que descargas está construída a partir de exactamente el mismo código que está publicado.
+
+PODEROSO: Puedes crear grupos de hasta 200.000 miembros, compartir videos de gran tamaño, archivos de cualquier tipo (.DOCX, .MP3, .ZIP, etc.) de hasta 2 GB cada uno, e incluso configurar bots para tareas específicas. Telegram es la herramienta perfecta para alojar comunidades en línea y coordinar el trabajo en equipo.
+
+FIABLE: Construido para enviar tus mensajes en la menor cantidad de bytes posible, Telegram es el sistema de mensajería más fiable jamás hecho. Funciona incluso en las conexiones móviles más débiles.
+
+DIVERTIDO: Telegram tiene poderosas herramientas de edición de fotos y videos, stickers y emojis animados, temas completamente personalizables para cambiar la apariencia de tu app y una plataforma abierta de stickers/GIF para satisfacer todas tus necesidades de expresión.
+
+SIMPLE: Aunque ofrece una cantidad de características sin precedentes, nos preocupamos de mantener una interfaz limpia. Telegram es tan sencillo que ya sabes cómo usarlo.
+
+PRIVADO: Nos tomamos en serio tu privacidad y nunca daremos acceso a tus datos a terceros. Puedes eliminar cualquier mensaje que hayas enviado o recibido para ambas partes, cuando quieras y sin dejar rastro. Telegram nunca usará tus datos para mostrarte publicidad.
+
+Para aquellos interesados en la máxima privacidad, Telegram ofrece chats secretos. Los mensajes en los chats secretos pueden ser programados para que se destruyan automáticamente desde ambos dispositivos que participan del chat. De este modo, puedes enviar todo tipo de contenidos para que luego desaparezcan, como mensajes, fotos, videos e incluso archivos. Los chats secretos usan cifrado end-to-end (de extremo a extremo), para garantizar que los mensajes puedan ser leídos sólo por el destinatario.
+
+Seguimos expandiendo los límites de lo que puedes hacer con una aplicación de mensajería. No esperes años a que otras aplicaciones de mensajería alcancen a Telegram. Únete hoy a la revolución.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2013-08-14T00:12:31Z,2025-11-19T15:52:30Z

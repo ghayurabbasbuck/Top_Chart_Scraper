@@ -1,0 +1,963 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+il,Israel,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/il/app/google-translate/id414706506?uo=4,0.0,4.0266,2895,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+il,Israel,Reference,6006,2,374050672,Athkar - أذكار,Fares Fares,https://apps.apple.com/il/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4,0.0,4.41747,11790,Reference,"The best Athkar app / azkar (Daily Islamic Prayers) in Arabic & English languages. Free app with the option to subscribe to the exclusive version with extra features. 
+
+Quran (iOS 17+)
+Accurate prayer times based on your current location
+Adhan/azan in different voices with notifications
+Qibla Direction
+Morning Athkar
+Evening Athkar
+Roquia
+Travel prayer
+Names of Allah
+Dark Mode option
+Supports Apple Watch
+Supports iPad
+Supports macOS with M1 chips
+Friday sunnah reminder
+White Day Fasting Reminder
+Counter / Subha
+Hajj and Umrah
+Islamic greeting cards: Eid Mubarak - Ramadan Kareem.
+Prayer times for the Apple Watch faces 
+Create your own Athkar / Azkar and get notifications for any athkar you created. 
+iCloud sync support
+
+
+أفضل تطبيق أذكار بشهادة المستخدمين، تطبيق اذكار مجاني سهل الاستخدام يشمل على الأذكار و الأدعية المهمة من الكتاب و السنة و أوقات الصلاة و المصحف و اتجاه القبلة - اذكار الصباح و المساء - الأذكار عند النوم والاستيقاظ - أدعية من القران الكريم - الرقية الشرعية من القرآن و السنة - من دعاء الرسول صلى الله عليه و سلم 
+
+---   مزايا التطبيق   ---
+يدعم الايفون والايباد
+يدعم ساعة ابل
+أوقات الصلاة
+مواقيت الصلاة في مدينتك
+حساب دقيق لمواقيت الصلاة
+الأذان بأصوات مختلفة
+بوصلة لتحديد اتجاه القبلة - مكة 
+اذكار الصباح
+اذكار المساء
+أذكار النوم 
+الرقية الشرعية
+ادعية الصلاة
+دعاء السفر
+حصن المسلم
+دعاء الرسول صلى الله عليه و سلم
+اسماء الله الحسنى
+الحج والعمرة
+أذكار مقسمة حسب المناسبة
+شكل جذاب لتسهيل القرأة
+خاصية القراءة الليلية
+خاصية البحث
+ادعية للميت
+ادعية للمريض
+أدعية الزوج و الزوجة
+أدعية الأبناء
+أدعية الأم و الأب الوالدين
+خاصية المنبه لأذكار الصباح و المساء
+منبه الفجر - فعّل منبه الفجر وحدد الوقت، وسيتم ضبط منبه الجهاز تلقائيًا, حتى لو كان الجهاز في وضع الصامت.
+منبه صلاة الضحى
+منبه يذكرك بأذكار منوعة عدة مرات في اليوم
+تذكير صيام الايام البيض
+تذكير سنن يوم الجمعة
+عداد الكتروني و سبحة للمساعدة على عد الأذكار
+صوت للاذكار بصوت الشيخ مشاري العفاسي
+يمكنك تسريع الملف الصوتي للأذكار
+سهولة تصفح الأذكار
+صفحات مرقمة
+مفضلة
+بطاقات معايدة إسلامية : عيد مبارك - رمضان كريم.
+قائمة للاذكار في كل قسم للوصول إلى الدعاء المطلوب بسهولة
+اماكنية ارسال كل دعاء عن طريق البريد الالكتروني، الرسائل النصية،  فيس بوك و تويتر وغيرها 
+صفحة للاعدادت سهلة الاستخدام للتحكم في شكل البرنامج  و تصغير او تكبير الخط وغيرها الكثير
+دعم اتجاه القبلة للمكفوفين
+مواقيت الصلاة في ساعة ابل
+عرض الصلاة القادمة أو التاريخ الهجري في واجهة الساعة
+وقت وتذكير الثلث الأخير من الليل.
+
+--- أذكار خاصة بك ---
+خاصية اضافة الاذكار
+اضافة الاقسام حسب رغبتك 
+تحرير و تغير مكان الاقسام 
+حذف الاقسام و محتوياتها
+اضافة ذكر أو دعاء جديد لأي قسم معين. 
+اضافة عداد لأي دعاء. 
+تحرير أي دعاء أو نقل مكانه. 
+نقل الدعاء من قسم إلى آخر.
+نسخ كامل للأذكار الرئيسية في التطبيق مثل أذكار الصباح و التحكم بها و حذف أو اضافة اي ذكر إليها.
+يمكنك نقل كل محتوى أذكاري اي جهاز ثاني أو ارساله إلى احد اقربائك أو اصدقائك.
+دعم مزامنة محتوى قسم أذكاري مع حسابك في iCloud 
+اذا استخدمت نسخة من تطبيق أذكار في جهاز ثاني يمكنك مشاهدة نفس محتويات اذكاري والمفضلة والعداد.  
+يمكنك استلام تنبيهات لكل قسم في أذكاري
+أدعية شاملة في صفحة واحدة تحتوي 
+
+---   النسخة الحصرية   ---
+أذكار للاحبة يمكنك من خلال القسم اضافة ملف خاصة لشخص عزيز عليك مريض متوفي أو للوالدين أو الزوج أو الزوجة أو الأبناء و سيقوم التطبيق بإنشاء أدعية في مكان واحد لهذا الشخص يمكنك الرجوع اليها أي وقت أو تفعيل خاصية التذكير اليومية.
+كتيب الأذكار يمكنك اهداء الكتيب لمن تشاء بصيغة PDF
+التقويم الهجري
+التقويم الميلادي
+قسم خاص بـ رمضان
+قسم خاص بـ يوم الجمعة
+ سورة الكهف
+تحول التاريخ الهجري إلى الميلادي و العكس 
+مواقيت الصلاة للشهر الهجري أو الميلادي واي شهر اخر في نفس السنة
+يمكن مشاركة مواقيت الصلاة ليوم معين كصورة في منصات التواصل مثل الواتساب أو سنات شات أو اسنتجرام Stickers
+يمكن مشاركة أو تحميل مواقيت الصلاة لشهر معين بصيغة ملف PDF
+متى رمضان القادم و عيد الفطر و عيد الاضحى 
+مناسبات هجرية 
+الأيام البيض وقتها و فضلها 
+السنن الرواتب 
+دعاء ختم القرآن 
+دعاء القنوات
+اضافة التاريخ الهجري على ايقونة التطبيق
+تغير شكل ايقونة التطبيق 
+تغير لون الخلفية",2010-05-27T01:28:54Z,2025-11-18T20:56:54Z
+il,Israel,Reference,6006,3,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/il/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.22851,2245,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+il,Israel,Reference,6006,4,6469106673,"Translator, Translate App",长兴 邓,https://apps.apple.com/il/app/translator-translate-app/id6469106673?uo=4,0.0,3.79265,762,Reference,"Translator is your multi-language communication tool, supporting translation between 100+ languages, allowing you to communicate easily in every corner of the world. It not only provides standard text translation, but also provides a variety of powerful functions to meet various language needs.
+
+Feature Highlights:
+1. Text translation: Easily realize text translation between languages through keyboard input. No outside help required, everything is under control.
+2. Real-time conversation translation: Multi-language conversation is no longer an obstacle. It can instantly translate the words between you and your conversation partner, enabling barrier-free communication.
+3. Voice input: If you don’t want to enter text, you can use the voice function to write characters directly on the screen, and they will be translated into text.
+
+Privacy: https://www.merriam-webster.com/i/privacy-policy
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-04-17T07:00:00Z,2024-11-06T01:46:39Z
+il,Israel,Reference,6006,5,706037876,Ayah - Quran App,Abdullah Bajaber,https://apps.apple.com/il/app/ayah-quran-app/id706037876?uo=4,0.0,4.65676,4172,Reference,"Ayah is a modern, fully-featured Quran app that is beautiful and easy to use.
+
+Ayah's clean, intuitive interface makes for a relaxing reading experience without any visual clutter. It's also fast to help you get back reading as quickly as possible.
+
+With Ayah, you can listen to your favorite Quran recitations, with verse-by-verse highlighting and customizable repeat options.
+
+
+FEATURES
+• The latest edition of the Madinah Mushaf
+• Tens of reciters to choose from
+• Extensive sharing options
+• Khatmah
+• Colorful bookmarks
+• Starred verses
+• Quick searching
+• Verse of the day
+• Thematic highlighting
+• Reminders
+• Dark Mode
+
+
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2013-10-03T20:18:43Z,2025-03-20T18:07:44Z
+il,Israel,Reference,6006,6,1454509502,Azkar - اذكار : Athan & Prayer,Hamza Oqbah,https://apps.apple.com/il/app/azkar-%D8%A7%D8%B0%D9%83%D8%A7%D8%B1-athan-prayer/id1454509502?uo=4,0.0,4.59671,4079,Reference,"Azkar App is your daily companion for enhancing spirituality and facilitating Islamic practices. It provides a comprehensive collection of authentic Athkar (remembrances) and supplications from the Qur’an and Sunnah, along with innovative features designed to meet the needs of Muslims in their daily lives.
+
+Join millions of users and experience a complete spiritual journey with Azkar App, crafted to serve every Muslim.
+
+Key Features
+- Morning & Evening Athkar, Sleep & Wake-up Athkar, Prayer Athkar, and more: A modern and user-friendly interface with an audio player and repetition counter.
+- My Athkar Section: Create and customize your own Athkar according to your needs.
+- Qur’an (Reading, Tafsir, and Audio): Enjoy an eye-friendly reading experience with font and color customization, translations in multiple languages, and easy-to-understand Tafsir. You can also listen or download recitations by your favorite reciter.
+- Khatmah: Set a Qur’an completion plan with daily reading reminders.
+- Prayer Times, Qibla Direction, and Hijri Calendar: View the Islamic calendar, accurate prayer times, and Qibla direction, with a monthly prayer calendar that can be shared.
+- Adhan & Full Adhan Alerts: Choose from a variety of Adhan voices with pre-Adhan reminders.
+- Reminders Section: Create reminders for specific Athkar, supplications, or important events with customizable sound and repetition options.
+- Daily Content Updates: Get Dua of the Day, Ayah of the Day, and Video of the Day with valuable tips and inspiring stories.
+- Various Azkar: A variety of supplications with customizable backgrounds, ready for sharing.
+- Ramadan Section: Essential Ramadan features including Prayer & Fasting Tracker, Daily Duas, Zakat Calculator, and more.
+- Daily Quranic Benefits: Daily insights into Qur’anic verses for contemplation.
+- Worship Trackers: Tools to track Athkar, fasting, and prayers, helping you stay consistent and improve commitment.
+- Tasbih Counter: Perform electronic Dhikr with an easy-to-use digital Tasbih.
+- Ruqyah (Islamic Healing): Authentic Ruqyah texts from the Qur’an and Sunnah, with an audio listening option.
+- Prophet Muhammad’s (PBUH) Biography in Videos: Engaging video content about the life of Prophet Muhammad (PBUH).
+- 99 Names of Allah.
+- Surah Al-Kahf Reminder for Fridays.
+- Hajj & Umrah Guide: Step-by-step instructions for performing Hajj and Umrah.
+- Islamic & Ramadan WhatsApp Stickers: Updated Islamic and Ramadan sticker packs with easy export to WhatsApp.
+- Istighfar (Forgiveness) Alerts: Get reminders for seeking forgiveness and making Dhikr at customizable intervals (e.g., every 10 minutes or once a day).
+- Qiyam-ul-Layl (Night Prayer) Alerts.
+- Live Activities & Widgets: Quick access to features like prayer times, Hijri date, various azkar, Khatmah, prayer tracker, fasting tracker, and more from the home screen and lock screen.
+- Professional & Customizable Design: Choose your favorite background, and enable dark mode for a better visual experience.
+- …and many more great features you’ll love!
+
+Why Azkar App?
+Azkar App is a comprehensive Islamic tool, combining authenticity with modern technology to fulfill your spiritual and daily needs.
+
+Take this opportunity to increase your daily rewards and strengthen your connection with Allah. Download Azkar App now and embark on an uninterrupted spiritual journey filled with Dhikr and supplication.
+
+
+Privacy Policy:
+https://hamzaaa.com/azkar/privacy.html
+
+Terms of Use:
+https://hamzaaa.com/azkar/terms-of-use.html",2019-03-02T01:24:06Z,2025-02-13T12:12:49Z
+il,Israel,Reference,6006,7,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/il/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.44564,4039,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-24T01:05:18Z
+il,Israel,Reference,6006,8,1137963102,"Muslim: Prayer Times, Athan",Assistant App Teknoloji Anonim Sirketi,https://apps.apple.com/il/app/muslim-prayer-times-athan/id1137963102?uo=4,0.0,4.45828,5992,Reference,"Millions of Muslims around the world use Muslim Assistant app to see prayer times and find Qibla direction.
+
+Muslim Assistant, the most downloaded prayer time application in all Muslim countries, includes many useful features.
+
+MUSLIM ASSISTANT FEATURES
+
+Prayer Times: The application shows you the most accurate azan times according to your location or region. If you want, you can receive prayer time notifications with Azan sound or with other sound options.
+
+Qibla Finder: You can find Mecca and Kaaba on the map, and you can determine the Kaaba direction of your location in the most accurate way. With the help of Compass Mode, It is easy to see where the Kaaba is located even when you are offline, and you can pray according to Islamic rules.
+
+Dhikr Counter: You can easily make dhikrs, record your dhikr counts and dhikr loops.
+
+Friday Messages: You can send special Friday messages to your loved ones.
+
+Nearby Mosques: You can see the Mosques and Masjids closest to your location on the map.
+
+The Quran: You can read the Quran in 40+ different languages and there are also transliteration options. You can see the Juz list and change the text size as well. You have the option to listen to the Quran recited by famous reciters, providing a unique and diverse listening experience.
+
+Kaaba Live Broadcast: You can watch the Kaaba live 24 hours a day.
+
+Esma-ul Husna: You can see the 99 names of Allah and their meanings and listen to Esma hymn and make dhikr of each Name.
+
+Hijri Calendar: You can follow the dates of important islamic days such as Ramadan, Laylat-ul Qadr, Eid al-Fitr and Eid al-Adha.
+
+Message Editor: You can choose existing messages or compose new ones, with a variety of background options, using the editor tool and send your custom messages to your loved ones.
+
+Notes:
+
+For proper Qibla Finder usage, you need to hold your phone on a flat surface and keep it away from electromagnetic fields and metal objects. If it is necessary, you can manually rearrange your location through pressing the marker.
+
+Because the app uses your device's location settings to give you prayer times, please kindly be aware your location settings are open and up to date.
+
+May Allah bless us all.
+
+تطبيق مساعد المسلم هو الأفضل لتذكير المسلم بالواجبات اليومية: أوقات الصلاة، إتجاه القبلة، كما يحتوي أيضا على القرآن الكريم، الذِكر، محرر الرسائل، رسائل يوم الجمعة، تقويم رمضان وأوقات الإفطار والسحور، وأكثر من ذلك انه مثالي لواجباتك الإسلامية، فأنه تطبيق إسلامي متكامل.
+
+----------------------------------------
+
+If you choose to purchase Muslim Assistant Premium, payment will be charged to your iTunes account, and your account will be charged for renewal within 24 hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the iTunes Store after purchase. Current Muslim Assistant Premium subscription price starts at $2.49 USD/month and one-month(Monthly Auto - Renewal) and twelve-month(Yearly Auto - Renewal) or Lifetime (One Time Purchase) packages are available. There is free trial for yearly subscriptions, subscription begins immediately but billed when the trial is over. Prices are in US dollars, may vary in countries other than the US and are subject to change without notice. No cancellation of the current subscription is allowed during the active subscription period. If you don’t choose to purchase Muslim Assistant Premium, you can simply continue using Muslim Assistant for free.
+
+This application is subject to Apple's Standard End User License Agreement (EULA).
+Privacy and Terms: https://www.muslimassistant.com/privacy-terms.html",2016-08-03T17:49:14Z,2025-11-15T10:29:52Z
+il,Israel,Reference,6006,9,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/il/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.51851,27,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+il,Israel,Reference,6006,10,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/il/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,4.66667,9,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+il,Israel,Reference,6006,11,475772902,Night Sky,iCandi Apps Ltd.,https://apps.apple.com/il/app/night-sky/id475772902?uo=4,0.0,4.5038,2104,Reference,"Night Sky is a powerful AI personal planetarium.
+
+Quickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you’re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!
+
+FEATURE SET: 
+
+- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you’re interested in, provide information on anything to do with astronomy, or even show you how the sky looks on the other side of the world!  With your own personal AI Super Astronomer right by your side, Night Sky Aura becomes the new natural way to interact with the sky above! 
+
+- SKY TAGS - Make Night Sky yours, by adding personal Sky Tags to the map!  Pin Sky Tags to objects in the sky to save for future reference, and share them via iMessage so others can find them!  Sky Tags can be categorized, and are completely personal to you.  Maybe you want to tag a star as a memorial to someone, or tag something you’d like to observe later that night.  You can even add Astrophotography photos and observation notes to your Sky Tags!  
+
+- CONNECTED STARGAZING (+ Feature) - Connected Stargazing is a revolutionary new feature that utilizes SharePlay in iOS 15.1, allowing you to stargaze with others when you are apart!  Start a FaceTime Audio call with those who you would like to stargaze with, then create a session by adding objects for everyone to find in the sky!
+
+- SPATIAL AUDIO OBJECT NAVIGATION - Using AirPods Pro or AirPods Max, search for an object when automatic sky tracking is on, and Night Sky will make the star, planet or constellation ‘chirp’ in the 360° soundscape, assisting you to navigate to the object with sound!
+
+- AR SKY WINDOW - Erase the ceiling of your bedroom, lounge or classroom with AR!  Night Sky intelligently detects the ceiling or other flat surface in a room, and can make it magically disappear to reveal the sky behind it!  
+
+- BILLIONS OF STARS!  (+ Feature) - Space is vast, so Night Sky has been hyper charged with over 1.7 BILLION STARS streamed from the cloud!  With a new super deep zoom (greater than 10X before), prepare to delve deeper into space than you ever imagined!
+
+- MAPS UI - A clean and familiar interface with Search features including Quick Find, intelligent Night Red Mode, Light Pollution indicator and easy to use menu, prepare to navigate Night Sky quicker than ever before!
+
+- AR PLANETARY PORTALS & AR GRAND ORRERY (+ Features) - Step onto the surface of other planets by placing AR portals around your room!  Or walk around the entire Solar System using the newly refreshed interactive Grand Orrery!
+
+- NIGHT SKY WATCH AR - Night Sky magically comes to life on Apple Watch, with Glass Constellations, Red Vision, and Night Sky Live Tours - all on your wrist! 
+
+- AR OBJECT EXPLORATION  - Pull Planets, Stars and Constellations out of the sky and look at them in detailed AR!
+
+- NIGHT SKY TOURS (+ Feature):  Get a live sky tour or create your own sky tours for any location and time in the world!  
+
+- NIGHT SKY MINDFULNESS (+ Feature) - A mindfulness stargazing experience adding mindfulness minutes with Apple HealthKit. 
+
+- AND MANY MORE FEATURES! 
+
+
+Subscription Information: 'Night Sky +' and 'Night Sky + Aura' are available as optional subscriptions. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in your App Store account settings.  Privacy policy: http://www.icandiapps.com/privacy-policy/  Terms and Conditions of Use: http://www.icandiapps.com/terms-conditions/",2011-11-01T17:57:41Z,2025-11-18T18:32:54Z
+il,Israel,Reference,6006,12,1109857175,اذكاري - طمئن قلبك بذكر الله,Muhammed Ballan LTDA,https://apps.apple.com/il/app/%D8%A7%D8%B0%D9%83%D8%A7%D8%B1%D9%8A-%D8%B7%D9%85%D8%A6%D9%86-%D9%82%D9%84%D8%A8%D9%83-%D8%A8%D8%B0%D9%83%D8%B1-%D8%A7%D9%84%D9%84%D9%87/id1109857175?uo=4,0.0,4.64156,3585,Reference,"تطبيق أذكاري صُمم ليساعدك على ان لا تنسى ذكر الله ابداً!
+
+
+تطبيق اذكاري صمم ليساعد على جعل الذكر عادة باذن الله
+
+يمكنك الذكر اثناء تصفح الانترنت او اي برنامج تواصل اجتماعي مثل فيس بوك، تويتر، او اينستاغرام
+يمكنك اظهار الأذكار اثناء المحادثة مع الاصدقاء على واتس اب، لاين، ڤايبر، فيس بوك، تانغو او اي تطبيق محادثة فقط بانزال مركز الاشعارات
+
+خصائص و مميزات تطبيق الأذكار و الأدعية ""أذكاري"":
+
+* أذكار الصباح, أذكار المساء أذكار النوم و غيرها من أذكار اليوم و اليلة
+* تنبيه لأوقات أذكار الصباح, أذكار المساء, أذكار النوم
+* رسائل اذكاري لتلقي اذكار و أدعية جديدة
+* بوصلة القبلة, تعمل بدون انترنت
+* صفحة بماذا تشعر؟ الاذكار مصنفة حسب الشعور
+* المسبحة الاكترونية الذكية!
+* ظهور الاذكار و الأدعية على مركز الاشعارات, ليساعدك ان لا تنسى ذكرك الله ابدا
+* بامكانك اضافة اذكارك او ادعيتك الخاصة بك، لتظهر بشكل تلقائي على مركز الاشعارات
+* استهلاك ""أذكاري"" للبطارية شيء لا يذكر. فقد تم تحسين ادائه و تجريبه ليقدم لك باحسن ادائه.
+* يمكنك تصميم اشعار الذكر بنفسك فيمكنك تغيير لون خلفية اشعار الذكر, حجم و شكل خط الذكر..والمزيد..
+* والمزيد من الميزات الرائعة التي تنتظرك لتكتشفها في برنامج أذكاري...
+
+انشروه لينالكم الاجر
+
+
+رابط شروط الاستخدام :
+https://athkariapp.com/terms-and-conditions.html
+
+English:
+""Athkari"" Muslims's application, It has been designed to help you to never forget to mention Allah in the simplest way. Everything thing will be customizable in order to help you never forget to mention Allah on the way suitable for you.
+ 
+While you are browsing Internet, news, chating or whatever you are doing on your mobile, Azkari will be able show the notification smoothly to remind you with Allah's name (Athkar) on your personally customized way..
+
+Please share Azkari app as much as you can let Muslims share the Thawab..
+
+Features of Azkari for Muslims:
+* Morning Athkar, Evening Zikir, and Sleep Athkar
+* Notification for Sabah Athkar, Evening Athkar, and Sleep Zikirs
+* Qibla Compass, Works offline
+* Athkar will be changed automatically, and periodically to remind you to mention Allah, just by draging the notification center down.
+* You can add Athkar that you want it to show up in the notification
+* Material Design is used to help you get what you want as fast as possible.
+* FREE
+* keep your Athkari up to date
+
+Terms of Use:
+https://athkariapp.com/terms-and-conditions.html",2016-05-14T18:17:22Z,2025-11-08T05:39:20Z
+il,Israel,Reference,6006,13,6753166395,True Heritage & Ancestry: EDNA,MOBIVERSITE YAZILIM BILISIM REKLAM VE DANISMANLIK HIZMETLERI SANAYI TICARET LIMITED STI,https://apps.apple.com/il/app/true-heritage-ancestry-edna/id6753166395?uo=4,0.0,4.66667,15,Reference,"Your face is a time machine with EDNA. Our advanced technology generates a stunning photo of your ancestors and reveals your true origin story. See who you really are. All from just one selfie.
+
+Forget boring family trees that end in names on a chart. We offer a tangible connection. Our technology renders a lifelike, era-authentic portrait of ancestors you’ve never met, capturing a plausible likeness with a strangely familiar face. It’s a jaw-dropping, shareable moment of connection when you see your own eyes, your smile, looking back at you from another time. This is the family photograph that was never taken.
+
+But the portrait is just the beginning. It’s your entry point into a complete Ancestral Report, a deep dive into the elements that define your heritage.
+
+First, discover your true origins with a detailed, percentage-based breakdown of your nationality. Go beyond continents to see the specific blend of cultures that make up your unique identity, revealing connections you never knew existed. Then, we reveal their story. Learn about the specific city your ancestors likely called home, the authentic craft they dedicated their lives to, and even the historical diet that fueled their world.
+
+Your origin story doesn't just end in the past—it echoes in your present. The resilience of a frontiersman, the precision of an artisan, the creativity of a storyteller; these are more than historical facts, they are potential traits within you. We connect your heritage to your life today, offering unique insights for modern careers and lifestyles that may align with these ancestral strengths. It’s a powerful new way to understand your own passions and potential.
+
+Join a growing community of people discovering themselves in a completely new way. The stories and portraits generated by EDNA are sparking conversations, connecting families, and helping people see their own identity in a richer, deeper light. It's a unique experience everyone is talking about.
+
+This isn’t a guess. Our analysis is powered by a vast database of real historical records, cultural trends, and geographic data. This robust framework allows us to create a narrative that feels both magical and deeply plausible. We are committed to your privacy; your photo and personal data are always secure and are never shared.
+
+To analyze your photos and create your unique ancestral story, you’ll need a True Heritage Pro subscription. The Pro subscription allows you to unlock full access to detailed reports, including Explore Your Ancestors, Explore Your Origins, Your Ideal Partner, and Your Past Life. Please note that photo analysis and viewing the complete content of any generated reports are premium features available only to subscribers
+
+Subscriptions:
+To access all premium content we have subscription packages. Subscription periods are 1 week and 1 year. Every week or year your subscription renews.
+1 week subscription price is $5.99 and 1 year price is $29.99.
+
+Subscriptions will automatically renew unless cancelled at least one day before the renewal date within 24 hours before the end of the current period. Payment will be charged to your Apple ID account at the confirmation of purchase. You can manage and cancel your subscription by going to your account settings in the App Store
+
+Download True True Heritage & Ancestry: EDNA now and finally meet your ancestors.
+--
+
+Privacy Policy: https://www.mobiversite.com/privacypolicy
+Terms & Conditions: https://www.mobiversite.com/terms
+EULA: https://www.mobiversite.com/eula",2025-10-03T07:00:00Z,2025-11-21T18:52:10Z
+il,Israel,Reference,6006,14,1534928245,הברית החדשה,"DERECH EL, Israeli Association for Awareness of Biblical Roots",https://apps.apple.com/il/app/%D7%94%D7%91%D7%A8%D7%99%D7%AA-%D7%94%D7%97%D7%93%D7%A9%D7%94/id1534928245?uo=4,0.0,4.76699,103,Reference,"אפליקציה קלילה ומהירה ללא צורך בחיבור לאינטרנט לקריאה של הברית החדשה (מודרני ודליטש) ושל התנ""ך (מסורה ו""העדות""; התנ""ך בעברית מודרנית) בשפה העברית.
+
+האפליקציה מוגשת בחסות המכללה למקרא.
+https://biblecollege.co.il
+
+------------------
+זכויות יוצרים:
+כל הזכויות לאפליקציה שמורות למכללה למקרא.
+טקסט הברית החדשה בתרגום עברי חדש, כל הזכויות שמורות © 1976, 1995, 2006 החברה לכתבי הקודש בישראל, ת.ד. 44, ירושלים 91000
+כל הזכויות לתרגום ""העדות"", התנ""ך לבני הנעורים, שמורות להוצאת הגפן.
+כל זכויות ההקלטה והאודיו של הברית החדשה שמורות למעוז ישראל",2020-10-08T07:00:00Z,2025-10-17T01:20:36Z
+il,Israel,Reference,6006,15,6738537088,YarnPal - Crochet for Beginner,PIXELCELL PTE. LIMITED,https://apps.apple.com/il/app/yarnpal-crochet-for-beginner/id6738537088?uo=4,0.0,4.77419,31,Reference,"Welcome to the world of simplified crafting: YarnPal is the app that brings your knitting and crochet skills to life in no time. Simply snap a photo, follow step-by-step instructions, and create personalised projects—anytime, anywhere.
+
+YarnPal is your daily companion for knitting and crochet, giving you easy access to tutorials, patterns, and design inspiration. Try it now with our free trial and unlock a world of stitches, motifs, and creative possibilities—perfect for both beginners and experienced makers!
+
+What Can YarnPal Do?
+1. Snap a Photo, Learn a Stitch
+Seen a stitch you love? Take a photo, and YarnPal will tell you its name and show you how to do it. Picking up new stitches is quick and easy!
+2. Step-by-Step Pattern Help
+Stuck on a pattern? Upload it to YarnPal. The app will break it down for you and help you keep track of your place as you work through each row. You can even adjust the pace to suit your needs.
+3. Creative AI Tools
+Get Pattern Ideas: Lacking inspiration? Let YarnPal’s AI suggest new patterns for scarves, shawls, and other creative projects.
+Fix Mistakes: Made an error? YarnPal can spot and help you fix it.
+Understand Charts and Symbols: Struggling with pattern charts? YarnPal explains the symbols so you can follow along with confidence.
+4. Ask the AI Coach
+Have a question about knitting or crochet? Ask the AI Coach anything! From basic stitches to advanced techniques, get instant answers and helpful advice.
+5. Personalise Your Projects
+Want to make something unique? Adjust sizes, styles, and patterns to match your ideas. YarnPal helps you create truly one-of-a-kind pieces.
+
+Who Is YarnPal For?
+1. Beginners
+New to knitting or crochet? YarnPal makes learning simple, with clear steps and helpful tips to get you started with confidence.
+2. Hobbyists
+Already enjoy knitting or crochet? Use YarnPal to try out new tools, tackle tricky patterns, and customise your projects. Take your craft to the next level!
+3. Experts
+Even for advanced crafters, YarnPal saves you time and sparks fresh ideas. Design better patterns, fix issues efficiently, and stay motivated.
+
+Why Use YarnPal?
+With YarnPal, crafting is:
+Easy: Learn stitches and patterns stress-free.
+Fun: Get creative and try something new.
+Organised: Easily keep track of projects and progress.
+
+Join the YarnPal Community
+Connect with knitters and crocheters from around the world to share ideas, showcase your work, and get inspired. With YarnPal, you’ll never craft alone.
+
+Start Your YarnPal Journey Today!
+Download YarnPal now and see what you can create. Whether it’s your first simple scarf or an intricate piece of your own design, YarnPal will guide you every step of the way. Let’s make something amazing together!
+
+[About YarnPal Premium]
+• Payment will be charged to your iTunes Account at confirmation of purchase
+• Subscription renews automatically unless auto-renew is turned off at least 24 hours before the end of the current period
+• Your account will be charged for renewal within 24 hours prior to the end of the current period
+• Any unused portion of a free trial, if offered, will be forfeited when the user purchases a subscription
+• Subscriptions may be managed by the user, and auto-renewal can be turned off by going to iTunes Subscriptions after purchase
+
+Terms of Use: https://app-service.knit-ai.com/static/user_agreement.html
+Privacy Policy: https://app-service.knit-ai.com/static/privacy_policy.html",2024-12-19T08:00:00Z,2025-11-20T17:55:07Z
+il,Israel,Reference,6006,16,1603892248,Collectr - TCG Collector App,Collectr Inc,https://apps.apple.com/il/app/collectr-tcg-collector-app/id1603892248?uo=4,0.0,4.64437,284,Reference,"Why use multiple apps when you can track all your TCGs in one place? Most collectors collect multiple TCGs. Whether you are a Pokemon collector, Magic collector, YuGiOh collector, MetaZoo collector, or even a Funko collector, this app is for you!
+
+
+
+Collectr is a next-generation portfolio manager. We allow you to manage, track and value all your raw, graded and sealed cards in the palm of your hand. It’s never been easier to view your TCG collections as a portfolio. 
+
+
+
+Leverage our real-time database of 200,000+ products to instantly value your products. 
+
+
+
+We have data available for the following TCGs:
+- Magic The Gathering
+- Yu-Gi-Oh!
+- Pokémon
+- Vanguard
+- Force of Will
+- Weiss Schwarz
+- Final Fantasy
+- Star Wars Destiny
+- Dragon Ball Super
+- Funko
+- Transformers
+- Flesh and Blood
+- Digimon
+- Gate Ruler
+- MetaZoo
+
+
+KEY FEATURES 
+- Build Your Collection - Search and add products from our 200,000+ product catalog
+- Value Your Portfolio - Instantly understand and track the value of your collections
+- Track Market Trends - Gain real-time insights into the performance of your collection
+- Multi-Currency Support - Know the value of your collection in any currency (including crypto!)
+- Biggest Gains/Losses - Understand the biggest movers in your portfolio in real-time
+
+
+ADDITIONAL FEATURES THAT REQUIRE IN-APP PURCHASE
+- Unlimited Card Scanning
+- Exclusive Filters
+- Data Exports
+- Social Custom Backgrounds
+
+Download our app today and start managing your collection in the most advanced and efficient way possible!
+
+
+---
+
+More about Collectr:
+
+Terms and Conditions: https://getcollectr.com/terms-and-conditions.html
+Privacy Policy: https://getcollectr.com/privacy-policy.html
+
+E-mail: contact@getcollectr.com
+Instagram: www.instagram.com/getcollectr
+
+Join our discord to chat with us and other like-minded collectors! The link is on our Instagram",2022-01-31T08:00:00Z,2025-11-16T16:11:44Z
+il,Israel,Reference,6006,17,6477325101,Translate Voice: AI Translator,HAPPY TOOLS HK LIMITED,https://apps.apple.com/il/app/translate-voice-ai-translator/id6477325101?uo=4,0.0,4.21739,23,Reference,"Translate Voice is a useful translation application that provides you with real-time and accurate text, voice and image translation services. Whether you are studying, working or traveling, it can break the language barrier for you and allow you to communicate with the world without any barriers.
+
+Main feature:
+
+1. Multi-modal translation: text, voice, pictures, all available. Whether you are typing, speaking, or taking photos, AI translation experts can provide you with accurate and fast translations.
+
+2.AI driven: Using the latest artificial intelligence technology, our translation engine can provide natural and smooth translations, making you feel like you are communicating directly with a native speaker.
+
+3. Privacy protection: We respect and protect your privacy. All translation content will be processed on cloud servers, and we will not collect or share any personal privacy information.
+
+iTranslator is your language companion that you can take with you wherever you go. Download iTranslator now and start your multilingual journey!",2024-02-03T08:00:00Z,2025-11-03T10:11:38Z
+il,Israel,Reference,6006,18,1552407475,DeepL Translate,DeepL SE,https://apps.apple.com/il/app/deepl-translate/id1552407475?uo=4,0.0,4.44792,96,Reference,"- Real-time camera translation: point your camera at text to instantly translate what you see
+- Photo translation: translate text in taken or imported photos
+- Dictation: translate what you speak out loud
+- Text to speech: hear your translated text read out loud
+- File translation: translate text from files
+- Quick detection: translations begin as you type
+- Alternative translations: explore different options for single words and short phrases
+- Favorites: save words and phrases for future reference
+- History: easily find, edit, and reuse past translations
+- Transliteration: read translations of non-Latin languages, such as Japanese or Russian, in the Latin alphabet
+- Glossary: translate key words and phrases as defined by you or your organization (available with a paid plan)
+- Tone: choose a formal or informal tone (available with a paid plan)
+- Handwriting: draw text characters instead of typing (available on iPad)
+- DeepL Write: get intelligent writing suggestions to help you create clear, error-free, and impactful texts with ease
+
+
+Feature support varies by language. Currently available: Acehnese, Afrikaans, Albanian, Arabic, Aragonese, Armenian, Assamese, Aymara, Azerbaijani, Bashkir, Basque, Belarusian, Bengali, Bhojpuri, Bosnian, Breton, Bulgarian, Burmese, Cantonese, Catalan, Cebuano, Chinese (simplified)*, Chinese (traditional)*, Croatian, Czech, Danish, Dari, Dutch, English (American)*, English (British)*, Esperanto, Estonian, Finnish, French*, Galician, Georgian, German*, Greek, Guarani, Gujarati, Haitian Creole, Hausa, Hebrew, Hindi, Hungarian, Icelandic, Igbo, Indonesian, Irish, Italian*, Japanese*, Javanese, Kapampangan, Kazakh, Konkani, Korean*, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Latin, Latvian, Lingala, Lithuanian, Lombard, Luxembourgish, Macedonian, Malagasy, Malay, Maithili, Maltese, Maori, Marathi, Mongolian, Nepali, Norwegian (bokmål), Occitan, Pangasinan, Pashto, Persian, Polish, Portuguese*, Portuguese (Brazilian)*, Quechua, Romanian, Russian, Sanskrit, Serbian, Sicilian, Slovak, Slovenian, Spanish*, Spanish (Latin American), Sundanese, Swahili, Swedish, Tagalog, Tajik, Tamil, Tatar, Telugu, Tsonga, Tswana, Turkish, Turkmen, Ukrainian, Urdu, Uzbek, Vietnamese, Welsh, Wolof, Xhosa
+*Also available for DeepL Write 
+
+Free to download - access core features without cost!
+
+- Enjoy more translation features with a DeepL account
+- Log in to your organization's team account via SSO
+- To unlock all features, you may need a DeepL paid plan
+
+Terms & Conditions: https://www.deepl.com/app-terms
+Privacy Policy: https://www.deepl.com/privacy
+DeepL Support: https://www.deepl.com/support",2021-04-26T07:00:00Z,2025-11-18T03:39:08Z
+il,Israel,Reference,6006,19,946818225,Dict Plus: ترجمة عربي - مترجم,VIVINTE LLC,https://apps.apple.com/il/app/dict-plus-%D8%AA%D8%B1%D8%AC%D9%85%D8%A9-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%85%D8%AA%D8%B1%D8%AC%D9%85/id946818225?uo=4,0.0,4.5549,2195,Reference,"قاموس و مترجم عربي - إنجليزي  و إنجليزي - عربي:
+
+يتضمَّن أكثر من 500,000 كلمة ومصطلح
+لا يتطلب اتصال بالإنترنت
+ويدجت، لترجمة أسرع
+أكثر من 20000 مثال، مع الترجمة
+تعريفات باللغة الإنجليزية مع الأمثلة
+مرادفات الكلمات
+عبارات ذات صلة بالكلمات
+(نطق النصوص (بدون اتصال بالإنترنت
+(ترجمة أي نص (باستخدام الإنترنت
+اِلمس الكلمات وشاهد المعاني
+ميزة الكلمات المفضَّلة
+ميزة المحفوظات
+تغيير لهجة اللغة الإنجليزية: يمكنك الاختيار بين الأمريكية والبريطانية والأسترالية ولهجات أخرى
+
+
+الوظائف:
+عبارات مفيدة
+كلمات مفيدة
+كلمة مع صورة
+كلمة كل يوم
+القراءة
+مترجم مواقع الويب
+مترجم اللغات الأخرى
+
+
+***Arabic to English and English to Arabic Dictionary and translator***
+
+Includes more than 500,000 words and expressions
+No internet connection required
+Text pronunciation (Even without internet) 
+Widget for faster translation
+Related phrases of words
+Translate any text(requires internet connection)
+Touch words and see the meanings
+Select and Translate any part of the text(hold your finger and move it to select text)
+Copy translations
+Includes words pronunciation (Both Arabic and English)
+Favorites words
+History
+Change english accent: Choose between American,British,Australian and  others...
+
+Other features:
+   Useful phrases
+   Useful words
+   Words With Pictures
+   Online translator for other languages
+   Word of the day
+   Website translator
+
+
+
+
+PRO FEATURES:
+• Unlimited use
+• 100% Ad-Free
+• Voice Translation
+• Camera Translation
+• Offline Use
+
+The app contains the following subscription option:
+Dict Plus Pro 1-month Auto-Renewable Subscription - USD4.99
+
+
+Subscription payments will be charged to your iTunes account at confirmation of your purchase and upon commencement of each renewal term. Subscription with a free trial period will automatically renew to a paid subscription. You can cancel your subscription or free trial in the iTunes settings at least 24-hours before the end of each current subscription period. The cancellation will take effect the day after the last day of the current subscription period and you will be downgraded to the free service. Any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.
+
+
+Privacy Policy: https://vivinte.com/privacy
+
+
+Terms of Use: https://vivinte.com/terms
+
+
+Support: support@vivinte.com",2014-12-14T14:29:03Z,2025-10-31T17:04:55Z
+il,Israel,Reference,6006,20,1598695069,WT Chat Backup Restore Delete,Liger Infotech,https://apps.apple.com/il/app/wt-chat-backup-restore-delete/id1598695069?uo=4,0.0,4.2069,58,Reference,"Your secrets are safe with WhatsApp Backup!
+
+WhatsApp Backup makes it simple to back up your important and private WhatsApp conversations, media, links, and documents.
+
+After your chats are imported in this app the backup gets completed and now if the same chat is deleted from your WhatsApp, this app allows you to access deleted chats, media and documents with a WhatsApp-like preview. 
+
+WhatsApp Backup allows you to view your chat privately and securely, while you can delete it from WhatsApp.
+
+Furthermore, WhatsApp Chat Backup secures the backup of your private chat in a simple and secure manner by adding a passcode to the app.
+
+
+Other Features :
+
+Import chats from any platform
+With WA Backup, you can import chats not only from WhatsApp but from other platforms like WhatsApp Business, Google Drive, File Manager, or anywhere where you have saved your exported chat.
+
+View chats just like WhatsApp
+Get your chats, photos, videos, audios, documents, and links just as you would get them in WhatsApp, with perfect timestamps.
+
+Click to chat for WhatsApp
+You can chat with unknown people or one-time contacts and keep the conversation going without saving the contact. 
+
+Export to drive or other storage option
+WhatsApp chats, media, and documents can all be simply exported to your hard drive or other storage alternatives from this app (in case you need your chat somewhere else too).
+
+Text to speech
+With just one click, you can hear the messages from your backed up chat loud and clear with this feature. It comes in very handy when chats are in a different language than your native language.
+
+Move to the first or last message with one click
+Just click on the arrow, and you can move to the first or last message of the chat.
+
+Secure the backup of your private chat
+Passcode, Touch ID, or Face ID can also be used to protect the backup. The WA Backup app will keep your WhatsApp backup safe and secure.
+
+How do I use the WhatsApp Chat Backup app?
+Simply follow these easy steps :
+1. Tap on the chat you want to backup
+2. Go to contact info
+3. Select export chat
+4. Choose if you want to attach media or not
+5. Select WA Backup App
+The chat will be exported to the WA backup now.
+
+
+SUBSCRIPTION PRICING AND TERMS
+In-App Purchase:
+Weekly Subscription : USD $ 01.99
+Monthly Subscription : USD $ 02.99
+Yearly Subscription : USD $ 19.99
+The subscription will automatically renew unless turned off in your iTunes Account Settings at least 24 hours before the current period ends. You can go to your iTunes account settings to manage your subscription and turn off auto-renew. Your iTunes account will be charged when the purchase is confirmed.
+
+Please read our Terms and Service & Privacy Policy
+Privacy : https://docs.google.com/document/d/17JxuThbymRGTn0J-AQ5n0IFqtI6y3SlexcVKmPD24Uc/edit?usp=sharing
+Terms: https://docs.google.com/document/d/1yAYwPDY7xL6oiqOiwkyXH1Rm3ny7nQTbwp2WJbN2Pto/edit?usp=sharing
+
+Thank you so much!",2022-02-05T08:00:00Z,2025-09-12T15:33:21Z
+il,Israel,Reference,6006,21,6462119099,AI Translator:Voice&Text&Photo,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/il/app/ai-translator-voice-text-photo/id6462119099?uo=4,0.0,5,2,Reference,"120+ LANGUAGES!
+REAL-TIME Voice、Text and Camera translation by AI support!
+ 
+AI Translator: Voice&Text&Photo is focusing on Improving quality of rendering translated text,voice and Photos. Aim to break language barriers and connect people all over the world, users can effectively communicate with people who speak different languages. Express yourself as if you were a native speaker! Turn your smartphone into your personal multilingual translator!
+Our app features advanced AI conversation and text to Photo/Photo to photo technology, ensuring accurate and reliable translations every time. You can use our app offline and enjoy auto language detection for convenience and flexibility.
+ 
+Key Features:
+- Voice Translation: Speak the content for accurate and smooth communication.
+- AI Chat advanced functions, efficient photo translation
+- Immediate translation of real-time conversations
+- Photo Translation: Get menus or signs for quick reference during travels.
+- Use your camera for instant text translation
+- Translate texts from your photos and pics
+- Translate as you type in any of your favorite messaging apps
+- Over 120+ Languages Translation for speech-to-speech and text-to-text modes 
+- You can either speak or type to translate your text
+
+—— SUBSCRIPTION TERMS—— 
+- Weekly Subscription: $8.99/ week, 
+- Yearly Subscription: $17.99/month.
+
+Payment will be charged to iTunes Account at confirmation of purchase.Subscriptions automatically renew unless you disable auto-renewal at least 24 hours before the end of the current period. Your account will be charged for the renewal within 24 hours prior to the end of the current period, and the cost of renewal will be specified. You can manage your subscriptions and turn off auto-renewal by going to your account settings after purchase. 
+
+Terms of Service ：https://www.aitranslatorvoice.com/termsOfSerice.html
+Privacy Policy ：https://www.aitranslatorvoice.com/privacyPolicy.html",2023-08-16T07:00:00Z,2025-10-14T12:07:48Z
+il,Israel,Reference,6006,22,919979642,Reverso translate and learn,Theo Hoffenberg,https://apps.apple.com/il/app/reverso-translate-and-learn/id919979642?uo=4,0.0,4.674,500,Reference,"Translate and learn millions of words and expressions and express yourself as if you were a native speaker.
+
+Reverso is the best tool for those who seek quality translation, looking to master a foreign language: reading, writing or speaking, and it's free.
+
+Students, teachers, business professionals or others, whether beginners or advanced, use Reverso to learn new words or expressions, and eliminate the risk of being mistaken.
+
+It provides you instant translations of the selected text when reading content on your browser, on Safari or any other app.
+ 
+Reverso Context is based on data gathered from millions of real-life texts (official documents, movie subtitles, product descriptions) in both languages. These texts are processed with powerful ""big data"" algorithms and machine learning to provide you the best results. 
+
+What do we mean by context? The search results (translation) of a specific word or expression are weaved within real-life sentences, so you will be sure to understand and learn exactly how the word can be used, and make no embarrassing mistakes.  
+
+Just type or say the word or expression you wish to translate and the results will appear instantly:  relevant translations, presented with examples of how words are used in sentences.
+
+The app offers flashcards and quizzes based on your search history and favorites to help you memorize them and to improve your language skills. Unlike standard learning tools, it focuses on words and expressions that you really need and want to learn.
+
+The bits and bytes: 
+* Instantly translate selected text when reading content on your browser, iBook or any other app, with no need to exit the app you are using. Click on the familiar ""Share"" option and select the Reverso option. 
+* Translation in 17 languages: Spanish, French, Italian, Portuguese, German, Polish, Dutch, Arabic, Russian, Romanian, Japanese, Turkish, Hebrew and Chinese, Korean, Swedish, Ukrainian and we are working on more.
+* Advanced features include pronunciation, history, phrasebook of your favorites and more.
+* Create vocabulary lists based on your personal selection of examples and translations. Lists remain available even when you’re offline. 
+* Enjoy natural pronunciation of complete example sentences.
+* One click to get translations, frequency details, and  conjugation when applicable.
+* Search history, also available offline.
+* Suggestions: words and expressions will be suggested to you as you type.
+* Share your findings via email or social media.
+
+Auto-renewable subscription terms:
+Choose a subscription that fits your needs:
+- Monthly subscription (with a 7-day free trial) for €4.99 EUR;
+- Annual subscription for €39.99 EUR;
+These prices corresponds to the same price tier that ""Apple's App Store Matrix"" determines in other currencies.
+Please note:
+-Your free trial subscription will automatically renew to a paid subscription unless auto-renew is turned off at least 24 hours before the end of the free trial period. 
+-Any unused portion of a free trial period (if offered) will be forfeited when a premium subscription is purchased during the free trial period.
+The free trial or the subscription can be canceled anytime by turning off auto-renewal in the iTunes account settings. This must be done 24 hours before the end of a free trial or subscription period to avoid being charged. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the free version.
+Privacy policy:
+http://www.reverso.net/privacy_app.aspx?lang=EN
+Terms of use:
+http://www.reverso.net/disclaimer.aspx?lang=EN
+
+* Join us on Facebook: https://www.facebook.com/Reverso.net and follow us on Twitter: https://twitter.reverso.net/ReversoEN to discover new content, languages and features.",2014-11-01T19:45:42Z,2025-11-12T14:15:40Z
+il,Israel,Reference,6006,23,1663862037,EveryScan・Identifier & AI Lens,Conlan Limited,https://apps.apple.com/il/app/everyscan-identifier-ai-lens/id1663862037?uo=4,0.0,3.96875,32,Reference,"Introducing EveryScan — your ultimate mobile companion app that transforms your smartphone into an advanced visual encyclopedia. Harness the power of cutting-edge AI image recognition to swiftly identify and gain insights on the world around you, directly from your mobile device.
+
+Animal Identification
+Curious about ""what animal is this""? Use EveryScan to instantly identify animals, including specific breeds and characteristics. From cat breed recognizers to dog breed identifiers, this mobile app is your essential tool for comprehensive animal recognition.
+
+Insect and Reptile Recognition
+Dive into the insect world with our bug identifier. Capture images of caterpillars, spiders, and snakes using your mobile device, and learn about their characteristics and safety through our snake identifier, addressing questions like ""what kind of snake is this?""
+
+Mushroom and Plant Insights
+Simply snap a picture to identify plants and fungi safely with your phone. Our app's flower and mushroom identifiers provide detailed care tips and safety information, directly enhancing your botanical knowledge.
+
+Coin and Jewelry Examination
+Easily scan coins and jewelry with your mobile to determine their value and history, answering queries like ""how much are my coins worth?"" Our coin scanner feature helps you check your coins' worth and origins swiftly.
+
+Culinary Exploration
+Identify food items, dishes, and recipes while accessing nutritional details right from your mobile device. Recognize dishes and their caloric content with ease, enhancing your culinary knowledge.
+
+AI-Powered Features
+- Accurate image recognition tailored for mobile use
+- Instant object detection via your smartphone
+- Universal object identifier: insect identifier, dog breed identifier, flower identifier, spider, snake identifier, etc.
+- Real-time searching and scanning through your mobile
+- Comprehensive data on everything from animals to everyday items
+- Save and mark favorites for easy mobile access
+
+Effortless Exploration
+Skip search engines—just take a picture and identify items instantly using your phone. EveryScan integrates seamlessly with your mobile, offering an all-in-one picture identifier and AI image search capability. Unlock the secrets around you with curiosity and confidence. Download EveryScan today, and discover a world of knowledge at your fingertips.
+
+Privacy Policy: http://aiscanner.co/pp
+Terms of Use: http://aiscanner.co/tou
+Support: support@aiscanner.co",2023-03-04T08:00:00Z,2025-11-17T04:17:12Z
+il,Israel,Reference,6006,24,6740403566,Deen Buddy - Quran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/il/app/deen-buddy-quran-chat/id6740403566?uo=4,0.0,4.82609,46,Reference,"Deen Buddy – AI Quran, Daily Verses & Prayer
+
+Deen Buddy is your AI-powered Islamic companion. Get instant answers to Quranic questions, receive daily inspirational verses, and stay on track with accurate prayer time notifications.*
+
+AI Quran Chat
+• Ask any Quran-related question and get AI-powered answers.
+• Understand meanings, tafsir, and historical context easily.
+• Personalized responses based on authentic sources.
+
+Daily Quran Verses
+• Receive daily inspirational Quranic verses.
+• Bookmark and share your favorite ayahs effortlessly.
+• Enhance your understanding of the Quran one verse at a time.
+
+Prayer Time Notifications
+• Accurate prayer time alerts based on your location.
+• Customizable Athan notifications so you never miss a Salah.
+• Supports multiple calculation methods for accuracy.
+
+Why Choose Deen Buddy?
+• AI-powered Quran chat for instant insights.
+• Daily Quran verses to keep you inspired.
+• Prayer time alerts for timely worship.
+• Minimalist and distraction-free experience.
+
+Download Deen Buddy now and strengthen your connection with the Quran.
+
+**Access to Deen Buddy requires a paid subscription**
+
+Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+il,Israel,Reference,6006,25,6471475844,Translate Rabbit,"HAPPY BLUE HOUSE CO.,LIMITED",https://apps.apple.com/il/app/translate-rabbit/id6471475844?uo=4,0.0,4,5,Reference,"Introducing our revolutionary translation app: Translate Rabbit；
+Break the language barrier and communicate easily, let us be your best translation partner. Whether you are traveling, on international business, or want to communicate with people from different cultures, this app is your go-to solution.
+With it, you can have a powerful translation tool anytime, anywhere. We try to ensure real-time, accurate translations so you can have smooth and in-depth conversations without the need for tedious language dictionaries or language learning. Say goodbye to the worries of difficult communication and embrace smooth understanding.
+The main function:
+1. Instant translation: Our app provides fast translation in multiple languages, allowing you to get what you need anytime, anywhere. Just type or speak your message and get translations quickly.
+2. Voice recognition: Communicate easily by using voice input. Just speak into the device and seamless translation converts your words into the desired language.
+3. Camera translation: Just point the camera at the text and you can instantly translate the text on the picture.
+4. User-friendly interface: Our app provides a simple and intuitive interface, making it easy for anyone to use. Enjoy a seamless user experience from start to finish.
+5. When relaxing, we have built-in word arrangement games, allowing you to learn languages through alphabet games in your spare time.
+Don't let language differences stop you from connecting with others.",2023-11-15T08:00:00Z,2025-08-01T01:44:51Z

@@ -1,0 +1,729 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+pl,Poland,Navigation,6010,1,585027354,Google Maps,Google LLC,https://apps.apple.com/pl/app/google-maps/id585027354?uo=4,0.0,4.54143,239551,Navigation,"Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling and public transport. Discover over 250 million businesses and places – from restaurants and shops to everyday essentials – with photos, reviews and helpful information.
+
+Navigate the world, the way that you want:
+• Get to where you need to go with fuel-efficient route options
+• Find the best route with real-time, turn-by-turn voice and on-screen navigation
+• Save time with automatic rerouting based on live traffic, incidents and road closures
+• Catch the bus, train and ride-share effortlessly, with real-time updates
+• Find bike or scooter rentals to get around more easily
+
+Plan trips and experiences effortlessly:
+• Preview an area before you go (e.g. parking, entrances) with Street View
+• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so that you can be ready in advance
+• Create custom lists of your favourite saved places and share with others
+• Order delivery and takeaway, make reservations and book hotels
+• Don't get lost with offline maps in an area with bad signal
+• Search for local places and things to do, and decide based on user reviews and photos
+
+Discover and explore like a local:
+• Explore with confidence knowing 500 million users contribute and keep the map up to date each year
+• Avoid the crowds by seeing how busy a place is before you get there
+• Use Lens in Maps to see walking directions overlaid on the real world
+• Filter restaurants by cuisine, hours, price, rating and more
+• Ask questions about a place, from dishes to parking, and get quick answers
+
+Some features not available in all countries or cities
+Navigation isn't intended to be used by oversized or emergency vehicles",2012-12-13T04:21:00Z,2025-11-20T16:03:21Z
+pl,Poland,Navigation,6010,2,598579288,Geoportal Mobile,GLOWNY URZAD GEODEZJI I KARTOGRAFII,https://apps.apple.com/pl/app/geoportal-mobile/id598579288?uo=4,0.0,1.80135,297,Navigation,"Aplikacja Geoportal Mobile zapewnia dostęp do usług danych przestrzennych OGC i GeoServices REST. 
+Geoportal Mobile zapewnia dostęp do rejestrów państwowych udostępnianych przez Główny Urząd Geodezji i Kartografii za pośrednictwem usług Geoportal.gov.pl.
+Aplikacja umożliwia:
+• dostęp do usług zbiorów danych przestrzennych,
+• wyszukiwanie i lokalizację działek ewidencyjnych,
+• dodawanie usług, wybór kompozycji mapowych, 
+• wyszukiwanie obiektów geograficznych, w tym adresów.
+
+Aplikacja umożliwia użytkownikowi przeglądanie kompozycji mapowych oraz dostarcza następujące funkcje:
+• In Case of Emergency (ICE pol. w nagłym wypadku) - pozwala użytkownikowi wysłać SMS z powiadomieniem o nagłym wypadku do wybranej osoby,
+• Nawigacja w oknie mapy – zasięg mapy zostanie zmieniony (przesunięty, zwiększony, zmniejszony) zgodnie z działaniem wykonanym przez użytkownika,
+• Przeglądanie usług kafelkowanych – wyświetlona zostaje mapa zawierająca treść udostępnianą przez kafelkowane usługi danych przestrzennych,
+• Dodawanie zewnętrznych usług WMS – usługa umożliwia rozszerzenie kompozycji mapowych o usługi WMS rejestru usług systemu,
+• Wyszukiwanie adresów, działek oraz punktów osnowy – wyszukane obiekty mogą zostać zlokalizowane w oknie mapy,
+• Pomiar długości linii rysowanej na mapie,
+• Pomiar powierzchni i obwodu poligonu narysowanego na mapie, 
+• Udostępnij  lokalizację – umożliwia użytkownikowi udostępnianie aktualnej pozycji lub wybranej lokalizacji  jako link do aplikacji  wyświetlającego wskazane współrzedne na mapie,
+• Rejestrowanie i zapisywanie trasy – umożliwia użytkownikowi rejestrację i śledzenie własnej trasy na mapie na podstawie sygnału GPS, a także jej zapisanie, wyświetlanie oraz wysłanie w formacie KML,
+• Wskazywanie punktu na mapie – wskazuje lokalizację na podstawie współrzędnych e w wybranym odwzorowaniu,
+• Identyfikacja adresów, miejscowości i działek – użytkownik wykorzystując gest Long Press (długie naciśnięcie) na mapie ma możliwość pobrania informacji o obiektach we wskazanym punkcie.
+
+Uwaga:
+Używanie GPS działającego w tle może znacznie zmniejszyć żywotność baterii.
+
+
+Geoportal Mobile enables:
+• Access to spatial data services,
+• Browsing and locating cadaster parcels,
+• Adding services, choice of various maps, 
+• Searching for geographical objects including address points.
+
+This app enables user viewing maps and provides him the following functions:
+• In Case of Emergency (ICE) – allows the user to send an SMS with the notification of an emergency to a selected person
+• Map window navigation – changing map extent based on users action (pan, zoom in, zoom out) 
+• Viewing tiled services – displaying maps showing their contents as map tiled services,
+• Adding external WMS services – this service allows user to add map content by adding WMS services. 
+• Searching for address, parcels, geodesy groundwork points – a chosen address or parcel will be displayed in map window.
+• Measure length – measures the length of a line drawn on map,
+• Measure area – enables measurement of area or outline of a drawn polygon,
+• Current location – allows user to share his current position or the selected location as the link to the application displaying coordinates on the map,
+• Registering and saving track – enables user registering and tracking his own track on a map based on GPS signal. 
+• Recording and saving route - user can record and track his own route on the map based on the GPS signal, as well as save it, display in application, and send as KML file,
+• Display point on the map - points to the location on a map based on coordinates in the selected mapping,
+• Identification of addresses, localities, and parcels - using gesture Long Press (long press) on the map, you can download information about the objects in the specified point.
+
+Disclaimer:
+Continued use of GPS running in the background can dramatically decrease battery life.",2013-03-29T17:46:08Z,2024-06-07T12:50:31Z
+pl,Poland,Navigation,6010,3,424002753,Yanosik,Neptis Spolka z o.o.,https://apps.apple.com/pl/app/yanosik/id424002753?uo=4,0.0,4.23257,25634,Navigation,"DRIVE SAFELY AND WITHOUT SPEEDING TICKETS
+Yanosik is an application with an unrivaled warning system, appreciated by millions of drivers. It will notify you of speed checks, speed cameras, accidents and even unmarked police cars. The largest, updated online database of notifications and measuring devices in Poland will help you reach your destination safely.
+
+BUY A COFFEE AND TURN OFF ADS!
+Our app contains ads so it remains free. However, if you want to use Yanosik without ads, you can use the option to disable them. Just buy a medium or large coffee in the app and we will turn off ads for you. Details in the application.
+
+AVOID TRAFFIC AND USE THE CURRENT MAP
+Navigation in Yanosik is based on the modern SmartTraffic system, thanks to which you can avoid traffic jams. Use the current map and a multi-million database of addresses. New roads are added as soon as they open. We monitor changes in traffic organization and introduce them on an ongoing basis.
+
+LISTEN TO YANOSIK RADIO ON THE ROAD AND OFF!
+Yanosik not only helps on the road, but also makes your journey more pleasant. Turn on Radio Yanosik, listen to good music and vote for the best songs. Interesting broadcasts, podcasts and information from the country and the world are also waiting for you here. You can listen to Radio Yanosik not only on the road, but wherever you have access to the Internet.
+
+WE HAVE EVERYTHING WHAT DRIVER NEEDS
+Yanosik is every driver's best friend! It will help you with many issues related to driving and owning a car. Thanks to the modern dashboard of the application, in Yanosik you have what is the most important at your fingertips! In addition to the traffic messenger and navigation, you can use many services. 
+
+AVOID TRAFFIC JAMS WITH YANOSIK
+Yanosik is your source of road information both on expressways and in the largest Polish cities. You will receive information in advance about difficulties on the route, so that you can reach your destination efficiently without getting stuck in traffic jams. You will also be up to date with events in your city that may disrupt traffic.
+
+In the app you can:
+- post a FREE advertisement about the sale of a car and browse the offers of verified cars (Autoplac),
+- buy car insurance at an attractive price,
+- check the history of your vehicle (mileage, repairs or number of owners),
+- use the records of expenses related to your car,
+- check where you can fill up with the cheapest fuel,
+- find a workshop, check opinions about it and arrange a visit,
+- benefit from additional discounts,
+- check the current tariff of fines and penalty points,
+- add your regular routes to favorites and check the current arrival time and weather in a given location,
+- call roadside assistance and emergency services,
+- order products from our store or connect additional devices.",2011-03-09T00:58:05Z,2025-11-12T12:05:04Z
+pl,Poland,Navigation,6010,4,323229106,Waze Navigation & Live Traffic,waze,https://apps.apple.com/pl/app/waze-navigation-live-traffic/id323229106?uo=4,0.0,4.62064,3809,Navigation,"Know what's ahead on the road with the help from other drivers. Waze is a live map that harnesses the local knowledge of tens of millions of drivers around the world. Drivers safely and confidently reach their everyday destinations thanks to Waze map’s GPS navigation, live traffic updates, real-time safety alerts (including roadworks, accidents, crashes, police, potholes and more) and accurate ETAs.
+
+
+Make your next drive more predictable and stress-free:
+• Get there faster with real-time directions, accurate ETAs and automatic rerouting based on live traffic, incidents and road closures
+• Even if you know the way, avoid surprises on the road ahead with safety alerts for accidents, crashes, roadworks, objects on the road, potholes, speed bumps, sharp curves, bad weather, emergency vehicles, railway crossings and more
+• Steer clear of tickets by knowing where police and red light and speed cameras are located
+• Share what’s happening on the road with other drivers by reporting live incidents and hazards
+• Stay informed of upcoming speed limit changes, and keep your speedometer in check
+• Know which lane to be in with multi-lane guidance
+• See toll pricing and choose to avoid tolls along your routes
+• Add road passes and vignettes for HOV lanes and restricted traffic zones
+• Find petrol/fuel stations and prices and EV charging stations along your route
+• Locate car parks near your destination
+• Use voice-guided turn-by-turn navigation from a variety of languages, local accents and your favourite celebrities
+• Plan your next drive by checking ETAs by future departure or arrival times
+• Use your favourite audio apps (for podcasts, music, news, audiobooks) directly within Waze
+• Sync Waze to your car’s built-in display through Apple CarPlay
+
+
+* Some features are not available in all countries
+
+
+* Waze navigation is not intended for emergency or oversized vehicles
+
+
+You can manage your in-app Waze privacy settings at any time. Learn more about the Waze privacy policy here, www.waze.com/legal/privacy.",2009-08-01T21:14:40Z,2025-11-10T12:05:02Z
+pl,Poland,Navigation,6010,5,1464649113,Shell: Fuel & Rewards,Shell Information Technology International B.V.,https://apps.apple.com/pl/app/shell-fuel-rewards/id1464649113?uo=4,0.0,4.82759,34226,Navigation,"Join Shell GO+ Rewards today and get £2.50 worth of points!*
+It is now easy to save on fuel, charging, food and drinks.
+
+To earn points and rewards, simply scan your digital card in the Shell App when you buy fuel, charge your electric vehicle (EV) at Shell Recharge and purchase selected in-store products at participating Shell service stations.*
+
+Members can exchange their points for savings on fuel, food, drinks and partner e-gift cards. 
+
+Plus, enjoy exclusive member benefits that makes every journey more rewarding.
+Benefits:
+•Save on fuel: Exchange your points for fuel discounts.
+•Save on charging: Save 10p per kWh when using the Shell App to charge with Shell Recharge or for just £9.99 per month join our Shell Recharge Subscription and enjoy 30% off standard app pricing (up to 1,000 kWh/month).
+•Free hot drinks: Buy 7 hot drinks and get your next hot drink free. 
+•Discounts: Get 10% on our deli by Shell food range, Shell Helix engine oils and Car wash.
+•Surprise freebies: including discounts on fuel and food every now and then as our way of saying thank you. 
+•Partner offers: Benefit from our exclusive partner offers. 
+
+Pay at Pump: 
+
+Save time and enjoy the convenience of making your payment directly at the pump – ideal if you have small children or pets in the car.  
+•Enter Pump Number: Confirm the pump number on the Shell app.
+•Select Payment: Choose your payment method and pre-authorisation limit, and apply any fuel rewards. 
+• Start Fuelling: Fill up and then drive off. It’s that simple.
+
+Find your local Shell service station:
+
+Discover petrol stations and EV charging points tailored just for you using the Shell App Service Station Locator. Whether you need fuel or to charge your EV, a car wash, or a quick snack, we’ve got you covered.
+Explore service stations that offer Shell V-Power Diesel and Unleaded for that extra engine kick!
+
+
+Begin your EV journey with Shell Recharge:
+
+We're with you for the journey – wherever and whenever you need to recharge.
+Charging is effortless and smooth with the Shell App and charge card. Use the navigator features to locate one of the many 600,000 public charging points in the large network spanning across 33 European countries. You can always find a charger that fits your criteria with the easy-to-use and smart filtering options. 
+Key features:
+•Plan your journey
+•Save 10p per kWh when you charge with the Shell App and earn rewards with Shell GO+ Rewards or for just £9.99 per month join our Shell Recharge Subscription and enjoy 30% off standard app pricing (up to 1,000 kWh/month).
+•Simple pricing and payment
+•Extras, e.g personalisation and promotions to explore
+ 
+*T&Cs apply, visit www.shell.co.uk/shellgoplustc. Participating Shell service stations and Shell Recharge branded charge points only. Shell Recharge On Street is excluded. New members will receive £2.50 worth of points when joining and opting into marketing communications.",2019-10-28T07:00:00Z,2025-11-04T07:24:18Z
+pl,Poland,Navigation,6010,6,6474320861,mobileMPK - timetables,Pawel Jablonski,https://apps.apple.com/pl/app/mobilempk-timetables/id6474320861?uo=4,0.0,4.05999,200,Navigation,"mobileMPK (mMPK) is a public transport timetable for the largest cities in Poland (over 50 cities, full list below). After installing the application can work offline and does not require an Internet connection. 
+
+APPLICATION END USER LICENSE AGREEMENT https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-03-08T08:00:00Z,2025-11-15T12:52:05Z
+pl,Poland,Navigation,6010,7,1508101560,AMIC Energy PL,AMIC POLSKA Sp. z o.o.,https://apps.apple.com/pl/app/amic-energy-pl/id1508101560?uo=4,0.0,4.86519,5200,Navigation,"Z naszą aplikacją kartę AMIC Club masz zawsze przy sobie! A wraz z nią dostęp do wyjątkowych promocji, jakie przygotowaliśmy tylko dla naszych Klubowiczów.
+Aktywuj kupony rabatowe na paliwo i do sklepu
+Korzystaj z porównywarki cen
+Nawiguj do najbliższej stacji
+Zamawiaj nagrody z katalogu
+Włącz powiadomienia push i bądź cały czas na bieżąco
+ 
+Pobierz AMIC Energy PL i sięgaj po najlepsze promocje!",2020-04-30T07:00:00Z,2025-11-04T08:48:36Z
+pl,Poland,Navigation,6010,8,411411020,Offline gps maps: Mapy.com,Seznam.cz a.s.,https://apps.apple.com/pl/app/offline-gps-maps-mapy-com/id411411020?uo=4,0.0,4.90008,16584,Navigation,"PLAN YOUR ROUTE
+- hiking and cycling trails 
+- cross-country skiing and ski-alpine trails
+- unique “travel tips” feature plans a trip through the most interesting places in the area
+- route elevation profile 
+- 5-day weather, temperature, wind and precipitation forecasts for any location on earth
+
+DISCOVER A TOURIST MAP OF THE WHOLE WORLD 
+- hiking trails, bike trails, singletracks and singletrails
+- roads, mixed cycle paths, unpaved paths and footpaths 
+- hillshade shading anywhere in the world, ferratas and their difficulty
+- nature trails, pedestrian closures, national park zones 
+- routes for wheelchair users 
+
+CHOOSE MORE MAP LAYERS
+- aerial map of the world
+- panoramic images of Czech streets and 3D view
+- winter maps of the Czech Republic with up-to-date map of Czech cross-country skiing trails and ski resorts 
+- traffic map with current traffic, closures and parking zones in the Czech Republic
+
+DOWNLOAD OFFLINE MAPS
+- offline tourist map of the whole world with hiking and cycling trails
+- offline voice navigation for drivers, cyclists and pedestrians
+- offline winter maps of the Czech Republic with cross-country skiing trails and ski resorts
+- individual regions for download
+- search for places and plan routes around the world even without a signal
+- offline map of one country, including individual regions and regular updates, is available for free in the basic version of the app
+
+FREE NAVIGATION FOR DRIVERS, CYCLISTS AND PEDESTRIANS
+- clear instructions on which lane to get into 
+- highlighting of roundabout exits  
+- ability to avoid toll lanes
+- dark mode in the navigation
+- location sharing in the navigation 
+- speeding alerts and speed cameras for the Czech Republic and Slovak Republic
+- important notifications from other drivers about accidents, police patrols, roadblocks, road closures and roadworks in the Czech Republic and Slovak Republic
+- the latest traffic situation in the Czech Republic and Slovak Republic with an overview of traffic jams and alternative routes 
+- warnings on sections of frequent traffic accidents on Czech and Slovak roads, sections without winter maintenance 
+- sharing arrival time, route and current location via SMS, email or chat
+- view navigation onto the large on-board display via Apple Car Play
+
+SAVE TO MY MAPS
+- save places, routes, photos and activities in folders
+- track activities with Tracker for walking, cycling, running, cross-country skiing and hiking
+- GPX file import, GPX export 
+- synchronisation of routes between computer and phone 
+
+MAPY.COM Premium:
+- Annual subscription for premium features to tailor Mapy.com to your needs
+- Customizable speed settings for walking, running, and cycling
+- Offline maps of the entire world for traveling without internet (unlimited offline map downloads)
+- Personal notes for saved places
+- Priority customer support
+- Exclusive premium supporter badge
+- Now with the app for Apple Watch, which displays navigation directions and records the route using the ""Tracker"" feature
+
+
+CHOOSE BY RATINGS OF PLACES, RESTAURANTS AND SERVICES 
+- up-to-date user photos of what the place looks like
+- user experiences with food, service, environment and price 
+- search by rating level and highlight top-rated establishments   
+
+RECOMMENDATIONS AND TIPS: 
+- to make the app work properly, turn on location services in your phone settings
+- for questions or troubleshooting, use the form in the app settings
+- using the app in the background with GPS running can reduce battery life
+- join our user community at community.mapy.com or www.facebook.com/mapycom/ to share your experience with the app, follow the latest news or suggest new features",2010-12-29T03:12:30Z,2025-11-18T06:41:49Z
+pl,Poland,Navigation,6010,9,1438106561,TomTom - Maps & Traffic,TomTom,https://apps.apple.com/pl/app/tomtom-maps-traffic/id1438106561?uo=4,0.0,4.64858,1659,Navigation,"TomTom – GPS Navigation App for Every Driver
+Meet your new go-to navigation app. Whether you're planning a weekend road trip, commuting to work, or simply exploring new roads, TomTom provides the GPS navigation experience drivers trust. Built with the latest maps, real-time traffic alerts, and precision routing, this navigation app is designed to get you where you need to go—faster and safer.
+
+Navigate With Confidence
+Enjoy detailed turn-by-turn GPS navigation globally. TomTom’s regularly updated maps offer accurate road geometry, lane guidance, and intersection views—so you never miss a turn. It’s smart, flexible, and ready for the road.
+
+Real-Time Traffic Information
+Avoid delays and bottlenecks with accurate traffic data updated in real time. Receive warnings about road closures, congestion, and incidents ahead. With live traffic updates, the app automatically adjusts your navigation route to keep you moving efficiently.
+
+Complete Driving Support
+• More than just a GPS tool, TomTom is your all-in-one driving companion.
+• Get speed camera alerts and current vs. limit speed info
+• Choose multiple route types: fastest, shortest, or most efficient
+• View real-time traffic flows and lane suggestions
+
+Apple CarPlay Compatibility
+Project your GPS navigation experience to your car’s screen with Apple CarPlay. The clean interface is distraction-free—no ads, no pop-ups—just clear maps, directions, and traffic info designed for safer driving.
+
+Pairable with Tom
+• Tom provides audio-visual alerts for traffic changes, obstacles, and speed cameras, so you stay informed without taking your eyes off the road.
+• Learn more about Tom here: https://www.tomtom.com/navigation/car-gps-sat-nav/tom-by-tomtom/
+
+Smart Features for Smarter Navigation
+
+TomTom helps you make the most of your drive with essential navigation tools:
+• Detailed maps for cities and rural areas alike
+• Community-powered reports for hazards and speed traps
+• Location-based suggestions for rest stops, food, and services
+• Reliable ETAs powered by live traffic and real-time rerouting
+
+Safe, Private, and Ad-Free
+Focus on the road ahead. With TomTom, your data stays private, and your navigation is never interrupted by ads or tracking.
+
+Download the TomTom GPS Navigation app now – drive smarter with real-time traffic, precise maps, and expert-level GPS navigation.
+________________________________________________________________________________________________________________
+
+Use of TomTom app is subject to Terms & Conditions at: https://www.tomtom.com/navigation/mobile-apps/tomtom-app/disclaimer/",2019-12-23T08:00:00Z,2025-11-23T18:12:56Z
+pl,Poland,Navigation,6010,10,498477945,Moovit: Public Transport Live,Moovit App Global LTD,https://apps.apple.com/pl/app/moovit-public-transport-live/id498477945?uo=4,0.0,4.39306,1440,Navigation,"Moovit is one app for all your urban mobility and transport rides!
+
+Dailymail - ""This travel app is a godsend for anyone using public transport – with live updates to bus schedules, as well as a great route-planner for cities across the UK.""
+
+Transportation is an integral part of urban living. Whether you ride the train, subway/underground /tube, bus, light rail, ferry or metro, use bikes, ride-sharing like Uber, getting the best urban mobility information is critical. Moovit guides you from point A to B in the easiest and most efficient way. Get train and bus times, maps, and live arrival times with ease so you can plan your trip with confidence. Find critical alerts and service disruptions for your favorite lines. Get step-by-step directions of optimal route bus, train, metro, bike or a combination of them. 
+This is why Moovit has been named one of the best apps of the year 2017 by the App Store!
+
+Moovit guides more than 865 million users in over 3200 cities throughout the world.
+
+► Journey Planner that combines you all transport options and gives you the best route with live arrivals.
+
+► Live Directions: Get step-by-step directions with live guidance as you travel: know exactly how long you need to walk to your station, how long you’re waiting, view the arrival time of your line and how many stops are left. 
+
+► Real time arrivals. View real-time arrival updates, which are taken directly from GPS devices positioned on buses and trains.
+
+► Real time alerts. Know about issues ahead of time by receiving service alerts such as emergency or unexpected disruptions, delays, traffic jams, new construction and more...
+
+► Users reports. Moovit’s users report issues found with stations, line service, and timetables so that we can inform all nearby riders about what’s going on in their area.
+
+► Favorite lines, stations, and places. Get easy access to lines, stations, and places you ride and visit all the time. Plus, get real-time updates if/when there are changes to your favorite lines in case your bus or train time is impacted!
+
+► Bike routes. Get bike routes in addition to the bus, subway, train, or metro trip plans. If you ride bikes (yours or shared) we can plan a route that includes the train or bus. 
+Bike docking stations are updated in real-time.
+
+► Maps view. View all stations, routes, and lines on the subway or bus map. Additionally, maps are available in PDF for when you’re offline, or underground on the subway. 
+
+Ride with Moovit in all major cities:
+
+UK:
+• London
+• Manchester
+• Birmingham
+• Leeds
+• Edinburgh
+• Glasgow
+• Liverpool
+• Sheffield
+
+Ireland:
+• Dublin and all of the Republic of Ireland. 
+
+Moovit supports all major transit:
+
+UK:
+• TFL - Bus, Tube, DLR, Overground, Ferry (River Bus), Tfl Rail, Tram, Coach
+• National Express
+• National Rail
+• Arriva
+• First
+• Stagecoach and more...
+
+Ireland:
+• Bus Eireann
+• Dublin Bus
+• Irish Rail
+• Luas
+• Kenneally’s Bus Service and more…
+
+Bike sharing provided by:
+• Santander Cycles in London
+• BelfastBikes in Belfast
+• Bike in Bath
+• Nextbike in Glasgow
+
+India:
+•Delhi: Delhi Metro (DMRC), Delhi Buses (DTC), Northern Railways (NR)
+•Mumbai: Mumbai Metro (M.M.R.D.A), all buses: BEST, NMMT, KDMT, VVMT, MBMT, KMT, TMT, Ferries and more
+•Bangalore: Namma Metro, B.M.T.C (buses and metro feeder routes), South Western Railways
+•Chennai: Chennai Metro Rail, all buses - Metropolitan Transport Corporation (MTA)
+•Ahmedabad: A.M.T.S, Bus Rapid Transport System (BRTS), V.T.C.O.S 
+•Pune: Indian Railways, Pune Local Central Railways, Pune Mahanagar Parivahan Mahaman.
+
+Singapore:
+• MRT, LRT, bus, tram, cable car & shuttle buses. Service provided by:
+• SBS
+• SMRT
+• Tower Transit
+• Go-Ahead Singapore
+
+You ride, we guide!
+
+Feel free to contact us:
+
+https://moovitapp.zendesk.com/hc/requests/new
+moovit@Facebook, Twitter
+
+Terms of Use
+https://moovitapp.com/en-us/legal/terms-of-service-en",2012-04-27T07:00:00Z,2025-10-26T07:14:19Z
+pl,Poland,Navigation,6010,11,6477453743,DroneTower,Polish Air Navigation Services Agency,https://apps.apple.com/pl/app/dronetower/id6477453743?uo=4,0.0,1.4919,864,Navigation,"Over the years, we have gathered experience in creating and developing UAV systems, and we believe that DroneTower application is a response to the needs of the constantly growing drone market in Poland.
+In the application, you have quick access to the most important functionalities from the main screen - create check-in, checking and editing conditions, familiarize with location data.
+The possibility of conducting an operation and its legality depends on the parameters chosen by you - UAV weight, flight height, flight area, categories and subcategories of flights and flight time.
+Based on selected parameters, the application will notify you about the possibility of operations based on four indicators.
+
+In order to use the application, you must have an account created on the https://utm.pansa.pl/ website.",2024-04-14T07:00:00Z,2025-06-26T08:13:43Z
+pl,Poland,Navigation,6010,12,1625883975,System FALA,INNOBALTICA Sp. z o.o.,https://apps.apple.com/pl/app/system-fala/id1625883975?uo=4,0.0,1.1244,1037,Navigation,"Aplikacja System FALA to jedno z narzędzi Systemu FALA, umożliwiające wygodny i szybki zakup biletów kolejowych SKM i POLREGIO w całym województwie pomorskim (obejmuje bilety z Taryfy Pomorskiej) oraz biletów na transport miejski w Trójmieście, Słupsku, Chojnicach, Lęborku, Pucku, Władysławowie.
+ 
+
+
+Jest bezpłatna, nie pobiera żadnych prowizji.
+
+
+Po ściągnięciu aplikacji System FALA,  należy założyć konto niespersonalizowane (anonimowe) lub spersonalizowane (imienne), a następnie zalogować się na adres mailowy podany podczas rejestracji i ustawić PIN do konta. 
+
+
+Dzięki aplikacji System FALA można m.in.: 
+•	kupić bilet jednoprzejazdowy lub czasowy 
+•	kupić lub odnowić bilet okresowy imienny (także w trybie automatycznego odnawiania) 
+•	zwrócić bilet 
+•	podczas kontroli biletowej użyć kodu QR z aplikacji do identyfikacji 
+•	sprawdzić stan środków w ePortmonetce 
+•	zasilić ePortmonetkę, ustawić cykliczne i automatyczne jej doładowania 
+•	pobrać fakturę za zakupiony bilet 
+•	sprawdzić historię transakcji na koncie użytkownika 
+•	udostępnić konto członkowi rodziny lub firmie 
+•	zarządzać udostępnionym kontem członka rodziny 
+•	dodać kartę płatniczą jako identyfikator w systemie i osobno jako instrument płatniczy 
+•	utworzyć profil podróży (np. z dzieckiem, mężem/partnerką) 
+•	zastrzec Kartę FALA, zamknąć konto 
+
+
+W aplikacji System FALA zapłacisz:
+•	Apple Pay
+•	Blikiem
+•	Kartą Visa i Mastercard
+•	ePortmonetką
+
+
+
+Jeśli masz jakieś problemy z aplikacją, zgłoś je:
+•	Infolinia Systemu FALA +48 585 733 585
+•	https://zgloszenia.systemfala.pl/ 
+•	https://reklamacje.systemfala.pl 
+
+
+
+Z System FALA bilety kupujesz:
+•	szybko – bez kolejki
+•	kiedy chcesz - wygodnie z domu
+•	jak chcesz – w aplikacji, w portalu www.systemfala.pl lub w POK",2023-12-15T08:00:00Z,2025-10-30T15:41:51Z
+pl,Poland,Navigation,6010,13,484527651,Île-de-France Mobilités,Ile de France Mobilites,https://apps.apple.com/pl/app/%C3%AEle-de-france-mobilit%C3%A9s/id484527651?uo=4,0.0,4.52703,370,Navigation,"Île-de-France Mobilités is here to assist you daily. Purchase a digital ticket, recharge your Navigo pass, search for routes including trains, RERs, metros, trams, buses, coaches, bicycles, Vélib', car-sharing, or car rentals. Find schedules in real-time or traffic information... Discover essential tools and information for organizing your travels in Île-de-France. Together, let's travel with ease.
+
+Avoid queues at stations: buy your transport tickets from your iPhone!
+The following tickets are available for purchase:
+
+- Metro-Train tickets or Bus-Tram Ticket
+- One Way from/to Airports (you cannot purchase this ticket if you already have a Metro-Train Ticket charged on your device)
+- Navigo daily (this fare doesn’t permit you to go to airports), weekly, or monthly passes
+- Special fares (Anti-pollution pass, Paris-Visit Passes etc.)
+- Daily Vélib’ passes
+
+Purchased tickets can then be (depending on the chosen purchasing path):
+
+- Stored on the iPhone and validated directly at stations (from iPhone Xr and iOS 17.5)
+- Loaded onto your Navigo pass (from an iPhone 7, with at least iOS 13. iPhone XR and XS are compatible starting from iOS 14.5)
+
+For compatible tickets (Metro-Train and Bus-Tram Tickets, Navigo Day passes, special fares), no account is needed, and you can pay directly with Apple Pay!
+
+You can prepare and plan your travels:
+
+- Find nearby bus stops, train stations, and metro stations
+- Search for real-time public transport routes, car-sharing, and bicycle routes
+- Save upcoming trips in your phone’s calendar
+- Check the next departures for your lines in real-time and all the timetable information
+- View maps of public transport networks (accessible even offline)
+- Follow pedestrian routes for walking segment
+
+Stay informed and anticipate disruptions:
+
+- Check your lines’ Twitter feed for real-time traffic updates
+- Get alerts for disruptions on your favorite lines and routes
+- Stay updated on the status of elevators in the stations you use
+
+Customize your travel:
+
+- Save your destinations (work, home, gym, etc.), stations, and stops as favorites
+- Customize your profile (fast walker, with difficulties, reduced mobility, etc.)
+- Select lines or stations to avoid
+
+Prefer soft or alternative modes of transport:
+
+- Book car-sharing and/or ride-sharing trips in partnership with leading providers
+- Opt for bicycle routes for all your trips
+- Rent a car or a van for a short period by choosing a Communauto car-sharing vehicle from a wide selection of stations around you and book it immediately for the duration of your choice.
+--
+Already using the Île-de-France Mobilités app and enjoying its services? Let us know with a 5-star rating!
+Experiencing bugs or having feedback to give? Help us improve by sending your suggestions through the contact form available via the personal space.",2012-01-27T16:21:24Z,2025-11-17T08:30:26Z
+pl,Poland,Navigation,6010,14,1435292383,Elocity,Elocity Sp. z o.o.,https://apps.apple.com/pl/app/elocity/id1435292383?uo=4,0.0,3.11111,81,Navigation,"Thanks to app you will find the nearest Elocity's charging station and check its availability. Plug the car, charge the battery, pay and resume your journey.",2019-05-22T16:42:09Z,2025-11-20T17:56:45Z
+pl,Poland,Navigation,6010,15,1478111353,ORLEN Charge,Polski Koncern Naftowy ORLEN S.A.,https://apps.apple.com/pl/app/orlen-charge/id1478111353?uo=4,0.0,4.72274,1266,Navigation,"Darmowa aplikacja umożliwiająca ładowanie samochodów elektrycznych na stacjach ładowania sieci Orlen S.A.. Z aplikacją Orlen Charge ładowanie Twojego samochodu staje się bardzo proste. Zawiera informacje o wszystkich naszych punktach ładowania.
+Funkcje aplikacji Orlen Charge:
+- Ładowanie samochodu elektrycznego w wybranym punkcie
+- Monitorowanie bieżącej sesji ładowania oraz przeglądania historii
+- Wyszukiwanie stacji ładowania w pobliżu określonej lokalizacji
+- Informacja o dodatkowych usługach i produktach dostępnych przy stacjach ładowania
+- Informacja o mocach i parametrach stacji
+- Informacja o dostępności złączy i cenach w czasie rzeczywistym
+- Zarządzanie ustawieniami konta
+- Korzystanie z wygodnego systemu płatności za sesje ładowania",2020-04-17T07:00:00Z,2025-07-31T08:00:12Z
+pl,Poland,Navigation,6010,16,1457032656,Time4BUS,GenesisMobo sp. z o. o.,https://apps.apple.com/pl/app/time4bus/id1457032656?uo=4,0.0,4.62729,1583,Navigation,"Dzięki korzystaniu z aplikacji Time4BUS nigdy więcej nie będziesz musiał czekać na przystanku i wypatrywać przyjazdu swojego autobusu, czy też tramwaju. Od tej pory będziesz wiedział kiedy oczekiwany przez Ciebie pojazd przybędzie na Twój przystanek, czy też gdzie znajduje się on na mapie.
+
+Obecnie aplikacja pokazuje odjazdy live komunikacji miejskiej dla miast:
+• Białystok
+• Gdańsk
+• Kraków
+• Łódź
+• Metropolia GZM: Katowice, Sosnowiec, Gliwice, Zabrze itd.
+• Poznań
+• Szczecin
+• Warszawa
+• Wrocław
+Oraz: Ciechanów, Dąbrówka, Działdowo, Gmina Oleśnica, Goleniów, Jedwabno, Jeziorany, Łask, Łomianki, Miastkowo, Mikołajki, Mława, Morąg, Nowy Dwór Mazowiecki, Opoczno, Opole, Orneta, Orzysz, Otwock, Piaseczno, Pleszew, Powiat grudziądzki, Powiat olecki, Powiat olsztyński, Radzymin, Siechnice, Sochaczew, Sorkwity, Stare Juchy, Stawiguda (TOS), Strzegom, Suchowola, Tarnów Opolski, Tczew, Turośń Kościelna, Złotoryja i Żyrardów.
+
+Aplikacja prezentuje rzeczywiste przyjazdy pojazdów na przystanki na podstawie danych GPS, umożliwia ona śledzenie na mapie pozycji konkretnego autobusu w czasie rzeczywistym, czy też sprawdzenie informacji o trasie wybranego kursu, a także posiada wiele innych, przydatnych funkcji.
+
+Została ona zaprojektowana z myślą o wygodzie użytkowania, np. przystanek, z którego chcesz sprawdzić odjazdy możesz wybrać na kilka sposobów:
+- znajdując go na mapie (również przy wykorzystaniu Twojej lokalizacji)
+- korzystając z wyszukiwarki przystanków
+- dodając go wcześniej do ulubionych
+- wskazując go z listy ostatnio szukanych
+- przeglądając trasy wszystkich linii dostępnych w danym mieście
+
+Rozkłady jazdy live - transport publiczny
+
+Dostępni operatorzy: BKM Białystok (Białostocka Komunikacja Miejska), ZTM Ciechanów, Działdowska Komunikacja Miejska, ZTM Gdańsk, MPK Kraków, ZTM Metropolia GZM (Katowice, Sosnowiec, Gliwice, Zabrze, Bytom), MPK Opoczno, MZK Opole, MPK Olsztyn, MPK Poznań, ZKM Sochaczew, MZA Warszawa (Miejskie Zakłady Autobusowe w Warszawie), ZTM Warszawa (WTP Warszawski Transport Publiczny), Tramwaje Warszawskie, MPK Wrocław, ZKM Łask, PKS Nova, Wschód Express, Koleje Mazowieckie, Koleje Dolnośląskie, Łódzka Kolej Aglomeracyjna, PKS Opoczno, PlusBus, POLBUS PKS, Warszawska Kolej Dojazdowa.
+
+Aplikacja jest zgodna ze standardem dostępności WCAG 2.1",2019-04-01T22:48:49Z,2025-11-17T07:27:05Z
+pl,Poland,Navigation,6010,17,1107918142,WienMobil,WIENER LINIEN GmbH,https://apps.apple.com/pl/app/wienmobil/id1107918142?uo=4,0.0,1.73529,34,Navigation,"WienMobil: The city at your fingertips with a single app. The official app of Wiener Linien helps you to arrive at your destination quickly. For example, with the route planner to find the quickest route from A to B, departure info in real time, public transport tickets and additional mobility services including bike sharing, car sharing, taxi and more. Display annual season ticket on your phone? No problem with WienMobil!
+ 
+For all info on WienMobil go to www.wienerlinien.at/wienmobil
+
+Plan a barrier-free route, purchase a semester ticket, add favourites …? Watch our helpful tutorials: https://www.youtube.com/watch?v=7XG2gtoE7fI&list=PLih6aZhp43P0TylJbgLVoQpHZ26tweXlQ
+
+Data Privacy Policy of Wiener Linien:
+https://shop.wienmobil.at/services/content/privacy-policy",2016-04-29T08:01:52Z,2025-10-21T08:18:30Z
+pl,Poland,Navigation,6010,18,1334598455,GreenWay EV Charging,GreenWay Slovensko s. r. o.,https://apps.apple.com/pl/app/greenway-ev-charging/id1334598455?uo=4,0.0,4.82116,397,Navigation,"GreenWay EV Charging – Your EV Journey Starts Here
+
+Power your electric journey across Poland, Slovakia, and Croatia with the GreenWay app – your gateway to the largest EV charging network in Central and Eastern Europe.
+
+Key features:
+• Find chargers fast – GreenWay, partner and roaming stations all in one map.
+• Charge with ease – Start and stop charging in just two taps, no card needed.
+• Roam freely – Access thousands of roaming stations across Europe with your GreenWay account.
+• Real-time info – See charger availability, pricing, photos, and directions.
+• Smart navigation – Get routed to the nearest available charger.
+• Track your usage – View charging history and account details.
+• Stay informed – Get instant updates and support 24/7.
+
+Whether you're commuting locally or traveling across borders, GreenWay makes EV charging simple, secure and seamless.",2019-11-23T08:00:00Z,2025-11-20T07:32:20Z
+pl,Poland,Navigation,6010,19,884963367,TomTom GO Expert: Truck GPS,TomTom,https://apps.apple.com/pl/app/tomtom-go-expert-truck-gps/id884963367?uo=4,0.0,4.5564,3573,Navigation,"TomTom's trusted truck navigation. Now on your mobile.
+
+Join a million drivers and enjoy the most reliable sat nav app for trucks: TomTom GO Expert. Smooth deliveries from start to finish with custom truck navigation, traffic info, multi-drop planning & relevant POIs. Decades of TomTom expertise in one app.
+
+TomTom GO Expert: Escape traffic, save time & save money
+- Enter your vehicle's dimensions to get personalised guidance
+- Find gas stations to fill up your specific fuel type
+- Enter your dangerous cargo information to avoid certain roads
+- Easily find truck rest-stops
+- Define your desired maximum speed and get an adjusted ETA
+- Steer clear of traffic and blocked roads in real-time
+- Drive hassle-free with speed alerts and warnings for fixed and mobile speed cameras
+- Compatible with Apple CarPlay – Get directions and real-time info on a bigger screen and in surround sound
+- No ads, no distractions, and data privacy at its best. See only what is important on the road
+- Know exactly which lane to take with lane guidance, never miss a turn with easy turn-by-turn directions
+- TomTom RouteBar always shows you all relevant warnings and notifications along your route
+- Smarter journeys for both cars and trucks, enter your vehicle's dimensions to get personalised guidance
+- Save your mobile data and battery using offline maps, while driving with up-to-date GPS navigation
+
+Are you one of the happy TomTom GO Expert app users? Please leave a review and spread the word. Thank you for your support
+
+· Use of this sat nav app is subject to the terms and conditions at tomtom.com/en_eu/legal/
+· Speed camera alerts may only be used in accordance with the laws and regulations of the country in which you are driving. In some countries, these functions are prohibited by law. You can turn speed camera alerts on and off in TomTom GO Expert. For more information go to: https://www.tomtom.com/navigation/mobile-apps/go-expert-app/disclaimer",2016-03-14T09:17:39Z,2025-11-16T17:09:57Z
+pl,Poland,Navigation,6010,20,469463298,Citymapper: Your Transport App,Citymapper Limited,https://apps.apple.com/pl/app/citymapper-your-transport-app/id469463298?uo=4,0.0,4.86337,1676,Navigation,"Instantly compare your travel options in real-time across all transport modes globally, with live departures and bus locations!
+
+Easily navigate your area with turn-by-turn directions for all your public transport, walking, cycling and scooter trips. 
+
+THOUSANDS OF 5 STAR REVIEWS
+
+* ""Life changing. This app really changes the way you travel.""
+* ""The only true five star app.""
+* ""BEST TRANSPORT APP EVER.""
+* ""It's become a weird and possibly sad fact of my life that waiting and receiving Citymapper updates have overtaken Christmases and birthdays on the anticipation and excitometer.""
+
+FIND THE BEST ROUTE ► Simple trip planning combining all transport modes: bus, tube, train, tram, ferry, cabs, rideshare, carshare, bike hire, e-scooters and walking. Discover routes you never knew existed
+
+HIT THE GO BUTTON FOR STEP-BY-STEP DIRECTIONS ► Turn-by-turn navigation for all your transport, walking, personal cycling, bike shares and scooter trips. Choose between 3 different map views, see the charge levels of e-bikes around you, we even help you avoid no-parking zones. We take care of the logistical thinking so you are free to enjoy the ride
+
+BEAT THE RUSH HOUR CROWD ► Live wait times and ETA so you'll never miss a bus, train or tram again. Follow your bus / train as it's approaching on a real-time map, see the best carriage to board, get alerted when it's time to get off, and get in and out from the best exit at any underground / train station 
+
+PERSONALISE YOUR APP ► Save Home, Work and your go-to stops or stations for lightning fast trip planning. Subscribe to your favourite tube, train, bus or tram line for automatic disruption, delay, and status alerts
+
+GET SOCIAL ► Share your live trip: let friends follow your live trip to know when you'll arrive. Share any location or address: one tap for others to get directions
+
+TRAVEL OFFLINE ► Access offline the official TfL underground map and many other local network maps
+
+EXPERIENCE ONE-STOP-SHOP MOBILITY ► Compare cab fares, hail a ride, grab the closest carshare, hop on a shared bike all from within the app. Our partners include: Uber, Gett, Zipcar, Ola, Getaround, FREENOW, LIME, Santander Cycles, Forest, Beryl, Anywheel
+
+COVERAGE ► London and the South East | Birmingham and the Midlands | Manchester | Liverpool | Yorkshire | Edinburgh | Dublin | Paris | New York | Singapore | Taiwan | Hong Kong | Los Angeles | Barcelona | Berlin | Rome | Madrid | Hamburg | Milan | Stockholm | Chicago | Toronto | Sydney + many more in the UK worldwide!
+
+PUBLIC TRANSPORT AGENCIES ► We use open data from public transport agencies including:
+
+UK WIDE | National Rail, Arriva, Stagecoach, First bus
+LONDON | TfL (Transport for London), Underground, Overground, Docklands Light Railway (DLR), Tramlink 
+MANCHESTER | TfGM (Transport for Greater Manchester), Manchester Metrolink 
+LIVERPOOL | Merseytravel, Merseyrail
+YORKSHIRE | WYCA (West Yorkshire Combined Authority), SYPTE (South Yorkshire Public Transport Executive), Sheffield Supertram
+WEST MIDLANDS | TfWM (Transport for West Midlands), West Midlands Railway, Midland Metro, National Express West Midlands, National Express Coventry, Travel Telford, Worcestershire County Council, Diamond Bus
+NOTTINGHAM | NCT, NET
+EDINBURGH | TfE, Lothian Bus, Edinburgh Tram
+GLASGOW | SPT
+BRISTOL | Travelwest, MetroBus, Bristol Ferries
+CARDIFF | Transport for Wales, Cardiff Bus
+NEWCASTLE | NEXUS, Tyne and Wear Metro
+BRIGHTON | Brighton & Hove Buses
+DUBLIN | TFI, NTA, Bus Éireann, Dublin Bus, Iarnród Éireann (Irish Rail)
+HONG KONG | MTR, HK Tramways, Light Rail, Kowloon Motor Bus, Citybus, First Bus, First Ferry, Star Ferry, Discovery Bay Ferry & Bus, Park Island Ferry & Bus, Green Mini Bus
+SINGAPORE | LTA, SMRT, SBS
+
+KEEP IN TOUCH ► Questions, feedback or something we have missed in your city? Email us at support@citymapper.com
+
+Follow us on Twitter: http://twitter.com/Citymapper
+Visit our website: http://citymapper.com",2011-10-18T03:47:18Z,2025-11-07T14:37:50Z
+pl,Poland,Navigation,6010,21,415637297,ATM Milano Official App,Azienda Trasporti Milanesi s.p.a.,https://apps.apple.com/pl/app/atm-milano-official-app/id415637297?uo=4,0.0,1.5,20,Navigation,"ATM Milano Official App is the official app of Azienda Trasporti Milanesi, designed to help you move easily around Milan and its surroundings using public transport.
+
+The app is changing. New design, renewed user experience, and many new features. Discover them in detail.
+
+Say goodbye to your card: the subscription is now digital. Travel with your phone.
+•	Transfer your subscription to the app or directly purchase a digital subscription and travel with your phone.
+The home page is now geolocated.
+•	Explore the map to find nearby stops and check real-time waiting times.
+•	Customize the map to easily find points of interest like Parking, ATM Points, and BikeMi stations.
+•	Calculate the best route to reach your destination.
+•	Quickly access your favorite addresses, stops, Bikemi stations, and parking spots.
+Information, alerts, and news on the home page.
+•	Receive real-time notifications about unexpected line detours.
+•	Get alerts about upcoming scheduled changes.
+•	Discover initiatives and news in a new section on the home page.
+New mobility info menu.
+•	Here you’ll find all the details for getting around using public transport: routes, lines, stops, changes related to construction work, and other scheduled events.
+New Services menu.
+Book Neighborhood Radiobus services.
+•	Schedule an appointment at an ATM Point.
+•	Access useful information about public transport subscriptions, parking payments, parking near subway stations, and access to Area B and Area C.
+Purchasing becomes faster.
+•	On the new app, you can save the credit card you usually use to buy tickets or renew subscriptions.
+•	Purchase tickets for all fares, including daily, three-day, carnet, and tickets for the Z301 Milan - Bergamo line by Nord Est Trasporti.
+•	Renew your subscription on a physical card or directly purchase a digital subscription.
+App support.
+•	Manage your information and personal data from the profile menu.
+•	Contact our assistance center if you have issues using the app.
+
+Read the Personal Data Protection Notice on the ATM website.
+(https://www.atm.it/it/pagine/privacypolicy.aspx)",2011-03-28T07:00:00Z,2025-11-19T13:40:46Z
+pl,Poland,Navigation,6010,22,1550351929,Garmin Messenger™,Garmin International,https://apps.apple.com/pl/app/garmin-messenger/id1550351929?uo=4,0.0,4.73684,228,Navigation,"Stay in touch with friends and family. Enjoy the security and connectivity of global messaging with the Garmin Messenger™ app. Pair with your compatible inReach® satellite communicator for fast, easy direct messaging and interactive SOS that’s not limited to cellphone coverage areas (active satellite subscription required). The app supports group messaging as well as photo and voice messaging when paired with a compatible Garmin device (1). Automatic switching between internet, cellular, and satellite networks gives you the best connectivity and efficiency for all your messaging. When you have connectivity, the app will work seamlessly even if your inReach device is turned off. Invite your friends and family to download the app to stay connected and keep the conversation going on and off the trail. With the use of the LiveTrack™ feature, loved ones can follow your location in real time (2) and see data such as distance, time and elevation. 
+
+(1) See compatible devices at garmin.com/p/893837#devices
+(2) When used with your compatible smartphone and the Garmin Earthmate® app or when used with your compatible inReach® technology-enabled Garmin device.
+
+Note: Some jurisdictions regulate or prohibit the use of satellite communication devices. It is the responsibility of the user to know and follow all applicable laws in the jurisdictions where the device is intended to be used.",2022-09-26T07:00:00Z,2025-11-19T18:03:27Z
+pl,Poland,Navigation,6010,23,897442736,Bolt Driver: Drive & Earn,BOLT TECHNOLOGY OU,https://apps.apple.com/pl/app/bolt-driver-drive-earn/id897442736?uo=4,0.0,4.62955,10363,Navigation,"Join thousands of drivers using the Bolt Driver app to earn money on your terms. Be more than a taxi driver — enjoy the freedom to drive whenever it fits your lifestyle, and start making money today!
+
+WHY BECOME A BOLT DRIVER PARTNER
+• Flexible schedule: drive when and how it suits you.
+• Fast payouts: get your earnings weekly with no delays.
+• Rewards and bonuses: enjoy exclusive perks for your hard work.
+• Support and safety: we’re here to help every step of the way.
+
+HOW TO START DRIVING WITH BOLT
+• Sign up in minutes on the Bolt Driver app or at bolt.eu/en/driver/
+• Complete the sign-up process online or visit a local driver hub for assistance.
+• Hit the road and start earning!
+
+SIMPLE AND EASY-TO-USE APP
+• Accept ride requests with one tap.
+• Navigate to passengers and destinations effortlessly.
+• Drive, earn, and repeat
+
+Our mission is to make cities for people, not cars. We do this by offering a better alternative to every purpose a private car serves and helping millions of drivers support their families. If you're looking for a flexible way to earn money, sign up to drive with Bolt today.
+
+Questions? Get in touch via info@bolt.eu or at bolt.eu/en/driver
+
+Follow us on social media for updates, discounts, and offers!
+
+Facebook: facebook.com/Bolt
+Instagram: instagram.com/bolt
+X: x.com/Boltapp",2014-08-05T07:09:08Z,2025-11-17T09:46:29Z
+pl,Poland,Navigation,6010,24,507107090,Bonjour RATP,RATP Smart Systems,https://apps.apple.com/pl/app/bonjour-ratp/id507107090?uo=4,0.0,4.29839,124,Navigation,"Bonjour RATP is the essential app for all your journeys in Île-de-France.
+Plan your trips, check live traffic, purchase your tickets, and discover all mobility alternatives around you - metro, RER, bus, tram, Transilien trains, and self-service bikes.
+
+Your routes across all networks.
+Metro, RER, bus, tramway, Transilien SNCF trains, Optile… Wherever you are, Bonjour RATP finds the best journey to get you around the entire region.
+
+Journeys tailored to you. 
+Customize your search according to your preferences:
+- Avoid certain lines or stations,
+- Prioritize your preferred modes (metro, RER, Transilien, bus…),
+- Minimize transfers or favor accessible routes.
+Because every resident of Île-de-France has their own way of traveling.
+
+Real-time traffic and personalized alerts.
+Check the network status at a glance and receive real-time alerts in case of disruptions on your favorite lines across the entire Île-de-France network.
+
+All your tickets in your pocket. 
+No more monthly queues! Buy the following tickets in the app and access them directly on your iPhone or Navigo pass:
+- Navigo Month
+- Navigo Week
+- Navigo Day
+- Metro-Train-RER tickets
+- Bus-Tram tickets
+- Paris Region-Airports tickets
+- Special tickets (Music Festival, Anti-pollution pass...)
+- Paris Visite pass
+
+Always on time.
+Check real-time schedules for upcoming departures on all your lines. Never miss your bus, metro, or RER again. An incident on your lines? Thanks to alerts, you’ll be immediately informed and the app will suggest an alternative.
+
+Speak and go (Beta)
+Just say where you want to go, and Bonjour RATP takes care of the rest!
+Voice search makes your journeys even easier.
+
+Bike sharing
+Want to ride? Find a bike in seconds. Bonjour RATP shows availability of Vélib’, Lime, and Dott.
+
+Why choose Bonjour RATP?
+- Complete coverage across all Île-de-France
+- Customizable routes based on your preferences and habits
+- Real-time traffic and alerts
+- All tickets and passes directly in the app
+- All self-service bikes available
+- Smooth, clear, and intuitive interface
+
+For more information about our services, feel free to contact us by email at clients@bonjour-ratp.fr",2012-05-15T04:35:18Z,2025-11-03T10:43:29Z
+pl,Poland,Navigation,6010,25,919504159,Moja Komenda,Ministerstwo Spraw Wewnetrznych i Administracji,https://apps.apple.com/pl/app/moja-komenda/id919504159?uo=4,0.0,4.07692,13,Navigation,"Aplikacja „Moja Komenda” - pierwszy mobilny przewodnik po polskich jednostkach Policji przygotowany przez Ministerstwo Spraw Wewnętrznych i Administracji.
+Aplikacja ułatwia lokalizowanie komend i komisariatów Policji. Dzięki niej można w prosty sposób odnaleźć najbliższą jednostkę, a następnie sprawdzić, jak najszybciej do niej trafić. Usługa przygotowana przez Ministerstwo Spraw Wewnętrznych i Administracji zawiera także bazę teleadresową wszystkich komend i komisariatów w Polsce. Aplikacja zawiera również bazę wszystkich dzielnicowych w Polsce oraz umożliwia ich odszukanie.
+Więcej informacji: - praca w trybie offline
+- wyszukiwanie najbliższych jednostek policji
+- prezentacja komend i komisariatów na mapie
+-wyszukanie dzielnicowych po adresie oraz po nazwisku
+- wytaczanie trasy do wybranej jednostki policji (w trybie on-line)
+-nawigacja do wybranej jednostki policji ( w trybie on-line)
+- widok street view w miejscu lokalizacji komendy lub komisariatu
+- połączenie z wybraną jednostką lub wybranym dzielnicowym jednym kliknięciem
+- wyszukiwanie komend i komisariatów po adresie, nazwie jednostki, mieście lub kodzie pocztowym
+
+Link do deklaracji dostępności: https://www.gov.pl/web/mswia/deklaracja-dostepnosci-aplikacji-mobilnej-moja-komenda",2014-10-01T07:00:00Z,2022-12-06T14:58:41Z

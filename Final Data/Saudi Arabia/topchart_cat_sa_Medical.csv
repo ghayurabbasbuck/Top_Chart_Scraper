@@ -1,0 +1,403 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+sa,Saudi Arabia,Medical,6020,1,733503978,Dr. Sulaiman Alhabib,Dr Sulaiman Al Habib Medical Center,https://apps.apple.com/sa/app/dr-sulaiman-alhabib/id733503978?uo=4,0.0,4.04169,18015,Medical,"Dr. Sulaiman Al Habib Application is a free and provides a wide range of Electronic Services to all Dr. Sulaiman Al Habib Medical Services Group's Clients. The Application reflects the medical group focus on quality services and commitment towards providing premier healthcare services and Cutting Edge technology to its valued patients. 
+
+The Application supports the Arabic & English Languages and has the following features: 
+
+•	Open a new medical file
+•	Online Appointment Booking & rescheduling 
+•	Add and manage family files
+•	Insurance approval status and view insurance cards
+•	Find a doctor and ask your doctors 
+•	Doctor profiles 
+•	Lab results 
+•	Medical prescriptions 
+•	View radiology reports and images
+•	Sick leave reports
+•	Eye measurements
+•	Vital signs
+•	Track your blood sugar, pressure, and weight
+•	My vaccines
+•	Child vaccines reminders
+•	Receive monthly medical reports
+•	Request medical report
+•	Notifications and reminders
+•	Hospitals contact numbers 
+•	Hospitals, Pharmacies Locations 
+•	Latest Jobs 
+•	Hospital’s Virtual Tour 
+•	Official Social Media 
+•	Health calculators and converters
+•	Latest news
+•	Blood donation
+•	Accessibility for partially bind
+•	Direct customers support 
+
+Dr. Sulaiman Al-Habib Medical Services Group is a highly reputable and one of the largest providers of comprehensive healthcare services in the Middle East. Its continuous success in providing the highest quality of medical care has set a benchmark in the Arab region, as it is currently operating 18 Medical Projects in Saudi Arabia, United Arab Emirates and Bahrain.
+
+HEALTH APP INTEGRATION:
+This shows you the following data from the Health app (HealthKit):
+
+- Steps
+- Walking + Running Distance
+- Flights Climbed (Floors)
+- Cycling Distance
+- Workouts (Read only)
+- Exercise Minutes (Read only)
+- Active Energy
+- Wheelchair Distance
+- Swimming Distance
+- Resting Calories (BMR)
+- Weight
+- Heart Rate (Read only)
+- Sleep Analysis
+
+This App uses background location tracking to show you the latest offers by HMG when you visit any HMG branch.
+
+*** for technical support, kindly send us feedback from the application or send us your problem to the email:
+eservices.hmg@drsulaimanalhabib.com",2013-11-29T05:41:05Z,2025-11-16T06:16:51Z
+sa,Saudi Arabia,Medical,6020,2,6749816825,Almana | المانع,Almana General Hospital,https://apps.apple.com/sa/app/almana-%D8%A7%D9%84%D9%85%D8%A7%D9%86%D8%B9/id6749816825?uo=4,0.0,4.36606,336,Medical,"Almana is a smart healthcare application designed to make managing your medical journey easier and more convenient. With a simple and secure registration process, Almana allows you to seamlessly book and manage your appointments, access your medications, and review your approval history in just a few taps. Patients can instantly view their lab and radiology reports, explore our hospital locations, and find doctors with ease.
+
+The application also supports appointment check-in, profile updates, and adding dependents to help families manage healthcare under one account. Built with the latest technology and enhanced user experience, Almana ensures that patients receive smooth and reliable access to their medical services anytime, anywhere.
+
+With Almana, you stay connected with your doctors, informed about your health records, and empowered to take charge of your healthcare needs in a modern and secure way.",2025-09-24T07:00:00Z,2025-11-05T19:07:03Z
+sa,Saudi Arabia,Medical,6020,3,1244654624,Labayh - لبيه,Labayh Medical Care Company,https://apps.apple.com/sa/app/labayh-%D9%84%D8%A8%D9%8A%D9%87/id1244654624?uo=4,0.0,4.63382,122867,Medical,"Your psychology and family therapy is easier than ever.  Labayh is a Saudi App for Psychology, Family and Personal Consultations which aims to connect you with consultants and experts in safe, reliable and private way. Labayh makes your personal Consultant closer to you than ever before.
+
+LABAYH added values: 
+-	Qualified experts
+-	Privacy 
+-	Easy and reliable 
+-	Save money and time
+
+How to use LABAYH
+-	Explore Consultants and choose the best of them 
+-	Book your appointment and get your consultation
+-	Rate and review your experience
+
+Contact us: 
+
+-	Website: http://www.labayh.net/
+-	Email: info@labayh.net
+-	Phone: 920031893
+
+Follow us in Social Media
+-	TWITTER: https://twitter.com/labayhapp
+-	INSTGRAM: https://www.instagram.com/labayhapp/
+-	SNAPCHAT: https://www.snapchat.com/add/labayhapp
+-	FACEBOOK: https://www.facebook.com/labayhapp",2017-06-11T14:10:26Z,2025-11-19T12:44:57Z
+sa,Saudi Arabia,Medical,6020,4,6740566726,Wareed Labs | مختبرات وريد,WAREED HEALTH COMPANY,https://apps.apple.com/sa/app/wareed-labs-%D9%85%D8%AE%D8%AA%D8%A8%D8%B1%D8%A7%D8%AA-%D9%88%D8%B1%D9%8A%D8%AF/id6740566726?uo=4,0.0,3.56897,58,Medical,Wareed team are committed to providing high quality services to meet your needs and follow the latest medical technologies and advanced technologies in the field of laboratories and home care to assure providing comprehensive service compatible with your aspirations.,2025-03-12T07:00:00Z,2025-11-20T06:22:02Z
+sa,Saudi Arabia,Medical,6020,5,891683782,مجموعة طبيب,AFNA Solutions,https://apps.apple.com/sa/app/%D9%85%D8%AC%D9%85%D9%88%D8%B9%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A8/id891683782?uo=4,0.0,4.73522,56324,Medical,"Unlock unbeatable prices for laser hair removal, skin rejuvenation, teeth whitening, and relaxing home massages with our exclusive offer for Tabib Group app users. Experience the ultimate in beauty and wellness at top-notch clinics and centers in Jeddah, Makkah, Riyadh, Al Khobar, and Aseer. Don't miss out! Download the app now and discover a world of affordable luxury!",2014-06-29T05:32:05Z,2025-10-13T09:17:32Z
+sa,Saudi Arabia,Medical,6020,6,1574165966,Saudi German Health,Saudi German Hospital,https://apps.apple.com/sa/app/saudi-german-health/id1574165966?uo=4,0.0,4.83879,35575,Medical,"A completely new-brand of Saudi German hospital App focused on a patient centric and make the journey better and easier with all medical services. 
+
+We are keen enhance the app frequently. Please keep the auto-update on to get our latest great features.
+
+
+النسخة الجديدة تمامًا من تطبيق المستشفى السعودي الألماني، تركز على خدمة المريض وتجعل رحلته أسهل وأفضل بتقديم جميع الخدمات الطبية.
+
+ نحن حريصون على تطوير التطبيق بشكل دوري. لذا يُرجى تشغيل التحديث التلقائي للحصول على أحدث الميزات.",2022-08-31T07:00:00Z,2025-08-29T22:16:07Z
+sa,Saudi Arabia,Medical,6020,7,6740854812,Malafi | ملفي,National Guard Health Affair (NGHA),https://apps.apple.com/sa/app/malafi-%D9%85%D9%84%D9%81%D9%8A/id6740854812?uo=4,0.0,3.51724,58,Medical,"The Ministry of National Guard Health Affairs introduces the Malafi mobile application that provides patients easy access to their medical information at any time and place. Patients can access their medical records, book appointments, check their visits history, examine their test results, view their medication information and conveniently request medication refills. In addition to many other services.
+Patients can also track their health, exercises, weight, blood sugar and pressure from the “My Health” screen which is integrated with the Apple Health app.",2025-05-08T07:00:00Z,2025-11-02T05:07:57Z
+sa,Saudi Arabia,Medical,6020,8,6450965754,Dexcom ONE+,"DexCom, Inc.",https://apps.apple.com/sa/app/dexcom-one/id6450965754?uo=4,0.0,2.125,64,Medical,"Diabetes goes where you go, now your glucose readings can too, with the Dexcom ONE+ Continuous Glucose Monitoring (CGM) system and mobile app†.  
+With the Dexcom ONE+ mobile app†, users can access their real-time glucose readings at a glance and set customisable alerts that can help warn of highs and lows, all with no finger pricks* or scanning. Discuss with your healthcare professional how you should use the information displayed on the Dexcom ONE+ to help manage your diabetes.
+ 
+The Dexcom ONE+ mobile app† has been designed with enhanced features to help in the management of diabetes: 
+•	The app-led onboarding allows users get started in a few clicks only. 
+•	Share your glucose data with up to 10 followers who can monitor your glucose data and trends on their compatible smart device with the Dexcom Follow app. Share and Follow functions require an internet connection. 
+•	Key diabetes metrics displayed in the Clarity Card section of the mobile app, so that users can see both real-time and retrospective glucose data.** 
+•	Event logging where users can track activities like meal intake, exercise sessions and insulin injections, helping them better understand their glucose patterns.1 
+•	Alerts to notify users 12-hours before the end of a sensor session, so you can change your sensor when it’s convenient for you.1  
+ 
+Apple Watch: 
+•	View your glucose information, trend graph, and alerts right from your wrist with the Dexcom ONE+ Apple Watch app. Watches require compatible smart device to use app. 
+ 
+Learn more at Dexcom.com. 
+ 
+This app is only for use with the Dexcom ONE+ Continuous Glucose Monitoring System. 
+ 
+*If your glucose alerts and readings from the Dexcom ONE+ do not match symptoms or expectations, use a blood glucose meter to make diabetes treatment decisions 
+† Smart device sold separately. For a list of compatible devices, visit www.dexcom.com/compatibility. 
+**An internet connection is required for patients to send their glucose data to Dexcom Clarity via a compatible smart device: dexcom.com/compatibility. 
+1 Dexcom ONE+ User Guide, 2023.",2024-05-23T07:00:00Z,2025-09-18T19:37:27Z
+sa,Saudi Arabia,Medical,6020,9,1025985846,خدمات المرضى,National Guard Health Affair (NGHA),https://apps.apple.com/sa/app/%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B1%D8%B6%D9%89/id1025985846?uo=4,0.0,2.87717,2825,Medical,"The Ministry of National Guard Health Affairs introduces the Patient Care mobile application that provides patients easy access to their medical information at any  time and place. Patients can access their medical records, book appointments, check their visits history, examine their test results, view their medication information and conveniently request medication refills. In addition to many other services.
+Patients can also track their health, exercises, weight, blood sugar and pressure from the “My Health” screen which is integrated with the Apple Health app.",2016-02-01T00:22:39Z,2025-02-05T05:24:05Z
+sa,Saudi Arabia,Medical,6020,10,1612207127,Mouwasat Hospital,Mouwasat Medical Services Co.,https://apps.apple.com/sa/app/mouwasat-hospital/id1612207127?uo=4,0.0,4.78346,41364,Medical,"نلتزم بتقديم افضل الخدمات الطبية في جميع التخصصات الرئيسية والفرعية من خلال الكوادر الطبية المتميزة المؤهلة من أرقى الجامعات المحلية و العالمية باستخدام أحدث ما توصلت إليه التقنية في مجال التجهيزات الطبية لتحقيق أفضل مستوى من الجودة والسلامة للمرضى.
+
+يتيح تطبيق المواساة للهواتف الذكية لكم الحصول على مجموعة واسعة من الخدمات الإلكترونية الفريدة والتي نهدف من خلالها الى جعل تجربتكم أسرع وفي منتهى السهولة.
+
+
+حجز المواعيد، استعراض المواعيد القادمة والسابقة، الأدوية الحالية والسابقة، النتائج الطبية، الموافقات الطبية، الفواتير، ربط أفراد العائلة
+
+
+We are committed to providing the best medical services in all major and sub-specialties through distinguished qualified medical cadres from the most prestigious local and international universities using the latest technology in the field of medical equipment to achieve the best level of quality and safety for patients.
+
+The Mouwasat application for smartphones allows you to access a wide range of unique electronic services, through which we aim to make your experience faster and easier. Integrated with the Health app (HealthKit) to seamlessly access and track your health data. This allows us to present your information in an intuitive and visually appealing way while enabling our doctors to provide you with more accurate and personalized assessments.
+
+Appointment Scheduling, Appointments Histories, Medications, Medical Approvals, Invoices, Sick leaves, Dependents.",2022-04-26T07:00:00Z,2025-10-28T16:02:33Z
+sa,Saudi Arabia,Medical,6020,11,6452676846,Meena Health,MEENA HEALTH MEDICAL COMPANY,https://apps.apple.com/sa/app/meena-health/id6452676846?uo=4,0.0,3.15551,463,Medical,"Meena Medical Group is redefining how healthcare is delivered, making it more accessible, convenient, and patient-focused. We provide care that adapts to people’s lifestyles and needs through a model built on flexibility, clinical excellence and integrated support.
+Our key services:
+In-Clinic Care: Comprehensive primary care offered at Meena Centers for those who prefer in-person visits.
+Virtual Clinics: Video consultations and virtual services that make it easier for patients to access medical care, prescriptions, and follow-ups without visiting a clinic.
+Home Health Care: Hospital-quality care delivered at home, including chronic disease management, rehabilitation, elderly care, women and children health, vaccinations, remote monitoring and more.
+Occupational Healthcare: A full-spectrum service designed to enhance employees well-being, safety and productivity. Through on-site clinics and telehealth solutions, Meena Health supports everything from pre-employment screenings and risk assessments to injury management, rehabilitation, and compliance with Saudi NCOSH and international standards.
+The Meena Health app is your all-in-one digital health platform in KSA, offering seamless, patient-first care that adapts to your life. Whether you need to book an in-clinic appointment, prefer a digital clinic experience or you’re looking for home health care services, Meena Health puts comprehensive care at your fingertips, with services designed for the whole family.
+Key Features:
+Doctor & Clinic Profiles with Verified Reviews
+With detailed doctor and clinic profiles, in addition to real patient reviews, you can choose the right doctor with confidence.
+In-Person, Virtual or Home Care Appointments
+Easily book doctor appointments online in Saudi Arabia, whether you prefer virtual video consultations or in-person visits or you need hospital-at-home services.
+Video Consultations 
+Video consultations are fully integrated into the app.
+Linking to Insurance
+You can link directly with insurance with no hassle 
+Comprehensive Profile for Patients and Their Families
+You and your family can access your medical history, view prescriptions, receive medications and download your medical reports effortlessly, including lab results, radiology reports, and doctors notes.
+Real-time Alerts & Notifications
+Receive personalized appointment reminders, medication alerts, and other updates via SMS, email or push notifications.
+Health Tracking & Integration with Smart Devices
+Connect wearables through Samsung Health to track hydration levels, steps, blood pressure, and more, and get alerts for unusual readings
+User-Friendly Experience
+Tailor your experience with digital tools that adapt to your health needs
+Flexible Payment Options
+Pay medical bills online
+Why Meena Medical Group?
+Meena Medical Group is transforming primary care in Saudi Arabia by seamlessly integrating innovative digital solutions with personalized in-person medical care. Our comprehensive approach offers accessible, convenient and high-quality healthcare designed specifically around your individual needs. At Meena, we empower you with flexible, patient-centered care, ensuring your health journey is always within your control whether online, at home or in the clinic.
+Healthcare Tailored to Your Lifestyle
+Whether you prefer in person visits or virtual appointments, Meena Health makes it easy to access healthcare services in the way that suits you best.
+Support Across Every Specialty
+From family medicine to chronic condition management and physiotherapy, Meena Health brings together experienced medical professionals to guide every step of your health journey.
+Comprehensive Wellness Programs
+We offer programs that promote physical, emotional, social and mental wellbeing. Each is designed to empower you and help you feel better every day.
+We believe the ideal care experience starts with diverse, inclusive choices. Download the Meena Health app to access healthcare services designed around for needs",2023-08-29T07:00:00Z,2025-11-13T06:59:34Z
+sa,Saudi Arabia,Medical,6020,12,1597732266,Altakhassusi,King Faisal Specialist Hospital and Research Center,https://apps.apple.com/sa/app/altakhassusi/id1597732266?uo=4,0.0,4.76206,23468,Medical,"KFSH&RC have launched Altakhassusi Application which enables users to access their health care records anywhere anytime to perform several tasks and submit requests too which includes the following:
+
+- Health Profile, Gives an overview of the most recent information as recorded in patients’ health records.
+- Appointments, This feature enables you to view your own and your dependent, upcoming appointments Postpone or cancel existing appointments
+- Medical Conditions, View a list of Diagnosis and Complaints as obtained from the electronic health record
+- Medications, View a list of their current and inactive medications, request prescription renewals.
+- Health Maintenance, View a list of procedures or immunizations recommended for you based on age, gender and medical history.
+- Immunization, View a list of immunizations either taken or recommended for you based on age, gender and medical history
+- Laboratory Tests, View details of any future or completed laboratory tests and procedure results
+- Radiology, View reports of all completed Radiology exams and procedure.
+- Documents, View or request all kinds of medical reports including like discharge summaries or medical evaluation
+- Vital Signs, View values and graphs for your vital signs, height and weight as documented on each visit
+- Surgical Procedures, View details of completed surgical procedures
+- Pathology, View reports of all completed Pathology tests and procedure.
+- Hospital Visits, View the details of your previous hospital visits to outpatient, inpatient and emergency department.
+- Supplies, View and request approved, supplies required for you or your dependents
+- Personal Profile, Provides personal information and emergency contacts address
+
+The goal of this initiative was driven by promoting “Patient Experiences” through meeting their growing expectations and satisfying their demands by effective engagements through the use of technology as an efficient and effective communication platform.",2022-01-16T08:00:00Z,2025-08-20T06:33:09Z
+sa,Saudi Arabia,Medical,6020,13,1338938836,FreeStyle LibreLink – SA,Abbott Diabetes Care Inc,https://apps.apple.com/sa/app/freestyle-librelink-sa/id1338938836?uo=4,0.0,3.72486,865,Medical,"The FreeStyle LibreLink app is approved for use with FreeStyle Libre and FreeStyle Libre 2 system sensors. You can check your glucose by scanning your sensor with your phone. Now FreeStyle Libre 2 system sensor users can get automatic glucose readings in the FreeStyle LibreLink app, updated every minute, and also receive alarms when your glucose is low or high. [1][2]
+
+You can use the FreeStyle LibreLink app to:
+
+* View your current glucose reading, trend arrow and glucose history
+* Receive low or high glucose alarms with FreeStyle Libre 2 system sensors [2]
+* Add notes to track your food, insulin use and exercise
+* See reports, such as Time in Range and Daily Patterns
+* Share your data with your doctor and family, with your permission [3]
+
+SMARTPHONE COMPATIBILITY
+Compatibility may vary between phones and operating systems. Learn more about compatible phones at http://FreeStyleLibre.com.
+
+USING YOUR APP AND READER WITH THE SAME SENSOR
+Alarms can only be issued on your FreeStyle Libre 2 reader or your phone (not both). To receive alarms on your phone, you must start the sensor with the app. To receive alarms on your FreeStyle Libre 2 reader, you must start the sensor with your reader. Once the sensor has been started with the reader, you can also scan that sensor with your phone.
+
+Remember that the app and reader do not share data with each other. For complete information on a device, scan your sensor every eight hours with that device; otherwise, your reports will not include all your data. You can upload and view data from all of your devices on LibreView.com.
+
+APP INFORMATION
+FreeStyle LibreLink is intended for measuring glucose levels in people with diabetes when used with a sensor. For more information on how to use FreeStyle LibreLink, refer to the User’s Manual, which can be accessed through the app. If you require a printed User’s Manual, contact Abbott Diabetes Care Customer Support.
+
+Consult a healthcare professional to confirm if this product is right for you or if you have questions about how to use this product to make treatment decisions.
+
+Learn more at http://FreeStyleLibre.com.
+
+[1] If you are using the FreeStyle LibreLink app, you must also have access to a blood glucose monitoring system, as the app does not provide one.  
+
+[2] Alarms that you receive do not include your glucose reading, so you must scan your sensor to check your glucose.
+
+[3] Use of FreeStyle LibreLink and LibreLinkUp requires registration with LibreView.
+
+The sensor housing, FreeStyle, Libre, and related brand marks are marks of Abbott. Other trademarks are the property of their respective owners.
+
+For additional legal notices and terms of use, go to http://FreeStyleLibre.com.
+
+========
+
+To resolve any technical or Customer Service issues that you are having with a FreeStyle Libre product, please contact FreeStyle Libre Customer Service directly.",2018-09-27T01:51:42Z,2025-06-12T20:05:30Z
+sa,Saudi Arabia,Medical,6020,14,6689513028,Tebtom,Armed Forces Hospitals in Taif Region,https://apps.apple.com/sa/app/tebtom/id6689513028?uo=4,0.0,3.38043,92,Medical,"Tebtom application for medical services for patient of the armed forces hospitals in the Taif region 
+Al Hada Armed Forces Hospital.
+تطبيق طبتم للخدمات الطبية لمستشفيات القوات المسلحة بمنطقة الطائف .",2024-10-01T07:00:00Z,2025-11-12T23:24:25Z
+sa,Saudi Arabia,Medical,6020,15,478245466,iKFMC,KING FAHAD MEDICAL CITY,https://apps.apple.com/sa/app/ikfmc/id478245466?uo=4,0.0,3.75968,749,Medical,"صمم هذا البرنامج ليخدم موظفي ومرضى مدينة الملك فهد الطبية كما يخدم ايضا الموردين وعامة الناس. سوف يوفر للمستخدم الوصول الى المعلومات التي يحتاجها بكل سهولة وسرعة وفعالية في أي وقت ومكان.
+
+المميزات المتوفرة
+
+الخدمات الطبية وتتضمن المواعيد والأدوية والتحاليل والأشعة والتشخيص والتقارير وملفات الأقارب
+
+خدمات الموظفين وتتضمن الإجازات والرواتب والتقييم
+
+الموردون
+
+عامة وتتضمن التثقيف الصحي والإحالة الطبية وأهلية العلاج والخدمات الإجتماعية وفتاوى المرضى والأخبار وأرقام تهمك ونبذة عن المدينة
+
+----------------------------------------
+
+iKFMC is designed to serve every employee and patients at King Fahad Medical City as well as vendors and public. It will provide the user with an easy, fast and efficient way to access the data they need anywhere and anytime.
+
+Features provided:
+
+Employees services that include: Vacations, Salary and Evaluations.
+
+Medical services that include: Appointments, Medications, Lab tests, Radiology, Diagnosis, Reports and Relatives.
+
+Vendors
+
+Public that includes: Health education, Medical Referral, Eligibility, Social Services, Patients' Fatawas, News, Important KFMC contact numbers, About KFMC",2011-11-11T20:47:53Z,2025-08-24T09:52:40Z
+sa,Saudi Arabia,Medical,6020,16,1381219666,Sidalih.com صيدلية.كوم,esharqat al shahh pharmacy,https://apps.apple.com/sa/app/sidalih-com-%D8%B5%D9%8A%D8%AF%D9%84%D9%8A%D8%A9-%D9%83%D9%88%D9%85/id1381219666?uo=4,0.0,4.06397,891,Medical,"Welcome on your world of health and beauty.
+enjoy shopping more than 33 thousands local and international brands.
+We reach you where you are pay safely by the way you prefer",2018-05-20T09:57:26Z,2025-10-23T13:00:14Z
+sa,Saudi Arabia,Medical,6020,17,6466983244,Kesay Clinics,RUKN ALKESSAY MEDICAL COMPANY,https://apps.apple.com/sa/app/kesay-clinics/id6466983244?uo=4,0.0,3.89157,83,Medical,"استعيدي نضارة بشرتك وصحة شعرك مع تطبيق مجمع عيادات الكسائي الطبية – العناية تبدأ من هنا
+حمّلي الآن تطبيق مجمع عيادات الكسائي الطبية و ابدئي رحلتك نحو الجمال والعناية الصحية مع نخبة من أطباء الجلدية وخبراء التجميل والليزر. سواء كنتِ تبحثين عن العناية بالبشرة، علاج تساقط الشعر، إزالة الشعر بالليزر، أو عيادة تجميل موثوقة  كل هذا وأكثر نقدّمه لكِ بجودة عالية وسهولة حجز من هاتفك.
+نقدّم باقة واسعة من الخدمات الطبية والتجميلية باستخدام أحدث التقنيات في مجال الجلدية، التقشير الكيميائي والليزر، وحقن الفيلر والبلازما، لتحصلي على نتائج طبيعية وآمنة.
+
+لماذا تطبيق عيادات الكسائي؟
+تطبيقنا مصمم ليمنحكِ تجربة سهلة ومتكاملة للحصول على:
+تنظيف البشرة العميق والعلاجات المتقدمة
+علاج تساقط الشعر وتعزيز نموه
+إزالة الشعر بالليزر لكافة أنواع البشرة
+فيلر الشفاه وتحديد الملامح
+شد الوجه بدون جراحة
+التقشير الكيميائي والليزر لتجديد البشرة
+إزالة التجاعيد والعلامات الدقيقة
+حقن البلازما لتجديد خلايا البشرة
+علاج آثار الحبوب والبقع الداكنة
+علاج التصبغات الجلدية وتوحيد اللون
+خدمات عيادة جلدية متكاملة
+
+
+المميزات الأساسية للتطبيق:
+ فتح ملف جديد أو الوصول لملفك الطبي الحالي بسهولة وفي دقائق معدودة.
+ تصفح مجموعة واسعة من الخدمات الطبية والتجميلية، مع إمكانية شرائها مباشرة من التطبيق.
+ عروض حصرية متجددة و متوفرة فقط عبر التطبيق.
+ اختيار الطبيب المناسب لك بناءً على التخصص، الخبرة، المؤهلات، وتقييمات العملاء.
+ إدارة المواعيد بكل سهولة: احجز، عدل أو ألغِ الموعد بضغطة زر.
+عرض سجل مواعيدك السابقة والقادمة ومتابعة حالتك أولاً بأول.
+
+
+مع تطبيق عيادات الكسائي، جمالكِ بين يديكِ – احجزي الآن وابدئي رحلة التغيير الحقيقي.
+نحن نؤمن أن الجمال يبدأ من العناية الصحيحة، ولذلك نحرص على تقديم أفضل الحلول الطبية والتجميلية مع تجربة استخدام سهلة وآمنة.
+
+حمّلي تطبيق عيادات الكسائي الآن وتمتعي ببشرة صحية وشعر أقوى وجمال طبيعي يدوم.",2023-11-29T08:00:00Z,2025-07-29T12:25:31Z
+sa,Saudi Arabia,Medical,6020,18,1151403577,SMC Healthcare,SPECIALIZED MEDICAL CENTER HOSPITAL,https://apps.apple.com/sa/app/smc-healthcare/id1151403577?uo=4,0.0,4.61721,12532,Medical,"SMC Healthcare is a leading hospitals group in Riyadh, Saudi Arabia.
+And in an endeavor to provide the best possible services to its patients & clients, Specialized Medical Center has published its Mobile Application that gives you access to a wide range of Electronic Health Services that currently includes:
+ 
+Viewing Your Appointments and Reports
+Requesting For Appointments
+Virtual Consultations
+Reading Results Using AI and Getting Personalized Health Records
+Accessing Your Laboratory and Radiology Results
+Viewing Your Medications and Prescriptions
+Finding Doctors and Nearest Appointments
+View and track your Insurance Approvals
+View and share your Sick Leaves
+Recording and Viewing your Vital Signs
+Availability of Vaccines and Medications
+Contacting us for additional information
+Accessing our Website and Social Media
+ 
+Download our Mobile Application and expect more services in our upcoming releases.",2016-09-16T14:13:34Z,2025-11-10T23:00:33Z
+sa,Saudi Arabia,Medical,6020,19,6748008913,KFMMC Hospital,KFMMC,https://apps.apple.com/sa/app/kfmmc-hospital/id6748008913?uo=4,0.0,2.28655,171,Medical,"This app allows users to book, view, and cancel appointments at King Fahd Military Medical Complex (KFMMC). Users can access their medical, discharge, operative, laboratory reports, vital signs, and view their personal and family medical cards. The app also provides features to request medical reports and manage pending medication refills. Overall, it serves as a comprehensive tool to help users manage and stay informed about their medical history and ongoing healthcare needs.
+
+هذا التطبيق يسمح للمستخدمين بحجز المواعيد وعرضها وإلغائها لدى مجمع الملك فهد الطبي العسكري بالظهران.
+يمكن للمستخدمين أيضا عرض تقارير الخروج والعمليات والتقارير الطبية وتقارير نتائج التحاليل والعلامات الحيوية. أيضا يمكنهم من عرض بطاقات عائلاتهم الطبية وطلب التقارير الطبية والأدوية المجدولة لإعادة الصرف.
+بشكل عام فالتطبيق يقدم خدمات شاملة لمساعدة المستخدمين على البقاء على معرفة بتاريخهم الطبي واحتياجاتهم الصحية.",2025-08-26T07:00:00Z,2025-11-08T06:32:05Z
+sa,Saudi Arabia,Medical,6020,20,1473258160,سنار - Sanar | صحة أفضل,Sanar eCommerce Company LLC,https://apps.apple.com/sa/app/%D8%B3%D9%86%D8%A7%D8%B1-sanar-%D8%B5%D8%AD%D8%A9-%D8%A3%D9%81%D8%B6%D9%84/id1473258160?uo=4,0.0,4.72813,11638,Medical,"Sanar is a Saudi MOH-licensed platform specializing in virtual primary care, offering convenient telemedicine consultations and access to a wide range of medical specialties, as well as comprehensive home healthcare services. 
+
+Our services include:
+Telemedicine:
+- Video/audio consultations with certified doctors and specialists across 25+ medical fields
+- Instant access to general medicine, pediatrics, dermatology, cardiology, psychiatry/psychology, and more
+- Chronic disease management and prescription refills 
+Home Medical Care:
+- Lab tests: Access different lab testing services
+- Nurse: Receive professional nursing care
+- Home Visit Doctor: Schedule doctor visits to your home for personalized care
+- Vitamin IV Drips: Receive IV vitamin therapy from the convenience of your home
+- Physiotherapist: Get physiotherapy services without having to leave your home
+- Radiology: Access radiology services from the convenience of your home
+- Vaccination: Access vaccination services for both adults and children through Sanar.
+- Caregiver Services: Health care companions available for children, the elderly, mothers, and post-surgery patients.
+
+Additional  Services:
+- Sanar Pharmacy: Order prescriptions with secure home delivery
+
+Contact & Support:
+- Email: Customercare@sanar.sa
+- Website: www.sanar.sa
+- Social Media: @SANARKSA (Instagram, X, YouTube, Facebook, TikTok, Snapchat)",2019-08-29T07:00:00Z,2025-09-16T10:36:26Z
+sa,Saudi Arabia,Medical,6020,21,1529172019,Estenarh - استنارة,Khalid Alshaer (SA),https://apps.apple.com/sa/app/estenarh-%D8%A7%D8%B3%D8%AA%D9%86%D8%A7%D8%B1%D8%A9/id1529172019?uo=4,0.0,4.8206,7787,Medical,"The Estenarh app, approved by the Ministry of Health, offers the best online therapy and counseling from licensed therapists and psychologists for medical, psychological, social, and family support. Accessible and private, Estenarh is a therapy app for diverse needs, from individual therapy needs and online therapy for teens to online couples therapy and online therapy sessions for families.
+
+Estenarh specializes in various mental health areas including stress, anxiety, depression, teen issues, marriage counseling, divorce, post-separation crises, obsessive-compulsive disorder, sleep disturbance, mood disorders, and more.
+
+Estenarh App Features:
+Complete privacy: Secure encryption ensures confidentiality in all online therapy communications.
+Experienced Online Therapists: Professional online psychologists and counselors with extensive expertise.
+Affordable therapy options: Flexible payment methods for all.
+Multiple communication options: Choose text, phone, or video for your online counseling sessions.
+Instant Booking: Start therapy online in less than 5 minutes.
+Reliable Reviews: Verified authentic reviews from real Estenarh users.
+Easy Booking: Flexible appointment scheduling and booking available all day.
+
+Let us help you take steps toward a happier and healthier life with support that’s always at your fingertips through the Estenarh mental health app.",2020-11-12T08:00:00Z,2025-11-18T15:12:40Z
+sa,Saudi Arabia,Medical,6020,22,1474060887,King Fahad Armed Forces,King Fahd Armed Forces Hospital,https://apps.apple.com/sa/app/king-fahad-armed-forces/id1474060887?uo=4,0.0,2.02542,236,Medical,"حرصا من  مستشفى الملك فهد للقوات المسلحة بجده لتقديم افضل الخدمات للمرضى  تم تطوير تطبيق بوابة المريض للهواتف المحمولة ليقدم خدمات إلكترونية لمرضى ومن ضمنها وليس محصورا عليها:
+1.      خدمة حجز موعد.
+2.      خدمة استعراض المواعيد القادمة
+3.      خدمة استعراض نتائج المختبر
+4.      خدمة استعراض تقارير الاشعة
+5.      خدمة استعراض الملف الطبي
+6.  خدمة عرض جميع أفراد العائلة
+  *** ملاحظة يرجي استخدام إسم المستخدم وكلمة المرور الخاصة بك في بوابة المريض
+
+
+King Fahad Armed Hospital(KFAFH) has successfully developed a patients portal mobile application (PATTAL);  the patients will be able to view all aspects related to their medical information using their mobile phones.
+The application provide numerous services including (and not limit to):
+1.      Booking appointments
+2.      Viewing future appointment
+3.      Viewing lab results
+4.      Viewing radiology reports
+5.      Viewing prescriptions  history
+6.    Viewing  the medical file
+7.    Viewing  all family members",2019-07-29T07:00:00Z,2024-10-20T12:18:36Z
+sa,Saudi Arabia,Medical,6020,23,950285659,SFHP Riyadh,Security Forces Hospital,https://apps.apple.com/sa/app/sfhp-riyadh/id950285659?uo=4,0.0,1.72174,690,Medical,"يقدم تطبيق برنامج مستشفى قوى الأمن للأجهزة الذكية على منصة التطوير أبل و أندرويد  عدد من الخدمات التفاعلية الهامة للمريض والتي تساهم في تقديم الخدمة للمريض عن بعد دون الحاجة لتواجد المريض بالمستشفى.  حيث يقدم التطبيق المعلومات الخاصة بملف المريض و معلومات أفراد أسرة المريض المرتبطين به وخدمات الإستعلام عن المواعيد الخاصة بهم مع وجود رسائل نصية للتذكير بالمواعيد.
+أيضاً يقدم التطبيق خدمات الإطلاع على السجل الدوائي للمريض و طلب إعادة صرف الدواء. وخدمة الإطلاع على عدد من التقارير الطبية كتقرير الأشعة و التقارير الطبية و إشعار المراجعة.
+ويستطيع المريض التواصل مع المستشفى و تحديد الإدارة التي يرغب بالتواصل معها و متابعة  الطلب الذي يتواصل مع المستشفى بشأنة عن طريق خدمة تواصل معنا الذي يقدمها التطبيق.
+كما سيتم الإستمرار بإضافة عدد جديد من الخدمات الإلكترونية للمريض لهذا التطبيق بما يساهم في تقديم خدمات طبية ترتقي لرضى المريض.
+نرحب بالإقتراحات والملاحظات.",2015-01-21T07:33:16Z,2020-01-23T06:15:53Z
+sa,Saudi Arabia,Medical,6020,24,1495041933,Care Medical,NATIONAL MEDICAL CARE CO,https://apps.apple.com/sa/app/care-medical/id1495041933?uo=4,0.0,3.08537,82,Medical,"Care Hospitals mobile application gives you access to a lot of services.
+
+Upon registering, you will be able to:
+
+- View your previous and upcoming appointments
+
+- View your outpatient visits
+
+- View your results (Lab, X-Ray and more)
+
+- View your insurance approvals
+
+- View the vaccinations for your children
+
+- View your medication
+
+- View your procedural reports",2020-01-16T08:00:00Z,2025-03-31T17:37:36Z
+sa,Saudi Arabia,Medical,6020,25,6444257600,SiHi | صحي,king saud university - Medical city,https://apps.apple.com/sa/app/sihi-%D8%B5%D8%AD%D9%8A/id6444257600?uo=4,0.0,4.70781,5866,Medical,"Welcome to the Patient Portal of the Medical City at King Saud University - SiHi:
+
+You can use the application to access and stay updated on the latest information regarding your medical file at the Medical City at King Saud University by providing the following data:
+
+- Appointments and Visits.
+- Laboratory results.
+- Medications.
+- Radiology Images.
+- Medical reports.
+- Health Education.
+
+And much more…",2023-12-29T08:00:00Z,2025-08-27T22:13:28Z

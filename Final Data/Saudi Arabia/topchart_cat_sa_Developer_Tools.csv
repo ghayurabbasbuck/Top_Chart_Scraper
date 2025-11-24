@@ -1,0 +1,449 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+sa,Saudi Arabia,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/sa/app/testflight/id899247664?uo=4,0.0,4.43724,83621,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+sa,Saudi Arabia,Developer Tools,6026,2,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/sa/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.54814,135,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+sa,Saudi Arabia,Developer Tools,6026,3,1405459188,Scriptable,Simon Stovring,https://apps.apple.com/sa/app/scriptable/id1405459188?uo=4,0.0,4.23438,256,Developer Tools,"Scriptable is an automation tool that enables you to write scripts that integrates with native features of iOS such as files, calendars, reminders, documents and much more.
+
+An extensive support for widgets enables you to write your own widgets using JavaScript and run the scripts on your Home Screen. Your widgets can show any data and be customised to look just the way you want. 
+
+With Siri Shortcuts you can present images, tables and more in Siri as well as making Siri read out loud a text when you run a script from a Siri Shortcut.
+
+There's a growing gallery of scripts to get you started with Scriptable.
+
+Here’s a few examples of scripts you can create:
+
+- Ask Siri whether a web service is down.
+- Create a widget that shows data from your weather station.
+- Postpone the next event in your calendar half an hour.
+- Check what is currently on TV.
+- Manage a list of movies you would like to watch.
+- Upload files to an image optimizer and store a URL to the optimized image.
+- Receive a notification with the weather report every morning.
+- Create todos with prefilled data in your favorite todo app using URL schemes.
+
+Features include:
+
+- Write and run JavaScript.
+- Auto complete of variable names, functions, keywords and properties as you type.
+- Access lots of native iOS features from your JavaScript code, including managing files, calendars, reminders, contacts, photos, location, pasteboard, web views and more.
+- Create your own widgets. Your scripts run on the Home Screen without needing to open the app.
+- Siri Shortcuts enabling you to present images, tables, websites, HTML and more in Siri as well as making Siri read out loud a text.
+- Support for input and output parameters in Siri Shortcuts.
+- Easily schedule rich notifications to run your scripts periodically.
+- Work with files and directories from third party apps using File Bookmarks.
+- Synchronise scripts to all of your devices using iCloud Drive.
+- Scripts are stored as plain JavaScript files and can be browsed using the Files app.
+- Assign one of over 800 glyphs and a color to a script to easily identify it in your directory of scripts.
+- Run scripts directly on your Lock Screen and Home Screen using widgets.
+- Run a script by 3D touching the app icon.
+- Run a script from a share sheet and process the inputs.
+- Schedule notifications and run a script directly from a notification.
+- URL schemes enabling you to run scripts from other apps.
+- Support for x-callback-url enabling advanced integration with other apps that support x-callback-url.
+- Export and share scripts.
+- Example scripts helping you get started creating your own scripts.
+- Extensive documentation for all the native APIs you can use in your scripts. Available offline in the app and online on docs.scriptable.app.
+- View the documentation in a separate window on iPad.
+- Support for dark mode.
+- Customise the editor to your liking.",2018-09-21T15:36:44Z,2024-09-30T10:29:59Z
+sa,Saudi Arabia,Developer Tools,6026,4,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/sa/app/apple-developer/id640199958?uo=4,0.0,4.24585,301,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+sa,Saudi Arabia,Developer Tools,6026,5,1477376905,GitHub,GitHub,https://apps.apple.com/sa/app/github/id1477376905?uo=4,0.0,4.52928,444,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+sa,Saudi Arabia,Developer Tools,6026,6,1601434613,Store Redirect,翔 何,https://apps.apple.com/sa/app/store-redirect/id1601434613?uo=4,0.0,4.01586,126,Developer Tools,"Store Redirect helps developers to view their apps in multiple countries and regions. 
+Developers can easily query ranks, reviews, featured app, stories and more.
+By checking the apps in each countries and regions, developers can better localize apps.",2022-01-12T08:00:00Z,2022-02-23T16:01:14Z
+sa,Saudi Arabia,Developer Tools,6026,7,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/sa/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.1897,738,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+sa,Saudi Arabia,Developer Tools,6026,8,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/sa/app/o-kam-pro/id1602054864?uo=4,0.0,4.43014,365,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+sa,Saudi Arabia,Developer Tools,6026,9,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/sa/app/app-store-connect/id1234793120?uo=4,0.0,4.67887,601,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+sa,Saudi Arabia,Developer Tools,6026,10,1578710731,Wifi Analyzer: Network Scanner,KUPERTINO BIL. YAZ. HALIL IBRAHIM KARAHAN SAFFET ARSLAN MUSTAFA AYTEN MUHAMMET YALCIN OZDEMIR K. S.,https://apps.apple.com/sa/app/wifi-analyzer-network-scanner/id1578710731?uo=4,0.0,4.52632,95,Developer Tools,"Analyze your WiFi network and discover devices!
+
+Perform speed test to find out your network's upload and download speed.
+
+Access to detailed information of your network;
+- Find out your Local IP and Public IP
+- Get information of your ISP (internet service provider)
+- View latency information (ping)
+- Perform speed test (upload, download speed)
+- Discover devices connected to your WiFi network
+
+
+Privacy Policy: https://kupertinolabs.com/privacy-policy
+Terms of Use: https://kupertinolabs.com/terms-of-use",2022-07-22T07:00:00Z,2025-10-24T09:13:55Z
+sa,Saudi Arabia,Developer Tools,6026,11,1507309511,Spck Editor,Zeb Zhao,https://apps.apple.com/sa/app/spck-editor/id1507309511?uo=4,0.0,3.31579,76,Developer Tools,"Explore fun JavaScript labs on-the-go with Spck Editor. A simple, yet feature-filled code editor that lets you access your projects from Github, Bitbucket, Gitlab, and more! With Spck Editor, you can edit, commit, checkout, push, and run simple JavaScript projects.
+
+This tiny editor is packed with useful features from powerful, intelligent code completion of HTML, JavaScript, and CSS. Other features include:
+
+- Local file access
+- Project-wide searching (with file filters)
+- Code snippets
+- Keyword completion to 20+ languages
+- Advance code completion for JavaScript/TypeScript & CSS
+- Context-sensitive hinting for JS/TS
+- Syntax Validation
+- Light/Dark Theme
+- Integrated JS Console
+- Git repo cloning, commits, checkout, push/pull
+- Git branches, logs, and remotes interfaces
+- Extra keyboard for code navigation
+- Dynamic keyboard for JS/HTML/CSS editing
+- AI Coding Assistants based on the latest models
+
+Terms of Use: https://spck.io/terms",2020-04-12T07:00:00Z,2025-10-11T11:06:54Z
+sa,Saudi Arabia,Developer Tools,6026,12,1312141691,Stream - Network Debug Tool,Stream Lab Inc.,https://apps.apple.com/sa/app/stream-network-debug-tool/id1312141691?uo=4,0.0,3.75,8,Developer Tools,"Before downloading this App, We hope you can read the following introductions seriously.
+
+1. Stream is designed for f2e developers, mobile developers, backend developers, sa engineers, qa engineers and users who have a certain network analyze abilities.
+2. Stream is only designed for network debugging. Meanwhile, turning on Stream requires you to authorize VPN permissions.
+3. Stream will never upload any user data, and we also expect you to spread to users who also trust us.
+
+If you do not agree with the above instructions, we recommend you consider seriously before downloading.
+
+
+Features:
+
+Stream is an iOS side network debugging tool, only for QA & development. 
+
+1. Sniff HTTP & HTTPS requests, meanwhile sniffing HTTPS requests needs you to install CA certificates.
+2. Capture History, preview request body, and response body, supports text / JSON / files / forms.
+3. Compose HTTP requests and Replay sniffed requests.
+4. Support Hosts configuration, similar to Hosts in the PC features, for f2e developer and mobile developer to switch test environment and online environment easily.
+5. Simple support on HAR files, you can export Charles / Fiddler / Chrome / Firefox network records to HAR file and then open in Stream and replay requests.
+6. Compatible with iPhone X and iPad MutiTask.",2018-01-04T16:29:42Z,2020-04-06T19:00:38Z
+sa,Saudi Arabia,Developer Tools,6026,13,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/sa/app/expo-go/id982107779?uo=4,0.0,4.7816,87,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+sa,Saudi Arabia,Developer Tools,6026,14,1463298887,Userscripts,Justin Wasack,https://apps.apple.com/sa/app/userscripts/id1463298887?uo=4,0.0,3.90909,22,Developer Tools,"Userscripts is an open source Safari extension that lets you save and run arbitrary bits of JavaScript (and CSS) code for the websites you visit.
+
+Features:
+
+- Open source
+- No user tracking
+
+Use cases:
+
+- Automatic page redirection
+- Website page manipulation (styling, element creation)
+- Custom ad-blocking
+- Custom code injection
+- Custom style injection
+
+If you're looking for a way to easily create quality of life Javacript code snippets for your web browsing experience, give Userscripts a try.
+
+Visit the GitHub repository for help or to report bugs: https://github.com/quoid/userscripts/",2019-05-14T23:19:05Z,2025-09-01T08:41:50Z
+sa,Saudi Arabia,Developer Tools,6026,15,1663675754,GDevelop - Create & Play Games,GDEVELOP FRANCE,https://apps.apple.com/sa/app/gdevelop-create-play-games/id1663675754?uo=4,0.0,4.38525,122,Developer Tools,"Play a growing world of quirky, joyful indie games.
+Discover, play and support games made by independent creators from around the world... and create your own!
+
+Play and help shape the next indie gem:
+- Unlimited indie games instantly in-app, no install needed
+- Sharing feedback with creators
+- Explore new games every week, from around the world
+
+Every game in the app was built with GDevelop: the no-code and AI powered, open-source game engine used by thousands of creators, artists, and independent developers.
+Start exploring. Play something small. Or weird. Or wonderful.
+
+Create your own games. Or play any game you're dreaming of!
+
+It's fast, easy, and no technical knowledge is required to get started.
+Try it, or get a GDevelop subscription to unlock every feature!
+
+- Explore dozens of game templates or start from scratch.
+- Use AI to help you build your game step by step.
+- Use your own characters, or choose from a library of pre-made objects such as characters, animations, sounds, and music.
+- Quickly add pre-made logic to your game objects with GDevelop's Behaviors.
+- Write game logic with GDevelop's innovative event system based on ""if / then"" actions and conditions.
+- Publish your game in a few seconds and share it with your friends, colleagues, or customers.
+- Allow players to submit their scores with ready-to-use leaderboards or make online multiplayer games.
+
+Dozens of thousands of games are made every month with GDevelop.
+Unleash your creativity, and create all kinds of games: platformers, shoot’em up, strategy, 8-bit, or hyper-casual games... the sky is the limit.
+
+GDevelop is a powerful game engine that will transform you into a game designer:
+- Add explosions and effects with particles.
+- Use visual effects (""shaders"").
+- Pathfinding and advanced movements (bounce, elliptic movement, screen wrap, projectiles...).
+- Advanced rendering engine that can handle pixel-art games, modern 2D games, 2.5D isometric games and 3D games.
+- Text objects for scores, dialogues, with optional typewriter effects.
+- Transitions and smooth movement for objects.
+- Leaderboards and Real-time Multiplayer.
+- Platformer engine.
+- Realistic 2D and 3D physics engine.
+- Sound effects and music handling.
+- Ready-to-use objects for your game interface: text input, buttons, joysticks, progress bars...
+- Complete documentation available for each feature.
+- Dozens of extensions that give new behaviors, new actions, and new conditions: checkpoints, object shaking, 3D flip effects...
+
+GDevelop makes game development easy, even for those with no prior experience.
+Download the app and join a community of 400k+ monthly creators: gamers, hobbyists, teachers, and professionals.
+GDevelop's unique design makes game creation fast and fun!
+
+Our Terms & Conditions: https://gdevelop.io/page/terms-and-conditions
+Our Privacy Policy: https://gdevelop.io/page/privacy-policy",2023-04-10T07:00:00Z,2025-11-05T20:33:21Z
+sa,Saudi Arabia,Developer Tools,6026,16,1436650069,Pyto IDE,Develobile S.p.A.,https://apps.apple.com/sa/app/pyto-ide/id1436650069?uo=4,0.0,3.57971,69,Developer Tools,"Pyto is an IDE for iPhone and iPad with a Python 3.10 Interpreter and all of the standard libraries plus more than 100 third party packages, as well as a C & C++ compiler and bitcode interpreter. Includes a terminal with standard UNIX commands, a code editor with code completion, support for Shortcuts, Picture in Picture, a graphical interface builder and a debugger.
+
+* Full version exclusive third party modules *
+
+- Cython, cryptography, typed_ast, cv2, _cffi_backend, kiwisolver, matplotlib, numpy, pandas, lxml, Bio, sklearn, skimage, scipy, erfa, pywt, nacl, bcrypt, statsmodels, zmq, regex, gensim, astropy, emd, wasm3, yaml
+
+* Built-in UNIX commands *
+
+- alias, awk, cat, chflags, chmod, cksum, clang, compress, cp, curl, date, diff, dig, du, egrep, env, fgrep, find, grep, gunzip, gzip, head, host, ifconfig, link, lli, llvm-link, ln, ls, md5, mkdir, mv, nc, nslookup, open, openurl, pbcopy, pbpaste, ping, printenv, pwd, readlink, rlogin, rm, rmdir, say, scp, sed, sftp, sort, ssh, ssh-keygen, stat, sum, tail, tar, tee, telnet, touch, tr, unalias, uname, uncompress, uniq, unlink, uptime, wc, whoami, whois, wol
+
+Take advantage system features with the following modules:
+
+  - pyto_ui - Build an user interface
+  - widgets - Home Screen Widgets
+  - file_system - iOS file system
+  - notifications - Schedule notifications
+  - remote_notifications - Receive remote notifications
+  - background - Run code in background
+  - pasteboard - Clipboard access
+  - userkeys - Save values on disk
+  - sound - Play sounds
+  - music - Access the Apple Music library
+  - photos - Accessing photos and the camera
+  - location - Access user's location
+  - motion - Motion sensors
+  - multipeer - Peer to peer wireless connection
+  - apps - Open third party apps
+  - xcallback - Interact with other apps
+  - sf_symbols - A list of SF Symbols names
+  - watch - Complications and static user interfaces for the Apple Watch",2018-09-24T03:14:38Z,2024-06-09T14:11:52Z
+sa,Saudi Arabia,Developer Tools,6026,17,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/sa/app/ish-shell/id1436902243?uo=4,0.0,3.73529,34,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+sa,Saudi Arabia,Developer Tools,6026,18,1581290510,Code Editor - Compiler & IDE,Rhythm Software,https://apps.apple.com/sa/app/code-editor-compiler-ide/id1581290510?uo=4,0.0,4.14286,7,Developer Tools,"Code editor is optimized text editor focused on coding. It contains necessary features including syntax highlight, code assist, auto-complete, compile and execute, etc.
+
+Features:
+
+- Syntax highlighting for over 110 languages (C++, Java, JavaScript, HTML, Markdown, PHP, Perl, Python, Lua, Dart, etc).
+- Include online compiler, can compile and run over 30 common languages (Python, PHP, Java, JS/NodeJS, C/C++, Rust, Pascal, Haskell, Ruby, etc).
+- Code assist, folding and auto-completion.
+- Easily navigate between multiple tabs.
+- Undo and redo changes without limit.
+- Search and replace with regular expressions.
+- Show or hide line numbers.
+- Highlight matching parentheses.
+- Automatic indent and outdent.
+- Displays invisible characters.
+- Open files from recently opened file collections.
+- Preview HTML and Markdown files.
+- Includes Emmet support for web development.
+- Access files from FTP and WebDAV.
+- Evaluate JavaScript code with built-in JavaScript console.
+- Integrate and easy access to GitHub and GitLab.
+- Access files from Google Drive, Dropbox, and OneDrive.
+- Dark and light themes and over 30 syntax highlighting styles.
+
+If you run into any issues or have any suggestions, please feel free to contact us: support@rhmsoft.com",2022-04-03T07:00:00Z,2025-11-14T16:48:28Z
+sa,Saudi Arabia,Developer Tools,6026,19,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/sa/app/rork/id6746410361?uo=4,0.0,4.57143,35,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+sa,Saudi Arabia,Developer Tools,6026,20,6751247034,Anything - AI App Builder,"Create, Incorporated",https://apps.apple.com/sa/app/anything-ai-app-builder/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+sa,Saudi Arabia,Developer Tools,6026,21,6738933789,Termux,FREE AI UTILS COMPANY LIMITED,https://apps.apple.com/sa/app/termux/id6738933789?uo=4,0.0,4.65957,47,Developer Tools,"TermuxUS - Powerful Terminal Emulator
+
+TermuxUS is a powerful terminal emulator for iOS that provides you with quick and seamless access to your remote servers. Whether you're a developer, system administrator, or just someone who loves to tinker with servers, TermuxUS makes managing your servers and running commands easier than ever.
+
+Key Features:
+
+Quick Connect to Your Server
+Access your remote servers with just a tap. TermuxUS makes connecting fast and simple, so you can focus on what matters.
+
+Choose a Theme for Your Terminal and Keyboard
+Personalize your terminal experience. Choose from a variety of themes for your terminal window and custom keyboard layouts for your convenience.
+
+Access Support and Manage Settings
+Easily manage app settings and access helpful support, ensuring you have everything you need for a smooth experience.
+
+Clear Terminal and Easy Keyboard Control
+Navigate your terminal with ease. Enjoy a clean interface and intuitive keyboard controls for more efficient server management.
+
+Custom SSH Keyboard for Quick Server Access
+Save time with a custom SSH keyboard tailored to give you quick access to commands and functions, perfect for frequent tasks.
+
+Saved Servers and Folders for Quick Connections
+Store and organize your servers and folders for one-click access. No need to re-enter credentials or paths — just connect instantly.
+
+Whether you're managing cloud servers, performing remote development, or simply executing commands, TermuxUS is the essential tool for anyone working with remote systems.
+
+Privacy Policy : https://mcanswers.ai/termux/privacy-policy
+Terms of Use : https://mcanswers.ai/termux/terms-of-use",2024-12-09T08:00:00Z,2025-10-08T02:53:58Z
+sa,Saudi Arabia,Developer Tools,6026,22,6748809118,Doovix,继伟 邹,https://apps.apple.com/sa/app/doovix/id6748809118?uo=4,0.0,0,0,Developer Tools,"Doovix transforms learning into an extraordinary adventure.   Imagine having the ability to sit down with Einstein and discuss relativity, chat with Marie Curie about radioactivity, or explore mathematics with Isaac Newton.   This isn't science fiction—it's the Science Time Corridor.
+
+Using advanced AI technology, Doovix creates immersive conversations with history's most brilliant scientific minds.   Each scientist responds in character, sharing their discoveries, theories, and the fascinating stories behind their groundbreaking work.
+
+Whether you're a student struggling with complex concepts, a teacher looking for engaging ways to present scientific history, or simply someone fascinated by the minds that shaped our world, Doovix offers a unique way to explore science through personal interaction.",2025-07-20T07:00:00Z,2025-08-06T01:34:21Z
+sa,Saudi Arabia,Developer Tools,6026,23,6748286191,IPA Installer,Serhii Fedorenko,https://apps.apple.com/sa/app/ipa-installer/id6748286191?uo=4,0.0,1,6,Developer Tools,"Attention! This application does not sign .ipa files, it only installs them. Do not attempt to install .ipa files that you have obtained by any means other than from your developer.
+
+IPA Installer — your fast and convenient tool for installing iOS apps directly from .ipa and .iipa files. Perfect for developers and testers looking to accelerate their build testing and delivery cycle.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Key Features:
+
+Direct Installation
+Install any build in .ipa or .iipa format without extra steps or intermediaries.
+
+Ease of Use
+Simply share the desired file from any app — installation starts automatically.
+
+Built-in File Picker
+Quickly locate and select your build using the standard file selection dialog.
+
+Legacy File Support
+Upload and install even older files — unlike cloud services that expire links (typically after 3 days), here there are no time limits.
+
+Target Audience
+Developers, QA engineers, and beta testers who value speed and efficiency in handling test builds.
+
+With IPA Installer, you’ll always have access to the latest (and not-so-latest) versions of your apps — simple, reliable, and straightforward!",2025-07-08T07:00:00Z,2025-10-07T19:12:34Z
+sa,Saudi Arabia,Developer Tools,6026,24,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/sa/app/python-editor-app/id1672453872?uo=4,0.0,4.19649,2794,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+sa,Saudi Arabia,Developer Tools,6026,25,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/sa/app/stikdebug/id6744045754?uo=4,0.0,4.42856,7,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-04-30T07:00:00Z,2025-10-22T12:58:09Z

@@ -1,0 +1,571 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mm,Myanmar,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/mm/app/google-translate/id414706506?uo=4,0.0,4.48667,150,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2020-04-16T07:00:00Z,2025-11-21T16:58:32Z
+mm,Myanmar,Reference,6006,2,1035153899,Eng-Mm Dictionary,Aung min Naing,https://apps.apple.com/mm/app/eng-mm-dictionary/id1035153899?uo=4,0.0,4.54023,87,Reference,"English MM Dictionary is a offline English to Myanmar or Myanmar to English Dictionary.
+
+Main Features : 
+- Work without internet access
+- Auto suggest searching word
+- Voice settings
+- Easy navigation
+- Synchronise with server and get new meaning of words
+- Check updates automatically
+- Provided 40 chapters in learning module
+- Play word quiz
+- Provided example sentences, phonetic, synonym and antonym words
+- Font converter (Myanmar Unicode to Zawgyi and vice versa)
+
+# Unicode to Zawgyi Share Extension
+>>> If your device doesn't display myanmar font properly, you can use this extension to convert.
+
+# Dictionary Share Extension 
+>>> You can search definition by select and share to this extension while using other app.",2020-04-18T07:00:00Z,2023-01-25T20:38:53Z
+mm,Myanmar,Reference,6006,3,1201247440,MMCalendarU,Aung min Naing,https://apps.apple.com/mm/app/mmcalendaru/id1201247440?uo=4,0.0,4.61681,107,Reference,"MMCalendarU is Unlimited Myanmar Calendar App with list of public holidays, events and astrological days. Worked as 100 years calendar.
+
+Main Features
+- Supported today widget
+- Supported myanmar exchange rates from AYA, KBZ, CB, UAB banks,...",2020-04-12T07:00:00Z,2020-04-12T07:00:00Z
+mm,Myanmar,Reference,6006,4,1517982329,Translate AI.,Mary srl,https://apps.apple.com/mm/app/translate-ai/id1517982329?uo=4,0.0,0,0,Reference,"Discover the power of language with Translate AI – your trusted companion for breaking language barriers while traveling, working, or learning.
+Powered by advanced artificial intelligence, Translate AI delivers fast, accurate, and natural translations for text, voice, and images.
+
+Exceptional Features for Global Communication
+
+Text Translation
+Instantly translate written words into multiple languages with high accuracy.
+Whether you're a traveler trying to understand signs, a student learning a new language, or a professional communicating internationally, Translate AI is your reliable translation tool.
+
+Voice Translation
+Enjoy real-time, natural conversations without interruptions.
+Perfect for international meetings, travel, or casual chats with people around the world.
+
+Image Translation
+Simply point your camera at signs, menus, or documents to get instant and precise translations directly on your screen.
+
+Keyboard Translation
+Seamlessly integrate translation into your daily typing.
+Type in one language and get an instant translation in another — ideal for messages, chats, and emails.
+
+Why Choose Translate AI
+
+Multimodal Translation
+Text, voice, or image — Translate AI adapts to any translation need.
+Unmatched Accuracy
+Our state-of-the-art AI understands context to provide natural, meaningful translations — not just word-for-word results.
+
+Elegant and Easy-to-Use Design
+A clean, modern interface makes switching between languages and translation modes effortless.
+
+Continuous Updates
+We’re constantly improving, adding new features and expanding our language database to give you the most comprehensive translation experience possible.
+Translate AI is more than just an app — it’s a bridge that connects you to the world.
+
+Download now and experience smart translation today!
+
+Supported Languages
+Enjoy translations across a wide range of languages, including Afrikaans, Arabic, Chinese (Simplified and Traditional), English, French, German, Japanese, Korean, Portuguese, Russian, Spanish, and many more.
+
+Terms of Use: https://docs.google.com/document/d/1-QCv7vH90qQwwwVuHCIqaRxfa-UWUyaSKmmlKz5I9Lg/edit?usp=sharing
+Privacy Policy: https://www.iubenda.com/privacy-policy/55197364",2020-06-16T07:00:00Z,2025-11-10T01:49:48Z
+mm,Myanmar,Reference,6006,5,420570850,iDhamma,Pye Phyo Han,https://apps.apple.com/mm/app/idhamma/id420570850?uo=4,0.0,3.85714,14,Reference,"iDhamma is religious application for Burmese people. Normally most of Myanmar people worship to Buddha at everyday so this application will help to make worship anytime, anywhere. Most useful prayers are already inside this application so you can read moreover you can make it as favorite for daily use. Of course you can edit to your favorite list whatever you want. If you give me feedback and rating, I’d appreciate it. And I’m really pleased with your suggestion/advice for my app. This app is not only working fine with iOS7 & 8 but also support for iPhone5,5s,6 and 6 Plus.",2020-04-11T07:00:00Z,2020-04-11T07:00:00Z
+mm,Myanmar,Reference,6006,6,1447765879,Dhamma Payeik,Soe Sann Htet,https://apps.apple.com/mm/app/dhamma-payeik/id1447765879?uo=4,0.0,4.44444,9,Reference,"Explore the essence of Buddhist teachings with the Dhamma Payeik App, your personal pocket companion to Buddha's teachings for peace and enlightenment. 
+
+This app offers a carefully selected collection of paritta verses and suttas, presented with authentic Burmese pronunciations and enriching audio mp3 files, making it accessible to everyone, regardless of their familiarity with the Pali language.
+
+Dhamma Payeik is designed to be a source of comfort and wisdom. 
+Each verse and sutta comes with translations and insightful explanations, helping you grasp the profound messages and teachings of the Buddha. 
+It’s a simple yet powerful tool to incorporate the Buddha's virtues and guidance into your daily life.
+
+Whether you're seeking spiritual growth, mental clarity, or a moment of peace, the Dhamma Payeik App is here to support your journey.
+
+Download Dhamma Payeik today and embark on your path to inner transformation.",2020-04-20T07:00:00Z,2025-10-28T00:34:49Z
+mm,Myanmar,Reference,6006,7,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/mm/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,5,1,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+mm,Myanmar,Reference,6006,8,1185609709,Ship Info,Oleksiy Koldunov,https://apps.apple.com/mm/app/ship-info/id1185609709?uo=4,0.0,4.61538,65,Reference,"Ship Info is the «must have» app for seafarers, shipowners, and maritime professionals, offering comprehensive data on commercial fleets worldwide. Explore one of the largest merchant ship databases in the world, with over 400,000 vessels at your fingertips! 
+
+Whether you’re a maritime professional or simply passionate about ships, Ship Info is the essential tool you’ve been waiting for. Download now and stay connected to the world of shipping!
+
+Key Features:
+- Search vessels by name, IMO number, or MMSI.
+- Comprehensive information about detailed ship particulars, deck and engine equipment, radio-communication systems, and crew information.
+- Latest vessel status, schedules, real-time AIS and satellite positions and vessel track
+- Owner and Manager Info
+- Numbers of high-quality vessels’ pictures.
+- Seafarers’ reviews for valuable insights.
+- Explore vessels near your location and major ports.
+- Check available sea-going job vacancies.
+- Get detailed reports on detentions, sanctions, blacklists, and ITF abandoned vessel lists.
+
+Languages Supported:
+•  English
+•  German
+•  Danish
+•  Russian
+•  Ukrainian
+•  Chinese
+
+
+Privacy policy and terms of use: https://www.infoship.xyz/shipinfo/v1/privacy_policy_ios.html",2020-04-10T07:00:00Z,2025-11-04T20:06:59Z
+mm,Myanmar,Reference,6006,9,6477325101,Translate Voice: AI Translator,HAPPY TOOLS HK LIMITED,https://apps.apple.com/mm/app/translate-voice-ai-translator/id6477325101?uo=4,0.0,4.70587,17,Reference,"Translate Voice is a useful translation application that provides you with real-time and accurate text, voice and image translation services. Whether you are studying, working or traveling, it can break the language barrier for you and allow you to communicate with the world without any barriers.
+
+Main feature:
+
+1. Multi-modal translation: text, voice, pictures, all available. Whether you are typing, speaking, or taking photos, AI translation experts can provide you with accurate and fast translations.
+
+2.AI driven: Using the latest artificial intelligence technology, our translation engine can provide natural and smooth translations, making you feel like you are communicating directly with a native speaker.
+
+3. Privacy protection: We respect and protect your privacy. All translation content will be processed on cloud servers, and we will not collect or share any personal privacy information.
+
+iTranslator is your language companion that you can take with you wherever you go. Download iTranslator now and start your multilingual journey!",2024-02-03T08:00:00Z,2025-11-03T10:11:38Z
+mm,Myanmar,Reference,6006,10,1364039620,MMBookshelf,Aung min Naing,https://apps.apple.com/mm/app/mmbookshelf/id1364039620?uo=4,0.0,4.24138,174,Reference,"MMBookshelf is collection of myanmar books, newspapers, journals and magazines for all myanmar people around the world.
+
+Main Features :
+- Search books by title, categories or authors 
+- Search authors by name or index
+- Supported to read offline after download books
+- Supported to add books into favourite list
+- Listing all downloaded books
+- Supported built-in book reader
+- Supported to share book to friends without download",2020-04-18T07:00:00Z,2022-06-01T01:57:26Z
+mm,Myanmar,Reference,6006,11,460465895,iAbidan,Sei Thu Htun,https://apps.apple.com/mm/app/iabidan/id460465895?uo=4,0.0,4.55,20,Reference,"Since 2011, the iAbidan dictionary has been one of the most widely used dictionaries in the Myanmar community. The iAbidan dictionary provides not only the definition of each word but also its pronunciation, synonyms, antonyms, usage examples, phonetics, and voice capabilities for your devices. This comprehensive dictionary is a great resource for anyone looking for an all-in-one language tool. Moreover, the iAbidan dictionary is available both online and offline, allowing you to access it anytime and anywhere, even without an internet connection.",2020-04-20T07:00:00Z,2023-03-13T21:08:54Z
+mm,Myanmar,Reference,6006,12,1544742935,VPN - 夏时国际加速器 VPN,XIASHI LIMITED,https://apps.apple.com/mm/app/vpn-%E5%A4%8F%E6%97%B6%E5%9B%BD%E9%99%85%E5%8A%A0%E9%80%9F%E5%99%A8-vpn/id1544742935?uo=4,0.0,4.58333,72,Reference,"Our application is very simple to use, just click to connect.
+
+1. You don't need to register, you don't need to provide any information.
+2. Free server, we provide many free servers for you. Each line has a network delay display. You can choose the line that is most suitable for you.
+3. VIP server, we provide high-quality servers in different regions, using commercial dedicated line direct connection, network more stable, faster response speed, to meet your higher needs.
+4. We take your privacy and security very seriously, we will not collect any information about you. This protects your privacy and security to the greatest extent.
+
+In app purchase:
+1. VIP server monthly payment,  $4.99
+2. VIP server annual payment,   $43.99
+3. Remove ADs,   $24.99
+
+
+Privacy policy website: https://xiashinet.com/policy/
+Terms Of Use website: https://xiashinet.com/terms/",2020-12-17T08:00:00Z,2025-11-20T12:38:43Z
+mm,Myanmar,Reference,6006,13,341922306,Pleco Chinese Dictionary,Pleco Inc.,https://apps.apple.com/mm/app/pleco-chinese-dictionary/id341922306?uo=4,0.0,4.78571,14,Reference,"Pleco is the ultimate Chinese learning companion: an integrated dictionary / document reader / flashcard system with fullscreen handwriting input and live OCR, from a company that's been making the world's best mobile Chinese learning apps since 2001.
+
+Major features: ($ = paid add-on)
+
+• Amazing dictionaries. We offer two free built-in dictionaries: the popular open-source CC-CEDICT, with over 110,000 frequently-updated entries, and our own PLC dictionary, with 125,000 entries, parts of speech, and over 25,000 example sentences (with Pinyin). More than two dozen other dictionaries are available as free and paid ($) add-ons, including licensed titles from well-known publishers like Oxford, Longman, FLTRP, Tuttle, SLPH, and Commercial Press.
+
+• Powerful merged search: look up words by Chinese characters, Pinyin (spaces / tones optional), or English, with support for wildcards and full-text search. And no need to tediously flip between all of those dictionaries to find a word - just type in your search term and instantly get a combined, frequency-sorted result list.
+
+• Links and cross-references: easily look up character components, break down words into individual characters, look up lists of words containing a particular character, and search across all dictionaries for example sentences containing a word.
+
+• Gorgeous typography: see it for yourself in our screenshots - we think we're one of the best-looking Chinese dictionaries around. Alternate Kai/Song/Xing-style Chinese fonts are also available ($).
+
+• PRC/HK/Taiwan-friendly: every part of Pleco supports both traditional and simplified, headword readings can be shown in Pinyin and Zhuyin, and some dictionaries even support Cantonese. (note: stroke order diagrams do support traditional characters, but use PRC order)
+
+• Audio: Hear Mandarin and Cantonese for words and example sentences using iOS' free built-in text-to-speech system. We also offer add-ons ($) with native-speaker Mandarin recordings and higher-quality Mandarin TTS.
+
+• Document Reader: bring in text from the clipboard and tap on words in it to instantly look them up. Upgrade ($) adds support for tap-lookups in text, HTML, DOC, DOCX, PDF, and EPUB files. We also offer graded readings ($).
+
+• OCR: look up words simply by pointing your device's camera at them, or by tapping on them in a still image. ($)
+
+• Fullscreen handwriting: use your device's whole screen instead of just a little box. Extremely accurate and highly tolerant of stroke order mistakes. (enhanced $)
+
+• Flashcards: create a card from any dictionary entry with a single button tap, import premade word lists, use advanced memorization techniques like SRS, and study in a variety of modes including fill-in-the-blanks handwriting and tone drills. ($)
+
+• Stroke Order Diagrams: animations showing you how to draw each character; 500 characters for free, 28,000 in paid ($) version.
+
+• User dictionaries: create new dictionary entries right on your device as you encounter new words. ($)
+
+• No ads.
+
+We also offer famously excellent customer support and an active user community at http://www.plecoforums.com. And we're constantly working to make our products better; our sales and customer base have been growing for two decades across 4 different platforms. You can be confident that we'll still be fixing bugs and adding features for years to come.
+
+Paid add-ons can be transferred to other devices that link to your iTunes account just like any other paid iTunes content; simply install our free app, open up the ""Add-ons"" screen, and tap on the ""Restore Purchases"" button to activate your purchase on each device.
+
+Please contact us at support@pleco.com, via the form at http://www.pleco.com/contact.html, or using the in-app ""Contact Support"" command with any questions - we'll be delighted to hear from you.",2020-04-10T07:00:00Z,2025-10-09T16:14:51Z
+mm,Myanmar,Reference,6006,14,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/mm/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.55446,606,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2020-04-10T07:00:00Z,2025-11-24T01:05:18Z
+mm,Myanmar,Reference,6006,15,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/mm/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.4,5,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+mm,Myanmar,Reference,6006,16,1299538475,MM-JP Dictionary,Aung min Naing,https://apps.apple.com/mm/app/mm-jp-dictionary/id1299538475?uo=4,0.0,4,1,Reference,"This application is for all Japanese language learner to find Japanese meanings easily.
+
+Main Features
+- Support offline
+- Search by Myanmar, English or Japanese words
+- Easy navigation with tab view
+- Recent word list 
+- Mark as favourite
+- Japanese and english voices",2020-04-18T07:00:00Z,2021-05-30T08:48:55Z
+mm,Myanmar,Reference,6006,17,282935706,Bible,Life.Church,https://apps.apple.com/mm/app/bible/id282935706?uo=4,0.0,4.79193,471,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2020-04-18T07:00:00Z,2025-11-19T16:02:20Z
+mm,Myanmar,Reference,6006,18,1005203380,Shirabe Jisho,Blazej Stanek,https://apps.apple.com/mm/app/shirabe-jisho/id1005203380?uo=4,0.0,4.43269,104,Reference,"Simple but powerful Japanese-English, English-Japanese dictionary app. 
+
+The app's features include:
+
+● Over 170.000 dictionary entries with readings and english meaning
+● Over 6.500 kanji characters with stroke order
+● Over 730.000 Japanese names, place names and institution names
+● Over 147.000 example sentences with translation
+
+● Instantaneous search results
+
+● Character input by kanji and kana handwriting recognition. Recognition algorithm can handle wrong stroke order and small mistakes.
+● When multiple similar characters are found, you don't need to redo drawing after each character - just long  press to see a preview
+● Search by kanji radicals (for example 日 and 月 will find 明)
+● Wildcard search - ""*"" can replace any number of characters and ""?"" can replace any single character. Works both with English and Japanese words.
+● Search by kanji, kana and romaji - ""じしょ"", ""じsho"" and ""jisho"" will give the same search results
+
+● Kanji lists by JLPT level and school grade (1 - 6)
+● Multiple word lists divided by subject, grammatical function, JLPT level and more",2020-04-19T07:00:00Z,2025-08-02T22:47:55Z
+mm,Myanmar,Reference,6006,19,1497683446,House building for Minecraft,PAMG Technology Company Limited,https://apps.apple.com/mm/app/house-building-for-minecraft/id1497683446?uo=4,0.0,2,3,Reference,"House Building for Minecraft is perfect for building minecraft house on your map. It has tons of buildings for minecraft 1.20 and minecraft 1.21+ and famous structures addons. Easily import, export, and edit your minecraft building in one click.
+
+House Building for Minecraft has a huge variety of structures minecraft 1.20 1.21+ doesn't need to pay, all structures will be built in 3 ways depending on your preferences for building in Minecraft world. In particular, you can add Chest & Mob Spawner Naturally into minecraft house. Besides, you can create pixel art for minecraft with any picture from your mobile phone. You can easily modify the position and preview 3D visual minecraft house building or pixel art.
+
+Suggestions for minecraft house builder can be flexible in the 3 ways to build a house below:
+- Option 1: Place Building Blocks Minecraft, then select a house in the menu building minecraft.
+- Option 2: 1. Activate the auto-spawning feature; all structures will be automatically constructed in the biome mcpe of your choice.
+- Option 3: Copy or remember ""name function"", and type this command: ""/function name function"".
+***We have prepared a minecraft building guide in the settings.
+
+Building minecraft houses has never been easier. Are you ready to start minecraft build ideas and putting unique structures in your MCPE world?
+
+FEATURES
+- Variety Structures & Addons: Automatically update minecraft buildings from small to large size according to categories: houses, modern houses, medieval, boats, castles, temples,...
+- Intuitive Minecraft Building Tools: Structures, chest, mob spawner, and pixel art are visually previewed in 3D. Support menu selector builds minecraft house, auto spawning house by biome selected, and put chest/entities by coordinates.
+- ADD CHEST: Add any entity to structures that minecraft builder using CHEST such as furniture, armor, weapons, or food.
+- ADD SPAWNER: You can add Minecraft Mob Spawner with any mobs. Easily search for mobs by typing the name: Pig, Spider, Cave Spider, Silverfish, Magma Cube, Blaze, Skeleton, Zombie,...
+- Flexible compatibility with some games: Directly import and export into Minecraft games. Moreover, you can import your minecraft building ideas into other games that allow third-party tools to edit behavior & resource packs: Crafting and Building, Eeskcraft, Craftsman, etc.
+
+NAME, LENGTH AND PRICES OF OUR PUBLICATIONS/SERVICES:
+Premium Monthly - first 3 days for free, then you will be charged for $2.99/Monthly.
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase.
+You can cancel your subscription via: https://support.apple.com/en-us/HT202039
+Privacy policy: https://www.pamobile.co/privacy-policy.html
+Term of use: https://www.pamobile.co/terms-conditions.html
+
+House Building for Minecraft has all the perfect houses for MCPE. Whether a beginner or a pro, you'll find something to love in our apps. So what are you waiting for? Become a master builder now with thousands of Minecraft blueprints house!
+
+ATTENTION
+Ensure the internet connection is perfect so that House Building for Minecraft PE data displays smoothly and is always updated with the latest buildings. This is an unofficial application for Minecraft Pocket Edition. This application is not affiliated in any way with Mojang AB. The Minecraft Name, the Minecraft Brand, and the Minecraft Assets are all property of Mojang AB or their respectful owner. All rights reserved. In accordance with http://account.mojang.com/documents/brand_guidelines",2020-04-17T07:00:00Z,2025-11-05T14:26:20Z
+mm,Myanmar,Reference,6006,20,1352902151,English Myanmar Dictionary,parth dabhi,https://apps.apple.com/mm/app/english-myanmar-dictionary/id1352902151?uo=4,0.0,4.3,20,Reference,"English Myanmar (Burmese) or Myanmar Burmese English Offline Dictionary will provide you translation and meaning of more than 40,000+ words and 200+ useful expression that can help you to learn word and meaning from English to Myanmar and Myanmar to the English language.
+
+Features:
+- Easy Navigation
+- Work without internet access
+- Auto-suggest searching word
+- Search word using the clipboard search
+- get a complete meaning of words in Myanmar (Burmese) language
+- category of useful common expression
+- Each expression in English and Myanmar with meanings
+- Text to Voice Speech
+- Learn English speaking and listening
+- Learn spelling and vocabulary
+- Vocabulary / Word Meaning
+- Font converter (Unicode to Zawgyi or vice versa)
+
+
+If this application really helps you, you can rate this application.
+Thank you for using the application.",2020-04-10T07:00:00Z,2020-04-10T07:00:00Z
+mm,Myanmar,Reference,6006,21,308750436,Dictionary.com: English Words,"Curiosity Media, Inc.",https://apps.apple.com/mm/app/dictionary-com-english-words/id308750436?uo=4,0.0,4.22581,31,Reference,"Download the #1 free dictionary app!
+
+With more than 2 million trusted definitions and synonyms, this English dictionary and thesaurus app for iPhone is optimized for your mobile device. Improve your English vocabulary, whether you're just starting your learning journey or you're already a word wizard. Install the app for access to definitions and synonyms whenever and wherever you need them — no bulky books necessary. Flip to dark mode to give your eyes a break, or stick to the traditional set-up. 
+
+In addition to the trusted reference content from Dictionary.com and Thesaurus.com, this education app includes:
+
+Word of the Day ► Learn a new word each day and expand your vocabulary.
+
+Example Sentences ► Browse real-world example sentences to see how words are used.
+
+Idioms ► Explore how words can gain new meanings.
+
+Rhymes ► Finish every verse. 
+
+Audio Pronunciations ► Never mispronounce another word.
+
+Grammar ► Get grammar tips, word usage, and more to improve your writing.
+
+Editorial Articles ► Explore editorial content for features on words, the origins of the English language, and the nuances that make English so complicated and unique.
+
+Search History ► Customize your recently searched word list, and never forget the newest words you’ve learned.
+
+Dictionary Shuffle ► Think you know ALL the definitions? Prove it with Dictionary Shuffle, which chooses a word at random and brings you to the definition.
+
+A-Z Dictionary ► What’s more exciting than ... wait for it … browsing the Dictionary?! We’ve now made it even easier, with the A–Z Dictionary.",2020-04-10T07:00:00Z,2025-11-03T21:22:07Z
+mm,Myanmar,Reference,6006,22,6476599889,Pray Daily - KJV Bible & Verse,WOOMBIT PTE. LTD.,https://apps.apple.com/mm/app/pray-daily-kjv-bible-verse/id6476599889?uo=4,0.0,5,2,Reference,"""Pray Daily"" is your invitation to a deeper, more meaningful relationship with the Divine. Immerse yourself in a spiritual haven, where every tap, every scroll, every interaction brings you one step closer to the heart of God. Designed for the devoted soul, this app seamlessly combines time-tested scriptures with modern functionalities to guide, inspire, and enlighten.
+
+Deepen Your Connection Through Prayer
+Harness the profound power of prayer. With ""Pray Daily,"" every morning ushers in hope, and every night brings solace. Our extensive database of verses ensures that your conversations with God are always heartfelt and sincere, allowing you to express your most profound feelings, aspirations, and desires with ease.
+
+Elevate Your Scripture Reading Experience
+""Pray Daily"" has been built to enhance your scripture reading. Revel in the divine teachings, customize your reading experience, and let the words of the Lord resonate. From adding notes to highlighting significant passages, and from listening to calming Bible audios during daily commutes to having His word guide you even without an internet connection, the scriptures have never been this accessible.
+
+AI Priest - The Fusion of Faith & Technology
+In moments of doubt, introspection, or simply seeking understanding, turn to our advanced AI Priest. This modern marvel, powered by cutting-edge technology and infused with biblical wisdom, stands ready to assist, advise, and guide you in all spiritual matters.
+
+Challenge and Relax with Bible Trivia
+Add a dose of fun to your spiritual journey. Dive into our extensive collection of Bible trivia, quizzes, and challenges. Perfect for both ardent Bible scholars and those seeking a relaxed yet enlightening activity. Every quiz brings a new opportunity to learn, reflect, and grow.
+
+Structured Spiritual Growth
+Guidance is paramount in one's journey of faith. Our selection of Bible plans is curated to cater to diverse needs. Be it deepening understanding, seeking emotional healing, or simply walking a path of enlightenment, ""Pray Daily"" has a plan tailored just for you.
+
+A Global Church Experience
+Our interactive Bible games not only provide moments of relaxation but also reward you with captivating views of sacred sanctuaries from across the globe. Each jigsaw puzzle piece you collect unlocks a new perspective, a new beacon of faith.
+
+Chronicle Every Step with God
+Your spiritual journey is precious. With ""Pray Daily,"" every insight, every revelation, and every heartfelt prayer is preserved, letting you revisit and reflect upon these cherished moments anytime.
+
+Key Features:
+
+A rich, immersive prayer platform for conversations with God.
+Extensive personalization in scripture reading.
+Instant guidance with the AI Priest feature.
+Engaging Bible trivia to test and expand your knowledge.
+Curated Bible study plans to guide your spiritual journey.
+Unlock breathtaking visuals of churches worldwide.
+Detailed logs and records of your spiritual milestones.
+
+Join a global community of believers, deepening their faith, and drawing closer to God every day. Download ""Pray Daily"" now.
+
+[Subscription]
+
+Weekly VIP Membership offers weekly subscription for US$1.99, Monthly VIP Membership offers monthly subscription for US$4.99, and Yearly VIP Membership offers yearly subscription for US$29.99 with 3 days free trial, you can cancel the subscription before the free trial converted to the paid subscription, or you will be automatically renewed and charged every period. The price is shown in United States Dollar, actual charges may be converted to your local currency depending on the country of residence. You can cancel your subscriptions anytime by going to your account settings in App Store.
+
+More information about Subscription: https://support.apple.com/en-us/HT202039
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://privacy.woombit.com/privacy.html",2024-02-06T08:00:00Z,2025-02-25T13:43:37Z
+mm,Myanmar,Reference,6006,23,6752773778,HappyMood - All Games Library,Calliope State School,https://apps.apple.com/mm/app/happymood-all-games-library/id6752773778?uo=4,0.0,5,1,Reference,"HappyMood – Discover Games Made for You
+
+Are you a true gamer looking for one place to explore everything about games? HappyMoods is your ultimate companion! With a huge database of games, you can easily search, discover, and enjoy all the details you need in one simple app.
+Explore a Massive Library HappyMood Browse through a wide range of games across different styles and categories. Whether you love action, adventure, puzzle, or strategy, HappyMods brings everything together in one place.
+Watch Trailers & Gameplay Before playing, get a real taste of the game! Watch trailers and gameplay videos to see exactly what the game looks like.
+Save Your Favorites HappyMood Build your own personalized collection of favorite games. Add the ones you love and come back to them anytime.
+Track Games You Like Never lose track of a game again. Follow the games you’re interested in and keep them organized in your list.
+Choose Your Mood Not sure what to play? Select your mood and HappyMod will recommend games that match how you feel at that moment. Fun, relaxing, scary, or exciting – there’s always a game waiting for you.
+Test Your Knowledge Think you know everything about games? Try our quiz and challenge yourself with fun questions to see how much of a gaming expert you are.
+All-in-One Gaming Experience HappyMood makes it easy for you to discover new games, keep track of your favorites, enjoy videos, and even test your knowledge. It’s everything a gamer needs – simple, clear, and always fun.
+With HappyMod, finding the perfect game has never been easier.",2025-10-02T07:00:00Z,2025-10-02T13:25:12Z
+mm,Myanmar,Reference,6006,24,6503627060,Clone Apps - Parallel Space,Siddu Patil,https://apps.apple.com/mm/app/clone-apps-parallel-space/id6503627060?uo=4,0.0,4.66667,9,Reference,"Choose Clone Apps - Parallel Space! As one of the most downloaded, best rated cloning apps on the market, we help millions of users run dual or multiple accounts across top social apps
+
+- Do you want to use multiple WhatsApp or Facebook accounts on one device?
+- Do you want to separate your personal and professional accounts into their own dual spaces?
+
+Keep dual professional and personal accounts in Clone Apps - Parallel Space.
+- Maintain a good work life balance and keep your profiles separate.
+- Easily switch between work and personal accounts.
+- Ensure that your work data and contacts never mingle with your personal data.
+
+Key Features:
+
+Powerful, Stable, and User-Friendly: Clone Apps - Parallel Space is built to deliver a powerful and stable performance while maintaining user-friendly navigation.
+
+Unique Application Virtualization Engine: Clone Apps - Parallel Space stands out as a unique and innovative solution for multitasking.
+
+Here is our Privacy Policy : https://siddudualapps.blogspot.com/2024/06/privacy-policy.html
+Here is our EULA : https://siddudualapps.blogspot.com/2024/06/eula.html
+Here is our Terms Of Services : https://siddudualapps.blogspot.com/2024/06/terms-of-services.html",2024-06-04T07:00:00Z,2025-01-12T09:19:57Z
+mm,Myanmar,Reference,6006,25,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/mm/app/oxford-dictionary/id978674211?uo=4,0.0,4.53191,141,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2020-04-10T07:00:00Z,2025-11-18T21:39:49Z

@@ -1,0 +1,580 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+nl,Netherlands,Medical,6020,1,1563021861,MedGemak,PharmaPartners B.V.,https://apps.apple.com/nl/app/medgemak/id1563021861?uo=4,0.0,2.42105,646,Medical,"Gebruikersvoorwaarden
+MedGemak is onderdeel van het patiëntenportaal MijnGezondheid.net (MGn). Voordat u kunt starten met de app dient u te beschikken over een account op MGn. Zonder dit account kunt u zich niet registreren/aanmelden voor MedGemak. Om een account aan te maken op MGn - en vervolgens MedGemak te registreren -  dient uw huisarts en/of apotheek deze modules aan te bieden. Informeer daarom bij uw zorgverlener of dat het geval is.
+
+Wat is MedGemak?
+MedGemak helpt u om op een betrouwbare en veilige manier van uw zorgzaken bij uw huisarts en/of apotheker te regelen. Via uw smartphone heeft u inzicht in uw medicatieoverzicht en kunt u (herhaal)medicatie bestellen bij uw zorgverlener. Ook maakt u eenvoudig online een afspraak bij uw huisarts of stuurt u een bericht met bijlage naar uw zorgverlener.
+
+Op een rij: Wat kunt u doen met MedGemak?
+•	Online medicatie bestellen
+•	Online afspraak maken
+•	Berichten sturen met bijlagen
+•	Ontvangen van pushberichten
+•	Handige inneemwekker instellen
+•	Gepersonaliseerde geneesmiddelinformatie (bijsluiter) inzien
+
+Let op: de mogelijkheden die beschikbaar zijn in MedGemak zijn afhankelijk van wat uw zorgverlener voor u beschikbaar stelt.
+
+Uw privacy staat voorop
+U koppelt MedGemak eenmalig via uw DigiD aan uw account op MijnGezondheid.net. Daarna logt u telkens in met een 5-cijferige code. 
+
+Niet voor spoed!
+Gebruik MedGemak nooit voor urgente of spoedeisende gevallen. U dient hiervoor de bekende (spoed)nummers van uw zorgverlener (huisarts of apotheek) of de hulpdiensten te bellen. MedGemak is een aanvulling op de communicatiemogelijkheden die u heeft met uw zorgverlener. Het vervangt deze echter niet.
+
+Vragen?
+Bekijk de veel gestelde vragen op https://home.mijngezondheid.net/veelgestelde-vragen/ of de MedGemak-pagina: https://home.mijngezondheid.net/medgemak/",2022-06-20T07:00:00Z,2025-10-20T12:25:15Z
+nl,Netherlands,Medical,6020,2,1605109373,HiX Patiënt,ChipSoft B.V.,https://apps.apple.com/nl/app/hix-pati%C3%ABnt/id1605109373?uo=4,0.0,2.16923,65,Medical,"Om toegang te krijgen tot uw patiëntenportaal logt u slechts eenmalig in met uw DigiD. In het vervolg logt u in met een zelfgekozen pincode, waardoor u nog sneller toegang heeft tot uw medische gegevens.",2023-05-08T07:00:00Z,2025-10-30T07:35:06Z
+nl,Netherlands,Medical,6020,3,796436476,Uw Zorg online,Pharmeon BV,https://apps.apple.com/nl/app/uw-zorg-online/id796436476?uo=4,0.0,4.50459,48089,Medical,"Uw Zorg app is een service van uw huisarts. Hiermee heeft u 24 uur per dag toegang tot uw medicatieoverzicht, kunt u eerder voorgeschreven medicijnen bestellen, afspraken maken en een eConsult starten bij uw huisarts! Een overzicht van aangesloten praktijken vindt u in de app. Wij zijn benieuwd naar uw ervaringen om zo de app verder te kunnen optimaliseren. Laat het ons weten via de feedback knop in de app of via uwzorgonline.nl/help  
+
+Hoe kan ik de app in gebruik nemen?
+1.	Download de app uit de store 
+2.	Open de app en zoek uw praktijk 
+3.	Als u al een account heeft voor een patiëntportaal bij uw huisarts logt u met dezelfde gegevens in op de app en gaat u direct naar stap 4) . Als u nog geen account heeft, vraagt u die bij ons aan door op de knop ‘Aanmelden’ te klikken en alle benodigde gegevens in te vullen. Na controle van uw aanvraag door onze praktijk -wat enige tijd in beslag kan nemen- wordt uw account aangemaakt en ontvangt u per e-mail uw inloggevens 
+4.	Na inloggen op de app ontvangt per e-mail of sms éénmalig een verificatie code die u invoert in de app
+5.	Maak in de app ten slotte een pincode van 5 cijfers aan om de toegang af te schermen
+6.	De app is nu klaar voor gebruik
+
+Functionaliteiten 
+•	Inzage in uw actuele medicatieprofiel zoals bekend bij uw huisarts 
+•	Vraag herhaalrecepten direct uit uw medicatielijst aan en ontvang herinneringen indien u uw medicatie opnieuw nodig heeft
+•	Stel uw medische vragen direct aan uw arts via een eConsult en ontvang bericht zodra uw consult beantwoord is. Let op! eConsult is niet bedoeld voor urgente zaken of levensbedreigende situaties. Indien u twijfelt over de ernst van uw klacht, neem dan altijd telefonisch contact met de huisarts op
+•	Bekijk de lege plekken in de agenda van uw arts en boek een afspraak op het moment dat het u uitkomt. U moet tevens de reden van uw afspraak vermelden  
+•	U vindt de adresgegevens, contactgegevens en openingstijden van uw arts in de app. U vindt er ook een link naar de website van uw arts
+
+Privacy 
+Met de app kunt u via een beveiligde verbinding uw medicatie gegevens ophalen uit het systeem van de praktijk en communiceren met uw arts. Voor de ingebruikname wordt uw identiteit eerst geverifieerd door de praktijk en ontvangt u een verificatiecode om de app te activeren. Verder dient  u de app afschermen door een persoonlijke 5-cijferige pincode. Uw gegevens worden niet gedeeld met derden. Meer hierover kunt u nalezen in de gebruiksvoorwaarden en privacyverklaring in de app.",2014-02-25T08:00:00Z,2025-10-27T07:00:11Z
+nl,Netherlands,Medical,6020,4,1130881210,BeterDichtbij,SAZ vereniging van samenwerkende algemene ziekenhuizen,https://apps.apple.com/nl/app/beterdichtbij/id1130881210?uo=4,0.0,4.58467,23028,Medical,"Eenvoudig contact met jouw zorgverleners  
+
+Met BeterDichtbij heb je veilig digitaal contact met je eigen zorgverleners
+Met de BeterDichtbij app kun je altijd jouw vragen stellen. En de informatie over jouw zorg of behandeling ontvangen en in alle rust nalezen. 
+
+• Aangeboden door je vertrouwde organisatie, zoals het ziekenhuis, revalidatiecentrum, ggz- of thuiszorgorganisatie. 
+• Je vraag stellen waar je ook bent: makkelijk en veilig. En het antwoord kun je overal en altijd even nalezen. 
+• In gebruik bij meer dan een half miljoen Nederlanders: al veel mensen gingen je voor.  
+ 
+Al 50+ organisaties stellen BeterDichtbij beschikbaar 
+Al meer dan een half miljoen Nederlanders gebruiken BeterDichtbij voor eenvoudig contact met hun zorgverleners. Steeds meer zorgorganisaties zetten BeterDichtbij in. Bekijk hier alle deelnemende ziekenhuizen, thuiszorgorganisaties, zorgcentrales en revalidatiecentra: https://www.beterdichtbij.nl/zorgorganisaties/  
+
+Wist je dat BeterDichtbij is opgericht door de Nederlandse ziekenhuizen en zorgorganisaties zelf? Lees alles over wie er achter BeterDichtbij zitten: https://www.beterdichtbij.nl/over-ons/    
+
+Dit kun je met BeterDichtbij 
+• Berichten, foto’s en bestanden uitwisselen 
+• Betrouwbare informatie over gezondheid en ziekte lezen, bv. van Thuisarts.nl 
+• Beeldbellen met je eigen zorgverlener 
+• Informatie over jouw zorg en behandeling in alle rust nalezen 
+• Eenvoudig zelfmetingen delen met je zorgverleners 
+• Veilig en betrouwbaar contact, met jouw privacy voorop 
+
+Zo ga je van start met BeterDichtbij 
+1. Je zorgverlener nodigt je uit. Je ontvangt daarover een e-mail. Handig: je kunt BeterDichtbij gebruiken voor contact met meerdere zorgverleners. 
+2. Download en activeer de app: dit doe je één keer. Je stelt dan ook jouw eigen pincode in, waarmee je daarna veilig inlogt.  
+3. Stuur je eerste bericht. Deel je vraag, foto of bestand met je zorgverlener en begin zo het gesprek. Je zorgverlener kan ook een afspraak met je maken om te beeldbellen via BeterDichtbij.   
+
+Je privacy en veiligheid gewaarborgd 
+Als het gaat om je gezondheid, dan is het natuurlijk heel belangrijk dat je je vragen in een beveiligde omgeving kunt stellen. En dat je er zeker van bent dat wat je deelt, niet in verkeerde handen valt. Daar kun je op rekenen bij BeterDichtbij. We leggen je graag uit wat hierbij onze uitganspunten zijn.  
+
+• Je voert je gesprek in een sterk beveiligde omgeving 
+• Activeren en inloggen gebeurt extra veilig 
+• Je gegevens blijven van je zorgorganisatie 
+• Het medisch beroepsgeheim geldt ook voor jouw contact met je zorgverlener via BeterDichtbij 
+
+Laat ook een beoordeling achter 
+Jouw beoordeling van BeterDichtbij is erg nuttig voor ons. Ben je tevreden over BeterDichtbij of zie je verbeteringen? Jouw reactie telt en zouden we enorm waarderen. Bedankt!  
+
+Contact en hulp 
+Heb je vragen of suggesties voor BeterDichtbij? We horen het graag. Neem gerust contact met ons op via: 
+www.beterdichtbij.nl/service-contact 
+service@beterdichtbij.nl 
+085 – 27 35 398",2016-09-27T14:01:13Z,2025-11-19T08:36:27Z
+nl,Netherlands,Medical,6020,5,1112075089,VGZ,VGZ Zorgverzekeraar N.V,https://apps.apple.com/nl/app/vgz/id1112075089?uo=4,0.0,4.6492,96618,Medical,"Heb je onze best gewaardeerde zorgverzekeringsapp al? Daarmee regel je zonder moeite al je zorgzaken. Voor jezelf, voor anderen op je polis én als medeverzekerde. Ook vind je in onze app een uitgebreid aanbod van services voor gezondheid en zorg. Zo kies je steeds makkelijker zelf wat op dat moment aan zorg het beste bij jouw situatie past. Fijn om te weten: je logt altijd veilig en vertrouwd in via DigiD. Download de app direct en ontdek het gemak!
+
+Dit kun je met de VGZ app:
+
+1. Al je zorgverzekeringszaken regelen
+- Supersnel een rekening declareren met een foto of pdf
+- Zien hoeveel eigen risico je over hebt
+- Rekeningen gemakkelijk betalen met iDEAL
+- Je persoonlijke vergoedingen en budgetten bekijken
+- Altijd je digitale zorgpas en polisgegevens bij de hand
+
+2. Zorg vinden die bij je past
+- Een zorgverlener in de buurt vinden
+- Zien in welk ziekenhuis je het snelste aan de beurt bent
+- Persoonlijk zorgadvies van een zorgadviseur aanvragen
+- Gemakkelijk digitaal contact met je huisarts
+- Snel informatie opzoeken over ziektes en gezondheid via Thuisarts.nl
+
+3. Alles voor een gezonder leven
+- Handige services en apps die helpen met gezonder leven en bewegen
+- Toegang tot extra programma’s in de VGZ Mindfulness Coach en VGZ Soepel & Sterk Coach
+- Makkelijk je medicijnen regelen via een online apotheek
+- Betrouwbare informatie over gezonder eten, beter bewegen en mentale gezondheid
+
+4. En nóg meer voordelen
+- Chatten met onze chatbot of een medewerker
+- Direct vanuit de app bellen met de Alarmcentrale
+- Snel antwoord vinden op veelgestelde vragen
+- Gemakkelijk je betaal- en contactgegevens aanpassen
+
+Deel jouw tips met ons
+We willen onze app steeds een beetje beter maken. Daarom is jouw mening als gebruiker heel belangrijk voor ons. Zie je iets wat beter kan? Dan horen we dat graag. Je kunt je tips met ons delen via de smileys onderaan de Service pagina.",2016-11-29T07:16:59Z,2025-11-18T14:09:32Z
+nl,Netherlands,Medical,6020,6,1164464883,Service Apotheek,Ncontrol B.V.,https://apps.apple.com/nl/app/service-apotheek/id1164464883?uo=4,0.0,4.60795,54470,Medical,"De Service Apotheek-app maakt je leven met medicijnen makkelijker. Het is jouw slimme pillendoos waarin alles rondom je medicijnen bij elkaar komt. Zo heb je altijd een overzicht van je medicijnen bij de hand, vergeet je nooit meer een inname en bestel je makkelijk nieuwe voorraad. Daarnaast helpen we je bij je medicijngebruik met medicijninformatie, onder andere door instructiefilmpjes en tips over jouw medicijnen.
+
+
+Klopt jouw overzicht niet? Dan pas je het gemakkelijk zelf aan in de app. En alle aanpassingen worden vervolgens weer gecontroleerd door de apotheker.
+
+De Service Apotheek-app is gemaakt om je controle te geven over je medicijngebruik. De mogelijkheden en functionaliteiten van de app zijn onderdeel van de overeenkomst tussen jou en jouw Service Apotheek (WBGO).
+
+Wij staan voor je klaar. Service Apotheek, voor zoveel meer dan medicijnen.",2017-01-03T11:05:02Z,2025-10-15T14:16:27Z
+nl,Netherlands,Medical,6020,7,505864483,Zwangerschap + | Pregnancy App,Philips Digital UK Limited,https://apps.apple.com/nl/app/zwangerschap-pregnancy-app/id505864483?uo=4,0.0,4.72682,8826,Medical,"Download vandaag nog 's werelds beste zwangerschapsapp voor gratis artikelen en zwangerschapsinformatie per week!
+
+De app Zwangerschap+ biedt deskundig advies, dagelijkse artikelen, gezondheidstips en interactieve 3D-modellen, zodat je de ontwikkeling van je baby kunt volgen. Onze zwangerschapsapp is al meer dan 80 miljoen keer door aanstaande ouders gedownload. Sluit je vandaag nog aan bij onze wereldwijde community! 
+
+Babyontwikkeling
+► Unieke, interactieve 3D-modellen die de ontwikkeling van je baby laten zien 
+► De Maatwijzer geeft de grootte van je baby weer in fruit, dieren en snoep
+► In de wekelijkse zwangerschapsgidsen lees je wat je in elke week van je zwangerschap kunt verwachten
+► De eenvoudige, informatieve Tijdlijn geeft belangrijke mijlpalen weer
+
+Zwangerschapsgidsen en informatie
+► In de uitgebreide zwangerschapsgidsen wordt borstvoeding, beweging, voeding, tweelingen en meer besproken 
+► Dagelijkse zwangerschapsartikelen die aansluiten bij jouw zwangerschapstermijn
+► 2D- en 3D-echo's per zwangerschapsweek waar je doorheen kunt bladeren
+► Dagelijkse blogartikelen met tips en handig advies
+► Upload foto's bij Mijn buik voor een visueel zwangerschapsdagboek
+
+Zwangerschapstools
+► De Calculator uitgerekende datum helpt je met bepalen wanneer je je kleintje kunt verwachten
+► Met de Schopjesteller houd je de bewegingen en activiteit van je baby bij
+► Met Mijn gewicht volg je de veranderingen in je gewicht tijdens je zwangerschap
+► De Weeëntimer meet je weeën tijdens je bevalling
+
+Organiseren en plannen
+► Met Afspraken kun je je zwangerschapscontroles plannen en documenteren
+► Ziekenhuistas helpt je bij de voorbereiding op een eventueel verblijf voor jou, je geboortepartner en je baby in het ziekenhuis
+► Met het Geboorteplan kun je je behoeften en wensen aanpassen, ordenen en exporteren
+► De To-dolijst en Uitzetlijst geven je een idee van wat je moet doen en kopen
+► Bekijk duizenden Babynamen om inspiratie op te doen en deel je favorieten
+
+Onze EXCLUSIEVE 3D-modellen
+Geniet van onze unieke 3D-modellen die laten zien hoe je zwangerschap zich week na week ontwikkelt, van blastocyst tot foetus tot baby. Dankzij onze 3D-modellen voel je je nog meer verbonden met de baby in je buik. 
+► Kies uit meerdere etniciteiten
+► Zoom in of uit en draai je baby om alles tot in detail te bekijken
+► Bekijk de bijbehorende wekelijkse zwangerschapsinformatie
+► Tik om je baby te zien bewegen
+
+Artikelen en gidsen over zwangerschap
+Voel je je overweldigd door al het advies dat je krijgt? Geen zorgen, onze zwangerschapsapp begeleidt je week per week bij je zwangerschap. Zwangerschap+ houdt je op de hoogte van de ontwikkeling van je baby en helpt je gezond te blijven tijdens en na je zwangerschap. De content van Zwangerschap+ is geschreven door een intern team met de hulp van medische deskundigen, lactatiekundigen, verloskundigen en natuurlijk ouders.
+
+Deel je avontuur met vrienden en familie
+Je kunt onze zwangerschapsapp personaliseren, dus ook je partner, toekomstige oma's en opa's of bijvoorbeeld je beste vriendin kunnen de ontwikkeling van je kleintje van buik tot baby volgen! Houd iedereen op de hoogte van het verloop van je zwangerschap door hen vandaag nog uit te nodigen om de app te downloaden.
+
+◆ Download de app Zwangerschap+ vandaag nog ◆
+
+Privacybeleid
+https://info.philips-digital.com/PrivacyNotice?locale=nl&country=NL
+
+Gebruiksvoorwaarden
+https://info.philips-digital.com/TermsOfUse?locale=nl&country=NL
+
+Deze app is niet bedoeld voor medisch gebruik of ter vervanging van professioneel medisch advies. Philips Consumer Lifestyle B.V. aanvaardt geen aansprakelijkheid voor de beslissingen die je neemt op basis van deze informatie, die als algemene informatie aan je is verstrekt en niet als vervanging van persoonlijk medisch advies. Raadpleeg je arts of verloskundige, als je je zorgen maakt over je zwangerschap.
+
+De trackerapp Zwangerschap+ wenst je een voorspoedige, voldragen zwangerschap en een vlotte bevalling.",2012-04-05T21:54:25Z,2025-11-13T14:20:55Z
+nl,Netherlands,Medical,6020,8,545293136,SkinVision - herken huidkanker,SkinVision B.V.,https://apps.apple.com/nl/app/skinvision-herken-huidkanker/id545293136?uo=4,0.0,4.49946,7464,Medical,"WAARVOOR GEBRUIK JE DE SKINVISION APP?
+
+Wist je dat 1 op de 5 Nederlanders en Belgen ooit te maken zullen krijgen met huidkanker? Huidkanker is een van de meest voorkomende huidziekten en de meest voorkomende vorm van kanker.
+
+Vroege detectie van huidkanker betekent doorgaans betere behandelmogelijkheden en lagere zorgkosten. De SkinVision App is een medische applicatie die een klinisch gevalideerd algoritme bevat. Onderzoek van het Erasmus MC heeft aangetoond, dat SkinVision 86,9% van alle huidkanker correct herkent.
+
+HOE WERKT HET?
+
+* Maak een foto van je vermoedelijke moedervlek of huidvlek en stuur deze ter beoordeling op
+* Ons algoritme analyseert je foto en geeft je een risicobeoordeling en een aanbeveling
+* Onze service wordt op kwaliteit gecontroleerd door ons team van dermatologen
+
+Is het vergoed? Of moet ik er zelf voor betalen?
+
+Nederland:
+
+BEN JE VERZEKERD BIJ CZ, Just, OHRA,  Nationale-Nederlanden, FBTO of Zilveren Kruis? Dan kun je in 2024 kosteloos gebruikmaken van SkinVision! Voer bij het aanmaken van je account je zorgverzekering relatienummer in om dit aanbod te activeren.
+
+Heb je een andere zorgverzekering? Je kunt een enkele risicobeoordeling kopen of onbeperkte controles aanschaffen om je moedervlekken 3 of 12 maanden effectief te monitoren (geen abonnement).
+
+België:
+
+Wil je kosteloos gebruik maken van SkinVision en ben je aangesloten bij Helan? Vul dan voor-, achternaam en verzekeringsnummer in zoals vermeld op de kleefzegel.
+
+Ben je aangesloten bij een ander ziekenfonds/mutualiteit? Dan ontvang je 20 EURO terugbetaling, door zelf een declaratie in te dienen. Hoe? Ga naar https://www.skinvision.com/nl/skinvision-gratis-gebruiken-in-belgie-hier-lees-je-hoe/. SkinVision is een door het FAGG erkend medisch hulpmiddel met CE certificaat en voldoet aan alle voorschriften en regels.
+
+Je kunt sommige functies ook gratis gebruiken, waaronder onze risicoprofiel- en huidtype quiz, het opslaan van afbeeldingen van je moedervlekken en toegang tot UV-info bij jou in de buurt.
+
+Let op: de SkinVision Service is niet bedoeld ter vervanging van traditionele methoden voor de beoordeling van het risiconiveau van huidkanker, geeft geen diagnose en is geen vervanging voor een bezoek aan een zorgverlener. De SkinVision Service is niet bedoeld voor gebruik bij personen jonger dan 18 jaar.
+
+WAAROM SKINVISION?
+
+* Meer dan 3 miljoen huid checks - 50K huid checks
+* Onze huid checks zijn betaalbaar en worden mogelijk gedekt door uw zorgverzekeraar
+
+OP DE HOOGTE BLIJVEN OVER NIEUWS RONDOM SKINVISION?
+
+Website - https://www.skinvision.com/
+Facebook - https://www.facebook.com/sknvsn
+Instagram - https://www.instagram.com/sknvsn/
+Algemene voorwaarden - https://skinvision.com/terms
+Privacybeleid - https://skinvision.com/privacy
+
+MEDISCHE APPARATUUR EN GEGEVENSVERWERKING
+
+Door onze App te gebruiken, gaat u akkoord met ons Privacybeleid en onze Algemene voorwaarden, waarop de Nederlandse wetgeving van toepassing is. De exclusieve jurisdictie van de Nederlandse rechtbanken is van toepassing, tenzij (boven)dwingend recht van andere betrokken landen deze rechts- en forumkeuze terzijde stelt.
+
+SkinVision heeft een kwaliteitsmanagementsysteem (QMS) opgezet voor het ontwerp, de ontwikkeling, de verkoop en de ondersteuning van haar software voor medische hulpmiddelen, in overeenstemming met de vereisten van ISO 13485:2016. Het product van SkinVision is een medisch hulpmiddel met CE-markering Klasse I onder Richtlijn 93/42/EEG van de Raad (MDD) en is bezig met de overgang naar Verordening (EU) 2017/745 (MDR) als een medisch hulpmiddel Klasse IIa.
+
+De App is beschikbaar voor gebruikers in de EU-landen die vallen onder de EU-verordening en alle andere landen die de CE-markering erkennen. Voor Australië, Nieuw-Zeeland en het Verenigd Koninkrijk heeft SkinVision de goedkeuringen van de TGA, Medsafe en MHRA. De app is niet beschikbaar in de Verenigde Staten en Canada.
+
+Neem voor vragen of opmerkingen contact met ons op via support@skinvision.com.",2012-09-15T20:24:35Z,2025-10-15T08:56:49Z
+nl,Netherlands,Medical,6020,9,1600644052,Spreekuur.nl,Topicus.Healthcare BV,https://apps.apple.com/nl/app/spreekuur-nl/id1600644052?uo=4,0.0,3.8109,624,Medical,"Jaarlijks wordt spreekuur.nl al door meer dan 50.000 patiënten en zorgverleners in Nederland gebruikt voor:
+- Online consult
+- Delen van metingen voor chronische zorg
+- Medisch dossier bekijken
+
+Online consult
+Twijfel je om naar de huisarts te gaan, of komt het er niet van? Een groot deel van de zorgvragen kan online worden geregeld door je eigen huisarts. Niet meer onnodig wachten in de wachtkamer bij je huisarts of de huisartsenpost. Maar je vraag stellen wanneer het jou uitkomt. Je krijgt binnen 24 uur een reactie. Dit levert zowel jou als patiënt, als je huisarts tijd en efficiëntie op. Zonder enig verlies van kwaliteit en betrouwbaarheid. Want je zorgvraag wordt in behandeling genomen door je eigen zorgverlener.
+
+Delen van je metingen voor chronische zorg
+In een handomdraai deel je je metingen voor chronische zorg met je zorgverlener. Zo wordt de data veilig digitaal opgeslagen in je eigen medisch dossier en is het voor alle betrokkenen op elk gewenst moment inzichtelijk. Handig!
+
+Medisch dossier bekijken
+Wil je je eigen medisch dossier inzien? Dat kan nu via de app. Je hoeft hiervoor geen aanvraag te doen, maar hebt altijd toegang tot je eigen gegevens. Zo bekijk je eenvoudig je eigen gezondheidshistorie terug.
+
+Gebruik
+Wanneer de app voor de eerste keer wordt geopend wordt gevraagd om een account aan te maken. Ter verificatie word je BSN gevraagd. Vervolgens kun je je eigen huisarts of huisartsenpost opzoeken en je gesprek starten. Niet alle huisartsen zijn nog aangesloten bij spreekuur.nl. Vraag je huisarts naar de mogelijkheden als jouw huisarts nog niet in de app beschikbaar is. 
+
+Je kunt in de app zowel vragen voor jezelf als voor je gezinsleden stellen. Je start met het kiezen van een behandelgebied. Daarna beantwoord je een aantal vragen. Op basis hiervan wordt bepaald of het mogelijk is om je vraag via de app in behandeling te nemen. Als dat zo is start je direct een gesprek met je zorgverlener. Je vraag wordt in ieder geval binnen 24 uur in behandeling genomen. Zo voorkom je onnodig wachten bij de huisarts of huisartsenpost en kan je vraag snel online worden opgepakt. 
+
+Betrouwbaar
+De vragen, algoritmes en adviezen die in de app worden gegeven zijn afkomstig van gevalideerde Nederlandse vragenlijsten die door zorginstellingen gebruikt worden. Ze zijn getoetst door het UMCU en voldoen aan de Europese (CE) veiligheidseisen. Daarnaast worden de specifieke adviezen in de chats gegeven door je eigen zorgverlener. De vragen en adviezen zijn dus veilig en betrouwbaar. 
+
+Om de privacy van de gebruiker te beschermen en te respecteren wordt gevraagd een account aan te maken. De gegevens worden daarmee direct opgeslagen in een online beveiligde omgeving waartoe alleen je eigen zorgverlener toegang heeft. De app is niet verbonden met een Cloud omgeving en slaat gegevens niet openbaar op. Topicus, de maker van spreekuur.nl voldoet aan de internationale (ISO) en Nederlandse (NEN) normen. Bekijk ons privacy beleid voor meer informatie: https://www.spreekuur.nl/over-spreekuurnl/veiligheid-en-privacy.
+
+
+Volg ons op Instagram: @spreekuur_nl
+
+Spreekuur.nl is ontwikkeld en gevalideerd in Nederland",2022-06-07T07:00:00Z,2025-08-21T07:54:37Z
+nl,Netherlands,Medical,6020,10,1177403327,VGZbewuzt,VGZ Zorgverzekeraar N.V,https://apps.apple.com/nl/app/vgzbewuzt/id1177403327?uo=4,0.0,4.62568,7419,Medical,"Heb je onze best gewaardeerde zorgverzekeringsapp al? Daarmee regel je zonder moeite al je zorgzaken. Voor jezelf, voor anderen op je polis én als medeverzekerde. Ook vind je in onze app een uitgebreid aanbod van services voor gezondheid en zorg. Zo kies je steeds makkelijker zelf wat op dat moment aan zorg het beste bij jouw situatie past. Fijn om te weten: je logt altijd veilig en vertrouwd in via DigiD. Download de app direct en ontdek het gemak!
+
+Dit kun je met de VGZbewuzt app:
+
+1. Al je zorgverzekeringszaken regelen
+- Supersnel een rekening declareren met een foto of pdf
+- Zien hoeveel eigen risico je over hebt
+- Rekeningen gemakkelijk betalen met iDEAL
+- Je persoonlijke vergoedingen en budgetten bekijken
+- Altijd je digitale zorgpas en polisgegevens bij de hand
+
+2. Zorg vinden die bij je past
+- Een zorgverlener in de buurt vinden
+- Zien in welk ziekenhuis je het snelste aan de beurt bent
+- Persoonlijk zorgadvies van een zorgadviseur aanvragen
+- Gemakkelijk digitaal contact met je huisarts
+- Snel informatie opzoeken over ziektes en gezondheid via Thuisarts.nl
+
+3. Alles voor een gezonder leven
+- Handige services en apps die helpen met gezonder leven en bewegen
+- Toegang tot extra programma’s in de VGZ Mindfulness Coach en VGZ Soepel & Sterk Coach
+- Makkelijk je medicijnen regelen via een online apotheek
+
+4. En nóg meer voordelen
+- Chatten met onze chatbot of een medewerker
+- Direct vanuit de app bellen met de Alarmcentrale
+- Snel antwoord vinden op veelgestelde vragen
+- Gemakkelijk je betaal- en contactgegevens aanpassen
+
+Deel jouw tips met ons
+We willen onze app steeds een beetje beter maken. Daarom is jouw mening als gebruiker heel belangrijk voor ons. Zie je iets wat beter kan? Dan horen we dat graag. Je kunt je tips met ons delen via de smileys onderaan de Service pagina.",2017-01-05T15:08:12Z,2025-11-18T14:09:35Z
+nl,Netherlands,Medical,6020,11,877303791,Weeën Timer 9m - Zwangerschap,Aleksei Neiman,https://apps.apple.com/nl/app/wee%C3%ABn-timer-9m-zwangerschap/id877303791?uo=4,0.0,4.66884,4611,Medical,"*** De meest gedownloadede weeën timer app in de wereld! Nummer 1 in het Verenigd Koninkrijk, Australië, Canada, Italië en elders! ***
+
+Dit is de makkelijkst bruikbare weeën timer. De app helpt u de weeën bij te houden en te bepalen wanneer het tijd is om naar het ziekenhuis te gaan.
+Als u van plan bent om thuis te bevallen, vertelt de app u op elk moment in welke fase van de bevalling u bent.
+
+Houdt uw bevalling in de gaten door aan het begin en het einde van elke wee op een enkele knop te tikken. De weeën timer analyseert de duur en de frequentie van de weeën en zal u op de hoogte brengen wanneer het tijd is om naar het ziekenhuis te gaan.
+
+Duizenden zwangere vrouwen over de hele wereld zijn moeder geworden, gebruikmakend van onze app.
+
+Raadpleeg altijd uw arts om u te oriënteren in termen van wee frequentie en duur.
+Deze app is geen medisch hulpmiddel en onze aanbevelingen zijn gebaseerd op standaardindicatoren. Uw bevalling kan anders verlopen. Vertrouw daarom niet uitsluitend op onze app.
+Als de duur en de frequentie van de weeën nog niet overeenkomen met de nodige indicatoren, maar de weeën van de bevalling zijn ondraaglijk, is het beter om zo snel mogelijk naar het ziekenhuis te gaan dan thuis te bevallen of op weg daarheen. Vertrouw op wat uw lichaam u vertelt.
+
+Als u vragen of suggesties heeft, stuur dan alstublieft een email naar neumandev@gmail.com. Uw feedback is heel belangrijk voor ons.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+nl,Netherlands,Medical,6020,12,6670207128,Mijn Kraamzorg,Atermes BV,https://apps.apple.com/nl/app/mijn-kraamzorg/id6670207128?uo=4,0.0,1,5,Medical,"Is uw kraamzorg organisatie aangesloten bij Atermes? Dan krijgt u met deze app direct toegang tot al uw gegevens over uw zwangerschap(pen) en de kraamzorg. Krijg direct inzicht in de gemaakte afspraken, in de verslagen die kraamverzorgende maken en in de metingen die worden uitgevoerd visueel weergeven in grafieken.
+Pas direct uw eigen gegevens zoals uw adres aan, of kijk terug in de gegevens van een vorige zwangerschap.",2024-09-11T07:00:00Z,2025-10-17T12:01:02Z
+nl,Netherlands,Medical,6020,13,6746158999,ZelfZorgWijzer,Zilveren Kruis Achmea Zorgverzekeringen N.V.,https://apps.apple.com/nl/app/zelfzorgwijzer/id6746158999?uo=4,0.0,4.45455,11,Medical,"Snelle hulp bij gezondheidsvragen
+
+
+Je zit al een tijdje met een gezondheidsvraag. Maar weet niet zo goed wat je ermee moet. Met een paar korte vragen helpen wij je op weg naar de juiste hulp. Ontdek of je met jouw vraag naar de dokter moet. Of wat je zelf kunt doen om van je klacht af te komen. Lees betrouwbare informatie van Thuisarts.nl. Of stel jouw vraag aan een verpleegkundige.  
+
+Wil je aan de slag met je klacht? Ook dat kan in de app. Volg een module met praktische oefeningen bij mentale klachten. Of krijg beweegoefeningen op maat bij blessures.  
+
+
+
+Voordelen van de app 
+•	Altijd betrouwbaar advies: Met de app heb jij overal en 24/7 toegang tot hulp. Dus ook in de avond of het weekend.  
+•	Aan de slag op jóuw manier: Lees praktische info, ga zelf aan de slag of overleg met een professional.  
+•	Persoonlijk contact: Onze verpleegkundigen staan dagelijks tussen 7-23 uur en binnen 15 minuten voor je klaar. 
+•	Handig op vakantie: Ontspannen op reis met betrouwbaar advies op zak.  
+•	Gratis te gebruiken: Iedereen kan de app zonder extra kosten gebruiken.",2025-08-04T07:00:00Z,2025-08-28T08:27:48Z
+nl,Netherlands,Medical,6020,14,779531500,VGZ Mindfulness Coach,VGZ Zorgverzekeraar N.V,https://apps.apple.com/nl/app/vgz-mindfulness-coach/id779531500?uo=4,0.0,4.37661,1240,Medical,"VGZ Mindfulness Coach
+Wil jij mindful leven? Ga dan aan de slag met deze gratis mindfulness app. Dit is al 10 jaar dé mindfulness app van Nederland! Kies uit één van de programma’s. Bijvoorbeeld Kennismaken met mindfulness, Omgaan met stress, Van angst naar regie of Mindful zwanger. Of ga aan de slag met jouw keuze uit 100 losse mindful luister-oefeningen. Van meditatie tot (kinder-)yoga. Allemaal in het Nederlands. Kies een stem (man of vrouw) en volg de oefening waar en wanneer je maar wilt. Er is altijd een mindfulness-oefening die past in jouw dag. Van enkele minuten tot ruim een half uur. Vind je deze app een aanrader voor anderen? Laat het weten in de reviews. Dank je wel!
+
+Wat kan je verwachten?
+	•	Een gratis app voor iedereen!
+	•	Oefeningen geschreven door mindfulness-coach Annegreetje Wolfs
+	•	Meer dan 100 oefeningen en 10 speciale programma’s
+	•	Oefeningen met visualisaties - zoals een berg en de blauwe hemel
+	•	Meditaties en yoga - ook voor kinderen
+	•	Een moodmeter - met tips van Annegreetje
+	•	Maak je eigen lijsten - met jouw favoriete oefeningen
+	•	Een beschrijving bij de oefeningen en programma's - zodat je weet wat je kunt verwachten
+	•	Ademhalingsoefeningen - adem in, adem uit
+	•	Lange en korte bodyscans - een check-in met jezelf
+	•	Slaapmeditaties – en daarna welterusten
+	•	Concentratieoefeningen - de aandacht die je zoekt
+
+En nog veel meer!",2013-12-17T21:39:24Z,2025-07-09T14:05:27Z
+nl,Netherlands,Medical,6020,15,403206332,EHBO-app - Rode Kruis,Het Nederlandse Rode Kruis,https://apps.apple.com/nl/app/ehbo-app-rode-kruis/id403206332?uo=4,0.0,2.57143,7,Medical,"Weet jij wat je moet doen wanneer er iets gebeurt met je kind, buurvrouw of collega? Met de juiste EHBO-kennis sta je sterker in je schoenen en weet je wat je moet doen.
+Van brandwond tot vergiftiging en van bewusteloosheid tot een kneuzing: dankzij de EHBO-app weet je altijd wat je moet doen bij een noodgeval.
+- Gratis (indien nodig om dit nog te vermelden)
+- Meer dan 80 praktische stap voor stap EHBO-tips
+- Gesproken instructies bij een noodgeval
+- Instructies volgens de laatste EHBO-richtlijnen
+- Vergroot je kennis met leerzame video's
+- Vind jouw EHBO-cursus
+- Actuele en betrouwbare EHBO-informatie
+- Officiële app van het Nederlandse Rode Kruis",2010-12-01T22:36:10Z,2025-11-20T09:29:07Z
+nl,Netherlands,Medical,6020,16,1557474078,Mijn BENU,BENU Nederland B.V.,https://apps.apple.com/nl/app/mijn-benu/id1557474078?uo=4,0.0,4.3164,3110,Medical,"In de nieuwe app van BENU vindt u naast uw vertrouwde, persoonlijke Mijn BENU omgeving nu ook:
+
+informatie en advies over medicijnen, gezondheid en verzorging
+services voor meer persoonlijke aandacht, zoals de gezondheidscheck en het inloopspreekuur
+alle informatie over onze apotheken in de apotheekzoeker
+Hiervoor kunt u de app zonder account gebruiken.
+
+
+
+Log in met uw bestaande Mijn BENU account of maak een account aan om toegang te krijgen tot uw persoonlijke Mijn BENU omgeving:
+
+uw medicijnoverzicht altijd bij de hand
+bestellen van medicijnen die u eerder heeft gebruikt
+medicijnen toevoegen aan de automatische herhaalservice van BENU
+herhaalvoorstellen wijzigen, bijvoorbeeld als u nog voldoende voorraad heeft van een medicijn
+inzicht in de status van uw bestelling
+uitgebreide medicijninformatie, de bijsluiter en kijksluiter in meerdere talen
+gemakkelijk een bericht sturen naar uw apotheek
+snel en veilig inloggen met gezichtsherkenning, vingerafdruk zelfgekozen pincode
+En meer.
+
+
+
+We zullen onze app in de toekomst blijven verbeteren en nieuwe functies toevoegen.
+
+En natuurlijk staan onze apothekers altijd voor u klaar voor deskundig advies!",2021-11-10T08:00:00Z,2025-11-13T08:31:49Z
+nl,Netherlands,Medical,6020,17,1295563778,Patient Journey,Interactive Studios B.V.,https://apps.apple.com/nl/app/patient-journey/id1295563778?uo=4,0.0,4.45328,1006,Medical,"Patient Journey app begeleidt patiënten en hun naasten voor, tijdens en na de behandeling met de juiste informatie op het juiste moment. De app wordt gebruikt door meer dan 100 zorginstellingen over de hele wereld, voor veel verschillende behandelingen.
+
+De app stuurt push notificaties over belangrijke handelingen en wanneer nieuwe informatie beschikbaar is. U kunt de app ook gebruiken om uw persoonlijke voortgang bij te houden en gezondheidsuitkomsten als pijn, functie, activiteit, tevredenheid, gewicht, hartslag en kwaliteit van leven te monitoren.
+
+Wetenschappelijke studies die met de app zijn uitgevoerd tonen een significant effect op bijvoorbeeld patiënt tevredenheid en kwaliteit van leven.
+
+Na opstarten van de app kunt u uw zorginstelling en behandeling selecteren. Indien uw zorginstelling u heeft voorzien van een persoonlijke code, volg dan de ontvangen instructies over het gebruik van deze code.
+
+Belangrijk: Deze app is een aanvulling op uw behandeling. Neem voor medisch advies altijd contact op met uw zorgverlener.",2017-10-26T22:49:45Z,2025-02-11T11:30:05Z
+nl,Netherlands,Medical,6020,18,779656557,Baby Tracker,Nighp Software LLC,https://apps.apple.com/nl/app/baby-tracker/id779656557?uo=4,0.0,4.68792,4749,Medical,"Baby Tracker biedt een eenvoudige manier om de dagelijkse gewoontes, gezondheid en mijlpalen van je baby bij te houden. Je kunt voedingen, luierwissels en slaappatronen opslaan en optioneel kun je ook gedetailleerde opmerkingen en foto's toevoegen. Met Baby Tracker kun je gemakkelijk alle belangrijkste informatie over je kind delen met dokters, verzorgers, vrienden en familie. Misschien is het belangrijkste wel dat Baby Tracker alle details verwerkt zodat je ten volle van het ouderschap kunt genieten. 
+
+* Hou voedingen bij: borstvoeding, flesvoeding of vaste voeding 
+* Hou luierwissels bij 
+* Hou slaapschema's bij 
+* Bewaar groeicurves
+* Sla mijlpalen op
+* Bekijk gegevens per week of maand
+* Exporteer gegevens als een PDF-bestand
+* Maak automatische back-ups met iCloud of Dropbox
+* Synchroniseer tussen verschillende toestellen",2014-03-12T22:24:07Z,2025-08-05T23:14:58Z
+nl,Netherlands,Medical,6020,19,1630568791,Yazen: medisch afvallen,Yazen Health AB,https://apps.apple.com/nl/app/yazen-medisch-afvallen/id1630568791?uo=4,0.0,4.71079,491,Medical,"Word onderdeel van een medisch programma voor gewichtsverlies, ondersteund door moderne medicatie.
+
+Meer dan 30.000 mensen wereldwijd gingen je voor.
+
+Yazen-patiënten verliezen gemiddeld 20% van hun lichaamsgewicht binnen 12 maanden.
+
+Ons wetenschappelijk onderbouwde programma combineert medicatie voor gewichtsverlies met gepersonaliseerde leefstijlbegeleiding en de ondersteuning van een toegewijd team. Een arts, coach, diëtist, psycholoog en personal trainer helpen je om jouw gezondheids- en gewichtsddoelen te bereiken.
+
+Via de Yazen-app heb je direct contact met je YazenCoach en medisch team. Volg je voortgang, houd je BMI en lichaamsomvang bij, chat met je team en ontvang persoonlijk advies over voeding, beweging en gezonde gewoontes – allemaal op één centrale plek.
+
+Bewezen gewichtsbeheersing. Voor het leven.
+
+Yazen Health AB is een geregistreerde zorgverlener en valt onder de Wet op de Gezondheidszorg, de Algemene Verordening Gegevensbescherming (AVG), de Wet op de Patiëntengegevens en de Wet op de Patiëntveiligheid. Ons eigen systeem en app zijn geregistreerd bij de Zweedse Inspectie voor Gezondheid en Sociale Zorg (IVO). Dit betekent dat we een veilige omgeving hebben gecreëerd, zowel voor de zorg die je ontvangt als voor de bescherming van je persoonlijke gegevens. Ons bedrijf is opgericht door artsen en onze diensten worden verleend door erkende artsen. Raadpleeg altijd een van onze artsen voordat je medische beslissingen neemt.",2023-05-30T07:00:00Z,2025-11-24T07:40:08Z
+nl,Netherlands,Medical,6020,20,6740334284,Vertigo Training,Curavista BV,https://apps.apple.com/nl/app/vertigo-training/id6740334284?uo=4,0.0,5,2,Medical,"Vertigo Training is een behandeling voor mensen met duizeligheid. U doet oefeningen met uw ogen, hoofd en lichaam. Daarnaast geeft de app informatie over duizeligheid, krijgt u handige tips en verdient u badges. De behandeling duurt 6 weken. 
+
+ 
+Vertigo Training is een geschikte behandeling voor u, als u:  
+
+- Langer dan één maand last van duizeligheid heeft én  
+
+- Uw duizeligheid begint of erger wordt doordat u uw hoofd beweegt 
+
+U bent duizelig als: 
+– u het gevoel heeft dat alles om u heen draait; 
+– u het gevoel heeft dat u zelf draait; 
+– u een licht gevoel in het hoofd heeft; 
+– u een wankel gevoel krijgt bij het lopen. 
+
+ 
+
+De app is wetenschappelijk bewezen, gratis en beveiligd. Thuisarts.nl noemt de app ook in hun informatiebrief over duizeligheid. 
+
+
+Duizeligheid komt voor bij 1 op de 4 volwassenen. U bent zeker niet de enige. 
+
+U kan duizelig worden als één van de onderdelen van uw evenwichtssysteem verkeerde informatie geeft aan de hersenen. De meeste mensen hebben tijdelijk last van duizeligheid. Bij deze mensen leren de hersenen omgaan met de verkeerde informatie. Dit is een natuurlijk herstelproces. Bij sommige mensen passen de hersenen zich niet goed aan. Dan gaat de duizeligheid niet vanzelf over. Vertigo Training kan dan een oplossing zijn. 
+
+
+
+Vertigo Training is een gratis oefenprogramma voor mensen met duizeligheid. Het oefenprogramma versnelt het natuurlijke herstelproces. Uw gegevens zijn geheel beveiligd als onderdeel van de persoonlijke gezondheidsomgeving (PGO) van Gezondheidsmeter.  
+
+
+
+In Vertigo Training zitten oefeningen waarbij u uw nek moet bewegen. Ook bij problemen met uw nek kunt u deze oefeningen meestal veilig zelf uitvoeren. Het is dan wel belangrijk dat u de oefeningen rustig opbouwt. Heeft uw arts of fysiotherapeut u strikt geadviseerd geen bewegingen met uw nek te maken? Dan kan u deze oefeningen beter overslaan. Om de duizeligheid te verminderen kan u dan nog wel gebruikmaken van de andere oefeningen en informatie in Vertigo Training. 
+
+ 
+
+Wetenschappelijk bewezen:  
+
+Huisartsen ontwikkelden en onderzochten de Vertigo Training-app samen met patiënten en zorgverleners. Uit het wetenschappelijk onderzoek blijkt de app net zo werkzaam én goedkoper is dan bestaande zorg via een zorgverlener. Bovendien waren patiënten en zorgverleners positief over het gebruik. Gebruikers kunnen nog steeds helpen om de app te verbeteren door ook een vragenlijst in te vullen. Dit is niet verplicht voor het downloaden en het gebruiken van de app. 
+
+De Vertigo Training-app is een initiatief van de huisartsen en onderzoekers van het Amsterdam Universitair Medisch Centrum. Er is geen winstoogmerk.",2025-01-26T08:00:00Z,2025-07-16T08:41:56Z
+nl,Netherlands,Medical,6020,21,722772003,MijnDSW,DSW Zorgverzekeraar,https://apps.apple.com/nl/app/mijndsw/id722772003?uo=4,0.0,4.70755,5389,Medical,"Met de MijnDSW-app kun je alles rondom jouw zorgverzekering bij DSW zelf bekijken en regelen.
+
+Na inloggen in de MijnDSW-app heb je direct zicht op:
+• jouw verzekering(en)
+• jouw zorgkosten en vergoedingen
+• de stand van het eigen risico
+• betaalde en openstaande rekeningen
+• digitale post
+
+Daarnaast kun je met de MijnDSW-app gemakkelijk:
+• zorgkosten declareren door in de app een foto van de rekening te maken of de digitale rekening te uploaden
+• openstaande rekeningen met iDEAL betalen
+• wijzigingen aan jouw verzekering of persoonlijke gegevens doorgeven
+
+Zorgpas
+Met de MijnDSW-app heb je altijd jouw digitale zorgpas op zak.
+
+Laat feedback achter in de app
+We werken continu aan het verbeteren en uitbreiden van onze app. De mening van onze verzekerden is daarbij erg belangrijk. Deel jouw ervaringen en tips via ‘Geef je mening over de app’.",2013-10-18T20:19:40Z,2025-11-19T13:04:39Z
+nl,Netherlands,Medical,6020,22,6448296594,Digizorg,Academisch Ziekenhuis behorende bij de openbare universiteit Rotterdam,https://apps.apple.com/nl/app/digizorg/id6448296594?uo=4,0.0,3.24615,65,Medical,"Wat is Digizorg?
+ 
+Digizorg is uw persoonlijke zorgassistent. De app geeft u eenvoudig inzicht in uw medische gegevens en zelf de controle.
+De app is op dit moment alleen te gebruiken door patiënten van het Erasmus MC. Andere zorgaanbieders volgen snel.
+ 
+Wat kunt u met de app?
+ 
+Uw afspraken inzien
+Met de app kunt u zien welke afspraken u heeft. Dit is handig, zo heeft u altijd het laatste overzicht.
+ 
+Thuismeten en doorgeven
+Meet thuis uw gewicht, bloeddruk en hartslag en geef deze door via de app.
+ 
+Vragenlijsten invullen
+Vul vragenlijsten in via de app. Zo weet uw zorgverlener hoe het met u gaat.
+
+Labresultaten inzien
+Met de app kunt u uw labresultaten inzien.
+ 
+Deze app is volop in ontwikkeling. Er komen steeds nieuwe functionaliteiten bij.
+               
+Privacy en gegevensverwerking
+ 
+Alle gegevens die we van u verzamelen in de Digizorg app bewaren we veilig.
+Meer informatie vindt u in de privacyverklaring.
+
+Digizorg integreert met de Health app voor het ophalen van medische gegevens.",2023-05-08T07:00:00Z,2025-11-13T13:33:28Z
+nl,Netherlands,Medical,6020,23,1093774002,Baby + | Jouw babytracker,Philips Digital UK Limited,https://apps.apple.com/nl/app/baby-jouw-babytracker/id1093774002?uo=4,0.0,4.44517,1368,Medical,"Baby geboren? Gefeliciteerd! Download nu de Baby+ tracker app om de groei, ontwikkeling en mijpalen van je baby te volgen. Bovendien staan er in de app veel ondersteunende artikelen en kun je gratis borstvoedingsvideo's bekijken! 
+
+Meer dan 80 miljoen ouders hebben onze zwangerschapsapp en babyapp al gebruikt, dus laat je de eerste 1000 dagen met je baby door ons begeleiden met onze groei- en ontwikkelingstrackers en handige tools die je helpen je om de mijlpalen en herinneringen van je baby bij te houden.
+
+
+De belangrijkste informatie voor je baby
+• Dagelijkse blogartikelen bieden je de juiste informatie op het juiste moment
+• Wekelijkse ontwikkelingsgidsen  laten je de groei van je baby zien op basis van zijn of haar leeftijd
+• Ouderschapsgidsen helpen je tijdens je eerste jaar als ouder
+• Borstvoedingsvideos voor visuele begeleiding bij het aanleggen van je baby
+• Hersteltips zodat je goed voor jezelf zorgt na je bevalling
+• Activiteitsideeën voor leeftijdgebonden activiteiten voor je baby
+
+Trackers
+• Groeitracker om de groei van je baby bij te houden
+• Voedingstracker om borstvoeding, kolven en flesvoeding bij te houden
+• Gewichtstracker om indien gewenst je eigen gewicht bij te houden
+• Slaap- en huiltracker om gedragspatronen bij je baby te ontdekken
+• Gezondheidstracker om temperatuur, medicatie en vaccinaties bij te houden
+• Luiertracker om bij te houden hoe vaak je baby wordt verschoond
+
+Herinneringen
+• Dagboek om al die fantastische ervaringen nooit te vergeten
+• Momenten legt prachtige herinneringen met je baby vast om op terug te kijken of te delen
+• Mijlpalen om mijlpalen van je baby zoals grijpen, kruipen en lopen bij te houden
+• Tandjestracker om het doorkomen van tandjes bij te houden en te vergelijken met maandelijkse referentieschema's
+
+Gepersonaliseerd
+• Artikelen, gidsen en herinneringen op JOUW maat, gebaseerd op je baby's geboortedag
+• Voeg de naam en foto van je baby toe aan de app, om de ontwikkelingtracker van je baby persoonlijker te maken
+• Deel de app met vrienden en familie, om samen de groei en ontwikkeling van je baby te volgen
+• Mogelijkheid om meerdere kinderen of tweelingen toe te voegen, om je unieke gezin weer te geven
+
+En meer
+• Afspraakplanner helpt je om de afspraken van jou en je baby bij te houden.
+• Slaapliedjes om je baby in slaap te sussen; ontvang elke maand gratis een nieuwe slaapliedje van Disney
+• Witte ruis om je baby te helpen ontspannen met baarmoeder-, regen- en zelfs haardrogergeluiden
+
+Baby+ synchroniseert met de Gezondheid-app van Apple, maar kan niet lezen van of schrijven naar de database ervan, tenzij je de app daarvoor toegang verleent.
+
+Volg ons op social media
+Facebook: https://www.Facebook.com/BabyPlusApp
+Instagram: @babyplus_app
+
+Zwangerschap+ en Baby+ zijn al door meer dan 80 miljoen ouders gebruikt. 
+
+Privacybeleid: https://info.philips-digital.com/PrivacyNoticeBaby?locale=nl&country=NL
+
+Gebruiksvoorwaarden: https://info.philips-digital.com/TermsOfUse?locale=nl&country=NL
+
+
+Deze babyapp is niet bedoeld voor medisch gebruik of ter vervanging van professioneel medisch advies. Philips Consumer Lifestyle B.V. aanvaardt geen aansprakelijkheid voor het gebruik of misbruik op basis van deze app, die als algemene informatie aan je is verstrekt en niet als vervanging van persoonlijk medisch advies. Raadpleeg altijd onmiddellijk je arts, kinderarts of een andere zorgverlener, als je je zorgen maakt over je eigen gezondheid of die van je baby.
+
+
+De trackerapp Baby+ wenst jou en je baby een gelukkig en gedenkwaardig eerste jaar samen toe!",2016-05-25T09:37:28Z,2025-11-20T11:34:38Z
+nl,Netherlands,Medical,6020,24,1609639472,Mijn Dossier Amsterdam UMC,Academisch Medisch Centrum,https://apps.apple.com/nl/app/mijn-dossier-amsterdam-umc/id1609639472?uo=4,0.0,4.53831,3654,Medical,"Met Mijn Dossier heeft u online toegang tot uw persoonlijke medisch dossier. Waar en wanneer u maar wilt. U bekijkt uitslagen, stelt een vraag aan uw zorgverlener of bereid uw afspraak voor. U heeft zo meer inzicht in uw gezondheid. Met de app Mijn Dossier Amsterdam UMC heeft u uw medisch dossier altijd bij de hand.
+ 
+In de app Mijn Dossier Amsterdam UMC kunt u:
+• persoonlijke gegevens beheren
+• Informatie over uw afspraak vinden  
+• Een bericht sturen naar uw zorgverlener  
+• Uitslagen van uw onderzoek bekijken
+• Uw afspraak voorbereiden  
+• Zelf een afspraak maken
+• Uw digitale patiëntpas vinden 
+
+Upload uw gezondsdata, inclusief data uit de Apple Gezondheid app wanneer u mee doet aan een thuismonitoring behandelplan.
+ 
+Bent u al patiënt bij Amsterdam UMC of heeft u een verwijzing van uw huisarts? Dan kunt u via de app zelf een account aanmaken voor Mijn Dossier. Dit doet u eenvoudig met DigiD. Download de app Mijn Dossier Amsterdam UMC en klik op de knop ‘Inloggen en aanmelden DigiD’.
+ 
+Kijk voor hulp en meer informatie over Mijn Dossier op www.amsterdamumc.nl/mijndossier",2022-10-14T07:00:00Z,2025-09-10T18:26:34Z
+nl,Netherlands,Medical,6020,25,1439575933,Mijn Baby - Borstvoeding App,Aleksei Neiman,https://apps.apple.com/nl/app/mijn-baby-borstvoeding-app/id1439575933?uo=4,0.0,4.8311,1119,Medical,"Deze app helpt u bij het volgen van uw baby's ontwikkeling. Het kan u helpen om uw baby's slaappattroon te volgen; hoe lang ze slapen en of ze zich aan een schema houden. Borstvoeding; hoeveel en hoe vaak uw baby eet. Een pomp rooster. Het verschonen van een luier. U kunt ook een overzicht van uw baby's gezondheid verkrijgen: temperatuur, ziektes, vaccinaties en dokters afspraken. Voeg notities toe over uw baby's gemoedstoestand en belangrijke gebeurtenissen zoals: eerste woordjes, eerste lachje, etc. Houdt veranderingen in gewicht, lengte en hoofdomvang bij.
+
+Hoofd Tracking Functies:
+* Voeding (via borst, fles of baby voeding)
+* Luier verschonen
+* Slaap, activiteit en gemoedstoestand
+* Borstpomp rooster
+* Extra notities voor dokters afspraken en vaccinaties
+* Voeg veranderingen in gewicht en lengte toe
+* Voeg foto's en geef opmerkingen over gebeurtenissen
+* Makkelijke layout en organisatie voor uw dagboek and notities.
+
+Als u vragen heeft of verzoeken, schrijf dan alstublieft naar neumandev@gmail.com. Wij horen graag uw opmerkingen over eventuele verbeteringen aan de app.",2018-11-12T01:04:35Z,2025-11-12T23:30:31Z

@@ -1,0 +1,825 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+in,India,Reference,6006,1,414706506,Google Translate,Google LLC,https://apps.apple.com/in/app/google-translate/id414706506?uo=4,0.0,4.28059,11212,Reference,"Translate between up to 249 languages. Feature support varies by language:
+• Text: Translate between languages by typing
+• Offline: Translate with no Internet connection
+• Instant camera translation: Translate text in images instantly by just pointing your camera
+• Photos: Translate text in taken or imported photos
+• Dictation: Translate spoken words and phrases
+• Conversations: Translate bilingual conversations on the fly
+• Transcribe: Continuously translate someone speaking a different language in near real-time
+• Handwriting: Draw text characters instead of typing
+• Phrasebook: Star and save translated words and phrases for future reference
+
+Permissions notice:
+• Microphone for speech translation
+• Camera for translating text via the camera
+• Photos for importing photos from your library
+
+Translations between the following languages are supported:
+Abkhaz, Acehnese, Acholi, Afar, Afrikaans, Albanian, Alur, Amharic, Arabic, Armenian, Assamese, Avar, Awadhi, Aymara, Azerbaijani, Balinese, Baluchi, Bambara, Baoulé, Bashkir, Basque, Batak Karo, Batak Simalungun, Batak Toba, Belarusian, Bemba, Bengali, Betawi, Bhojpuri, Bikol, Bosnian, Breton, Bulgarian, Buryat, Cantonese, Catalan, Cebuano, Chamorro, Chechen, Chichewa, Chinese (Simplified), Chinese (Traditional), Chuukese, Chuvash, Corsican, Crimean Tatar (Cyrillic), Crimean Tatar (Latin), Croatian, Czech, Danish, Dari, Dhivehi, Dinka, Dogri, Dombe, Dutch, Dyula, Dzongkha, English, Esperanto, Estonian, Ewe, Faroese, Fijian, Filipino, Finnish, Fon, French, French (Canada), Frisian, Friulian, Fulani, Ga, Galician, Georgian, German, Greek, Guarani, Gujarati, Haitian Creole, Hakha Chin, Hausa, Hawaiian, Hebrew, Hiligaynon, Hindi, Hmong, Hungarian, Hunsrik, Iban, Icelandic, Igbo, Ilocano, Indonesian, Inuktut (Latin), Inuktut (Syllabics), Irish Gaelic, Italian, Jamaican Patois, Japanese, Javanese, Jingpo, Kalaallisut, Kannada, Kanuri, Kapampangan, Kazakh, Khasi, Khmer, Kiga, Kikongo, Kinyarwanda, Kituba, Kokborok, Komi, Konkani, Korean, Krio, Kurdish (Kurmanji), Kurdish (Sorani), Kyrgyz, Lao, Latgalian, Latin, Latvian, Ligurian, Limburgish, Lingala, Lithuanian, Lombard, Luganda, Luo, Luxembourgish, Macedonian, Madurese, Maithili, Makassar, Malagasy, Malay, Malay (Jawi), Malayalam, Maltese, Mam, Manx, Maori, Marathi, Marshallese, Marwadi, Mauritian Creole, Meadow Mari, Meiteilon (Manipuri), Minang, Mizo, Mongolian, Myanmar (Burmese), N'Ko, Nahuatl (Eastern Huasteca), Ndau, Ndebele (South), Nepal Bhasa (Newari), Nepali, Norwegian, Nuer, Occitan, Odia (Oriya), Oromo, Ossetian, Pangasinan, Papiamento, Pashto, Persian, Polish, Portuguese (Brazil), Portuguese (Portugal), Punjabi (Gurmukhi), Punjabi (Shahmukhi), Quechua, Qʼeqchiʼ, Romani, Romanian, Rundi, Russian, Sami (North), Samoan, Sango, Sanskrit, Santali (Latin), Santali (Ol Chiki), Scots Gaelic, Sepedi, Serbian, Sesotho, Seychellois Creole, Shan, Shona, Sicilian, Silesian, Sindhi, Sinhala, Slovak, Slovenian, Somali, Spanish, Sundanese, Susu, Swahili, Swati, Swedish, Tahitian, Tajik, Tamazight, Tamazight (Tifinagh), Tamil, Tatar, Telugu, Tetum, Thai, Tibetan, Tigrinya, Tiv, Tok Pisin, Tongan, Tshiluba, Tsonga, Tswana, Tulu, Tumbuka, Turkish, Turkmen, Tuvan, Twi, Udmurt, Ukrainian, Urdu, Uyghur, Uzbek, Venda, Venetian, Vietnamese, Waray, Welsh, Wolof, Xhosa, Yakut, Yiddish, Yoruba, Yucatec Maya, Zapotec, Zulu",2011-02-08T18:59:55Z,2025-11-21T16:58:32Z
+in,India,Reference,6006,2,1493327312,"RTO - eChallan, Vehicle info",Softnoesis,https://apps.apple.com/in/app/rto-echallan-vehicle-info/id1493327312?uo=4,0.0,4.01409,25479,Reference,"Live & Travel with RTO app and find all the solutions of vehicle in one application like vehicle information, live price, E-challan, Rto services, Preparation for RTO exam, Insurance and more.
+
+GET INFORMATION OF VEHICLE
+Just put the vehicle number and you will find full information about vehicle and its owner as per the Parivahan website.
+
+FULL VEHICLE LEGALREPORT
+Download any vehicle full legal report from date of purchase to till today. Very usefull for any purchaser who want to purchase second hand car.
+
+CHALLAN OF ANY VEHICLE
+Right now, you can find challan of any vehicle listed under cities like Surat, Ahmedabad, Vadodara, and states like Maharastra and Uttar Pradesh.
+
+PAY CHALLAN OF ANY VEHICLE
+Now user can pay challan online of his vehicle too which one under central goverment of India. 
+
+LIVE PRICES OF PETROL, DIESEL, AND CNG
+Find price by choosing your any city of India where you are living or you are on plan to travel there.
+
+RTO EXAM & OTHER RTO SERVICES
+Apply for licence, Practice Exam of RTO, VIP number plate, Fast tag, License fees detail, Permit detail, Traffic rules.
+
+TRAFFIC SIGNS
+Get a full list of all the signs of traffic signal which help you with your road safety, RTO exam, and rules.
+
+RTO CODES
+There is all states and cities RTO code listed in this app. So you can easily find the state and city of any bike, car, scooter etc detail.
+
+NEAR BY PLACES
+Find near petrol pump, charging station, garage, car wash service, RTO office address.
+
+CALCULATOR
+Calculate EMI, Loan, Fuel expense, mileage and vehicle age.
+
+BUY INSURANCE
+Buy insurance from Acko bike, Acko Car, Tata AIG, Car info.
+
+ACCESSORIES SHOPS
+Find best car accessories, car vacuums cleaner, Car mobile holder, other car accessories
+
+SELL YOUR VEHICLE
+Find different platform to sell your car or bike with best price.
+
+ENTERTAINMENT
+If you feeing boring then play games or quiz, Read news, watch cricket score.
+
+Disclaimer :
+We are gathering information from the Government Departments and showing it without any modification. In the case of legal procedures, we highly recommend consulting with the respective department in the city/state. This app works 100% as data is from known government records. If you find any problem with fetching details, do write it to us and we will solve it out as soon as possible. We are not affiliating of RTO department of India.
+
+Download Now!",2020-01-03T08:00:00Z,2025-11-19T18:39:15Z
+in,India,Reference,6006,3,282935706,Bible,Life.Church,https://apps.apple.com/in/app/bible/id282935706?uo=4,0.0,4.88881,101160,Reference,"Get God’s Word for free on your devices with the Bible App by YouVersion. Connect with God through Scripture by reading, listening, Plans, Daily Refresh, Verse of the Day, and so much more!
+
+Choose from 1,750+ languages and 2,500+ Bible versions. Make it your Bible by adding Friends, choosing Plans, creating Verse Images, highlighting, and making notes.
+
+Bring your friends with you and explore the Bible together. Have honest conversations about Scripture. Grow together and share what you discover.
+
+People are reading, listening to, watching, and sharing the free Bible App by YouVersion on over 500 million devices worldwide. Join the global Community today! Download the Bible App.
+
+
+EXPLORE GOD’S WORD
+* Choose from thousands of Bible versions in over 1,750 languages
+* Pick from over 60 languages for your Bible App interface
+* Download select Bible versions to access when you’re offline
+* Listen to select Bible versions and enjoy skip, playback speed, and timer controls.
+* Learn more about the Verse of the Day in Guided Scripture with an engaging video and personal reflection questions
+* Tap through Scripture and prayer prompts in Guided Prayer, or write your own prayers using the Prayer feature
+* Choose from thousands of Plans that focus on specific topics, portions of Scripture, or the entire Bible in a year
+* Watch videos from Christian organizations such as Bible Project and The Chosen
+* Search for what the Bible says about any topic you’re wondering about
+* Tap on a verse to see your Notes and related content such as videos, Plans, and study notes
+
+MAKE IT YOUR BIBLE
+* Themes let you select a color palette for your entire Bible App experience
+* Create and download Verse Images for any verse you’d like—it’s shareable art
+* Highlight with custom colors and create notes
+* Bookmark passages to share, memorize, and keep at the front of your mind
+* Share verses with friends using social media, email, or text
+* Add notes on any verse—make them private or let your Friends see them
+* Access your account from any supported device
+* Adjust lighting, font, font size, and line spacing for easy reading
+
+BRING YOUR FRIENDS ALONG
+* Center your friendships around Scripture by adding your Friends to the Bible App
+* See an activity feed that shows what you and your Friends are noting, bookmarking, and highlighting
+* Comment on the Verse of the Day with your Friends—ask questions and share how God is speaking to you
+* Write your own prayers and share them with your Friends to pray together
+* Do Plans together and discuss what you’re learning
+
+CONNECT WITH YOUVERSION
+* Contact Support from inside the Bible App
+* Join the @youversion Community on Instagram, Facebook, Twitter, TikTok & Pinterest
+* Catch up on the latest at blog.youversion.com
+* Access the Bible online at bible.com
+
+Download the world’s #1 Bible App and enjoy the Bible experience loved by millions!",2019-02-12T08:00:00Z,2025-11-19T16:02:20Z
+in,India,Reference,6006,4,1423088445,MyGov India - मेरी सरकार,NATIONAL INFORMATICS CENTRE,https://apps.apple.com/in/app/mygov-india-%E0%A4%AE-%E0%A4%B0-%E0%A4%B8%E0%A4%B0%E0%A4%95-%E0%A4%B0/id1423088445?uo=4,0.0,4.11454,681,Reference,"MyGov is Government of India’s innovative citizen engagement platform for direct citizen participation in governance by providing an avenue for channelizing their ideas, comments and creative suggestions to Central Ministries and associated organizations. Citizens can participate in policy formulation and program implementation to usher in an era of direct participatory democracy.",2018-08-18T23:56:12Z,2025-11-16T07:34:24Z
+in,India,Reference,6006,5,6740403566,Deen Buddy - Quran Chat,ZAMZAM TECHNOLOGIES LLC,https://apps.apple.com/in/app/deen-buddy-quran-chat/id6740403566?uo=4,0.0,4.7199,2724,Reference,"Deen Buddy – AI Quran, Daily Verses & Prayer
+
+Deen Buddy is your AI-powered Islamic companion. Get instant answers to Quranic questions, receive daily inspirational verses, and stay on track with accurate prayer time notifications.*
+
+AI Quran Chat
+• Ask any Quran-related question and get AI-powered answers.
+• Understand meanings, tafsir, and historical context easily.
+• Personalized responses based on authentic sources.
+
+Daily Quran Verses
+• Receive daily inspirational Quranic verses.
+• Bookmark and share your favorite ayahs effortlessly.
+• Enhance your understanding of the Quran one verse at a time.
+
+Prayer Time Notifications
+• Accurate prayer time alerts based on your location.
+• Customizable Athan notifications so you never miss a Salah.
+• Supports multiple calculation methods for accuracy.
+
+Why Choose Deen Buddy?
+• AI-powered Quran chat for instant insights.
+• Daily Quran verses to keep you inspired.
+• Prayer time alerts for timely worship.
+• Minimalist and distraction-free experience.
+
+Download Deen Buddy now and strengthen your connection with the Quran.
+
+**Access to Deen Buddy requires a paid subscription**
+
+Terms of Service
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-02-02T08:00:00Z,2025-10-15T16:03:22Z
+in,India,Reference,6006,6,505858403,Athan: Muslim Prayer Times,Wasat Alnaseej Trading Est.,https://apps.apple.com/in/app/athan-muslim-prayer-times/id505858403?uo=4,0.0,4.80026,8356,Reference,"FREE PRAYER TIMES WIDGET:
+
+Athan's new Free Prayer Times Widget, now available right on your device’s home screen! Instantly view accurate Namaz times, Azan times, and upcoming prayers without opening the app. This Islamic prayer widget is designed for quick access, so you’ll never miss a prayer. Whether you’re at home, work, or traveling, get the most reliable Muslim prayer reminders directly on your screen. Simple, convenient, and completely free for all users.
+
+
+Complete the Daily Goals and start your spiritual journey:
+Simplify your daily spiritual Islamic lifestyle with Athan. Complete the following Daily Goals and earn Hasanah:
+
+- Log Your Prayer / Salah Progress
+- Listen to Al-Quran / Ayah / Ayat
+- Complete a Daily Tasbih / Dhikr
+- Optional Tasbih / Dhikr (Tasbih Counter)
+- Give Sadaqah (Optional)
+- Offer Nafl Prayer (Optional)
+- Customize Daily Goals as per your need
+
+Athan is the most trusted prayer time app for accurate Salah times and also includes features: 
+- Prayer Times with Azan Alarm:
+- Athan Stories (short Islamic Videos)
+- Al-Quran with Audio
+- Dua & Athkar
+- Qibla finder
+- Menstrual Mode for Women
+- Islamic calendar 2025
+- Tasbih Counter
+- Hajj and Umrah Guides
+
+
+Azan Alarm & Prayer Times:
+- Accurate prayer timings worldwide
+- Listen to adhan five times a day by enabling azan notifications / azan alarm
+- View the remaining time for each Salat & see accurate Muslim prayer times of the entire day
+
+Athan Stories (short Islamic Videos):
+Athan Stories is a feature where you can watch and learn new things about Islam on a daily basis through short Islamic videos.
+
+Al Quran:
+- Read the Holy Quran in English and other 45+ languages Translations & transliterations
+- Bookmark surah & ayah of your choice Quran for iPhone
+- Get 2 free Holy Quran themes
+- Shareability of any ayah from the azan app on social media
+- Lookup any word, surah or ayah in the search bar on Quran for iPhone
+- Adjust font size & switch translations and transliterations on/off
+
+Menstrual Mode for Women
+Athan’s Menstrual Mode is a convenient experience for women's Prayer needs. 
+- Mark Prayers as excused 
+- Duas you can during menstruation
+- Dua & Athkar reminder 
+- Customized notifications
+
+Dua / Athkar (Supplications):
+- Quranic and masnoon supplications / athkar & dua
+- Dua of the day card to strengthen your Imaan, daily Athkar & dua
+- Listen to Duas with Dua Audio
+
+
+Tasbih Counter:
+- Count your daily Dhikr, Tasbihat and Wazaif with the help of Tasbih
+- Complete Tasbeeh e Fatima with Tasbeeh Counter
+- Tasbeeh Counter with dark and light color themes
+- User friendly Tasbeeh Counter for Azkar and Dua’s
+- Make Tasbihat and Azkar with Tasbih (تسبيح) counter/Dhikr Counter
+
+Qibla Finder:
+Integrated Qibla finder / Qibla compass / Qibla direction worldwide with the help of our Qibla finder feature
+
+Gregorian and Islamic Calendar / Hijri Calendar:
+- View current Islamic / Hijri & Gregorian calendar 2025 dates and Umm-al-Qura Calendar
+- View list of Islamic events of Hijri year
+
+PrayerBook:
+- Know your Salat progress
+- Track prayers by logging them in your personalized PrayerBook
+- Never miss your namaz and get notifications of namaz timings during Ramzan
+
+In-App Purchases:
+- Enjoy smooth Ad free experience with Athan Pro version (Monthly and Yearly Subscriptions)
+
+Note: Enable Auto settings to get the most accurate Islamic Prayer Times for your location.
+Second, kindly rotate your phone and make an 8 in the air in order to get accurate Qibla direction
+
+Follow us to stay connected.
+https://www.instagram.com/athan.app/",2012-03-05T01:32:14Z,2025-11-22T00:45:50Z
+in,India,Reference,6006,7,978674211,Oxford Dictionary,"MobiSystems, Inc.",https://apps.apple.com/in/app/oxford-dictionary/id978674211?uo=4,0.0,4.50749,8347,Reference,"Discover the power of words with the Oxford Dictionary, the definitive language resource trusted by millions around the world. This comprehensive app, powered by Oxford Languages, offers a wealth of linguistic tools to help you achieve your language goals.
+
+■ 15 OXFORD DICTIONARIES AT YOUR FINGERTIPS: 
+•	Access a vast collection of dictionaries for English, French, German, Spanish, Russian, Chinese, Italian, Hindi, Urdu, Portuguese, Japanese, Greek, Bulgarian, and Thai.
+
+■ UNMATCHED LANGUAGE CONTENT:
+•	The Latest Word Database from Oxford Languages
+•	Explore over 1 million words, phrases, and definitions
+•	Thesaurus Integration - find the perfect word with thousands of synonyms and antonyms
+•	Audio Pronunciations - perfect your pronunciation with high-quality voice recordings
+•	Etymology and Origins - uncover the fascinating histories behind words
+•	Specialised Content - quickly locate topic-specific references
+•	Word of the Day - expand your vocabulary one word at a time
+
+■ KEY FEATURES AND INTUITIVE DESIGN:
+•	Favourites - save and organize words into personalized folders
+•	Recent - quickly revisit recently searched words
+•	Auto-correction option - correct the spelling of any word, as you type it 
+•	Spread the word! Share your linguistic discoveries with friends, colleagues, or on social media
+
+■ ADVANCED SEARCH OPTIONS:
+•	Search autocomplete - displays predictions as you type
+•	Keyword lookup - search within compound words and phrases
+•	Camera search - look up words in the camera viewfinder
+•	Voice and fuzzy search - find an entry when you don’t know how a word is spelled
+
+■ THE OXFORD DICTIONARY IS IDEAL FOR:
+•	Professionals improving workplace communication
+•	Writers and journalists crafting impactful content  
+•	Students preparing for tests like IELTS, TOEFL, ACT, SAT, or NAPLAN
+•	Academics and specialists requiring accurate, field-specific terminology 
+•	Word enthusiasts and vocabulary builders  
+
+■ UPGRADE TO PREMIUM AND UNLOCK MORE: 
+-	Unlimited Database Access - search without limits
+-	Audio Pronunciations - perfect your pronunciation
+-	Offline and Fast mode - access the wealth of the word database anywhere, anytime - no data or internet connection is required 
+-	Thesaurus - access your word arsenal for millions of synonyms and antonyms 
+-	Regular Update - stay current with the latest language trends and word entries
+-	Ad-Free Experience - focus on learning without distractions
+
+■ WHY CHOOSE OXFORD DICTIONARY?
+•	Accuracy and Reliability - trusted by language experts and learners worldwide
+•	Comprehensive Coverage - from casual word lovers to academics, this app has it all
+•	User-Friendly Design - a seamless experience for all
+•	Your Language Journey Starts Here
+
+Download the Oxford Dictionary today and embark on a journey of linguistic discovery. Whether you're a student, professional, or simply curious about language, this app is your ultimate language companion.
+
+Terms of Use: https://mobilingo.ai/terms-of-use
+Privacy Policy: https://mobilingo.ai/privacy-policy",2015-06-26T07:50:37Z,2025-11-18T21:39:49Z
+in,India,Reference,6006,8,6743440223,Blood Sugar Tracker-AI Health,INTERNATIONAL ASSOCIATION OF MANAGEMENT SCIENCE AND ENGINEERING TECHNOLOGY LIMITED,https://apps.apple.com/in/app/blood-sugar-tracker-ai-health/id6743440223?uo=4,0.0,1.88235,17,Reference,"In today's era, having a good body is the most important wealth of a person, so we must always pay attention to our physical health.
+Blood sugar tracker-AI health helps everyone record their blood sugar and form statistical data and summary. After measuring blood sugar in life, users can enter the measurement results into our application. Please rest assured that we will only use your results for statistics and will protect the privacy of users.
+
+Having a good body is the premise of everything.
+Features:
+1. Support multiple languages to serve global users
+2. Blood sugar data support entry
+3. Popular science of blood sugar related knowledge
+4. Health data privacy and security
+
+Disclaimer
+This application is designed to provide users with routine health services such as blood sugar data recording and blood sugar knowledge. It should be clear that all content provided by this application does not constitute any medical diagnosis, treatment plan or health guidance advice, nor can it replace the diagnosis, treatment and advice of professional doctors or other healthcare professionals. If you are outside this application, please be sure to consult a professional doctor and follow the doctor's arrangements before making any medical decisions.",2025-03-24T07:00:00Z,2025-07-01T02:04:39Z
+in,India,Reference,6006,9,388389451,Muslim Pro: Quran Prayer Times,Bitsmedia Pte Ltd,https://apps.apple.com/in/app/muslim-pro-quran-prayer-times/id388389451?uo=4,0.0,4.70024,102205,Reference,"Build a stronger connection with your Deen, one day at a time.
+
+Staying consistent with prayer. Making time to read even one verse a day. Remembering to say Alhamdulillah when life gets heavy. These are the habits that build Iman, and Muslim Pro is here to help you build them.
+
+Whether you’re navigating faith at college, raising a family, or rediscovering prayer, Muslim Pro walks with you, every day, in every season of your Iman.
+
+Designed to help you grow in faith:
+- Prayer reminders (Athan) tailored to your location, helping you never miss a Salah
+- Daily Quran goals to keep you reading and reflecting
+- Track your progress with streaks, reminders, and reflections
+- Guided Duas & Azkar, chosen for real-life moments
+- Personalised Islamic content that fits your journey, your pace
+- Discover halal spots & mosques nearby, even while travelling.
+- Learn through short videos, articles & tips, no pressure, just progress
+
+The Complete Qur’an Experience
+- All 114 Surahs with audio recitations by renowned Qaris like Mishari Alafasy and Abdul Basit
+- Word-by-word translations in English and other languages
+- Tajweed color guides and recitation tips to improve your fluency
+- Last read verse bookmarks & Ayah highlights
+- Memorization mode with repetition, verse selection, and audio speed control
+- Light & dark modes, font size adjustments for easier reading
+- Verse, Surah, or keyword search
+- Authentic Arabic script with Uthmani calligraphy
+- Short Tafsir to help reflect on meaning
+- Daily Ayah reminders to stay spiritually connected
+
+Small steps lead to lasting change. Muslim Pro helps you stay motivated, feel accountable, and keep growing in your faith, day by day.
+
+
+Unlock the full Muslim Pro Experience with Premium
+Ad-Free Experience: Enjoy uninterrupted access to all features.
+Exclusive Tools: Access offline reading, audio recitations, customizable prayer widgets, and interactive lessons.
+
+Premium Subscription Plans
+$12.99 per month
+$34.99 per year
+
+These prices are for United States customers. Pricing may vary in other countries, and charges may be converted to your local currency.
+Subscriptions renew automatically unless auto-renew is turned off at least 24 hours before the end of the current period. Manage your subscription and auto-renewal settings in your Apple account.
+
+Supported Languages
+Muslim Pro is available in multiple languages, including English, Bahasa Indonesia, Bahasa Melayu, Français, العربية, اردو, and more.
+
+Pro Tips for the Best Experience:
+Keep the app updated for the most accurate prayer times and reading features.
+Enable auto-location to adjust prayer notifications based on your area.
+Open the app daily for seamless access to verified prayer times, Qibla tools, a prayer space finder, and a Halal restaurant finder.
+
+Stay Connected:
+Website: muslimpro.com
+Instagram: @MuslimProOfficial
+TikTok: @MuslimProOfficial
+YouTube: MuslimProApp
+Facebook: MuslimPro
+Twitter/X: @MuslimPro
+
+Discover Muslim Pro – Your trusted app for prayer times, recitations, alerts, Qibla, Halal Finder & more. Perfect your prayer routine and embrace your practice with ease.
+Download Muslim Pro today and elevate your experience!
+
+Privacy Policy: https://support.muslimpro.com/hc/en-us/articles/203485970-Privacy-Policy
+Terms of Use: https://support.muslimpro.com/hc/en-us/articles/115001016508-Terms-Of-Use",2010-08-21T00:45:05Z,2025-11-13T13:29:55Z
+in,India,Reference,6006,10,6477325101,Translate Voice: AI Translator,HAPPY TOOLS HK LIMITED,https://apps.apple.com/in/app/translate-voice-ai-translator/id6477325101?uo=4,0.0,4.48761,888,Reference,"Translate Voice is a useful translation application that provides you with real-time and accurate text, voice and image translation services. Whether you are studying, working or traveling, it can break the language barrier for you and allow you to communicate with the world without any barriers.
+
+Main feature:
+
+1. Multi-modal translation: text, voice, pictures, all available. Whether you are typing, speaking, or taking photos, AI translation experts can provide you with accurate and fast translations.
+
+2.AI driven: Using the latest artificial intelligence technology, our translation engine can provide natural and smooth translations, making you feel like you are communicating directly with a native speaker.
+
+3. Privacy protection: We respect and protect your privacy. All translation content will be processed on cloud servers, and we will not collect or share any personal privacy information.
+
+iTranslator is your language companion that you can take with you wherever you go. Download iTranslator now and start your multilingual journey!",2024-02-03T08:00:00Z,2025-11-03T10:11:38Z
+in,India,Reference,6006,11,6738304985,AI Translator - Translate AI,HEYOS YAZILIM HIZMETLERI TICARET LIMITED SIRKETI,https://apps.apple.com/in/app/ai-translator-translate-ai/id6738304985?uo=4,0.0,4.67638,309,Reference,"Break Language Barriers Instantly with AI Translator – Your Live, Real-Time Translation Companion
+
+
+Speak, scan, and translate now—anytime, anywhere—with Translate AI, the ultimate AI translator for everyday communication, travel, business, and learning. Whether you’re navigating a new country, chatting with friends abroad, or closing international deals, this powerful live translator is designed to help you understand and be understood.
+With cutting-edge AI for translation, Translate AI offers real-time voice and audio translator tools, camera-based AI image translation, text translation, and an offline phrasebook—all in one sleek app. Say goodbye to confusion and hello to seamless, global conversations.
+
+Key Features:
+
+Real-Time Voice & Audio Translator
+Experience fluent, two-way communication with our live voice translator. Speak naturally and get instant results with our AI auto translate engine. Perfect for business, travel, and everyday use.
+
+AI Camera & Photo Translator
+
+Point your camera at any text—menus, signs, labels—and Translate AI will detect and translate it instantly. Use our AI image translation technology to see the world through your language.
+
+AI Text Translator
+
+Type or paste text to receive fast, accurate translations. From single words to full sentences, our ai translator engine ensures clarity every time.
+Translate Audio with Ease
+The built-in audio translator makes spoken communication fast and fluid. Great for meetings, voice memos, or casual conversation.
+Supports Over 100 Languages
+From English, Spanish, and French to Chinese, Japanese, Turkish, and more, Translate AI gives you access to over 100 supported languages.
+Offline Phrasebook
+ Save key phrases and access them even without the internet. Your must-have tool for travelers and emergencies.
+Smarter Translations, Thanks to AI
+ Our app uses advanced AI quick translate technology that adapts to your tone and context. It’s like having an intelligent interpreter in your pocket.
+
+Why Choose Translate AI?
+
+Fast and intuitive ai translator for speech, text, and images
+All-in-one live translator with voice, camera, and typing options
+Translate now with zero delays or complications
+Ideal ai chat translator for everyday conversations and social apps
+Innovative auto translator that learns your language patterns
+Seamless UI designed for fast access and efficiency
+
+
+Use Cases:
+
+Travel: Navigate new places with confidence. Use your live translator to understand signs, menus, or directions instantly.
+
+Business: Make global communication effortless in meetings and negotiations with your reliable ai translator.
+
+Learning: Boost your language learning with ai quick translate tools and real-life examples.
+Daily Communication: Use the ai chat translator for texting, social media, or online content in any language.
+
+On-the-Go: Rely on the camera and image translator to understand foreign packaging, documents, or signage.
+Whether you’re learning a new language, traveling the globe, or connecting across cultures, Translate AI is the smartest way to speak fluently and confidently. With our built-in AI for translation, you can say what you mean and understand what others say—without delay.
+
+Break the language barrier. Speak freely. Translate now.
+Download AI Translator - Translate AI today and explore the world with confidence.
+
+Privacy Policy: https://heyos.co/privacy
+Terms of Use: https://heyos.co/terms-of-use",2025-01-30T08:00:00Z,2025-11-14T13:16:39Z
+in,India,Reference,6006,12,6474008786,Translate Voice：Ai Chat,"TINY BOLT (HK) CO., LIMITED",https://apps.apple.com/in/app/translate-voice-ai-chat/id6474008786?uo=4,0.0,4.51999,25,Reference,"Your Intelligent AI Translation Assistant
+Translate Voice is an all-in-one AI translation app supporting over 200 languages. Speak, type, or take a photo for instant translation! Whether it's voice conversation, written text, or images, our intelligent translation makes cross-language communication smooth and natural.
+
+Key Features:
+
+-AI Chat Translation – Real-time bilingual conversations, just like online chat
+
+-Text Translation – Accurately translate any written content
+
+-Voice Translation – Speak for instant translation
+
+-Photo Translation – Take a photo to translate signs, menus, and documents
+
+-Image Translation – Recognize and translate screenshots and images
+
+With support for over 200 languages, it's ideal for travel, study, or global business.",2023-12-08T08:00:00Z,2025-08-11T20:19:53Z
+in,India,Reference,6006,13,475772902,Night Sky,iCandi Apps Ltd.,https://apps.apple.com/in/app/night-sky/id475772902?uo=4,0.0,4.70037,18693,Reference,"Night Sky is a powerful AI personal planetarium.
+
+Quickly identify stars, planets, constellations and satellites above by simply holding your iPhone, iPad or Apple Watch to the Night Sky!  This is all done magically.  Whether you’re looking for a constellation, or the International Space Station, let Night Sky direct you to it, then explore the object in AR!
+
+FEATURE SET: 
+
+- NIGHT SKY + AURA (Night Sky + Aura Subscription required) - Your Personal AI Super Astronomer!  Ask Night Sky Aura virtually anything about Space and it will know the answer.  Night Sky Aura fully interfaces with features within Night Sky, to direct you to objects you’re interested in, provide information on anything to do with astronomy, or even show you how the sky looks on the other side of the world!  With your own personal AI Super Astronomer right by your side, Night Sky Aura becomes the new natural way to interact with the sky above! 
+
+- SKY TAGS - Make Night Sky yours, by adding personal Sky Tags to the map!  Pin Sky Tags to objects in the sky to save for future reference, and share them via iMessage so others can find them!  Sky Tags can be categorized, and are completely personal to you.  Maybe you want to tag a star as a memorial to someone, or tag something you’d like to observe later that night.  You can even add Astrophotography photos and observation notes to your Sky Tags!  
+
+- CONNECTED STARGAZING (+ Feature) - Connected Stargazing is a revolutionary new feature that utilizes SharePlay in iOS 15.1, allowing you to stargaze with others when you are apart!  Start a FaceTime Audio call with those who you would like to stargaze with, then create a session by adding objects for everyone to find in the sky!
+
+- SPATIAL AUDIO OBJECT NAVIGATION - Using AirPods Pro or AirPods Max, search for an object when automatic sky tracking is on, and Night Sky will make the star, planet or constellation ‘chirp’ in the 360° soundscape, assisting you to navigate to the object with sound!
+
+- AR SKY WINDOW - Erase the ceiling of your bedroom, lounge or classroom with AR!  Night Sky intelligently detects the ceiling or other flat surface in a room, and can make it magically disappear to reveal the sky behind it!  
+
+- BILLIONS OF STARS!  (+ Feature) - Space is vast, so Night Sky has been hyper charged with over 1.7 BILLION STARS streamed from the cloud!  With a new super deep zoom (greater than 10X before), prepare to delve deeper into space than you ever imagined!
+
+- MAPS UI - A clean and familiar interface with Search features including Quick Find, intelligent Night Red Mode, Light Pollution indicator and easy to use menu, prepare to navigate Night Sky quicker than ever before!
+
+- AR PLANETARY PORTALS & AR GRAND ORRERY (+ Features) - Step onto the surface of other planets by placing AR portals around your room!  Or walk around the entire Solar System using the newly refreshed interactive Grand Orrery!
+
+- NIGHT SKY WATCH AR - Night Sky magically comes to life on Apple Watch, with Glass Constellations, Red Vision, and Night Sky Live Tours - all on your wrist! 
+
+- AR OBJECT EXPLORATION  - Pull Planets, Stars and Constellations out of the sky and look at them in detailed AR!
+
+- NIGHT SKY TOURS (+ Feature):  Get a live sky tour or create your own sky tours for any location and time in the world!  
+
+- NIGHT SKY MINDFULNESS (+ Feature) - A mindfulness stargazing experience adding mindfulness minutes with Apple HealthKit. 
+
+- AND MANY MORE FEATURES! 
+
+
+Subscription Information: 'Night Sky +' and 'Night Sky + Aura' are available as optional subscriptions. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period. Manage or cancel anytime in your App Store account settings.  Privacy policy: http://www.icandiapps.com/privacy-policy/  Terms and Conditions of Use: http://www.icandiapps.com/terms-conditions/",2011-11-01T17:57:41Z,2025-11-18T18:32:54Z
+in,India,Reference,6006,14,6448849666,Bible Chat: The Holy Scripture,BookVitals APP SRL,https://apps.apple.com/in/app/bible-chat-the-holy-scripture/id6448849666?uo=4,0.0,4.88436,2162,Reference,"Bible Chat: Built for Christians Who Want to Hear God in the Noise of Everyday Life
+
+Have you made time for God’s Word today? Join millions of believers who’ve chosen the #1 faith app in the world. Download Bible Chat today!
+
+Life is noisy. Fast. Overwhelming. Even when you’re trying to stay close to God, it’s easy to feel spiritually disconnected.
+
+Bible Chat is the ultimate all-in-one Christian app designed to make Bible reading, prayer, and Christian community a part of your everyday life. It is for Christians who want peace - real peace - anchored in Scripture.
+
+
+Whether you're a lifelong Christian or just starting your journey, Bible Chat gives you everything you need to:
+
+• Understand the Bible Better - Learn what the Bible really means with helpful guides and simple explanations that make God's Word easier to follow and apply.
+
+• Grow Your Prayer Habit - Build a consistent prayer routine supported by daily  inspiration and the power of a praying community.
+
+• Make Faith Part of Your Day - Improve your daily routine with spiritual prompts, Christian calendar reminders, and faith tools designed for the whole family.
+
+• Support Your Mental Health - Find peace and calm in moments of stress with simple tools that help you refocus on God’s strength.
+
+• Make Faith Fun and Interactive - Enjoy fun and easy ways to learn, think, and talk about how faith fits into your everyday life.
+
+
+Key Features to Explore:
+
+• Daily Plan: Stay on track with your faith. Follow a simple daily plan that helps you grow closer to God, one step at a time.
+
+• Structured Bible Study Plans: Follow simple Bible reading plans made for real life. Some of the topics include: healing, wisdom, leadership, grief, and more.
+
+•  Holy Calendar: See important Christian days in a monthly view. Never miss a feast, saint day, or holy event again.
+
+• Panic Button: Struggling with stress or temptation? Tap the Panic Button for guided deep breathing exercises that calm the mind and provide anxiety relief.
+
+• Live Prayer: Share your prayer intentions, and let's pray together to grow closer to God.
+
+• Send a Blessing:  Send a Bible verse with a kind message straight to a friend’s phone. Add a heart or doodle to make it personal and uplifting.
+
+• Bible Stories for Kids: Turn screen time into faith time! Show fun, Bible-based stories and videos to your kids.
+
+• Multiple Bible Versions: Read the Bible the way you like best. Choose from NKJV, KJV, WMB, FBV, World English Bible, Amplified, and NASB.
+
+• Bible Verse Widget: See a new Bible verse every day, right on your lock screen or home screen.
+
+• Bible Trivia: Challenge and enhance your biblical knowledge through interactive trivia games.
+
+• Verse Locator: Looking for a verse? Search and find it fast, along with what it means.
+
+• Personalized Devotionals & Prayers: Start your day with custom devotionals and write your own prayers to stay closer to God.
+
+• Biblical Character Profiles: Learn about the people in the Bible: their stories, struggles, and how God worked in their lives.
+
+• Let's Discuss Faith: Join honest chats about how faith connects to your real life - like work, family, and relationships.
+
+
+Experience More with Premium:
+Unlock unlimited conversations, full access to every feature, and exclusive designs for your Daily Prayer Widgets. Start with a FREE 7-day trial, then choose our weekly plan at £4.99 or opt for extended plans for greater savings.
+
+
+Privacy Policy & Terms and Conditions:
+https://thebiblechat.com/privacy-policy/
+https://thebiblechat.com/terms-and-conditions/
+
+
+Join Our Thriving Community:
+Join a friendly community of people who love God or are just starting to learn. With Bible Chat and the new Send a Blessing Widget, you can make Bible verses and prayer part of your everyday conversations.",2023-05-11T07:00:00Z,2025-11-22T20:53:15Z
+in,India,Reference,6006,15,1348028646,Translate Now - AI Translator,"AIR APPS SYSTEMS, UNIPESSOAL, LDA",https://apps.apple.com/in/app/translate-now-ai-translator/id1348028646?uo=4,0.0,4.6204,8504,Reference,"Translate text, voice, and photos in 320 different languages. Featuring a keyboard translator and live voice translator.
+
+Whether you need to translate for travel, work, study, or everyday conversation, Translate Now is your ultimate AI-powered language translator. Break language barriers instantly with Translate Now’s multilingual translation tools, making every interaction seamless.
+
+Key Features
+
+▶ Hands-Free Voice Translator for Real-Time Conversations
+Effortlessly overcome language barriers with a real-time, hands-free voice translator. Simply speak into your device for instant two-way translation and enjoy multilingual conversations with ease.
+▶ Photo Translator for Instant Translation
+Translate menus, signs, and pictures instantly with your camera. Just snap a photo for a real-time translation—perfect for travel and navigating world languages.
+▶ Keyboard Translator for Multilingual Chat
+Type in your native language and send translations live in 60 different languages within any app for effortless messaging.
+▶ AI Translator for Instant Text Translation
+Translate text with AI-enhanced accuracy, phonetic support, and context-aware translation in 320+ languages.
+▶ AR Live Translator for an Immersive Local Experience
+Use your camera and augmented reality to translate live, making language learning and travel more intuitive.
+▶ AI-Powered Dictionary & Grammar Assistant
+Expand your vocabulary with contextual meanings and receive real-time grammar corrections for more precise translations.
+
+Translate Now offers various AI Translation Models, Phrasebook, Watch App, Translation Extension, Offline Mode, Dark Mode, Siri Shortcuts, Interactive Widgets, and SharePlay.
+
+Download Translate Now, your ultimate language translator! Experience the power of language translation at your fingertips. Text, speak, and translate effortlessly between French, Spanish, Japanese, Chinese, Italian, Arabic, German, Urdu, Thai, Korean, Portuguese, Punjabi, Polish, and more!
+
+Take your experience to the next level with Air Apps One, the ultimate subscription. Subscription to one app unlocks 30+ powerful tools for productivity, learning, fitness, and creativity at no extra cost. Simplify your life with seamless access, exclusive discounts, and effortless integration into your daily routine. Subscribe now for an all-in-one, hassle-free experience!
+---
+Subscription payments are charged to your iTunes account upon purchase and renewal. Free trials auto-renew to paid subscriptions unless canceled at least 24 hours before the current period ends. Cancellation takes effect after the current period, downgrading you to the free service. Unused trial portions are forfeited upon premium subscription purchase.
+
+Please note and acknowledge that all subscriptions are processed and managed through your Apple ID, including cancellations, refunds, and changes. For further assistance, please contact Apple's support team.
+
+Connect with us through:
+Web: https://airapps.co
+Linkedin: https://www.linkedin.com/company/airapps
+Instagram: https://www.instagram.com/airappsco
+
+Privacy Policy: https://airapps.co/privacy
+Terms Of Use: https://airapps.co/terms
+Support: Contact us at support@airapps.co",2018-03-23T15:08:59Z,2025-11-24T01:05:18Z
+in,India,Reference,6006,16,569235977,iGurbani,Akal Design Technologies Inc,https://apps.apple.com/in/app/igurbani/id569235977?uo=4,0.0,4.43696,714,Reference,"iGurbani - A powerful Gurbani Search Engine that allows you to search the Sikh scriptures.
+
+With the Grace of God the Akal Design team developed iGurbani with a new database from the ground up.  The focus of this app is to allow the user to accurately read the shabads from the Sri Guru Granth Sahib Ji following a revolutionary style of showing the vishraams.  Instead of commas and other punctuation the vishraams are highlighed in a specific color.
+
+PLEASE NOTE: Since the Gurmukhi is from a new source and the database has been rebuilt from the ground up there are some errors that we could not catch during development.  We are going to rely on the Sangat to help us identify and correct those errors.
+
+Scriptures
+1. Sri Guru Granth Sahib Ji
+2. Sri Dasam Granth Sahib Ji
+3. Bhai Gurdas Ji Vaaran
+4. Bhai Nand Lal Ji
+
+Translations
+ENGLISH
+- Dr. Sant Singh Khalsa
+- Bhai Manmohan Singh Ji
+OTHER TRANSLATIONS
+- SGGS Darpan (Prof. Sahib Singh Ji)
+- Bhai Manmohan Singh Ji
+- Faridkot Teeka
+VISHRAAM
+- Baba Darshan Singh Ji (Mallehwal)
+
+Features
+- Intuitive modern interface
+- Multiple Keyboards
+- Search by First Letter (From Start)
+- Search by First Letter (From Anywhere)
+- Search Ang/Vaar
+- Search full word (Gurmukhi/English)
+- Search History
+- Favorites
+- Highlighted Vishraam
+- Larivaar
+- Shabad Display is fully customizable
+- Transliteration
+
+www.igurbani.com",2012-10-18T22:33:47Z,2025-07-19T00:16:24Z
+in,India,Reference,6006,17,6499563177,Blood Sugar : Pulse Monitor,THREE TIGER NETWORK TECHNOLOGY LIMITED,https://apps.apple.com/in/app/blood-sugar-pulse-monitor/id6499563177?uo=4,0.0,4.47058,34,Reference,"Keep Tabs on Your Health with Ease – All in One Handy App
+
+Whether you're keeping an eye on your heart or just like to stay on top of your numbers, our health record app makes it simple to log and organize your personal wellness info — all in one place.
+
+Track What Matters Most
+Easily record your blood pressure, heart rate, and oxygen levels right from your phone. Over time, you’ll be able to spot trends, share your records with your doctor, or just enjoy peace of mind knowing everything’s right where you need it.
+
+Healthy Lifestyle, Made Simple
+Taking care of yourself doesn’t have to be complicated. Our app helps support a healthier routine by encouraging you to stay mindful of your daily health through simple, consistent logging.
+
+No Tech Headaches Here
+We designed the app to be straightforward and easy to use. Whether you’ve been using smartphones for years or are just getting started, the clean layout makes recording your info quick and stress-free.
+
+Your Health, Your Privacy
+Your personal health data belongs to you, and only you. We take your privacy seriously. All records are stored securely and can’t be accessed without your permission.
+
+Tips for Making It a Habit
+
+·Set a Daily Reminder: A gentle nudge can go a long way. Set a reminder that fits your routine—like right after your morning coffee or before bedtime.
+·Use Notes to Add Context: Feeling tired? Stressed? Add a quick note with your entry. These little details can be helpful when reviewing trends later.
+·Celebrate Consistency: The more regularly you log, the more useful your data becomes. Even a quick daily check-in helps build a clearer picture over time.
+·Share with Your Doctor: Bring your phone to your next appointment. Having a history of your readings can lead to more informed conversations.
+
+
+Feel More in Control of Your Health
+
+With our app, it’s easier than ever to stay informed about your health and keep track of important numbers—all without the overwhelm.
+
+- Please note: This app is intended for personal tracking only. It is not a diagnostic tool and should not replace professional medical advice. Please consult your doctor with any health concerns.",2024-05-05T07:00:00Z,2025-10-20T11:27:39Z
+in,India,Reference,6006,18,1040589208,Sikh World,Khushwant Singh,https://apps.apple.com/in/app/sikh-world/id1040589208?uo=4,0.0,4.26119,268,Reference,"""Waheguru Ji Ka Khalsa Waheguru Ji Ki Fateh""
+
+We have created this Application to make people aware about Sikhs and Sikhism. Our aim is to spread Sikhism Teachings and Educate the people on Sikhism. 
+
+Features of the Sikh World App :
+
+1) Read about Sikhism
+2) Read about Sikh Gurus (short details)
+3) Read and Listen Sri Guru Granth Sahib Ji
+4) Read and listen daily morning Hukamnama/ Katha of Daily Hukamnama/ Sangrand Hukamnama from Sri Darbar Sahib (Golden Temple), Amritsar
+5) Listen Live Kirtan from Sri Darbar Sahib (Sri Harmandir Sahib), Amritsar
+6) Read and listen Nitnem and other Gurbanis.
+7) Sakhis of All Gurus and Bhai Mani Singh, Baba Deep Singh ji Shaheed, Baba Banda Singh Bahadur in English
+8) Media Centre- Audios of Banis, Banis Vyakhya, SGGS, Dasamgranth, Bhai Gurdas ji Vaars, Kirtan &Gurmat Vichar (Katha) by various Ragi Sahib, Dhadi Kirtan, Sakhis, Lectures, Internet Gurbani Radios and many other Audios
+9) Sikh Tube- Videos of Kirtan, Banis, Banis Vyakhya, SGGS, Dasamgranth, Kirtan & Gurmat Vichar (Katha) by various Ragi Sahib, Sakhis, Gurdwaras, Gatkas, Religious/Motivational short and long movies, Gatka, Lectures, Sikh Personalities, How to Tie Turban, Records and Achievements, Learn Punjabi and many other Videos
+
+Please do send us your valuable comments at sikhworldintl@gmail.com
+
+Disclaimer
+SikhWorld is a free,  religious app that naturally comes with no warranty, guarantee and any sort of obligation from provider side. The contents (for example images, audio/videos files) included in Sikhworld are freely available on the Internet. If you own any of the content and do not want SikhWorld to use send us an email at sikhworldintl@gmail.com and we will try to remove the same in the next release of the App.
+
+""Waheguru Ji Ka Khalsa Waheguru Ji Ki Fateh""",2015-11-14T21:41:56Z,2025-08-11T11:49:47Z
+in,India,Reference,6006,19,6754341464,Win Ward,SPINECODES SOLUTIONS LLP,https://apps.apple.com/in/app/win-ward/id6754341464?uo=4,0.0,4.5,2,Reference,"WIN WARD – Smarter Election Management
+WIN WARD helps manage and streamline election-related tasks efficiently. Stay organized and ensure a smooth, transparent workflow during elections.",2025-11-18T08:00:00Z,2025-11-23T16:27:12Z
+in,India,Reference,6006,20,1036725690,Voice Translator: AI Translate,BP Mobile LLC,https://apps.apple.com/in/app/voice-translator-ai-translate/id1036725690?uo=4,0.0,4.30881,6402,Reference,"Voice translation was never so easy! Travel around the world and easily communicate in any country – Voice Translator will instantly pronounce translated phrases on-the-fly! Can’t read the menu items in a fancy foreign restaurant? Those days are history now with instant camera translation!
+
+Communicate freely at the airport, hotel, gas station, supermarket or any other place. Read street signs in a foreign country, translate manuals of your overseas purchases or the text of any picture you already have in your phone. Just put your personal interpreter into a pocket and use it for your all translating needs!
+
+Voice Translator is an essential learning tool for kids and adults – learn new phrases and listen to the correct pronunciation.
+
+Start using Voice Translator now and forget about looking for the correct phrase in the dictionary – say any phrase and your interpreter will pronounce the translation out loud!
+
+Features:
+– Immediate translation of real-time conversations
+– Use your camera for instant text translation
+– Translate texts from your photos and pics
+– Translate as you type in any of your favorite messaging apps
+– Extended offline phrasebook
+– Language detection for text-to-text mode
+– 100+ languages working in speech-to-speech and text-to-text modes
+– You can either speak or type to translate your text
+– Smart text-to-text mode
+– Speed up your text input with typing hints
+– Convert text from languages with non-Latin alphabet
+– Copy, paste and share translations in a single tap
+– Intuitive dialogue conversation interface
+– Speak the translated phrase out loud
+– Control the speed of voice
+– Male and female voices available
+– Human-to-Pet and Pet-to-Human modes (for entertainment purposes only). Translate your pet’s meow or woof into your language.
+
+Currently supported voice-to-voice languages:
+
+Arabic (Saudi Arabia)
+Catalan (Spain)
+Chinese (Simplified)
+Chinese (Traditional)
+Chinese (Cantonese)
+Czech (Czechia)
+Danish (Denmark)
+Dutch (Netherlands)
+English (Australia)
+English (Canada)
+English (India)
+English (United Kingdom)
+English (United States)
+Finnish (Finland)
+French (Canada)
+French (France)
+German (Germany)
+Greek (Greece)
+Hebrew (Israel)
+Hindi
+Italian (Italy)
+Japanese (Japan)
+Korean (South Korea)
+Norwegian Bokmål (Norway)
+Polish (Poland)
+Portuguese (Brazil)
+Portuguese (Portugal)
+Romanian (Romania)
+Russian (Russia)
+Slovak (Slovakia)
+Spanish (Mexico)
+Spanish (Spain)
+Swedish (Sweden)
+Thai (Thailand)
+Turkish (Turkey)
+and more
+
+You can choose a free trial with all features available.
+
+UNLIMITED ACCESS TO ALL FEATURES
+• You can subscribe for unlimited access to all features within Voice Translator.
+• Subscriptions are billed weekly, monthly or annually at the rate selected depending on the subscription plan.
+
+Parts of service translated by Google Translate™.
+
+Privacy Policy: http://bpmob.com/voicetranslator/privacy
+Terms of Use: http://bpmob.com/voicetranslator/terms",2015-09-22T10:49:18Z,2025-11-03T07:39:48Z
+in,India,Reference,6006,21,773457673,Merlin Bird ID by Cornell Lab,Cornell University,https://apps.apple.com/in/app/merlin-bird-id-by-cornell-lab/id773457673?uo=4,0.0,4.86285,926,Reference,"What's that bird? Ask Merlin—the world’s leading app for birds. Just like magic, Merlin Bird ID will help you solve the mystery.
+
+Merlin Bird ID helps you identify birds you see and hear. Merlin is unlike any other bird app—it's powered by eBird, the world’s largest database of bird sightings, sounds, and photos.
+
+Merlin offers four fun ways to identify birds. Answer a few simple questions, upload a photo, record a singing bird, or explore birds in a region.
+
+Whether you’re curious about a bird you’ve seen once or you’re hoping to identify every bird you can find, the answers are waiting for you with this free app from the renowned Cornell Lab of Ornithology.
+
+WHY YOU’LL LOVE MERLIN
+• Expert ID tips, range maps, photos, and sounds help you learn about the birds you spot and build birding skills.
+• Discover a new bird species each day with your own personalized Bird of the Day
+• Get customized lists of birds you can find where you live or travel - anywhere in the world!
+• Keep track of your sightings—build your personal list of the birds you find
+
+MACHINE LEARNING MAGIC
+• Powered by Visipedia, Merlin Sound ID and Photo ID uses machine learning to identify birds in photos and sounds. Merlin learns to recognize bird species based on training sets of millions of photos and sounds collected by birders at eBird.org, archived in the Macaulay Library at the Cornell Lab of Ornithology.
+• Merlin delivers the most accurate results thanks to experienced birders, who curate and annotate sightings, photos, and sounds, who are the true magic behind Merlin.
+
+AMAZING CONTENT
+• Merlin has bird photos, songs, and calls, and identification help for anywhere in the world, including Mexico, Costa Rica, South America, Europe, Africa, the Middle East, India, Australia, Korea, Japan, China, and more.
+
+The Cornell Lab of Ornithology’s mission is to interpret and conserve the Earth’s biological diversity through research, education, and citizen science focused on birds and nature. We are able to offer Merlin for free thanks to the generosity of Cornell Lab members, supporters, and citizen-science contributors.",2013-12-11T08:33:23Z,2025-11-19T16:42:05Z
+in,India,Reference,6006,22,6569255136,Clone App - Multiple Accounts,Siddharth bhadani,https://apps.apple.com/in/app/clone-app-multiple-accounts/id6569255136?uo=4,0.0,4.3838,284,Reference,"Clone App - Multiple Accounts Manager is your ultimate solution for managing multiple accounts on a single device. With our app, you can easily clone apps and use dual messenger to run parallel space for dual WhatsApp, Facebook, Instagram, and other social media platforms. This powerful app cloner allows you to maintain multiple profiles without the hassle of constantly logging in and out.
+
+Experience the convenience of secure dual space where your private space remains protected. Whether you need multiple social media profiles or multiple gaming accounts, Dual Space: Multiple Account Manager has you covered. The app's simple interface makes managing work and personal accounts effortless, while ensuring your cloned apps operate smoothly without any interference.
+
+Designed for efficiency, our app is fast and lightweight, ensuring minimal battery and memory usage while running dual app manager functionalities. Whether you're looking to manage dual Facebook or dual Twitter accounts, our app provides the perfect parallel space solution. Download Dual Space: Multiple Account Manager today and revolutionize the way you handle multiple accounts and parallel apps on your device.
+
+Key Features:
+
+- Clone Apps: Easily create a clone of any app, including social media, messaging, and gaming apps.
+- Dual Messenger: Use two accounts for WhatsApp, Facebook, Instagram, and other messaging apps on the same device.
+- Parallel Space: Run multiple instances of the same app simultaneously without interference.
+- Privacy and Security: Protect your cloned apps with a secure lock. Keep your data safe and private.
+- Simple Interface: User-friendly design makes it easy to manage all your accounts in one place.
+- Fast and Lightweight: Efficient performance ensures minimal battery and memory usage.
+
+Managing Dual Space multiple accounts has never been easier. Download Dual Space: Multiple Account Manager now and experience the convenience of parallel space, dual messenger, and app cloning. Perfect for professionals, gamers, and social media enthusiasts.
+
+subscription info:
+
+Read our full Terms of Service and our Privacy Policy at:
+
+
+Link to Privacy Policy: https://sbapps001.blogspot.com/p/privacy-policy.html
+
+
+Link to Terms of use: https://sbapps001.blogspot.com/p/terms-conditions.html",2024-07-24T07:00:00Z,2024-08-09T17:49:09Z
+in,India,Reference,6006,23,1538946086,"Azan - Prayer Times, Namaz",Sajid Hussain,https://apps.apple.com/in/app/azan-prayer-times-namaz/id1538946086?uo=4,0.0,4.75185,1213,Reference,"Introducing Azan, the ultimate app for Muslims who want to stay on top of their daily prayers! With Azan, you can easily access accurate and reliable prayer times for any location around the world, so you never have to worry about missing a prayer again.
+
+Our user-friendly interface makes it easy to view the daily prayer schedule in either a traditional or modern format, and you can customize your prayer alerts to suit your preferences. You can choose from a range of different sounds and vibration patterns, or even set a custom message to remind you of your prayer time.
+
+But that's not all! Azan also includes a unique prayer tracking feature, which allows you to keep track of your daily prayers and monitor your progress over time. With this feature, you can set personal goals and receive motivational messages to help you stay on track and maintain your spiritual discipline.
+
+And with our built-in Qibla compass, you can always find the direction of the Kaaba no matter where you are in the world.
+
+Azan is the perfect app for Muslims who want to stay connected to their faith and streamline their daily prayer routine. Download Azan today and experience the benefits for yourself!
+
+
+You can get unlimited access to all the advanced functionality by subscribing to a monthly or a yearly plan inside the app. There's also a free 3 day trial period to get a taste of what Azan Pro has to offer. Once expired, the trial period automatically changes to a paid monthly subscription. Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal. Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable. 
+
+Privacy Policy : https://sites.google.com/view/azanprivacy
+Terms of Use : https://sites.google.com/view/azanterms",2020-12-27T08:00:00Z,2025-06-25T22:53:32Z
+in,India,Reference,6006,24,6471475844,Translate Rabbit,"HAPPY BLUE HOUSE CO.,LIMITED",https://apps.apple.com/in/app/translate-rabbit/id6471475844?uo=4,0.0,3.46154,13,Reference,"Introducing our revolutionary translation app: Translate Rabbit；
+Break the language barrier and communicate easily, let us be your best translation partner. Whether you are traveling, on international business, or want to communicate with people from different cultures, this app is your go-to solution.
+With it, you can have a powerful translation tool anytime, anywhere. We try to ensure real-time, accurate translations so you can have smooth and in-depth conversations without the need for tedious language dictionaries or language learning. Say goodbye to the worries of difficult communication and embrace smooth understanding.
+The main function:
+1. Instant translation: Our app provides fast translation in multiple languages, allowing you to get what you need anytime, anywhere. Just type or speak your message and get translations quickly.
+2. Voice recognition: Communicate easily by using voice input. Just speak into the device and seamless translation converts your words into the desired language.
+3. Camera translation: Just point the camera at the text and you can instantly translate the text on the picture.
+4. User-friendly interface: Our app provides a simple and intuitive interface, making it easy for anyone to use. Enjoy a seamless user experience from start to finish.
+5. When relaxing, we have built-in word arrangement games, allowing you to learn languages through alphabet games in your spare time.
+Don't let language differences stop you from connecting with others.",2023-11-15T08:00:00Z,2025-08-01T01:44:51Z
+in,India,Reference,6006,25,451440777,ezQuran - Easy Read Quran,Digital Ummah Pty Ltd,https://apps.apple.com/in/app/ezquran-easy-read-quran/id451440777?uo=4,0.0,4.42004,1138,Reference,"The easy to read South African / Subcontinental / Indo-pak Arabic script 13-line Quran is now on the iPhone!
+
+- Read cover to cover by flipping pages 
+- Easily navigate to a specific page, surah or juz
+- Bookmark any verse so that you can return to it later
+- Double tap to zoom in to maximise ease of reading!
+
+This app is available free of charge, and inshallah always will be.
+
+===
+
+Feedback
+
+If you would like to report any bugs or suggest improvements, feel free to contact us on Facebook.
+
+If you do like the app, please make du'a and leave a review on the App Store.",2011-07-29T05:43:59Z,2020-06-18T23:34:53Z

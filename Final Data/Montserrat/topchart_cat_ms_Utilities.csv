@@ -1,0 +1,809 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ms,Montserrat,Utilities,6002,1,598179687,中国房价行情-发布全国各地房价租金实况,"CityRE Data Co., Ltd.",https://apps.apple.com/ms/app/%E4%B8%AD%E5%9B%BD%E6%88%BF%E4%BB%B7%E8%A1%8C%E6%83%85-%E5%8F%91%E5%B8%83%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E6%88%BF%E4%BB%B7%E7%A7%9F%E9%87%91%E5%AE%9E%E5%86%B5/id598179687?uo=4,0.0,0,0,Utilities,"禧泰数据·中国房价行情发布全国房价房租行情，提供城市住房和房地产项目市场分析、房产数据下载以及房产全周期数字服务。一张图查询全国城市、区市县到小区的房价房租实况，分析住宅、商铺、办公的房价走势和结构，并具有房产价值评估和变动预警等功能。
+
+
+【一张图】通过地图，直观查看全国各城市，城市各个区域住宅、商铺、办公的新楼盘、二手房、租房的房价和房租实况，了解位置点附近居住社区状况以及周边居住区、商场、小学、医院、公园、地铁站、写字楼的分布情况和房价房租差异，分析房价行情和热点区域分布。
+【房价行情】查询全国、城市、区市县、街镇、楼盘小区及地标附近的房价、房租实况和历史5年走势结构分析，发布全国城市、城市区市县、小区的房价和房租排行。
+【房产管家】提供个人房产自动估价、价格变动预警以及置换优选、发布房源等服务。
+【数据报告】根据订阅城市每月自动发送城市房价房租数据报告。
+
+
+【免费服务】中国房价行情移动端基础服务免费，最大程度满足用户了解房价、管理房产价值的需求。
+【付费服务】跨区域房价行情服务需要付费订阅（城市98元/年、全国998元/年）。
+【免费试用（到期自动续费）服务说明】- 订阅名称：全国一年付费服务（全国基础会员）。- 订阅周期：1年。- 订阅价格：998.0元/年。- 付款：用户确认购买并付款后记入iTunes账户。- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。- 首月免费试用：免费试用期内取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。- 取消续订方法：打开手机“设置”-进入“iTunes Store与App Store”--点击“Apple ID"",进入“账号设置”页面，点击“订阅”，选择服务取消订阅即可。
+
+
+*服务覆盖全国337个地级及以上城市及其2932个县级行政区，包括青岛、长春、长沙、贵阳、济南、汕头、苏州、潍坊、厦门、西安、烟台、北海、蚌埠、成都、重庆、大连、东莞、佛山、福州、赣州、广州、海口、哈尔滨、惠州、吉林、金华、九江、昆明、兰州、南昌、南充、南京、南宁、南通、宁波、秦皇岛、泉州、上海、沈阳、深圳、石家庄、唐山、天津、威海、温州、武汉、乌鲁木齐、无锡、徐州、郑州、淄博安庆、保定、北京、常德、常州、大兴安岭、杭州、合肥、湖州、嘉兴、临沂、绵阳、平顶山、日照、三亚、韶关、绍兴、太原、台州、铜陵、芜湖、西宁、盐城、扬州、银川、岳阳、湛江、珠海安康、鞍山、安顺、安阳、百色、白银、宝鸡、保山、包头、巴中、本溪、毕节、滨州、亳州、沧州、长治、朝阳、潮州、郴州、赤峰、池州、崇左、滁州、大理、丹东、大庆、大同、达州、德阳、德州、定西、东营、恩施、鄂州、防城港、抚顺、阜阳、抚州、广安、广元、贵港、桂林、固原、邯郸、汉中、鹤壁、河池、鹤岗、衡水、衡阳、河源、菏泽、贺州、淮安、淮北、怀化、淮南、黄冈、黄山、黄石、呼和浩特、葫芦岛、佳木斯、吉安、江门、焦作、嘉峪关、揭阳、金昌、晋城、景德镇、荆门、荆州、济宁、晋中、锦州、酒泉、鸡西、开封、喀什、克拉玛依、来宾、廊坊、拉萨、乐山、连云港、聊城、辽源、丽江、临汾、丽水、六安、六盘水、柳州、陇南、龙岩、娄底、漯河、洛阳、泸州、吕梁、马鞍山、茂名、眉山、梅州、牡丹江、南平、南阳、内江、宁德、盘锦、攀枝花、平凉、萍乡、莆田、濮阳、庆阳、清远、钦州、齐齐哈尔、七台河、曲靖、衢州、三门峡、三明、商洛、商丘、上饶、汕尾、邵阳、十堰、石嘴山、双鸭山、朔州、四平、绥化、遂宁、随州、宿迁、宿州、泰安、泰州、天水、铁岭、铜川、通化、通辽、渭南、乌海、武威、吴忠、梧州、湘潭、襄阳、咸宁、咸阳、孝感、邢台、新乡、新余、宣城、许昌、雅安、延安、阳江、阳泉、宜宾、宜昌、宜春、营口、鹰潭、益阳、永州、榆林、运城、云浮、玉溪、枣庄、张家界、张家口、张掖、漳州、肇庆、昭通、镇江、中山、中卫、周口、舟山、驻马店、株洲、自贡、资阳、遵义阿拉善、白城、白山、巴彦淖尔、昌吉、承德、鄂尔多斯、阜新、黑河、呼伦贝尔、济源、辽阳、临夏、琼海、松原、仙桃、信阳、忻州、伊春、玉林巴州、楚雄、迪庆、哈密、红河、凉山、临沧、普洱、黔东南、潜江、黔西南、铜仁、五家渠、乌兰察布、五指山、兴安、延边、阿克苏、阿拉尔、阿勒泰、北屯、儋州、德宏、东方、甘孜、海西、和田、黔南、塔城、天门、吐鲁番、文山、湘西、锡林郭勒、西双版纳、伊犁、阿坝、白沙、保亭、定安、甘南、海东、海南州、黄南、林芝、怒江、神农架、石河子、屯昌、文昌阿里、博州、昌都、昌江、澄迈、果洛、海北、克州、乐东、临高、陵水、那曲、琼中、日喀则、山南、图木舒克、万宁、玉树、双河",2013-02-20T15:05:56Z,2025-03-11T12:16:48Z
+ms,Montserrat,Utilities,6002,2,1584081513,天天加速器-海外回国玩游戏看视频听歌,"Sichun Jixun Network Technology Co., Ltd.",https://apps.apple.com/ms/app/%E5%A4%A9%E5%A4%A9%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%8B%E8%A7%86%E9%A2%91%E5%90%AC%E6%AD%8C/id1584081513?uo=4,0.0,0,0,Utilities,"天天加速器--海外华人专用网络工具
+
+游戏、视频、网站、聊天工具全部支持一键回国加速
+
+服务器使用金融级专线，稳定高速低延迟无丢包，保证不保存任何用户私隐数据，请放心使用。",2021-09-19T07:00:00Z,2021-11-10T02:10:41Z
+ms,Montserrat,Utilities,6002,3,1516229654,Call ID - Call Blocker,tv remote screen mirroring llc,https://apps.apple.com/ms/app/call-id-call-blocker/id1516229654?uo=4,0.0,0,0,Utilities,"Call ID - Call Blocker rids you of all surprise and spam callers with its 14 thousand in-iPhone spam numbers database. Sounds good, right? Never again will you have to wonder who‘s on the other end of the line – Call ID -  Call Blocker will take care of all your unwanted and unknown calls and messages. Simply enjoy your life without distractions.
+
+Call ID -  Call Blocker is an amazing tool that will help you:
+
+IDENTIFY CALLER-ID INSTANTLY
+Call Blocker immediately tells you whether the person calling you is one of your contacts or possibly a blacklisted number from the database. The app offers you Caller ID lookup, showing your business information instead of only the usual location. You can choose which action to take and get rid of phone spammers forever!
+
+BLOCK ALL UNWANTED CALLERS
+Block all those unwanted numbers - robocalls, auto calls, telemarketers, and other scam callers. Be the one who decides which calls and messages are worth your attention.
+
+CHOOSE BLOCK OR IDENTIFY FOR EVERY CATEGORY
+The app shows you caller ID or blocks calls automatically based on your preferences. You can choose a different setting for each category for the database - so block spam, scam, and telemarketing calls but let the app identify trustworthy numbers or unknown callers.
+
+PROTECT YOUR INCOMING MESSAGES
+From now on, you can filter your incoming text messages with keywords. The app will detect the entered keyword in your texts and filter it into a junk folder.
+
+USE THE UP-TO-DATE DATABASE
+The app compares all your calls with the numbers in our database. The database is updated regularly to ensure your privacy and security. We deal with unwanted numbers so you don’t have to.
+
+ADD NUMBERS TO THE DATABASE
+Add numbers of unwanted callers to a user-shared database. We’ve got your privacy covered and will never share any of your contacts with the list.
+
+CREATE YOUR OWN BLACKLIST
+Decide what to do with unwanted callers. Do you want to block them from ever calling you? Or do you want to leave them access but be warned when their number comes up? Or do you want to deal with each number individually? It's all up to your decision.
+
+REVERSE LOOKUP AND SEARCH NUMBERS
+You can also compare any missed calls from unknown numbers with the database list and find out the identity of the caller easily.
+
+BACK UP YOUR BLACKLIST
+Back up your blacklist and access it easily by signing into your account and sharing it across all your devices.
+
+Privacy Policy: https://callid.tvremotescreenmirroring.com/policy
+Terms of Use: https://callid.tvremotescreenmirroring.com/terms",2020-09-13T07:00:00Z,2025-11-18T19:57:36Z
+ms,Montserrat,Utilities,6002,4,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/ms/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.45,20,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+ms,Montserrat,Utilities,6002,5,988012514,My inwi,Wana Corporate,https://apps.apple.com/ms/app/my-inwi/id988012514?uo=4,0.0,5,5,Utilities,"Avec l’application my inwi, pilotez toutes vos lignes mobiles et internet facilement et en toute autonomie.
+
+ - Suivez en temps réel votre consommation en détails, et gardez un œil sur votre solde appels, sms et internet.
+ - Rechargez votre ligne ou celle d’un proche en toute sécurité avec votre carte bancaire ou votre carte de recharge et reportez le paiement de votre facture. 
+ - Optez pour un forfait mobile à tout moment depuis votre appli via la rubrique « Ma ligne ». 
+ - Payez vos factures ou celles d’un proche et programmez aussi le rappel d’échéance.
+ - Activez votre Roaming en un clic! Consultez les tarifs par zone et par pays en activant le pass qui vous convient.
+ - Profitez et souscrivez aux services inwi de votre choix en quelques clics. 
+ - Bénéficiez de cadeaux chaque mercredi grâce au club inwi. 
+Faites-vous aider, My inwi vous permet de t’chatter en direct avec un conseiller inwi, récupérer votre code puk, suspendre votre ligne en cas de perte ou vol de votre téléphone, initier l’envoi du SMS de paramétrage de l’internet sur mobile, accéder au formulaire de contact pour les demandes d’informations.
+
+L’application My inwi ne consomme pas votre solde internet lors de la navigation et est téléchargeable gratuitement sur AppStore.",2015-06-04T15:08:19Z,2025-11-21T16:59:26Z
+ms,Montserrat,Utilities,6002,6,977903572,查快递-物流状态跟踪,祥琦 孔,https://apps.apple.com/ms/app/%E6%9F%A5%E5%BF%AB%E9%80%92-%E7%89%A9%E6%B5%81%E7%8A%B6%E6%80%81%E8%B7%9F%E8%B8%AA/id977903572?uo=4,0.0,0,0,Utilities,"【产品简介】
+    非常方便的快递查询工具，实时同步各大快递公司数据，支持淘宝，京东，天猫的包裹；支持顺丰，圆通，申通，韵达，德邦，中通，百世，邮政，EMS，DHL，中外运敦豪等国际，国内快递公司，支持物流状态更新提醒。
+
+【产品特色】
+1.实时同步各大快递公司数据，没有延迟。
+2.支持新状态提醒。
+3.可以找到附近快递公司联系方式。
+4.可以直接找到附近快递小哥的电话。
+
+
+ 【联系方式】
+ cnmaps@qq.com
+
+【官方网站】
+ http://www.cnmaps.net
+
+【官方微博】
+http://weibo.com/cnmaps",2016-04-13T18:32:13Z,2025-06-16T13:22:25Z
+ms,Montserrat,Utilities,6002,7,6463403383,Mix VPN - Fast & Unlimited,"GUAVA BRAVO TECHNOLOGY, LLC",https://apps.apple.com/ms/app/mix-vpn-fast-unlimited/id6463403383?uo=4,0.0,0,0,Utilities,"Discover the pinnacle of security and privacy with Mix VPN, an advanced Virtual Private Network solution designed to safeguard your online activities. Mix VPN offers unparalleled features that ensure a secure and confidential connection to the Internet, setting a new standard in digital protection.
+
+
+
+Mix VPN is a robust implementation of Virtual Private Network technology, offering a secure and private Internet connection.
+
+
+
+Key Features of Mix VPN:
+
+
+
+1. Strict no-logs policy:
+
+
+
+Mix VPN ensures your browsing history and personal data are never logged or collected.
+
+
+
+2. Multi-hop function:
+
+
+
+Utilize sequences of servers to enhance your anonymity and security online. Our AI-based server selection feature intelligently chooses servers based on real-time channel conditions specific to your current location.
+
+
+
+3. Kill-Switch:
+
+
+
+Kill-switch feature automatically blocks internet traffic if the VPN connection drops, ensuring your data remains protected.
+
+
+
+4. Impressive speed:
+
+
+
+Benefit from high connection speeds across our VPN servers.
+
+
+
+5. State-of-the-art encryption:
+
+
+
+We employ the IKEv2 protocol to maximize your online data security.
+
+
+
+6. Global server network:
+
+
+
+Connect to servers in over 10 countries worldwide with Mix VPN.
+
+
+
+7. User-friendly interface:
+
+
+
+Enjoy advanced protection with an intuitive setup that's accessible to everyone.
+
+
+
+8. 24/7 customer support:
+
+
+
+Our team is available round-the-clock to assist you with any inquiries.
+
+
+
+Mix VPN acts as your trusted online shield, safeguarding privacy and granting access to Internet resources while protecting you from threats like hacking, fraud, and unwanted data surveillance.
+
+Subscription Details:
+
+Subscribe now for ad-free full access!
+Experience our service with a free three-day trial, which automatically converts to a paid subscription.
+Choose from weekly, monthly, or annual subscription plans.
+Payment will be charged upon purchase confirmation.
+You can cancel anytime before the current period ends to avoid auto-renewal.
+Manage your subscription and disable auto-renewal in your account settings after payment.
+Unused trial periods will be forfeited upon subscribing.
+For more details, refer to our privacy policy at https://guavabravotechnology.com/privacy.html and our EULA at https://guavabravotechnology.com/eula.html.",2023-09-25T07:00:00Z,2025-11-16T13:45:04Z
+ms,Montserrat,Utilities,6002,8,535886823,Google Chrome,Google LLC,https://apps.apple.com/ms/app/google-chrome/id535886823?uo=4,0.0,4.66667,39,Utilities,"Chrome helps you do what's possible on the web. Download the fast, secure browser by Google.
+
+GET THE BEST OF GOOGLE IN CHROME
+
+• SEARCH WITH GOOGLE – search and get answers on Google fast. Use your voice to search hands-free.
+• GOOGLE LENS – search what you see on your screen or with your camera.
+• GOOGLE TRANSLATE – explore the web in 130+ languages. Translate entire websites in one click.
+
+BROWSE WITH BEST-IN-CLASS SECURITY
+
+• ENHANCED PROTECTION MODE – browse confidently with the highest level of Chrome's security.
+• SAFETY CHECK – get peace of mind with proactive safety alerts.
+• GOOGLE PASSWORD MANAGER – securely generate and save passwords for fast sign-in, and get alerts if your passwords are at risk.
+
+ACCESS YOUR CHROME ACROSS DEVICES
+
+• SYNC ACROSS DEVICES – save your things (like bookmarks, tabs and passwords) and easily access them when you sign in to Chrome on your phone, computer or tablet.
+• TAB GROUPS – create tab groups to stay organised across devices.
+• AUTOFILL – save time typing by autofilling your saved payments, addresses and passwords.",2012-06-28T19:57:38Z,2025-11-20T15:29:06Z
+ms,Montserrat,Utilities,6002,9,576309271,Zapya - File Sharing,"Lindong Network Technology(Beijing) Co.,Ltd.",https://apps.apple.com/ms/app/zapya-file-sharing/id576309271?uo=4,0.0,4,2,Utilities,"File sharing has never been simpler! Without the need of a cable or cellular data, you can share files from device to device for free with Zapya. Zapya allows you to seamlessly transfer massive files across multiple platforms with speeds up to 10MB/second or up to 260 pictures in a minute. 
+
+Looking to quickly connect with someone nearby? With the support of GPS location, Zapya provides a fast and accurate way to find nearby devices. You can also shake your devices at the same time in order to connect. Zapya can support USB Backup and Restore on iPad.
+
+Another way to connect on Zapya is via QR Codes. You can generate a personalized QR code in order to share multiple files at once. Others just need to scan the QR code to have the files to instantly start downloading onto their phone. Without touching your keyboard, you can share files to others! 
+
+If you have important files on your device that you do not want others to have access to, you can select and lock those files into a hidden folder. By doing this, the next time you go to share files with someone; they will not be able to see or access those files.  
+
+Besides sharing files, you can chat offline with up to five other devices using Zapya. You can also move the phone log and photos from your old device to your new phone in a matter of minutes. Or if you want to take photos remotely, you can use the PeerCam feature and control the camera of a connected device with peer permission. 
+
+If you like Zapya, please give us reviews and high ratings. Your support is much appreciated!
+
+If you experience any issues or have any suggestions, please send feedback to us within the app or contact: feedback@dewmobile.net.
+
+Disclaimer: This app may use your location even when it is not open, which can decrease device battery life.",2012-12-13T02:37:41Z,2025-08-04T04:31:45Z
+ms,Montserrat,Utilities,6002,10,1137509279,إدارة الملفات (حمّل),Waraqat Group,https://apps.apple.com/ms/app/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AD%D9%85-%D9%84/id1137509279?uo=4,0.0,4.71429,7,Utilities,"تطبيق إدارة الملفات (حمّل) .. برنامج متكامل لإدارة ملفاتك ، وترتيبها ، وتحميلها ، وحفظها إلى الاستديو مباشرة
+
+مميزات تطبيق إدارة الملفات:
+- قسم خاص بإدارة جميع الملفات ، وإمكانية إنشاء المجلدات لترتيب الملفات أو نقلها أو تعديلها
+- إمكانية تحميل الملفات بسهولة من خلال الرابط مباشرة
+- خاصية الوضع الليلي
+- إمكانية حماية التطبيق بكلمة سر
+- إمكانية تثبيت نغمات للجوال
+- إمكانية البحث عن الملفات داخل التطبيق
+- إمكانية الحفظ التلقائي في الاستديو بعد الانتهاء من التحميل
+- إمكانية إنشاء ملصقات للواتساب
+- إمكانية الكتابة على الفيديو
+- إمكانية تثبيت المجلدات أو الملفات
+- إمكانية دمج الترجمة مع مقاطع الفيديو
+- إمكانية حذف الموسيقى من الصوت أو الفيديو
+- تحويل أي مقطع صوتي إلى MP3
+- إمكانية عمل مسح ضوئي للمستندات
+- إمكانية تحويل الفيديو إلى GIF
+- إمكانية تشغيل ملفات الترجمة من خلال مشغّل الفيديو
+- ميزة تسريع وتبطيء وعكس اتجاه مقاطع الفيديو
+- سلة مهملات داخل قسم الملفات لتسهيل استعادة الملفات عند الحاجة
+- إمكانية تغيير ألوان التطبيق وتعيين خلفية خاصة للواجهة
+- إمكانية مشاهدة الفيديو عبر كروم كاست وأبل تي في
+- إمكانية رفع الصور للإنترنت
+- إمكانية قفل المجلدات بكلمة سر
+- إمكانية إنشاء قائمة تشغيل مخصصة
+- إمكانية ضغط صور JPG و PNG
+- إمكانية إزالة خلفية الصورة بضغطة واحدة
+- إمكانية قراءة الباركود من الصورة
+- إمكانية استخراج النصوص من الصورة
+- إمكانية تلوين المجلدات
+- إمكانية ترتيب الملفات بشكل يدوي
+- إمكانية المزامنة والنسخ الاحتياطي عبر الآيكلاود
+- إمكانية تكرار أي مقطع بشكل تلقائي بعد الانتهاء من التشغيل ، أو الانتقال للمقطع التالي ، أو اختيار مقطع آخر بشكل عشوائي
+- إمكانية إيقاف التحميل واستئنافه لاحقاً
+- إمكانية تشغيل الصوت أو الفيديو في الخلفية
+- دعم تحميل عدة مقاطع دفعة واحدة ، وإمكانية تحميلها جميعاً في الخلفية
+- إمكانية استيراد مقاطع الفيديو من الاستديو وتخزينها وتحريرها
+- إمكانية تخزين الروابط من خارج التطبيق دون الحاجة لدخول التطبيق ، ثم تحميلها بشكل متتابع عند الدخول
+- التحكم بمقاطع الفيديو أو الصوت من خارج التطبيق عبر الانتقال للمقطع التالي أو السابق ، أو عبر تقديم المقطع أو تأخيره
+- إمكانية تحرير الصور بشكل كامل من خلال التطبيق وإمكانية حذف خلفية الصورة أو جزء منها بشكل احترافي
+- إمكانية دمج صورة مع صوت ، أو عدة صور مع عدة مقاطع صوتية
+- إمكانية دمج عدة مقاطع فيديو من خلال التطبيق
+- إمكانية دمج عدة مقاطع صوتية من خلال التطبيق
+- إمكانية تغيير الصوت الخاص بمقطع الفيديو من خلال دمج مقطع صوتي فوقه
+- إمكانية كتم صوت الفيديو
+- إضافة ميزة تحويل مقاطع الفيديو إلى ملفات صوتية مباشرة عبر التطبيق
+- إضافة ميزة تحرير مقاطع الفيديو بداخل التطبيق
+- إضافة إمكانية إنشاء نسخة للملفات
+- إضافة خاصية قفل الطفل ، لمنع الطفل من الخروج من التطبيق أثناء التشغيل
+- إمكانية التقديم أو التأخير عشر ثواني عند عرض الفيديو عبر الضغط مرتين في الجهة اليمنى أو اليسرى
+- إمكانية تسريع مقاطع الفيديو أو تبطيئها حسب الرغبة
+- إمكانية حذف أو نقل أو حفظ عدة ملفات إلى الاستديو دفعة واحدة
+- إمكانية التحميل عبر الضغط على كلمة ""تحميل"" ، بدون الحاجة للصق الرابط
+- إمكانية ضغط الملفات من خلال التطبيق
+- إمكانية تحميل الصور والمستندات مثل الكتب والمستندات والنصوص والصور وغيرها إذا كانت عبر رابط مباشر
+- إمكانية إنشاء مجلدات لترتيب الملفات بعد التحميل مباشرة حسب النوع أو المصدر
+- إمكانية ترتيب الملفات حسب الحجم أو الاسم أو النوع أو التاريخ
+- إمكانية إزالة الملفات المؤقتة لتقليل حجم التطبيق
+
+وغيرها من المزايا التي سنتركها لك لتكتشفها بنفسك ..
+
+
+-- ""Remove Ads"" Subscription --
+- Enjoy the app without the interruption of any ads. All for 0.99$/month!
+Subscribe now and your first two weeks are free.*
+
+
+Your payment will be charged to your iTunes account at confirmation of purchase. Your subscription will automatically renew each month 24-hours before the end of the current period, and your credit card will be charged through your iTunes account unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn off auto-renew at any time from your iTunes account settings. Any unused portion of a free trial period, if offered, will be forfeited when you purchase a subscription to that publication, where applicable.
+
+Privacy Policy: https://hammel.in/privacy
+Terms of Service: https://hammel.in/terms
+
+* Promotional offers are for new subscribers only.",2016-12-20T14:41:16Z,2025-11-17T03:29:21Z
+ms,Montserrat,Utilities,6002,11,1503251395,VPNIFY - Unlimited VPN,Neonetworks solution ltd,https://apps.apple.com/ms/app/vpnify-unlimited-vpn/id1503251395?uo=4,0.0,4.73684,19,Utilities,"vpnify is the best VPN & UNLIMITED 100% FREE high speed VPN Proxy on for your iOS device. It is highly secure with military-grade encryption so you can safely navigate public, business and school networks. 
+ 
+ 
+In General: 
+- easy to use one-click connect to secure your connection 
+- multiple high-speed dedicated VPN servers 
+- no bandwidth usage limitations for streaming and downloading 
+- there is no VPN trial - Full unlimited VPN, no session limitations 
+- no registration necessary 
+- stable connection wherever you go - home and abroad 
+- you’re privately incognito browsing when tunnelling traffic 
+- ultra-fast VPN speeds for blazing-fast connections 
+- Hotspot VPN protection, a hotspot shield security APP 
+- Express VPN speeds you can call it a turbo for your VPN 
+- it's like a Private Internet Access, super VPN for free 
+ 
+ 
+ 
+Security with vpnify: 
+- Encrypted secure DNS to prevent bad actors from snooping 
+- traffic encryption 
+- DNS & IP leak-protected connections 
+- we won't store traffic logs, it’s a perfect private browsing VPN 
+- get a new, fresh, IP and do the IP vanish 
+ 
+vpnify is a free VPN proxy. Browser without limits. It is a totally unlimited and free virtual private network. Quickly establish a connection simply by touching connect. We are the VPN Teachers, who provide you with an Internet network: a better Internet.
+ 
+ 
+The use cases for vpnify are really unlimited; 
+- a simple way to add an additional layer of security to your privacy 
+- Use it in public networks to avoid personal data loss 
+- Protect yourself from harmful APPs that collect your IP and track your location data 
+- watch videos and movies through a VPN proxy  
+- access to social networking sites
+- VoIP messaging chat applications
+ 
+ 
+Where can I use vpnify? 
+We do not limit the use. With dozens of servers at multiple locations, we can make sure it's a VPN for everyone. 
+ 
+ 
+ 
+The VPN works great everywhere! 
+ 
+The locations are available as follows: 
+ 
+- VPN USA (East and West Coast) 
+ 
+- VPN United Kingdom (London and Manchester) 
+ 
+- VPN Netherlands 
+ 
+- VPN Germany 
+ 
+- VPN Singapore 
+ 
+- VPN Spain 
+ 
+- VPN France 
+ 
+- VPN India 
+ 
+- VPN Canada 
+ 
+- VPN Canada 
+ 
+- VPN Japan 
+ 
+- VPN France 
+ 
+- VPN Italy 
+ 
+- VPN Austria 
+ 
+- VPN Australia 
+ 
+- VPN Switzerland 
+ 
+- VPN Belgium 
+ 
+- VPN Romania 
+ 
+- VPN Hungary 
+ 
+ 
+ 
+ 
+ 
+vpnify, a genuinely free super power VPN. 
+ 
+ 
+We do our best to cover worldwide usability and bring you a great internet experience. 
+ 
+Unfortunately, we cannot guarantee a 100% availability in every country. Should there be problems with connecting in your country, please contact us by submitting feedback within the APP (if possible leave us your skype name), we'll try to make it work!
+
+Our Terms of services can be found at: https://vpnifyapp.com/tos",2020-07-31T07:00:00Z,2025-09-17T16:30:14Z
+ms,Montserrat,Utilities,6002,12,1117941776,MPT4U,Myanma Posts and Telecommunications,https://apps.apple.com/ms/app/mpt4u/id1117941776?uo=4,0.0,3,1,Utilities,"The New and Amazing MPT4U is here! With exciting new features. Specially for you!!
+Absolutely FREE to use on MPT network. Anytime, anywhere. 
+New feature, auto renewal data pack and Kyin Kyin Nar Nar Pack are available in MPT4U.
+Enjoy Free MPT Club membership. With great promotional offers and Daily Free Hti Pauk.
+New and convenient design to make most out of it. Personalized experience in your preferred language. Enjoy most convenient features, no matter where you are. 
+Play MPT Hti Pauk and Win Exciting Prizes daily - ONLY on MPT4U.
+Special Offers customized as per your requirements. 
+Manage account and services easily.
+For all your requirements, one stop application. 
+MPT4U is most Useful, Convenient and Secure application. With improved features and simple interface. 
+
+Most Loved Features of MPT4U:-
+•	Data FREE Usage on MPT Network.
+•	FREE MPT Club membership and Daily FREE Hti Pauk.
+•	Special Offers and Packages for everyone. 
+•	Easily Topup –MPT Money, Scan QR Code
+•	Easily and Flexible Loan and Balance transfer
+•	Manage account, Check usage history, Subscriptions, etc.
+•	Gift Packages or Topup to your loved ones. 
+•	Topup & Package Purchase history
+•	Notifications of latest offers from MPT
+•	Many more useful and convenient features at your fingertips.",2016-06-07T20:10:09Z,2025-10-31T02:26:25Z
+ms,Montserrat,Utilities,6002,13,1571429529,Samsung Smart Switch Mobile,"Samsung Electronics Co., Ltd.",https://apps.apple.com/ms/app/samsung-smart-switch-mobile/id1571429529?uo=4,0.0,0,0,Utilities,"▣ How to easily transmit content from iPhone to Galaxy.
+Smart Switch can move contacts, calendar events, reminders, photos and videos to Galaxy devices.
+* Note: After the data transfer is completed, the data of the sender device is maintained (Not deleted).
+
+▣ How can I send it?
+- Search and run Smart Switch in the settings of Galaxy device.
+- Search and download “Samsung Smart Switch” from App Store and connect and send it according to the guide.
+
+▣ What can I send?
+- Contacts, calendar events, reminders, photos, videos
+* You can use the USB connector to send more items when connecting.",2021-06-10T07:00:00Z,2025-11-03T02:44:58Z
+ms,Montserrat,Utilities,6002,14,1165276801,Calculator# Hide Photos Videos,Salman Ashraf,https://apps.apple.com/ms/app/calculator-hide-photos-videos/id1165276801?uo=4,0.0,0,0,Utilities,"It looks like a Calculator but it secretly hides your confidential Photos, Videos, Documents, Passwords, Notes, Contacts and To Dos. It disguises itself as a Calculator to make it impossible for prying eyes and hackers from discovering it. It is the most feature-rich app in the market in Security Category.
+
+Features:
+
+- Hide Photos and Videos from Gallery.
+- Automatically Deletes them from Gallery (Optional).
+- Take Pictures and Videos from Camera.
+- Password-Protect Documents and other Files.
+- Lock Audios and take Secure Voice Notes.
+- WiFi Transfer from PC, Mac or other devices.
+- A built-in Web Browser to Download Files.
+- A built-in Password Manager and Wallet.
+- A built-in Secure Notes, To Dos & Reminders.
+- A built-in Contacts Manager and Importer.
+- Backup using Cloud Service like Dropbox.
+- Panic Switch, Disguise Mode & Hack Monitoring.
+- Calculator, Pin, Password, Pattern & Touch/Face ID.
+- Works on iPhone and iPad with GUI for both.
+
+Photos & Videos:
+No need to keep your family, private or secret photos & videos in iPhone gallery. The app even deletes these files from your Photos when you move them to the app when needed.
+
+Gallery:
+A built-in secret gallery allows you to organize, view and play all your hidden images and videos inside a protected and discreet interface. 
+
+Audios:
+Lock private and confidential audio recordings and conversations and hide specific music files through the phone’s internal storage.
+
+Notes:
+Whether you want to create a list of secret things you keep in your documents or write down your private feelings; you can do so securely with the ‘Notes’ feature. 
+
+Documents:
+Secure your confidential documents. You can transfer them even from your PC or Mac using WiFi transfer or from a built-in browser to your iPhone or iPad.
+
+Contacts:
+Now you can import your iPhone contacts or create secret contacts inside app to call secretly.
+
+To Dos:
+Every once in a while, we have some tasks we just don't want to be seen by anyone no matter what. This is why we have for you a secret to do list as well.
+
+Passwords:
+Create and lockdown sensitive credentials like your website logins, bank accounts, computer logins, credit cards, email accounts, social networks, e-banking, instant messenger etc.
+
+Cloud Backup:
+Conveniently backup your locked data into Dropbox. Prevent loss of sensitive data and restore your data in case of loss or theft of device. 
+
+Lost Password Recovery:
+You don’t have to worry about forgetting your password. You can conveniently, retrieve your lost password through your registered email. 
+
+Security Locks:
+You have the option to setup a Calculator, Touch/Face ID, PIN, Pattern or Password. You can even turn off everything completely.
+
+Panic Switch:
+Prevent shoulder surfers and snoopers from seeing your sensitive data, enable panic switch to quickly switch to another app.
+
+Disguise Mode: 
+Confuse snoopers by enabling a fake error message box, it displays a fake crash notification to thwart further attempts on hacking your data.
+
+Hack Monitor:
+Tells you who has been trying invalid passwords to try to open your vault. Logs all such attempts and shows it to you.
+
+Calculator# is free with ads and limitations and you can purchase it to get a fully-functional and ad-free version for a year.
+
+Calculator# subscription plans:
+
+Annual: $4.99
+
+Payments and Renewal:
+
+Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+
+Account will be charged for renewal within 24-hours prior to the end of the current period.
+
+You can manage or turn off auto-renew in your Account settings at any time after purchase.
+
+No cancellation of the current subscription is allowed during the active period.
+
+End User License Agreement: https://www.newsoftwares.net/ns-vault/license 
+
+Terms of use: https://www.newsoftwares.net/legal/terms/
+Privacy policy: https://www.newsoftwares.net/legal/privacy/",2016-11-24T11:18:11Z,2025-11-21T05:42:29Z
+ms,Montserrat,Utilities,6002,15,6471257645,Screen Mirroring App: Smart TV,Desidari holding ltd,https://apps.apple.com/ms/app/screen-mirroring-app-smart-tv/id6471257645?uo=4,0.0,0,0,Utilities,"Elevate your TV watching experience with Screen Mirroring!
+This easy-to-use yet functional app turns your small mobile screen into a big one, allowing you to cast your favorite photos and videos from your smartphone directly to your TV. Not only can you share your personal media, but you can also watch IPTV and web videos on a larger display, bringing a cinema-like experience right into your living room.
+
+Basic features:
+
+-Cast photos and videos
+-Watch IPTV
+-Stream Web videos
+-Real-time streaming with no delays
+
+But that's not all! 
+Screen Mirroring goes beyond just casting. It includes an in-built IPTV player, allowing you to effortlessly stream various channels. Plus, it features a live camera for incoming calls, so you never miss a moment, even when you're engrossed in your big-screen viewing.
+
+So why wait? Get the app now and dive into a world of high-quality, large-scale entertainment! 
+
+SUBSCRIPTION INFORMATION:
+Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. The cost of the renewal depends on your subscription plan. Subscriptions may be managed and auto-renewal can be turned off in the user’s Account Settings. Any unused portion of a free trial period (if offered) will be forfeited when you purchase a premium subscription during the free trial period.
+
+Privacy Policy: https://tv-screen-mirroring.app/pp
+Terms of use: https://tv-screen-mirroring.app/tou
+Support: support@tv-screen-mirroring.app",2023-11-23T08:00:00Z,2025-09-16T19:39:09Z
+ms,Montserrat,Utilities,6002,16,1063274955,Files Locker Keep Datas Safety,惠满 贺,https://apps.apple.com/ms/app/files-locker-keep-datas-safety/id1063274955?uo=4,0.0,0,0,Utilities,"About
+• It is the best and most Private photos, videos, audios and texts app for iPhone/iPad/iPod touch. 
+• Millions of people need it to keep their photos, videos, audios and texts hidden & locked. 
+• With it, you can lock and manage your private photos, videos, audios and texts very easily.
+• With it you can protect your privacy very securely with lots of features.
+• It support 123/Abc password lock.
+
+Manage Folders 
+• Create, Delete, Rename.
+• Multiple folders can be handled at a time.
+
+Manage Files 
+• Add photos, videos and texts from Computer, Camera, Photo Library or Files App.
+• Sort by Date, Type, Name, Size, Ascending or Descending(click again to switch) .
+• Import, Export, Move, Delete, Rename, Search.
+• Multiple files can be handled at a time.
+
+Security 
+• You can lock it with 123/Abc password.
+• It Support decoy accounts to protect your real privacy.
+• With only one password, you can easily lock your medias(private photos, videos, audios and texts).
+
+Communicate with computer 
+• USB Import/Export multiple folders or files from/to iTunes File Sharing. 
+• You can store any files what you like, the importing files will be sorted automatically into 3 kinds: ""Photo, Video, Audio and Texts"".
+• The exporting files/folders will be merged into one folder called ""Export"" in iTunes. For security reason, they will be moved back to app once you stop exporting.
+• Import/Export multiple folders or files from/to iTunes in current directory simply.
+
+Metadata 
+• File Metadata:File name, count, size, type, modify date, create date, duration.
+
+Share 
+• Send photos/videos/audios/texts via Email.
+• Send photos/videos/audios/texts via MMS.
+• Export photos/videos/audios/texts to Photo Library.
+• Export photos/videos/audios/texts to Computer.
+• Multiple files can be handled at a time.
+
+More 
+• It has Two interface modes: Grid and List.
+• Private Support Pinch and Double Tap to zoom.
+• It support Retina Display totally.
+
+Note 
+• All of your data in it is stored only in your device. We don't access or store your privacy.
+• All your photos, videos and texts files stored in Private Photo, Video and Text Vault are 100% private. 
+• Your photos, videos and texts files are only stored on your device and are never uploaded to our servers. 
+• We have no ability to remotely access your photos, videos and texts files.",2015-12-14T20:11:56Z,2025-02-02T20:32:02Z
+ms,Montserrat,Utilities,6002,17,1670649189,TV Remote - Universal,Zap Software Studio BV,https://apps.apple.com/ms/app/tv-remote-universal/id1670649189?uo=4,0.0,0,0,Utilities,"With Universal Remote, you can control your Smart TV with just your phone!
+This versatile app supports a wide range of TV brands and models, eliminating the need for multiple remote controls. 
+
+Download Universal Remote today and simplify your TV-watching experience!
+
+It works with the most popular brands:
+- LG
+- Roku
+- Samsung
+- Sony
+- Philips
+
+This application is an independent development, compatible with the mentioned brands or companies, but it is not officially related to or associated with them in any way.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://zap.studio/privacy-policy/",2023-02-10T08:00:00Z,2025-09-20T04:42:30Z
+ms,Montserrat,Utilities,6002,18,6737188111,Owl Translator,"Seho Energy Co., Limited",https://apps.apple.com/ms/app/owl-translator/id6737188111?uo=4,0.0,0,0,Utilities,"Owl Translator, a comprehensive and potent language translation solution. It offers instant translation for text, images, and audio. Additionally, it provides you with travel emergency essential phrases and a daily learning feature of celebrity quotes, enriching your language learning adventure.
+Key Features:
+Instant Text Translation: Supports on-the-spot text translation in over languages.
+Image Translation: Snap a photo to swiftly translate the text within.
+Audio Translation: Record audio and convert it to another language.
+Travel Emergency Phrases: Supplies commonly used expressions for travel, facilitating easy communication in emergencies.
+Daily Celebrity Quote Learning: Discover a selected celebrity quote daily and re-enter it in the text box to enhance memory.
+Multilingual Capability: Translate between various languages, including popular ones like English, French, German, Japanese, and many others.
+Why Select Us?
+Intuitive Interface: Easy to operate with an intuitive and simple design, suitable for both beginners and experienced users.
+Secure and Private: Your translations are handled with utmost security and confidentiality.
+How to Utilize: Select the languages for translation.----- Enter the text or use the microphone for translations.----- Obtain your translation.
+
+If you have any questions, please contact us : haiwai3zzz@163.com",2024-10-31T07:00:00Z,2025-04-29T01:54:59Z
+ms,Montserrat,Utilities,6002,19,6670321276,Screen Mirroring | Cast to TV,Ozuna Limited,https://apps.apple.com/ms/app/screen-mirroring-cast-to-tv/id6670321276?uo=4,0.0,0,0,Utilities,"Revolutionize Your Entertainment with Screen Mirroring | Cast to TV
+
+Stay connected and stream effortlessly with Screen Mirroring | Cast to TV. The app lets you mirror your screen or cast your phone to devices like Roku, LG, Chromecast, Fire TV, Samsung Smart TVs, and more. Compatible with iPhone mirroring, AirPlay, Miracast, and Smart View, it delivers seamless streaming and sharp, high-definition quality across all platforms.
+
+How to Connect iPhone to TV:
+1. Open the app and tap the Connect TV button on the home screen.
+2. When prompted, tap Allow in the local network access request window.
+3. Ensure both your phone and smart TV are connected to the same Wi-Fi network and VPN services are disabled.
+4. Wait for your smart TV to appear in the list of devices.
+5. Select your TV and wait for the connection to establish.
+6. If additional steps are required on your TV, follow the on-screen instructions on your phone (e.g., confirm the connection on the TV using Yes or Allow).
+
+Powerful Features for Every Need
+- Full Screen Mirroring
+Mirror your entire screen for gaming, presentations, or enhanced browsing on a larger display with seamless functionality.
+- Cast Web Videos and Cast YouTube
+Stream videos from YouTube or the web effortlessly using our new web video cast and web casting tools. Enjoy high-quality playback straight on your TV!
+- Photo and Video Casting
+Showcase your photo gallery and favorite videos on the big screen with photo mirroring, perfect for reliving memories with loved ones and having a cinema-like experience at home.
+- IPTV
+Stream a variety of channels through live television. With the best online TV streaming, finding live TV streaming options is as simple as ever. Get access to IPTV!
+- Universal Compatibility
+Supports a wide range of smart TVs and streaming devices, including Samsung, Roku, LG, Chromecast, Fire TV, and Vizio, for ultimate flexibility.
+- User-Friendly Setup
+Featuring an intuitive interface with quick-connect options, you can immediately connect to your TV—no complex configurations needed!
+- High-Quality Performance
+Lag-free streaming and crystal-clear visuals ensure you enjoy an unparalleled experience, whether you're casting YouTube on TV or using other features.
+- AI Movie Advisor
+Get a personalized list of movies and series tailored to your taste. Finding the perfect movies to watch has never been easier!
+- Live Camera
+Perfect for turning your device into a video nanny, streaming live presentations, capturing family gatherings, or sharing lessons and sessions in real-time.
+
+*This app provides access to third-party IPTV streams, which are not controlled or modified by the developer. Content availability may vary, and the developer is not responsible for the nature, accuracy, or legality of streamed content. Viewer discretion is advised.
+
+Why Choose Screen Mirroring | Cast to TV?
+This app blends simplicity with cutting-edge streaming, perfect for sharing photos, binge-watching, or presentations. With versatile tools like a web/video caster and reliable cross-platform compatibility, it ensures seamless streaming for any modern home setup.
+
+Elevate Your Streaming Experience
+Unlock the full potential of your devices with Screen Mirroring | Cast to TV. Whether you're using AirPlay, Miracast, Smart View, DLNA, Chromecast, or exploring web video casting features, this app simplifies how you connect and stream. Take control of your entertainment with an app that delivers on every promise, from casting YouTube on TV to mirroring your entire device.
+
+Subscription Information
+Subscriptions are billed to your iTunes Account upon purchase confirmation. Auto-renewal ensures uninterrupted service unless disabled at least 24 hours before the current billing cycle ends. Manage your subscriptions in your Account Settings.
+
+Privacy Policy: https://screen-casting.app/pp.html
+Terms of Use:  https://screen-casting.app/tou.html
+Support available at support@screen-casting.app",2024-10-11T07:00:00Z,2025-11-07T05:16:43Z
+ms,Montserrat,Utilities,6002,20,6504841172,VioSecure VPN,"Shanghai Dajing Packaging Material Co.,Ltd.",https://apps.apple.com/ms/app/viosecure-vpn/id6504841172?uo=4,0.0,0,0,Utilities,"Discover VioSecure VPN, your free, reliable choice for secure online browsing. With just one tap, connect instantly to our fast and stable servers worldwide. Safeguard your privacy and data with our top-notch encryption technology. Enjoy an intuitive interface designed for ease of use.
+Explore the key features:
+- Free to download and use.
+- Instant, one-tap connection.
+- Fast and stable server nodes.
+- Emphasis on privacy and data security.
+- User-friendly interface for seamless navigation.
+Protect your online activities today with VioSecure VPN. Download now and experience secure internet access wherever you go.
+
+VioSecure Premium VPN Subscriptions:
+Annual plan:  $49.99/year.
+Week plan: free 3day trial, then $4.99/week.
+
+Payments are made through the App Store and subscriptions automatically renew unless auto-renew is turned off at least 24-hours before the end of the subscription period
+
+Privacy Policy: https://vio-vpn-9f69c.web.app/privacy.txt
+Terms of Conditions:https://vio-vpn-9f69c.web.app/terms.txt",2024-07-08T07:00:00Z,2025-11-20T18:23:48Z
+ms,Montserrat,Utilities,6002,21,6746147624,CiCaa,Thu Trinh Tieu,https://apps.apple.com/ms/app/cicaa/id6746147624?uo=4,0.0,0,0,Utilities,"Discover timeless cinema, one film at a time.
+ CineClassics is your daily companion for exploring the most iconic and influential films in history. From masterpieces like Rashomon to hidden gems of world cinema, each entry offers curated insights, mood-based viewing tips, and beautiful poster art — all in a clean, offline experience.
+ Create your own entries, save your favorites, and dive into the golden age of film, right from your phone.",2025-05-22T07:00:00Z,2025-06-04T17:59:41Z
+ms,Montserrat,Utilities,6002,22,6741893998,AI扑克记牌器-新一代AI记牌神器，全能智能万能记牌器助手,"Hangzhou Yimu Keshi Technology Co., Ltd",https://apps.apple.com/ms/app/ai%E6%89%91%E5%85%8B%E8%AE%B0%E7%89%8C%E5%99%A8-%E6%96%B0%E4%B8%80%E4%BB%A3ai%E8%AE%B0%E7%89%8C%E7%A5%9E%E5%99%A8-%E5%85%A8%E8%83%BD%E6%99%BA%E8%83%BD%E4%B8%87%E8%83%BD%E8%AE%B0%E7%89%8C%E5%99%A8%E5%8A%A9%E6%89%8B/id6741893998?uo=4,0.0,0,0,Utilities,"《AI扑克记牌器》官方首发上线！2025新一代AI记牌神器！
+【AI识别准确率>99%】
+毫秒级动态捕捉，亿级数据训练，AI识别准确率>99%！
+- 支持AI识别出牌记录：各家出牌记录，支持2-6人玩法
+- 支持AI识别剩余牌数：全局剩余牌数，支持1-6副扑克
+- 支持AI识别炸弹概率：红色炸弹提示，支持全牌局警惕
+【支持扑克游戏>300款】
+支持斗地主、跑得快、双扣、掼蛋、510K、干瞪眼、挖坑、锄大地、红十、A3纸牌、红五、三代，持续更新中！
+支持自定义玩法，覆盖全国地方扑克玩法，各地玩法一应俱全！
+- 支持斗地主记牌器：微乐斗地主、哈灵斗地主、JJ斗地主、边锋斗地主、闲逸斗地主等
+- 支持跑得快记牌器：微乐跑得快、边锋跑得快、多乐跑得快、湖南跑得快、丽水跑得快等
+- 支持双扣记牌器：微乐双扣、同城游双扣、哈灵双扣、温州双扣、茶苑双扣等
+- 支持掼蛋记牌器：边锋掼蛋、微乐掼蛋、大掼蛋、天天爱掼蛋等
+- 支持干瞪眼记牌器：边锋干瞪眼、微乐干瞪眼等
+- 支持红十记牌器：微乐红十、同城游红十等
+- 支持游戏合集记牌器：浙江游戏大厅、微乐家乡麻将、中至麻将、哈灵麻将、牌乐门等
+【7X12小时官方团队服务】
+我们坚持专注、极致、口碑，坚持做好用户体验。坚持和用户交朋友，倾听用户意见
+任何问题，联系我们：
+- 官方公众号：AI扑克记牌器APP
+- 官方企业邮箱：business@aijpq.com
+【核心原理声明】
+AI扑克记牌器是基于OCR的文字识别工具，仅通过识别和提取屏幕上的数字和文字进行记录，其技术原理与用户使用纸笔记录或截图保存行为完全一致，不具备任何自动化决策、行为预测或游戏交互功能。绿色APP请放心使用，APP采用本地录屏识别技术，所有识别存在本地进行，绝对保护用户隐私。您只能在正常娱乐场合使用本应用，须遵守软件及游戏协议与相关规定",2025-05-12T07:00:00Z,2025-11-11T20:47:07Z
+ms,Montserrat,Utilities,6002,23,6739803645,PDF Reader - Viewer&Scanner,APPWORDS HK LIMITED,https://apps.apple.com/ms/app/pdf-reader-viewer-scanner/id6739803645?uo=4,0.0,0,0,Utilities,"The Ideal Tool for Managing and Creating PDF Documents!
+
+Welcome to our PDF reader and creation tool, designed to make your work and life more efficient. Whether you need to read, edit, or create PDF files, we provide all the essential features.
+
+- Efficient Reading Experience: Quickly open and read any PDF file with a clean, user-friendly interface focused on the document content.
+- Easy PDF Creation: Convert your documents and images into high-quality PDFs, making them easy to save and share.
+- Intuitive User Interface: A sleek, easy-to-use design that simplifies PDF management and creation.
+- Comprehensive File Management: Organize and sort your PDF files to keep everything in order.
+
+Whether for work, study, or personal document management, our app has everything you need. Download now and experience efficient and convenient PDF management!
+
+Managing PDFs has never been easier!",2024-12-31T08:00:00Z,2025-10-19T14:22:11Z
+ms,Montserrat,Utilities,6002,24,6737263668,Phone Security: Privacy Shield,晴 张,https://apps.apple.com/ms/app/phone-security-privacy-shield/id6737263668?uo=4,0.0,0,0,Utilities,"Phone Security: Privacy Shield – Efficient Mobile Security and Cleanup for Your Phone
+﻿
+Phone Security: Privacy Shield is a comprehensive iOS tool designed to keep your device secure, organized, and optimized. From clearing up storage to ensuring your system is up-to-date, this app helps you maintain peak performance with ease.
+﻿
+Key Features:
+﻿
+1. Comprehensive Cleanup:
+- Automatically detect and remove duplicate photos, blurry images, and large files.
+- Organize and clean up screenshots, hidden photos, and low-quality images to reclaim valuable storage space.
+- Perform a one-tap scan across photos, videos, and system data to quickly clean and optimize your device.
+﻿
+2. Advanced Security Scan:
+- Check if your device is protected with a secure password, safeguarding your personal data.
+- Ensure your Phone is running the latest system updates to stay protected from security risks.
+- Enhance your privacy and security by maintaining up-to-date device settings.
+﻿
+3. Comprehensive Device Info:
+- Access detailed information about your device, including battery health, CPU and RAM usage, network performance, and more.
+- Monitor your device’s performance in real-time to ensure it's running smoothly.
+﻿
+4. Clean Guide:
+- Follow easy, step-by-step guides to clear app caches for popular social media apps like YouTube, WhatsApp, and TikTok.
+- Offload unused apps to free up even more space and keep your device running efficiently.
+﻿
+Phone Security: Privacy Shield gives you the tools to clean, secure, and optimize your Phone, all in one easy-to-use app. Download now to keep your phone running at its best!
+﻿
+
+Choose from the following subscription options for unlimited access to all features:
+﻿
+• Weekly Subscription
+• Yearly Subscription
+﻿
+You may cancel your subscription at any time.
+﻿
+Free trial allows you unlimited access to all features for the duration of 3 days.   Your account will be automatically charged for renewal, based on the annual subscription plan, within 24 hours before the end of the 3 days free trial period.
+﻿
+You can cancel auto-renewal at any time, given that the cancellation is at least 24 hours before the end of the current period.   Any unused portion of a free trial period will be forfeited when making a purchase of an auto-renewing subscription.
+﻿
+Manage your subscription directly from your iPhone
+﻿
+Subscriptions can be managed by the user and auto-renewal can be turned off by going to the Account Settings:
+- Open the Settings app.
+- Tap your name.
+- Tap Subscriptions.
+- Tap the subscription that you want to manage.
+
+For support or more information, reach out to us at: Baker981@163.com
+﻿
+Privacy Policy: https://sites.google.com/view/phone-securit-privacy
+Terms of Use: https://sites.google.com/view/phone-securit-term-of-use",2024-10-28T07:00:00Z,2025-11-24T04:20:26Z
+ms,Montserrat,Utilities,6002,25,6596777532,Hiddify Proxy & VPN,Holistic Resilience,https://apps.apple.com/ms/app/hiddify-proxy-vpn/id6596777532?uo=4,0.0,0,0,Utilities,"Hiddify is an open source software available in https://github.com/hiddify/Hiddify-Next with more than 16K stars in Github.
+
+The key goal of Hiddify is to provide a secure, user-friendly and efficient tunnelling client. It enables you to route all traffic to a remote server of your choose, utilising VPN-Service permission.
+
+Note: We do not provide any server; users are required to ensure their online activities stay private by using use their own self-hosted server or trusted servers. 
+ 
+We support servers with:
+- Normal V2ray/Xray Connection Profile Link
+- Clash Connection Profile Link
+- Sing-Box Connection Profile Link
+
+What is our unique features?
+ - User Friendly
+ - Optimized and Fast
+ - Automatically select LowestPing 
+ - Show user usage information
+ - Easily import sublink by one click using deeplinking 
+ - Free and No ADS
+ - Easily switch user sublinks
+ - more and more
+
+Support:
+- All Protocols supported by Sing-Box 
+- VLESS + xtls reality, vision
+- VMESS
+- Trojan
+- ShoadowSocks
+- Reality
+- V2ray
+- Hystria2
+- TUIC
+- SSH
+- ShadowTLS",2024-10-31T07:00:00Z,2024-10-31T14:52:38Z

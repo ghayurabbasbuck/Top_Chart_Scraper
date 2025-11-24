@@ -1,0 +1,800 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+id,Indonesia,Education,6017,1,1155002964,SafeExamBrowser,ETH Zurich,https://apps.apple.com/id/app/safeexambrowser/id1155002964?uo=4,0.0,1.42748,1179,Education,"SafeExamBrowser (SEB) is a secure kiosk web browser environment used to carry out e-assessments that run on exam servers. SEB opens a web browser without an address and search bar, loads a pre-configured webpage and locks an iPad (or iPhone or iPod Touch) into an assessment kiosk mode. This mode prevents students from switching to other apps (unless additional permitted apps are configured), accessing websites and communicating with other students during an exam. SEB enables secure exams on unmanaged iOS devices like students' own iPads as well as on iOS devices owned and managed by an institution. SEB doesn't use a centralized server or cloud service; it can be configured with an API, configuration files, links and QR codes. It can be used with most web-based quiz and e-assessment systems. For improved security and usability, some exam systems provide additional built-in support for SEB. Currently, SEB integrates especially well with learning management systems (LMS) such as Moodle, OpenOlat, ILIAS and with several non-commercial and commercial exam systems, such as Inspera Assessment, Dugga, Exam.net, EvaExam and Ans.
+
+SEB uses one of the single app modes provided by iOS. After an exam is submitted, SEB can automatically end the app self-lock assessment mode (an exam invigilator could also use a quit password to end the SEB exam session and unlock the device if necessary). 
+
+SEB features an optional Dock displaying buttons for various commands. Instead or in addition, a left slider menu shows a list of open browser tabs and commands which can be used to (if enabled in settings) quit an exam session, jump back to the start page of an exam, reload a web page, and navigate back/forward in the browsing history. 
+
+SEB for iOS uses the same format for encrypted .seb configuration files as the SEB versions for other platforms. Those config files allow to individually configure SEB to display the start page of an exam system or an exam portal page with a list of links to current exams. If SEB for iOS is installed using a mobile device management (MDM) system, its initial configuration can easily be deployed using the ""MDM Managed Configuration"" feature. You can also directly start an exam with an individual configuration in SEB for iOS using a special config hyperlink. This link can be opened by examinees from Safari, Mail or a messenger app. In addition, you can use QR codes containing SEB links or even full, individual configurations. An exam can directly be started in SEB by using the iOS Camera app or the built-in QR code scanner. 
+
+SEB also works together with Apple Classroom, teachers can start individually configured exams on all student devices. See https://safeexambrowser.org/ios for more information.
+
+
+SafeExamBrowser for iOS was developed by Daniel R. Schneider, ETH Zurich, IT Services, based on the original idea of Safe Exam Browser by Stefan Schneider, University of Giessen
+Project concept: Thomas Piendl, Daniel R. Schneider, Damian Büchel, Andreas Hefti, Nadim Ritter, Dirk Bauer, Michael Kern, Kai Reuter, Tobias Halbherr, Karsten Burger, Marco Lehre, Brigitte Schmucki, Oliver Rahs.
+
+Safe Exam Browser is released as freeware. The code is subject to the Mozilla Public License Version 1.1 (the ""License""); you may only use these files in compliance with the License. You may obtain a copy of the License at http://www.mozilla.org/MPL/ .
+
+Important parts of this project have been carried out as part of the program ""AAA/SWITCH – e-Infrastructure for e-Science"" led by SWITCH, the Swiss National Research and Education Network and the cooperative project ""Learning Infrastructure"" (part of the CRUS program ""Information scientifique: accès, traitement et sauvegarde"") coordinated by SWITCH, and was supported by funds from the ETH Board and the State Secretariat for Education, Research and Innovation (SERI).",2017-06-15T17:50:02Z,2025-09-09T01:03:17Z
+id,Indonesia,Education,6017,2,1627501632,Stimuler- English Speaking App,STIMULER PRIVATE LIMITED,https://apps.apple.com/id/app/stimuler-english-speaking-app/id1627501632?uo=4,0.0,4.91963,5151,Education,"Ever wondered how you can ace the IELTS Speaking section or practice your English speaking skills with just your smartphone?
+
+Enter Stimuler! Dive deep into the realm of English speaking practice, meticulously crafted by a team of IITians, a World Public Speaking Champion, and multiple IELTS 8.5 Band achievers.
+
+DOWNLOAD STIMULER NOW! Boasting a community of 300,000+ users from 200+ countries and a glowing 4.8/5* rating, Stimuler isn’t just another English learning app – it's an English-speaking revolution!
+
+Why is Stimuler the talk of the town?
+
+ *   60-Second Magic: Record a 60-second speech and get instant feedback on your pronunciation, fluency, vocabulary, and more in less than 20 seconds. Plus, an immediate IELTS band score to gauge your progress.
+ *   Real-life IELTS Simulation: Industry-first Live Video Mock Tests that mirror the real IELTS experience with our proprietary AI Interviewer. Engage, speak, and receive exhaustive performance insights instantly alongside your overall IELTS Speaking band!
+ *   Speak Your Mind: With over 100 diverse speaking topics, you're spoilt for choice. Perfect for IELTS, TOEFL, or just some casual English conversation practice.
+ *   Speech Insights: Dive deeper than scores. From filler words, pace, and tone to awkward pauses, get a 360-degree view of your speaking prowess.
+ *   Tailored Tips After Every Session: We believe feedback is the breakfast of champions. Get personalized pointers after every session, crafted just for you.
+
+Features that set us leagues apart:
+
+ *   Global Recognition: We're not just loved by our users. We've been spotlighted as one of the top 100 promising apps of 2023 and have the backing of top-tier VCs from Silicon Valley, Japan, and India.
+ *   Proprietary Voice AI Technology: Our state-of-the-art voice AI has been refined using millions of user speeches, spanning every single country on the planet. This ensures unparalleled feedback accuracy and insights.
+ *   Fast and Flexible: Whether you've got hours or just 10 minutes a day, see tangible results with Stimuler. What's more? Every speech gets comprehensive feedback in less than 30 seconds!
+ *   Affordable Premium Perks: At a nominal price of less than $5/month, unlock a universe of features. A tailored practice roadmap of speaking exercises, 15+ full-length IELTS Speaking mock tests, and much more awaits you.
+
+Here's the best part: Stimuler is FREE for everyone. Dive in, practice speaking, gather feedback, and watch yourself transform day by day. For those aiming for the stars, our premium suite is your rocket ship.
+
+From rigorous IELTS speaking preparation to breezy English conversation sessions – Stimuler is your pocket mentor. Flexible, blazing fast, and proven, with users witnessing a whopping 20% enhancement in speaking and conversational skills in just a month!
+
+So, why wait? Whether you're gearing up for your IELTS speaking test or just looking to brush up on your English conversation skills, Stimuler is too good to miss out on. Remember, real progress happens when you practice, not just watch. It's free to download, and it's high time you took your English speaking to the next level.
+
+Speak, Evolve, Triumph!
+
+
+Terms of Use- https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-06-03T07:00:00Z,2025-11-23T09:05:56Z
+id,Indonesia,Education,6017,3,6746177919,Pijar Sekolah: Siswa,"PT. Telekomunikasi Indonesia, Tbk.",https://apps.apple.com/id/app/pijar-sekolah-siswa/id6746177919?uo=4,0.0,2.45454,22,Education,"Kerjakan Ujian Sekolah Digital Langsung dari Aplikasi Pijar Sekolah!
+Dengan aplikasi Pijar, kamu bisa mengerjakan ujian sekolah kapan saja sesuai jadwal yang diberikan guru, langsung dari HP kamu. Tanpa perlu ribet pakai kertas atau pindah ke lab komputer, semua sudah tersedia di aplikasi. Ujian jadi lebih praktis, fokus, dan aman!
+
+Kamu bisa:
+Lihat semua ujian yang sudah dijadwalkan oleh sekolah.
+Membaca soal dan mengerjakan ujian dengan tampilan yang simpel dan nyaman di layar.
+Navigasi soal lebih mudah: bisa pilih nomor, lompat ke soal tertentu, dan lihat mana yang sudah dijawab.
+Melihat timer selama ujian berlangsung agar tahu sisa waktu.
+Jawaban tersimpan otomatis saat waktu ujian habis.
+
+Ujian Aman Tanpa Gangguan
+Selama kamu mengerjakan ujian, aplikasi otomatis akan:
+Memblokir screenshot dan rekaman layar, jadi soal tidak bisa disalin.
+Mematikan notifikasi, jadi kamu tidak terdistraksi sama chat atau notifikasi lain.
+Menonaktifkan split screen, supaya tetap fokus di soal.
+Mengunci tampilan ujian, kamu tidak bisa keluar atau buka aplikasi lain sampai ujian selesai.
+Guru juga bisa menghentikan ujian dari jauh kalau ada hal mencurigakan.
+Jadi kamu bisa ngerjain ujian dengan tenang dan adil, tanpa gangguan dari luar.
+
+Dibuat Khusus untuk Siswa
+Pijar Sekolah cocok buat kamu yang:
+Mau ujian dari rumah atau di sekolah dengan sistem yang modern.
+Ingin ujian yang jujur, nyaman, dan tanpa ribet.
+Terdaftar sebagai siswa di sekolah yang pakai platform Pijar Sekolah.
+
+Download dan Siap Ujian!
+Mulai sekarang, kamu nggak perlu bingung soal ujian online. Tinggal buka aplikasi Pijar Sekolah, cek jadwal, dan kerjakan soal. Fokus belajar dan kerjakan ujianmu dengan aman, biar hasilnya maksimal!
+Download sekarang dan nikmati cara baru ujian digital yang aman, praktis, dan jujur hanya di Pijar Sekolah.",2025-07-28T07:00:00Z,2025-11-19T09:13:43Z
+id,Indonesia,Education,6017,4,570060128,Duolingo - Language Lessons,"Duolingo, Inc",https://apps.apple.com/id/app/duolingo-language-lessons/id570060128?uo=4,0.0,4.85314,86607,Education,"Learn a new language with the world’s most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills.
+
+Designed by language experts and loved by hundreds of millions of learners worldwide, Duolingo helps you prepare for real conversations in Spanish, French, Chinese, Italian, German, English, and more.
+
+And now, you can learn Math and Music the Duolingo way!  
+
+Build real-world math skills – from calculating tips to identifying patterns – and sharpen your mental math in our Math course.
+
+Learn how to read music and play familiar songs on your device in our Music course – no instrument required.
+
+Whether you’re learning for travel, school, career, family and friends, or your brain health, you’ll love learning with Duolingo.
+
+Why Duolingo?
+• Duolingo is fun and effective. Game-like lessons and fun characters keep you motivated to build solid skills across language, math and music.
+
+• Duolingo works. Designed by learning experts, Duolingo has a science-based teaching methodology proven to foster long-term knowledge retention.
+
+• Track your progress. Work toward your learning goals with playful rewards and achievements when you make practicing a daily habit!
+
+• Join 300+ million learners. Stay motivated with competitive Leaderboards as you learn alongside our global community.
+
+• Every course is free. Learn Spanish, French, German, Italian, Russian, Portuguese, Turkish, Dutch, Irish, Danish, Swedish, Ukrainian, Esperanto, Polish, Greek, Hungarian, Norwegian, Hebrew, Welsh, Arabic, Latin, Hawaiian, Scottish Gaelic, Vietnamese, Korean, Japanese, English, and even High Valyrian. And now, learn Math and Music with our newest courses!
+
+What the world is saying about Duolingo:
+
+“Far and away the best language-learning app.” –The Wall Street Journal
+
+“This free app and website is among the most effective language-learning methods I’ve tried… lessons come in the form of brief challenges – speaking, translating, answering multiple-choice questions – that keep me coming back for more.” –The New York Times
+
+“Duolingo may hold the secret to the future of education.” – TIME Magazine
+
+“…Duolingo is cheerful, lighthearted and fun…” - Forbes
+
+“Our favorite language app…” - CNET
+
+If you like Duolingo, try Super Duolingo for 14 days free! Learn a language fast with no ads, and get fun perks like Unlimited Hearts and Monthly Streak Repair.
+
+If you choose to purchase Super Duolingo, payment will be charged to your Apple account, and your account will be charged for renewal within 24-hours prior to the end of the current period. Auto-renewal may be turned off at any time by going to your settings in the App Store after purchase. Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable.
+
+Privacy Policy: https://www.duolingo.com/privacy
+Terms of Service: https://www.duolingo.com/terms",2012-11-13T08:00:00Z,2025-11-18T14:12:41Z
+id,Indonesia,Education,6017,5,6740192624,BetterSpeak: AI Language Tutor,HUBX YAZILIM HIZMETLERI ANONIM SIRKETI,https://apps.apple.com/id/app/betterspeak-ai-language-tutor/id6740192624?uo=4,0.0,1.45455,11,Education,"BetterSpeak: Your AI Tutor for Language Speaking
+Do you want to speak English more fluently, confidently, and naturally? BetterSpeak is your personal AI English tutor designed to help you practice speaking through lifelike conversations, real-time corrections, and personalized feedback. 
+
+Whether you’re preparing for exams, traveling abroad, attending meetings, or simply aiming to sound more natural, BetterSpeak turns your smartphone into your personal speaking coach.
+
+- Smarter Than a Textbook – Your AI Language Tutor
+Unlike traditional apps that only teach vocabulary and grammar, BetterSpeak puts speaking first. You’ll talk with an AI tutor that understands your strengths, identifies your weak points, and adapts lessons to your learning style and goals.
+
+- Practice English with a Lifelike Avatar Tutor
+Have face-to-face speaking practice with a friendly, expressive AI tutor. This animated coach helps you stay motivated while correcting your pronunciation, grammar, and sentence structure in real time—just like a real tutor would.
+
+- Real-Life Speaking Practice Without the Fear
+Feel shy or unsure about your English? BetterSpeak creates a safe and supportive space to practice real-life conversations—from job interviews to airport dialogues or casual small talk—without fear of judgment.
+
+- Progress You Can See and Feel
+Track your growth over time with detailed reports on pronunciation clarity, fluency, grammar accuracy, and vocabulary usage. Watch your confidence grow as your English improves session by session.
+
+- A Personalized Program That Fits You
+No more generic lessons. BetterSpeak builds a custom speaking journey tailored to your level and needs—whether you're a beginner or intermediate learner. Focus on the skills that matter most to you.
+
+- Multilingual Support for Beginners
+Just starting out? You can learn and practice English even if your native language is Spanish, Portuguese, Turkish, Italian, German, or French. Your AI tutor supports you in your own language while guiding you toward fluent English.
+
+- Real-Time Corrections & Instant Feedback
+BetterSpeak doesn’t just listen—it responds. You’ll receive instant, constructive feedback on your grammar, vocabulary usage, pronunciation, and fluency, helping you adjust and improve on the spot.
+
+- Motivating & Gamified Learning
+Set daily speaking goals, earn badges, collect points, and build streaks that keep you engaged. BetterSpeak turns language learning into a habit—and a fun one.
+
+- Built for Real People with Real Goals
+From passing the IELTS or TOEFL to improving business communication or daily conversation skills, BetterSpeak is your intelligent, always-available tutor for practical speaking success.
+
+- Download BetterSpeak Today
+Join thousands of learners who are unlocking their English speaking potential with BetterSpeak. Say goodbye to hesitation, and hello to confident, clear communication.
+
+
+
+We value your feedback! If you have suggestions or feedback to make BetterSpeak better, we'd love to hear from you. Don't hesitate to contact us at support@betterspeak.com
+
+Privacy Policy: https://betterspeak.com/privacy
+Terms of Use: https://betterspeak.com/terms",2025-08-08T07:00:00Z,2025-10-04T07:19:37Z
+id,Indonesia,Education,6017,6,924620788,Google Classroom,Google LLC,https://apps.apple.com/id/app/google-classroom/id924620788?uo=4,0.0,2.61626,529,Education,"Classroom is a free service for schools, non-profits and anyone with a personal Google Account. Classroom makes it easy for learners and instructors to connect – inside and outside of schools. Classroom saves time and paper, and makes it easy to create classes, distribute assignments, communicate and stay organised.
+
+Classroom is designed to help teachers create, collect and mark assignments paperlessly, including time-saving features like the ability to automatically make a copy of a Google Document for each student. It also creates Drive folders for each assignment and for each student to help keep everyone organised.
+
+Students can keep track of what's due on the Assignments page and begin working with just a click. Teachers can quickly see who has or hasn't completed the work, and provide direct, real-time feedback and marks from within Classroom.
+
+With the mobile app for iOS, students and teachers can view their classes and communicate with their classmates in real time. Students can open their assignments and work on them right from their iPhone or iPad. Teachers can keep track of who has handed in work and mark the assignment – at school or on the go. Students and teachers receive notifications when they have new content in Classroom, so they are always up to date.
+
+There are many benefits of using Classroom:
+
+Easy to set up
+Teachers can add students directly or share a code with their class to join. It takes just minutes to set up.
+
+Saves time
+The simple, paperless assignment workflow allows teachers to create, review and mark assignments quickly, all in one place.
+
+Improves organisation
+Students can see all of their assignments on an Assignments page, and all class materials (e.g., documents, photos and videos) are automatically filed into folders in Google Drive.
+
+Enhances communication
+Classroom allows teachers to send announcements and start class discussions instantly. Students can share resources with each other or provide answers to questions on the stream.
+
+Secure
+Like the rest of Google Workspace for Education services, Classroom contains no ads, and never uses your content or student data for advertising purposes.
+
+Permissions notice:
+Camera: Needed to allow the user to take photos or videos and post them to Classroom.
+Microphone: Needed to enable audio capture for recording videos to be posted to Classroom.
+Photos: Needed to allow the user to attach photos or videos to Classroom. Photos or videos posted to Classroom will be stored on Google servers in order to show them in Classroom.",2015-01-13T08:00:00Z,2025-11-17T17:52:02Z
+id,Indonesia,Education,6017,7,557130558,HelloTalk - Language Learning,HELLOTALK FOREIGN LANGUAGE EXCHANGE LEARNING TALK CHAT APP,https://apps.apple.com/id/app/hellotalk-language-learning/id557130558?uo=4,0.0,4.465,1157,Education,"Practice languages with native speakers on HelloTalk! We recently introduced HelloTalk Live and Voiceroom - interactive language and culture events to help you master languages through the content you love! 
+
+HelloTalk, the original language exchange app, connects you with native speakers to practice languages (English, Japanese, Korean, Spanish, French, Mandarin Chinese, Portuguese, German, Italian, Russian, Arabic, Turkish, Hindi, Indonesian, Thai, Vietnamese and 160+ more) for FREE! 
+
+HelloTalk equips you with learning tools such as translation and instant captions so you can learn by chatting with native speakers. Learn languages from locals around the world through livestreams and Voicerooms. Connect with expert hosts to discuss interesting topics with language partners in the learning community! 
+
+Why HelloTalk? 
+
+► Real language learning atmosphere 
+Whether you're focused on a widely spoken language or a less common one, HelloTalk caters to your needs. The system smartly matches you based on your native language and proficiency, while allowing you to filter ideal language partners according to various criteria such as age, location, and gender. Plus, with built-in translation and transliteration tools, you can communicate confidently without any language barriers.
+
+► A powerful tool for sharpening your language skills
+Acquiring new words through conversations with native speakers is more effective than rigid memorization. Whether you're a student preparing for exams like the CET, GRE, TOEFL, IELTS, planning to study abroad, or a professional seeking career advancement through language skills, HelloTalk offers native speakers who match your proficiency level for engaging interactions and valuable learning experiences.
+
+► Immersive multi-person language chat rooms
+If you choose to learn Spanish, for example, every Voiceroom you enter on HelloTalk gathers Spanish learners and Spanish native speakers from around the world to discuss interesting topics. Here, only your voice needs to be heard, creating a comfortable, introvert-friendly atmosphere. Here, sharing mutual interests allows everyone to freely express themselves and share personal experiences, fostering both language intuition and authentic expression skills. It's incredibly addictive!
+
+► Diverse global Livestreams
+HelloTalk features handpicked foreign language hosts who offer online video lessons, share language insights, and provide glimpses into their lives abroad. You can even join them on stage for one-on-one video conversations with fellow language learners. Whether you're grappling with pronunciation, speaking speed, or shyness, these hosts will assist you in refining your language skills and guiding the conversation. For rapid improvement in spoken language, there's no substitute for direct communication with native speakers!
+
+► International Moments
+HelloTalk's Moments offers real-time posts covering learning, lifestyle, and cultural insights from around the world. It's your ticket to discovering fresh perspectives and gaining deeper insights into diverse cultural customs, all from the comfort of your home. Don't forget to engage with posts that catch your interest!
+
+What the world is saying about HelloTalk
+“One of the best apps to help you learn a new language.” - 9to5Mac 
+""When you're ready to experiment with a foreign language, HelloTalk provides an excellent opportunity for interaction with other speakers."" –PCMag 
+""HelloTalk, which connects native speakers with an apprentice, also offers language exchanges to its 20 million users in more than 150 languages."" -Forbes 
+
+START PRACTICING LANGUAGES RIGHT AWAY!!!
+
+Learn more about the HelloTalk app: 
+- Facebook: https://www.facebook.com/Hellotalk/ 
+- Twitter: https://twitter.com/hellotalkapp 
+
+Send any feedback to support@hellotalk.com 
+- Privacy Policy: https://www.hellotalk.com/privacy-policy 
+- Terms of Use: https://www.hellotalk.com/terms-of-service",2012-12-15T23:10:56Z,2025-11-19T02:08:59Z
+id,Indonesia,Education,6017,8,1160249042,Wayground,Quizizz Inc,https://apps.apple.com/id/app/wayground/id1160249042?uo=4,0.0,4.79293,10460,Education,"Wayground (formerly Quizizz) is where teachers make curriculum go. Bridge district priorities and classroom realities with the supplemental curriculum platform that helps students hit grade-level standards faster. Trusted by teachers in 90% of U.S. schools and 150+ countries.
+
+For teachers:
+
+- Dive into a library of resources that are standards-aligned and mapped to your curriculum
+- Use AI to differentiate any material so that it’s just right for each student
+- Create aha moments for each student by varying the student experience across dozens of formats, modes, and question types
+- Accommodate students without singling them out using 25+ accommodations and modifications unique to each student
+
+For students:
+
+- Join classroom sessions and assignments on any device
+- Study independently with resources matched to your level
+- Access accommodations and language support when needed
+- Track your progress and celebrate achievements
+
+Ready to find your way forward? Create your free account or join sessions instantly at wayground.com 
+
+From the Wayground Community:
+
+""Wow! Students wanted to do a resource on Wayground over again. They never ask to do a worksheet over again."" 
+— Nora, High School Math Teacher
+
+""My 3rd graders absolutely loved using Wayground today to review for their geography test. They asked to do another round! "" 
+— Katie, Student Teacher.
+
+""This is the best website EVER!"" 
+— 4th grade student at Home Brink Elementary",2016-12-14T12:06:47Z,2025-11-14T04:05:24Z
+id,Indonesia,Education,6017,9,722910739,Endless Reader,Originator Inc.,https://apps.apple.com/id/app/endless-reader/id722910739?uo=4,0.0,4.71429,21,Education,"** App Store's Editor's Choice ** 
+
+
+*From the team at ORIGINATOR - the creators of the beloved Endless Alphabet and Sesame Street's Monster at the End of This Book and Another Monster....  Originator is a team of passionate artists and engineers dedicated to the best education+entertainment apps for kids.*
+
+As a follow-up to Endless Alphabet, set the stage for early reading success with Endless Reader!  This app introduces ""sight words"", the most commonly used words in school, library, and children's books.  Kids need to recognize these words by sight in order to achieve reading fluency.  Recognizing sight words is advantageous for beginning readers because many of these words have unusual spelling, cannot be sounded out using phonics knowledge, and often cannot be represented using pictures. 
+
+Kids will have a blast learning sight words and their context and usage with the adorable Endless monsters.  Each word features an interactive word puzzle with letters that come alive, and then a sentence puzzle with words that become what they describe.  See the word ""dog"" as a barking dog, and the word ""up"" reach for the sky!
+
+** NOTE: You must be online and have sufficient disk space while running the app to get all words in the app. **
+
+Features:
+- 6 words free to try with additional word packs available for purchase.
+- Delightful animations reinforce sight recognition of words in a fun and interactive way.
+- Word puzzles reinforce spelling using lower-case letters and the sentence puzzles teach definition and usage (in addition to sight recognition).
+- 3D Touch on iPhone 6s and iPhone 6s Plus makes letters and words react in an extra special way!
+- Endless Reader was designed with your children in mind.  There are no high scores, failures, limits or stress.  Your children can interact with the app at their own pace.",2013-11-21T04:30:51Z,2022-08-11T20:02:07Z
+id,Indonesia,Education,6017,10,1083804886,ELSA Speak - English Learning,"ELSA, Corp.",https://apps.apple.com/id/app/elsa-speak-english-learning/id1083804886?uo=4,0.0,4.89349,16477,Education,"Meet ELSA - Your personal AI-powered English tutor. 
+
+ELSA Speak is the AI-powered language coach designed to help professionals and learners speak English with confidence. Engage in real-time, speaking scenarios to practice job interviews, presentations, meetings, and more. Reinforce your skills with interactive AI-powered games that make learning engaging and effective. With 8,000+ lessons, you'll learn proper pronunciation, grammar, and vocabulary faster than ever. 
+
+Download the best AI-powered English learning app today and start your journey to confident English communication!
+
+ELSA SPEAK FEATURES:
+
+ENGLISH COMMUNICATION 
+- Career-Specific Focus – Learn vocabulary and communication styles tailored to your field
+- Confident Exam Preparation – Prepare for IELTS, TOEFL, TOEIC, EIKEN, and more with targeted practice in our bilingual app to boost fluency.
+
+HYPER-PERSONALIZED LEARNING PATHS
+- Personalized language learning – Learn to succeed in workplace interviews, giving presentations, interacting in meetings, succeeding at client calls, and daily conversations.
+- AI-Driven Conversations & Open-Ended Dialogues – Personalized language learning through practicing realistic conversations.
+
+REAL-LIFE CONVERSATION PRACTICE
+- Grammar & Vocabulary – AI-driven conversation helps you build a solid foundation in English grammar and expand your vocabulary with everyday, practical words. The adaptive AI adjusts to your progress, ensuring you always learn exactly what you need.
+- Conversation Practice – Improve fluency with role-plays, open-ended dialogues, and real-life scenarios. Learn to speak English confidently and with clarity. Leave language misunderstandings behind, whether in the workplace or the classroom.
+- Pronunciation Training – Practice speaking English and conquer tricky sounds, learn nuanced English pronunciation.
+
+INSTANT FEEDBACK & AI COACH FOR CONVERSATIONS
+- Quantitative Progress Tracking – Monitor your improvement with data-driven insights.
+- Pronunciation & Word Stress Guidance from our AI English Coach – Receive real-time corrections to sound more natural.
+
+ACCENT TRAINING
+- English learning accent choices: American, British, Australian, and more.
+- Pick your preferred gender to help you feel confident while interacting with others from different cultures.
+
+ENGLISH COMMUNICATION BENEFITS:
+- Enhanced Global Collaboration: Bridge language gaps and foster seamless teamwork with international colleagues or friends.
+- Career Potential: Boost your career by impressing clients and colleagues with polished English communication
+- Expand Your Network: Build meaningful relationships and explore global opportunities with confidence.  
+- Beyond Pronunciation: Learn grammar, vocabulary, and communication techniques to succeed academically, personally, or professionally.
+
+---
+
+TRUSTED BY ENGLISH LEARNERS AND INDUSTRY EXPERTS:
+- Honorable Mention in the AI and Data category of Fast Company's 2020 World Changing Ideas Awards
+- Top 100 Influencers in State of EdTech Report by EdTech Digest 2020
+- Mentioned by TechCrunch, Forbes, Mashable, VentureBeat, Yahoo, Salma Hayek, and more
+
+---
+
+Connect With Us
+Email: support@elsanow.io
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2016-03-08T04:48:15Z,2025-11-18T02:04:37Z
+id,Indonesia,Education,6017,11,1569893279,Toko: Speak English with AI,Toko Inc.,https://apps.apple.com/id/app/toko-speak-english-with-ai/id1569893279?uo=4,0.0,4.95122,41,Education,"Toko is the first AI that can hold a realistic English conversation. It’s like talking to a native speaker AND you can practice anytime anywhere - on the subway or from the comfort of your own home. Toko is the easiest way to practice speaking English without pressure.
+
+Choose from dozens of topics covering the workplace and everyday life. Customize your learning experience with adjustable speed, transcript, and translations. Toko will even correct your grammar! 
+
+------
+
+// Low-pressure environment -- Take your time to respond and don’t worry about saying the wrong thing. Didn’t catch what Toko said the first time? Listen again slower, or reveal the text/translation.
+
+// Bite-sized conversations -- Each conversation takes 5-10 minutes, and you can do as many as you want each day. No need to schedule in advance. Make English speaking a daily habit!
+
+// Smart technology -- Our chatbot uses the newest AI & ML to understand what you’re saying and respond like a real person.
+
+------
+
+Who created Toko?
+We’re a small team of ABC MIT engineers who are on a mission to make English learning fun and easy. We are passionate about giving everyone the opportunity to speak English!
+
+-----
+
+Terms and Privacy: http://terms.tokotutor.com
+
+[:mav: 1.1.838]",2021-06-10T07:00:00Z,2025-11-21T19:13:11Z
+id,Indonesia,Education,6017,12,1002043426,Lingokids - Play and Learn,Monkimun Inc,https://apps.apple.com/id/app/lingokids-play-and-learn/id1002043426?uo=4,0.0,4.4584,39686,Education,"THE INTERACTIVE APP FOR KIDS
+Lingokids is the fun, safe, educational kids learning app that toddlers and children aged 2–8 love—and parents trust! Packed with over 3000 shows, songs, coloring games, cooking games, and interactive activities, it lets your child play, learn, and grow at their own pace. This is screen time for girls and boys you can feel good about.
+
+LINGOKIDS NOW HAS DISNEY ACTIVITIES!
+Your kid can now play brand-new Disney Mickey & Friends, Disney Moana and Disney Frozen-themed activities. All fun, all edutaining—and all on the Playlearning™ app kids love! 
+From math to literacy to creativity, help your kid practice at their own pace with activities featuring beloved Disney characters like Anna, Elsa and Olaf, Moana and Maui, and Mickey Mouse, Donald Duck and Goofy.
+Because when activities are this edutaining, they become something your kid truly loves!
+
+5 REASONS LINGOKIDS IS GUILT-FREE FOR FAMILIES
+Made by parents & educators
+Loved by toddlers, preschoolers, and elementary school kids
+kidSAFE® certified & 100% ad-free
+More than 30 global awards
+Over 3000 fun kids games and activities to play!
+
+INTERACTIVE ACTIVITIES
+Your kids can explore over 3000 interactive games, coloring games, and toddler-friendly challenges covering 650+ learning objectives—all through play! Subjects include math, literacy, science, engineering, art, music, and more. Kids can move at their own pace through a curated curriculum using fun toddler games, books, videos, and songs. Perfect games for your 2,3,4,5,6,7,8 year olds!
+
+
+PLAYLEARNING™ METHOD
+At Lingokids, we believe learning sticks when it’s wrapped in fun. Our Playlearning™ method inspires toddlers and kids to discover the world naturally—through play, repetition, and curiosity. From coloring and games to movement, stories, and songs, every interaction builds real skills.
+
+FEATURED BRANDS & CHARACTERS
+Your kids can play with familiar favorites like Blippi and Pocoyo. Plus, brand-new activities featuring beloved Disney characters all available inside the Lingokids app. And discover activities created with trusted names like NASA and Oxford University Press.
+
+Many families may already know Lingokids from our videos on YouTube and YouTube Kids, where over 3 million subscribers enjoy our playful, edutaining content. Now, those same kids can keep learning through fun toddler games and interactive activities inside the app.
+
+SUBJECTS, THEMES & LEVELS THAT GROW WITH YOUR CHILD
+Reading & Literacy: Build phonics, writing, and reading confidence.
+Math & Engineering: Strengthen number sense, addition, subtraction, and logical thinking.
+Science & Tech: Introduce biology, chemistry, coding, robotics and NASA-powered activities.
+Music & Art: Play with rhythm, sound, and creativity in music + coloring games.
+Social-Emotional Learning: Practice empathy, expression, and mindfulness.
+History & Geography: Spark curiosity about the world and its stories.
+Physical Activity: Fun stretches, yoga, and movement songs keep toddlers engaged!
+
+WHY UPGRADE TO LINGOKIDS PLUS?
+Unlimited access to 3000+ toddler games, coloring games, and activities
+Covers 650+ learning goals across subjects and life skills
+Expert-designed lessons for boys and girls aged 2–8
+Lingokids activities featuring Disney, Blippi, Pocoyo, NASA and Oxford University Press content
+Progress reports, parent community, and up to 4 child profiles
+100% ad-free, with no in-app purchases
+Play online or offline—anywhere, anytime!
+
+Subscriptions automatically renew each month 24-hours before the end of the current period and your iTunes account will be charged unless auto-renew is turned off at least 24-hours before the end of the current period. You can turn off auto-renew any time from within the app. Any unused portion of a free trial will be forfeited if you purchase a subscription.
+
+Help & Support: https://help.lingokids.com/
+Privacy Policy: https://lingokids.com/privacy
+Terms of Service: https://www.lingokids.com/tos",2015-09-11T04:20:06Z,2025-11-12T14:12:15Z
+id,Indonesia,Education,6017,13,1462500984,SuperChinese - Learn Chinese,"Shanghai Yuxuan Information Technology Co. , Ltd",https://apps.apple.com/id/app/superchinese-learn-chinese/id1462500984?uo=4,0.0,4.9454,1978,Education,"SuperChinese is the world's leading Mandarin Chinese learning app, based on Artificial Intelligence. It can satisfy the needs of any user, from a beginner with zero experience to a professional, and provides an easy and effective method to master the language of Mandarin Chinese.
+
+
+Hello Chinese learners, learn Chinese faster with SuperChinese!
+All the Best Language Learning Approaches Integrated Into 1 Super App
+
+
+Powered By AI
+Spaced Repetition: Remember Effortlessly
+Animated Videos: Conceptualize Faster
+Thematic Lessons: Understand Context
+Complete Fluency: Speak Chinese, Read Chinese, Write Characters and Improve your Chinese Listening
+Gamification: Enjoy Learning Chinese
+
+
+For basic Chinese learners, we cover Pinyin (think of it as the Chinese alphabet!), so you can learn how to speak and improve your Chinese pronunciation. Beginner Chinese language learners will find it easy to start learning their target language with SuperChinese. It’s simple to learn Chinese characters, vocabulary, and essential phrases. SuperChinese makes learning Chinese easy.
+
+Features that make learning Mandarin Chinese simple!
+
+Expertly crafted for your success
+SuperChinese uses advanced AI technology to meet your personal learning style. Lessons are drawn from a wide range of real-life topics, and presented in a way that sticks.
+
+No need for a language tutor, our Chinese lessons are built to cover all aspects of learning a new language: speaking, reading, writing, and listening. Are you a beginner? Start with Chinese pinyin.
+
+Don’t worry about memorization, focus on what matters, and our app will do the rest. Language learning made easy!
+
+
+AI-based proficiency Test: Your Chinese test
+A unique and precise way to know your exact Chinese level. Customize your learning experience and set yourself on the path to complete Chinese fluency. From basic Chinese to advanced Chinese, with our free level test, you’ll always start at the right level.
+
+
+Bite-Sized Lessons: Learning Chinese is easy
+Learning built around your busy schedule. Each lesson takes about 10-15 minutes to complete, keep your streak going. It only takes a little time every day to improve your Chinese skills.
+
+
+Speech Recognition: Speak Chinese fluently
+Speak like a native. Pronounce words in the right tone and understand their contextual meaning in daily conversations. SuperChinese offers you a faster way to speak Chinese. Struggling with learning Mandarin pronunciation? Your AI language tutor lets you know where you need to improve. It isn’t only for Chinese vocab, but also Chinese phrases!
+
+
+Animated Thematic Videos: Top Chinese content
+
+Conceptualize faster with the help of animated videos and visual stories. Create a lasting mental picture. We understand it’s not easy to learn a foreign language, so we’ve created videos with real dialogue that you can use in a Chinese conversation anytime. It’s fun and easy!
+
+
+Quality Content: easy Chinese lessons
+
+Enjoy over 400 Lessons, split into 9 Chinese levels and based on more than 50 interesting themes. Remember effortlessly through AI-powered spaced repetition. Learn Chinese systematically, from basic Chinese to advanced Chinese, we have the right content for all Chinese language learners.
+
+
+Go All the Way with SuperChinese +
+Accelerate your path to fluency, master Mandarin Chinese faster
+
+
+We have six types of subscriptions:
+PLUS for 1 month: 88 RMB
+PLUS for 12 months: 488 RMB
+PLUS for Lifetime: 998 RMB
+
+CHAO for 1 month: 168RMB
+CHAO for 6 months: 658RMB
+CHAO for 12 months: 898RMB
+
+《SuperChinese User terms》https://api.superchinese.com/app/protocol
+《SuperChinese subscription renewal terms》https://api.superchinese.com/app/autorenew-protocol
+
+SPEAK CONFIDENTLY, LIVE MORE
+
+Invest in your future today. Learn Chinese faster using artificial intelligence. Join over a million Chinese learners and download the SuperChinese APP today!",2019-06-11T07:38:01Z,2025-11-05T06:10:42Z
+id,Indonesia,Education,6017,14,6743670420,Exam Client Semioffline,Wasis Sasoko,https://apps.apple.com/id/app/exam-client-semioffline/id6743670420?uo=4,0.0,1.29268,41,Education,"Aplikasi ujian CBT (Computer Based Test) yang sudah mendukung format soal berbentuk soal AKM. Seperti Pilihan Ganda, Isian Singkat, Penjodohan, Benar Salah, Setuju / Tidak Setuju, Drag and Drop dan jenis - jenis soal lainnya.
+
+
+
+Aplikasi ini bisa melakukan secara full offline tanpa server dan tanpa jaringan. Sehingga sekolah tidak perlu khawatir masalah instalasi jaringan dan server. Karena ujian bisa dilakukan di kelas masing - masing siswa, sekalipun di kelas tersebut tidak ada jaringan dan server.",2025-03-23T07:00:00Z,2025-06-05T00:56:55Z
+id,Indonesia,Education,6017,15,6741482400,Rumah Pendidikan,Pusat Teknologi Informsi Dan Komunikasi Pendidikan Dan Kebudayaan,https://apps.apple.com/id/app/rumah-pendidikan/id6741482400?uo=4,0.0,4.13333,15,Education,"Superaplikasi Rumah Pendidikan adalah layanan digital pendidikan terintegrasi yang mendukung kolaborasi seluruh partisipan dalam ekosistem pendidikan untuk meningkatkan kualitas pendidikan di Indonesia. Sebagai sebuah layanan publik, Superaplikasi Rumah Pendidikan mengusung nilai-nilai RAMAH : Responsif, Akuntabel, Melayani, Adaptif, dan Harmonis. Superaplikasi ini tidak menggantikan platform pendidikan yang telah memberikan dampak positif, tetapi justru mengintegrasikannya guna menghindari tumpang tindih aplikasi.
+
+Semua layanan digital kini tersedia dalam Superaplikasi melalui 8 Ruang Utama yang terbagi menjadi dua pilar:
+
+Pilar Utama:
+Ruang GTK
+Mendukung guru dan tenaga kependidikan dalam meningkatkan kompetensi, kinerja, dan kesejahteraan melalui fitur-fitur terintegrasi yang mudah diakses.
+
+Ruang Murid
+Menyediakan akses pembelajaran mendalam, khususnya di bidang Matematika, Sains, dan Teknologi.
+
+Ruang Sekolah
+Membantu sekolah dalam perencanaan, pengambilan keputusan, serta pengelolaan sumber daya yang lebih efisien.
+
+Ruang Bahasa
+Memfasilitasi pelestarian Bahasa Indonesia sekaligus mendukung pengembangan kemampuan bahasa nasional.
+
+Pilar Pendukung:
+Ruang Orang Tua
+Mendukung peran orang tua dalam memantau capaian anak dan memberikan bantuan belajar di rumah.
+
+Ruang Pemerintah
+Membantu pemerintah pusat dan daerah dalam merumuskan kebijakan berbasis data serta mendorong kolaborasi yang lebih baik antara pusat dan daerah.
+
+Ruang Mitra
+Mempererat kolaborasi dengan dunia usaha dan industri untuk mendorong inovasi pendidikan serta mendukung partisipasi semesta dalam menyelesaikan tantangan pendidikan.
+
+Ruang Publik
+Mendorong keterlibatan masyarakat dalam berkontribusi secara aktif untuk memperkuat ekosistem pendidikan yang holistik.",2025-03-12T07:00:00Z,2025-11-06T17:54:01Z
+id,Indonesia,Education,6017,16,1482222769,EdLink,"SENTRA VIDYA UTAMA, PT",https://apps.apple.com/id/app/edlink/id1482222769?uo=4,0.0,2.48665,487,Education,"EdLink adalah aplikasi yang membantu mahasiswa dan dosen dalam kegiatan pembelajaran. Berbagi informasi, materi perkuliahan / pelajaran, dan memberikan tugas menjadi lebih mudah hanya lewat genggaman.
+
+Berikut fitur yang Anda bisa dapatkan:
+1. Membuat forum diskusi dan kelas - Di dalam forum Anda dapat terhubung dengan teman-teman, mahasiswa atau dosen Anda. Berbagi informasi, data, acara, survey, media dll menjadi lebih mudah. Forum dapat dibuat publik dan privat. (Forum kelas hanya dapat dibuat oleh dosen)
+2. Berbagi apa saja - Jenis data / file apa pun dapat Anda bagikan dengan teman-teman dalam forum yang sama.
+3. Tugas dalam kelas - Dosen dapat membuat tugas di dalam forum kelas. Dosen dapat melihat semua jawaban. Di akhir mahasiswa dapat melihat semua jawaban temannya. Fitur ini membantu dosen / guru untuk melihat bagaimana pemahaman mahasiswa terhadap materi kuliah / pelajaran. Dari sisi mahasiswa, fitur ini membantu mereka untuk menambah referensi belajar dari jawaban teman-temannya.
+4. Pesan pribadi - Kirimkan pesan pribadi pada teman atau dosen Anda yang berada pada forum yang sama.
+5. Info, Acara dan Survey - dalam forum Anda dapat membuat post info untuk menginformasikan segala sesuatu kepada teman dalam forum tersebut, membuat post acara untuk mengagendakan suatu acara untuk forum tersebut, dan membuat post survey untuk membuat survey dalam forum tersebut.
+
+Kirimkan kritik dan saran Anda seputar Aplikasi EdLink via email ke: edlink@sevima.com",2020-01-14T08:00:00Z,2025-10-28T09:30:20Z
+id,Indonesia,Education,6017,17,1208138685,Toca Boca World,Toca Boca AB,https://apps.apple.com/id/app/toca-boca-world/id1208138685?uo=4,0.0,4.08044,10902,Education,"Hi, and welcome to Toca Boca World! It’s the ultimate universe for kids to play, design, and explore their endless imaginations. This isn't just a game, it's a safe space where every story is yours to create, and the fun never stops.
+
+Toca Boca World is where creativity takes centre stage:
+• Unleash your inner storyteller: Roleplay in a universe you've created, where you can tell your own stories. Become a teacher, a vet, or even an influencer.
+• Design your dream world: Bring your best friends to life with Character Creator. Customise hair, faces, and accessories to make up your own style! Use the intuitive Home Designer tool, and you're the architect! Decorate your own house, supermarket, campervan, or any of our constantly updated locations with the furniture and colours you love.
+• Explore and discover a game of secrets and surprises: Find hundreds of hidden gems in the game! From jewels and crumpets to unlocking secret rooms, there’s always something new and exciting to uncover.
+• Fresh content, always: Toca Boca World is an endless universe that keeps growing! Discover new locations and content updated every month, there's always more to explore.
+• Friday is gift day! Pop into the Post Office to collect the gifts we’ve sent you on the conveyor belt, including decorations, furniture, and even pets! Keep an eye out for Gift Bonanzas where we give away a LOT of items from previous years.
+
+More than 60 million girls and boys play on Toca Boca World, the very first game of its kind – that's a LOT of kid-testers making sure the fun never ends!
+• Press play! Download Toca Boca World now and dive into an endlessly fun universe. Furnish your first apartment in Bop City, buy housewarming items for your Free Family House and don’t forget to get your hair done before the party with characters you’ve created!
+• Expand your world: You can build a bigger Toca Boca World with all the stuff available in the in-app shop! Play your best influencer life in the Megastar Mansion, take care of animals in the pet hospital, or just relax in Bubble Bop Spa with your friends!
+• A safe and secure play environment: At Toca Boca, we believe in the power of play above all else. Toca Boca World is a single-player kids’ game, COPPA compliant, and designed as a secure platform where you can explore, create, and play freely without interruptions. That’s our promise to you!
+• Award-winning fun: Recognised as App of the Year 2021 and an Editor's Choice, Toca Boca World is praised for its quality and dedication to kids’ safety, and continues to evolve to be better and better!
+• No ads, ever: Toca Boca World will never show third-party ads. We’ll never interrupt your game with adverts. Play always comes first!
+• About us: Our fun, award-winning kids’ game can be downloaded on phones, tablets and computers for free. We also offer in-app purchases for our most dedicated fans, which allows us to build a game with a focus on quality that is completely ad-free and 100% safe. We take privacy very seriously, learn more at https://tocaboca.com/privacy.
+
+• Stay connected! Discover our latest updates and collaborations by following us on social media:
+https://www.instagram.com/tocaboca/
+https://www.youtube.com/@tocaboca
+https://www.tiktok.com/@tocaboca?lang=en-GB",2018-11-21T18:39:24Z,2025-11-13T15:32:53Z
+id,Indonesia,Education,6017,18,919087726,Photomath,Google LLC,https://apps.apple.com/id/app/photomath/id919087726?uo=4,0.0,4.79493,9933,Education,"Photomath is known worldwide for helping millions of learners to learn, practice, and understand maths – one step at a time. 
+
+Scan any maths problem with the Photomath app to get step-by-step explanations with accurate solutions and a variety of teacher-approved methods. Maths is about the process, so Photomath breaks your problem into bite-sized steps to help you understand the “what” and “why” along with the “how.” Whether you’re learning basic arithmetic or advanced geometry, we’ll tackle it together, step by step. 
+
+Why Photomath? 
+
+Billions of maths problems: From primary school maths to advanced calculus and everything in between, Photomath can solve billions of maths problems—including word problems! Whether handwritten, in a textbook, or on a screen, Photomath is here to help you untangle your trickiest problem.
+
+Step-by-step explanations: Maths isn’t just about an answer. It’s about every step along the way. That’s why Photomath breaks down each step, so you can *really* learn. Less guesswork = less stress, especially with our new Animated Steps, which show you the exact progression of a particular step. 
+
+Expert-developed methods: Photomath’s educational content is centered around the learner’s experience, driven by the expertise of our own team of mathematicians and former maths teachers. 
+
+Self-paced learning: Photomath’s instant support is like having a 24/7 virtual tutor. Checking your homework before dinner? Stuck on a problem at 2am? We can help. Follow our detailed steps, taking whatever time you need to review definitions, rationale, and more – all within the explanation.
+
+Want to dive deeper and explore more ways to learn? Photomath Plus can get you there with custom Animated Tutorials, detailed Textbook Solutions, and more! 
+
+KEY FEATURES
+• Step-by-step explanations included in our basic version (free of charge)
+• Word problem instructions
+• Interactive graphs
+• Video learning
+• Multiple solution methods
+• Advanced scientific calculator
+
+Photomath is for learners of all levels, including those studying:
+Numbers & Quantity
+Algebra
+Functions
+Trigonometry & Angles
+Sequences
+Geometry
+Calculus
+
+“The step-by-step guide is beneficial to students that do not have access to a tutor and struggle with solving math problems.” — Forbes
+
+“A viral video about a new app looks like a dream come true for anyone who struggles with math.” — Time
+___________________________________________
+
+• Payment will be charged to your Apple ID account at the confirmation of purchase. 
+• A subscription automatically renews unless it’s canceled at least 24 hours before the end of the current billing period. 
+• Your account will be charged for renewal within 24 hours prior to the end of the current period. 
+• Manage or cancel your subscription in your account settings on the App Store after purchase. 
+• Offers and pricing are subject to change without notice. 
+
+Suggestions or questions? Email us at support@photomath.com 
+
+Website: www.photomath.com
+TikTok: @photomath
+Instagram: @photomath 
+Facebook: @Photomathapp 
+Twitter: @Photomath 
+
+Terms of Use: https://photomath.app/en/termsofuse 
+Privacy Policy: https://photomath.app/en/privacypolicy",2014-10-17T13:56:43Z,2025-09-25T07:26:07Z
+id,Indonesia,Education,6017,19,1658695361,New IDX Mobile,"BURSA EFEK INDONESIA, PT",https://apps.apple.com/id/app/new-idx-mobile/id1658695361?uo=4,0.0,4.695,200,Education,"New IDX Mobile is application provided by PT Bursa Efek Indonesia that contain live market data, news, company announcement, and all the information related with Indonesia stock market right into your palm.
+
+New IDX Mobile subscription Virtual Trading, Running Trade, and Stock Heatmap.
+
+New IDX Mobile plans:
+
+Monthly: Rp. 49.000
+
+Payments and Renewal:
+
+Payment will be charged to iTunes Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+Account will be charged for renewal within 24-hours prior to the end of the current period.
+You can manage or turn off auto-renew in your Account settings at any time after purchase
+No cancellation of the current subscription is allowed during the active period.
+
+Terms of use: https://idx.co.id/en/terms-of-use/
+Privacy policy: https://idx.co.id/en/privacy-policy/",2023-06-21T07:00:00Z,2025-10-31T11:21:34Z
+id,Indonesia,Education,6017,20,6478819218,Bimasoft Exam Client Online,Wasis Sasoko,https://apps.apple.com/id/app/bimasoft-exam-client-online/id6478819218?uo=4,0.0,1.54545,11,Education,"Aplikasi ujian online inovatif ini dirancang dengan teknologi canggih untuk mencegah kecurangan dan menjaga integritas ujian. Dengan antarmuka yang ramah pengguna, aplikasi ini memastikan pengalaman peserta ujian yang lancar dan responsif. Fitur keamanan tambahan melibatkan pengacakan pertanyaan, sehingga setiap peserta mendapatkan rangkaian pertanyaan unik.",2024-03-04T08:00:00Z,2024-03-04T12:15:02Z
+id,Indonesia,Education,6017,21,1542571008,Gauth: AI Study Companion,GAUTHTECH PTE. LTD.,https://apps.apple.com/id/app/gauth-ai-study-companion/id1542571008?uo=4,0.0,4.85156,5450,Education,"Gauth is the #1 AI study companion empowered by the newest AI model! Trusted by millions of users, Gauth offers unlimited answers for all subjects. Try Gauth for all your learning needs!
+
+Key Features:
+► ACCURATE ANSWERS, STEP-BY-STEP
+Compared to other homework helpers, Gauth is faster and more accurate at solving homework problems, especially with the support of Gauth AI Pro. Problems could be solved quickly within a few seconds, and all answers are accompanied by animated instructions and detailed explanations.
+
+► MASTER ALL SUBJECTS, ALL GRADES
+Not only Math questions, Gauth could now solve all different levels of problems in Physics, Chemistry, Biology and more. 
+
+► REAL EXPERTS READY TO HELP 24/7
+As a strong and resourceful homework solver, we have professional experts and dedicated experts ready to help you 24/7 with multiple subjects, including Math, Physics, Chemistry, and Biology. All experts are available to solve your problems anytime and anywhere, offering clear step-by-step explanations. With Gauth, you can easily understand and master different subjects.
+
+► EASY TO USE, HOMEWORK IS COOL
+Simply take a photo of your problem, and Gauth will recognize it and crop your question automatically. After uploading, our experts will provide solutions in a few seconds with well-formatted answers and explanations. With Gauth, we hope you can find homework is also fun and easy to understand!
+
+► STUDY TOOLBOX, ALL-IN-ONE APP
+Packed with essential tools like Reading, Writing, Focus Mode, and Calculator. Whether you are struggling with tough books, writing, distraction or calculation, get text simplification, grammar check and math calculation in one app. Gauth helps you to supercharge your academic performance.
+
+► SUBJECTS COVERED
+- Math
+- Biology
+- Physics
+- Chemistry
+- Others
+
+► MATH TOPICS COVERED
+- Math Word problems
+- Algebra (Real Number; Arithmetic; Set theory; Expression; Logarithm; Complex Number)
+- Function (Linear; Quadratic; Polynomial; Exponential; Rational; Logarithmic; Inverse Function)
+- Geometry (Plane & Solid Geometry; Algebra & lines; Lines & Planes in Space; Transformation)
+- Trigonometry (Trigonometric Ratios; Law of Sines; Law of Cosines; Reciprocal Properties)
+- Calculus (Derivatives; Integrals; Limits; the Tangent/Area Math problem)
+- Statistics and Data Analysis (Probability; Data Representation; Poisson/Normal Distribution)
+- Matrix (Matrix Algebra; System of Linear Equations & Matrices)
+- Logic (Reasoning & Proof)
+
+► Want to level up your learning? With Gauth Plus, you will get:
+- Unlimited answers and explanations
+- High accuracy in answers
+- Access to 20M+ tutorial videos
+- A question bank of 100M+
+- 24/7 tutor help
+
+Terms of Service https://h5.gauthmath.com/terms
+Privacy Policy https://h5.gauthmath.com/policy
+
+STAY CONNECTED
+- Tiktok: www.tiktok.com/@gauthofficial
+- Website: www.gauthmath.com
+- Email: support@gauthmath.com",2020-12-11T08:00:00Z,2025-10-30T02:53:14Z
+id,Indonesia,Education,6017,22,6449486871,Question.AI-AI Math Calculator,D3 DIMENSION TECHNOLOGY PTE. LTD,https://apps.apple.com/id/app/question-ai-ai-math-calculator/id6449486871?uo=4,0.0,4.7495,4998,Education,"Experience the future of communication with Question.AI, the ultimate AI Chatbot app that's revolutionizing the way you gather information, communicate, and stay informed across various facets of life. Whether you're a student, a professional at work, an inquisitive mind, or a business enthusiast, our app is designed to make your life easier, smarter, and more efficient in any context.
+
+ 【Key Features】 
+
+- Simplicity at its Best: Seeking answers has never been easier. Just ask your questions, and our intuitive AI will promptly provide you with accurate responses. No need for complex commands or jargon - it's like having a knowledgeable friend by your side 24/7.
+
+- Your Personal Assistant: From quick facts to in-depth research, Question.AI is your personal assistant ready to assist you. Need a definition, explanation, or summary? Count on us to deliver information tailored to your needs.
+
+- Global Connectivity: Break language barriers effortlessly. With the ability to translate into 140+ languages, Question.AI ensures you can communicate and connect with individuals from all around the world. Expand your horizons and broaden your perspectives with ease.
+
+- Intelligent Writing: Enhance your writing with AI-powered suggestions. Whether you're crafting an email, composing a report, or writing creatively, our app's intelligent writing feature offers insightful recommendations to make your content shine.
+
+- Adaptable Across Occasions: Question.AI is your versatile companion across various occasions, whether it's for studying, working, managing your business, or simply enhancing your daily life. We're here to assist you in every scenario.
+
+
+【Why Choose Question.AI?】 
+
+With a commitment to excellence and user satisfaction, Question.AI stands out as the ultimate AI Chatbot app:
+
+- User-Friendly: Our user-centric design prioritizes simplicity and accessibility, ensuring a seamless experience for users of all ages.
+
+- Instant Insights: Get answers in real-time, allowing you to make informed decisions and impress others with your newfound knowledge.
+
+- Trusted Accuracy: Our AI's responses are backed by robust algorithms, ensuring that the information you receive is reliable and up-to-date.
+
+- Empowering Communication: Break down language barriers, foster connections, and engage with a global community effortlessly.
+
+- Unleash Creativity: Elevate your writing and communication skills with AI-powered suggestions that refine and elevate your content.
+
+Ready to embark on a journey of knowledge and connection? Download Question.AI now and experience the future of communication in the palm of your hand. Get started today!
+
+
+【Contact us】
+Email:feedback@questionai.net
+Discord:bit.ly/QuestionAI_DC
+Official Website:www.questionai.com
+Instagram:@question.ai_app
+YouTube:@QuestionAI-Official
+Facebook:bit.ly/QuestionAI_FB
+
+Privary Policy: https://www.questionai.com/privacy-policy
+Terms and Conditions: https://www.questionai.com/useTerm",2023-07-02T07:00:00Z,2025-11-17T05:32:45Z
+id,Indonesia,Education,6017,23,1264951751,Baby Panda World - BabyBus,"BABYBUS CO., LIMITED",https://apps.apple.com/id/app/baby-panda-world-babybus/id1264951751?uo=4,0.0,4.34232,964,Education,"In BabyBus World, there will be new levels each week for you to explore!
+
+Welcome to Baby Panda World. 
+Here, you can make food, run your own food store, become a fashion designer, go on an adventure with dinosaurs, and interact with them to create your own stories!
+
+*Nursery Rhymes:《Baby Shark》is here!
+Product Content:
+*Spuer Panda Supermarket! 
+Kiki is waiting for your help! Visit the Supermarket to buy Fruits and vegetables with them!
+*Dinosaur Planet!
+Dinosaur Planet presents brand new dinosaurs feed them and play with them. 
+* Auto Repair Shop 
+Little Panda's Auto Repair Shop is now open! 
+* Baby Panda's Airplane
+Come and embark on a flying adventure with our cute baby panda! 
+* Music Party
+The music party is starting now! Come and join us! Let's enjoy the exciting atmosphere! 
+* Fruit Farm
+Do you know how fruits and vegetables grow? Come to Super Panda's Fruit Farm, play games with fruits and vegetables and learn about them! 
+* Earthquake Safety
+Hurry up, let’s use earthquake safety tips to keep animals safe. 
+* Summer Café
+Ever dreamed to be a host of a Café? Ever Wanted to be a cook and make coffee, flower tea, yummy cakes and more dishes on your own!
+* Ice Cream Shop
+Summer is the most loved and hottest season. Friends really love ice cream, popsicles, smoothies... Ice Cream Shop is now open in a beautiful seaside resort. 
+* Fashion Dress Up Game
+Kiki's fashionable clothing store is now open for business!Choosing clothes: Dresses, T-shirts, hats, shoes... Which outfit would the customer like?
+* Pet House Design
+Super Panda has 6 pets: Rabbit, hippo, cow, chicken, octopus, and penguin, and he decides to design a house for each pet. Would you like to help Baby Panda and his pets? 
+* Food Party Dress Up
+Super Panda is not at home today, and the foods have decided to hold a dress-up party. Would you help dress up the foods? The foods will invite you to the dress-up party! 
+* Train Captain!
+Are you ready to drive your train together with Super Panda and begin your adventure? Let's set off! 
+* Super Panda Captain!
+It’s time to explore the sea! Follow Kiki, our little captain and see what we encounter out there.
+* Super Panda  Dream Town
+The new stores are opening up in Super Panda's Dream Town! 
+* Fashion Flower DIY
+Do you like flowers?  Then come to Super Panda's Fashion Flower Shop for flower-based products DIY! 
+* Princess Makeup!
+Come and run the princess makeup salon with Super panda!
+
+Hey! There are all kinds of interesting stories in [Baby Panda World]. What are you waiting for? Download [Baby Panda World] and explore more mysteries of the underwater world and dinosaurs! 
+
+Features: 
+- Select more fun games for your age! 
+- 5 areas available for exploration: food, animal, career, painting and music! 
+- Over 100 kinds of interactive games: dressing up the princess, doodling, desert adventure, underwater rescue and more for your choice! 
+- More will be updated: all your needs will be satisfied here. Enjoy your stay in the world!!
+
+About BabyBus
+—————
+Subscription details:
+http://h5.babybus.com/protocol/AgreementAll.html
+Privacy Policy： 
+We know how important privacy is to you and your family.Learn more about our privacy policy here:
+http://h5.babybus.com/protocol/PolicyAll.html  
+Terms of Service: 
+http://h5.babybus.com/protocol/ServiceAll.html
+—————
+At BabyBus, we dedicate ourselves to sparking kids' creativity, imagination and curiosity,and designing our products through the kids' perspective to help them explore the world on their own.   
+Now BabyBus offers a wide variety of products, videos and other educational content for over 350 million fans from ages 0-8 around the world! We have produced more than 150 children's educational games, 700 children's songs, and animations of various themes spanning the arts, health, and science.                      
+—————
+Contact us:  babypandaworld@babybus.com
+Visit us: https://app.babybus.com/",2018-02-02T07:43:56Z,2025-11-10T01:07:38Z
+id,Indonesia,Education,6017,24,6744680024,Forex Trading Guide,ATV DISTRIBUTING LLC,https://apps.apple.com/id/app/forex-trading-guide/id6744680024?uo=4,0.0,3.84211,38,Education,"Ever dreamed of mastering the Forex market — without risking a single cent? Stop watching others trade. It's time to learn, and grow your skills — all in one app.
+
+Forex Trading Guide isn’t just another generic course. It’s your personal training ground for real market action — minus the pressure.
+
+What makes it different?
+
+Realistic Forex Simulation
+Practice trading in lifelike conditions with zero risk. The simulator mirrors real-time market dynamics, giving you experience that actually matters.
+
+Smart Learning, Not Boring Lessons
+Forget dry textbooks and endless videos. Here, you get structured lessons, mini-challenges, and interactive tasks designed specifically for beginners.
+
+Learn by Doing
+Open trades, analyze charts, manage risks — just like real traders. Every interaction teaches you something. No theory without practice.
+
+Track Your Progress
+See how you improve with every session. Monitor your growth, spot your strengths, and understand where to level up.
+
+From Beginner to Confident Trader
+No experience? No problem. If you can swipe, tap, and think — you’re already ready.
+
+Who is this for?
+
+- Curious beginners who want to learn trading the smart way;
+
+-Anyone who wants to avoid the risk of losing real money;
+
+-Aspiring traders looking to test strategies in a safe environment;
+
+- People who learn better by doing rather than watching.
+
+Download Forex Trading Guide today.
+
+No risks. No fluff. Just practical learning, realistic simulation, and a clear path to confident trading.",2025-04-27T07:00:00Z,2025-11-11T18:43:49Z
+id,Indonesia,Education,6017,25,6748543061,Scola Safeexam,"INOVASI EDUKASI BANGSA, PT",https://apps.apple.com/id/app/scola-safeexam/id6748543061?uo=4,0.0,1.83333,6,Education,"SCOLA SAFE EXAM is a secure examination platform designed to maintain exam integrity in online or digital learning environments. Ideal for schools, universities, and training centers, the app ensures a controlled and fair exam experience using smart restrictions and monitoring tools.
+
+Key Features:
+ 
+Camera Access for Monitoring: Uses front camera during exams to ensure user presence and prevent cheating.
+
+Prevent Switching Apps: Stops users from navigating away or minimizing the app during tests.
+
+Secure Connectivity: Automatically detects and responds to internet interruptions or suspicious activities.
+
+Identity Confirmation: Supports photo verification for student identity before starting exams.
+
+Easy Admin Integration: Seamlessly connects to the SCOLA backend for scheduling, results, and exam control.
+
+SCOLA SAFE EXAM is built with privacy in mind. Camera access is only used during active exam sessions and no personal data is stored or shared without user consent.",2025-09-11T07:00:00Z,2025-09-11T10:13:07Z

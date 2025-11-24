@@ -1,0 +1,807 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+hk,Hong Kong,Health & Fitness,6013,1,6739987348,WiseMeal: AI 營養識別&健康飲食追蹤,ENJOYMENT INTERNATIONAL LIMITED,https://apps.apple.com/hk/app/wisemeal-ai-%E7%87%9F%E9%A4%8A%E8%AD%98%E5%88%A5-%E5%81%A5%E5%BA%B7%E9%A3%B2%E9%A3%9F%E8%BF%BD%E8%B9%A4/id6739987348?uo=4,0.0,4.13527,207,Health & Fitness,"AI 时代嚟咗，全新嘅健康饮食追踪APP 出世啦！
+
+唔使再麻煩噉逐一搜尋每種食物。只需要影一張相，即刻就可以得到所有卡路里同營養細節。
+
+WiseMeal 嘅核心優勢在於佢嘅準確性、高效性同埋用戶友好嘅體驗設計。我哋真係聽用戶嘅需求。
+
+以下就係用 3 個簡單步驟嚟使用核心功能：
+- 回答幾個問題嚟制定個人化計劃 
+- 拍攝或上傳任何一餐或食物嘅相片 
+- 獲得詳細嘅營養信息，方便追蹤 
+
+我哋對用戶友好嘅設計花咗好多心思，希望你會鍾意：
+- 我哋會識別每一種食物，包括醬料 
+- 你可以添加或刪除特定嘅食物，或者修改佢哋嘅重量 
+- 如果你冇相片，只需用文字搜尋 
+- 你可以定制自己嘅食物列表，方便將來使用 
+- 你可以計劃將來日期嘅餐單 
+- 當你嘅體重變化時，你嘅預算會自動調整 
+- 你嘅營養比例會根據你嘅個人目標而定 
+
+我哋正努力工作，渴望聽到更多你嘅需求同建議。
+WiseMeal 致力於提供有效嘅卡路里追蹤體驗，幫助你輕鬆實現健康同健身目標。
+
+注意：我哋唔提供医疗建议。任何同所有建议都应该睇做系建议，尝试新嘅卡路里同营养计划之前，请咨询专业人士并自己做研究。
+
+使用條款：https://rc.wisemeal.org/web/h5template/6d3b8bc7-a490-4359-9bf4-863fb5f52154-language=zh-CN/dist/index.html
+私隱政策：https://rc.wisemeal.org/web/h5template/f307000e-b6fd-494b-bb00-2ea96529fdc1-language=zh-CN/dist/index.html
+聯繫我哋：wisemeal2025@gmail.com",2025-03-06T08:00:00Z,2025-11-15T11:00:14Z
+hk,Hong Kong,Health & Fitness,6013,2,426826309,Strava：跑步、騎乘、健行,Strava Inc.,https://apps.apple.com/hk/app/strava-%E8%B7%91%E6%AD%A5-%E9%A8%8E%E4%B9%98-%E5%81%A5%E8%A1%8C/id426826309?uo=4,0.0,4.70516,3680,Health & Fitness,"Strava 让健身追踪变得社交化。我们将你所有积极的旅程都集中在同一个地方，以便于你与朋友分享了。方法如下：
+
+把一切记录下来：跑步、骑车、远足、瑜伽和 30 多种其他类型的运动。你就把 Strava 视为你的运动大本营吧。
+
+随处探索：我们的路线工具使用去识别化的 Strava 数据，可根据你的偏好智能地推荐热门路线。你还可以构建自己的路线。
+
+建立支持网络：Strava 的目的是庆祝运动。在这里，你会找到适合你的社群，并互相鼓励。
+
+以更智能的方式进行训练 - 获得数据洞察力即可了解自己的进度并了解自己应该如何改进。你的训练日志是你的所有锻炼记录。
+
+更加安全地锻炼 - 在户外锻炼时与亲人分享你的实时位置，从而给自己多一层安全保障。
+
+同步你最喜爱的应用程序和设备：Strava 与成千上万的应用程序和设备兼容（Apple Watch、Fitbit、Garmin，数不胜数）。
+
+参加并创建挑战赛 - 和数百万人一起参加月度挑战赛，以追逐新目标、收集数字奖章并保持责任感。
+
+拥抱未经过滤的事物——你在 Strava 上的动态栏中充满了真人的真实努力。这就是我们互相激励的方式。
+
+无论你是世界级运动员还是初学者，你都可以在这里找到属于你的位置。只需记录并继续锻炼即可。
+
+Strava 上有免费版和提供有高级功能的订阅版。
+
+Strava 通过 HealthKit 将你的 Strava 活动导出到健康应用程序，以便于读取心率和生物特征数据。
+
+你可以用你的 Apple ID 在 App Store 上订阅和付款。确认购买后，系统会从你的 Apple ID 账户中扣除款项。除非在当前订阅期结束前至少 24 小时前取消订阅，否则你的订阅会自动续订。系统会在当前期限结束前 24 小时内从你的帐户收取续订费用。订阅可以由用户管理，购买后可通过转到设置中的“管理订阅”页面关闭自动续订。免费试用期的任何未使用部分（如果提供了的话）将在用户购买该发布的订阅时被作废（如适用）。订阅会以相同的费用续订。
+
+服务条款：https://www.strava.com/legal/terms
+隐私政策：https://www.strava.com/legal/privacy",2011-03-24T06:41:32Z,2025-11-19T21:16:00Z
+hk,Hong Kong,Health & Fitness,6013,3,1493500777,小米運動健康,"Beijing Xiaomi Co., Ltd",https://apps.apple.com/hk/app/%E5%B0%8F%E7%B1%B3%E9%81%8B%E5%8B%95%E5%81%A5%E5%BA%B7/id1493500777?uo=4,0.0,4.56961,18432,Health & Fitness,"小米運動健康是一款整合小米手錶/手環運動數據與健康服務的應用程序，為用戶提供專業、極致的使用體驗， 打造貼心的個人健康助手。後續將會支持更多穿戴設備，開發更多好用好玩的功能，敬請期待。
+
+小米運動健康支持：小米手錶系列、紅米手錶系列、小米手環系列、紅米手環系列
+
+【十大運動模式，精準記錄】
+我們的應用程式可以精確地記錄運動數據：支援跑步、騎行、登山、越野等17種運動模式的記錄，只需開啟應用程式即可查看每次運動的完整數據。每天、每周和每月的運動情況一目了然。此外，您還可以根據個人情況設定目標，著力完成並督促自己更積極地運動。
+【夜晚睡眠監測，專業分析】
+搭配擁有睡眠監測功能的小米穿戴裝置，每晚記錄睡眠資訊，透過深度分析深睡、淺睡、快速眼動等睡眠狀態，以及睡眠心率、呼吸品質、翻身等睡眠身體資料，生成專屬睡眠報告，提醒您及時調整睡眠習慣。
+【健康管理小助手，隨時查看身體狀態】
+小米运动健康協助您管理個人健康，讓您永遠保持最佳狀態。通過連接我們的小米或紅米智能手錶/手環設備，全天監控心率、睡眠、壓力、能量等重要健康指標並發出風險預警。體重、女性健康等健康數據也可手動記錄和管理。
+【Alexa智能助理，語音操控智能家居】
+喚醒全能的Amazon Alexa，一句話幫你開始運動，播放音樂，查看天氣...快來開啟她，讓她做你的貼身智能助理吧。
+【各項貼身提醒，不錯過每一個重要時刻】
+可以在小米運動健康App裡設置你所需要的應用通知或事件提醒，例如WhatsApp、Instagram、Line、短信等，通過手錶隨時提醒你，不讓你錯過任何一個重要時刻。
+
+免責聲明：
+除了為使用者提供手動記錄健康信息服務外，應用程序內的所有健康服務都僅為同步並記錄手環或手錶的相關信息。所有健康相關的數據、結果、建議等僅供參考，不用於醫療用途，包括自我診斷或諮詢醫生，僅用於一般健身和健康目的。
+
+目前接入應用的所有手環/手錶產品並非醫療設備，無法提供任何形式的醫療服務，如有身體不適請及時諮詢醫療機構。",2020-06-14T07:00:00Z,2025-11-17T11:26:23Z
+hk,Hong Kong,Health & Fitness,6013,4,6740115642,HUAWEI Health: Global,"Huawei Services (Hong Kong) Co., Limited",https://apps.apple.com/hk/app/huawei-health-global/id6740115642?uo=4,0.0,4.65714,35,Health & Fitness,"The brand new ""HUAWEI Health: Global"" app has been launched to bring the ""HUAWEI Health+"" membership features to all users across Europe, such as ""Workouts"", ""Yoga"", ""Mindful Meditation"", and ""Sleep Music"".
+
+Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep track of your health, or conveniently manage your smart wearable devices, the Huawei Health app has what you're looking for. Keep your data private, or share it with your loved ones, the power's yours. The latest in health and fitness technology, made simple, secure, and easy to use.
+
+Keeps Up with Your Every Move
+Keep track of your health journey. Huawei Health records your activity, supporting over 100 different sports, from beginner to advanced levels. See your workout data clearly every step of the way, so you can be sure you're reaching your goals. A wonderful world of fitness at the tip of your fingers.
+
+Run How You Want
+A simpler way to run that can benefit anyone. The app is able to record and map out your route as you're running, all while displaying key information so you can stay on target.
+
+An Amazing Journey
+Share your health journey with your friends and family. Your outdoor workout routes can be generated into videos with music for you to proudly share. Use Dynamic tracking to create videos to share on social media to inspire yourself and others with your fitness journey.
+
+A New View on Health
+See your life in amazing detail with Huawei Health stats. The app keeps records of your heart rate, weight, sleep quality, step count and more. All your data is shown in clear, dynamic graphs so you have a better understanding of your health in a more accessible way.
+
+[health package]
+·Synchronize with the weight data in healthkit. When you use the healthy weight data of Huawei mobile phone, this data will be synchronized and recorded in healthkit.
+·Synchronize with motion data in healthkit. You can automatically synchronize the exercise data recorded in Huawei health to healthkit. Similarly, Huawei sports health can also obtain the exercise data from healthkit.
+
+--------------------
+Huawei Health app is not intended for medical use, and all data is for reference only.
+You should seek a doctor’s advice in addition to using this app and before making any medical decisions.
+
+--------------------
+--Automatic renewal service agreement(EULA): https://consumer.huawei.com/minisite/cloudservice/health/monservice-terms.htm?code=CN&language=en_US
+--Membership Agreement (including user privacy agreement):https://consumer.huawei.com/minisite/cloudservice/health/member-terms.htm?code=CN&language=en_US",2025-08-26T07:00:00Z,2025-11-19T09:08:45Z
+hk,Hong Kong,Health & Fitness,6013,5,6450329545,卡路里計算器 - Appediet,Appediet Information PTE. LTD,https://apps.apple.com/hk/app/%E5%8D%A1%E8%B7%AF%E9%87%8C%E8%A8%88%E7%AE%97%E5%99%A8-appediet/id6450329545?uo=4,0.0,4.66224,1430,Health & Fitness,"AI时代嚟啦！全新嘅健康饮食追踪App出世啦！ 唔使再麻烦逐样搜寻食物，只需要影一张相，就可以即刻睇到卡路里同营养成分，超方便！
+ 
+如果你搵緊一款免費條碼掃描、食物識別同埋營養追蹤功能齊全嘅卡路里計算器，或者係適合你生活方式（包括間歇性斷食）嘅高效飲食計劃，Appediet就係你嘅最佳選擇。用Appediet嚟追蹤你嘅營養、減肥同埋飲水目標進度，佢係你嘅營養管理個人助手、飲食規劃器、同埋飲食日記，全部一應俱全！
+ 
+Appediet唔係另一款普通嘅節食App。呢款健康App幫你了解自己嘅習慣，分析飲食，幫你做出更聰明嘅選擇，仲有動力同支援幫你達成健康目標。
+ 
+Appediet卡路里計算器可以同「健康」App連接，方便同步數據：
+ ■ 記錄飲食 – 用晒一啲簡單易用嘅工具，飲食追蹤變得更加輕鬆
+ ■ 追蹤斷食 – 安排你嘅斷食時間，輕鬆追蹤進度
+ ■ 自訂目標 – 減肥、增肥、維持體重、營養同體適能目標任你設
+ ■ 查看進度 – 可以總體查看，或者深入分析營養同卡路里
+ 
+同其他飲食App唔同，Appediet嘅功能更勁！
+ • 超簡單食物追蹤 – 只需要輸入或者拍攝食物相，馬上知道卡路里同營養分析
+ • 條碼掃描 – 用條碼掃描食物，快速又準確，啱晒懶人
+ • 唯一有精準食物數據庫嘅飲食App – 超過150萬種食物，108種營養素數據，任你查
+ • 間歇性斷食追蹤 – 安排斷食時間，記錄進展
+ • 宏量營養素追蹤 – 追蹤各種碳水、脂肪、蛋白質嘅詳細資訊，唔使再用其他碳水追蹤器或者生酮App！
+ • 營養追蹤同洞察 – 設定具體目標，追蹤宏量營養素、膽固醇、鈉、纖維等，了解自己嘅營養攝取
+ 
+驗證過嘅成功：
+• 活躍會員平均每週減重0.63公斤 
+• 超過2100萬用戶選擇Appediet，好多都係由其他飲食App轉過嚟
+ 
+更多功能：
+- 解鎖相機潛能 -
+唔使再手動輸入！用Appediet先進嘅AI掃描技術，只要拍下食物相或掃描條碼，App就可以自動識別食物、分析成分，準確計算卡路里。
+- 提升營養知識 -
+探索內建嘅超大食物數據庫，輕鬆查閱詳細營養資料。了解每餐嘅熱量、營養素含量，幫你作出更聰明嘅選擇，實現減重同健康目標。
+- 專屬健康助手 -
+Appediet有個AI健康助手，根據你嘅身體狀況同健康需求，推介適合你嘅食譜。無論有咩健康問題，幾秒鐘就可以搵到答案，隨時查詢每日嘅營養攝取量。
+- 量身定制成功方案 -
+根據你嘅需求，幫你設計個人化嘅健康計劃。無論你係啱啱開始斷食，定係想試下均衡飲食計劃，Appediet都可以提供全面嘅支持同指導。
+- 開啟人生改變旅程 -
+立即下載Appediet，開始你嘅健康轉型之旅！用我哋強大嘅功能同易用界面，幫你改變飲食、健身同體重管理嘅方法。
+ 
+Appediet需要訪問你嘅相機、相冊、HealthKit同健康數據，咁先可以提供無縫嘅使用體驗。授權咗就可以充分發揮應用嘅所有功能。
+ 
+無限訪問會員訂閱
+你可以選擇訂閱，無限使用Appediet所有功能。
+訂閱可以按月或按年計費，具體費用會視乎你選擇嘅方案而定。購買後，費用會自動從你嘅iTunes賬戶扣除。
+除非你係當前週期結束前至少24小時關閉自動續訂，否則訂閱會自動續期。
+你可以隨時管理訂閱，並可以在賬戶設置中關閉自動續訂。
+訂閱開始後，如果有未使用嘅免費試用期會被作廢。
+ 
+使用條款： https://static-cdn-f.appediet.com/policy/appediet/service_en-us.html
+隱私政策： https://static-cdn-f.appediet.com/policy/appediet/privacy_en-us.html
+應用終端用戶協議： https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+ 
+有咩問題可以隨時聯絡我哋：contact@appediet.net
+官方網站：https://www.appediet.com
+Instagram：@appediet_official",2024-05-24T07:00:00Z,2025-11-24T00:10:25Z
+hk,Hong Kong,Health & Fitness,6013,6,1519414455,Dr. Kong,DR. KONG FOOTCARE LIMITED,https://apps.apple.com/hk/app/dr-kong/id1519414455?uo=4,0.0,3.83333,30,Health & Fitness,"全新「Dr. Kong」應用程式專為會員而設，讓您隨時隨地查看會員積分、最新推廣及會員獨家優惠劵。
+
+主要功能包括：
+• 電子版會員卡 – 只需於APP內登記成為會員，即享各項會員優惠
+• 最新推廣 – 緊貼門市最新優惠資訊及會員獨家優惠
+• 電子優惠劵 – 不時為會員送上各款電子優惠劵
+• 分店 – 方便查閱Dr. Kong分店資料及定位搜尋附近之分店位置
+• 會員提示功能 – 會員透過APP可獲取最新推廣、電子優惠劵發放、驗腳及生日優惠等提示
+•網上購物–隨時隨地都可以輕輕鬆鬆在Dr. Kong網店購物。(https://onlineshop.dr-kong.com.hk/)",2020-08-06T07:00:00Z,2023-08-19T06:42:32Z
+hk,Hong Kong,Health & Fitness,6013,7,1610283967,AGE-R medicube Digital Care,"Apr Co., Ltd.",https://apps.apple.com/hk/app/age-r-medicube-digital-care/id1610283967?uo=4,0.0,1.89744,39,Health & Fitness,"■我的專屬程序
+您可以創建適合自己的AGE-R記錄，有系統地進行護理。
+
+■ 前後照片記錄
+記錄使用AGE-R後的變化，可一目了然進行比較。
+
+■ 今天的美容儀通知
+您可以輕鬆透過主頁和推播通知，了解每天需使用的美容儀。
+
+■查看全部使用方法
+各款美容儀教學影片及常見問與答，您都可以在應用程式中查看！
+
+如果您在使用過程中有任何問題，請聯繫medicube客戶服務中心，我們將為您協助！
+
+聯絡方式 ：
+香港 CS- medicubecs_hk@apr-in.com
+台灣 CS- medicubecs_tw@apr-in.com
+( 週六、週日、國定假日休息）
+ 
+咨詢時間：8:00-17:00",2024-02-27T08:00:00Z,2025-11-18T02:37:52Z
+hk,Hong Kong,Health & Fitness,6013,8,1325481372,HUAWEI Health,"Huawei Software Technologies Co., Ltd.",https://apps.apple.com/hk/app/huawei-health/id1325481372?uo=4,0.0,4.58744,2230,Health & Fitness,"Your go-to, integrated health and fitness companion. Whether you want to kick-start your fitness life, keep track of your health, or conveniently manage your smart wearable devices, the Huawei Health app has what you're looking for. Keep your data private, or share it with your loved ones, the power's yours. The latest in health and fitness technology, made simple, secure, and easy to use.
+
+Keeps Up with Your Every Move
+Keep track of your health journey. Huawei Health records your activity, supporting over 100 different sports, from beginner to advanced levels. See your workout data clearly every step of the way, so you can be sure you're reaching your goals. A wonderful world of fitness at the tip of your fingers.
+
+Run How You Want
+A simpler way to run that can benefit anyone. The app is able to record and map out your route as you're running, all while displaying key information so you can stay on target.
+
+An Amazing Journey
+Share your health journey with your friends and family. Your outdoor workout routes can be generated into videos with music for you to proudly share. Use Dynamic tracking to create videos to share on social media to inspire yourself and others with your fitness journey.
+
+A New View on Health
+See your life in amazing detail with Huawei Health stats. The app keeps records of your heart rate, weight, sleep quality, step count and more. All your data is shown in clear, dynamic graphs so you have a better understanding of your health in a more accessible way.
+
+[health package]
+·Synchronize with the weight data in healthkit. When you use the healthy weight data of Huawei mobile phone, this data will be synchronized and recorded in healthkit.
+·Synchronize with motion data in healthkit. You can automatically synchronize the exercise data recorded in Huawei health to healthkit. Similarly, Huawei sports health can also obtain the exercise data from healthkit.
+
+--------------------
+Huawei Health app is not intended for medical use, and all data is for reference only.
+You should seek a doctor’s advice in addition to using this app and before making any medical decisions.
+
+--------------------
+[Description of auto-renewing subscriptions]
+1. Instructions for continuous monthly subscription
+--Subscription period: 1 month
+- Subscription price: 1 yuan for the first month, 15 yuan per month thereafter
+2. Instructions for subscribing and unsubscribing
+--Payment: Debit through the user's iTunes account, and the user will pay immediately after confirming the purchase
+--Renewal: Apple’s iTunes account will be deducted within 24 hours of expiration. After the deduction is successful, the subscription period will be extended by one subscription period
+--Unsubscribe method
+Solution 1. Open the Appstore on your phone, click the blue avatar icon in the upper right corner, and then go to ""Subscription""> ""Huawei Sports Health"" to cancel the subscription.
+Solution 2: 24 hours before the expiration of the current subscription period, go to the iTunes/Apple ID ""Settings Management"" page and turn off the automatic renewal. Cancellation within 24 hours before expiration will result in a subscription fee.
+--Automatic renewal service agreement(EULA): https://consumer.huawei.com/minisite/cloudservice/health/monservice-terms.htm?country=CN&language=zh_Hans_CN
+--Membership Agreement (including user privacy agreement): https://consumer.huawei.com/minisite/cloudservice/health/member-terms.htm?country=CN&language=zh_Hans_CN",2018-03-22T06:38:49Z,2025-11-15T10:18:33Z
+hk,Hong Kong,Health & Fitness,6013,9,387771637,Nike Run Club：跑步、健康、體能,"Nike, Inc",https://apps.apple.com/hk/app/nike-run-club-%E8%B7%91%E6%AD%A5-%E5%81%A5%E5%BA%B7-%E9%AB%94%E8%83%BD/id387771637?uo=4,0.0,4.47959,13232,Health & Fitness,"Nike Run Club：完美的跑步夥伴
+
+為了協助你提高跑步成效，Nike Run Club 提供所有你可能會需要的工具，包含 GPS 跑步追蹤功能、語音指導、每週/月及自訂距離的挑戰活動、可根據你的目標進行調整的客製化教練計畫，還能讓朋友為你加油打氣，持續提供前進的動力。快來使用 Nike Run Club，一面享受跑步樂趣，一面邁向目標。
+
+- 完整支援 APPLE WATCH SERIES 5
+- 追蹤及儲存跑步記錄
+- 由 NIKE 教練及運動員提供語音指導
+- 參加全球及自訂挑戰活動
+- 依個人需求打造的教練計畫
+- 以獎盃及徽章慶祝自己的成就
+- 在排行榜上一較高下
+- 在跑步時收到朋友的加油打氣
+- 與任何人分享跑步記錄
+
+支援 APPLE WATCH 及 APPLE WATCH NIKE
+完美的跑步夥伴就在你手腕上。Nike Run Club 應用程式已針對每一代 Apple Watch 進行最佳化，只要在主畫面捲動，即可選擇目標，或是開始使用語音指導功能；向左滑動可以自訂跑步相關資料，或是啟用在跑步時接收朋友加油聲的功能。如要瞭解近期跑步記錄的詳細資料，請查看「Activity History」(活動歷程記錄)。注意：Apple Watch Series 1 不支援 GPS。
+
+追蹤及儲存跑步記錄
+輕鬆取得所有需要的詳細資訊，包括配速、距離、GPS 路線、高度、心率，以及英哩分段，還可透過語音回饋持續獲得前進動力。
+
+由 NIKE 教練及運動員提供語音指導
+透過 Nike 教練、Mo Farah 等菁英運動員，以及 Kevin Hart 等藝人的語音訊息，獲得跑步指導、激勵與啟發。語音指導可協助跑者以充滿樂趣的方式提升肌力、速度及耐力。由於系統會自動標記區間，因此你只需輕觸「Start」(開始) 並邁開腳步即可。每組語音指導都搭配了特定的播放清單，所以別忘了連線至 Apple Music 或 Spotify，以獲得最佳跑步體驗。
+
+利用挑戰活動激勵自己
+你可以加入 Nike 全球跑者社群的每週和每月距離挑戰活動，也可以自行建立挑戰活動，然後邀請朋友一同參與。達到目標、贏得成就、長征千里。
+
+專為你量身打造的個人化教練計畫
+無論你是想踏出第一步、變得更強健或是做好出賽準備，NRC 都能針對你的目標及體適能狀態提供可自由調整的計畫。
+
+以獎盃及徽章慶祝自己的成就
+在打破 5K 最快記錄或達成最長跑步距離等個人記錄時，都能贏得徽章及獎盃，慶祝自己抵達新的里程碑。
+
+在排行榜上一較高下
+在距離排行榜上，輕鬆與朋友比較及競逐排名。
+
+在跑步時收到朋友的加油打氣
+在跑步時收到朋友的語音加油，獲得持續前進的動力。你也可以傳送自己的加油聲給朋友，表達你對他們的支持。
+
+Nike Run Club 可與 Apple Health 搭配使用，將運動計畫同步處理並記錄心率資料。
+
+在背景持續執行 GPS 可能會縮短電池使用時間。",2010-09-06T07:00:00Z,2025-10-27T16:37:32Z
+hk,Hong Kong,Health & Fitness,6013,10,341232718,MyFitnessPal 的卡路里計算機和膳食追蹤工具,"MyFitnessPal, Inc.",https://apps.apple.com/hk/app/myfitnesspal-%E7%9A%84%E5%8D%A1%E8%B7%AF%E9%87%8C%E8%A8%88%E7%AE%97%E6%A9%9F%E5%92%8C%E8%86%B3%E9%A3%9F%E8%BF%BD%E8%B9%A4%E5%B7%A5%E5%85%B7/id341232718?uo=4,0.0,4.64536,7760,Health & Fitness,"使用 MyFitnessPal 追蹤您的營養、體適能、減肥和飲水目標進度。這款綜合飲食追蹤和健康應用程式就像一個可以始終隨身攜帶的營養導師、間歇性斷食追蹤器、飲食規劃器、和飲食日記。
+
+MyFitnessPal 並非另一款節食應用程式。這款健康應用程式可以幫助您了解各項習慣，洞悉您的飲食，協助做出更明智的飲食選擇，尋找動機和支援，然後實現您的健康目標。
+
+馬上下載並開始免費試用 Premium 30 天、獲取獨家飲食追蹤、間歇性斷食計時器、和健康記錄工具。您很快就會發現 MyFitnessPal 為何成為全球首屈一指的飲食和營養追蹤應用程式。
+
+各項功能遠超卡路里追蹤應用程式和飲食日記
+
+感覺就像在身邊隨身攜帶一名營養師、私人教練和營養導師。
+
+■ 記錄飲食 – 各種易於使用的工具讓飲食追蹤更輕鬆、更簡單
+■ 追蹤斷食 – 安排您的斷食期間並追蹤進展
+■ 追蹤活動 – 利用體適能追蹤工具添加健身活動與步數
+■ 自訂目標 – 減肥、增肥、維持體重、營養與體適能目標
+■ 查看進度 – 總體追蹤或詳細分析營養和卡路里
+■ 聯繫社群 – 在活躍的討論區尋找朋友與動力
+
+功能與優勢詳細介紹
+
+透過飲食記錄獲取有價值的分析資訊
+發現哪些食物能夠以最佳方式為您提供能量。這並非單純的節食應用程式、減肥卡路里計數器或者更快的減肥方法，而是讓您對自己負責，並了解每天攝入的食物。 
+
+■ 最大的食物資料庫之一–可追蹤超過 1,400 萬種食物（包括餐廳菜式）的卡路里
+■ 新的間歇性斷食追蹤器–安排您的斷食時間並以日記記錄進展
+■ 快速和簡單的食物追蹤工具–輸入以搜索，從歷史記錄中添加食物，或使用手機攝像頭掃描條碼
+■ 卡路里追蹤工具–自動計算卡路里，並見證自己每天的進步
+■ 宏觀追蹤–按克數或百分比洞悉各種碳水化合物、脂肪和蛋白質的詳細資訊，無需獨立的碳水化合物追蹤器或生酮飲食應用程式！
+■ 營養追蹤和洞察力–分析營養攝入並設定具體的目標：宏觀目標、膽固醇、鈉、纖維和更多其他目標
+
+
+自訂您的應用程式體驗
+選擇各種設定來幫助您實現目標。
+
+■ 自訂目標–按餐膳或按日子追蹤卡路里，設立宏觀目標和更多內容
+■ 個人化儀錶板–選擇您希望總覽查看的統計資料
+■ 蛋白質計數器–設定蛋白質目標，並記錄您每天攝入的蛋白質數量
+■ 添加自己的食物/膳食追蹤–保存食譜和膳食，以進行快速記錄
+■ 連接 50 多個應用程式與裝置–從體適能追蹤應用程式到智慧手錶應用程式
+■ 透過可穿戴作業系統進行追蹤–在您的錶盤上顯示卡路里追蹤器、飲水追蹤器和宏觀追蹤器。
+
+
+訂閱價格與條款
+
+MyFitnessPal 可供免費下載和使用。如果升級到 MyFitnessPal Premium，我們可提供每月和每年自動續期的訂閱服務。
+
+在確認購買後，將透過您的 iTunes 帳戶從您的信用卡扣除付款。除非在購買後，您在 iTunes 帳戶設定中關閉自動更新，或者在訂閱期結束前至少 24 小時取消訂閱，否則，訂閱會自動續期。
+
+檢視我們的條款與條件和隱私政策的完整版本：https://www.myfitnesspal.com/privacy-and-terms",2009-12-08T02:04:45Z,2025-11-18T18:49:57Z
+hk,Hong Kong,Health & Fitness,6013,11,952694580,Keep - AI 运动教练,"Beijing Calorie Technology Co., Ltd.",https://apps.apple.com/hk/app/keep-ai-%E8%BF%90%E5%8A%A8%E6%95%99%E7%BB%83/id952694580?uo=4,0.0,4.76464,8069,Health & Fitness,"Keep AI 教练全新升级 | 当运动遇见 AI，开启科学运动新纪元！‌
+
+在 Keep，与 4 亿运动爱好者共同见证科技与运动的完美碰撞！基于 Keep 垂类运动模型 Kinetic.ai，AI 教练卡卡全新上线，更智能、更个性、更有温度地全程陪伴你的每一次运动。无论你是运动小白还是运动达人，卡卡都将化身你的随身 AI 教练，为你解答运动难题，制定运动计划，帮助你完成目标。卡卡将与你一起见证每一滴坚持的汗水，一起感受每一次运动的快乐。
+
+你是否遇到以下问题：
+- 想在家里运动，空有热情但无从下手？
+- 在健身房不知道从哪个器械开始运动？
+- 明明定好了跑步计划，每次跑步感觉很累，但就是坚持不下来？
+- 想完成一次马拉松，不知道该如何开始？
+- 各种运动数据散落在不同平台，查看起来不方便？
+- 运动数据指标越来越多，不理解其中含义？
+- 想控制饮食，不知道每次吃的有没有热量超标？
+
+ Keep AI 教练可以：
+- 根据你的运动目标、场地以及有无器械，基于你的基础数据，结合运动习惯、饮食偏好、实时心率等多维度分析，为你定制最符合你需求的运动计划。无论是减脂、增肌、塑形还是跑步备赛计划，卡卡都可以定制以及调整适配。
+- 全程语音指导动作细节：""核心收紧！""""膝盖对准脚尖！"" ""控制你的步频。""无论是在室内运动还是户外跑步，健身房还是居家训练，卡卡都可以更好的指导你的动作，帮助你更好的运动。
+- 智能识别图片食物数据和运动数据。你只需打开手机，拍张照片，卡卡可以快速为你快速记录食物热量、体重数据、运动数据。0 成本的掌握全面数据，吃练结合，帮助你更好的完成目标管理。
+- 记录健身、跑步、瑜伽、骑行、徒步等多种品类数据，深度计算你的运动和肌肉能力、运动状态等，帮你全方位了解自己的身体和运动数据。
+
+在 Keep，你还可以获得：
+【自研全品类运动课程】
+直播课、跟练课、增肌、减脂、力量训练，专业教练带你科学健身；
+跑步、跳绳、冥想、瑜伽课程，助你减压、缓解疲劳；
+HIIT、Tabata 有氧燃脂，带你减脂、燃烧你的卡路里！
+更有女性专属生理期、产后恢复训练，遇见更美的自己；
+
+【多样的达人课程内容】
+汇聚众多运动达人，课程内容丰富多样！无论是初学者还是健身达人，都能找到适合自己的课程；
+专业指导，科学训练，让你在轻松愉悦中享受健身的乐趣。与达人一同开启健身之旅！
+
+【丰富的赛事和活动】
+丰富多彩赛事，每日挑战赛、周赛冲榜，让你动力满满；
+同步和查看马拉松、越野赛等户外比赛数据，和大神一起竞技和 PK；
+特色奖牌，记录你的每一份努力与坚持，参与活动，赢取丰厚奖励；
+分享运动动态，在运动社区与运动爱好者一起交流运动经验，感受运动快乐。
+
+【户外路线探索和新玩法】
+城市街道、自然小径，丰富的跑步路线带来不同的跑步体验；
+一键搜索附近路线，轻松开跑体验周边的美好；
+多人组队跑，和好友互鼓励，感受更多跑步的乐趣；
+剧情跑，跑出穿越感、跑出科技感，获得不一样的跑步体验。
+
+【全面的运动健康数据平台】
+健身、跑步、跳绳、瑜伽、骑行、越野跑、计步、羽毛球、飞盘、手环、跑步机… 所有运动数据一站式记录；
+市面上主流的智能穿戴设备、运动手表、手机健康系统数据均已接入，实时同步第三方数据到 Keep，数据 All in one；
+时刻关注自己的变化，记录和同步体重、三围等身体数据，以及最大摄氧量、HRV、心率等健康数据，做到自我的全方位掌控。
+
+
+Keep 会员连续包月说明
+- 订阅周期：1 个月
+- 订阅价格：每月 19 元
+- 付款：用户确认购买并付款后记入 iTunes 账户
+- 取消续订：如需取消续订，请在当前订阅到期 24 小时以前，手动在 iTunes/Apple ID 设置管理中关闭自动续订功能
+- 续订：苹果 iTunes 账户会在到期前 24 小时内扣款，扣款成功后订阅周期顺延 1 个月
+- 隐私政策：http://keep.com/privacy
+- 用户协议：http://keep.com/tos
+
+Keep 会员连续包季说明
+- 订阅周期：1 个季度
+- 订阅价格：每季度 58 元
+- 付款：用户确认购买并付款后记入 iTunes 账户
+- 取消续订：如需取消续订，请在当前订阅到期 24 小时以前，手动在 iTunes/Apple ID 设置管理中关闭自动续订功能
+- 续订：苹果 iTunes 账户会在到期前 24 小时内扣款，扣款成功后订阅周期顺延 1 个季度
+- 隐私政策：http://keep.com/privacy
+- 用户协议：http://keep.com/tos
+
+Keep 会员连续包年说明
+- 订阅周期：1 年
+- 订阅价格：每年 218 元
+- 付款：用户确认购买并付款后记入 iTunes 账户
+- 取消续订：如需取消续订，请在当前订阅到期 24 小时以前，手动在 iTunes/Apple ID 设置管理中关闭自动续订功能
+- 续订：苹果 iTunes 账户会在到期前 24 小时内扣款，扣款成功后订阅周期顺延 1 年
+- 隐私政策：http://keep.com/privacy
+- 用户协议：http://keep.com/tos
+
+注意事项
+- 由于跑步功能具有后台语音提醒，切换至后台播报时仍会保持 GPS 连接。语音播报可以帮助用户在切换至后台时会播报速度等相关参数，但是 GPS 在后台持续运行会影响电池续航时间。
+- 持续使用跑步 GPS 在后台可能会衰减您的电池寿命。
+- Keep 已接入 HealthKit，可同步训练数据到「健康」。
+
+#处处皆主场#
+#自律给我自由#
+#哪有什么天生如此，只是我们天天坚持#
+#AI 教练#
+如需要帮助或获取更多信息，请关注和联系：
+微博 @Keep
+微信公众号「gotokeep」
+抖音「Keep」
+小红书「Keep」
+邮箱 hi@gotokeep.com
+
+Keep — 自律给我自由！",2015-02-04T08:09:06Z,2025-11-19T09:39:50Z
+hk,Hong Kong,Health & Fitness,6013,12,583446403,Garmin Connect™,Garmin International,https://apps.apple.com/hk/app/garmin-connect/id583446403?uo=4,0.0,4.14264,1346,Health & Fitness,"Garmin Connect™ app 為您提供全方位的健康和體能資料。無論您是為了比賽、保持活躍或只是要隨時掌控健康狀況而進行訓練，Garmin Connect 都能提供達成您目標所需的資訊和靈感。 
+ 
+將手機(1) 與 Forerunner®、Venu®、fēnix® 或其他相容的 Garmin 裝置(2) 配對後，您就可以檢視追蹤的活動和健康指標。此外，您還可以建立訓練和路線，並邀請排行榜上的朋友一同參加挑戰。 
+ 
+有了 Garmin Connect，您可以： 
+ 
+- 打造個人化的首頁，以便立即看到最實用的資訊 
+- 以詳細的數據分析您的活動(3)
+- 建立自訂的訓練和路線 
+- 檢視健康指標趨勢，例如心率和步數 
+- 贏得成就勳章 
+- 與其他 app (如 Apple 健康、MyFitnessPal 和 Strava) 同步資料。 
+- 取得 Garmin 裝置及其功能的支援 
+ 
+請前往 Garmin.com 進一步瞭解 Garmin 裝置以及其與 Garmin Connect app 搭配使用的方式。 
+ 
+(1)  請至 Garmin.com/BLE 查看相容需求 
+(2)  請至 garmin.com/p/125677#devices 查看相容裝置的完整清單 
+(3)  請查看 Garmin.com/ataccuracy  
+ 
+注意：持續在背景使用 GPS 可能會快速降低電池效能。",2013-03-18T22:02:54Z,2025-11-14T16:42:53Z
+hk,Hong Kong,Health & Fitness,6013,13,509466853,鴻福堂,Hung Fook Tong Franchise System Management Limited,https://apps.apple.com/hk/app/%E9%B4%BB%E7%A6%8F%E5%A0%82/id509466853?uo=4,0.0,1.77686,121,Health & Fitness,"1. 【自家PAY】
+不用隨身攜帶自家CLUB會員卡，透過手機程式便可於鴻福堂分店付款及兌換產品
+
+2. 【電子優惠券】
+APP獨家優惠券，隨時盡享豐富獎賞
+
+3. 【草本ｅ券】
+輕鬆兌換ｅ券及分享給親友，分享ｅ券增設留言功能，分享心意更窩心
+
+4. 【增值功能】
+會員可隨時隨地於鴻福堂APP內為會籍增值，自助又方便
+
+5. 【電子印花】
+會員可清楚查閱會籍內之電子印花概況
+
+6. 【訪客登記】
+免費登記成為Fans，即享各大熱門優惠
+
+7. 【最新消息】
+隨時接收優惠資訊及個人訊息
+
+8. 【分店搜尋】
+搜尋最近的鴻福堂分店位置",2012-03-30T23:27:25Z,2025-07-21T03:21:33Z
+hk,Hong Kong,Health & Fitness,6013,14,1346247457,"Endel: Focus, Sleep, Relax",Endel Sound GmbH,https://apps.apple.com/hk/app/endel-focus-sleep-relax/id1346247457?uo=4,0.0,4.63754,309,Health & Fitness,"Focus, relax, and sleep through the power of sound. Endel creates AI-powered sounds designed to support your everyday life. Backed by science, and enjoyed by millions worldwide.
+
+Endel is powered by its patented core AI technology. It takes inputs like location, environment, and heart rate, to create the optimal personalized soundscape. This happens on the fly and allows Endel to reconnect your state with your circadian rhythm.
+
+Get access to the following classic soundscapes at home, work, or on the move to relax, concentrate, and minimize distractions and brain fatigue:
+
+
+• Focus – boosts your productivity by helping you concentrate for longer
+
+• Sleep – soothes you into a deep sleep with soft, gentle sounds
+
+• Relax – calms your mind to create feelings of comfort and safety
+
+• Move – feel grounded and present while walking, hiking, or running
+
+
+ENDEL PREMIUM SUBSCRIPTION
+
+
+Alongside the classics, the Premium package contains the following Endel Soundscapes and features:
+
+• Colored Noise – choose one of 9 colors of noise to focus, relax, sleep, and mask outside sound
+
+• Study – improves concentration and keeps you calm while studying or working
+
+• Dynamic Focus – get your perfect productivity support with real-time sound tuning
+
+• Hibernation – nourish your ears with cozy sounds for cold-season slumber
+
+• Nature Elements – nurture the mind with sounds of nature, your way
+
+• Rainy Outside – cozy up to the gentle patter of rain, blended with sleep-aiding sounds
+
+• Recovery – revives your wellbeing with sounds engineered to lower anxiety
+
+• Spatial Orbit – venture into a more peaceful dimension with an immersive Spatial Audio experience
+
+• Focus Timer – the famous interval work method, upgraded with science-backed Focus sounds
+
+
+On top of the much-loved original Endel soundscapes, Endel works with innovative artists and thinkers to create unique experiences. These collaborative Endel Soundscapes are available for Premium users:
+
+
+• James Blake: Wind Down – prepare your body for sleep with soothing sounds from an award-winning artist
+
+• Grimes: AI Lullaby – supports sleep for babies and adults with original sounds and vocals from Grimes
+
+• Plastikman: Deeper Focus – a deep focus techno soundscape created with Richie Hawtin
+
+• Alan Watts: Wiggly Wisdom – soothing and motivation spoken word soundscape, infused with the playful wisdom from Alan Watts
+
+• Miguel: Clarity Trip – elevate your every step with original sounds from Miguel
+
+Endel Pacific is the patented technology that powers our apps and integrations. 
+
+All soundscapes are available offline.
+
+Apart from the Premium sounds and features, Endel Premium users get access to the exclusive Apple Podcast shows.
+
+
+SUBSCRIPTION TERMS
+
+
+Skip the payment screen by tapping “X” in the top-right corner of the offer. The Free Edition of Endel will start automatically.
+
+You can get access to Endel Premium by subscribing to a recurrent plan of your choice or with a one-time Lifetime purchase.
+
+Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+
+Payment will be charged to your Apple account at confirmation of purchase.
+
+Account will be charged for renewal within 24 hours of the end of the current period, and the cost of the renewal will be provided.
+
+Subscriptions may be managed by the user. Auto-renewal may be turned off by going to the user’s Account Settings after purchase.
+
+No cancellation of the current subscription is allowed during the active subscription period.
+
+Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication.
+
+
+For more information:
+
+
+Terms of Use - https://endel.zendesk.com/hc/en-us/articles/360003558200
+
+Privacy Policy - https://endel.zendesk.com/hc/en-us/articles/360003562619",2018-06-21T07:00:00Z,2025-11-18T11:24:57Z
+hk,Hong Kong,Health & Fitness,6013,15,1666784566,健康網購 health.ESDlife,ESD Services Limited,https://apps.apple.com/hk/app/%E5%81%A5%E5%BA%B7%E7%B6%B2%E8%B3%BC-health-esdlife/id1666784566?uo=4,0.0,2.625,16,Health & Fitness,"「健康網購（health.esdlife）」是生活易（ESDlife）旗下一個成立了逾10年以「健康生活」為理念的電子商貿平台，屬長江和記實業成員。健康網購致力與優質及信譽良好的體檢中心及健康品牌合作，為大眾搜羅多種預防、監察及保障健康的產品。
+
+重點功能及禮遇：
+- 專門搜羅健康生活的所需，提供超過千個體檢計劃及健康產品包括保健品、水質管理及家居產品
+- 搜尋及比較功能，簡單易用，幫你搵出高性價比產品
+- 健康資訊分享，多達30+專業健康範疇
+- 限時App 專享優惠，包含你的個人化電子優惠券
+- 會員禮遇賺取eDollar用作抵銷消費，簡易管理訂購紀錄，
+
+免責聲明：「健康網購health.ESDlife應用程式」不是醫療設備，亦無提供醫療建議。該應用程式的內容不能取代專業醫護人員的醫療意見、診斷或治療。如果對於醫療狀況有任何疑問，請立即尋求醫生或其他合資格醫療服務提供者的建議。 
+
+立即免費下載「健康網購」app！",2023-03-13T07:00:00Z,2025-09-26T02:53:07Z
+hk,Hong Kong,Health & Fitness,6013,16,912947244,"ClassPass: Fitness, Spa, Salon","ClassPass, LLC",https://apps.apple.com/hk/app/classpass-fitness-spa-salon/id912947244?uo=4,0.0,4.52911,2525,Health & Fitness,"Download ClassPass today to book fitness classes & appointments at the top studios, gyms, salons and spas near you!
+
+
+How it works:
+• Download the free ClassPass app.
+• Sign up for a free trial and get credits to try activities like yoga, pilates, gym visits and more from some of our top-rated businesses — on us.
+• Browse studios, gyms, salons & spas near you (pro tip: filter by reservation type, location, time & more to easily find what you’re looking for!).
+• Book classes & appointments instantly without needing to create additional accounts or enter payment details.
+• After your trial, customize a plan that works best with your fitness & wellness routine.
+• Roll over unused credits up to the number of credits in your next month’s plan.
+• You’re never locked in – change or cancel your plan at any time.
+
+How to make the most of your membership:
+• Access thousands of the world’s leading fitness studios, gyms, salons and spas including CorePower Yoga, [solidcore], PureBarre, Glosslab & more!
+• Browse a list of recommended studios, gyms, salons & spas curated just for you.
+• Bookmark your favorites.
+• Invite friends to class and earn rewards.
+• Connect with friends who are already ClassPassers.
+• Receive badges to celebrate your milestones and share them with friends.
+• Read reviews & ratings from other ClassPassers to know what to expect with each reservation.
+
+ClassPass is available in more than 30 countries including: USA, Canada, Australia, New Zealand, United Kingdom, Ireland, France, Germany, Netherlands, Spain, Portugal, Switzerland, Austria, Sweden, Denmark, Finland, Norway, Singapore, Hong Kong, Malaysia, Thailand, Indonesia, Philippines, China, India, the United Arab Emirates, Brazil, Argentina & Chile",2014-12-18T06:12:35Z,2025-11-10T17:55:42Z
+hk,Hong Kong,Health & Fitness,6013,17,634896669,美柚 - 經期·備孕·懷孕·育兒&親友版,"Xiamen Meet You Co., Ltd.",https://apps.apple.com/hk/app/%E7%BE%8E%E6%9F%9A-%E7%B6%93%E6%9C%9F-%E5%82%99%E5%AD%95-%E6%87%B7%E5%AD%95-%E8%82%B2%E5%85%92-%E8%A6%AA%E5%8F%8B%E7%89%88/id634896669?uo=4,0.0,4.776,4884,Health & Fitness,"下载量突破3亿次的女性健康管理App。
+
+热门影视综艺推荐App，贴心守护你。
+
+不仅有越用越懂你的经期智能提醒模式，还可根据需要切换为备孕/怀孕/育儿模式，为准妈妈们提供丰富的孕产知识，贴心的孕期提醒。记录宝宝成长瞬间，给妈妈们提供宝宝成长的科学建议。同时还为女生提供了健康、情感、瘦身、美容、购物的知识贴，内置真实的女生交流区，陪伴女性的每一个重要时期！
+
+美柚已接入HealthKit，可以从健康App同步您的运动数据。
+
+●俘获女人心的四大功能●
+
+#智能预测，及时提醒月经期#
+女生的贴身健康管家，记录、预测、提醒，一应俱全，记录你每天的心情、健康细节，帮助你养成良好的生活习惯，让你随时了解自己的生理状况。
+
+#不同模式，关爱需求各异的女性#
+提供经期、备孕、怀孕、育儿四大模式。科学备孕，排卵日一查便知；健康怀孕，知识每日推送，食物能不能吃一查便知；育儿护航，记录宝宝成长每一刻。
+
+#吃饭睡觉聊八卦，一起扎堆她她圈#
+一个可以分享心事，与同好结盟，供你安放情感的真实女性社区！多个火爆圈子，涵盖生活的方方面面，情感、美食、旅行、影视综艺、护肤美容…总有一处让你拥有归属感！
+
+#柚子街，手机上的女人街#
+汇集低价好货，每天近百款新品逛到上瘾，1元购、9.9元购，无需挣扎的价格，放肆购物的快感，激发变美的灵感，增添生活的情趣和品位。
+
+美柚，等待遇见更美的你！
+
+===美柚会员自动续费服务声明 ===
+【美柚会员权益】智能分析、桌面小组件、专业健康测评、免除广告等多项权益。
+【订阅周期】
+美柚会员-连续包月:订阅周期1个月
+美柚会员-连续包季:订阅周期3个月
+美柚会员-连续包年:订阅周期12个月
+【订阅价格】以iAP申请信息为准，例如连续包月产品为每月15元；连续包季产品为每季度42元；连续包年产品为每年158元。
+【付款】用户确认购买并付款后计入iTunes账户:
+【续订】“连续包月/季/年”商品为自动续费商品，确认购买后，会从您的iTunes账户扣费。订阅将会自动续订，除非在当前订阅结束前至少24小时关闭自动续订在您订阅周期到期前 24小时内，苹果会自动从iTunes账户扣费，成功后会员有效期自动延长一个周期。
+【取消续订】如需取消自动续费，请手动在苹果手机「设置」--点击「Apple ID」，选择进入「订阅」页面，选择「美柚」取消订阅即可。
+
+会员用户服务协议：https://nodejs-user.seeyouyima.com/users/vip-agreement.html
+会员自动续费服务协议：https://nodejs-user.seeyouyima.com/users/vip-renewal-agreement.html",2013-04-19T22:35:36Z,2025-11-17T01:25:58Z
+hk,Hong Kong,Health & Fitness,6013,18,6443576145,家支援 - 2.0,HKU TELI,https://apps.apple.com/hk/app/%E5%AE%B6%E6%94%AF%E6%8F%B4-2-0/id6443576145?uo=4,0.0,4.66667,39,Health & Fitness,"「家支援」社區紓緩治療應用程式，是香港大學李嘉誠醫學院臨床腫瘤科屬下的一個項目，旨在支援社區內的晚期癌症病人和其家庭。
+
+取其諧音，「家支援」有「加」強「家」庭支援之意。「家支援」應用程式希望能支援癌症病人和家人在家照顧，為他們加添可用資源，讓他們以正面積極的心態來面對癌病。
+
+「家支援」不但提供有關癌症資訊、紓緩治療和安寧服務的資料，以裝備患者和家人有足夠知識在家護理，註冊用戶更可記錄他們的症狀，並透過此應用程式與醫護人員聯絡。
+
+此應用程式也為醫學生及護理學生提供有關癌症治療和紓緩治療的教材，我們期望新一代的醫護人士能為癌症病人提供更優質的服務。
+
+經歷癌症旅程一點也不容易。讓我們在你身旁，支持你，為你加油打氣！
+
+此項目由中國銀行（香港）（「中銀香港」）全額資助，在此非常感謝中銀香港的慷慨支持。""
+
+免責聲明：本應用程式所載資訊，僅供一般教育和參考用途。有關資訊並不是就任何個案或病人給予醫學建議、診斷或治療，亦不應取代專業醫學建議、診斷或治療。如你有任何健康問題，應向你的主診醫生或醫療專業人員諮詢，而不應只依靠本應用程式所提供的資訊。",2022-10-26T07:00:00Z,2025-11-06T07:08:07Z
+hk,Hong Kong,Health & Fitness,6013,19,1471090850,24/7 Fitness,KK8 Limited,https://apps.apple.com/hk/app/24-7-fitness/id1471090850?uo=4,0.0,2.81818,22,Health & Fitness,"24/7 Fitness brings in advanced eco-friendly fitness facilities. We cater to the diversified needs of individuals by adopting a smart & automated gym system with no prepayment & highly transparent pricing. We strive to deliver seamless and stressless gym experience! 
+
+We also offer private and personal trainings, as well as group classes. Our professional coaching team provides personalized and custom-made trainings to help members meet their fitness targets. 
+
+Download our App to experience 24/7 Fitness. Plan and start your fitness journey! You can purchase a membership, view and book a class and check center locations, contact information as well as our news and promotions. These gym technologies are now integrated into your daily life, allowing you to conveniently manage your health through a smartphone App!
+
+For further information, check out our website at https://247.fitness 
+
+24/7 Fitness引入先進環保節能的健身器材，24小時全日開放，照顧到不同客人的需要，推行智能化自助服務，零預繳按月收費的模式，明碼實價，高透明度收費，以優惠及合理的價錢讓你體驗舒適自在、無約束的健身模式。 
+
+我們亦提供私人訓練班及團體訓練班。專業教練團隊為會員提供最個人化的悉心指導，實現健身目標。
+
+立即下載24/7 Fitness全新手機應用程式，計劃和安排你的健身之旅！你可透過手機應用程式盡享個人化功能，輕鬆自助購買會籍、瀏覽及預約課程、查看各分店地點與電話、最新動向及各種優惠。將科技智能融入生活，全面照顧您的健身需要！
+
+歡迎到網頁查看更多資訊https://247.fitness",2019-07-04T10:53:10Z,2022-09-26T20:06:13Z
+hk,Hong Kong,Health & Fitness,6013,20,336599882,adidas Running: Run tracker,runtastic GmbH,https://apps.apple.com/hk/app/adidas-running-run-tracker/id336599882?uo=4,0.0,4.68702,6665,Health & Fitness,"adidas Running is an activity tracker designed for all levels of ability and experience, offering the ideal platform for beginners to start tracking their running journey and logging activities. To help introduce new users to running, numerous adidas Training Plans are available, providing step-by-step guidance that adapts to each user's fitness level—including plans for 3K, 5K, and 10K distances. These plans evolve as users train, making the Walk to Run Training Plan the perfect introduction to running, regardless of previous experience. As you progress, explore additional Training Plans to prepare for your first 10K, half-marathon, marathon, and beyond.
+Getting started with adidas Running is simple: download the app, create your account using your personal details, and set a goal to stay motivated and track your fitness journey. You can begin tracking and logging activities immediately, with nearly 100 options available—including running, walking, cycling, hiking, climbing, tennis, and yoga.
+Sync your activities effortlessly with Health Connect and a wide range of apps and devices, including Garmin, Polar, Amazfit/Zepp, Coros, Suunto, Wañoo, and many more. This makes tracking your progress easier than ever.
+adidas Running is also home to adidas Runners—local and global communities of people staying active together. Find your community and track activities with like-minded individuals, whatever your pace. Stay motivated by joining Challenges and Virtual Races as a group, and earn Badges along the way.
+Staying active has never been more social. Share your tracked runs and other activities with your community, receive real-time Live Cheers from friends during workouts, and support others by following and liking their activities.
+A wide range of features are available to all users, including detailed activity stats like distance, duration, heart rate, pace, calories burned, and cadence. You’ll also benefit from the Progress Tab, Shoe Tracking, and recommendations. Plus, access expert guidance on Movement, Mindset, Recovery, and gear to support your fitness journey.
+
+Runtastic Terms of Service: https://www.runtastic.com/in-app/iphone/appstore/terms
+Runtastic Privacy Policy: https://www.runtastic.com/privacy-notice",2009-11-23T17:28:58Z,2025-11-17T06:23:34Z
+hk,Hong Kong,Health & Fitness,6013,21,6444737095,StressWatch: 壓力即時監測 & 健康習慣,One Hundred Bad Ideas Limited,https://apps.apple.com/hk/app/stresswatch-%E5%A3%93%E5%8A%9B%E5%8D%B3%E6%99%82%E7%9B%A3%E6%B8%AC-%E5%81%A5%E5%BA%B7%E7%BF%92%E6%85%A3/id6444737095?uo=4,0.0,4.78583,1256,Health & Fitness,"StressWatch 已被全球 171 個國家/地區蘋果應用商店推薦——
+◎ 八月最佳 APP
+◎ The Best Apps for iOS 18
+◎ 首頁主打推薦
+◎ Apple Watch 必備
+◎ 新 APP 推薦
+◎ 本周編輯推薦
+
+StressWatch透過分析蘋果手錶HRV心率變異性和靜息心率等數據，幫助你理解當前身體疲勞和心理壓力程度，及時提醒壓力狀態，幫助你更好地感知、管理與應對壓力。StressWatch透過讀取蘋果手錶存儲到蘋果健康內的心率數據來檢測你的HRV（Heart Rate Variability，心率變異性）和靜息心率，及時提醒你的壓力狀態，通過統計分析給出相關洞察，讓身心更平靜輕鬆。生活慢一點也可以溫柔閃亮！
+
+StressWatch可以怎樣幫到你
+
+當我們在深夜加班的時候，StressWatch可以在手錶上提醒我HRV偏低注意壓力——我意識到我今天不需要再卷了，工作留到明天做吧；
+當社恐的我們混在派對裡強顏歡笑的時候，提醒我HRV偏低注意壓力——我意識到我不需要迎合他人，於是換個讓自己更開心的社交方式；
+當我們在喝悶酒時候，提醒我HRV過低壓力過載，我意識到喝酒並不是排解壓力的好辦法，於是會少喝一些更愛惜自己身體；
+把HRV讀數放在手錶表盤上，一抬腕就知道最近的壓力狀況，決定接下來是要卷還是躺；
+堅持良好作息、運動一段時間後，通過每周、每月的統計告訴我這段時間的壓力值比上個月明顯有所下降，整個人狀態都好了很多。
+為什麼做這個產品
+這是一個內卷又焦慮的時代，AI每天都在爆炸性的發展，彷彿要取代我們所有人的工作。每家公司都在996，每個人都活在一不努力就可能被時代抛棄的巨大壓力中。曾經我們也是公司裡的卷王，經常為了公司項目從早上八點一直卷到晚上十二點，跨時區會議多數還拖堂到凌晨。週末彷彿變成了一個遙遠的概念，為了產品能按時上線，放棄週末去加班變成了基本操作。卷得太劇烈，壓力過大，身體都默默承受了，後移的髮際線是身體的求救信號。於是我們開始思考，有沒有更及時的方式能讓我們了解身體的壓力水平。偶然機會了解到HRV這個概念，借助它可以很好地量化我們自身的壓力。
+
+設計理念
+做StressWatch這個App的初衷是想幫助大家在這個焦慮的時代減少壓力慢下來。StressWatch的科學依據是基於HRV（心率變異性）數值的靜息心率的壓力測量，但僅僅告訴用戶冰冷數字容易營造出悲壯的「壓力過載」氛圍（我們不希望大家比慘），生活中也已經有太多的數字了，OKR、KPI、NPS。我們一直在思考，如何給理性的數據注入一些溫度？應該用什麼樣的情感化表達，幫助大家更好的和產品連接以產生共情。
+於是，就有了「壓力泡泡」這個產品形象，「泡泡」就是我們克服壓力緩解焦慮的夥伴，他會隨著你的壓力狀態變化改變自己的顏色，但是無論壓力如何都能泰然處之。我們沒法控制外在的環境，就像我們沒法控制天氣一樣。但無論外面是晴天、雨天、甚至暴風雨，當不同壓力狀態的你每次打開app，都能看到一個神情自如、可愛輕鬆的泡泡。TA提醒你慢一些，在你最慌亂的時候給你的心一個柔軟的擁抱。
+
+未來產品功能規劃
+
+- 更豐富的手錶表盤掛件
+- 手機桌面小組件
+- 快速HRV測量
+- HRV和靜息心率趨勢
+- 每日恢復狀態評估
+- 歡迎聯繫我們
+
+你可以通過以下方式找到我們
+電子郵箱: hi@stresswatch.app
+小紅書 @StressWatch APP
+
+非常期待聽到你的建議，你的支持和建議是我們不斷迭代的動力來源！
+
+訂閱價格和條款
+StressWatch可以免費下載，若選擇升級到StressWatch Pro版本，則可以解鎖所有付費功能。
+我們提供一次性購買、按月和按年自動續訂三種不同的購買選項。
+
+按月或按年訂閱的說明：確認並支付後，將通過你的蘋果iTunes帳號自動續訂。扣費成功後，順延一個訂閱周期。若需退訂，請在當前訂閱期結束前至少24小時內，手動在iTunes / Apple ID設置管理中關閉自動續費功能。試用期內，如不取消訂閱，則會在試用期結束時自動開通訂閱並扣款。本服務由您自助選擇是否取消，若您選擇不取消，將為您開通下一個計費周期的續費服務。
+
+健康建議的免責聲明
+StressWatch提供的所有信息不可以被視作醫療建議或診斷，請勿替代專業的診斷和治療。如果感覺壓力過大無法調節，以及做出任何醫療決定之前，請及時尋求專業醫生幫助。
+
+用戶協議和隱私條款
+用戶協議 https://docs.ideation.love/stresswatch/en/service/terms-of-use.html
+隱私條款 https://docs.ideation.love/stresswatch/en/service/privacy-policy.html",2023-04-26T07:00:00Z,2025-11-20T15:17:31Z
+hk,Hong Kong,Health & Fitness,6013,22,1559416934,停一停 心呼吸,Max Cross Solution Limited,https://apps.apple.com/hk/app/%E5%81%9C%E4%B8%80%E5%81%9C-%E5%BF%83%E5%91%BC%E5%90%B8/id1559416934?uo=4,0.0,4.7195,82,Health & Fitness,"隨身心呼吸 - 香港人的靜坐 App
+
+「心呼吸應用程式」為身處都市的您提供歇息空間，隨時隨地輕按程式，各種聲音相片短片文字等「心呼吸空間」早已預備，天天一早一晚練習養成時刻心呼吸的習慣，讓您及時察覺自己的情緒變化，對解決問題、舒緩壓力都有幫助。立即下載為香港人而設的廣東話版本，讓心呼吸隨身。
+ 
+ 
+#功能特點：
+ 
+靜坐計時：
+- 可自選合適的靜坐時間長度，開始及完結時均有頌缽聲提示。
+- 自動累計靜坐練習時數，紀錄修習過程。
+ 
+語音導引：
+- 常霖法師聲音導航，用精簡的內容及聲音帶領使用者由調整姿勢到慢慢放鬆身體，伴隨吸呼及靜坐時的溫馨提示，適合初接觸靜坐的人士。
+- 有10、15及20分鐘的時間選擇，讓你自行揀選合適的靜坐長度，切合不同的需要。
+ 
+大自然聲音：
+- 由香港著名音樂家倫永亮創作。
+- 有海浪、雷雨及頌缽聲可供選擇。
+- 有10、15、20及30分鐘的版本以供選擇。
+ 
+隨機背景與句語：              
+- App會隨機顯示精選的心靈語句，及常霖 法 師拍攝的禪意背景，為您帶來溫馨的生活提示及正能量。                                                                                                                                                                                                                                                                                                                                                    
+ 
+#其他資源：
+- 收錄了常霖法師對靜坐的分享：包括靜坐的原因、常見誤解及示範靜坐的方法等影片，加強使用者對靜坐的了解。
+- 獲取「停一停 心呼吸」的最新活動資訊，率先參與其中。
+- 不定期更新心呼吸相關的資源，如小書冊、手機及電腦Wallpaper等，以供下載及分享。
+ 
+ 
+Facebook: www.facebook.com/PauseBreatheHK
+Instagram: instagram.com/pause_breathe",2021-06-04T07:00:00Z,2022-09-27T17:08:04Z
+hk,Hong Kong,Health & Fitness,6013,23,6739098454,陪胖日記PawBook-寵物及貓狗健康筆記,OneDegree Hong Kong Limited,https://apps.apple.com/hk/app/%E9%99%AA%E8%83%96%E6%97%A5%E8%A8%98pawbook-%E5%AF%B5%E7%89%A9%E5%8F%8A%E8%B2%93%E7%8B%97%E5%81%A5%E5%BA%B7%E7%AD%86%E8%A8%98/id6739098454?uo=4,0.0,4.72885,461,Health & Fitness,"一App即可記錄寵物日常及管理身體數據，更提供免費線上獸醫諮詢服務，陪你守護寵物健康，放心愛一世！​
+​
+【個人化寵物日記】​
+記錄寵物可愛成長日常，上載照片，建立獨一無二的毛孩專屬日記！一鍵將寵物的生活點滴和健康紀錄分享至社交媒體，與其他毛孩家長交流「育兒」心得！​
+
+【全面健康追蹤】​
+記錄飲水量和體重等健康觀察數據，追蹤寵物身體狀況，一起健康快樂地成長！提供圖表顯示體重、飲水量和運動量的變化趨勢，助你及時識別潛在健康問題！​
+​
+【免費線上獸醫諮詢服務】​
+隨時隨地詢問專業獸醫，為你解答寵物保健及行為問題，照顧寵物更安心！所有合作獸醫均有專業資格認證，讓你安心獲得最可靠的寵物健康建議！​
+
+【毛孩性格測驗】​
+測出你的寵物個性特點，讓你更了解毛孩的隱藏性格！​
+
+【參與寵物友善活動機會】​
+會員將不定時收到寵物相關活動邀請通知，讓你可與寵物一起參加，建立珍貴回憶！​
+
+
+立即下載陪胖日記 PawBook ！",2025-04-01T07:00:00Z,2025-10-24T02:34:56Z
+hk,Hong Kong,Health & Fitness,6013,24,896501514,小月曆 (女性日記),ABISHKKING LIMITED.,https://apps.apple.com/hk/app/%E5%B0%8F%E6%9C%88%E6%9B%86-%E5%A5%B3%E6%80%A7%E6%97%A5%E8%A8%98/id896501514?uo=4,0.0,4.92792,9545,Health & Fitness,"小月曆，最好的經期跟踪應用程序和最可愛的應用程序已经来到APP商店！
+
+小月曆是最簡便的但卻非常專業女孩大姨媽跟踪應用程序，跟踪您的排卵日，受孕期，經期。
+
+無論你是想懷孕或者避孕，它都是您會一見鍾情的經期(大姨媽)日曆/日記。
+
+除了基本的經期跟踪功能與經期日曆，女孩們可以記錄自己的任何症狀，情緒，性交，重量，溫度，說明或藥丸等等，實際上它可以設計成為您的個人日記和小秘書。
+
+它不僅是最簡單的經期跟踪應用程序，同時也有足夠的安全防範措施，保住您自己的隱私，是您的私密大姨媽日記。如果您需要還可以切換帳戶來跟踪不同人的經期。無論你是懷孕了，嘗試懷孕，或者​​避孕，它能讓你的生活變得更加簡便。
+
+藥物提醒功能不會讓你錯過任何藥物，藥丸，補品或避孕藥類藥物如避孕藥、避孕環、避孕貼、甚至是避孕針。就像你自己的私人醫生，跟蹤你的服藥記錄。
+
+如果你一天服用2次藥物，每天服用補品或維生素，按月服用的處方類藥物，服用21天的避孕類藥物。任何你可能忘記的藥物或藥丸我們都能夠提醒您。
+
+支持同步蘋果健康軟件的數據，並讀取活動能量，睡眠分析，步數，性行為等數據。請點擊“報告” - “時間軸”讀取健康數據。
+
+〜〜O（∩_∩）O〜〜，如果你使用大姨媽跟踪，大姨媽日誌等一樣，你必須嘗試這一女性日曆/日記，它一定不會令您失望的。
+
+如果您有任何跟踪經期，月經建議或者質詢，請向我們發送電子郵件。
+
+特點
+* 同步數據到Apple Health
+* 支持同步蘋果健康軟件的數據，並讀取活動能量，睡眠分析，步數，性行為等數據
+* 備份數據至Dropbox帳戶並从Dropbox恢復
+* 獨特的日記日曆設計
+* 43 種狀態和64 種心情供選擇
+* 懷孕模式
+* 經期和排卵日的提醒功能
+* 體重和體溫圖表
+* 記錄管理
+* 跟踪月經週期
+* 經期和排卵日預測
+* 自訂個人的經期長度和排卵日
+* 您可以選擇1個月、3個月或者所有月份的平均數據來作為您的周期長度
+* 多帳戶用來跟踪多人的資訊
+* 多種語言供選擇
+
+會員說明
+- 無限制地訪問所有功能，訂閱價格，每月9.99美元，每年39.99美元
+- 訂閱費用將從您的iTunes賬戶收取。
+- 訂閱到期前的24小時內將自動續訂。如有需要，請於訂閱到期的至少24小時之前取消訂閱。
+- 訂閱後，您可以在iTunes的“賬戶設置”中管理您訂閱的項目，也可在此菜單中取消訂閱。
+- 訂閱後，免費試用期內的未使用部分將被作廢。
+ 
+隱私政策：https://pc.abishkking.com/privacypolicy.html
+使用條款：https://pc.abishkking.com/terms.html",2014-09-30T23:41:17Z,2025-11-24T03:56:24Z
+hk,Hong Kong,Health & Fitness,6013,25,1455830207,屈臣氏 eDr,"AS Watson & Company, Limited",https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F-edr/id1455830207?uo=4,0.0,3.52273,44,Health & Fitness,"屈臣氏一直堅持提升健康服務水平，現推出全新屈臣氏eDr視像醫生應用程式！我們希望為一眾顧客提供簡易及一站式健康管理服務體驗！服務包括中西醫生視像會診，嶄新「三高GO計劃」，讓大家不論身在任何地方，都可獲得1對1專業醫療諮詢及個人化處方藥物治療(按醫生處方而定)！
+立即下載，體驗屈臣氏eDr視像醫生的專業健康服務！重點功能包括：
+
+1) 全新推出「三高Go計劃」
+網上預約三高體檢服務，並由香港專業註冊西醫透過線上會診，為您講解檢測報告，訂立治療計劃及改善健康狀況，長遠減低患上慢性疾病風險
+
+2) 簡單預約中西醫
+只需3步最快3分鐘*有得睇  
+
+3) 即日專人送藥上門**
+毋須出門，讓您有更多時間休息
+
+4) 最新健康資訊
+為您提供您感興趣的健康話題，豐富您的健康智慧
+
+更多功能快將上線，密切留意：
+- 視像健康咨詢服務，包括專科及營養師
+
+*實際時間視乎輪候情況而定
+**送貨範圍： 只限香港(包香港島、九龍及新界)，不包括離島地區及任何貨車禁止進入的區域
+
+免責聲明：屈臣氏eDr  由屈臣氏醫療服務有限公司(「屈臣氏」)（為屈臣氏集團成員，屈臣氏集團為長江和記實業有限公司成員）提供。屈臣氏eDr是一個以促進香港註冊醫生及其他醫療專業人員為合資格並身處香港的用戶提供醫療和健康護理服務的平台。屈臣氏eDr與用戶之間的關係不構成醫生–病人或醫療專業人員–病人關係。對於醫生及/或其他醫療專業人員提供的醫療及/或健康護理服務的質素或適當性（包括通過視像等諮詢方式提供醫療及/或健康護理服務），屈臣氏並不承擔或分擔醫生及/或其他醫療專業人員之責任或法律責任。在使用屈臣氏eDr   之前，請仔細閱讀屈臣氏eDr  App內相關服務條款及細則。屈臣氏eDr  不適合診斷須立即就醫或於醫院或診所進行緊急護理的情況。如果您有於 屈臣氏eDr  服務條款及細則中列出之任何情況，建議您迫切考慮向就近診所或醫院尋求即時醫療協助。",2019-05-30T10:51:50Z,2025-08-07T14:46:40Z

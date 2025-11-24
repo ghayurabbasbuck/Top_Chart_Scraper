@@ -1,0 +1,878 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+pt,Portugal,Weather,6001,1,889918105,Meteo IPMA,"Gisgeo Information Systems, Lda.",https://apps.apple.com/pt/app/meteo-ipma/id889918105?uo=4,0.0,1.89048,977,Weather,"Meteo@IPMA é uma aplicação do Instituto Português do Mar e da Atmosfera, IPMA I.P., de uso gratuito, para dispositivos móveis que disponibiliza informações do estado de tempo e do mar para mais de 300 locais do território Português.
+
+
+
+Esta versão inclui uma reformulação total da app que facilita a consulta de informação meteorológica detalhada e fidedigna, das quais destacamos: 
+
+
+- Previsão do estado tempo até 10 dias.
+- Informações horárias até ao 3º dia.
+- Informações tri-horárias do 4º ao 6º dia.
+- Informações diárias do 7º ao 10º dia.
+- Informação tri-horárias sobre estado do mar, até ao 3 dia.
+- Informação relativa aos avisos meteorológicos.
+- Informação do valor máximo do índice ultravioleta.
+- Lista de locais predefinida, selecionável através do menu, opção, ""localizações"".
+- Período de atualização: toda a informação é atualizada em 2 períodos do dia, aproximadamente entre as 9 e 10h e entre as 21 e 22h (hora local no continente).
+- Fuso horário: hora no local em que é válida a previsão.
+- Unidades: temperatura do ar: ºC; intensidade do vento: km/h; humidade relativa do ar: %; precipitação: classe de precipitação; probabilidade precipitação: %; temperatura da água do mar: ºC; mar total: metro; ondulação: metro; vaga: metro; período das ondas: segundo.",2014-07-10T23:47:00Z,2025-03-21T20:25:33Z
+pt,Portugal,Weather,6001,2,6450627697,O Termômetro - Digital,Vida Apps Incorporated,https://apps.apple.com/pt/app/o-term%C3%B4metro-digital/id6450627697?uo=4,0.0,4.56989,93,Weather,"Esta é uma simples aplicação de medição de temperatura e humidade digital.
+Ela fornece-lhe a temperatura exterior, humidade e hora atual.
+A aplicação oferece atualizações automáticas em intervalos regulares e informações em tempo real, tornando-a conveniente de usar.
+Você pode obter dados de temperatura e humidade para qualquer local no mundo.
+
+O que você pode fazer com a aplicação ""O Termômetro""?
+- Design elegante que proporciona visibilidade instantânea da temperatura exterior, humidade e hora atual.
+- Atualizações automáticas para mantê-lo informado sobre a temperatura e humidade exterior mais recentes.
+- Opção para selecionar a localização desejada para dados precisos.
+- Esquema de cores personalizável, permitindo que personalize as cores de fundo e de texto.
+- Capacidade de selecionar entre Celsius e Fahrenheit.
+
+O plano premium permite que você use a aplicação de forma mais confortável.
+
+O que você pode fazer com o Plano Premium?
+- Uma função para salvar várias localizações e verificar instantaneamente a temperatura e humidade de cada uma.
+- Sem anúncios
+
+A aplicação ""O Termômetro"" permite que você verifique rapidamente a temperatura e humidade exteriores, funcionando também como um relógio. Com a capacidade de personalizar as cores da aplicação, você pode criar um display elegante e personalizado que complementa o design interior.
+
+Termos de Uso:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-06-26T07:00:00Z,2025-07-21T11:36:17Z
+pt,Portugal,Weather,6001,3,1161387262,Windy.com - tempo e radar,"Windyty, SE",https://apps.apple.com/pt/app/windy-com-tempo-e-radar/id1161387262?uo=4,0.0,4.79745,3688,Weather,"UMA VISUALIZAÇÃO ÚNICA DA PREVISÃO DO TEMPO
+Embora a maioria das aplicações de previsão meteorológica dependam apenas de modelos globais gratuitos, a Windy foi mais longe e investiu fortemente nos modelos mais precisos disponíveis, sempre na mais alta resolução possível, para garantir previsões meteorológicas precisas.  
+
+Modelos meteorológicos disponíveis:  ECMWF (resolução de 9 km), HRRR, NAM, GFS, ICON-D2, ICON-EU, ACCESS, AROME, NEMS
+
+RADAR METEOROLÓGICO E IMAGENS DE SATÉLITE
+Um radar meteorológico é a ferramenta mais solicitada para a previsão meteorológica.  Para fornecer as imagens de radar mais precisas, estamos constantemente a expandir os nossos recursos para que a chuva, a neve e as tempestades não o apanhem de surpresa.
+
+MAIS DE 50 MAPAS METEOROLÓGICOS E FERRAMENTAS
+
+Vento (velocidade atual, rajadas, acumulação)  
+Temperatura, humidade, pressão, ponto de condensação, altitude de congelação
+Chuva, trovoada, tempestades, tipo de precipitação, CAPE-index
+Radares meteorológicos e imagens de satélite (azul, infravermelhos, visíveis)
+Nuvens, topos de nuvens, base de nuvens e visibilidade (LIFR, IFR, MVFR, VFR), nevoeiro
+Ondas, ondulação, correntes
+Mapas de atividade solar (energia solar, índice UV, temperatura de bulbo húmido)
+Profundidade de neve, neve nova, densidade de neve
+NO2, PM 2.5, aerosol, SO2, camada de ozono, ozono de superfície, concentração de CO, massa de poeira, intensidade de fogo
+Avisos meteorológicos e previsão extrema  
+Humidade do solo, anomalia de humidade, intensidade da seca
+Mais de 65,000 webcams
+Previsão do tempo para surf/parapente/pontos para a prática de kitesurf
+Mapa das estações meteorológicas
+
+
+ALERTAS METEOROLÓGICOS COM BASE NAS SUAS PREFERÊNCIAS
+Quer saber sobre as previsões meteorológicas essenciais antes de todos os outros?  Crie um alerta personalizado com base no tempo na sua localização preferida.  Seja força do vento, precipitação ou temperatura.
+
+RASTREIO DE FURACÕES, RASTREIO DE TEMPESTADES
+Com a ferramenta de rastreio de furacões da Windy, pode seguir o trajeto passado e o trajeto projetado de um furacão.  A Windy não depende apenas de um modelo para furacões, mas vai dar-lhe todas as previsões disponíveis para uma determinada tempestade ou furacão.
+
+WIDGETS METEOROLÓGICOS
+A Windy mostra uma visão geral rápida do tempo no seu iPhone ou iPad, bem como radar ao vivo.  Pode escolher entre vários tamanhos e tipos de visualização.  Previsão de 3 a 5 dias, radar ao vivo, satélite ao vivo ou uma visão geral simples no ecrã de bloqueio.
+
+FERRAMENTAS FEITAS PARA PILOTOS
+16 níveis de altitude da superfície para 13,5 km/FL450
+Mais de 50 mil aeroportos pesquisáveis pela ICAO e IATA, incluindo informações de pista, METAR decodificados e em bruto, TAF e NOTAM
+Aerograma e meteograma detalhados
+Térmico (beta)
+Sondagem (perfil atmosférico vertical), Sondas de rádio
+Planeador de rotas com uma previsão meteorológica detalhada
+Meteograma: ponto de temperatura e de condensação, velocidade do vento e rajadas de vento, pressão, precipitação, cobertura de nuvens de altitude
+
+WINDY.COM PARA APPLE WATCH
+Previsão, radar, METAR e informações sobre vento num pequeno pacote adorável.
+
+WINDY PREMIUM
+Subscreva o Windy Premium e obtenha a previsão meteorológica mais detalhada.
+
+Etapa de previsão de 1 hora
+Previsão de 10 dias
+Atualizações de previsão pelo menos 4 vezes por dia
+Ciclo de 12 horas para radar e satélite
+Arquivo de satélite prospetivo de há 1 ano atrás
+Favoritos ilimitados e alertas
+Mapas de previsão mais detalhados
+Planeador de rotas para tarefas de planeamento
+Exibição 3D do globo
+Widgets móveis adicionais
+Configurações extra
+
+Termos de uso: https://account.windy.com/agreements/windy-terms-of-use
+Política de privacidade: https://account.windy.com/agreements/windy-privacy-policy
+
+ENTRAR EM CONTACTO
+
+Junte-se a nós em community.windy.com para discutir tópicos relacionados com o tempo, denunciar um bug ou sugerir um novo recurso.  Ou contacte-nos em info@windy.com para qualquer tópico.",2016-10-31T20:29:54Z,2025-11-03T08:13:21Z
+pt,Portugal,Weather,6001,4,1073082439,My Aurora Forecast & Alerts,JRustonApps B.V.,https://apps.apple.com/pt/app/my-aurora-forecast-alerts/id1073082439?uo=4,0.0,4.77397,438,Weather,"My Aurora Forecast is the best app for seeing the Northern Lights. Built with a sleek dark design, it appeals to both tourists and serious aurora watchers by telling you what you want to know - whether that is exactly how likely you are to see the aurora borealis or details about the solar winds and high-resolution sun imagery. With this app, you'll be seeing the Northern Lights in no time.
+
+- Find the current KP index and how likely you are to see the Northern Lights in the United States or the rest of the world.
+- View a list of the best locations to view from right now.
+- Map showing how strong the aurora is around the world, based on the SWPC ovation auroral forecast.
+- Free push notifications when auroral activity is expected to be high.
+- Forecasts for the next hour, several hours and several weeks so you can plan your Northern Lights viewing long in advance (subject to weather conditions).
+- Solar wind statistics and sun imagery.
+- View live aurora webcams from around the world.
+- Tour information so if you're considering to go to locations such as Iceland, Sweden, Finland or even Alaska or Canada, you'll be able to find tours that we can recommend to you.
+- Support for the latest iPhone and iPad models.
+- Completely free of charge for all functionality, no in-app purchases.
+
+If you want the latest updates on geomagnetic activity and enjoy viewing the aurora borealis, this app is right for you. This version is ad-supported and is similar to other apps such as Aurora Forecast., SpaceWeatherLive and hello aurora.",2016-01-26T23:26:23Z,2025-11-19T17:42:40Z
+pt,Portugal,Weather,6001,5,545993260,Tempo & Radar - Meteorologia,WetterOnline -  Meteorologische Dienstleistungen GmbH,https://apps.apple.com/pt/app/tempo-radar-meteorologia/id545993260?uo=4,0.0,4.56771,17359,Weather,"Tudo sobre o estado do tempo e meteorologia você encontra na app gratuita Tempo & Radar:
+• RadarMeteo: Mapas do tempo, radar de chuva, temperatura, vento e raios
+• Tempo 14 dias: calendário e gráfico 
+• Praia em directo: o tempo na praia e no litoral
+• Notificações meteorológicas - alerta de chuva e de tempo severo
+• Tempo agora: 90 minutos actuais em detalhes
+• Mapa de alertas meteorológicos – trovoada, chuva forte, tempestade e gelo negro
+• Concentração de pólenes 
+• Widget do tempo: 4 formatos personalizáveis
+
+App do tempo
+Previsão do estado do tempo em Portugal e no mundo. Informações meteorológicas em directo na aplicação: precipitação (chuva, raio, granizo e neve); temperatura máxima e mínima de hoje e dos próximos 14 dias; sensação térmica; radiação ultravioleta (UV-Index); temperatura média por período do dia (madrugada, manhã, tarde e noite); intensidade e direção do vento; temperatura da água na praia e no litoral; hora do nascer e do pôr do sol; fases da lua; humidade relativa e pressão do ar; risco de aguaceiros e trovoadas, e muito mais.
+
+RadarMeteo: Mapas do tempo
+O RadarMeteo é a função pioneira da app Tempo & Radar. Conhecido como Radar de Chuva, o RadarMeteo rastreia, prevê e mostra ao vivo as chuvas, queda de raios em tempestades, o movimento de ciclones e furacões. O RadarMeteo mostra a previsão do tempo em imagens dinâmicas de mapas do mundo com recursos de zoom. É a previsão do estado do tempo em directo, do tempo hoje e dos próximos 3 dias, de hora a hora. São 5 mapas com dados climáticos específicos: estado do tempo em geral, chuva, temperatura, vento e raio. Todos eles live!
+
+Praia em directo: o tempo no litoral
+Detalhes do tempo hoje e da previsão de amanhã na praia em directo: temperatura do ar e da água, velocidade e direção do vento, altura das ondas e índice UV.
+
+Alertas e notificações meteorológicas
+Calculamos e divulgamos alertas meteorológicos baseados em dados actualizados. Confira os formatos de avisos emitidos pelo Tempo & Radar:
+- Alerta de chuva prevista para às próximas horas em formato de notificação push. 
+- Notificações sobre condições meteorológicas impactantes, tais como onda de calor, brusca mudança nas temperaturas, poeiras do Saara, entre outras. 
+- Mapa de alertas meteorológicos de trovoada, chuva forte, tempestade e gelo negro. São 4 níveis de risco indicados em cores e acedidos na própria app.
+
+Widget do tempo
+Com o widget Tempo & Radar pode-se ver as previsões do tempo simples e rapidamente no ecrã principal. A app tem 4 formatos de widgets personalizáveis.
+
+A app Tempo & Radar é o resultado da simplificação de análises precisas de informações sobre a previsão do tempo originadas de diferentes fontes: satélite, radar de chuva e modelo meteorológico (por exemplo ECMWF e GFS), dados do Instituto Português do Mar e da Atmosfera (IPMA), estação meteorológica, balão e outros.
+
+Envie-nos fotos do tempo, perguntas e sugestões para info@tempoeradar.pt
+
+Tempo & Radar também está na Web: www.tempoeradar.pt
+
+Nossa página promocional está aqui: www.tempoeradar.pt/apps
+
+A filiação prolonga-se opcionalmente, a cada mês ou a cada ano. O preço da sua filiação ao Tempo & Radar baseia-se no endereço especificado na sua conta iTunes. O pagamento da sua filiação é feito através da sua conta iTunes, no momento que você confirmar a sua compra. A sua filiação é prolongada automaticamente, caso você não a desative. O custo de renovação da sua filiação será debitado na sua conta iTunes, num prazo de 24 horas antes de expirar o período da sua filiação vigente. Você será informado pela iTunes sobre todos os custos. Após a sua compra, você poderá conferir o status da sua filiação na função Configurações da sua conta iTunes, onde você também poderá desativar o prolongamento automático da sua filiação.
+
+Atenção! Caso você se filie ao Tempo & Radar durante um período de teste grátis, o restante do tempo de teste será automaticamente expirado.
+
+Termos de uso: https://www.tempoeradar.pt/ios/terms-of-use/",2012-08-01T09:29:02Z,2025-11-12T08:45:23Z
+pt,Portugal,Weather,6001,6,1048912974,IQAir AirVisual | Qualidade ar,IQAir AG,https://apps.apple.com/pt/app/iqair-airvisual-qualidade-ar/id1048912974?uo=4,0.0,4.78378,111,Weather,"As informações mais fiáveis e seguras sobre a qualidade do ar proporcionadas pelo principal fornecedor mundial de dados sobre poluição do ar. Com uma cobertura de mais de 500 000 localizações assegurada por uma rede global de estações de monitorização governamentais e pelos próprios sensores validados da IQAir. 
+
+Recomendado para pessoas sensíveis (alergias, asma, etc.), essencial para famílias e ótimo para atletas, corredores, ciclistas e atividades desportivas ao ar livre. Planeie um dia mais saudável com recomendações de saúde e previsões de 48 horas, e consulte o mapa global da qualidade do ar em tempo real. Saiba que poluentes respira, as suas origens e efeitos e mantenha-se a par dos principais eventos da qualidade do ar e dos incêndios na sua região.
+
++ Dados Históricos, em Tempo Real e Previsões sobre a Poluição do Ar: valores detalhados sobre poluentes-chave e o IQA para mais de 500 000 localizações em mais de 100 países, num formato claramente compreensível. Siga as tendências de poluição do ar com perspetivas históricas alargadas mensais e de 48h para as suas localizações favoritas. 
+
++ Previsão Pioneira de 7 Dias para Poluição do Ar e Meteorologia: pela primeira vez, planeie as suas atividades ao ar livre com antecedência de uma semana para garantir as experiências mais saudáveis. Previsões da direção e velocidade do vento para compreender o impacto do vento sobre a poluição.
+
++ Mapas de Poluição 2D e 3D: Explore índices de poluição em tempo real ao redor do mundo, tanto em uma visão panorâmica 2D quanto em uma impressionante modelagem 3D com mapa de calor no AirVisual Earth.
+
++ Recomendações de Saúde: Siga nossos conselhos para reduzir seu risco à saúde e minimizar a exposição a poluentes. Informações relevantes para grupos sensíveis, como pessoas com asma ou outras doenças respiratórias (pulmonares).
+
++ Informações Meteorológicas: Seu ponto único para acessar dados sobre temperatura, umidade, vento, condições atuais e previsões do tempo.
+
++ Eventos da qualidade do ar e incêndios florestais: mantenha-se a par dos incêndios florestais, fumo e eventos da qualidade do ar em todo o mundo. Veja alertas e acompanhe eventos num mapa interativo com dados históricos e em tempo real, previsões, atualizações de notícias e muito mais. 
+
++ Contagens de Pólen: veja as contagens dos pólenes de árvores, ervas e gramíneas para as suas localizações favoritas e proteja-se das alergias. Planeie as suas atividades ao ar livre com previsões para 3 dias.
+
++ Monitorização em Tempo Real e Histórica de 6 Poluentes Principais: acompanhe as concentrações de PM2.5, PM10, ozono, dióxido de azoto, dióxido de enxofre e monóxido de carbono ao vivo, e observe as tendências históricas dos poluentes. 
+
++ Ranking de cidades por poluição do ar em tempo real: Acompanhe as melhores e piores cidades em qualidade do ar e poluição para mais de 100 localizações em todo o mundo, de acordo com as concentrações atuais de PM2.5.
+
++ Informação sobre a Qualidade do Ar para ""Grupos Sensíveis"": informações relevantes relevante e previsões para grupos sensíveis, incluindo doenças respiratórias (pulmonares), como asma.
+
++ Controle o seu purificador de ar: controle e monitorize remotamente os seus purificadores de ar das séries Atem X & HealthPro para obter uma qualidade do ar interior mais segura com dados ao vivo e históricos, comparações, alertas de substituição de filtros, funções programadas de ligar/desligar e muito mais.
+
++Monitoramento da Qualidade do Ar Interno e Externo: Sincronização com os monitores de ar IQAir AirVisual Pro e AirVisual Outdoor para fornecer leituras, recomendações e configurar as configurações do monitor.
+
++ Cobertura mundial com a mais extensa rede de sensores de poluição do ar: monitorize Portugal, China, Índia, EUA, Canadá, Austrália, México, Brasil, França, Tailândia, Indonésia, Chile + mais - assim como cidades como Lisboa, São Paulo, Rio de Janeiro, Cidade do México, Banguecoque, Los Angeles, Paris + mais - num só lugar!",2015-10-24T05:11:55Z,2025-11-03T09:32:28Z
+pt,Portugal,Weather,6001,7,997079492,Windy: previsão de surf e vela,Windy Weather World Inc,https://apps.apple.com/pt/app/windy-previs%C3%A3o-de-surf-e-vela/id997079492?uo=4,0.0,4.66635,4256,Weather,"Previsão de vento mundial exata!
+
+Windy.app - é uma aplicação prática para pessoas que são fanáticas pela ação do vento, fornecendo previsões de vento precisas e claras em todo o mundo. Uma indispensabilidade para kiteboarders, windsurfistas, iatistas, paraquedistas, usuários de asa-delta, ciclistas e pescadores.
+
+RECURSOS:
+Relatório de vento, previsão e estatísticas: mapa de vento, bússola de vento precisa, medidor de vento, rajadas de vento e direções do vento. É muito útil para esportes radicais de vento.
+Alerta de vento: configure o alerta de vento e esteja ciente de avisos de vento, tempestade e tornado por meio de notificações push
+Histórico do tempo (arquivo) para 2012-2021: veja os dados do vento, temperatura (dia e noite) e pressão atmosférica. O arquivo do tempo vai ajudá-lo a escolher o melhor mês para viajar até o local.
+Previsão local da NOAA: temperatura em Celsius, Fahrenheit e Kelvin, umidade, velocidade do vento, precipitação (chuva e neve). Previsão para 10 dias com intervalos de 3 horas em unidades métricas ou imperiais: m / s (mps), mph, km / h, knt (knout), bft (beaufort), m, ft, mm, cm, in, hPa, inHg . NOAA é uma Administração Oceânica e Atmosférica Nacional / Serviço Meteorológico Nacional (nws).
+Previsão das ondas: condições do oceano ou do mar, ondas e ondas do mar, previsão de pesca
+Rastreador de vento animado: radar meteorológico para vela, iatismo e kite com vento fraco
+Lindo widget do tempo na tela inicial
+Rastreador de tempestades e furacões: um mapa de ciclones tropicais (tempestades tropicais, furacões, tufões) em todo o mundo
+Mapa de cartas náuticas gratuito: veja a profundidade da água, marés e correntes oceânicas, dados de bóias
+Dados de base de nuvem / ponto de orvalho (ponto de orvalho): informações meteorológicas necessárias para um parapente agradável
+Pontos: mais de 30.000 pontos classificados e localizados por tipo e área. Adicione seus pontos aos favoritos.
+Bate-papos locais. Tem anemômetro? Compartilhe informações sobre as condições do tempo e a direção do vento no bate-papo de uma pipa.
+Comunidade: troque boletins meteorológicos no local. Quer ser um líder local / especial? Envie-nos o nome do seu lugar em feedback@catchwind.co e criaremos um chat para ele.
+Estações meteorológicas: dados online de estações meteorológicas online próximas.
+Modo offline: ative o modo offline e verifique a previsão de suas atividades sem conexão com a internet.
+
+PERFEITO PARA:
+• Kitesurf (kitesurf)
+• Windsurf (windsurf)
+• Surf
+• Vela (Canoagem)
+• Iatismo
+• Parapente
+• Pescaria
+• Snowkiting
+• Snowboarding
+• Esquiar
+• Paraquedismo
+• Caiaque (caiaque)
+• Wakeboard
+• Ciclismo
+• Caça (caça)
+• Golfe
+
+-------------
+O pagamento das assinaturas da Conta PRO do WINDY será cobrado na sua conta iTunes no momento da aquisição. A sua assinatura será renovada automaticamente a cada 30 ou 365 dias. Se nunca se registou para uma assinatura de conta Premium mensal antes, vai ter a opção de obter um período de avaliação gratuito de 3/7 dias. Cancelar o período de avaliação irá desativar imediatamente a sua assinatura. O pagamento das renovações da assinatura será cobrado na sua conta no prazo de 24 horas antes do fim do período atual. Pode desativar a renovação da assinatura nas configurações da sua conta do iTunes no seu dispositivo. Ao assinar, confirma que leu os Termos de Utilização e a Política de Privacidade e concorda em ficar vinculado pelos seus termos.  
+Termos de Utilização:  https://windyapp.co/CustomMenuItems/34/en
+-------------",2015-06-26T14:25:21Z,2025-11-19T08:26:52Z
+pt,Portugal,Weather,6001,8,543364901,Meteored - O Tempo 14 Dias,Alpred S.L.,https://apps.apple.com/pt/app/meteored-o-tempo-14-dias/id543364901?uo=4,0.0,4.60096,8573,Weather,"O Tempo 14 dias, é a aplicação oficial do tempo.pt ( Meteored ) totalmente GRÁTIS com informação metereológica para Portugal e para o resto do mundo. Disponível para iPhone, iPad e Apple Watch, e otimizado para iOS 15, iPadOS 15 e para watchOS 6. A aplicação utiliza previsões metereológicas próprias, elaboradas por meteorologistas com muitos anos de experiência. A app possui um design moderno baseado no Material Design, para que consultar o clima seja rápido e simples.
+
+
+- PERSONALIZAÇÃO -
+
+Personalize sua aplicação com as suas cidades favoritas: Lisboa, Porto, Coimbra... e outras previsões para o mundo: Londres, Rio de Janeiro, Paris. Temos mais de 3.000 localidades em Portugal e mais de 450.000 localidades por todo o mundo!
+
+Utilize o buscador por localização WIFI ou GPS para encontrar a localidade mais próxima da sua posição actual.
+
+Personalize seu smartphone através dos nosso widget, situe a temperatura na barra de notificações ou mostre a chuva diária e outros dados com diferentes formatos internacionais, como por exemplo graus celsius, fahrenheit ou kelvin.
+
+
+- PREVISÃO -
+
+No ecrã de previsão diária, poderá ver o tempo actual e os principais dados nos próximos 14 dias. Navegue por suas localidades com um simples deslizar de dedo... e lembre-se! a aplicação muda de cor automáticamente com a temperatura.
+
+Seleccione um dia para ver a informação detalhada por horas como a pressão atmosférica, temperatura, condições climáticas, direcção e velocidade do vento, chuva, sensação térmica, índice UV, humidade, nascer e pôr-do-sol e inclusive fases da lua.
+
+Gire seu telemóvel e comprove a evolução com nosso gráfico.
+
+- NOTÍCIAS DO TEMPO -
+
+Consulta a nova seção de Noticias para manter-se ao dia de todos os acontecimentos atuais e condições meteorológicas. Fique sempre informado das últimas horas da atualidade e das previsões meteorológicas mais recentes. Além disso, apresentamos os melhores vídeos sobre os últimos acontecimentos do tempo severo mais impactante, e ainda poderá ter a oportunidade de aprender com nossos artigos sobre ciências e divulgação. Realizado pelos melhores especialistas em meteorologia.
+
+- MAPAS, SATÉLITES E RADAR CLIMA-
+
+Poderá consultar os mapas animados com previsão de chuva, vento, temperatura, nebulosidade, pressão atmosférica, tanto em Portugal e Europa, como no resto do mundo.
+
+Visualize imagens de satélite visível, infravermelhos e vapor de água cedidas por Sat24 e EUMETSAT.
+
+
+- AVISOS E NOTIFICAÇÕES -
+
+Aceda à animação de radar de chuva das últimas horas. Poderá consultar os avisos metereológicos em França, Espanha, Alemanha... Avisos de Portugal obtidos por Meteoalarm.
+
+Também conta com uma opção de receber notificações de avisos diários nas regiões de suas localidades, de forma automática sem necessidade de ter a app aberta.
+
+Novas notificações de avisos, condições metereológicas e nosso assistente que indica alterações relevantes para o dia seguinte.
+
+
+- WIDGET -
+
+Use nosso widget para saber rapidamente o tempo de toda a semana na sua localidade favorita sem precisar entrar no aplicativo. Poderás ver a previsão actual.
+
+
+- PARTILHAR CLIMA -
+
+Poderá partilhar as previsões de suas localidades favoritas com seus amigos, em qualquer momento e em qualquer meio ou rede social de sua preferência através do seu smartphone como por exemplo: WhatsApp, Twitter ou Facebook.
+
+
+- DISPONIBILIDADE -
+
+O Tempo 14 dias está disponível para Portugal, Brasil, Espanha e muitos mais.
+
+Idiomas: Português, Español, Français, English, etc.
+
+- Gostava de provar as versões beta da nossa aplicação com TestFlight? Descarregue a app neste link desde o seu iPhone ou iPad: 
+https://testflight.apple.com/join/ZlUMBitu
+
+Ao usar este aplicativo, está aceitando a política de privacidade e os termos de uso e condições de Meteored.
+
+- Política de Privacidade: 
+https://www.tempo.pt/privacy.html
+
+- Aviso Legal:
+https://www.tempo.pt/aviso_legal.html",2012-08-01T21:24:07Z,2025-11-18T01:25:40Z
+pt,Portugal,Weather,6001,9,704237014,Termómetro++,Viachaslau Tysianchuk,https://apps.apple.com/pt/app/term%C3%B3metro/id704237014?uo=4,0.0,4.57407,324,Weather,"Transforme o seu iPhone num termómetro rápido e preciso.
+Verifique a temperatura exterior atual, a humidade, a pressão e o vento na sua localização.
+Utilizada por mais de 5 000 000 de pessoas em todo o mundo!
+
+A maioria das apps meteorológicas limita-se a apresentar dados da estação meteorológica mais próxima, que pode estar a centenas de quilómetros de distância e ter dados com mais de uma hora de atraso. Utilizamos tecnologias de IA para combinar dados de várias estações meteorológicas, fornecendo previsões precisas de temperatura, humidade, pressão e vento na sua localização, em tempo real.
+
+Funcionalidades:
+
+- Mostra a temperatura, a humidade, a pressão e o vento. Pode usá-la como termómetro, barómetro ou higrómetro.
+
+- Use a sua localização atual ou escolha qualquer local num mapa.
+
+- Design minimalista: mostra apenas os dados necessários.
+
+- Mostra graus Celsius e Fahrenheit numa bonita imagem de um termómetro.
+
+- Mude entre graus Celsius e Fahrenheit com um toque.
+
+- Ajuda a decidir rapidamente o que vestir.
+
+- Ajuda a acompanhar o estado do tempo durante ondas de calor e de frio.
+
+Política de privacidade: https://www.singularioapps.com/thermometer-privacy/
+Termos de serviço: https://www.singularioapps.com/thermometer-terms/",2013-10-09T01:00:40Z,2025-11-22T18:33:51Z
+pt,Portugal,Weather,6001,10,334634432,@Termómetro,Mobiquite,https://apps.apple.com/pt/app/term%C3%B3metro/id334634432?uo=4,0.0,4.17391,23,Weather,"Prático, rápido e preciso: o melhor termômetro para o seu iPhone / iPad
+
+O termómetro nº 1 na App Store com mais de 5.000.000 de downloads!
+
+@Termómetro é a aplicação mais precisa na App Store (a um décimo de grau).
+
+@Termómetro É A ÚNICA aplicação desde 2009 a dar-lhe a temperatura exterior, com uma precisão de um décimo de grau, correspondente à sua posição exata no mundo e em tempo real.
+Para isso, @Termómetro utiliza várias fontes de dados meteorológicos do seu ambiente imediato e combina-os no seu conjunto graças aos nossos algoritmos próprios desenvolvidos nos nossos servidores meteorológicos.
+
+@Termómetro NÃO É uma aplicação como outra qualquer que lhe diz a temperatura de uma cidade mais ou menos próxima de si e cujos dados estão desatualizados em uma hora ou muitas vezes mais...
+
+
+Principais características da aplicação:
+
+- A temperatura mais precisa na App Store (a um décimo de grau)
+
+- Temperatura correspondente à sua posição exata no mundo e em tempo real.
+
+- Rapidez na localização e indicação da temperatura.
+
+- Vários temas gráficos de alta qualidade (HD Ecrã Retina) estão disponíveis para que possa escolher o que melhor lhe convier.
+
+- Possibilidade de visualizar a temperatura em graus Celsius ou Fahrenheit.
+
+- Disponível em vários idiomas.
+
+- Compatível com iPhone, iPod touch e iPad. Requer iOS 5.0 ou superior.
+
+- É necessária uma ligação à Internet para recuperar a temperatura calculada nos nossos servidores meteorológicos.
+
+---
+
+A versão PREMIUM (compra no aplicativo) oferece as seguintes vantagens:
+- Desativação total de anúncios.
+- Maior rapidez na visualização da temperatura.
+- Acesso prioritário ao apoio.
+...e você apoia diretamente a nossa equipa no desenvolvimento desta aplicação!
+
+---
+
+Lembre-se, se gosta da nossa aplicação @Termómetro, pode classificá-la e partilhar a sua satisfação com os outros utilizadores.
+
+No entanto, se tiver algum problema, queira contactar-nos por e-mail no seguinte endereço: support@mobiquite.fr
+ATENÇÃO: Se deixar um único comentário na App Store, não poderemos responder-lhe diretamente e dar a nossa ajuda!
+
+Obrigado!
+
+--
+
+Disclaimer:
+Location data may be used for providing you more relevant ads.
+This app collects anonymous information about users to help us measure the usage of our app so we can better understand our audience and improve our service. This information does not contain information from which users can be identified. You can find a full description of our data collection and use practices in our Privacy and Security Policy http://www.mobiquite.fr/thermometre-confidentialite.html",2009-11-17T01:55:39Z,2024-11-09T17:47:43Z
+pt,Portugal,Weather,6001,11,300048137,AccuWeather: tempo e previsões,"AccuWeather International, Inc.",https://apps.apple.com/pt/app/accuweather-tempo-e-previs%C3%B5es/id300048137?uo=4,0.0,4.50955,9310,Weather,"Receba previsões do tempo diárias e as atualizações a cada minuto sobre a possibilidade de chuva e tempestade, além da temperatura precisa e mapas do clima: tudo isso com AccuWeather.
+
+Acompanhe o tempo local, alertas do tempo e relatórios do clima com rastreadores e as condições do clima com animações. Planeje qualquer viagem de forma precisa e confiável, sabendo o tempo de hoje e o tempo para as férias. Nunca mais fique preso na chuva ou tempestade: o AccuWeather é um rastreador com relatório e alertas do tempo!
+
+3 CARACTERÍSTICAS PRINCIPAIS:
+
+• RealFeel Temperature® - Não tem certeza se deve se vestir para o frio? O widget exclusivo do AccuWeather mostra a temperatura precisa e o tempo de hoje.
+
+• Receba alertas do tempo para poder escapar de chuvas e tempestades. Acompanhe más condições do tempo em tempo real com o radar de AccuWeather.
+
+O AccuWeather permite que você personalize a previsão e os alertas do tempo da maneira que você quiser, em qualquer lugar do mundo. Obtenha todas as ferramentas que você precisa para fazer mapas do clima:
+
+• Veja seu resumo diário quando abrir o aplicativo e descubra o que esperar do tempo de hoje, um relatório do clima completo: da velocidade do vento à umidade.
+
+• Percorra seu resumo da previsão do tempo local para ter um relatório do clima conciso e preciso das próximas duas semanas, para que você possa planejar seu fim de semana de acordo com o clima.
+
+• Personalize sua interface do AccuWeather: oculte os detalhes que não são relevantes para você.
+
+• AccUcast ™ - Seja parte da previsão do tempo: compartilhe suas informações sobre o clima com outras pessoas e ajude-as a ficar a salvo de condições perigosas, como chuvas intensas e tempestades. 
+
+• Assista a vídeos sobre o clima e tempo produzidas pela própria equipe de notícias do AccuWeather.
+
+• Aproveite o suporte completo da Apple Watch: receba RealFeel Temperature®, detalhes das condições atuais e alertas do tempo sobre chuvas e tempestades diretamente em seu relógio.
+
+Faça o download de AccuWeather grátis e experimente a premiada Superior Accuracy ™, que fornece previsão do tempo de alta qualidade em seus dispositivos iOS.",2008-12-22T03:25:52Z,2025-11-06T13:12:55Z
+pt,Portugal,Weather,6001,12,975709372,My Earthquake Alerts & Feed,JRustonApps B.V.,https://apps.apple.com/pt/app/my-earthquake-alerts-feed/id975709372?uo=4,0.0,4.74699,249,Weather,"My Earthquake Alerts is a powerful earthquake monitoring app which delivers all of the information you need, with push notifications included, all free of charge. It also includes a beautifully simple design optimized for the latest iPhone and iPad.
+
+FEATURES
+- Live earthquake map which can detect and track earthquakes from all around the world.
+- Free earthquake alerts customized for you, with no restrictions.
+- Powerful search feature to find earthquake history dating back to 1970!
+- Beautiful & simple design - view the earthquake feed on a map and in a list.
+- Find the exact location, the depth and the distance away from you.
+- Uses information from a wide variety of earthquake networks, including the USGS and EMSC.
+- Support for the latest iPhone and iPad models.
+
+If you need information or notifications about the latest earthquakes near to you, download My Earthquake Alerts today. This version is ad-supported. It is similar to apps such as Quakes, MyQuake and QuakeFeed.",2015-04-03T20:40:11Z,2025-11-19T17:42:30Z
+pt,Portugal,Weather,6001,13,539875792,Aurora Forecast.,TINAC Inc.,https://apps.apple.com/pt/app/aurora-forecast/id539875792?uo=4,0.0,4.71698,53,Weather,"Aurora Forecast is your trusty companion for Northern Lights exploration. Designed for passionate aurora enthusiasts, our app helps you plan the perfect night out under the celestial dance of the Northern Lights.
+
+Features
+
+- SWPC Ovation 30-Min Forecast: Stay updated with regular aurora forecasts.
+- Geomagnetic Activity Probabilities: Predict the geomagnetic activities that influence the auroras.
+- Auroral Predictions: Know when and where you'll have the highest chance to see the lights.
+- Real-Time Solar Activity: Track solar events that can lead to spectacular auroral displays.
+- Aurora Probability Map: Visualize the most likely locations to observe the Northern Lights.
+- Push Notifications: Get alerts so you won't miss any Northern Lights activity.
+- Apple Watch Support: Use Aurora Forecast seamlessly across your devices.
+
+The app works on all iOS devices running iOS 12 or later. If you're having trouble syncing alert settings, please ensure your notifications are enabled in your system - settings. Navigate to the Notification Center and enable notifications.
+
+
+[What people are saying]
+
+""I really like this app. We live in Alaska and love it. We saw the aurora last night and it was beautiful. Thanks for creating duh a great app!!.""
+—Anna Schi***
+
+""Luckily we saw a tremendous Aurora display last night in Sweden, where we learned of your App."" 
+—Greg Ogon***
+
+"" For me it is one of my most useful and handy apps I have."" 
+—Michael Low***
+
+""All I was waiting for is push notification alerts!! Thank you."" 
+-KurtVon***
+
+""Great app!  I'm glad I've found this app!"" 
+-sm0rux
+
+""Tonight’s northern lights were incredible, thanks to solar explosions"" 
+-Adria***
+
+""I just love it!!!!! 
+-Angela ****
+
+------------------------------
+In-App-Purchase details for Pro features
+
+* Pro Features (monthly) : $2.99 - Monthly subscription with 3-day free trial
+* Pro Features (yearly) : $12.99 - Yearly subscription with 7-day free trial
+
+* Payment will be charged to iTunes account within 24-hours prior to the end of the free trial period.
+* Renewal: Subscription gets automatically renewed unless auto-renew option is turned off at least 24-hours before the end of the current period.
+* Renewal will be charged within 24-hours prior to the end of the current period.
+* Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+
+No cancellation of the current subscription is allowed during the active subscription period. Any unused portion of a free trial period, will be forfeited after the deadline.
+
+Please visit our website to read about our Privacy Policy or Terms of Service.
+
+Privacy Policy : https://www.tinacinc.com/AuroraForecast/privacy_policy.html
+Terms Of Use : https://www.tinacinc.com/AuroraForecast/terms_of_conditions.html",2012-07-21T01:38:01Z,2025-04-22T06:40:08Z
+pt,Portugal,Weather,6001,14,961390574,Tempo CARROT: Alertas e Radar,Grailr LLC,https://apps.apple.com/pt/app/tempo-carrot-alertas-e-radar/id961390574?uo=4,0.0,4.69728,294,Weather,"O CARROT Weather é um aplicativo de previsão do tempo incrivelmente poderoso.
+
+** Vencedor do prêmio App do Ano da Apple, do Apple Design Award e da escolha dos editores da App Store **
+
+Preciso e Detalhado
+Os dados meteorológicos super precisos do CARROT fornecem acesso rápido às suas previsões atuais, horárias e diárias. E as telas de detalhes fáceis de ler estão repletas de informações meteorológicas.
+
+Privacidade em Primeiro Lugar
+Suas informações pessoais, incluindo dados de localização, nunca serão vendidas para terceiros.
+
+Repleto de Personalidade
+Escolha uma das cinco personalidades para o CARROT, desde a séria ""profissional"" até a versão repleta de palavrões ""exagerada"". (Observação: os comentários do CARROT estão disponíveis apenas em inglês.)
+
+Junte-se ao Premium Club para desbloquear:
+
+- Mais fontes de dados meteorológicos, incluindo Apple Weather, AccuWeather e Tomorrow.io
+- Notificações, incluindo precipitações, alertas meteorológicos e raios (onde disponível)
+- Widgets de tela de bloqueio e tela inicial
+- Atividades ao vivo
+- Complicações para o Apple Watch e atualizações em segundo plano
+- Mapas meteorológicos com radar da próxima hora, estações de radar individuais e várias camadas diferentes (onde disponível)
+- Personalização de toda a interface do usuário
+- E muito mais!
+
+Não deixe o CARROT ficar irritado. Baixe-o agora!
+
+---
+
+O CARROT Weather usa assinaturas renováveis automaticamente.
+
+O Premium oferece recursos adicionais, como fontes de dados meteorológicos, notificações, personalização, widgets e complicações para o Apple Watch.
+
+O Premium Ultra inclui todos os recursos do Premium, além de notificações de chuva, raios e tempestades (onde disponível), um widget de mapas meteorológicos e troca rápida de fonte de dados.
+
+O Premium Family inclui todos os recursos do Premium Ultra, com o benefício adicional de ser compartilhado com até cinco membros da família através do serviço Family Sharing da Apple.
+
+O pagamento será cobrado em sua conta do Apple ID após a confirmação da compra. A assinatura será renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do final do período atual. Sua conta será cobrada para renovação dentro de 24 horas antes do final do período atual. Você pode gerenciar e cancelar suas assinaturas indo para as configurações da sua conta na App Store após a compra. O cancelamento do período de assinatura ativa atual não é permitido.
+
+Termos de Uso: http://support.meetcarrot.com/weather/terms.html
+Política de Privacidade: http://support.meetcarrot.com/weather/privacypolicy.html",2015-03-19T02:42:25Z,2025-10-31T14:59:36Z
+pt,Portugal,Weather,6001,15,1126370589,Fases da Lua + Calendário,Business City s.r.o.,https://apps.apple.com/pt/app/fases-da-lua-calend%C3%A1rio/id1126370589?uo=4,0.0,4.82836,1742,Weather,"Você pode descobrir:
+- A fase da lua atual
+- A idade da lua atual
+- tempos moonrise e moonset
+- Distância atual para a lua
+
+Você pode alterar a data para descobrir a fase lunar.
+Você pode alternar a fase lunar para obter a sua data.
+
+Termos e Condições:
+http://kineticstars.com/terms.html",2016-06-28T03:53:19Z,2025-10-28T14:30:30Z
+pt,Portugal,Weather,6001,16,589772015,MeteoSwiss,Federal Office of Meteorology and Climatology MeteoSwiss,https://apps.apple.com/pt/app/meteoswiss/id589772015?uo=4,0.0,4.55556,18,Weather,"Übersichtlich, persönlich, innovativ – die MeteoSchweiz-App ist Ihr umfassender Begleiter für alle Wetterinformationen in der Schweiz: kompakt und immer aktuell.
+
+Informieren Sie sich über Wetterprognosen, aktuelle Messwerte und Naturgefahrenwarnungen des Bundes. Abonnieren Sie Naturgefahrenwarnungen als Push-Nachrichten für Ihre Orte und passen Sie dabei die Warntypen und Warnschwellen ganz nach Ihren Bedürfnissen an.
+
+Mit den informativen Blogbeiträgen rund um die Themen Wetter und Klima bleiben Sie zudem immer auf dem Laufenden. 
+
+Funktionen im Detail:
+
+Wetterprognosen
+• Wetter vor Ort mit 5-Stunden-Wettervorhersage für Ihren Standort
+• Lokalprognosen für alle Orte/PLZ in der Schweiz mit Übersicht für die kommenden 8 Tage
+• Wind/Temperaturen auf verschiedenen Höhenlagen
+• Wetterbericht für die drei Sprachregionen der Schweiz, sowie mögliche Entwicklung für die Folgewoche, Isobarenkarte Europa und Strassenzustandsprognose
+
+Wetter-Animationen
+• Messungen und Prognosen von Niederschlag, Niederschlagstyp, Wind, Temperatur und Wolken
+• Hagelmeldungsfunktion
+• Satellitenbilder
+
+Naturgefahrenwarnungen
+• Alle Naturgefahren des Bundes (Unwetter, Hochwasser, Lawinen, Erdbeben und Waldbrandgefahr)
+• Warngebiets-Übersicht auf interaktiver Karte
+• Naturgefahrenbulletin des Bundes
+• Abonnierbare Warnungen als Push-Nachrichten für Orte und Warntypen mit individuellen Warnschwellen
+
+Aktuelle Messwerte
+• Übersicht der Wetterstationen auf interaktiver Karte sowie Listenansicht
+• Auswahl von verschiedenen Messdaten mit bis zu 10-Minuten Aktualisierung
+
+Ihre Orte
+• Suche für alle Orte/PLZ in der Schweiz
+• Liste Ihrer Orte: Die App führt eine Liste relevanter Orte für Sie – stets organisiert und übersichtlich
+
+Meteo Meldungen
+• Anzeige von abgegebenen Meldungen und Bildern zu bestimmten Wetterereignissen von Nutzerinnen und Nutzern der MeteoSchweiz-App
+
+Sport & Gesundheit
+• Pollenprognose
+• UV-Index
+• Luftqualität
+• Schneehöhe und Neuschneeprognose
+ 
+MeteoSchweiz-Blog
+• Täglich aktualisierte Beiträge und Informationen rund um Wetter und Klima
+ 
+Flugwetter (durch In-App-Kauf verfügbar)
+• METAR/TAF Schweiz
+• Flugwetter-Warnungen Schweiz
+• Windanimationen Schweiz auf verschiedenen FL
+• GAFOR Schweiz
+• Textprognosen für Motorflug, Segelflug und Ballonfahrt
+• Low Level SWC Alpen und Europa
+• Druckdifferenz
+• QNH – Chart
+• W / T – Chart
+• Wind – Barbs
+• Regtherm
+• Trajektorien
+• Emagramme
+ 
+Rechtliches
+https://www.meteoschweiz.admin.ch/home/ueber-uns/rechtliches.html
+
+Datenschutzerklärung
+https://www.meteoschweiz.admin.ch/ueber-uns/rechtliches/datenschutzerklaerung-meteoswiss-app.html
+
+Nutzungsbedingungen (EULA)
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2013-02-24T19:32:29Z,2025-11-20T06:41:56Z
+pt,Portugal,Weather,6001,17,595482076,HD Thermometer ⊎,Christophe Pereira,https://apps.apple.com/pt/app/hd-thermometer/id595482076?uo=4,0.0,4.26087,23,Weather,"Simple and beautiful rustic style Thermometer now in your iPhone or iPad.
+
+What people say about HD Thermometer ⊎:
+
+- It is a great app! It shows the temperature of your current location. That does not mean that your phone becomes a thermometer and can read the temperature of the surrounding area, using a weather service. A lot of idiots download this app and complain that their phone can't read the temperature indoors. Of course it can't! It's a phone, and no matter what app or other software you install on it, it will never be able to read the temperature of its immediate surroundings unless you had some hardware already installed that can do so, and a touch-screen phone simply cannot take someone's temperature.
+by jefffafa123
+
+- Gets the temp for your current location, or for other saved locations. Works very well. I previously used another thermometer app, but it had banner ads that you couldn't close, and they covered the temperature if it dropped low enough. This one has a nice clean interface and easy to use!
+by AndyLPhoto
+
+- It is very accurate and is really easy to use and control. I recommend using this app!
+by AwesomeV01
+
+- Very nice. Very simple. I like the auto save feature and the ability to just flip through the pages to get where you want.
+by Tree on Hill",2013-02-16T05:35:55Z,2025-10-03T07:11:55Z
+pt,Portugal,Weather,6001,18,632040358,Earthquake,Nico Tranquilli,https://apps.apple.com/pt/app/earthquake/id632040358?uo=4,0.0,4.75986,837,Weather,"Com mais de 5 milhão downloads, o Terremoto continua sendo o app sobre terremotos #1 da App Store. Agora também está disponível para o Apple Watch.
+Obtenha as últimas informações mundiais vindas de diversas fontes e receba alertas por notificações.
+Principais recursos:
+• Receba a notificação em seu telefone assim que o evento for registrado em uma fonte oficial (você pode definir alertas baseados em sua localização ou pela magnitude do evento).
+• Mapa com diferentes tamanhos e círculos coloridos que representam a magnitude e a idade do evento.
+• Filtre eventos pela região (país ou continente) ou magnitude
+• Múltiplas fontes de informação: U.S. Geological Survey (USGS), European-Mediterranean Seismological Centre (EMSC), GeoScience Australia, GNS Science (GeoNet), Instituto Geográfico Nacional, Servicio Sismológico Nacional, British Geological Survey, GFZ GEOFON, Natural Resources Canada, NOAA
+• Tsunami Boletins (NOAA)
+• camadas do mapa: limites de placas, orógenos, vulcões, centrais nucleares, densidade populacional
+• População estimada para cada evento
+• pesquisa de catálogos de terremotos (todas as regiões do mundo, a partir de 1970)
+• Linha do tempo dos eventos (hoje, ontem, dias anteriores)
+• Visão detalhada de cada evento através do mapa e da linha de tempo
+• Exporte dados para o Google Earth ou outro app instalado com suporte a arquivos kml.
+• Compartilhamento social: compartilhe o mapa e os dados do evento no Facebook, Twitter ou Email
+• Geocódigo reverso: nomes dos locais, quando indisponíveis, são calculados automaticamente a partir das coordenadas geográficas deles.
+• Widgets para sua tela inicial ou visualização atual, para manter os dados sísmicos mais recentes ao seu alcance
+• suporte para Atalhos do Siri - ""Olá Siri, quais são os últimos terremotos no Portugal?""
+• Múltiplos Idiomas: o app está disponível em Inglês, Espanhol, Francês, Alemão, Italiano, Grego, Russo, Português, Holandês, Turco, Húngaro e Romeno
+• ""Avisos Críticos""
+• Modo Escuro
+• notificações baseadas em relatórios de usuários",2013-05-09T01:21:05Z,2025-03-10T15:56:09Z
+pt,Portugal,Weather,6001,19,1531063436,(Not Boring) Weather,Not Boring Software LLC,https://apps.apple.com/pt/app/not-boring-weather/id1531063436?uo=4,0.0,4.74172,151,Weather,"~ WEATHER DOESN’T HAVE TO BE BORING ~
+The simple weather app that’s winning awards (Apple Design Award, Best Weather Apps) and impressing tastemakers (MKBHD, Fast Company).
+
+~ PLAYFUL YET FUNCTIONAL DESIGN ~
+Turn your daily weather forecast into a memorable experience with a next-generation user interface design inspired by 3D video games. Feel the rain, hear the thunder, and watch the wind blow across your screen in vivid detail.
+
+~ TOP WEATHER SOURCES ~
+Powered by local data from the best weather sources like Accuweather, Foreca, Apple Weather, and the National Weather Service for the most local, most accurate forecasts.
+
+~ MORE DETAILED ~
+Explore every aspect of the weather for rich details on temperature changes, air quality (AQI), pollen reports, cloud cover, visibility, wind direction, rainfall, humidity, UV index, and much more. 
+
+~ MINUTE FORECASTS™ ~
+Designed for precise forecasts down to the minute. Know exactly when the downpour will start or when the dark sky will clear.
+
+~ WIDGETS ~
+Bring real-time weather data to your home screen and lock screen with simple widgets. Get frequent updates on the day’s temperature, conditions, rain, air quality, UV index, and wind conditions as they happen.
+
+~ SEVERE WEATHER ALERTS ~
+Keep an eye on severe weather alerts and be prepared for the next heat wave, storm tracking, flood risk, hurricane, blizzard, and more.
+
+~ MOON PHASES ~
+Astronomical moon phases and illumination. It’s simple to see when the next full moon and new moon are expected.
+
+~ AIR QUALITY & POLLEN ~
+Prepare for the outdoors with air quality index (AQI) and pollen forecasts. See AQI scores and pollen levels over the coming hours or days.
+
+~ CUSTOM APP ICONS & SKINS ~
+Collect app icons and custom skins that change the design of the entire app to match your mood. New icons, skins, and artist collaborations dropping regularly to keep your routine fresh.
+
+~ MINIGAME & SURPRISES ~
+Say hello to Cloudburst to pass the time or see how many hidden surprises you can find.
+
+~ FREE OR UPGRADE ~
+!Weather™ is free to use for as long as you need. Upgrade for realtime widgets, faster forecasts, more in-depth weather data like AQI and pollen, free skins, app icons, and wallpapers.
+
+~ SUPER !BORING ~
+Become a member and unlock access to all 5 Not Boring apps, skins, app icons, wallpapers, and more. We’re 100% member-supported. No ads, no data tracking.
+
+Plans: https://notboring.software/plans
+Support: https://notboring.software/support",2021-02-15T08:00:00Z,2025-11-10T16:31:11Z
+pt,Portugal,Weather,6001,20,749083919,Tempo Vivo°,Mosaic S.r.l.,https://apps.apple.com/pt/app/tempo-vivo/id749083919?uo=4,0.0,4.48426,7624,Weather,"Com a Tempo Vivo°, planear as suas atividades quotidianas é mais fácil do que nunca: basta escolher os parâmetros meteorológicos que quer acompanhar e a disposição que prefere, e ver a sua previsão meteorológica personalizada! Deleite-se com os fundos meteorológicos deslumbrantes que tornam a previsão tão visual como a própria natureza.
+
+METEOROLOGIA NUM RELANCE
+- Previsões precisas para hoje e para os próximos sete dias com horas locais para várias localizações em todo o mundo
+- Cenas meteorológicas animadas que refletem as condições meteorológicas
+- Alertas e avisos de mau tempo que o informam sobre mau tempo na sua área
+- Disposições meteorológicas ajustáveis — escolha os parâmetros meteorológicos que gostaria de ver primeiro
+- Relatórios meteorológicos diários com informações importantes.
+
+DETALHES INFORMATIVOS
+- Temperaturas mínimas, máximas e sensação térmica para hoje
+- Pressão em polegadas, mm, kPa ou mbar
+- Informações de precipitação e humidade
+- Velocidade e direção do vento
+- Hora do nascer / pôr do sol e do nascer / pôr da lua
+- Hora dourada e hora azul
+- Detalhes de UV e Visibilidade
+- Informações sobre o Ponto de Orvalho
+- Arrefecimento pelo Vento
+- Fahrenheit / Celsius e Milhas / Quilómetros
+- Formato de 12 ou 24 horas
+
+SIMPLICIDADE DE UTILIZAÇÃO
+- Widget meteorológico útil: obtenha informação detalhada sobre as previsões de temperatura e alertas de condições meteorológicas adversas no seu ecrã principal.
+- Prática aplicação para Apple Watch: veja as condições meteorológicas atuais e a previsão para as próximas horas no mostrador do seu relógio.
+
+Tenha em atenção que, na versão básica (gratuita), algumas funcionalidades suplementares estão sujeitas a limitações (p. ex., Índice UV, Sol & lua, Visibilidade, etc.). Estas limitações podem sofrer alterações.
+
+Obtenha o Tempo Vivo° Premium:
+- Previsão à hora para 14 dias;
+- Mapas meteorológicos interactivos;
+- Rastreador de Furacões;
+- Rastreador de Raios;
+- Widgets para Ecrã Inicial e de Bloqueio;
+- Gráfico de precipitação ao minuto como Atividade em tempo real;
+- Qualidade do Ar;
+- RainScope;
+- Capacidade de reorganizar os blocos com detalhes meteorológicos;
+- Experiência sem anúncios.
+
+Os pagamentos das suas subscrições serão cobrados através da sua conta da App Store aquando da confirmação da compra. As subscrições renovar-se-ão automaticamente e os pagamentos serão cobrados, a menos que a renovação automática tenha sido desativada, ou tenha cancelado pelo menos 24 horas antes do final do período de subscrição em curso ou do período de avaliação. Qualquer parte não utilizada de um período de avaliação será cancelada aquando da compra de uma subscrição premium durante esse período. O custo da renovação depende do Plano de Subscrição que escolher. 
+Pode gerir as subscrições e a renovação automática acedendo a definições da conta após a compra ou contactando o Serviço de Apoio ao Cliente.
+
+DIVULGAÇÕES IMPORTANTES E AUTORIZAÇÃO
+Se vive na União Europeia e pretende cancelar o seu pedido, pode fazê-lo no prazo de 14 dias. Para fazê-lo, basta seguir o processo descrito na App Store. Tenha em atenção e reconheça: não pode cancelar o seu pedido ou obter um reembolso se fez download da aplicação e começou a utilizá-la (i.e., por exemplo, ao abrir e utilizar a aplicação).
+
+Política de Privacidade: http://www.apalon.com/privacy_policy.html
+EULA: http://www.apalon.com/terms_of_use.html
+AdChoices: http://www.apalon.com/privacy_policy.html#4",2013-11-26T01:50:35Z,2025-11-12T09:52:08Z
+pt,Portugal,Weather,6001,21,477048487,PredictWind — Marine Forecasts,PredictWind Limited,https://apps.apple.com/pt/app/predictwind-marine-forecasts/id477048487?uo=4,0.0,4.77221,439,Weather,"Accurate marine weather forecasts and powerful tools utilizing wind, wave and currents, save you time, keep you safe and ensure you get the most out of every day on the water.
+
+Access the world’s top-ranking forecast models for reliable and accurate wind and weather data, including ECMWF, AIFS, ICON, UKMO, GFS, and more. Our very own PWAi, PWG & PWE models deliver unmatched accuracy in the short-to-medium range. 
+
+View high resolution marine weather maps for wind, gust, CAPE, wave, rain, cloud, pressure, air temperature, sea temperature, ocean data and solunar. Suitable for sailing yacht, powerboat and any other marine weather activity.
+
+In addition to marine forecasts, PredictWind also provides a suite of powerful marine weather tools to save you time and keep you safe at sea using Wind, Wave, Tidal and Ocean currents.
+
+Weather Routing takes your start and end points then calculates your route factoring in tides, currents, wind and wave data, depth and your Sailing Yacht or Powerboats unique dimensions to give you the best route for comfort or speed.
+
+Departure Planning quickly summarizes the forecast marine weather conditions you’ll encounter along your route if leaving on day 1, 2, 3, or 4. Use this data to select the perfect departure date, every time for your Sailing Yacht or Powerboat.
+
+ADDITIONAL FEATURES
+- Daily Briefing: Powerful marine weather data condensed into a simple text forecast.
+- Maps: High resolution forecasts maps with animated streamlines, wind barbs or arrows.
+- Tables: The ultimate dashboard for detailed analysis of Wind, Wave, Rain and more.
+- Graphs: Compare multiple marine forecasts at the same time.
+- Live Wind Observations and Webcams: Know what’s happening with the weather right now at your local spot.
+- Local Knowledge: Hear about the best marine spots, amenities and activities at your destination.
+- Weather Alerts: Set your preferences then get alerts when conditions are just the way you like them for Wind, wave and other parameters.
+- Ocean Data: See what’s happening under the waves with ocean and tidal currents, and sea temperature.
+- GPS Tracking: Get a free customized GPS tracking page for your blog or website showing wind data overlaid.
+- AIS Data: View over 280,000 vessels worldwide on the AIS network to see marine traffic.
+
+Terms and conditions: https://www.predictwind.com/about-us/terms-and-conditions 
+Privacy policy: https://www.predictwind.com/about-us/privacy-policy",2012-01-03T19:56:50Z,2025-11-06T20:22:48Z
+pt,Portugal,Weather,6001,22,6744607846,Room Temperature Thermometer,Bhut Ravikumar,https://apps.apple.com/pt/app/room-temperature-thermometer/id6744607846?uo=4,0.0,0,0,Weather,"Room Temperature Thermometer – Accurate Indoor Temperature & Full Weather Insights
+Stay comfortable and informed wherever you are! The Room Temperature Thermometer app is your personal weather station — right in your pocket. It not only tells you the exact room temperature, but also gives you a complete view of outdoor weather conditions, no matter where you are in the world.
+
+ Key Features:
+Room Temperature Measurement
+Know your indoor temperature in real-time using your phone’s built-in sensors. Whether you’re at home, office, or in a hotel room, get accurate readings instantly. Ideal for maintaining comfort, monitoring room cooling/heating, or simply being aware of your surroundings.
+
+Current Weather Conditions
+Get up-to-date live weather data including temperature, weather conditions (like clear, rainy, cloudy), and more — based on your current location or any city you search for.
+
+Humidity Tracker
+Monitor the humidity level of your environment. Humidity plays a big role in comfort and health — now you can keep it under control with accurate humidity readings.
+
+Wind Speed & Direction
+Check wind speed and direction in real time. Whether you're planning an outdoor event or just want to stay informed during changing weather, this helps you prepare better.
+
+Dew Point Info
+Understand how humid the air feels with dew point readings. A higher dew point means more moisture in the air — useful for weather-sensitive users or those with allergies.
+
+Today’s Weather Overview
+Get a detailed forecast for the day — including temperature highs and lows, sunrise/sunset times, rain chances, and more — so you can plan ahead with confidence.
+
+Search Weather for Any City
+Type and search any city worldwide to get its current weather conditions. Whether you’re checking weather for travel, family, or business, the app makes it easy.
+
+Weather Charts & History
+View easy-to-read charts showing temperature and humidity changes over time. Track daily trends or analyze previous data to make informed decisions.
+
+Privacy Policy : https://roomtemperaturethermometer.blogspot.com/2025/05/privacy-policy-for-room-temperature.html
+Terms Condition : https://roomtemperaturethermometer.blogspot.com/2025/05/terms-conditions-for-room-temperature.html
+EULA : https://roomtemperaturethermometer.blogspot.com/2025/05/end-user-license-agreement-eula-of-room.html",2025-05-05T07:00:00Z,2025-08-25T19:17:42Z
+pt,Portugal,Weather,6001,23,981543863,Drops - with rain radar,Infoplaza B.V,https://apps.apple.com/pt/app/drops-with-rain-radar/id981543863?uo=4,0.0,4.75676,37,Weather,"Drops – The Rain Alarm is an iOS app to do with one of the favourite talking points: the weather. More particularly the rain. Its sole task is to let you know when the rain is about to start, albeit with a bit of warning, in your area. Or anywhere else you’d like to know about.
+ 
+Drops – The Rain Alarm can tell you at a glance exactly when it will rain up to two hours in advance. With down-to-the-minute forecasts, you’ll know exactly when the rain will start or stop, right where you're standing.
+ 
+What Drops – The Rain Alarm offers you:
+- Receive down-to-the-minute alerts before it starts raining at your exact location!
+- An accurate precipitation forecast for the next two hours
+- An interactive rainfall radar map
+- Extensive 14-day weather forecast
+
+The new Drops app works worldwide!
+
+Terms and Conditions: https://www.infoplaza.com/hubfs/19574975/IPG-TAC-SEP2022%20EN%20GOODS.pdf",2020-03-26T07:00:00Z,2025-11-18T12:17:23Z
+pt,Portugal,Weather,6001,24,621542526,Buienradar - weer,RTL Nederland B.V.,https://apps.apple.com/pt/app/buienradar-weer/id621542526?uo=4,0.0,4.8205,39,Weather,"Nooit meer verrast worden door een regenbui? Bekijk dan altijd eerst de Buienradar en de regengrafiek voordat je op pad gaat!
+
+De Buienradar app opent met de radar van de 3-uurs verwachting. Op deze radarbeelden kan je zien of er straks regen gaat vallen. Onder de radar vind je de regen grafiek. In deze grafiek kan je precies zien wanneer het gaat regenen en hoeveel (in millimeter). Als je een nóg gedetailleerder beeld wil zien kun je drukken op het vergrootglas om in te zoomen op jouw woonplaats.
+
+Naast de 3-uurs verwachting heeft de Buienradar app ook een 8-uurs, 24-uurs, 48-uurs verwachting. Zo kan je altijd de gewenste periode selecteren en de daarbij behorende regenverwachting bekijken. Daarnaast kan je ook de daadwerkelijk gevallen neerslag van het afgelopen uur bekijken via de -1-uur optie.
+
+De Buienradar app is geschikt voor iPhone en iPad. Via onze handige widgets en watch app kan je snel zien of het binnenkort gaat regenen zonder de app te openen.
+
+Naast de Buienradar zijn er ook andere radars en weerkaarten te vinden in onze vernieuwde app:
+- Motregen
+- Zon
+- Satellietbeelden van NL
+- Onweer
+- Pollen (hooikoorts)
+- UV
+- Muggen
+- BBQ
+- Temperatuur
+- Gevoelstemperatuur
+- Grondtemperatuur
+- Wind
+- Mist
+- Sneeuw
+- Luchtkwaliteit
+- Luchtvochtigheid
+- Neerslagsom
+- Europa Buienradar
+- Europa Satellietbeelden
+- Europa Temperatuur
+
+Daarnaast werken onze meteorologen meerdere malen per dag het geschreven weerbericht bij, zodat het altijd actueel is.
+
+In de tabel “Komende uren in” kun je voor jouw gekozen locatie (óók voor buitenlandse plaatsen) een uur-tot-uur voorspelling vinden van de temperatuur, het aantal millimeter regen per uur, de neerslagkans, de windrichting en de windkracht.
+
+Naast onweer, zon, sneeuw, wind en temperatuur kaarten tonen we onderaan in de app ook de actuele gevoelstemperatuur, zonintensiteit, luchtdruk, luchtvochtigheid, windstoten, en zichtafstand voor je favoriete locatie. Tevens kun je hier ook de precieze tijden van de zonsopgang en de zonsondergang zien.
+
+Ook bieden wij seizoensgebonden radarkaarten aan. Zo kan je in de zomer gebruik maken van onze pollen- en muggenradar, om tijdig melding te krijgen wanneer het verstandig is je klamboe op te hangen. In de winter hebben we uiteraard onze sneeuwradar, die je informeert over winterse neerslag, maar ook een kaart speciaal voor de grondtemperatuur die je waarschuwt voor nachtvorst aan de grond.
+
+In de “Verwachting” tab kan je in een grafiek voor de komende 14 dagen de weersverwachting bekijken. Dit kan je ook weergeven in een lijst: een verwachting van uur tot uur, voor de komende 7 dagen gedetailleerd, en een gemiddelde voor de 7 dagen erna.
+
+In de “Meldingen” tab kun je een regenmelding (push notificatie) aanmaken zodat je direct een bericht krijgt zodra wij met voldoende zekerheid kunnen zeggen dat er bij jou thuis of op jouw favoriete locatie een regenbui gaat vallen. Ook kun je een dagelijks weerbericht instellen voor jouw locatie. Je kunt deze meldingen aanpassen naar de tijden en locaties waarvoor jij een regenmelding wil ontvangen, bijvoorbeeld in het weekend en/of doordeweeks. Daarnaast hebben we ook nog extra meldingen zoals de muggenmelding, bbqmelding, UV-melding, etc.
+
+Met het Buienradar Premium abonnement krijg je een advertentievrije app, extra functionaliteiten en gratis exclusieve cadeaus voor slechts € 6,99 per jaar.
+
+Voor meer informatie bekijk onze gebruiksvoorwaarden:
+https://privacy.rtl.nl/gebruikers-voorwaarden.html
+
+En onze privacy- en cookiestatement:
+https://privacy.rtl.nl/privacy-statement.html
+
+We zijn met jullie hulp continu bezig om Buienradar nog actueler, betrouwbaarder en sneller te maken. Heb je suggesties om Buienradar nog beter te maken? Stuur ons dan een berichtje via het feedbackformulier in de app. Bedankt!
+
+App voorwaarden: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2014-03-06T15:56:45Z,2025-11-10T12:37:41Z
+pt,Portugal,Weather,6001,25,1413108902,"Nautide: Marés, Vento, Ondas +",Igoox SL,https://apps.apple.com/pt/app/nautide-mar%C3%A9s-vento-ondas/id1413108902?uo=4,0.0,4.73977,269,Weather,"Todas as informações que precisa de saber para planear as suas atividades no mar, numa aplicação simples e prática.
+
+Mais de 25.000 estações costeiras em todo o mundo.
+
+MARÉS
+Tabelas diárias de marés e coeficiente de marés. Marés altas e baixas. Tabela mensal de marés. Altura das marés. Tábua de marés.
+
+VENTO
+Vento em terra e no mar: velocidade do vento, rajadas, força do vento, condições em terra e no mar, e tabela horária do vento.
+
+ONDULAÇÃO
+Altura e direção da ondulação, período das ondas e tabela horária de surf.
+
+ATIVIDADE
+Gráfico de atividade por hora e períodos solunares com os melhores momentos para a pesca em cada dia. Tabela mensal de atividade com a atividade diária dos peixes e os períodos de pesca maiores e menores.
+
+SOL E LUA
+Nascer e pôr do sol, nascer e pôr da lua, azimute, fases da lua, eclipses, trânsitos e outros dados astronómicos.
+
+BARÓMETRO
+Barómetro de pesca, gráfico de pressão e tabela horária de pressão com indicador de tendência.
+
+METEOROLOGIA
+Condições meteorológicas na costa: cobertura de nuvens, visibilidade, temperatura, precipitação, sensação térmica, humidade, ponto de orvalho e tabela meteorológica horária.
+
+MARÍTIMO
+Previsão para águas abertas para navegação/vela. Inclui todos os indicadores meteorológicos, bem como a temperatura da água. Tabela marítima horária.
+
+QUALIDADE DO AR
+Principais poluentes atmosféricos, partículas em suspensão e previsão hora a hora.
+
+-----------------
+
+Download gratuito com restrições.
+É necessária uma assinatura para desbloquear todas as secções e remover os anúncios.
+
+Termos de uso: https://nautide.com/usage-terms
+
+© Aplicação oficial tabuademares",2018-08-15T17:38:47Z,2025-10-08T07:34:32Z

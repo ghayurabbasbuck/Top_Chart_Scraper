@@ -1,0 +1,650 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+gd,Grenada,Kids,36,1,6755475759,CNCFeedWizard,Junery Sausa,https://apps.apple.com/gd/app/cncfeedwizard/id6755475759?uo=4,0.0,0,0,Productivity,"CNCFeedWizard is a handy calculator app made for machinists, CNC programmers, and shop owners. It helps you quickly find the right cutting speed and RPM, feed rate, and chip load per tooth for your tools. You can also work out metal removal rate (MRR) to see how fast you’re really cutting. The app includes a tool life prediction calculator using the Taylor equation, so you can plan tool changes better. It can estimate cost per part by combining tooling cost and machine time. You also get tool life per edge or per corner to track insert usage more clearly. For quality control, CNCFeedWizard offers a simple surface finish estimator for turning and milling. It even handles radial chip thinning and spindle power needs, so your feeds and speeds stay safe, efficient, and easy to set.",2025-11-19T08:00:00Z,2025-11-19T13:07:15Z
+gd,Grenada,Kids,36,2,6755465169,BoringBarCalc,Nguyen Thi Hieu,https://apps.apple.com/gd/app/boringbarcalc/id6755465169?uo=4,0.0,0,0,Productivity,"BoringBarCalc is a handy tool made to help machinists, programmers, and shop owners work faster and smarter. The app brings together many useful machining calculators in one easy place. You can quickly check boring bar overhang, tapping torque, thread milling speeds, and more with simple inputs. It also helps adjust feeds for helical moves, ramps, plunges, and corner cutting. Surface finish, heat input, and other cutting conditions can be understood in seconds. The app even supports planning tasks like tool consumption, reorder timing, and shift capacity. Our goal is to make machining calculations simple, accurate, and easy for everyone. With BoringBarCalc, you save time, avoid mistakes, and improve your machining results.",2025-11-19T08:00:00Z,2025-11-19T11:49:20Z
+gd,Grenada,Kids,36,3,6755474140,BoosterPumpHeat,ZUNAIRA BIBI,https://apps.apple.com/gd/app/boosterpumpheat/id6755474140?uo=4,0.0,0,0,Productivity,"BoosterPumpHeat helps pump users see how elevation, weather, and water level change suction safety and NPSH margin. The app groups tools for altitude effects, daily pressure swings, tide or river level moves, and floating roof tank drawdown. Users can test strainers, fouling build-up, and suction line heat gain to balance protection, pressure loss, and temperature rise. Hot recirculation mixing, booster heater changes, and inlet velocity checks guide safer adjustments to flow and layout. Clear calculators show best and worst operating windows so cavitation risk becomes easier to spot. Simple inputs, quick graphs, and plain language make pump health checks fast for both operators and engineers. Use BoosterPumpHeat during design reviews, plant changes, or troubleshooting to keep suction conditions inside a safe zone. The app supports smarter, calmer pump decisions before problems appear in the field.",2025-11-19T08:00:00Z,2025-11-19T11:57:51Z
+gd,Grenada,Kids,36,4,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/gd/app/chatgpt/id6448311069?uo=4,0.0,4.7782,514,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+gd,Grenada,Kids,36,5,6755479064,CutterUsageTracker,Nguyen Chau Pha,https://apps.apple.com/gd/app/cutterusagetracker/id6755479064?uo=4,0.0,0,0,Productivity,"CutterUsageTracker is a app to keep track of every cutting tool you use on the shop floor. It lets you log tool life with fields like tool code, machine, material, cutting time, parts made, and wear condition so you can see when a cutter really needs to be changed. You can also keep a clean regrind history, noting each regrind number, date, shop, material removed, and current tool size to know how many good runs are left in a tool. Built-in converters help you switch between power, torque, and speed, and between coolant flow units like L/min and gal/min, plus bar and psi for pressure. The app also gives small calculators for engagement time per part, cycle time per part, and best step-over or step-down so you can tune your programs. With all tool and regrind data in one place, you can spot bad cutting conditions, catch root causes, and cut down on sudden tool breaks. CutterUsageTracker helps you use each cutter for the right time, lower tool costs, and keep your machines running more smoothly.",2025-11-19T08:00:00Z,2025-11-19T13:47:22Z
+gd,Grenada,Kids,36,6,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/gd/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.59999,75,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2024-01-05T08:00:00Z,2025-11-24T00:05:53Z
+gd,Grenada,Kids,36,7,1636235979,ReelShort - Stream Drama & TV,"New Leaf Publishing, Inc.",https://apps.apple.com/gd/app/reelshort-stream-drama-tv/id1636235979?uo=4,0.0,4.66667,75,Entertainment,"Tired of never finishing a movie or paying for unused subscriptions? 
+
+Watch ReelShort — Every Second is Drama
+
+Say hello to ReelShort, a next-gen HD streaming short movie platform offering exclusive vertical TV mini series. Recognized by Times100 for our movie reels innovation in the entertainment industry, we're changing the way you watch movies with our one-minute short movie episodes that you can enjoy anytime, anywhere, all from the convenience of your phone with the ReelShort App.
+
+Choose from our TV mini series library packed with endless addictive movie shorts added daily, from romantic encounters with billionaires and heart-wrenching tragedies to epic comeback stories and more—you won't ever be short on short movie entertainment!
+
+Featured Shows:
+[Don't Miss Me When I'm Gone] After losing my parents, I move in with my godmother, Aunt Sandra. I live under her roof with her two sons-the Miller brothers-surrounded by love and care. I think I’ll end up with one of them. But everything changes when the maid’s daughter, Lola, moves in. The Miller brother I love most breaks my heart into pieces. After I leave, they lose their minds trying to find me.
+
+[Move Aside! I'm the Final Boss] Kingsley is the secret King of King's Corps and the richest man on Earth, but when he returns from the battlefield, his childhood sweetheart brutally dumps him, thinking he's a clown. How will the King of all men make her regret it?
+
+Here's why you'll love ReelShort:
+
+Bite-sized original movie shorts designed for on-the-go viewing
+•Exclusive short movies with juicy vertical content that will keep you hooked
+•New TV mini series added daily, with hundreds of new episodes each month
+•Hollywood-quality entertainment, crafted for the big screen delivered to your small screen
+•The first ever interactive live action short movies, where you decide what happens next
+Experience the future of short movie entertainment, one minute at a time — download ReelShort now!
+
+""Crazy Maple Studio is quietly changing the streaming game with its ReelShort app."" - Time100 
+
+""The biggest player in this new genre is ReelShort."" - New York Times
+
+""Every minute has a hook that keeps you watching."" - Wall Street Journal
+
+""ReelShort, which has dozens of shows — similarly light on character development and packed with curveballs — made for binge-watching in minutes."" - Washington Post
+
+Follow Us on Social Media
+
+Instagram: https://www.instagram.com/reelshortapp
+Facebook: https://www.facebook.com/reelshortapp
+YouTube: https://youtube.com/@reelshortapp
+TikTok: https://www.tiktok.com/@reelshortapp
+ReelShort's  Website: https://www.reelshort.com 
+
+Notice:
+If you subscribe through Apple, the payment will be deducted from your App Store account upon purchase confirmation.
+Subscription privileges: While your subscription is active, you can watch all tv mini series for free.
+Your subscription will take effect within 24 hours after purchase, depending on the status of your order in the Apple Store. The subscription is valid for 7 days.
+Auto-Renewal: Your subscription will automatically renew. You will be charged within 24 hours before the start of each subscription period until you cancel your subscription.
+Cancellation: On iOS devices, you can cancel your subscription at least 24 hours before the next renewal date by going to Settings > iTunes & App Store > Apple ID > View Apple ID > Subscriptions > ReelShort.
+The subscription is billed weekly. The actual price may vary by region.
+
+Terms of Service: https://crazymaplestudios.com/v/user-agreement
+Privacy Policy: https://crazymaplestudios.com/v/privacy-agreement",2022-08-07T07:00:00Z,2025-11-21T03:37:29Z
+gd,Grenada,Kids,36,8,1613091489,幸福千万家司机端,"Chongqing Xingfu Qianwanjia Technology Co., Ltd.",https://apps.apple.com/gd/app/%E5%B9%B8%E7%A6%8F%E5%8D%83%E4%B8%87%E5%AE%B6%E5%8F%B8%E6%9C%BA%E7%AB%AF/id1613091489?uo=4,0.0,0,0,Travel,幸福千万家是重庆幸福千万家科技有限公司开发的互联网出行app，集出行服务、车辆动态管理集一体的互联网出行平台。团队致力于为司机提供优质订单及高额奖励、为司机提供多元化增值服务。快来加入我们吧。,2022-03-13T08:00:00Z,2023-09-20T22:30:56Z
+gd,Grenada,Kids,36,9,6749002766,Ryde Go,Errol George,https://apps.apple.com/gd/app/ryde-go/id6749002766?uo=4,0.0,5,1,Lifestyle,"Ryde Go – Your Ride, Reimagined
+
+Ryde Go is your reliable on-demand ride-hailing app designed for every kind of traveler. Whether you're heading across town, booking an intercity trip, or looking for flexible car rental options — Ryde Go gets you there with comfort and ease.
+
+From daily commutes to spontaneous weekend getaways, choose the ride that fits your needs. With multiple services including tuk-tuk rides, taxi pooling, and private rentals, Ryde Go brings you a smarter way to travel.
+
+Key Features:
+Fast, hassle-free ride booking
+Affordable taxi and TukTuk rides
+Intercity travel for long-distance trips
+Smart ride bidding for best pricing
+Share rides and save with pooling
+Multiple ride options in one app
+Car rental service for flexible mobility
+Seamless, secure in-app payments
+Whether you're riding solo or sharing the journey, Ryde Go puts you in control of how you move.
+
+Download Ryde Go now – and ride your way, the new way.",2025-07-30T07:00:00Z,2025-10-10T12:33:37Z
+gd,Grenada,Kids,36,10,6446901002,Threads,"Instagram, Inc.",https://apps.apple.com/gd/app/threads/id6446901002?uo=4,0.0,4.50365,137,Social Networking,"Say more with Threads — Instagram’s text-based conversation app.
+
+Threads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creators and others who love the same things — or build a loyal following of your own to share your ideas, opinions and creativity with the world!
+
+A few things you can do on Threads…
+
+■ Access your Instagram followers
+Your Instagram username and verification badge are reserved for you. Automatically follow the same accounts you follow on Instagram in a few taps, and discover new accounts too.
+
+■ Share your point of view
+Spin up a new thread to express what's on your mind. This is your space to be yourself, and you control who can reply.
+
+■ Connect with friends and your favorite creators
+Jump to the replies to get in on the action and react to commentary, humor and insight from the creators you know and love. Find your community and connect with people who care about whatever it is you’re interested in.
+
+■ Control the conversation
+Customize your settings and use controls to manage who can see your content, reply to your threads, or mention you. Accounts you’ve blocked will carry over from Instagram, and we’re enforcing the same Community Guidelines to help ensure everyone interacts safely and authentically. 
+
+■ Find ideas and inspiration
+From TV recommendations to career advice, get answers to your questions or learn something new from crowd-sourced conversations, thought leaders and industry experts.
+
+■ Never miss a moment
+Stay on top of the latest trends and live events. Whether it’s about new music, movie premieres, sports, games, TV shows, fashion, or the latest product releases, find discussions and receive notifications any time your favorite profiles start a new thread.
+
+■ Leap into the fediverse
+Threads is part of the fediverse, a global, open, social network of independent servers operated by third parties around the world. Servers share information with each other to enable people to connect and discover new things across the fediverse.
+
+
+Meta Terms: https://www.facebook.com/terms.php
+Meta Privacy Policy: https://privacycenter.instagram.com/policy
+Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
+Threads Supplemental Terms: https://help.instagram.com/769983657850450
+Instagram Community Guidelines: https://help.instagram.com/477434105621119
+Consumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health
+
+Learn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",2023-07-05T07:00:00Z,2025-11-19T23:58:42Z
+gd,Grenada,Kids,36,11,1500855883,CapCut - Photo & Video Editor,BYTEDANCE PTE. LTD.,https://apps.apple.com/gd/app/capcut-photo-video-editor/id1500855883?uo=4,0.0,4.55652,115,Photo & Video,"CapCut offers easy-to-use video editing functions, in-APP fonts and effects, advanced features such as keyframe animation, smooth slow-motion, chroma key, and stabilization, to help you capture and snip moments.
+
+Create fancy videos with other unique features: auto captions, text-to-speech, motion tracking, and background removal. Show your personality and go viral on TikTok, YouTube, Instagram, WhatsApp, and Facebook!
+
+FEATURES
+Basic video editing
+• Trim and shorten clips and split or merge videos.
+• Adjust video speed from 0.1x to 100x, and apply speed curves to clips.
+• Animate video clips with incredible zoom in/out effects.
+• Highlight the best moments with the freeze feature.
+• Explore transition options with awesome effects on and between clips.
+
+Advanced video editor
+• Keyframe video animation is available for all settings.
+• Edit videos to create smooth slow-motion with the optical flow feature and speed curve tool.
+• Use the chroma key to remove specific colors from videos.
+• Easy to arrange and preview clips on multi-track timeline.
+• The stabilizing feature keeps video footage steady.
+
+Intelligent features
+• Auto captions: automate speech recognition and subtitles in videos.
+• Text-to-speech: apply text-to-speech in multiple languages and voices.
+• Background removal: automatically remove backgrounds.
+
+Text & Stickers
+• Add text to videos with different fonts and styles, choose unique text templates. Fonts can be imported locally.
+• Subtitles can be added to the timeline of video tracks and can be moved and adjusted in one step.
+
+Trending Effects & Filters
+• Match video content with diverse filters that are updated weekly with the latest trends.
+• Edit videos with hundreds of trending effects, including Glitch, Blur, 3D, etc.
+• Add movie-style video filters or adjust video brightness, contrast, etc.
+
+Music & Sound Effects
+• Add millions of music clips and sound effects to videos.
+• Extract audio, clips, and recordings from videos.
+
+Easy to Share
+• Custom video export resolution, HD video editor supports 4K 60fps exports and smart HDR.
+• Adjust the format and share with your friends on social media platforms.
+
+CapCut is an all-in-one video editor and video maker application with everything you need to create stunning, high-quality videos. Beginners can get started with CapCut in a matter of seconds, while advanced users can enjoy all the functions they need to edit videos. 
+
+Terms of Service —
+https://www.capcut.com/clause/terms-of-service
+
+Privacy Policy —
+https://www.capcut.net/clause/privacy
+
+Contact Us
+Any questions about CapCut? Please contact us at capcut.support@bytedance.com.
+Facebook: https://www.facebook.com/capcutapp
+Instagram: https://www.instagram.com/capcutapp
+YouTube: https://www.youtube.com/capcutofficial
+TikTok: https://www.tiktok.com/@capcut",2020-04-14T07:00:00Z,2025-11-21T06:41:15Z
+gd,Grenada,Kids,36,12,6477489729,Google Gemini,Google LLC,https://apps.apple.com/gd/app/google-gemini/id6477489729?uo=4,0.0,4.68333,60,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+gd,Grenada,Kids,36,13,1367363988,Fashion Nova: Trendy Shopping,Fashion Nova Inc.,https://apps.apple.com/gd/app/fashion-nova-trendy-shopping/id1367363988?uo=4,0.0,4.73182,440,Shopping,"Discover trendy outfits, dresses, jeans and affordable clothing with fast shipping and 1000+ new arrivals weekly. Our online shopping app brings stylish women's, curve, men's and kids’ fashion to your fingertips as the #1 most-searched fashion brand.
+
+-----
+WHY FASHION NOVA IS YOUR STYLE ESSENTIAL
+-----
+
+• 1000+ NEW ARRIVALS WEEKLY: Be the first to rock the latest trends and new clothes before anyone else. Our design team brings you trendy outfits inspired by runway looks.
+• INCLUSIVE SIZING: Perfect fits for every body type with our Women's, Plus Size, Curve, Men's, and Kids collections. Our trendy clothing is designed to flatter all bodies.
+• CELEBRITY-APPROVED STYLES: Worn and loved by today's biggest stars. Our trendy outfits have been featured in music videos, red carpet events, and social media posts.
+• UNBEATABLE PRICES: Runway-inspired fashion at discount prices that won't break the bank. We deliver boutique-quality clothing at affordable prices.
+• LIGHTNING-FAST SHIPPING: Get your must-have pieces delivered quickly to your door. Shop new clothes and have them arrive in time for the weekend.
+• EASY RETURNS: Hassle-free 30-day return process to ensure your complete satisfaction with every purchase of our stylish clothes.
+
+-----
+APP FEATURES THAT ELEVATE YOUR ONLINE SHOPPING
+-----
+
+• PERSONALIZED RECOMMENDATIONS: Discover stylish clothes curated just for you based on your browsing history and preferences.
+• EASY CHECKOUT: Save your details for one-tap purchasing, making buying trendy clothing faster than ever.
+• EXCLUSIVE APP-ONLY DEALS: Access special discounts and flash sales first, before they're available anywhere else.
+• WISH LIST: Save your favorites to shop later. Keep track of those must-have trendy pieces you want.
+• ORDER TRACKING: Monitor your package from warehouse to doorstep with real-time updates on your trendy outfits.
+• REAL-TIME NOTIFICATIONS: Get instant alerts on new arrivals, restocks, and exclusive flash sales.
+• SECURE PAYMENT OPTIONS: Shop with confidence using multiple payment methods including installment plans.
+
+-----
+DISCOVER OUR TRENDING COLLECTIONS
+-----
+
+• FASHION NOVA: Contemporary women's styles from casual to boutique quality. From basics to statement pieces, our women's collection offers trendy outfits for every occasion.
+• FASHION NOVA CURVE: Stunning plus-size fashion that celebrates every curve with stylish options. Our plus size collection features trendy clothing cut to fit.
+• FASHION NOVA MEN: Streetwear and casual essentials for the modern man who appreciates quality and style. Our men's collection offers trendy outfits for day to night.
+• FASHION NOVA KIDS: Miniature versions of our hottest adult styles for fashion-forward young ones.
+
+-----
+FIND YOUR PERFECT STYLE
+-----
+
+• Our app makes finding your perfect look effortless. Whether you're searching for that sexy statement piece, curve-hugging jeans, or casual streetwear, we've got you covered.
+• The Fashion Nova shopping experience is designed with you in mind. Our intuitive search filters help you find the perfect trendy outfits by size, color, price, or occasion.
+• Join our global community of Fashion Nova Babes! Tag @FashionNova, @FashionNovaCURVE, and #NovaBabe for a chance to be featured on our social platforms.
+• Gentlemen, elevate your wardrobe with Fashion Nova Men! Tag @FashionNovaMEN and #NovaMen to showcase your streetwear style.
+
+CONNECT WITH US:
+
+• Instagram: @FashionNova, @FashionNovaCURVE, @FashionNovaMEN
+• TikTok: @FashionNova
+• X: @FashionNova
+• Facebook: @FashionNova
+• Snapchat: @FashionNova
+
+Download the Fashion Nova app now and experience why we're the fastest-growing online boutique worldwide. Shop our trendy clothing collection today—your next head-turning outfit is just a tap away!",2018-05-11T22:18:40Z,2025-11-19T17:58:45Z
+gd,Grenada,Kids,36,14,1641486558,Temu: Shop Like a Billionaire,Whaleco Inc.,https://apps.apple.com/gd/app/temu-shop-like-a-billionaire/id1641486558?uo=4,0.0,4.47692,65,Shopping,"Shop on Temu for exclusive offers. 
+
+No matter what you're looking for, Temu has you covered, including fashion, home decor, handmade crafts, beauty & cosmetics, clothing, shoes, and more.
+
+Download Temu today and enjoy incredible deals daily.
+
+WIDE SELECTION
+Discover thousands of new products and shops.
+
+CONVENIENCE
+Fast and secure checkout.
+Free shipping & returns within 90 days.
+*Other conditions may apply
+
+Visit temu.com or follow us on:
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu",2022-08-31T07:00:00Z,2025-11-23T05:33:13Z
+gd,Grenada,Kids,36,15,6445905219,DramaBox - Stream Drama Shorts,STORYMATRIX PTE. LTD,https://apps.apple.com/gd/app/dramabox-stream-drama-shorts/id6445905219?uo=4,0.0,4.68182,198,Entertainment,"Looking for something to watch during your daily commute, lunch break, or just to unwind after a long day? Look no further than our Dramabox!
+With our app, you can access a huge selection of high-quality content from some of the best creators out there. From indie films to award-winning TV series, we've got something for everyone. And with new content added regularly, you'll always have something fresh to watch.
+
+Here are just a few of the features you'll love about our app:
+
+- Stream your favorite shows and movies in HD quality, no matter where you are.
+- Discover new content based on your viewing preferences and what's trending in the app.
+- Get personalized recommendations based on your viewing history and ratings.
+- Enjoy ad-free streaming and uninterrupted viewing.
+- Create playlists and save your favorite titles for later.
+
+So what are you waiting for? Download our app now and start watching the best short movies, TV series, and drama today!
+
+Note: If you subscribe through Apple, the payment will be deducted from your App Store account when you confirm the purchase. 
+Unless the user turns off automatic renewal at least 24 hours before the current subscription period ends. Otherwise, the system automatically extends the validity period. Within 24 hours of the end of the current subscription period, the system will charge the account renewal fee according to the price of the selected plan. After completing the purchase, users can manage their subscriptions and automatic renewal in account Settings.
+Privacy policy: https://support.dramaboxdb.com/privacy.html
+DramaBox Paid Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula
+Developer site：https://www.dramabox.com",2023-04-18T07:00:00Z,2025-11-12T01:28:41Z
+gd,Grenada,Kids,36,16,535886823,Google Chrome,Google LLC,https://apps.apple.com/gd/app/google-chrome/id535886823?uo=4,0.0,4.5884,362,Utilities,"Chrome helps you do what's possible on the web. Download the fast, secure browser by Google.
+
+GET THE BEST OF GOOGLE IN CHROME
+
+• SEARCH WITH GOOGLE – search and get answers on Google fast. Use your voice to search hands-free.
+• GOOGLE LENS – search what you see on your screen or with your camera.
+• GOOGLE TRANSLATE – explore the web in 130+ languages. Translate entire websites in one click.
+
+BROWSE WITH BEST-IN-CLASS SECURITY
+
+• ENHANCED PROTECTION MODE – browse confidently with the highest level of Chrome's security.
+• SAFETY CHECK – get peace of mind with proactive safety alerts.
+• GOOGLE PASSWORD MANAGER – securely generate and save passwords for fast sign-in, and get alerts if your passwords are at risk.
+
+ACCESS YOUR CHROME ACROSS DEVICES
+
+• SYNC ACROSS DEVICES – save your things (like bookmarks, tabs and passwords) and easily access them when you sign in to Chrome on your phone, computer or tablet.
+• TAB GROUPS – create tab groups to stay organised across devices.
+• AUTOFILL – save time typing by autofilling your saved payments, addresses and passwords.",2012-06-28T19:57:38Z,2025-11-20T15:29:06Z
+gd,Grenada,Kids,36,17,447188370,Snapchat: Chat with friends,"Snap, Inc.",https://apps.apple.com/gd/app/snapchat-chat-with-friends/id447188370?uo=4,0.0,4.58122,277,Photo & Video,"Snapchat is a fast and fun way to share the moment with your friends and family 
+
+SNAP
+• Snapchat opens straight to the camera – just tap to take a photo or press and hold for video. 
+• Express yourself with Lenses, Filters, Bitmoji and more! 
+•Try out new Lenses created daily by the Snapchat community!
+
+CHAT
+• Stay in touch with friends through live messaging or share your day with Group Stories. 
+• Video chat with up to 16 friends at once – you can even use Lenses and Filters when chatting! 
+• Express yourself with Friendmoji – exclusive Bitmoji made just for you and a friend.
+
+STORIES
+• Watch friends’ Stories to see their day unfold. 
+• See Stories from the Snapchat community that are based on your interests. 
+• Discover breaking news and exclusive, original Shows.
+
+SPOTLIGHT
+• Spotlight showcases the best of Snapchat! 
+• Submit your own Snaps or sit back, relax and watch. 
+• Pick your favourites and share them with friends.
+
+MAP 
+• Share your location with your best friends or go off the grid with Ghost Mode. 
+• See what your friends are up to on your most personal map when they share their location with you. 
+• Explore live Stories from the community nearby or across the world!
+
+MEMORIES
+• Save unlimited photos and videos of all your favourite moments. 
+• Edit and send old moments to friends or save them to your Camera Roll. 
+• Create Stories from your favourite Memories to share with friends and family.
+
+FRIENDSHIP PROFILE
+• Every friendship has its own special profile so that you can see the moments you’ve saved together. 
+• Discover new things you have in common with Charms – see how long you’ve been friends, your astrological compatibility, your Bitmoji fashion sense and more! 
+• Friendship Profiles are just between you and a friend, so you can bond over what makes your friendship special.
+
+Happy Snapping!
+
+Please note: Snapchatters can always capture or save your messages by taking a screenshot, using a camera or in other ways. Be mindful of what you Snap!
+
+For a full description of our privacy practices, please go to our Privacy Centre.",2011-07-13T23:51:40Z,2025-11-20T12:02:02Z
+gd,Grenada,Kids,36,18,878577184,SHEIN-Shopping Online,ROADGET BUSINESS PTE. LTD.,https://apps.apple.com/gd/app/shein-shopping-online/id878577184?uo=4,0.0,4.57576,264,Shopping,"Everything you love, now at your fingertips!
+
+SHEIN is an affordable online shopping platform offering rich items and trendy goods. Discovering pretty items, trying new things and sharing with others,  SHEIN is dedicated to meet all your needs in life and works as your one-stop shopping destination! We take pride in satisfying our customers and bringing them the best shopping experience.
+
+Inspire yourself with SHEIN right now!
+
+Save you more
+- Register and get £3 includes sale
+- Free limited-time delivery and free returns within 30 Days（*conditions apply）
+- Daily flash sales on many items 
+
+Wide selections
+- Fun, easy shopping with wide selections
+- Browse by New Arrivals, Trends, Category, Best Sellers and more
+
+Considerate services
+- Get first access to sale alerts and promotional discounts
+- Now accepting PayPal and major Credit Cards 
+- Style now, pay later! Choose Afterpay to pay in 4 interest-free payments.
+- 24/7 Customer Service and Live Chat available
+
+Contact us:
+Facebook:  https://www.facebook.com/SHEINOFFICIAL/
+Instagram: https://www.instagram.com/sheinofficial/
+Email: dispute@shein.com
+
+
+The app needs the following access permissions when it is running on your device:
+
+-	Optional permission(s):
+
+o	Notification: it will allow us to send push notifications to your device.
+
+o	Camera: the camera function is required when you need to capture photos and videos and upload them to the app.
+
+o	Photo and video: it will enable you to upload photos and videos from your device to the app.
+
+o	Location: where the relevant service is available, it enables location based services on your device. 
+(This is not used in Korea.)
+
+o	Calendar: it enables you to sync the SHEIN LIVE events to your device calendar. 
+
+o	Microphone: when you try to capture videos using Camera function, the app will also need the microphone access permission to capture the voice. 
+
+※ Even if you do not grant optional access permissions, you can still use SHEIN service, except for the functions related to those permissions.",2014-05-20T03:45:36Z,2025-11-23T07:01:53Z
+gd,Grenada,Kids,36,19,363590051,Netflix,"Netflix, Inc.",https://apps.apple.com/gd/app/netflix/id363590051?uo=4,0.0,4.62336,608,Entertainment,"Looking for the most talked about TV programmes and films from the around the world? They’re all on Netflix.
+
+We’ve got award-winning series, films, documentaries and stand-up specials. And with the mobile app, you get Netflix while you travel, commute or just take a break.
+
+What you’ll love about Netflix:
+• We add TV programmes and films all the time. Browse new titles or search for your favourites, and stream videos straight to your device.
+• The more you watch, the better Netflix gets at recommending TV programmes and films you’ll love.
+• Enjoy a safe watching experience just for children with family-friendly entertainment.
+• Preview quick videos of our series and films and get notifications for new episodes and releases.
+
+Netflix membership is a month-to-month subscription that begins at sign-up. You can easily cancel at any time, online, 24 hours a day. There are no long-term contracts or cancellation fees. We just want you to love what you watch.
+
+Please note that the App Privacy information applies to information collected through the Netflix iOS, iPadOS and tvOS apps. See the Netflix Privacy Statement (link below) to learn more about information we collect in other contexts, including account registration.
+
+Privacy policy: www.netflix.com/privacy
+Terms of use: www.netflix.com/terms
+
+Phone number: +18667160414
+Email: iosappstore@netflix.com",2011-12-14T17:47:35Z,2025-11-18T18:49:39Z
+gd,Grenada,Kids,36,20,6446470442,Novelmates-Best Stories&Novels,HK IReader Technology Limited,https://apps.apple.com/gd/app/novelmates-best-stories-novels/id6446470442?uo=4,0.0,0,0,Book,"[Enjoy Novelmates]
+Novelmates is your gateway to a romantic world of addictive novels from various genres. Dive into captivating stories, explore new plots on those web novels. With Novelmates, immerse yourself into storytelling anytime, anywhere.
+
+[Features]
+1.Extensive Library: Access a diverse library of novels spanning multiple genres, including romance, mystery, fantasy, science fiction, thriller, and more.
+
+2.Personalized Recommendations: Discover new novels tailored to your preferences based on your favorite novels and stories.
+
+3.Bookmarking: Bookmark your favorite novels and never lose your place in a story.
+
+4.Night Mode: Read comfortably in low-light conditions with the night mode feature, reducing eye strain.
+
+5.Seamless Experience: Enjoy a seamless reading experience with smooth page-turning animations and intuitive navigation controls.
+
+6.Subscriptions: Enjoy the unlimited reading experience without interruptions after subscribing, allowing you to fully immerse yourself in the story.
+
+[Tranding Novel For You]
+- Billionaire
+- Werewolf
+- Romance
+- Badboy
+- Mafia
+
+
+Discover the joy of reading with Novelmates and unlock a world of good novels. Download now and start your literary journey today!
+
+Novelmates Agreement
+http://www.ireader.mobi/index.php?ca=lang.EnTerms
+
+Novelmates Privacy
+http://www.ireader.mobi/index.php?ca=lang.EnPrivacy
+
+Novelmates VIP Agreement
+http://abs.ireaderm.net/zyios/app/iphone.php?ca=Vip.VipProtocol",2023-03-30T07:00:00Z,2025-11-23T08:19:00Z
+gd,Grenada,Kids,36,21,1038369065,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,https://apps.apple.com/gd/app/flo-period-cycles-tracker/id1038369065?uo=4,0.0,4.63697,595,Health & Fitness,"Live in sync with your cycle using Flo, the world’s most popular female health app. Get personalised insights and predictions on your body.
+
+Whether you want to predict your period, get pregnant, track your pregnancy, or better understand your symptoms, Flo is your all-in-one female health partner. Join over 420 million members.
+
+With Flo, you can:
+- Keep your data safe: Flo is the first period and ovulation tracker to achieve dual ISO 27001 and ISO 27701 Certifications (aka gold standards in data protection).
+- Feel more understood: Share your Flo insights via Flo for Partners to feel more connected, understood, and supported.
+- Get an extra layer of protection: Anonymous Mode means no one, not even Flo, can identify you based on your health data.
+- Join a supportive community: Secret Chats is where members can discuss topics and connect with others on the same journey.
+- Access reliable health information: Flo collaborates with a globally recognised organisation dedicated to reproductive health and rights, ensuring trustworthy support for your health journey.
+
+With Flo Premium, you can enjoy:
+- Monthly cycle reports
+- Symptom predictions and patterns
+- Tailored prediction insights
+- Detailed pregnancy tracking
+- Full access to Flo for Partners
+- A 24/7 virtual Health Assistant
+- All articles, videos, and courses reviewed by 140+ health experts
+
+New! Flo supports perimenopause:
+- Know what might be perimenopause and how to tune in to your body’s changes.
+- Get clarity on common perimenopause symptoms and what can help.
+- Make more informed health decisions and identify what you need to feel your best.
+
+Start tracking your cycle for free today.
+
+Privacy Policy and Terms of Use:
+https://flo.health/privacy-policy  
+https://flo.health/terms-of-use 
+
+Connect with Flo:
+Web: flo.health
+TikTok: @flotracker
+Instagram: @flotracker
+
+Please note: Flo is not a diagnostic tool and should not be used as a method of contraception or to facilitate conception. Predictions and insights provided by the app are intended for informational purposes only and are not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any health concerns or decisions.
+
+Flo uses HealthKit to read menstrual cycle data and export your Flo activities to the Health app.
+
+If you have any difficulties using the app, contact Flo via support@flo.health.
+
+Notice of Access Permission:
+Flo may request permission for:
+- In-app notifications or reminders.
+- Uploading photos to specific forum discussions.
+- Uploading audio recordings to closed group chats.
+Content sharing is entirely optional. Flo does not automatically access your content. You can select what you want to share.",2015-10-03T22:28:36Z,2025-11-19T19:58:17Z
+gd,Grenada,Kids,36,22,1619749213,AI Video Generator-HiCut,成浩 于,https://apps.apple.com/gd/app/ai-video-generator-hicut/id1619749213?uo=4,0.0,0,0,Photo & Video,"HiCut is a top-notch AI application that provides pictures and videos in a variety of styles.
+
+Just upload a photo to turn any casual or imperfect photo into a polished video or picture, with a variety of styles to choose from!
+
+HiCut  —— your professional photographer
+
+[One-click Transformation]
+
+Choose from a wide range of dress-up video templates with diverse styles, including sexy dances, beautiful wedding dresses, memes, retro clothing, and more. Create sensational videos in seconds!
+
+[AI camera]
+
+Generate the personal and professional photos you want with one click, no photographer required, the AI photographer will help you do it.
+
+[AI Photos]
+
+Use the power of our AI to capture the perfect photo in a brand new style: retro, Linkedin professional avatar, holiday photo, and more.
+
+[Photos will dance]
+
+Upload any photo, instantly generate various dance videos, including popular gorgeous ladies, funny, and other dancing videos.
+
+[Realistic Game Aesthetics]
+
+Unlock various gaming style videos and images with just one click, featuring styles from PS2, GTA, and many other games.
+
+[Description of continuous subscription members]
+1. Subscription service: continuous (weekly/monthly/yearly) membership
+2. Subscription cycle: one week/one month/one year; during the subscription cycle, users can experience all functions
+3. Subscription price: $7.99 per week / $10.99 per month / $29.99  per year
+4. Payment: After confirming the purchase, the user's Apple iTunes account will be charged
+5. Cancel subscription: If you need to cancel the automatic renewal, please turn off the automatic renewal at least 24 hours before the expiration of the subscription period, and no deduction will be charged after the closure. If you do not cancel 24 hours before the expiration, the subscription will be automatically renewed
+6. Renewal: 24 hours before the expiration of the continuous (weekly/monthly/yearly) membership, Apple will automatically deduct the corresponding fee from your iTunes account. After successful (weekly/monthly/yearly) membership service validity period will be automatically extended A cycle
+7. Privacy Policy: http://nface.cushuikeji.cn/link/nface/Privacy_Policy.html
+8. Continuous subscription agreement: http://nface.cushuikeji.cn/link/nface/lianxudingyuexieyi.html",2022-04-18T07:00:00Z,2025-11-19T08:07:38Z
+gd,Grenada,Kids,36,23,429047995,Pinterest: Lifestyle Ideas,"Pinterest, Inc.",https://apps.apple.com/gd/app/pinterest-lifestyle-ideas/id429047995?uo=4,0.0,4.79172,773,Lifestyle,"Pinterest is a place of endless possibilities. You can:
+- Discover everyday inspiration
+- Shop styles you love
+- Try and learn something new
+
+Create boards, save Pins and make collages of all your inspiration. Unlock billions of ideas, from fashion tips and easy recipes to DIY projects and fresh ways to redo your space. Creating the life you love? 
+
+It's Possible.",2011-07-10T12:50:39Z,2025-11-19T16:28:23Z
+gd,Grenada,Kids,36,24,297606951,Amazon - Shopping made easy,AMZN Mobile LLC,https://apps.apple.com/gd/app/amazon-shopping-made-easy/id297606951?uo=4,0.0,4.55,160,Shopping,"Comprehensive
+
+Quickly search, get product details, read reviews and purchase millions of products available from Amazon and other merchants.
+
+Convenient
+Sign in with your existing Amazon account to access your basket, payment and shipping options. No need to create a new account to manage your 1-Click settings and wish lists, track your orders and use your Prime membership benefits. Shop just as you do on the web.
+
+Fast
+Compare prices and check availability instantly by scanning a barcode, snapping a picture or typing your search. 
+
+Secure
+All purchases are routed through Amazon's secure servers.
+
+Universal
+Shop Amazon.co.uk, Amazon.de, Amazon.es, Amazon.fr, Amazon.com, Amazon.it, Amazon.cn or Amazon.co.jp, Amazon.sg from a single app.
+
+For customers located within the European Union, United Kingdom or Brazil: By using this app, you agree to Amazon’s Conditions of Use applicable for your country. Please also see the applicable Privacy Notice, Cookies Notice and Interest-Based Ads Notice for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.
+ 
+For all other customers: By using this app, you agree to the applicable Amazon Conditions of Use (e.g. www.amazon.com/conditionsofuse) and Privacy Notice (e.g. www.amazon.com/privacy) for your country. Links to these terms and notices can be found in the footer of your local Amazon homepage.",2011-07-09T10:29:43Z,2025-11-14T23:10:47Z
+gd,Grenada,Kids,36,25,1644042837,Hypic - Photo Editor & AI Art,BYTEDANCE PTE. LTD.,https://apps.apple.com/gd/app/hypic-photo-editor-ai-art/id1644042837?uo=4,0.0,4.71429,7,Photo & Video,"Transform Your Photos with the Power of AI – Say Hello to Hypic!
+
+Ready to turn everyday selfies into stunning masterpieces? Hypic is your all-in-one photo editor designed to elevate your pictures with the magic of AI. Whether you're going for artsy, aesthetic, or just ultra-polished, Hypic has everything you need.
+
+Why You’ll Love Hypic:
+AI Magic in a Tap
+Turn photos into artwork instantly. Remove backgrounds, generate avatars, cartoon yourself, or enhance image quality — all powered by cutting-edge AI.
+
+Stylish Filters & Effects
+Explore trending aesthetic styles, including retro film, clean girl presets, and soft glow filters. One tap is all it takes to match your mood or feed vibe.
+
+Smart Retouching Tools
+Customize your look naturally with precision tools for smoothing, reshaping, and enhancing. Adjust facial features with subtlety and ease.
+
+Aesthetic Templates
+Create stunning visuals in seconds using professionally designed templates. Whether it's for a photo dump, a story, or a daily vlog, Hypic’s templates make your content look effortlessly curated.
+
+Whether you're a casual editor, digital creator, or aesthetic lover — Hypic makes editing fun, fast, and easy. No experience needed.
+Batch edit, make collages, and generate AI art — all in one place.
+Perfect for Instagram, TikTok, Pinterest, and MORE.
+
+Download Hypic today and bring your vision to life — beautifully, effortlessly, and instantly.
+
+Any questions about Hypic, please contact us at retouchpics.support@bytedance.com.
+For more new feature tutorials and advanced picture editing tips, please follow @hypic on Instagram https://www.instagram.com/hypic_app/ or TikTok https://www.tiktok.com/@hypic_global.
+
+Terms of Service
+https://m.hypic.com/clause/hypic-terms-of-service
+
+Privacy Policy
+https://m.hypic.com/clause/hypic-privacy-policy",2023-03-27T07:00:00Z,2025-11-21T03:32:37Z

@@ -1,0 +1,493 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+hk,Hong Kong,Developer Tools,6026,1,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/hk/app/testflight/id899247664?uo=4,0.0,4.6695,93067,Developer Tools,"TestFlight 可讓你輕鬆測試 Beta 版 App 和輕巧 App，然後在開發者於 App Store 發佈 App 前提供寶貴的使用者意見。開發者可以透過電子郵件或公開連結邀請測試者。
+
+當你測試 Beta 版 App 或輕巧 App 時，Apple 會收集並傳送當機記錄、使用狀況資訊，以及任何你提供給開發者的使用者意見。開發者可能會使用此資訊來改進其 App 和相關產品。Apple 可能會使用當機記錄和使用狀況資訊來改進我們的產品與服務。
+
+如需安裝、測試和傳送使用者意見的指示，以及我們如何處理你資料的詳細資訊，請參訪 testflight.apple.com。",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+hk,Hong Kong,Developer Tools,6026,2,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/hk/app/o-kam-pro/id1602054864?uo=4,0.0,4.62024,840,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-10-30T02:04:09Z
+hk,Hong Kong,Developer Tools,6026,3,1477376905,GitHub,GitHub,https://apps.apple.com/hk/app/github/id1477376905?uo=4,0.0,4.82024,395,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+hk,Hong Kong,Developer Tools,6026,4,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/hk/app/apple-developer/id640199958?uo=4,0.0,4.1875,48,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+hk,Hong Kong,Developer Tools,6026,5,1643688878,Apps Connect,CITY OF THE SKY NETWORK LTD,https://apps.apple.com/hk/app/apps-connect/id1643688878?uo=4,0.0,4.33333,6,Developer Tools,"One Click Connection v2board / SSPANEL
+Support Shadowsocks ShadowsocksR Vmess Vless Trojan Hysteria Socks Hysteria2
+- Lighter to use
+- Simpler interface
+- Faster connection speeds
+- Better Interaction",2022-10-17T07:00:00Z,2025-10-14T08:02:01Z
+hk,Hong Kong,Developer Tools,6026,6,1442620678,Surge 5,Surge Networks Inc.,https://apps.apple.com/hk/app/surge-5/id1442620678?uo=4,0.0,3.55,100,Developer Tools,"Surge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.
+
+These four capabilities form the core workflow of Surge:
+· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.
+· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript, and many other methods.
+· Forwarding: You can forward the taken over network requests to other proxy servers. This can be global forwarding or with a flexible rule system to determine an outbound policy.
+· Intercept: You can intercept and save specific data of network requests and responses, and you can also decrypt HTTPS traffic with MITM.
+
+Highlighted Features
+· Takeover all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to an HTTP/HTTPS/SOCKS5/SOCKS5-TLS/SSH proxy server following highly configurable rules.
+· Used as a WireGuard Client to convert the L3 VPN as a proxy.
+· Record and display HTTP requests and responses sent from your iOS devices, including body and header.
+· Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and GeoIP lookup.
+· Measure traffic usage and network speed on WiFi, cellular, and proxy connections.
+· High performance and suitable for intensive use.
+· Block ads by domain rules.
+· Local DNS Map (equivalent to /etc/hosts). You can use this function to switch the production/development environment for your app without changing any code.
+· All features work on the cellular network.
+· Decrypt HTTPS traffic with Man-in-the-Middle.
+· Perform URL rewrite.
+· Fully IPv6 supports.
+· Header rewrite.
+· Raw L3 packets capture.
+· Safari extension to add rules.
+· JSON, text, image and video viewer for the captured body.
+· Album mode for the request list.
+· Pre-filter for capturing.
+· HTTPS proxy protocol supports client-side SSL/TLS certificate validation.
+· Scripting: Use JavaScript to extend the ability of Surge as your wish.
+· Sync profiles cross devices with iCloud Drive or Dropbox.
+· DNS-over-HTTPS, DNS-over-HTTP3, DNS-over-QUIC, TLS 1.3 and more advanced features.
+
+You may read the online manual for more information: http://manual.nssurge.com/
+
+Terms and Conditions: https://nssurge.com/legal/terms
+Privacy Policy: https://nssurge.com/legal/privacy",2018-11-17T15:21:24Z,2025-10-24T05:50:33Z
+hk,Hong Kong,Developer Tools,6026,7,1437086352,CSDN-程序员计算机技术交友学习社区,"CSDN Network Technology Co., Ltd.",https://apps.apple.com/hk/app/csdn-%E7%A8%8B%E5%BA%8F%E5%91%98%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF%E4%BA%A4%E5%8F%8B%E5%AD%A6%E4%B9%A0%E7%A4%BE%E5%8C%BA/id1437086352?uo=4,0.0,4.739,682,Developer Tools,"CSDN——专业技术平台，成就一亿技术人。下载CSDN，您会享有全网最全代码资源、专业培训课程、一对一精品回答、最新行业资讯。
+CSDN——程序员必备编程交流学习平台！现已接入DeepSeek R1满血版_AI搜索，解决程序员工作学习中遇到的问题，所有技术疑问都能在CSDN找到可被信赖的解答。汇聚各类技术领域专家及大牛专业解答，最新的技术开发信息解决方案和编程学习教程。
+
+适用人群：互联网公司人士、极客、程序猿、白领、设计师、零基础编程爱好者、大学生；
+主要技术方向：
+【前端开发】HTML、CSS、JavaScript、 jQuery、WebApp、Node.js、Angular JS、Vue.js、Bootstrap、前端工具
+【后端开发】PHP、Java、Linux、rust、Python、C、 C++、Go、C#、数据结构
+【人工智能】机器学习、深度学习、计算机视觉、自然语言
+【移动开发】iOS、Unity3D、Cocos2d-X 
+【数据处理】MysQL、MongoDB、云计算、 Oracle、大数据、SQL Server 
+【图像处理】Photoshop、Maya、Premiere、 ZBrush 
+【工具资源】Git，GitHub，VS Code， Sublime Text
+
+
+「自动订阅会员说明」
+1、服务名称：CSDN VIP连续包月 (1个月)
+2、价格：CSDN VIP连续包月产品为88元/月
+3、购买自动订阅会员的账号，会在每个月订阅期到期前24小时，从您的iTunes账户中扣费，扣费成功后顺延一个订阅周期。
+4、关闭服务:您可以在苹果手机“设置”-->进入“iTunes Store与App Store""-->点击“Apple ID”，选择""查看Apple ID""，进入“账户设置""页面，点击“订阅""管理自动订阅服务，如需取消，每个计费周期结束前24小时关闭即可，到期前24小时内则不再扣费。
+5、服务协议：
+
+「CSDN自动订阅服务协议」
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+「CSDN会员服务协议」
+
+https://blog.csdn.net/blogdevteam/article/details/118223688
+
+CSDN，致力于为中国软件开发者提供知识传播、在线学习、职业发展等全生命周期服务，并不断完善在移动端的学习体验，欢迎大家体验，提出宝贵意见~",2018-10-04T17:02:44Z,2025-11-22T11:12:03Z
+hk,Hong Kong,Developer Tools,6026,8,1312141691,Stream,Stream Lab Inc.,https://apps.apple.com/hk/app/stream/id1312141691?uo=4,0.0,4.13042,23,Developer Tools,"在下載本 App 之前，希望你能夠認真的閱讀以下介紹。
+
+1. Stream 面向對象為廣大前端開發、客戶端開發、後端開發、運維工程師、測試工程師以及具備一定網絡分析能力的普通用戶。
+2. Stream 的目的僅用於網絡調試，除此以外沒有其他目的。同時，開啟 Stream 需要您授權 VPN 權限。
+3. Stream 不會上傳任何用戶數據，請放心使用，同時也期望信任我們的用戶傳播給業內人士。
+
+如果您不認同以上的目的，不具備網絡分析能力，或者對於敏感數據從心理上就不信任第三方 App，建議您慎重考慮後再下載。
+
+
+功能介紹：
+
+Stream 用於客戶端本地抓包，僅用於QA&開發本地網絡調試。只是利用了 iOS 9+ 的 Network Extension Api，其實不具備連接 vpn 的功能。
+
+1. 抓取 HTTP&HTTPS 請求，其中 HTTPS 請求需要配置 CA 證書。
+2. 訪問抓包歷史，預覽請求體 (request body) 以及響應體 (response body)，目前支持文本/JSON/文件/表單。
+3. 支持構建請求和請求重放。
+4. 支持配置 Hosts，實現在電腦端的 Hosts 功能，用於前端開發以及移動端開發便捷的切換測試環境和線上環境。
+5. 比較簡單的支持打開 HAR 通用標準文件，可以將 Charles/Fiddler/Chrome/Firefox 等網絡記錄導出 HAR 然後在 Stream 打開並重放請求。
+6. 完美適配 iPhone X 以及支持 iPad MutiTask。",2018-01-04T16:29:42Z,2020-04-06T19:00:38Z
+hk,Hong Kong,Developer Tools,6026,9,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/hk/app/app-store-connect/id1234793120?uo=4,0.0,4.72783,485,Developer Tools,"隨時隨地使用 iPhone 和 iPad 上的 App Store Connect App 管理你的 App。
+
+• 檢視 App 狀態並管理 App Store 提交項目。
+• 管理測試者群組、加入新建置版本和測試者、並檢視截圖和當機意見反應。
+• 檢視關鍵銷售和趨勢資訊來監控 App 表現。
+• 檢視和回應最新的客戶評分和評論。
+• 生成行銷內容來推廣你 App 的重大時刻，例如在 App Store 精選位置獲得曝光，或當你推出新的 App 或新版本。
+• 接收關於重要事件的通知，例如 App 狀態更動、新的客戶評論、測試者意見反應，以及在 App Store 精選位置獲得曝光。",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+hk,Hong Kong,Developer Tools,6026,10,1672453872,Python Editor App,Andromeda Corp Limited,https://apps.apple.com/hk/app/python-editor-app/id1672453872?uo=4,0.0,4.28226,372,Developer Tools,"Introducing the ultimate Python editor for iOS!
+Enjoy a powerful, easy-to-use environment for coding in Python right from your iPhone or iPad.
+Whether you’re new to coding or an experienced developer, you’ll love the intuitive interface and feature-packed design that makes programming simple and efficient.
+
+With our Python editor, you can create, edit, and run Python scripts directly on iOS.
+Features include syntax highlighting, auto-indentation, and code completion, helping you write clean, error-free code.
+A built-in library of reusable snippets—plus the option to create your own—makes development faster than ever.
+
+Designed to take full advantage of iOS, the app supports Liquid Glass API for a fluid, responsive coding experience, along with multi-window support, letting you work on multiple files or scripts side by side.
+Use touch gestures to navigate, split your screen to view code and console simultaneously, and keep scripts running in the background while you multitask.
+
+And now, with the integrated OpenAI Code Assistant, you can generate, refine, and debug Python code with AI-powered suggestions—directly inside the editor.
+
+After a 3-day free trial, a subscription unlocks the complete experience:
+- OpenAI Integration (with your API key)
+- OpenAI Code Assistant
+- Liquid Glass API & Multi-window support
+- Editor customization
+- Beautiful themes
+- Complete Python guidebook
+- Python learning resources
+
+Privacy Policy: https://www.iubenda.com/privacy-policy/85758827
+Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula",2023-02-19T08:00:00Z,2025-09-24T19:58:04Z
+hk,Hong Kong,Developer Tools,6026,11,1508712998,Spectre VPN,Passion Only Pty Ltd,https://apps.apple.com/hk/app/spectre-vpn/id1508712998?uo=4,0.0,3.77193,57,Developer Tools,"* The best way to connect
+Supports Shadowsocks and Trojan protocol, the lightweight, efficient yet powerful proxy applications.
+
+* Protect your privacy
+Multiple strong encryption methods that ensures your internet data will never be seen by third-party.
+
+* Simple and free
+Intuitive design makes life easier.
+Last but not least, it's free!",2020-11-16T08:00:00Z,2023-09-26T04:44:25Z
+hk,Hong Kong,Developer Tools,6026,12,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/hk/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.70878,649,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-23T22:12:12Z
+hk,Hong Kong,Developer Tools,6026,13,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/hk/app/expo-go/id982107779?uo=4,0.0,4.21622,74,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+hk,Hong Kong,Developer Tools,6026,14,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/hk/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.73332,45,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+hk,Hong Kong,Developer Tools,6026,15,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/hk/app/a-shell-mini/id1543537943?uo=4,0.0,5,4,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-22T21:42:27Z
+hk,Hong Kong,Developer Tools,6026,16,1610958307,Storm Sniffer - HTTP抓包工具,"Hunan Storm Technology Co.,Ltd",https://apps.apple.com/hk/app/storm-sniffer-http%E6%8A%93%E5%8C%85%E5%B7%A5%E5%85%B7/id1610958307?uo=4,0.0,4.66667,12,Developer Tools,"Storm Sniffer是一款HTTP抓包工具。
+不用連接電腦就可以捕獲並查看本機所有HTTP / HTTPS請求和響應，輕鬆調試應用程序的網絡問題。
+
+*覈心功能
+抓包：使用本地VPN從iOS設備捕獲HTTP / HTTPS流量. 以文字形式查看HTTP / HTTPS請求和響應，並支持HTML、JS、CSS格式化預覽；
+重寫：實时修改HTTP / HTTPS請求和響應。 包括URL重定向，自定義Header，本地/遠程檔案MOCK等；
+重放：自定義執行HTTP請求，並支持定時任務；
+腳本：可使用本地/遠程JavaScript腳本實現更多擴展能力。
+
+*工作原理
+Storm Sniffer在設備上創建一個本地VPN，然後將所有流量轉發給本地中間人服務。 只要VPN處於活動狀態，Storm Sniffer就可以通過Wi-Fi或蜂窩數據捕獲所有HTTP / HTTPS流量。
+
+*關於敏感數據
+Storm Sniffer的根證書是在設備中生成的自簽名證書。 所有被捕獲的HTTP / HTTPS請求和響應都存儲在您的設備上，而不涉及任何遠程服務器。
+
+* 訂閱說明
+訂閱後即可解鎖全部高級功能，目前提供三種自動續訂訂閱方式:
+連續包年 ￥118、連續包季 ￥28、連續包月 ￥12
+
+* 用戶協議
+https://sniffer.x-storm.com/terms/
+
+* 隱私政策
+https://sniffer.x-storm.com/privacy/",2022-04-09T07:00:00Z,2024-07-14T23:46:03Z
+hk,Hong Kong,Developer Tools,6026,17,1470936215,力扣 LeetCode,Lingkou Network,https://apps.apple.com/hk/app/%E5%8A%9B%E6%89%A3-leetcode/id1470936215?uo=4,0.0,4.64286,210,Developer Tools,"力扣（LeetCode）App 全新功能，支持移动端代码编程，实时判题，让你码不停题。
+
+- 学习提升，快拿 Offer
+- 力扣社区，有问必答
+- 脑力健身，极客必备
+
+全球极客职业技能成长平台，想要提升技术能力从这里开始。海量技术题库、求职面试经验、充足技术干货等你来，力扣助你职业技能快速成长！
+
+[趣学习]
+- 免费力扣题库、剑指 Offer
+- 职业化编程
+- 上万社区题解
+- 企业面试考题
+- 技术交流分享社区
+
+「扣代码」
+电脑不在身边，iPhone 也可实操代码学习编程。针对 iPad 全面优化，配合键盘、鼠标、快捷键，动动手指、刷刷键盘，让你迅速开启不受打扰的沉浸式编程学习体验！
+
+「刷题解」
+无论何时何地，掏出手机 “刷刷刷” 就能学习算法和数据结构。把碎片化的时间投资在自己职业能力上，让你面试信心倍增、技术深度更深、工作职级提升！
+
+「看讨论」
+求职面试经验、职场生活、名企内推、技术学习心得等你来讨论，更有百万极客为你解答技术成长难题。
+
+「追达人」
+这里是互联网技术达人云集之地，快完善你的个人战绩，来这里和他们交流切磋，也能提升一下自己的综合实力哦！
+
+「享会员」
+开通力扣 Plus 会员，尊享 2000+ IT 名企面试题库、LeetBook 专享内容及优惠、Playground 不限量、多题目自定义模拟面试、企业模拟面试、题目面试热度、极速判题、编辑器智能模式、Debugger 调试器、积分加成等 10 大专属特权。
+
+力扣 Plus 会员自动续费服务说明
+
+【订阅周期】
+连续包月产品。30 天（1 个月），90 天（3 个月），365 天（12 个月）
+
+【订阅价格】
+连续包月 79 元 / 月，90 天 199 元 / 季，365 天 499 元 / 年
+
+【付款】
+用户确认购买并付款后记入 iTunes 账户
+
+【自动续订】
+苹果 iTunes 账户会在到期前 24 小时内扣费，扣费成功后，顺延一个订阅周期
+
+【取消自动续订】
+购买连续包月项目，除非您在当前计费周期结束前至少 24 小时取消订阅，否则项目会自动续订，您的账户将在当前计费周期结束前 24 小时内收取续订费用。关闭 Apple ID 开通的力扣 plus 会员连续包月服务，可在 iOS 设备“设置” - “iTunes Store 与 App Store” - 选择 “Apple ID” - 点击“查看 Apple ID” - 在账户设置页面点击“订阅” - 取消订阅
+
+【隐私政策】
+https://leetcode.cn/privacy
+
+【会员服务协议】
+https://leetcode.cn/document/agreement/",2019-12-10T08:00:00Z,2025-08-11T06:16:07Z
+hk,Hong Kong,Developer Tools,6026,18,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/hk/app/koder-code-editor/id1447489375?uo=4,0.0,4.63924,316,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+hk,Hong Kong,Developer Tools,6026,19,6451132116,Spider Proxy - HTTP（S）抓包調試工具,"Nanjing Zhuge Culture Media Co., Ltd",https://apps.apple.com/hk/app/spider-proxy-http-s-%E6%8A%93%E5%8C%85%E8%AA%BF%E8%A9%A6%E5%B7%A5%E5%85%B7/id6451132116?uo=4,0.0,5,1,Developer Tools,"Spider Proxy是一款移動端HTTP/HTTPS抓包和網絡調試工具，支持在不連接電腦的情況下直接查看/修改iOS系統的HTTP(S)請求和響應。 Spider Proxy支持記錄並導出網絡請求，還可以進行自定義HTTP(S)網絡調試，包括URL重定向、自定義參數等。
+
+升級至Spider Proxy VIP，同時支持4個輔助設備，並可在設備之間一鍵上傳和共享數據。 VIP還允許用戶根據需要為設備設置單獨的授權規則並隨時取消授權。
+
+怎麼運行的
+Spider 代理將在設備上創建 VPN 配置。當啟用抓包時，Spider Proxy會在VPN進程中啟動一個本地HTTP代理，所有HTTP流量都會通過VPN轉發到這個本地代理，使得本機上的所有網絡訪問請求都可以通過它完成， 從而劫持並分析所有 HTTP(S) 請求和響應。
+ 
+特徵
+1、HTTPS流量分析
+2、HTML、JSON、CSS格式預覽
+3、規則重寫：實時修改HTTP(S)請求和響應
+4、設備授權與數據共享
+5、規則加密授權或取消授權
+6、數據備份與恢復
+7、腳本：支持自定義JavaScript語法進行介面的拓展編寫
+8、重放：支持具有介面依賴性和斷言的自定義HTTP（S）網絡請求
+9、工具：Base64編解碼、時間戳記轉換、隨機密碼生成、UUID生成、MD5加密、HSA256加密、AES128編解碼、url編解碼、jsfuck加密、DES加密解密、RC4加密解密、Rabbit加密解密、Triple/DES加密解密、UTF8編碼轉換器、ASCII轉換、jjencode加密、顏色轉換、數位轉中文、JSON格式化、JSON對比等。
+
+免責聲明
+不得使用本軟件從事違反國家法律的行為，如色情，賭博，非法電腦網絡入侵、篡改等，其造成的一切後果與本作者無關，請自覺營造和諧良性的網路行銷環境。 違法行為一經發現，本作者有權對帳號進行封禁處理並追究法律責任。 如發現有相關違法行為，請聯系 spider@zhugeculture.com ，我們將收集證據封禁帳號，並移交公安機關處理。",2023-07-31T07:00:00Z,2025-11-08T07:06:56Z
+hk,Hong Kong,Developer Tools,6026,20,1473805438,a-Shell,Nicolas Holzschuch,https://apps.apple.com/hk/app/a-shell/id1473805438?uo=4,0.0,4.25,16,Developer Tools,"a-Shell is a complete local terminal emulator, allowing to run most Unix commands on your iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. You can work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with the BSD Unix that powers iOS/iPadOS.
+
+a-Shell includes Python, Lua, Perl, JavaScript, C, C++ for programming and TeX (texlive 2025, with Tikz and LuaTeX) for text processing. 
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-shell uses iOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+Compile your C or C++ programs to webAssembly using clang or clang++, and execute the resulting binary. A complete webAssembly SDK is included (WASI-libc).
+
+a-Shell is the complete version. If you need a smaller app, and you don't need a C compiler, a TeX engine, or numpy and matplotlib, there is a-Shell mini.",2019-10-25T07:00:00Z,2025-11-22T20:14:13Z
+hk,Hong Kong,Developer Tools,6026,21,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/hk/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,4.75,8,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-23T23:02:33Z
+hk,Hong Kong,Developer Tools,6026,22,1621431814,Loco Staff,Locolla Limited,https://apps.apple.com/hk/app/loco-staff/id1621431814?uo=4,0.0,3,1,Developer Tools,"尋物比賽，公眾人士可預先登記後參加
+詳情可電郵查詢",2023-03-28T07:00:00Z,2025-11-24T07:20:10Z
+hk,Hong Kong,Developer Tools,6026,23,6744045754,StikDebug,Stephen Bove,https://apps.apple.com/hk/app/stikdebug/id6744045754?uo=4,0.0,4.8,10,Developer Tools,StikDebug is an on-device debugger and developer toolbox designed specifically for self-installed apps.,2025-05-01T07:00:00Z,2025-10-22T12:58:09Z
+hk,Hong Kong,Developer Tools,6026,24,1353326686,Python程式設計-編碼與軟體開發課程,Xiamen Yidong Network Technology Company Limited,https://apps.apple.com/hk/app/python%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88-%E7%B7%A8%E7%A2%BC%E8%88%87%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BC%E8%AA%B2%E7%A8%8B/id1353326686?uo=4,0.0,4.29167,24,Developer Tools,"# 超過400萬位程式設計愛好者的首選
+# 全球4000+五星好評推薦
+# 創新學習體驗：遊戲化過關+實作練習
+
+Python程式教室是由W3Cschool團隊精心開發，專為初學者打造的Python入門APP。透過有趣且高效的學習方式，帶您輕鬆進入程式設計的世界。
+
+想學Python？從這裡開始！
+
+【適合零基礎】
+從零開始，循序漸進的課程安排，讓您輕鬆入門
+
+【即時學習系統】
+遊戲化過關學習，課程結合實作，快速上手
+
+【免費課程資源】
+豐富的教學內容與知識點，完全免費使用
+
+【Python題庫】
+透過練習鞏固觀念，查漏補缺
+
+【線上編輯器】
+手機就能寫程式，隨時隨地都能練習
+
+【彈性學習時間】
+每天30分鐘，零碎時間也能學習
+
+想找學習夥伴一起討論，互相切磋或尋求協助嗎？
+歡迎來信申請加入學習社群！
+
+● 聯絡信箱：kefu@eeedong.com",2019-11-25T08:00:00Z,2025-07-16T01:36:52Z
+hk,Hong Kong,Developer Tools,6026,25,6754570005,N8N Automations — Nathan,FF Vision SRL,https://apps.apple.com/hk/app/n8n-automations-nathan/id6754570005?uo=4,0.0,0,0,Developer Tools,"Manage your N8N agents, workflows, credentials and much more. Take n8n.io anywhere you go with Nathan!
+
+◆ WORKFLOWS
+- View Workflow Info
+- Activate Workflow
+- Deactivate Workflow
+- Edit Workflow Tags
+- Change Workflow Settings
+- Rename Workflow
+- Remove Workflow
+
+◆ CREDENTIALS
+- Browse All Credentials
+- View Credential Info
+- Edit Credential
+- Remove Credential
+
+◆ EXECUTIONS
+- Browse All Executions
+- View Execution Info
+- Check Execution Logs
+
+◆ INSIGHTS
+- View Total Executions
+- View Failed Executions
+- View Average Execution Time
+
+
+That’s it folks!
+
+This text isn't gonna get any more interesting. I mean, I think we've pretty much covered all the good stuff. Still here? Ummmm, ok. How's everything? Good? Cool cool cool. 
+
+What are you looking for? The app description is over. For real, check out the app. It's way better than hanging out in the App Store this long.
+
+Wow, you're dedicated. Do you just love app descriptions? Weird. OK, we're gonna go now. Bye.
+
+
+NOTICE & ACKNOWLEDGMENT
+1. Authentication data is stored locally on your device, and never leaves it.
+2. Nathan is OSS (Open Source Software), feel free to open an Issue or PR at github.com/get-nathan/nathan
+3. This is not a replacement for the N8N website. Certain actions, such as creating new workflows, should be done directly in the web editor.
+
+
+© FarFetched 2025. All trademarks and copyrights belong to their respective owners.
+
+Terms of Service: https://farfetched.global/nathan/terms",2025-10-29T07:00:00Z,2025-10-29T18:43:59Z

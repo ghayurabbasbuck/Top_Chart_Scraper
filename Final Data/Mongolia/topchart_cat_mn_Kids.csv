@@ -1,0 +1,702 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mn,Mongolia,Kids,36,1,1521593146,LIME Mongolia,CallPro LLC,https://apps.apple.com/mn/app/lime-mongolia/id1521593146?uo=4,0.0,4.2523,432,Productivity,"LIME таныг хаанаас ч, хүссэн үедээ гэр бүл, найз нөхөд, эх оронтойгоо холбоотой байхад тусална. Харилцаа холбооны шинэ шийдлээр чухал мөч бүрээ хуваалцаарай.",2021-02-17T08:00:00Z,2025-11-18T22:44:40Z
+mn,Mongolia,Kids,36,2,6642690974,ArtisyHub,IO Technology LLC,https://apps.apple.com/mn/app/artisyhub/id6642690974?uo=4,0.0,5,4,Entertainment,"Та өөрийн зохион байгуулах гэж байгаа хурим, үсний найр, одонгийн найр, төрсөн өдөр,
+албан байгууллагын ойн баяр гэх мэт бүхий л төрлийн арга хэмжээндээ манай
+аппликейшнаар дамжуулан хөтлөгч, дуучин, ерөөлч магтаалч, комедиан, дижи, бүжигчин,
+хөгжимчин гэх мэт бүхий л төрлийн авьяаслаг уран бүтээлчдийг хамгийн хялбар, хурдан
+хугацаанд захиалах боломжтой.
+
+Үйлчилгээ:
+   - Уран бүтээлчийн багцын саналтай танилцах
+   - Уран бүтээлчийг өөрийн арга хэмжээ болох өдөр, цагт сул байгаа эсэхийг түргэн шуурхай шалгах
+   - Уран бүтээлчийг захиалах
+   - Хэрэв уран бүтээлч зөвшөөрсөн бол захиалгаа баталгаажуулах
+   - Захиалгаа цуцлах боломж
+   - Таны захиалга түр дансанд байрших бөгөөд үйлчилгээ үзүүлсний дараа уран бүтээлч рүү автоматаар шилжигддэг.",2024-10-24T07:00:00Z,2025-11-23T22:09:55Z
+mn,Mongolia,Kids,36,3,6745158721,e-barimt,"General Department of Taxation, Mongolia",https://apps.apple.com/mn/app/e-barimt/id6745158721?uo=4,0.0,1.66859,347,Finance,"Цахим төлбөрийн баримтын системийн (ebarimt.mn) албан ёсны дагалдах бүтээгдэхүүн болох Ebarimt аппликейшн шинэчлэгдэж, хэрэглэгчдэд зориулсан илүү ухаалаг, боловсронгуй хувилбараа танилцуулж байна.
+Шинэ хувилбар нь өмнөх системийн бүх давуу талыг хадгалан, илүү хүртээмжтэй, аюулгүй, хялбар хэрэглээтэй байдлаар хөгжүүлэгдлээ.
+Хэрэглэгч бүрт ойлгомжтой интерфейс, сайжруулсан гүйцэтгэл, шинэ функцууд нь таны өдөр тутмын хэрэглээг илүү хялбар болгож байна.
+ 
+Шинэчлэлтийн онцлогууд
+ 
+- Өнгөний тохиргоо: Өнгөний харалган болон ялгаатай хараатай хэрэглэгчдэд зориулсан өнгө удирдах тохиргоо.
+- Нэмэлт баталгаажуулалт: Хэрэглэгчийн мэдээллийн аюулгүй байдлыг нэмэгдүүлсэн.
+- Сайжруулсан гүйцэтгэл: Илүү хурдан ажиллагаа, тогтвортой холболт, орчин үеийн интерфейс.
+- Эмийн үнийн мэдээлэл: Эмийн сангуудын бүтээгдэхүүний үнийг ил тод харьцуулж, нэг дороос мэдээлэл авах боломжтой эрүүл мэнд цэс нэмэгдсэн.
+- Өргөн хэрэглээний барааны үнийн дүн: Иргэд өргөн хэрэглээний барааны үнийн мэдээллийг харах, худалдан авах барааны үнийн мэдээлэлтэй харьцуулан шийдвэр гаргах боломж бүрдсэн.
+ 
+Гол функцууд
+ 
+- Баримтаа QR код, ДДТД эсвэл сугалааны дугаар ашиглан бүртгүүлэх
+- НӨАТ-ын буцаан олголт, сугалааны урамшуулал бодит цагийн мэдээллээр авах
+- Сугалааны тохирлын хугацаа болон урамшууллын мэдээллээ нэг дор хянах
+- Худалдан авалтаа ангилж, бүртгэлтэй баримтаа хялбар удирдах
+- Хувийн мэдээлэл, урамшууллын дансаа тохируулах
+- Ebarimt.mn сайтад шинээр бүртгүүлэх эсвэл шууд нэвтрэх
+ 
+Хувилбарын мэдээлэл
+ 
+- Аппликейшны загвар, гүйцэтгэл цогцоор шинэчлэгдсэн
+- Хүртээмж, аюулгүй байдлын тохиргоо сайжирсан
+- Хэрэглэгчийн туршлагыг шинэ түвшинд хүргэсэн
+ 
+Ebarimt — илүү ил тод, илүү ухаалаг хэрэглээ таны гар дээр.",2025-09-22T07:00:00Z,2025-11-14T02:11:59Z
+mn,Mongolia,Kids,36,4,591293253,Unitel,Unitel Group,https://apps.apple.com/mn/app/unitel/id591293253?uo=4,0.0,3.48561,1668,Business,"Таны дижитал үйлчилгээний шийдэл шинэчлэгдлээ.
+
+Та Юнител, Юнивишн болон Гэр интернэтийн хэрэглээний мэдээлэл, үйлчилгээг хүссэн үедээ, хаанаас ч авах боломжтой.
+
+Бүтээгдэхүүн, үйлчилгээ:
+•	Хэрэглээний дэлгэрэнгүй мэдээлэл
+•	Төлбөрийн задаргаа харах, төлбөр төлөх
+•	Нэгж болон дата багц авах, бэлэглэх, зээлэх
+•	U-Point оноо ашиглан дата, нэгж авах
+•	TokiPay, SocialPay болон банкны картаар төлөх боломжтой
+•	Нэмэлт үйлчилгээ идэвхжүүлэх
+•	Пук код харах
+•	СИМ сэргээх",2013-01-11T20:16:29Z,2025-11-19T06:32:39Z
+mn,Mongolia,Kids,36,5,1475442374,Bogd Mobile,Bogd Bank LLC,https://apps.apple.com/mn/app/bogd-mobile/id1475442374?uo=4,0.0,4.35632,87,Finance,"Customers can access our banking services without the need for visiting a physical branch and access our banking services regardless of time or location. 
+Account
+•	Check account balance 
+•	Account statement
+•	Check the loan account balance
+•	Open new account
+•	Instant balance inquiry
+•	Account authorization settings and status change
+Transaction
+•	Transaction between own accounts 
+•	Transaction within Bogd bank
+•	Interbank transfer
+•	International transfer
+•	Transaction template
+•	Subscribe for standing order payment
+•	QPay
+Loan 
+•	View credit balance
+•	View loan repayment schedule
+•	Calculate available credit amount
+•	Apply for a quick loan, establish an agreement
+•	Deposit backed loan
+Card
+•	Order new card
+Other
+•	Manage your registered email address and phone number to the bank
+•	Replace username and password of Internet banking
+•	Look up ATM and branch information
+•	Savings and Loan calculator
+•	Exchange rate
+•	Website 
+•	Chatbot
+•	Fingerprint access
+•	Account securitization
+You can download an application to register as a customer, open an account and to access all other banking services even if you are not a customer already.
+We will be your trustworthy partner in banking to ensure customer privacy and security through our mobile banking application platform with easy solutions.",2019-12-14T08:00:00Z,2025-11-13T05:18:13Z
+mn,Mongolia,Kids,36,6,1632833615,GSign mongolia,The General Authority for State Registration of Mongolia,https://apps.apple.com/mn/app/gsign-mongolia/id1632833615?uo=4,0.0,2.71569,102,Utilities,"Энэхүү аппликэйшн нь тоон гарын үсгийн гэрчилгээг төрөөс иргэдэд үнэ төлбөргүй олгох, түүнийг ашиглан иргэд цахим орчинд гарын үсгээ зурж, баталгаажуулах үндсэн зорилготой бөгөөд Монгол улсын ""Цахим гарын үсгийн тухай"" хуульд заасны дагуу зөвхөн 16 буюу түүнээс дээш насны Монгол улсын иргэд ашиглана. 
+
+This application is dedicated to issuing digital signature certificates to citizens of Mongolia free of charge and using them to sign and verify signatures for online services. According to the law of Mongolia on Digital Signatures, it can only be used by citizens of Mongolia who are 16 years of age or older.",2022-07-10T07:00:00Z,2024-02-01T15:50:07Z
+mn,Mongolia,Kids,36,7,1641486558,Temu: Shop Like a Billionaire,Whaleco Inc.,https://apps.apple.com/mn/app/temu-shop-like-a-billionaire/id1641486558?uo=4,0.0,4.62559,4228,Shopping,"Shop on Temu for exclusive offers. 
+
+No matter what you're looking for, Temu has you covered, including fashion, home decor, handmade crafts, beauty & cosmetics, clothing, shoes, and more.
+
+Download Temu today and enjoy incredible deals daily.
+
+WIDE SELECTION
+Discover thousands of new products and shops.
+
+CONVENIENCE
+Fast and secure checkout.
+Free shipping & returns within 90 days.
+*Other conditions may apply
+
+Visit temu.com or follow us on:
+Instagram: https://www.instagram.com/temu/
+TikTok: https://www.tiktok.com/@temu 
+Facebook: https://www.facebook.com/shoptemu
+Youtube: https://www.youtube.com/@temu",2022-08-31T07:00:00Z,2025-11-23T05:33:13Z
+mn,Mongolia,Kids,36,8,863109199,UBCab,Mezorn LLC,https://apps.apple.com/mn/app/ubcab/id863109199?uo=4,0.0,4.7499,20820,Lifestyle,"UBCab нь түргэн шуурхай, найдвартай, 24 цагаар ажилладаг бүх төрлийн такси дуудлага, унаа түрээс, шуурхай хүргэлтийн аппликейшн юм.
+
+Замын хажууд гар өргөж зогсох, төлбөртэй тусгай дугаар луу залгаж нэмэлт төлбөр төлөх шаардлагагүй. Та апп-аа ашиглан өөрт хамгийн ойр байгаа такситай холбогдож тав тухтай үйлчлүүлээрэй.
+
+Бид үйлчилгээгээ Улаанбаатар хот болон 16 аймагт нэвтрүүлж, удалгүй 21 аймагт нэвтрэхээр ажиллаж байна.
+
+UBCab ашиглаж такси дуудсанаар:
+ - Зөвхөн албан ёсны бүртгэлтэй такси болон жолооч танд үйлчилнэ
+ - Тариф удирдлагын нэгдсэн систем (Жолооч өөрчлөх боломжгүй найдвартай)
+ - Та өөрийн байршлыг хаанаас ч сонгож нэмэлтээр тайлбар бичиж болно
+ - Таныг авахаар ирж байгаа жолоочийн байршлыг газрын зураг дээр шууд харна
+ - Та бэлэн болон бэлэн бус төлбөрийн бүх хэрэгсэл ашиглан төлбөрөө төлөх боломжтой
+ - Цахим хэлбэрээр ( Бүртгүүлсэн и-Мэйл рүү ) баримт илгээх автомат системтэй
+ - Аппликэйшний үйлчилгээ бүртгэл хүлээн авах замаар санал гомдлоо илэрхийлэх боломжтой зэрэг олон давуу талыг бид санал болгож байна.
+
+Зөвлөмж:
+UBCab системийг ашиглахын тулд та интернэт холболттой байх шаардлагатай ба утсан дээрээ Location service-ийг асааснаар таны байршлыг улам нарийн тодорхойлох боломжтой болохыг анхаарна уу. UBCab багийнхан үйлчилгээний стандартаа байнга, сайжруулж, шударга, соёлтой үйлчилгээг хэвшил болгохыг зорин ажилладаг.
+
+Шинэчлэл бүр таны амьдралыг улам хялбар болгож аюулгүй тайван зорчих нөхцөлийг бүрдүүлнэ гэдэгт итгэлтэй байна.
+Үйлчилгээний дараа Жолоочоос хамааралтай үнэлгээ өгөх боломжтой. Таны санал бидэнд маш үнэтэй бөгөөд үйлчилгээний чанар сайжруулалтуудад тусгагдах болно.
+
+Та UBCab-ааар тав тухтай үйлчлүүлж үнэт цагаа хэмнээрэй!
+
+UBCab Holding-ийн хамт олон",2014-04-30T00:44:32Z,2025-11-24T03:57:57Z
+mn,Mongolia,Kids,36,9,6480404534,UBCАRD,Department of Public Transport,https://apps.apple.com/mn/app/ubc%D0%B0rd/id6480404534?uo=4,0.0,2.72052,229,Travel,"- Search routes and stations
+- Favorite route, stations
+- IMap
+- Nearest bus stations
+- Route planning
+- QR code generation
+- Real-time bus
+- Card",2024-11-13T08:00:00Z,2025-11-20T17:55:55Z
+mn,Mongolia,Kids,36,10,6754109917,Tubidy Video Music : FM player,Sarmad Majeed,https://apps.apple.com/mn/app/tubidy-video-music-fm-player/id6754109917?uo=4,0.0,2.75,8,Music,"Mp3 Playlist creator and favorite folder.
+
+Tubidy Media offers a smooth mobile experience, optimized for speed and simplicity.
+
+Tube Video Mp3 Mp4 Video Player for all your video and music needs
+
+Get your favorite content in just a tap.
+
+Itube formats supported, mp3, m4a, mp4, m4v, mov, avi, wmv, doc, xls, pdf, txt, etc.
+
+Save songs and listen offline, without using your data, or listen to your personal MP3 collection.
+
+Super sound quality.
+
+Any songs, videos, artists, playlists from Tubi for any mood for free.
+
+Fm Tube introduced Different Resolutions.
+
+Auto detect and load local video files.
+
+You can enjoy uninterrupted video entertainment while doing other things with TubidyFm.
+
+Offline tube music player, songs player, audio player, mp4  player with high quality music experience.
+
+Set your favorite local music as ringtone in offline music player.
+
+Browse and play music by albums, artists, music playlists, genres, folders etc
+
+Offline music player. Play song in your phone.
+
+Support share music.
+
+Easily browse and play music songs by genres , albums , artists , songs and folder.
+
+Movie video player, mp4 HD player
+
+you should definitely have a useful tubi-dy player like an HD video player.
+
+Savefrom Share the full HD video player with your friends to enjoy great movies together anytime.
+
+Have a try with HD Video Player All Format. The MP4 player offers multiple features, such as TubeHD fast forward and rewind. you can do multiple HD UHD tasks while watching your favorite videos.
+
+Our private FM Save keeps your files safe. No one else can access your playlist.
+
+Tubedy a digital multimedia container format that is used to store video, audio, subtitles, and still images. MP4 is a highly HD versatile and compressed format that is widely used for streaming online and is supported by most.
+
+Enjoy a seamless video experience on mobile with our stunning UX/UI design and 4k playback.
+
+Full HD Video Player ensures an effortless, high-quality viewing experience.
+
+ Tube Media search all media files by name, artist, album, and more.
+
+You can watch TV shows, and other video content.
+
+All-in-one playit media Player for different formats.
+
+it easy to browseTube through player video.
+
+•⁠  ⁠Flash formats video - flv, asf videos
+•⁠  ⁠Thumbnail displays of videos
+•⁠  ⁠HD video playing memory optimization
+•⁠  ⁠Recent Play list
+•⁠  ⁠show all video folder list
+
+Term os use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+Privacy Policy: https://www.freeprivacypolicy.com/live/7ddbe42b-c0de-4034-9881-947c690c4c16",2025-10-17T07:00:00Z,2025-11-10T04:13:29Z
+mn,Mongolia,Kids,36,11,6446901002,Threads,"Instagram, Inc.",https://apps.apple.com/mn/app/threads/id6446901002?uo=4,0.0,4.76247,17737,Social Networking,"Say more with Threads — Instagram’s text-based conversation app.
+
+Threads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creators and others who love the same things — or build a loyal following of your own to share your ideas, opinions and creativity with the world!
+
+A few things you can do on Threads…
+
+■ Access your Instagram followers
+Your Instagram username and verification badge are reserved for you. Automatically follow the same accounts you follow on Instagram in a few taps, and discover new accounts too.
+
+■ Share your point of view
+Spin up a new thread to express what's on your mind. This is your space to be yourself, and you control who can reply.
+
+■ Connect with friends and your favorite creators
+Jump to the replies to get in on the action and react to commentary, humor and insight from the creators you know and love. Find your community and connect with people who care about whatever it is you’re interested in.
+
+■ Control the conversation
+Customize your settings and use controls to manage who can see your content, reply to your threads, or mention you. Accounts you’ve blocked will carry over from Instagram, and we’re enforcing the same Community Guidelines to help ensure everyone interacts safely and authentically. 
+
+■ Find ideas and inspiration
+From TV recommendations to career advice, get answers to your questions or learn something new from crowd-sourced conversations, thought leaders and industry experts.
+
+■ Never miss a moment
+Stay on top of the latest trends and live events. Whether it’s about new music, movie premieres, sports, games, TV shows, fashion, or the latest product releases, find discussions and receive notifications any time your favorite profiles start a new thread.
+
+■ Leap into the fediverse
+Threads is part of the fediverse, a global, open, social network of independent servers operated by third parties around the world. Servers share information with each other to enable people to connect and discover new things across the fediverse.
+
+
+Meta Terms: https://www.facebook.com/terms.php
+Meta Privacy Policy: https://privacycenter.instagram.com/policy
+Threads Supplemental Privacy Policy: https://help.instagram.com/515230437301944
+Threads Supplemental Terms: https://help.instagram.com/769983657850450
+Instagram Community Guidelines: https://help.instagram.com/477434105621119
+Consumer Health Privacy Policy: https://privacycenter.instagram.com/policies/health
+
+Learn how we're working to help keep our communities safe across Meta technologies at the Meta Safety Center: https://about.meta.com/actions/safety",2023-07-05T07:00:00Z,2025-11-19T23:58:42Z
+mn,Mongolia,Kids,36,12,6448311069,ChatGPT,"OpenAI, L.L.C.",https://apps.apple.com/mn/app/chatgpt/id6448311069?uo=4,0.0,4.8111,65521,Productivity,"Introducing ChatGPT for iOS: OpenAI’s latest advancements at your fingertips.
+
+This official app is free, syncs your history across devices, and brings you the latest from OpenAI, including the new image generator.
+
+With ChatGPT in your pocket, you’ll find:
+
+· Image generation–Generate original images from a description, or transform existing ones with a few simple words. 
+· Advanced Voice Mode–Tap the soundwave icon to have a real-time convo on the go. Settle a dinner table debate, or practice a new language. 
+· Photo upload—Snap or upload a picture to transcribe a handwritten recipe or get info about a landmark. 
+· Creative inspiration—Find custom birthday gift ideas or create a personalized greeting card.
+· Tailored advice—Talk through a tough situation, ask for a detailed travel itinerary, or get help crafting the perfect response. 
+· Personalized learning—Explain electricity to a dinosaur-loving kid or easily brush up yourself on a historic event.
+· Professional input—Brainstorm marketing copy or map out a business plan.
+· Instant answers—Get recipe suggestions when you only have a few ingredients.
+
+Join hundreds of millions of users and try the app captivating the world. Download ChatGPT today.
+
+Terms of service & privacy policy:
+https://openai.com/policies/terms-of-use
+https://openai.com/policies/privacy-policy",2023-05-30T07:00:00Z,2025-11-18T16:54:49Z
+mn,Mongolia,Kids,36,13,6747012606,Zeely by Optimal N Max LLC,Tanasoft LLC,https://apps.apple.com/mn/app/zeely-by-optimal-n-max-llc/id6747012606?uo=4,0.0,3.79191,173,Finance,"Өмнө нь тогтмол орлого, барьцаа хөрөнгөтэй, сайн зээлийн түүхтэй хүн л зээл авах боломжтой байсан бол 2018 онд Zeely апп бий болсноор энэхүү уламжлалыг эвдэж, сэтгэл зүйд суурилсан шинэлэг аргаар зээл олгож эхэлсэн юм.
+
+Бид “Enabling Everyone” уриатайгаар сэтгэл зүйд суурилсан зээлийн үнэлгээ тогтоох аргачлал /кредит скоринг/-ийг ашиглан хэрэглэгчдийнхээ зээлжих эрхийг тогтоон, уламжлалт  шалгуураар зээл авах боломжгүй хүмүүст санхүүгийн шинэ, хүртээмжтэй  боломжийг нээн ажиллаж байна.
+
+Бүтээгдэхүүний онцлог:
+•	Сэтгэл зүйн скоринг
+•	Цахим гэрээ байгуулах
+•	Уян хатан төлбөрийн нөхцөл
+•	Хүртээмжтэй хэрэглээний зээл
+•	Урамшууллын хосолсон онооны систем
+•	Санхүү болон сэтгэл зүйн зөвлөмж
+
+Зээлийн ерөнхий нөхцөл:
+•	Дүн: 20,000₮–1,500,000₮
+•	Хугацаа: 1–3 сар
+•	Төлөлт: Сард 2 удаа, хэрэглэгчийн сонголтоор",2025-08-03T07:00:00Z,2025-11-17T06:13:25Z
+mn,Mongolia,Kids,36,14,1440015569,UPoint,United Alliance LLC,https://apps.apple.com/mn/app/upoint/id1440015569?uo=4,0.0,3.49372,1114,Lifestyle,"“U-Point” нэгдсэн лояалти хөтөлбөр нь үндэсний үйлдвэрлэгч, импортлогч болон худалдаа үйлчилгээний байгууллагууд нэгдэн, үнэнч хэрэглэгчээ урамшуулах зорилгоор хэрэгжүүлж буй хөтөлбөр юм.
+
+     Та U-Point нэгдсэн лояалти хөтөлбөрийн гишүүн байгууллагуудаар үйлчлүүлэх бүрдээ үнийн дүнгийн 3% болон түүнээс дээш хувийн “U-Point” оноо цуглуулна. Цуглуулсан оноогоо дурын гишүүн байгууллагуудаар зарцуулах боломжтой бөгөөд худалдан авалтын үнийн дүнгийн 50% хүртэл “U-Point” оноогоо ашиглах
+эрхтэй.
+
+        Шинэчлэгдсэн U-Point аппликейшнтэй байхад хөтөлбөрт нэгдсэн бүх байгууллагуудаар U-Point карт шаардлагагүйгээр үйлчлүүлэхээс гадна зөвхөн танд зориулсан хөнгөлөлт, урамшууллуудыг цаг адалгүй авч чадна.
+                  -Гайхалтай бэлгээр дүүрэн “АЗЫН ХҮРД”
+                  -Итгэмээргүй хямдрал бүхий “КУПОНУУД”
+                  -Зөвхөн танд зориулсан “ОНЦГОЙ ЭРХҮҮД”
+                  -Үнэ цэнэтэй шагнал өгөх “ДААЛГАВАРУУД”
+                  -Байгууллагуудын хаяг, байршил болон U-Point оноотой бүтээгдэхүүнүүдийн мэдээлэлтэй “УХААЛАГ ХАЙЛТ” болон бусад олон боломжуудыг нэг дор багтаасан шинэчлэгдсэн U-Point аппликейшнээ яг одоо татаарай.
+
+ U-Point аппликейшнд хэрхэн бүртгүүлэх вэ?
+  1. “Бүртгүүлэх” хэсэгт утасны дугаараа оруулан нэг удаагийн кодоор баталгаажуулж нэвтэрнэ.
+  2. Шинэ хэрэглэгч та өөрийн мэдээллийг бүрэн бөглөхөд л хангалттай.
+  3. Өөрийн нэр дээрх бусад картуудыг нэгтгээрэй. 
+
+ _____________________________
+ U-POINT ЦУГЛУУЛААД, ЗАРЦУУЛ",2019-01-10T06:53:41Z,2025-11-20T02:18:02Z
+mn,Mongolia,Kids,36,15,1504679492,Toki,TOKI NBFI LLC,https://apps.apple.com/mn/app/toki/id1504679492?uo=4,0.0,3.88573,2993,Lifestyle,"Бид хэрэглэгчдийнхээ өдөр тутмын амьдралын хэв маягийг ойлгож, тэдэнд хэрэгтэй үйлчилгээ бүрийг дижиталаар авах боломжийг хайж, тасралтгүй хөгжсөөр байна. Энгийн, найдвартай, хурдтай, шинэлэг шийдэл бүхий супер апп-г хүн бүрийн ирээдүйн хэв маягт зориулан загварчилж, хэрэглээнд нэвтрүүлэх нь бидний зорилго юм. Энэ бол Toki- Future of lifestyle.",2020-09-25T07:00:00Z,2025-11-24T07:21:03Z
+mn,Mongolia,Kids,36,16,1455928972,М bank,M LLC,https://apps.apple.com/mn/app/%D0%BC-bank/id1455928972?uo=4,0.0,4.06156,1527,Finance,"М бол дараагийн үеийн салбаргүй, бүрэн дижитал банк. Бид уламжлалт банкны бүтээгдэхүүн үйлчилгээг дахин загварчилж, хувь хүний эрүүл санхүүг дэмжих орчинг хамтдаа бүтээнэ.",2022-06-15T07:00:00Z,2025-11-19T04:12:06Z
+mn,Mongolia,Kids,36,17,567384694,mobicom,Mobicom Corporation LLC,https://apps.apple.com/mn/app/mobicom/id567384694?uo=4,0.0,3.58964,1679,Productivity,"Мобиком апликейшн – Ухаалаг шийдэл, хялбар хэрэглээ
+ 
+Монголын харилцаа холбооны тэргүүлэгч компанийн зүгээс таны өдөр тутмын харилцаа холбооны хэрэгцээг нэг дор хялбархан шийдэхэд зориулан бүтээсэн, амьдралын хэв маягт тань төгс тохирох шинэлэг аппликейшн.
+ 
+Боломж, давуу талууд:
+- Хэрэглээгээ хянах: Төлбөр, нэгж, датаны үлдэгдлээ харах, цэнэглэх
+- Төлбөр төлөлт: Дугаар, интернэт болон VOO үйлчилгээний төлбөрөө дангаар нь болон багцаар нь төлөх
+- Хялбар үйлчилгээ: Хамгийн их хэрэглэдэг үйлчилгээнүүдээ нүүр хэсэгт байршуулж, зөвхөн өөртөө зориулан цэсээ бүтээх
+- Шинэ дугаар авах, багц ахиулах: Дугаараа аваад өөрт тохирох Дараа төлбөрт болон Хосолсон төлбөрт багцыг үүсгэх
+- More & Fun цэс: 100 гаруй хөгжилтэй тоглоом болон дэлхийн шилдэг брэндүүдийн гар утас, дагалдах хэрэгслийн онлайн дэлгүүр
+- Глобал Дата eSIM: Дэлхийн аль ч өнцгөөс таныг интернэтэд холбох үйлчилгээ
+- Нэмэлт үйлчилгээ: Өөрийн хэрэглээнд тохируулан Дуудлага хадгалах, мэдээлэх, HiTone, Magic Voice, Дуут мессэж зэрэг нэмэлт үйлчилгээг идэвхжүүлэх, цуцлах
+- Урамшуулал: Зөвхөн танд зориулсан урамшуулал болон бусад урамшууллын мэдээллийг авах
+- Өнгөний сонголт: Өөрийн vibe, хэв маягтаа тохируулж 8 өнгөнөөс сонгон, апликейшныхаа өнгө төрхийг өөрчлөх
+ 
+Шинэчлэлтүүд:
+- Шинэ интерфэйс, дизайн: Хэрэглэгч бүр өөрийн хэрэглээндээ зориулан цэсээ бүтээж, өнгө төрхөө сонгодог боллоо.
+- 100+ тоглоом: Олон тоглоом татаж багтаамжаа дүүргэхгүй, нэг дороос хүссэн тоглоомоо тоглох боломжийг нээлээ.
+- Өнгөний сонголт: Тохиргоо цэс дэх 8 өнгөнөөс сонгон, theme-ээ солих боломжтой боллоо.
+Апп-аа татаад, салбарт хандахгүй бүх үйлчилгээгээ нэг дороос аваарай.
+
+Mobicom Application – Smart Solution, Easy Usage
+ 
+An innovative application designed by Mongolian telecommunication leading company to conveniently address all your daily telecommunication needs in one place, perfectly tailored to your lifestyle.
+ 
+Features and Benefits:
+- Usage Monitoring: Check and recharge your balance, units, and data usage.
+- Payment Options: Easy pay for your phone, internet, and VOO services
+- Quick Access: Place your most-used services on the homepage for quick access.
+- New Numbers and Package Upgrades: Get a new number and choose a Postpaid or Hybrid package that suits your usage.
+- More & Fun Menu: Access 100+ fun games and an online  shop for top brands’  smartphones and accessories.
+- Global Data eSIM: Stay connected to the internet anywhere in the world.
+- Additional Services: Easily activate or deactivate services like Missed Call Alerts, HiTone, Magic Voice, and Voice Messages to suit your needs.
+- Promotions: Stay updated with personalized offers and promotions tailored just for you.
+- Theme Selection: Customize your app’s appearance by choosing from 8 vibrant color themes.
+
+Updates:
+- New Interface and Design: Personalize your menu and app theme to match your preferences.
+- 100+ Games: Enjoy a variety of games without taking up extra storage on your device.
+- Theme Selection: Choose from 8 different color themes in the settings menu for a fresh new look.
+Download the app today and manage all your services conveniently from one place—no shop visits are required.",2012-11-11T05:11:05Z,2025-11-19T08:57:10Z
+mn,Mongolia,Kids,36,18,897446215,Canva: AI Video & Photo Editor,Canva Pty Ltd,https://apps.apple.com/mn/app/canva-ai-video-photo-editor/id897446215?uo=4,0.0,4.85547,38013,Photo & Video,"Canva is your easy to use photo editor and video editor in one graphic design app! Create stunning social media posts, videos, cards, flyers, photo collages & more. 
+
+No design experience or expertise? No problem! From photo editor to collage maker, to logo maker – we made Canva really simple & easy for everyone. 
+
+STUNNING TEMPLATES 
+• Start inspired with thousands of customisable templates
+• Playful Facebook posts, Insta layouts, Instagram post maker, IG Story, & mood boards
+• Professionally-designed invitations, flyers, gift certificates, etc. to boost your business or event
+• Showcase your product with our logo maker
+• Visualise data with sleek presentation templates and slideshow maker
+
+PHOTO EDITOR – No ads, no watermarks
+• Effortless picture apps to crop, flip, & edit photos
+• Adjust brightness, contrast, saturation, tint, blur, etc.
+• Auto Focus for background blur & sharpen photo subject 
+• Apply your style with aesthetic filters & effects (Retro, Pixelate, Liquify, etc.)
+• Fun photo grid & photo collage maker 
+
+VIDEO EDITOR – make amazing videos in just a few taps
+• Produce professional videos right on your phone
+• Create realistic AI videos in seconds with Google's Veo3
+• Trim, cut, & split video layout and audio tracks
+• Crop, resize, and flip videos & images to any dimensions
+• Make static images move with one-tap animations & page transitions
+• Overlay multiple audio tracks of music, sound effects, & voiceovers
+• Use the video editor as a video collage maker & slideshow maker too!
+
+SOCIAL MEDIA – hit it big with on-trend content
+• Discover thousands of templates for Instagram, TikTok, Facebook, Twitter, YouTube, Snapchat, LinkedIn etc.
+•  Queue your planned posts on Instagram with Scheduler [Canva Pro]
+• Play with our photo editor for thumb-stopping Instagram layouts
+• Easy collage maker & video editor to create photo grids, collages
+
+EXTENSIVE STOCK LIBRARY – over 2M+ assets for you
+• Complete package: all the elements you need are here
+• 2M+ royalty-free images
+• Thousands of watermark-free stock videos
+• 25K+ pre-licensed audio & music tracks
+
+SMART MOCKUPS – see your designs on a shirt or poster and more
+• Look professional by visualising your designs on products 
+• High-res mockups for phones, laptops, posters & other displays
+• Order printed flyers, mugs, and apparel for gifts or business
+
+REAL-TIME COLLABORATION – with anyone across any device
+• Edit team projects & presentations anytime, anywhere
+• Start a design on mobile & finish on your desktop seamlessly
+• Work with your team in real-time, leave comments & apply changes
+
+CANVA PRO
+• Bring your vision to life with premium templates, images, videos & graphics
+• Save time with tools like Background Remover, Magic Resize, and Content Planner
+• Design and grow an authentic brand with Brand Kit
+• Working with a team? Create faster, together, with Canva for Teams
+
+DESIGN FOR EVERYONE 
+• Personal - Layout designs for creative & professional pursuits like Instagram templates, resume, photo collages, etc.
+• Entrepreneurs - Grow your business with our logo creator, video editor, poster maker, etc.
+• Students & Teachers - Engage with beautiful presentations and worksheets
+• Social Media Managers & Content Creators - Use the photo editor and collage maker for consistent 
+visuals.
+
+*Your monthly subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. The  Payment will be charged to your iTunes Account at confirmation of purchase. You can manage app subscriptions in your iTunes Account settings. Any unused portion of a trial period, if offered, will be forfeited when you purchase a paid subscription. No lock-in contract.
+
+https://about.canva.com/terms-of-use
+https://about.canva.com/privacy-policy 
+
+Note: Image pack in-app purchases on the App Store are only available to use on the Canva app for iPhone.
+
+Got questions or comments? Get in touch http://canva.me/ios",2014-10-15T10:23:37Z,2025-11-19T00:58:35Z
+mn,Mongolia,Kids,36,19,447188370,Snapchat: Chat with friends,"Snap, Inc.",https://apps.apple.com/mn/app/snapchat-chat-with-friends/id447188370?uo=4,0.0,4.43482,1143,Photo & Video,"Snapchat is a fast and fun way to share the moment with your friends and family 
+
+SNAP
+• Snapchat opens straight to the camera – just tap to take a photo or press and hold for video. 
+• Express yourself with Lenses, Filters, Bitmoji and more! 
+•Try out new Lenses created daily by the Snapchat community!
+
+CHAT
+• Stay in touch with friends through live messaging or share your day with Group Stories. 
+• Video chat with up to 16 friends at once – you can even use Lenses and Filters when chatting! 
+• Express yourself with Friendmoji – exclusive Bitmoji made just for you and a friend.
+
+STORIES
+• Watch friends’ Stories to see their day unfold. 
+• See Stories from the Snapchat community that are based on your interests. 
+• Discover breaking news and exclusive, original Shows.
+
+SPOTLIGHT
+• Spotlight showcases the best of Snapchat! 
+• Submit your own Snaps or sit back, relax and watch. 
+• Pick your favourites and share them with friends.
+
+MAP 
+• Share your location with your best friends or go off the grid with Ghost Mode. 
+• See what your friends are up to on your most personal map when they share their location with you. 
+• Explore live Stories from the community nearby or across the world!
+
+MEMORIES
+• Save unlimited photos and videos of all your favourite moments. 
+• Edit and send old moments to friends or save them to your Camera Roll. 
+• Create Stories from your favourite Memories to share with friends and family.
+
+FRIENDSHIP PROFILE
+• Every friendship has its own special profile so that you can see the moments you’ve saved together. 
+• Discover new things you have in common with Charms – see how long you’ve been friends, your astrological compatibility, your Bitmoji fashion sense and more! 
+• Friendship Profiles are just between you and a friend, so you can bond over what makes your friendship special.
+
+Happy Snapping!
+
+Please note: Snapchatters can always capture or save your messages by taking a screenshot, using a camera or in other ways. Be mindful of what you Snap!
+
+For a full description of our privacy practices, please go to our Privacy Centre.",2012-06-03T17:15:42Z,2025-11-20T12:02:02Z
+mn,Mongolia,Kids,36,20,382617920,Rakuten Viber Messenger,Viber Media SARL.,https://apps.apple.com/mn/app/rakuten-viber-messenger/id382617920?uo=4,0.0,4.80736,41110,Social Networking,"Rakuten Viber is a secure, fun, and exciting messaging and calling app, connecting over a billion people worldwide!
+
+You can do it all with Rakuten Viber: group chats, disappearing messages, reminders, and more:
+
+Send messages for free
+Staying in touch has never been easier. Send a free text, photo, sticker, GIF, voice or video message, along with many other types of files.
+
+Make free audio and video calls
+Enjoy unlimited Viber-to-Viber calls to anyone in the world for free. You can even call up to 60 people at the same time! Great for connecting with friends, family, and colleagues :)
+
+Experience end-to-end encryption
+On by default for all 1-on-1 calls, chats, and group chats, end-to-end encryption allows to you to communicate with confidence knowing that all messages will remain private. No one, not even Rakuten Viber, can read your messages.
+
+Make low-cost calls to landlines with Viber Out
+Call any landline or mobile phone with Viber Out’s low-cost international calling service. Get a Viber Out subscription to call a specific destination or keep your options open and buy minutes to call anywhere in the world. 
+
+Open a group chat
+Catch up with friends, family, and colleagues by opening a group chat for up to 250 members. Use polls and quizzes, @mentions and reactions to get the most out of your group!
+
+Express yourself with lenses, GIFs, and stickers
+Personalize your chats! Get creative with fun, funny, and beautifying Viber lenses. GIFs and over 55,000 stickers also await you - you can even create your own.
+
+Use disappearing messages
+Send disappearing messages in your 1-on-1 and group chats by setting a timer for each message. You can choose how long the message will be available after it’s opened - 10 seconds, 1 minute, or up to 1 day!
+
+Connect in Communities and Channels
+Whether it's sports, news, cooking, travel or entertainment, get the content you really want and connect with others with similar interests. You can even start your own Community or Channel and gain a global following. 
+
+Chat with AI bots
+Rakuten Viber's AI bots will answer all your questions and turn your words into beautiful art. You can also find verified bots to get the latest news on fashion, book your travel, and even pay your electricity bills!
+
+React to messages
+React to messages with emojis to express exactly how you feel in chats!
+
+Create notes and reminders
+Forward interesting messages, keep meaningful links, and add your thoughts to your notes. You can also set reminders to ensure you never forget important tasks and events. 
+
+Rakuten Viber is part of the Rakuten Group, a world leader in e-commerce and financial services. 
+
+Terms & Policies: https://www.viber.com/terms/",2012-05-31T23:42:12Z,2025-11-18T13:25:25Z
+mn,Mongolia,Kids,36,21,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/mn/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.59954,13140,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+mn,Mongolia,Kids,36,22,6477489729,Google Gemini,Google LLC,https://apps.apple.com/mn/app/google-gemini/id6477489729?uo=4,0.0,4.73254,22224,Productivity,"Google Gemini app is your personal, proactive and powerful AI assistant.
+
+With Gemini on your iPhone or iPad, you can:
+
+– Go Live with Gemini to brainstorm ideas, simplify complex topics and rehearse for important moments. Share your camera or screen in Gemini Live conversations to talk with Gemini about anything that you see. Just click on the Gemini Live button in your Gemini app
+– Bring your ideas to life with Canvas. From prompt to prototype, create apps, games, web pages, infographics, Audio Overviews and more
+– Connect with your favourite Google apps, like Search, YouTube, Google Maps, Gmail and more
+– Study smarter and explore any topic with quiz and flashcard creation, interactive visuals and real-world examples
+– Turn any file into a podcast that you can listen to any time, anywhere
+– Create and edit stunning images from just a few words
+– Plan trips better and faster
+– Get summaries, deep dives and source links, all in one place
+– Brainstorm new ideas or improve existing ones
+
+Try Nano Banana: State-of-the-art image generation and editing built on Gemini 2.5 Flash
+
+
+Level up your Gemini app experience by upgrading to the Plus plan – unlock new and powerful features to boost your creativity and productivity:
+– Get more access to our most powerful models, like 2.5 Pro
+– Generate and dive into detailed reports on any topic with Deep Research powered by 2.5 Pro
+– Turn words into high-quality, eight-second video clips with video generation with Veo 3.1 Fast and more.
+
+Google AI Plus includes additional benefits. Gemini app, as part of Google AI Plus, will be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get even more out of your Gemini app experience by upgrading to the Pro plan, which helps you tackle complex tasks and projects. Enjoy an industry-leading 1M token context window (enabling Gemini to process up to 1,500 pages of text or 30k lines of code), and higher access to our most capable model 2.5 Pro, Deep Research on 2.5 Pro and video generation with Veo 3.1 Fast.
+
+Gemini in Google AI Pro includes additional benefits as part of a Google AI Pro subscription. The Gemini app, as part of Google AI Pro, will continue to be available to qualifying Google Workspace business and education plans. Learn more: https://gemini.google/subscriptions/
+
+Get the best of Gemini app by upgrading to the Ultra plan – unlock the highest level of access to the best of Google AI and exclusive features. Get the highest access to Google's most powerful model, like 2.5 Pro, features like video generation with Veo 3.1, Deep Research on 2.5 Pro and unlock Gemini 2.5 Deep Think. You'll also get early access to try our newest AI innovations as they become available, including Agent Mode.
+
+Gemini in Google AI Ultra includes additional benefits as part of a Google AI Ultra subscription. Google AI Ultra for Business is available as an add-on to Google Workspace customers. Learn more: https://support.google.com/a/answer/16345165
+
+The Google Gemini mobile app is available in selected languages and countries. Learn more:
+g.co/gemini/iosrequirements
+
+Gemini Live feature availability varies based on language. Learn more:
+g.co/gemini/ioslanguages
+
+While Gemini can help you with many tasks like checking the weather, giving directions, and finding and summarising information across the web and apps, Gemini does not yet support device actions like setting an alarm, sending a text message and others on iOS.
+
+Review the Gemini Apps Privacy Notice:
+g.co/gemini/privacynotice",2024-11-13T08:00:00Z,2025-11-20T01:10:16Z
+mn,Mongolia,Kids,36,23,310633997,WhatsApp Messenger,WhatsApp Inc.,https://apps.apple.com/mn/app/whatsapp-messenger/id310633997?uo=4,0.0,4.79789,27183,Social Networking,"WhatsApp from Meta is a free messaging and calling app used by over 2 billion people across 180+ countries. It's super simple, reliable and private, making it perfect for staying in touch with your friends and family worldwide. WhatsApp works across mobile, tablet, and desktop even on slow connections, with no subscription fees*.
+
+Private messaging and calls across the world
+
+Your privacy is our priority. With end-to-end encryption, you can be sure that your personal messages and calls stay between you and who you send them to. And no one, not even WhatsApp, can read or listen to them.
+
+Simple and secure connections, right away
+
+All you need is your phone number - no usernames or logins needed. Easily view your contacts on WhatsApp and start messaging. And what's more, you can easily  link your other devices, including iPads, for seamless connectivity.
+
+High quality voice and video calls
+
+Enjoy free, secure video and voice calls with up to 32 people for free. Your calls work across devices, even on slower connections, using your phone or tablet’s Internet service.
+
+Group chats to keep you in contact
+
+Stay close to friends and family through end-to-end encrypted group chats and calls. Share messages, photos, videos and documents across mobile, tablet, and desktop. You can also use call links and screen-sharing to make group calls and collaboration easy.
+
+Stay connected in real time
+
+You can share your location with those in your individual or group chats while using WhatsApp on your mobile phone. Or record a voice message for those moments when just text isn't good enough.
+
+Share daily moments through Status
+
+Share your everyday life with those who matter. With Status you can share text, photos, video, and GIF updates that disappear after 24 hours. You're always in control of who sees your status. Just choose who you want to share it with - all your contacts or selected ones. And bring your everyday to life.
+
+*Data charges may apply. Contact your provider for details.
+
+
+---------------------------------------------------------------------------
+
+If you have any feedback or questions, please go to WhatsApp > Settings > Help > Contact Us
+
+Terms of Service: https://www.whatsapp.com/legal/terms-of-service 
+
+Learn more about messaging privately: https://www.whatsapp.com/privacy 
+
+Learn more about WhatsApp safety: https://www.whatsapp.com/security",2012-06-13T00:31:16Z,2025-11-21T02:37:57Z
+mn,Mongolia,Kids,36,24,1500855883,CapCut - Photo & Video Editor,BYTEDANCE PTE. LTD.,https://apps.apple.com/mn/app/capcut-photo-video-editor/id1500855883?uo=4,0.0,4.36128,5010,Photo & Video,"CapCut offers easy-to-use video editing functions, in-APP fonts and effects, advanced features such as keyframe animation, smooth slow-motion, chroma key, and stabilization, to help you capture and snip moments.
+
+Create fancy videos with other unique features: auto captions, text-to-speech, motion tracking, and background removal. Show your personality and go viral on TikTok, YouTube, Instagram, WhatsApp, and Facebook!
+
+FEATURES
+Basic video editing
+• Trim and shorten clips and split or merge videos.
+• Adjust video speed from 0.1x to 100x, and apply speed curves to clips.
+• Animate video clips with incredible zoom in/out effects.
+• Highlight the best moments with the freeze feature.
+• Explore transition options with awesome effects on and between clips.
+
+Advanced video editor
+• Keyframe video animation is available for all settings.
+• Edit videos to create smooth slow-motion with the optical flow feature and speed curve tool.
+• Use the chroma key to remove specific colors from videos.
+• Easy to arrange and preview clips on multi-track timeline.
+• The stabilizing feature keeps video footage steady.
+
+Intelligent features
+• Auto captions: automate speech recognition and subtitles in videos.
+• Text-to-speech: apply text-to-speech in multiple languages and voices.
+• Background removal: automatically remove backgrounds.
+
+Text & Stickers
+• Add text to videos with different fonts and styles, choose unique text templates. Fonts can be imported locally.
+• Subtitles can be added to the timeline of video tracks and can be moved and adjusted in one step.
+
+Trending Effects & Filters
+• Match video content with diverse filters that are updated weekly with the latest trends.
+• Edit videos with hundreds of trending effects, including Glitch, Blur, 3D, etc.
+• Add movie-style video filters or adjust video brightness, contrast, etc.
+
+Music & Sound Effects
+• Add millions of music clips and sound effects to videos.
+• Extract audio, clips, and recordings from videos.
+
+Easy to Share
+• Custom video export resolution, HD video editor supports 4K 60fps exports and smart HDR.
+• Adjust the format and share with your friends on social media platforms.
+
+CapCut is an all-in-one video editor and video maker application with everything you need to create stunning, high-quality videos. Beginners can get started with CapCut in a matter of seconds, while advanced users can enjoy all the functions they need to edit videos. 
+
+Terms of Service —
+https://www.capcut.com/clause/terms-of-service
+
+Privacy Policy —
+https://www.capcut.net/clause/privacy
+
+Contact Us
+Any questions about CapCut? Please contact us at capcut.support@bytedance.com.
+Facebook: https://www.facebook.com/capcutapp
+Instagram: https://www.instagram.com/capcutapp
+YouTube: https://www.youtube.com/capcutofficial
+TikTok: https://www.tiktok.com/@capcut",2020-04-14T07:00:00Z,2025-11-21T06:41:15Z
+mn,Mongolia,Kids,36,25,6740602731,Egune Chat,Chimege systems LLC,https://apps.apple.com/mn/app/egune-chat/id6740602731?uo=4,0.0,4.38095,63,Productivity,"Introducing Egune Chat – Mongolia's native AI assistant that understands not just your language, but your life. Egune Chat understands Mongolia like no other AI.
+
+Unlike global AI apps that offer basic translations and generic knowledge, Egune Chat lives and breathes Mongolia. Ask about today's bus routes in Ulaanbaatar, get real-time currency exchange rates, check local weather and air quality, or simply chat in perfect Mongolian – both text and voice.
+
+KEY FEATURES
+
+- Native Mongolian: Understands context, culture, and local expressions
+- Voice First: Speak naturally, hear responses in crystal-clear Mongolian
+- Hands-free conversation mode with >97% accuracy speech recognition
+- Local Services: Real-time bus routes, weather, exchange rates, traffic, business informations etc.
+- Smart Tools: Document analysis, image recognition, code writing, creative writing and translation
+- Data Sovereignty: Your data stays in Mongolia
+
+Perfect for students needing homework help, professionals requiring translation and writing assistance, business owners seeking efficiency, or anyone wanting a smart AI companion that truly understands Mongolians.
+
+Why Choose Egune Chat?
+
+- Built in Mongolia, for Mongolia
+- Your data never leaves Mongolia
+- 5x more affordable than global alternatives
+- Superior Mongolian language support
+- Integrated local services
+- Continuous improvements and new features
+
+This version of the app is free to use.
+
+Join thousands of Mongolians already experiencing the future of AI – one that speaks your language, understands your culture, and respects your sovereignty.
+
+Download now and experience our technological advancement!
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://egune.com/privacy",2025-09-30T07:00:00Z,2025-11-24T00:18:18Z

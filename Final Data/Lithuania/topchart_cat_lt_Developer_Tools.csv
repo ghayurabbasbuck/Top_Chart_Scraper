@@ -1,0 +1,553 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+lt,Lithuania,Developer Tools,6026,1,6751247034,Anything - AI App Builder,"Create, Incorporated",https://apps.apple.com/lt/app/anything-ai-app-builder/id6751247034?uo=4,0.0,0,0,Developer Tools,"Anything is the fastest way to build apps. Now, from your iPhone on the go. 
+
+Free to start. Join 1M builders using Anything to launch. 
+
+BUILD APPS WITHOUT CODING
+
+Describe your app. Anything builds it. Mobile apps, web, or both. 
+
+Launch on the App Store or host on the web in 1 tap.
+
+Preview live on your device, then continue editing, exporting or launching from your browser.
+
+SHIPS MOBILE APPS & WEB
+
+- Native iOS mobile apps or web apps
+- Live preview on your device
+- 1-tap App Store submit (only from web)
+- Instant web hosting
+- Build from anywhere, sync everywhere (finish later from your browser)
+- Export your code (only from web)
+
+DESIGNS THAT POP
+
+- Like you had a designer, not AI
+- Dark mode supported by default
+- Responsive by default
+
+EVERYTHING BUILT IN
+
+- Add powerful features to your apps in seconds
+- AI - ChatGPT, Claude, Gemini (no API keys)
+- Payments - In-app payments with RevenueCat, Stripe subscriptions, and more
+- Auth - Email, Google, Facebook, X
+- Database - Postgres 
+- Backend - APIs, uploads, hosting
+- 100+ integrations
+
+AI AGENT THAT WORKS FOR YOU
+
+- Thinks through your prompts
+- Fixes errors on its own
+- Stays reliable as projects scale
+
+Find us on the web: createanything.com 
+Follow us on X: https://x.com/anythingai
+End User License Agreement: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2025-11-24T08:00:00Z,2025-11-24T08:00:00Z
+lt,Lithuania,Developer Tools,6026,2,899247664,TestFlight,Apple Distribution International,https://apps.apple.com/lt/app/testflight/id899247664?uo=4,0.0,4.76516,2308,Developer Tools,"TestFlight makes it easy to test beta versions of apps and App Clips to provide valuable feedback to developers before they release their apps on the App Store. Developers can invite testers through email or a public link.
+
+When you test a beta app or App Clip, Apple collects and sends crash logs, usage information and any feedback you submit to the developer. The developer may use this information to improve their app and related products. Apple may use crash logs and usage information to improve our products and services.
+
+For instructions on installation, testing and feedback submission, and for details on how your data is handled, see testflight.apple.com.",2014-09-09T22:23:57Z,2025-10-07T14:12:50Z
+lt,Lithuania,Developer Tools,6026,3,1602054864,O-KAM Pro,Shenzhen VeePai IoT Intelligent Technology LLC,https://apps.apple.com/lt/app/o-kam-pro/id1602054864?uo=4,0.0,4.28846,52,Developer Tools,"O-KAM Pro, feel home anytime, anywhere.
+A remote video surveillance software used with the camera can help you check the dynamics of your home at any time after adding the camera.
+With real-time video, cloud storage playback, alarm push, two-way voice intercom, as well as photo and video and other functions.
+APP has simple operation and simple design, which can help you manage and use it more conveniently.",2022-01-06T08:00:00Z,2025-11-24T09:35:35Z
+lt,Lithuania,Developer Tools,6026,4,982107779,Expo Go,"650 Industries, Inc.",https://apps.apple.com/lt/app/expo-go/id982107779?uo=4,0.0,4.36364,22,Developer Tools,"Start building projects using web technologies with just your iOS device and your computer. Expo Go is a developer tool for creating experiences with interactive gestures and graphics using JavaScript and React.
+
+Note: some programming experience is recommended.
+Technical specs: this version of Expo uses React Native 0.81.1.",2015-08-17T21:26:16Z,2025-09-23T17:56:55Z
+lt,Lithuania,Developer Tools,6026,5,1477376905,GitHub,GitHub,https://apps.apple.com/lt/app/github/id1477376905?uo=4,0.0,4.85207,169,Developer Tools,"There’s a lot you can do on GitHub that doesn’t require a complex development environment – like sharing feedback on a design discussion, or reviewing a few lines of code. GitHub for iOS lets you move work forward wherever you are. Stay in touch with your team, triage issues, and even merge, right from the app. We’re making these tasks easy for you to perform, no matter where you work, with a beautifully native experience.
+
+You can use GitHub for iOS to:
+
+• Browse your latest notifications
+• Read, react, and reply to Issues and Pull Requests
+• Review and merge Pull Requests
+• Organize Issues with labels, assignees, projects, and more
+• Browse your files and code
+• Discover new and trending repositories
+
+———
+
+Terms of Service: https://docs.github.com/en/github/site-policy/github-terms-of-service
+Privacy Policy: https://docs.github.com/en/github/site-policy/github-privacy-statement",2020-03-17T07:00:00Z,2025-11-18T20:36:27Z
+lt,Lithuania,Developer Tools,6026,6,1234793120,App Store Connect,Apple Distribution International,https://apps.apple.com/lt/app/app-store-connect/id1234793120?uo=4,0.0,4.86022,93,Developer Tools,"Manage your apps on the go with the App Store Connect app for iPhone and iPad.
+
+• View the status of your apps and manage App Store submissions.
+• Manage tester groups, add new builds and testers, view screenshot and crash feedback.
+• View key sales and trends information to monitor app performance.
+• View and respond to your latest customer ratings and reviews.
+• Generate marketing assets to promote your apps’ biggest moments, such as getting featured in select placements on the App Store, or when you’re submitting a new app launch or new version.
+• Receive notifications about key events, such as app status changes, new customer reviews, tester feedback, and featuring in select placements on the App Store.",2018-06-13T13:27:03Z,2025-10-01T17:36:02Z
+lt,Lithuania,Developer Tools,6026,7,640199958,Apple Developer,Apple Distribution International,https://apps.apple.com/lt/app/apple-developer/id640199958?uo=4,0.0,3.25,8,Developer Tools,"Welcome to Apple Developer, your source for developer news, features, and videos — and the best place to experience WWDC.
+
+• Keep up to date on the latest Apple frameworks and technologies.
+• Browse news, features, developer stories, and more.
+• Catch up on videos from past events and download them to watch offline.
+• Enroll in the Apple Developer Program in supported locales.",2013-06-03T13:41:42Z,2025-09-02T17:00:48Z
+lt,Lithuania,Developer Tools,6026,8,1436902243,iSH Shell,Theodore Dubois,https://apps.apple.com/lt/app/ish-shell/id1436902243?uo=4,0.0,4.2,5,Developer Tools,"A Linux-like shell on iOS. You can edit files with sed and cat, move them around, and more!
+
+https://github.com/ish-app/ish/",2020-10-22T07:00:00Z,2023-05-21T11:28:26Z
+lt,Lithuania,Developer Tools,6026,9,1483790257,Text Editor.,TAPUNIVERSE LLC,https://apps.apple.com/lt/app/text-editor/id1483790257?uo=4,0.0,4.27273,11,Developer Tools,"This is a simple yet powerful text editor that let you browse and edit any kind of text on your device and on the cloud (including iCloud, Google Drive, Box and more).
+
+FEATURES:
+—————
+◆  Browse and edit all kinds of text on your device and on the cloud
+◆  Support TXT, RTF or any file that can be read as text like HTML, CSS, JS
+◆  View text in any font and style
+◆  Rich Text editing
+◆  Share your files anywhere
+◆  Dark Mode support
+
+
+
+
+Text Editor+:
+
+
+• You can subscribe to unlock dark mode and unlimited usage.
+
+• Subscription auto-renew at the end of current period, unless cancelled 24-hours in advance prior to the end of the current period. The subscription fee is charged to your iTunes account at confirmation of purchase. You may manage your subscription and turn off auto-renewal by going to your Account Settings after purchase. Per Apple policy, no cancellation of the current subscription is allowed during active subscription period. Once purchased, refunds will not be provided for any unused portion of the term.
+
+
+Terms of use: https://tapuniverse.com/terms/
+
+Privacy policy: https://tapuniverse.com/policy/",2019-10-18T07:00:00Z,2024-12-23T12:34:50Z
+lt,Lithuania,Developer Tools,6026,10,1442620678,Surge 5,Surge Networks Inc.,https://apps.apple.com/lt/app/surge-5/id1442620678?uo=4,0.0,2.6,5,Developer Tools,"Surge is a web development and proxy utility. It is designed for developers and therefore requires professional knowledge to use.
+
+These four capabilities form the core workflow of Surge:
+· Takeover: You can take over the network connection sent by the device. Surge supports both proxy service and virtual NIC takeover.
+· Processing: You can modify the network requests and responses that have been taken over. This includes URL redirection, local file mapping, custom modification using JavaScript, and many other methods.
+· Forwarding: You can forward the taken over network requests to other proxy servers. This can be global forwarding or with a flexible rule system to determine an outbound policy.
+· Intercept: You can intercept and save specific data of network requests and responses, and you can also decrypt HTTPS traffic with MITM.
+
+Highlighted Features
+· Takeover all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to an HTTP/HTTPS/SOCKS5/SOCKS5-TLS/SSH proxy server following highly configurable rules.
+· Used as a WireGuard Client to convert the L3 VPN as a proxy.
+· Record and display HTTP requests and responses sent from your iOS devices, including body and header.
+· Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and GeoIP lookup.
+· Measure traffic usage and network speed on WiFi, cellular, and proxy connections.
+· High performance and suitable for intensive use.
+· Block ads by domain rules.
+· Local DNS Map (equivalent to /etc/hosts). You can use this function to switch the production/development environment for your app without changing any code.
+· All features work on the cellular network.
+· Decrypt HTTPS traffic with Man-in-the-Middle.
+· Perform URL rewrite.
+· Fully IPv6 supports.
+· Header rewrite.
+· Raw L3 packets capture.
+· Safari extension to add rules.
+· JSON, text, image and video viewer for the captured body.
+· Album mode for the request list.
+· Pre-filter for capturing.
+· HTTPS proxy protocol supports client-side SSL/TLS certificate validation.
+· Scripting: Use JavaScript to extend the ability of Surge as your wish.
+· Sync profiles cross devices with iCloud Drive or Dropbox.
+· DNS-over-HTTPS, DNS-over-HTTP3, DNS-over-QUIC, TLS 1.3 and more advanced features.
+
+You may read the online manual for more information: http://manual.nssurge.com/
+
+Terms and Conditions: https://nssurge.com/legal/terms
+Privacy Policy: https://nssurge.com/legal/privacy",2018-11-17T15:21:24Z,2025-10-24T05:50:33Z
+lt,Lithuania,Developer Tools,6026,11,6742786598,iProxy - Sys admin tools,"N-LAB, OOO",https://apps.apple.com/lt/app/iproxy-sys-admin-tools/id6742786598?uo=4,0.0,0,0,Developer Tools,"iProxy: privacy and speed in one app
+
+Enjoy secure and anonymous internet browsing with iProxy!
+
+-Protestion First:
+iProxy hides your IP address, blocks trucks, and shields you from malicious therapies. Your personal data repair security guard.
+
+-Privacy Without Compromises:
+Working, traveling, or relaxing? Stay connected, stream content, and chat securely — with zero risk to your digital safety.
+
+-Compatibility & Versatility:
+Works on all iOS devices and supports popular protocols (HTTP, HTTPS, SOCKS5). Seamlessly integrates with browsers, apps, and cloud services.",2025-03-12T07:00:00Z,2025-08-25T17:20:04Z
+lt,Lithuania,Developer Tools,6026,12,6746410361,Rork,"Rork, Inc.",https://apps.apple.com/lt/app/rork/id6746410361?uo=4,0.0,5,1,Developer Tools,"Rork allows you to build real mobile apps using words. With Rork you can prototype, preview and share real apps right from your phone.
+
+Rork is meant for developers building with Expo Go & React Native, some programming knowledge is recommended.",2025-08-31T07:00:00Z,2025-10-26T14:01:19Z
+lt,Lithuania,Developer Tools,6026,13,1550710789,Node.js Lab,Firas Moussa,https://apps.apple.com/lt/app/node-js-lab/id1550710789?uo=4,0.0,0,0,Developer Tools,"Full-fledged Node.js on iOS with NPM support.
+
+
+Build, modify, run and debug web applications using NodeJS and Webkit on your iOS device or any other device on the same network.
+
+Nodejs Lab also turns your device into a complete standalone web application with nodejs support to run on startup (similar to nw.js).
+
+
+App features:
+
+- Full Node.js without internet connection
+- Git client
+- Script editor
+- html/js/css/json beautifiers in script editor
+- Auto-Complete
+- Image editor
+- Multi-tabbed script/image editor
+- NPM
+- Panel to capture console.log, .warn, .error
+- Supports in-app browser / in-app Safari
+- Multi-tabbed file manager
+- Set as standalone web application (similar to nw.js)
+- Remote file manager (access app's files from another device)
+- FTP/SFTP/FTPS/iCloud managers
+- phpLiteAdmin to edit sqlite files
+- Firebug Lite
+- Syntax validator for HTML, JS & CSS
+- Offline Node.js documentation
+- Enable/Disable sharing with Files app
+- Split screen on iPad
+- Multitasking on iPad
+
+
+Note: nodejs Lab doesn't support c++ addons
+
+For more information & inquiries please contact me through nodejs Lab's website or contact form inside the app.",2021-02-11T08:00:00Z,2025-10-01T21:05:45Z
+lt,Lithuania,Developer Tools,6026,14,1455829852,ASO Toolkit by Redbox Mobile,Redbox Mobile PLC,https://apps.apple.com/lt/app/aso-toolkit-by-redbox-mobile/id1455829852?uo=4,0.0,0,0,Developer Tools,"Level up your app’s ASO with the ASO Toolkit!
+
+We’ve developed the ASO Toolkit app for indie iOS developers whether they are completed beginners or seasoned pros at optimising their app for the App Store. There are tips and guides for where to get started in the world of App Store Optimization and tools to view rankings, analyse metadata and more for advanced users.
+
+
+ASO Toolkit contains these great features:
+
+METADATA
+
+View your app’s existing metadata on the App Store and compare it against other apps to see which has the highest ASO Score. If your app has a poor ASO Score, we’ll offer you suggestions on how you can improve it.
+
+There’s no need to leave the app to get started with new metadata, you can create drafts that will allow you to prototype different metadata variations. Once you’re happy with a draft, you can complete the draft and upload it directly to App Store Connect. Drafts can be localised in all App Store languages too.
+
+
+KEYWORDS
+
+The ASO Toolkit has full support for viewing your app’s keyword rankings in any App Store country. Keywords you’ve tracked will show trend movements over the past 7 days but you can drill down to an individual keyword to view rankings for up to the past year and even compare them on a graph with your competitor apps too.
+
+
+CATEGORY RANKINGS
+
+Ever wanted to see where your app ranks in different countries? The Category Rankings tool allows you to add any combination of countries to instantly view category rankings all on one screen. You can even compare rankings with your competitors too.
+
+
+APP OVERVIEW
+
+Quickly access all of your app’s core metrics using the App Overview. You’ll be able to see your app’s ASO Score, keyword trends, current category ranking and more with just a glance. The App Overview also makes it easy to manage your competitors and see more details about your app too. You’ll be able to give your app a custom name to make it easier to find and even set the default country and language from here too.
+
+
+STOREFRONT SWITCHER
+
+The Storefront Switcher allows you to quickly change the country that the App Store is using on your device. This is useful for quickly seeing if your app has been featured in other countries that you wouldn’t normally be able to access.
+
+
+ASO GUIDES & TIPS
+
+We believe strongly in educating everyone on ASO so we’re pleased to include some guides and tips to allow ASO beginners to get started in optimising their apps.
+
+
+APP STORE CONNECT API
+
+The ASO Toolkit supports linking with your App Store Connect account to get access to the ability to quickly add apps in your account to the ASO Toolkit. You’ll also be able to view metadata from App Store Connect and then upload new drafts too. When you’re done, you can then submit builds for review - all without leaving the app.
+
+
+WIDGETS & SIRI SHORTCUTS
+
+With our Widgets, you’ll be able to quickly view category and keyword rankings from your Home Screen without launching the app. There’s even support for switching App Store countries from the Widgets too. Each Widget has a corresponding Siri Shortcut too so you’ll be able to just ask Siri to view rankings or switch countries.
+
+
+RATINGS & REVIEWS
+
+The Ratings & Reviews tool allows you to see how users are perceiving your app. You’ll be able to see the star rating, a breakdown by stars and the reviews left by each user.
+
+
+APP UPDATES
+
+Using the App Updates tool, you’ll be able to see the most recent updates you have made to your app and when it was released.
+
+
+CREATIVES
+
+You’ll be able to see all of your app’s screenshots and the app icon in more detail using the Creatives tool.
+
+
+OTHER TOOLS
+
+We have a few other tools to help you get started with ASO too: Keyword Lookup, Metadata Prototype & Top Charts.
+
+
+SAVED APPS
+
+All of your apps you’ve saved on one device and corresponding metadata, keywords and more will automatically sync to your other iCloud connected devices. 
+
+
+Get in contact:
+
+asotoolkit@redboxmobile.com
+@ASO_Toolkit
+redboxmobile.com",2019-10-14T07:00:00Z,2023-03-31T23:40:13Z
+lt,Lithuania,Developer Tools,6026,15,1614022293,Replit: Vibe Code Apps,"Replit, Inc",https://apps.apple.com/lt/app/replit-vibe-code-apps/id1614022293?uo=4,0.0,4.63636,11,Developer Tools,"Replit is the best way to create and ship real projects, apps, games, and more right from your phone. With Replit, you can create anything, anywhere. Make apps & sites with natural language prompts. No-code needed
+
+Tell Replit Agent your app or website idea, and it will build it for you automatically. It’s like having an entire team of software engineers on demand, ready to build what you need — all through a simple chat.
+
+Here's what you can do with the Replit app:
+• Build websites and apps with natural language using Replit Agent
+• Instantly host anything with zero setup deployment
+• Create live with others through real-time multiplayer collaboration
+• Create in any language and any framework
+• Clone and remix projects from over 33 million creators
+• Set up custom domains for any of your projects
+• Use replAuth to easily configure login for your project's users
+• Use ReplDB to quickly spin up databases for any project
+
+Replit is perfect for you whether you're new to creating apps or have been shipping projects for years. If you're a beginner, we have easy-to-use templates so you can learn to create your first dream project. If you're an expert, Replit has advanced features so you can ship real, meaningful projects all from your phone.
+
+With Replit, you can quickly create and collaborate with others. Invite friends to collaborate live on a project together or clone other people's projects to remix their ideas as your own. With millions of templates and projects, you'll have plenty of options to choose from. 
+
+Once you create a project or app, it will be instantly live with custom urls so you can share it with friends. Hosting on Replit is built-in. With zero setup and custom domains, sharing your work with anyone anywhere is easy.
+
+With Replit you can go from creating your first app and sharing projects with the world all from your mobile phone. We're so stoked to see what you build. 
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2022-10-18T07:00:00Z,2025-11-04T18:24:00Z
+lt,Lithuania,Developer Tools,6026,16,1543537943,a-Shell mini,Nicolas Holzschuch,https://apps.apple.com/lt/app/a-shell-mini/id1543537943?uo=4,0.0,5,1,Developer Tools,"a-Shell mini is a complete local terminal emulator, allowing to run most Unix commands on you iOS device. You can transfer files using scp and curl, edit them with vim and ed, process them using grep, awk and sed. Work with git repositories using lg2. 
+Most commands are compiled for iOS native Arm64 format, making them fast and well integrated with iOS underlying BSD Unix.
+
+a-Shell mini includes Python, Lua, JavaScript and webAssembly for programming and scripting. It also includes native ffmpeg and convert for fast image and video conversion.
+
+There are also multiple network utilities: nslookup, ping, whois, ifconfig... Type help for help, help -l to get the full list of commands. 
+
+a-Shell mini can be controlled from Shortcuts: run commands in order, process files in a-Shell, get the results as text or files, transfer files to other apps...
+
+a-Shell mini uses iPadOS 13+ “multiple windows” ability, so you can run multiple shells at the same time, with different commands, in different directories. You can edit a file in one window with vim and process it in the other with python. 
+
+a-Shell mini is a minimalist terminal, designed to have a very small footprint (less than 250 MB). If you need more commands, please consider a-Shell, which has more Python packages, more JavaScript modules, Perl, make, a C and C++ compiler and TeX.",2020-12-09T08:00:00Z,2025-11-22T21:42:27Z
+lt,Lithuania,Developer Tools,6026,17,6742912146,Vibecode - AI App Builder,Not A Number Labs Incorporated,https://apps.apple.com/lt/app/vibecode-ai-app-builder/id6742912146?uo=4,0.0,5,3,Developer Tools,"Vibecode is the easiest way to learn how to create beautiful mobile apps.
+
+• You can simply generate apps with prompting
+• View and test your app on your phone
+• Improve and complete the development of your app
+• Share with anyone in 1-click using App Clips
+• View and test your app on your phone
+
+Vibe coding allows you to create anything you imagine, and Vibecode is the first ever mobile app that brings the power of Vibecoding to the masses. 
+
+
+Terms of Service: https://www.vibecodeapp.com/terms
+Privacy Policy: https://www.vibecodeapp.com/privacy
+Note: Vibecode is meant for developers building with React Native & Expo; some programming knowledge and vibe coding knowledge may be ideal, and is recommended",2025-06-17T07:00:00Z,2025-11-23T23:02:33Z
+lt,Lithuania,Developer Tools,6026,18,6748809118,Doovix,继伟 邹,https://apps.apple.com/lt/app/doovix/id6748809118?uo=4,0.0,0,0,Developer Tools,"Doovix transforms learning into an extraordinary adventure.   Imagine having the ability to sit down with Einstein and discuss relativity, chat with Marie Curie about radioactivity, or explore mathematics with Isaac Newton.   This isn't science fiction—it's the Science Time Corridor.
+
+Using advanced AI technology, Doovix creates immersive conversations with history's most brilliant scientific minds.   Each scientist responds in character, sharing their discoveries, theories, and the fascinating stories behind their groundbreaking work.
+
+Whether you're a student struggling with complex concepts, a teacher looking for engaging ways to present scientific history, or simply someone fascinated by the minds that shaped our world, Doovix offers a unique way to explore science through personal interaction.",2025-07-20T07:00:00Z,2025-08-06T01:34:21Z
+lt,Lithuania,Developer Tools,6026,19,549039908,Termius - Modern SSH Client,Termius Corporation,https://apps.apple.com/lt/app/termius-modern-ssh-client/id549039908?uo=4,0.0,4.62687,67,Developer Tools,"Termius is an SSH client and terminal how it should be. Connect with one tap from any mobile and desktop device—no re-entering IP addresses, ports, and passwords.
+
+With a free Termius Starter plan, you can:
+
+· Connect from your mobile and desktop device with SSH, Mosh, Telnet, Port Forwarding, and SFTP.
+· Get a desktop-grade terminal experience with a virtual keyboard covering all the special keys required, or connect your Bluetooth keyboard.
+· Use gestures or shake the device while in the terminal to emulate stroking of Tab, arrows, PgUp/Down, Home, and End, etc.
+· Work in several sessions simultaneously with a multi-tab interface and split-view support.
+· Customize your terminal themes and fonts for each connection.
+· Save your favorite and frequently used commands and shell scripts to execute them with a tap instead of typing.
+· Quickly access the unified history of your terminal commands.
+· Get the support of ECDSA and ed25519 keys and a chacha20-poly1305 cipher.
+· Ad-free.
+ 
+With the Termius Pro plan, you can also:
+ 
+· Access your connection settings and credentials from any device anytime with an encrypted cloud vault.
+· No limitations on the number of devices to sync.
+· Run your saved commands on multiple sessions or servers or instantly get them autocompleted in the terminal. 
+· Authenticate using hardware FIDO2 keys.
+· Connect through Proxy and jump servers.
+· Set custom environment variables.
+· Integrate with AWS and DigitalOcean.
+· Protect your credentials with Touch ID or Face ID and your account with two-factor authentication.
+· Keep your keys on your machine with SSH agent forwarding.
+ 
+Termius reinvents the command line experience. We strive to make remote access for admins and engineers a more productive and enjoyable experience. 
+
+Termius Pro Subscription is available through auto-renewable annual or monthly subscriptions (prices vary by region). It attaches to the Termius account to enable access to backup, sync, and all Pro benefits on multiple devices across all platforms supported by Termius. A subscription may be used both for personal and business purposes.
+
+Payment will be charged to your iTunes Account at confirmation of purchase. The subscription will renew automatically. Cancellation of a future subscription may be made up to 24 hours before the end of the trial period. The actual subscription may not be manually canceled before its termination date. Subscriptions may be managed, ​including disabling auto-renew, in the Account Settings after purchase.
+ 
+Please review our privacy policy https://termius.com/privacy_policy.html and terms of use https://termius.com/terms_of_use.html.",2012-08-07T22:26:35Z,2025-11-23T22:12:12Z
+lt,Lithuania,Developer Tools,6026,20,6448362669,NeoServer: SSH Client|Terminal,"Space-Time Transformation Technology Co., Ltd.",https://apps.apple.com/lt/app/neoserver-ssh-client-terminal/id6448362669?uo=4,0.0,0,0,Developer Tools,"NeoServer offers a comprehensive management solution via SSH for servers, NAS, and Linux-based routers on iPhone, iPad, and Mac. Key features include terminal remote connections, multi-server script execution, container management, SFTP file management, and performance data visualization.
+
+Free Features:
+- Supports SFTP browsing, editing, renaming, deleting, viewing file size and permissions, file upload and download.
+- Enables script running, viewing historical records, and batch execution on server groups.
+- Displays server monitoring status, including CPU, memory, disk, and network metrics with widgets.
+- Provides uptime, system load, CPU temperature, CPU model, CPU usage rate, GPU usage, task on GPU.
+- Displays disk IOPS, I/O Wait, read/write speed, total read/write size.
+- Shows network upload/download speed, total upload/download size, network card details, IP binding, network card status.
+- Supports SSH remote connection with enhanced terminal functionality including script initialization, tmux, auto-completion, and double-click tab trigger.
+- Offers process list management with sorting and kill signal functions.
+- Manages Docker/Podman containers, viewing logs, inspection information, and container image management.
+- Includes iOS 17 Widgets.
+- Allows SSH server configuration, including password and key management, jump hosts, and SOCKS5 connections. Supports Wake-on-LAN (WOL).
+- Provides iCloud synchronization (using private iCloud space), FaceID app unlocking.
+- Supports Apple multiplatform: iOS/macOS, iPadOS.
+
+Premium Version:
+- Offers terminal themes and script execution in terminal.
+- Enables advanced container operations: create, restart, stop.
+- Allows SFTP file editing.
+- Supports Socks Proxy and Jump Server.
+- Enhances batch server script execution.
+
+◉ NeoServer is popular among NAS (Synology, TrueNAS, QNAP, FreeNAS) players, self-hosting enthusiasts, website master, AI model researcher, and developers.
+
+◉ NeoServer is best iPhone, iPad alternatives for putty,termux,juicessh
+
+◉ Feedback and issues contact: h2eros.z@gmail.com.
+
+◉ Data Privacy:
+
+All data is stored on your device. NeoServer does not transmit data over the network to any servers outside of your configured servers, nor does it engage in any third-party statistics or advertising connections.
+
+Privacy Policy: https://www.playshare.cc/en/doc/neoserver-privacy.html
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2023-05-08T07:00:00Z,2025-11-15T04:44:41Z
+lt,Lithuania,Developer Tools,6026,21,6444399635,Python Coding Editor & IDE App,Cloudbit d.o.o.,https://apps.apple.com/lt/app/python-coding-editor-ide-app/id6444399635?uo=4,0.0,4.5,20,Developer Tools,"Run Python code and learn Python on your mobile Device.
+Become a Pythonista with this AI powered mobile programming editor.
+
+Python coding on your mobile phone.
+You can run, execute, and evaluate Python code, scripts, and programs from this app. 
+Python 3 interpreter and compiler on your device.
+
+Write functions, and classes and import modules from the Standard Library.
+Run your scripts and programs with a single tap, and see the output in a console window.
+Built-in AI Assistance, whenever you get an error in your code, AI can suggest how to resolve it.
+AI Assistant can refactor your code, clean it up, check it for bugs, write comments and docstrings or just explain it.
+
+Built in Debugger! Find bugs by stepping through your code line by line.
+
+Lightweight app with full code syntax highlighting, error checking, and code completion, just like a real Python IDE.
+This is the perfect app for anyone who wants to learn Python and write Python code.
+
+Elevate your Python skills with built-in coding challenges, solve them to practice and learn Python, and enhance your programming and problem-solving skills. New coding problems are added regularly.
+
+Learn Python with the official tutorial.
+Read the official Standard Library documentation from the app.
+Learn about data types, functions, classes, and programming constructs.
+
+Edit your code with a full-featured code editor that supports code syntax highlighting, undo and redo, opening files, themes, colors, and fonts.
+
+Test your programming knowledge, the coding editor will tell you if you are writing valid code.
+
+Whether you are a beginner or a professional, this app will help you improve your Python programming skills. Use this coding editor to become a Pythonista and a better developer.
+
+Note that certain features are available only with the developer upgrade.",2022-11-16T08:00:00Z,2025-11-05T06:22:03Z
+lt,Lithuania,Developer Tools,6026,22,6475089549,Matter Utilities,DIGITAL FORTRESS COMPANY LIMITED,https://apps.apple.com/lt/app/matter-utilities/id6475089549?uo=4,0.0,0,0,Developer Tools,"This tool is designed to help developers test and interact with their Matter devices during development. With this app, you can easily scan for nearby Matter devices, connect using a QR or manual setup code, and access detailed device information. Additionally, you can test core Matter Clusters provided by the app or work with custom Clusters for more advanced functionality.
+
+Privacy Policy: https://df.technology/matter-utilities/privacy-policy
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2024-01-11T08:00:00Z,2025-11-18T01:45:35Z
+lt,Lithuania,Developer Tools,6026,23,6740740427,Vercel Client Mobile — Rev,FF Vision SRL,https://apps.apple.com/lt/app/vercel-client-mobile-rev/id6740740427?uo=4,0.0,0,0,Developer Tools,"Manage your Vercel projects and much more. Bring your indie hacking journey everywhere you go with Rev!
+
+▲ PROJECTS
+- Most Recent Projects at a glance
+- Browse All Projects on your team(s)
+
+▲ DEPLOYMENTS
+- Actions: Re-deploy, Promote, Rollback, and Cancel
+- Distinguish the Current Live Deployment
+- View Build Logs, Outputs, Source File Inputs and Functions
+- Assigned Domains for Deployment (branch & commit specific)
+
+▲ DOMAINS
+- Actions: Add and Remove
+- Domain Configuration Status (Valid/Invalid)
+- Redirect Details
+- Tap to copy for DNS details
+
+▲ LOGS
+- Build Logs in real time
+- Function & Request Logs for any Project
+- Expand Log Details
+- Filters Galore
+
+▲ OBSERVABILITY & FIREWALL
+- Keep an eye on activity
+- Respond to anomalies immediately
+
+▲ ENVIRONMENT
+- Add or Remove Env Variables
+- Edit Environment Variables 
+
+
+That’s it folks!
+
+This text isn't gonna get any more interesting. I mean, I think we've pretty much covered all the good stuff. Still here? Ummmm, ok. How's everything? Good? Cool cool cool. 
+
+What are you looking for? The app description is over. For real, check out the app. It's way better than hanging out in the App Store this long.
+
+Wow, you're dedicated. Do you just love app descriptions? Weird. OK, we're gonna go now. Bye.
+
+
+NOTICE & ACKNOWLEDGMENT
+1. API tokens are stored locally on your device, and never leave it.
+2. Rev is OSS (Open Source Software), feel free to open an Issue or PR at github.com/revcel/revcel
+3. This is not a replacement for the Vercel website. Certain actions, such as creating new projects, should be done directly in the web dashboard.
+
+
+© FarFetched 2025. All trademarks and copyrights belong to their respective owners.",2025-02-20T08:00:00Z,2025-11-17T10:01:23Z
+lt,Lithuania,Developer Tools,6026,24,1447489375,Koder Code Editor,Reny Mustika,https://apps.apple.com/lt/app/koder-code-editor/id1447489375?uo=4,0.0,4.58333,12,Developer Tools,"""Koder for iPad: Nerds Rejoice! You Can Code on Your iPad""
+-- GIZMODO / App of the day --
+
+""Koder’s simple yet efficient interface is designed for touch editing. At just $5.99, you get an editor with a well-designed interface at a great price. If you want to code with your trusty iPad, then Koder is for you.""
+-- AppAdvice --
+
+""An accomplished code editor for many programming languages""
+-- 148Apps --
+
+""Editing code on your iPad should never be that difficult again""
+--KillerStartups--
+
+""The developers at iCodeLabs have done a great job optimizing the iPad’s real estate for code editing""
+--theiphoneappreview--
+
+""The app for instant project creation and code editing, perfect for developers and programmers on the go.""
+--tipsfortablets--
+
+-- Koder was listed on the App Store as a 'Staff Favorites' in 82 countries --
+
+Koder is a code editor for iPad and iPhone. It does have many features including syntax highlighting, snippet manager, tabbed editing, find and replace code, editor theme, remote and local files connections, and many more.
+With Koder you can code anytime and anywhere, no matter if you're at your desk or while on the go
+
+Features:
+
+- Syntax Highlighting ( Supports more than 80 languages : actionscript, actionscript3, active4d, ada, ampl, apache, applescript, asm-mips, asm-x86, asp-js, asp-vb, aspdotnet-cs, aspdotnet-vb, awk, batch, c, cobol, coffeescript, coldfusion, cpp, csharp, csound, css, d, dylan, eiffel, erl, eztpl, elixir, fortran, freefem, gedcom, gnuassembler, haskell, header, html, idl, java, javafx, javascript, jsp, latex, less, lilypond, lisp, logtalk, lsl, lua, markdown, matlab, mel, metapost, metaslang, mysql, nemerle, none, nrnhoc, objectivec, objectivecaml, ox, pascal, pdf, perl, php, plist, postscript, powershell, prolog, python, r, rhtml, ruby, sass, scala, sgml, shell, sml, sql, standard, stata, supercollider, tcltk, torquescript, udo, vb, verilog, vhdl, xml  )
+- Code Autocomplete
+- Code Function list
+- Access and Manage your Dropbox, (S)FTP, webdav and local files easily
+- Built In Terminal (SSH Client)
+- Tabbed editing
+- Extra Keyboard with Custom Key (Snippet)
+- Document Picker Support to open/import/export other app files from/to Koder
+- Find and replace code
+- Previewer Browser with View Source function 
+- Editor theme with Custom Theme Editor
+- Extra Key / Additional Keys on Virtual Keyboard with open+close brackets keys
+- Screen-Lock, Manual and Auto Lock
+- Extracting Zip File on Local project
+- Sophisticated File Browser
+- iOS ""Open In"" support, from Koder to other app - vice versa
+- Change file/folder permission (CHMOD) on FTP/SFTP projects
+- Folder Synchronization between Local Project and FTP Project
+- Uploading files from desktop from browser or iTunes sharing
+- Expandable editing space
+- Bluetooth Keyboard Support
+- and many more …
+- Support multitasking for iPad
+- Support editing files from Working Copy using drag and drop
+
+NEWEST
+- Support Dark Theme
+- Compatibility with iOS 13
+
+BUG REPORT/ PROBLEMS/ IDEAS :
+If you have  any problems when using Koder, or you have ideas for Koder improvement, please mention us  or  message us directly  at twiter @koderapp",2018-12-23T00:13:28Z,2022-04-19T17:39:08Z
+lt,Lithuania,Developer Tools,6026,25,1563852783,Resolutioner,"Sun Apps, LLC",https://apps.apple.com/lt/app/resolutioner/id1563852783?uo=4,0.0,3,2,Developer Tools,"Resolutioner is a simple utility app for calculating resolutions, aspect ratios, and saving resolutions for future reference.
+
+The resolution calculator helps you to calculate a resolution by filling in the other side, according to your set ratio. Editing the set ratio is as simple as a tap, too. When choosing your scale, you can either put in a standard fraction like 16:9, or put in a resolution you want to scale up or down while keeping the same aspect.
+
+And when you've got a resolution you want to save, just tap Add Preset to save it with a custom name. You can edit your presets at any time.
+
+Resolutioner supports iPhone, iPad, and Mac. All of your saved presets sync over iCloud, too.",2021-05-11T07:00:00Z,2021-05-12T04:27:49Z

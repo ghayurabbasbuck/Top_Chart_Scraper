@@ -1,0 +1,660 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+mn,Mongolia,Medical,6020,1,375279377,The건강보험,National Health Insurance  Corporation,https://apps.apple.com/mn/app/the%EA%B1%B4%EA%B0%95%EB%B3%B4%ED%97%98/id375279377?uo=4,0.0,5,2,Medical,"더 건강한 국민의 삶을 위해 모바일로 편리하게 민원서비스를 이용하세요.
+
+1. 민원여기요
+- 자격득실확인서, 보험료 납부확인서 등 증명서 5종을 제출기관에 팩스로 보낼 수 있습니다.
+- 보험료 조회·납부, 환급금 조회·신청,  진료받은 내용 보기 등의 서비스를 이용하실 수 있습니다.
+
+2. 건강모아
+- 나와 가족(영유아)의 건강검진, 진료 및 투약내역 등의 정보를 확인할 수 있습니다.
+- 건강검진 결과를 기반으로 건강나이 및 질병발생 위험을 예측할 수 있습니다.
+- 혈압, 혈당 등을 직접 기록하거나 기기연동으로 꾸준히 건강을 관리할 수 있습니다.
+
+3. 장기요양보험
+- 장기요양 인정신청, 등급판정결과, 재가급여 서비스 이용 내역 확인 등 다양한 장기요양 민원서비스를 이용할 수 있습니다.
+
+4. 고객센터
+- 문의, 불편사항을 해결할 수 있도록 상담 글 등록, 채팅상담, 청각·언어 장애인을 위한 수어 상담 서비스를 이용할 수 있습니다.
+- 국민 중심의 공단을 만들어가기 위하여 국민제안, 국민토론방을 운영하고 있습니다.
+- 국민건강보험의 효율적인 예산 운용 및 절감을 위한 신고/제안 및 부당 청구한 요양기관·장기요양기관을 신고할 수 있습니다.
+
+5. 기타
+- 공동, 금융, 민간, 건강보험 인증서 등 8종의 다양한 로그인 방식으로 이용할 수 있습니다.
+- 제증명서 발급화면으로 바로갈 수 있는 퀵액션 기능을 이용할 수 있습니다.
+앱 접근 권한 안내
+[선택]
+미 동의 시에도 The건강보험 앱 서비스를 이용할 수 있으나 일부서비스의 이용이 제한될 수 있습니다.
+- 저장공간: 사진, 미디어, 파일 접근 권한으로 인증서를 보관하고 보안강화를 위한 OS변조 여부 체크에 사용합니다.
+- 위치: 병의원 찾기, 지사 찾기 등 주변 정보 검색 시 사용합니다.
+- 마이크: 수어상담 연결, 음성검색을 위해 사용합니다.
+- 카메라: 수어상담 연결을 위해 사용합니다.
+- 블루투스: 혈압, 혈당, 걸음 수 데이터를 등록하기 위해 사용합니다.
+- 생체인식: 간편 로그인을 위해 사용합니다.
+- 모션인식: 걸음 수 데이터 측정을 위해 사용합니다.
+
+
+
+- 홈페이지: https://www.nhis.or.kr
+- 페이스북: https://www.facebook.com/nhis.korea
+- 인스타그램: https://www.instargram.com/nhis_korea
+- 네이버 블로그: https://blog.naver..com/nhicblog",2012-06-02T22:37:44Z,2025-11-17T08:14:16Z
+mn,Mongolia,Medical,6020,2,898263235,BoneBox™ - Dental Lite,"iSO-FORM, LLC",https://apps.apple.com/mn/app/bonebox-dental-lite/id898263235?uo=4,0.0,0,0,Medical,"BoneBox™ - Dental Lite is the pocket-sized iPhone version of our BoneBox ™ - Dental iPad app. This real-time 3D medical education and patient communication tool, featuring incredibly detailed anatomical models of the human dental anatomy. It is a member of a series of apps developed by a team of anatomists, certified medical illustrators, animators, and programmers using actual human CT imaging data, and the most accurate 3D modeling technology available.
+The BoneBox™- Dental Lite is appropriate for use by secondary students, undergraduate and graduate students, and medical professionals.
+
+Interaction with BoneBox™ - Dental Lite utilizes true real-time 3D so the user can place the highly realistic detailed dental anatomy in any position and zoom in to explore all of the anatomical structures. By using the interactive quizzing feature the user will be tested on their knowledge of the human dental anatomy. The user is presented with a random tooth and given 4 multiple choice answers to pick from. 
+
+For additional features and functionality download the BoneBox™ - Dental for iPad.",2014-07-20T04:57:19Z,2024-09-25T20:24:15Z
+mn,Mongolia,Medical,6020,3,6754254732,HPoint,Health Point,https://apps.apple.com/mn/app/hpoint/id6754254732?uo=4,0.0,5,2,Medical,"HP Онооны апп нь эмээ уухаа мартдаг, урамшууллаа хянахад төвөгтэй байдаг хэрэглэгчдэд зориулсан ухаалаг шийдэл юм.
+Та HP апп-аар дамжуулан Health point бүх эмийн сангийн байршлыг харах, эм уух цагийн сануулга авах, оноо цуглуулж дараагийн худалдан авалтдаа ашиглах зэрэг эрүүл мэнд ба хэмнэлтийн цогц туршлага бий болгоно.",2025-10-23T07:00:00Z,2025-11-03T10:11:03Z
+mn,Mongolia,Medical,6020,4,577709142,Pediatric OnCall,Pediatric Oncall Private Limited,https://apps.apple.com/mn/app/pediatric-oncall/id577709142?uo=4,0.0,0,0,Medical,"Pediatric Oncall app provides to you healthcare professionals all the basic and daily needed important tools!!! 
+All App features are completely free! However users are required to login for complete access!
+App Tools:
+Diseases and Conditions, Medical Calculators, Drug and Poisoning Centre, MCQ Quiz, Ask a Doctor, Drug Interaction calculator, Search Directory, Image Gallery, Teaching Files, Conference and CME Centre, Vaccination Centre, Diagnostic Centre, Question of the Day, Pedi Poll, Video Podcasts and Newsletter Updates
+This App is connected to www.PediatricOncall.com which is a medical website with over 40 tools for medical personnel and also medical information on pediatrics, symptoms, medicine and child health. Register yourself to Pediatric Oncall and access all these features.
+-- Diseases and Conditions – Introduction, Presentation, Investigations, Treatment, Complications and Patient Education on topics.
+-- Medical Calculators -- more than 45 calculators which include the categories, growth, conversion, Renal conversions, Pregnancy, Critical Care, Drug Dosage, Diarrhea Solution, Blood Reference, etc.
+-- Drug and Poisoning Center -- latest updated drugs from A-Z with their Mechanism, Indication, Dosage, Adverse Effects, etc.
+-- MCQ Quiz -- Practice MCQ’s to test your knowledge on different topics.
+-- Ask a Doctor -- Pediatric Oncall’s expert panel of doctor’s answer to your medical queries and common FAQ’s.
+-- Drug Interaction calculator -- Quick checker for Interactions.
+-- Search Directory – Hospitals, Medical Colleges, Residency, NGO and Special Schools.
+-- Image Gallery and Teaching Files are part of Pediatric Oncall Journal which is updated with each issue new questions.
+-- Conference and CME Center -- Upcoming Events List and Conference Abstracts.
+-- Vaccination Center -- Articles on Immunization & Vaccine Reminder Tool to keep track of your child’s vaccination history with reminders.
+-- Diagnostic Center -- Get a differential diagnosis after entering the clinical features.
+-- Question of the Day & Pedi Poll -- Discussions and reviews on the recent updates.
+-- Video Podcasts -- Pediatric Oncall’s video section with lectures and conference videos.
+-- Newsletter Updates -- Updates on new articles.
+
+
+For any queries, suggestions and feedback you can mail to us at feedback@pediatriconcall.com
+*Data services are required to access most sections of the application.",2012-11-16T00:54:21Z,2025-11-18T17:13:55Z
+mn,Mongolia,Medical,6020,5,1034069206,Anatomy 3D Atlas,Catfish Animation Studio S.r.l.,https://apps.apple.com/mn/app/anatomy-3d-atlas/id1034069206?uo=4,0.0,4.5,6,Medical,"This app is freely downloadable, however in-app purchase is required to unlock the contents. 
+The complete Skeletal System and a few other contents are always freely accessible enabling you to try the app properly.
+
+""Anatomy 3D Atlas"" allows you to study human anatomy in an easy and interactive way. 
+Through a simple and intuitive interface it is possible to observe every anatomical structure from any angle.
+The anatomical 3D models are particularly detailed and with textures up to 4k resolution.
+
+The subdivision by regions and the predefined views facilitate the observation and the study of single parts or groups of systems and the relationships between different organs.
+
+""Anatomy - 3D Atlas"" is an application aimed at medical students, doctors, physiotherapists, paramedics, nurses, athletic trainers and in anyone interested in deepening their knowledge of human anatomy.
+This app is a fantastic tool to complement classic human anatomy books.
+
+ANATOMICAL 3D MODELS
+• Musculoskeletal system
+• Cardiovascular system
+• Nervous system
+• Respiratory System
+• Digestive System
+• Urogenital system (male and female)
+• Endocrine system
+• Lymphatic system
+• Eye and ear system
+
+FEATURES
+• Simple and intuitive interface
+• Rotate and zoom each model in 3D space
+• Option to hide or isolate single or multiple selected models
+• Filter to hide or display each system
+• Search function to easily find every anatomical part
+• Bookmark function to save custom views
+• Smart rotation which moves the center of rotation automatically
+• Transparency function
+• Visualization of muscles through levels of layers from the superficial ones down to the deepest ones
+• By selecting a model or a pin, the related anatomical term shows up
+• Description of the muscles: origin, insertion, innervation and action
+• Show/Hide UI interface (very useful with small screens)
+
+MULTILINGUAL
+• The anatomical terms and the user interface are available in 12 languages: Latin, English, French, German, Italian, Portuguese, Russian, Spanish, Chinese, Japanese, Korean and Turkish
+• The anatomical terms can be displayed in two languages simultaneously",2015-09-16T05:59:16Z,2025-03-20T23:46:31Z
+mn,Mongolia,Medical,6020,6,505864483,Pregnancy + | Tracker App,Philips Digital UK Limited,https://apps.apple.com/mn/app/pregnancy-tracker-app/id505864483?uo=4,0.0,4.83495,103,Medical,"Download the world's leading pregnancy tracker app today, for free week-by-week pregnancy information and articles!
+
+The Pregnancy+ app features expert advice, daily articles, healthcare tips and interactive 3D models so you can track your baby's development. Our pregnancy app has been downloaded over 80 million times by expecting families. Join our worldwide community today! 
+
+Baby Development
+► Unique, interactive 3D models showing your baby's development 
+► Baby Size Guide helps you visualise your baby's size in fruits, animals & sweets
+► Pregnancy Week-by-Week Guides explain what to expect in each pregnancy week
+► Simple & informative Pregnancy Timeline highlighting important milestones
+
+Pregnancy Guides & Information
+► In-depth Pregnancy Guides covering breastfeeding, exercise, food, twins & more 
+► Daily Pregnancy Articles, tailored to your pregnancy stage
+► 2D & 3D Scans by pregnancy week for you to browse
+► Daily Blog Posts with tips, tricks & helpful advice
+► Upload photos in My Bump to create a visual pregnancy diary
+
+Pregnancy Tools
+► Pregnancy Due Date Calculator helps you work out when your bundle will arrive
+► Kick Counter tracks your baby's movements & activity
+► Pregnancy Weight Log helps you keep an eye on changes in your weight
+► Contraction Timer measures contractions throughout your labour
+
+Organise & Plan
+► Pregnancy Calendar enables you to plan & document your prenatal appointments
+► Hospital Bag helps you prepare your hospital visit, for Mother, Birth Partner & Baby
+► Birth Plan allows you to customise, organise & export your needs & wishes
+► To-Do List & Baby Shopping List for ideas of what you need to do & buy
+► Search thousands of Baby Names for inspiration & share your favourites
+
+Our EXCLUSIVE 3D Models
+Enjoy our unique 3D models showing your pregnancy's week-by-week development, from blastocyst to foetus to baby. Our 3D models truly help you to connect with the baby growing inside you. 
+► Choose from multiple ethnicities
+► Zoom in or out & rotate to see the baby's intricate detail
+► Watch guided pregnancy week-by-week walk-throughs
+► Tap to see baby movements
+
+Pregnancy Articles & Guides
+If you're feeling overwhelmed by all the advice out there, don't worry. Our Pregnancy + tracker app will guide you through your pregnancy, week-by-week, keeping you up to date with your baby's development and helping you stay healthy through pregnancy and beyond. The Pregnancy+ app content is written in-house, with the help of medical experts, lactation consultants, midwives and, of course, parents.
+
+Share your journey with friends & family
+Our pregnancy tracker app can be personalised so your partner, future grandparents or best friend can join in the fun and follow your baby's development in the womb, from bump to birth! Keep everyone up to date with your pregnancy by inviting them to download the app today.
+
+Follow us on Social Media
+Facebook: facebook.com/PregnancyPlusApp
+Instagram: @pregnancyplus
+
+◆ Download Pregnancy+ App today ◆
+
+Privacy Policy
+https://info.philips-digital.com/PrivacyNotice?locale=en&country=GB
+
+Terms of Use
+https://info.philips-digital.com/TermsOfUse?locale=en&country=GB
+
+This app is not intended for medical use, or to replace the advice of a trained medical doctor. Philips Consumer Lifestyle B.V. disclaims any liability for the decisions you make based on this information, which is provided to you on a general information basis only and not as a substitute for personalised medical advice. If you have any concerns about your pregnancy, consult with your doctor or midwife.
+
+The Pregnancy + tracker app wishes you a healthy, full-term pregnancy and a safe delivery.",2012-06-01T14:16:26Z,2025-11-13T14:20:55Z
+mn,Mongolia,Medical,6020,7,519076558,Blood Pressure Monitor SmartBP,"Evolve Medical Systems, LLC",https://apps.apple.com/mn/app/blood-pressure-monitor-smartbp/id519076558?uo=4,0.0,4.76842,95,Medical,"SmartBP® is a digital blood pressure app that empowers you to record, observe, assess, and share your blood pressure reports utilising iOS devices and the Apple Watch. Moreover, SmartBP interfaces with Apple Health, providing your health data at your fingertips, and enabling you to be proactive in your own wellbeing. For those grappling with prehypertension or hypertension, SmartBP can aid in tracking progress, spotting trends, and managing all your blood pressure and heart measurements, with the ultimate goal of improving your overall cardiovascular health and blood pressure. SmartBP is a more intelligent way to handle your blood pressure readings and track your improvement.
+
+Disclaimer:
+
+- SmartBP permits you to log, track, and evaluate trends in your blood pressure. You can manually input your readings or use a blood pressure monitor to synchronise with SmartBP through Apple Health. SmartBP in itself does not measure blood pressure. A separate blood pressure monitor is required for this.
+
+- SmartBP is NOT a replacement for a doctor or professional healthcare or advice. Any health-related information provided is for informational purposes only and should not be used to substitute the advice of healthcare professionals.
+
+- SmartBP Cloud Sync is not a replacement for backing up your health data. While we strive for the highest data security, no measures can ensure 100% protection. Regular data backups are the user's responsibility.
+
+For guidance on how to use the app, visit our website
+
+Video: www.smartbp.app
+FAQ: www.smartbp.app/faq
+
+Features-
+
+- Log your systolic and diastolic blood pressure, pulse rate and weight. Body mass index (BMI), pulse pressure (PP) and mean arterial pressure (MAP) are automatically calculated. Either manually enter measurements or effortlessly sync them with a supported Bluetooth BP monitor.
+
+- Swiftly add notes (e.g. before dinner) and measurement details (e.g. sitting, left arm) utilising tags.
+
+- Store and access all your blood pressure readings anywhere and anytime using Apple HealthKit. Sidestep manual data entry and reduce mistakes by auto-uploading blood pressure readings to HealthKit by auto-syncing with SmartBP. The following Blood Pressure Monitors can link to HealthKit (check for compatibility with different models):
+
+A&D
+Omron
+Beurer
+Braun
+Withings
+
+- Share your blood pressure information with your doctor, healthcare provider or family using email, text message (SMS), Apple HealthKit. Create blood pressure reports in PDF format with blood pressure data, graphs and statistics and share with your GP or healthcare provider.
+
+- View a 7, 14, 30-day summary grouped by daily morning/afternoon averages and tags. Create, share and print summary PDF reports and CSV files.
+
+- Print PDF reports or graphs directly
+
+- Analyse your progress through clear graphs and statistics (including mean and variability). Filter data using tags to assess lifestyle changes or medication effectiveness. Compare tagged graphs side by side and observe systolic vs. diastolic blood pressure correlations.
+
+- Track your Heart Rate trends
+
+- Sync ECG records
+
+- Back up your health data and access it on all your mobile devices with SmartBP Cloud.  This is an optional service. We do not sell your health data.
+
+- Sync directly between iPhone and iPad through Bluetooth or WiFi without sharing on the cloud.
+
+- Back up blood pressure data by exporting to Dropbox, and Drive, or import from CSV files into the app.
+
+- Protect your data with TouchID, FaceID or Pin keypad protection.
+
+- Set medication reminders & track effectiveness.
+
+- Intuitive colour coded data to identify normal, prehypertensive, stage I and II hypertension. These limits can be modified. Categorise your records based on 2017 ACA/AHA, 2023 ESC/ESH or create your own custom categories.
+
+- Create multiple user profiles and manage them from a single app/device.
+
+- Both US and international height and weight units are supported.",2012-06-28T17:07:02Z,2025-11-19T18:47:01Z
+mn,Mongolia,Medical,6020,8,608066898,Period & Fertility Tracker,Anastasia Kovba,https://apps.apple.com/mn/app/period-fertility-tracker/id608066898?uo=4,0.0,4.7619,231,Medical,"The application is based on the scientific research. It helps to determine the fertile days of the month, so you can either achieve or avoid pregnancy. The application uses the date of the last period and shows the date of the next period, the best days to conceive a baby, the ovulation day and when you can avoid pregnancy.
+
+* Scientific Research *
+
+The popular baby gender prediction method is used by default. But it’s based only on the widely-spread theory by Landrum Shettles. The application also supports the scientific baby gender prediction method. It’s based on the scientific research by Rodrigo Guerrero and the statistics of thousands of women.
+
+You can change the gender prediction method on the “Settings” screen. But remember that either gender prediction method shows only slightly higher chances of conceiving a girl or a boy and it never guarantees the result.
+
+* Full Version *
+
+This is the full version of the application. You will be able to see the following data:
+
+- The probability of getting pregnant on the current or on any selected day.
+- The probability of conceiving a girl or a boy using the selected gender prediction method.
+- Chances of getting pregnant during the current period.
+- Chances of conceiving a girl or a boy during the current period.
+
+* How to Use *
+
+To generate the menstrual calendar you have to provide the following data:
+
+- The first day of the last cycle (select the day and use the button “Add”).
+- Average length of the menstrual cycle (adjust it on the “Settings” screen).
+- Length of the luteal phase (most women can use the default value).
+
+The application works best for women with regular menstrual cycle. But average cycle length is also a good way to predict when the ovulation should happen.",2013-07-25T00:43:43Z,2021-05-12T01:09:43Z
+mn,Mongolia,Medical,6020,9,6466264731,LinX CGM,"Micro Tech Medical (Hangzhou) Co., LTD.",https://apps.apple.com/mn/app/linx-cgm/id6466264731?uo=4,0.0,5,4,Medical,"Lin X is an application available on your phone used to receive and display the glucose concentration value and remind when the blood glucose value exceeds the upper or lower limit of the preset blood glucose value. It also has system Settings and other functions to help users analyze and evaluate the glucose reading of the continuous glucose monitoring system and form a report. 
+
+Measuremenrs displayed on LinX cannot be used for the diagnosis and screening of diabetes. If users need help, please advise with professions for further medical assistance.
+
+
+Note: 
+The compatible medical hardware is available in the following countries/regions: Indonesia.",2024-08-11T07:00:00Z,2025-11-04T03:08:44Z
+mn,Mongolia,Medical,6020,10,877303791,Contraction Timer & Counter 9m,Aleksei Neiman,https://apps.apple.com/mn/app/contraction-timer-counter-9m/id877303791?uo=4,0.0,4.86997,1292,Medical,"*** Most downloaded Contraction Timer app in the world! Number 1 in the UK, USA, Australia, Canada, Italy and elsewhere! ***
+
+This is the simplest-to-use contraction timer. The app will help to track your contractions and determine when it's time to go to the hospital.
+If you plan on having a home birth, the app will tell you what stage of labor you are in at any given moment.
+
+Keep track of your labor by tapping a single button at the start and at the end of each contraction. The Contraction Timer analyzes the duration and frequency of contractions and will notify you when it's time to go to the hospital.
+
+Thousands of pregnant women around the world have become mothers using our app.
+
+Always consult your doctor to orient yourself in terms of contraction frequency and duration.
+This app is not a medical device and our recomendations are based on standard indicators. Your labor may occur differently. Therefore, do not rely exclusively on our app.
+If the duration and frequency of contractions do not yet correspond to the necessary indicators but labor pains become unbearable, it is better to go to the hospital as soon as possible rather than give birth at home or on the way there. Trust what your body is telling you.
+
+If you have any questions or suggestions, please email us at neumandev@gmail.com. Your feedback is very important to us.",2014-07-20T03:35:07Z,2025-06-22T09:11:31Z
+mn,Mongolia,Medical,6020,11,1495837633,Химийн бодисын хор аюулын лавл,Information Technology Center of Social Insurance General Office Mongolia,https://apps.apple.com/mn/app/%D1%85%D0%B8%D0%BC%D0%B8%D0%B9%D0%BD-%D0%B1%D0%BE%D0%B4%D0%B8%D1%81%D1%8B%D0%BD-%D1%85%D0%BE%D1%80-%D0%B0%D1%8E%D1%83%D0%BB%D1%8B%D0%BD-%D0%BB%D0%B0%D0%B2%D0%BB/id1495837633?uo=4,0.0,4,2,Medical,"Бүх химийн бодисууд үл мэдэгдэх аюул учруулж болзошгүй тул болгоомжтой харьцаж хэрэглэх хэрэгтэй. Хэрэв энэ бодисыг бусад материалтай хольж, муудах эсвэл бохирдох тохиолдолд Хор Аюулын Лавлах Мэдээлэл (ХАЛМ)-д тусгаагүй аюулыг учруулж болзошгүй. Энэхүү бодисын физик шинж чанарыг интернетээс түүвэрлэн орчуулсан болно. Энд агуулагдсан мэдээлэл нь бодисын аюулгүй байдал, худалдаалах чадвар, эсхүл тодорхой зориулалтаар ашиглахад тохирох баталгаатай биш юм. Аливаа патент, зохиогчийн эрх эсвэл барааны тэмдгийг зөрчихөөс урьдчилан сэргийлэх баталгаа гаргахгүй. Хэрэглэх бодит нөхцөлд үндэслэн зохих ёсоор химийн бодистой харьцах арга, хувийн хамгаалах хэрэгслийг сонгох нь хэрэглэгчийн үүрэг юм. Энэхүү ХАЛМ нь найдвартай гэж үзсэн техникийн мэдээлэл дээр үндэслэсэн боловч Хөдөлмөрийн Аюулгүй Байдал Эрүүл Мэндийн Төв (ХАБЭМТ) нь мэдээллийн бүрэн, үнэн зөв байдлыг хариуцахгүй.",2020-01-23T08:00:00Z,2020-01-23T22:08:14Z
+mn,Mongolia,Medical,6020,12,1439446129,WHO Contraception tool,RC DIGITAL LTD OOD,https://apps.apple.com/mn/app/who-contraception-tool/id1439446129?uo=4,0.0,0,0,Medical,"This tool is the digital version of the MEC Wheel. It contains the medical eligibility criteria for starting use of contraceptive methods, based on Medical Eligibility Criteria for Contraceptive Use, 5th edition (2015), one of WHO’s evidence-based guidelines. It guides family planning providers in recommending safe and effective contraception methods for women with medical conditions or medically-relevant characteristics.
+The tool includes recommendations on initiating use of nine common types of contraceptive methods:
+ 
+1. Combined pills, COC (low dose combined oral contraceptives, with ≤ 35 μg ethinyl estradiol)
+2. Combined contraceptive patch, P
+3. Combined contraceptive vaginal ring, CVR
+4. Combined injectable contraceptives, CIC
+5. Progestogen-only pills, POP
+6. Progestogen-only injectables, DMPA (IM,SC)/NET-EN (depot medroxyprogesterone acetate intramuscular or subcutaneous or norethisterone enantate intramuscular)
+7. Progestogen-only implants, LNG/ETG (levonorgestrel or etonogestrel)
+8. Levonorgestrel-releasing intrauterine device, LNG-IUD
+9. Copper-bearing intrauterine device, Cu-IUD",2018-11-08T16:26:06Z,2023-12-06T11:30:40Z
+mn,Mongolia,Medical,6020,13,1001640662,MDCalc Medical Calculator,"MDCalc Ltd., Inc.",https://apps.apple.com/mn/app/mdcalc-medical-calculator/id1001640662?uo=4,0.0,4.94444,54,Medical,"MDCalc is the leading clinical decision support app providing 900+ evidence-based calculators, risk scores, and clinical tools to support patient care at the bedside. MDCalc has been trusted by millions of clinicians since 2005.
+
+Why Clinicians Choose MDCalc:
+
+• Created by Physicians, for Physicians - All tools developed and validated by board-certified physicians  
+• 900+ Clinical Tools - Risk scores, algorithms, dosing calculators, and more with consistent updates and new tools added regularly 
+• Works Offline - Full functionality without internet connection  
+• Evidence-Based - Every tool includes research validation and expert commentary  
+• CME Tracking - Earn CME just by reading through the clinical content surrounding many of our tools
+• Free Registration - Complete access in under 30 seconds  
+
+Key Features:
+
+Smart Search & Organization
+• Quick search across all tools
+• Customizable favorites and specialty lists
+• Recently used tools for quick access
+• Auto-sync between web and mobile
+• Explore page for personalized suggestions
+
+Clinical Expertise
+• Expert insights from creators
+• Pearls & pitfalls from specialists
+• Evidence summaries with PubMed links
+• Error warnings and normal value ranges
+
+Workflow Support
+• Toggle between US and SI units instantly
+• Works in limited connectivity settings
+• Easy to use at the point-of-care
+
+Popular Tools Include:
+• Creatinine Clearance - Cockcroft-Gault Equation
+• HA2DS2-VASc Score - Atrial Fibrillation Stroke Risk
+• HEART Score- Major Cardiac Events
+• Wells' Criteria - Pulmonary Embolism & DVT
+• MELD Score - End-Stage Liver Disease
+• HAS-BLED Score - Major Bleeding Risk
+• SIRS/Sepsis Criteria - Septic Shock Assessment
+• Mean Arterial Pressure - Hemodynamic Monitoring
+
+
+MDCalc ensures only the highest-quality, clinically relevant tools make it into the app. Each calculator undergoes rigorous evidence appraisal and validation by our network of academic and practicing physician experts.",2016-03-07T03:07:02Z,2025-10-21T17:37:56Z
+mn,Mongolia,Medical,6020,14,1516844582,Body Temperature App For Fever,"AboutMe Apps, Inc.",https://apps.apple.com/mn/app/body-temperature-app-for-fever/id1516844582?uo=4,0.0,4.95122,41,Medical,"Estimate your body temperature, log and track your data, making it easier to spot potential fever symptoms—all without a thermometer!
+
+Knowing your temperature is crucial for maintaining well-being and taking the best care of yourself, so stay proactive about your health by monitoring your body temperature with our app. With just a few simple steps on your mobile device,  you can track your body temperature trends and take proactive steps towards your health goals.
+
+
+But wait – there's more: 
+
+• Find out, track and log your body temperature with ease.
+
+• Log and easily export your body temperature data and more into PDF to share with your doctor.
+
+• Easily measure wrist temperature with the Apple Watch app and save your data in our app. (requires Apple Watch 8 or newer)
+
+• Use your phone’s camera to estimate your heart rate and then easily log your data afterward.
+
+• Track, log, and export your symptoms and medications effortlessly.
+
+• Monitor the heat index based on location to safeguard yourself against heat-related conditions that could pose health risks.
+
+• Add family members and monitor the body temperature of each.
+
+• Discover how weather conditions can influence your body temperature using our widget.
+
+
+Whether you're at home or on the go, managing your health has never been easier.
+
+The Body Temperature App for Fever is free to download and utilize. However, users can opt for a subscription to access additional features. Your subscription will automatically renew and you’ll be billed based on the plan you choose. You can cancel your subscription at any time in the App Store.
+
+Disclaimer: For wellness use only. The App is intended to improve your awareness of general wellness. The App can't be used for diagnostics or medical purposes. The App does not diagnose, treat, mitigate or prevent any disease, symptom, disorder or abnormal physical state. Always seek a health care professional or emergency services if you believe you may have a medical issue.
+
+Terms of use: https://aboutmeapps.com/terms-of-use/
+
+Privacy policy: https://aboutmeapps.com/privacy-policy/",2020-06-07T07:00:00Z,2025-11-20T21:23:16Z
+mn,Mongolia,Medical,6020,15,1309253074,Complete Anatomy for iPhone,3D4Medical.com,https://apps.apple.com/mn/app/complete-anatomy-for-iphone/id1309253074?uo=4,0.0,5,1,Medical,"***THE WORLD’S LEADING 3D ANATOMY PLATFORM! TRY IT FOR FREE TODAY***
+
+COMPLETE ANATOMY: A 3D ANATOMY JOURNEY POWERFULLY TAILORED TO YOU
+
+A flexible, inclusive and personalized learning platform that uses the visual power of incredibly detailed 3D models to make anatomy easier to understand.
+
+FREE DOWNLOAD: Create an account for a FREE 3-day trial of premium features and content.
+Access Complete Anatomy from ALL your compatible devices with a single annual subscription.
+
+Experience the BEST anatomy platform available today:
+
+THE MOST DETAILED AND COMPLETE human anatomy models, with thousands of individual interactive structures, including a living, beating, dissectible human heart in full 3D
+
+UNIQUE MODEL CUSTOMISATION allowing you to personalise your anatomy model based on your preferences
+
+Atlas of over 700 Screens, based on illustrations from Elsevier's foremost anatomy textbooks
+
+Complete courses, including Female Anatomy presented by Alice Roberts, Dissection courses, Human Anatomy, Point of Care Ultrasound, Clinical Correlates & many more
+
+Dynamic Cross-sections, real-time Muscle Motion, Insertion & Origin mapping, Bone Surface & Landmark mapping, 12 layered systems, Nerve Tracer, Blood Supply Tracer
+
+39 stunning Microscopic anatomy models
+
+AR mode including multiuser AR on compatible devices
+
+Over 1,500 clinical videos on Cardiology, Orthopedics, Ophthalmology, Dentistry & Fitness
+
+English, French, German, Spanish and Chinese language support.
+
+TO BE THE BEST, USE THE BEST: Complete Anatomy is recognised as the best by the world's leading colleges & anatomists.
+
+“Complete Anatomy has a wider depth and breadth of offerings than other anatomy platforms currently available (e.g. Primal Pictures, Visible Body) as well as more detail in its models. Other anatomy apps do not offer the ability to share content and have fewer tools with which to dissect and label models”.
+
+- The Journal of the Medical Library Association
+
+“Complete Anatomy is a lifesaver for me. It's helped me pass all my exams, I have it on all my devices and the accuracy is amazing. I love it!”
+
+- Amy Morgan, Medical Student, Trinity College Dublin
+
+“I would definitely recommend this platform for any institution teaching anatomy”
+
+ - Jorgen Olsen, Educator, University of Copenhagen
+
+“I wouldn't be able to deliver my teaching without Complete Anatomy, especially now that most of the teaching is expected to be online”
+
+ - Munesh Khamuani, Educator, University of Birmingham
+
+STUDENT LICENSE includes:
+• Access to 3D models across all available platforms
+• Access to all Courses
+• Access to over 1,500 videos
+• Access to the vast library of curated learning material
+
+PRO LICENSE: all the benefits of the Student License PLUS:
+• A license to use in clinical practice for patient education
+• A license to present/teach in the classroom, lab or lecture theatre
+
+Subscriptions are charged annually & automatically renew unless auto-renew is turned off at least 24-hours before end of the current period. Payment will be charged to iTunes Account at confirmation of purchase. Your iTunes Account will be charged the current annual subscription cost each year for renewal within 24-hours prior to end of current period. You can manage your subscriptions and turn off auto-renewal by going to your iTunes Account Settings any time after purchase. Any free trial will be interrupted when a paid subscription is purchased.
+
+Terms: https://3d4medical.com/terms
+Privacy policy: https://3d4medical.com/privacy-policy
+
+Please contact Customer Support at info@3D4Medical.com with any account/purchase queries before reviewing, we're happy to help!",2017-12-16T09:15:41Z,2025-11-12T14:05:20Z
+mn,Mongolia,Medical,6020,16,1593953398,Anatomy Learning - 3D Anatomy,3DMedical OU,https://apps.apple.com/mn/app/anatomy-learning-3d-anatomy/id1593953398?uo=4,0.0,4.71429,14,Medical,"A true and totally 3D app for studying human anatomy, built on an advanced interactive 3D touch interface.
+
+Features:
+- You can rotate models to any angles and zoom in and out.
+- Remove estructures to reveal the anatomical structures below them.
+- 3D location quizzes to test your knowledge
+- Switch on/off different anatomy systems
+- Both male and female reproductive systems are available
+
+Contents:
+- Bones
+- Ligaments
+- Joints
+- Muscles
+- Circulation (arteries, vein and heart)
+- Central nervous system
+- Peripheral nervous system
+- Sense organs
+- Respiratory
+- Digestive
+- Urinary
+- Reproductive ( both male and female)",2021-11-09T08:00:00Z,2025-11-10T18:33:33Z
+mn,Mongolia,Medical,6020,17,1044437845,Dental Anatomy Mastery,"Higher Learning Technologies, Inc.",https://apps.apple.com/mn/app/dental-anatomy-mastery/id1044437845?uo=4,0.0,5,1,Medical,"Master the tooth morphology and occlusion concepts. Save time and study smarter with a tool designed for your busy life.
+
+REAL USER REVIEWS
+
+“I’ve always struggled with dental anatomy concepts and this gave me the confidence I needed in my classes. I wouldn’t be where I am without the dental anatomy program in Dental Anatomy Mastery. Highly recommend!”
+
+Kristin C.
+
+“Dental anatomy Mastery was a lifesaver in dental school. The best part are the detailed explanations that give you a better understanding of the answers.. It's so valuable, I still use it as a learning tool now that I’m a dentist!”
+
+Alex G.
+
+“As a busy student, I loved that I could study anywhere—standing in line, before bed, and during my downtime at school. I love this study program!”
+
+Jamie D.
+
+---
+PRACTICE QUESTIONS LIKE YOU’LL SEE IN CLASS: 
+---
+• 400+ dental anatomy and occlusion practice test questions
+•  Detailed rationales and high-resolution graphics
+• 100+ dental concepts to help you master concepts in tooth and root development, morphology, and occlusion
+• 40+ tooth morphology practice quiz questions with high-resolution tooth images to test your knowledge of tooth anatomy, eruption, and occlusion
+ 
+---
+DENTAL ANATOMY MASTERY HAS MORE QUESTIONS, QUIZZES, AND METHODS OF STUDY
+---
+• Mnemonics and study tips to help you memorize tough concepts
+• Immediate feedback to track your progress
+
+Study for your dental anatomy class anytime and anywhere, even without internet access!
+
+Get access to all questions when you subscribe to one of our auto-renewing subscriptions: 
+• Monthly payment of $7.99
+• Yearly payment of $14.99
+ 
+-Payment will be charged to iTunes Account at confirmation of purchase
+-Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+-Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+-Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+-Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+-These prices are for United States customers. Pricing in other countries may vary and actual charges may be converted to your local currency depending on the country of residence.
+
+Privacy Policy - http://builtbyhlt.com/privacy
+
+Terms of Conditions - http://builtbyhlt.com/EULA
+
+For any HELP email us at: support@hltcorp.com or call 319-237-7162",2015-11-06T20:47:45Z,2022-11-17T19:58:22Z
+mn,Mongolia,Medical,6020,18,947265034,ORGANS 3D (ANATOMY),Victor Gonzalez Galvan,https://apps.apple.com/mn/app/organs-3d-anatomy/id947265034?uo=4,0.0,5,1,Medical,"This app shows a three-dimensional anatomical model of the main organs of the human body and provides a description of each.
+
+What's included in the app?
+
+* Digestive system: Includes the stomach, small intestine, and large intestine, and an animation of this system.
+* Respiratory system: Includes the trachea, bronchi, and lungs, and an animation of this system.
+* Reproductive system: Includes the male and female reproductive organs.
+* Brain: Includes the cerebrum, cerebellum, and brainstem.
+* Heart: Includes the atria, ventricles, and aorta, and an animation of this organ.
+
+Features:
+* Available languages: English, French, Portuguese, Spanish, Chinese, Hindi, Russian, German, Japanese, and Italian.
+* Easy access and navigation (zoom, 3D rotation).
+* Hide or show information.
+* Compare male and female organs. * Descriptions of each organ.
+
+This app is designed to complement the study of anatomy in various educational, healthcare, and cultural settings.
+
+Practical, useful, and valuable anatomical information at your fingertips.
+
+Download the app today and learn anatomy interactively!",2015-01-21T22:13:31Z,2025-06-05T11:44:01Z
+mn,Mongolia,Medical,6020,19,321367289,Medscape,WebMD Health Corporation,https://apps.apple.com/mn/app/medscape/id321367289?uo=4,0.0,0,0,Medical,"Your Go-To Medical Resource for Immediate Clinical Answers
+
+With Medscape, you get free access to the latest medical news, expert commentary, clinical tools, drug and disease information, CME/CE activities, and more—all in one place.
+
+AI-Driven Solutions to Transform Your Practice
+Scribe: Real-time transcription and summarization of patient visits.
+Dialer: Call patients using your office number from anywhere.
+AI Search: Get instant, expert answers to complex medical questions.
+
+
+Essential Clinical Tools
+450+ medical calculators organized by specialty.
+Drug Interaction Checker, Pill Identifier, and step-by-step procedural videos.
+Up-to-date prescribing and safety info on 9,200+ drugs, herbals, and supplements.
+
+
+Stay Informed & Connected
+The latest FDA approvals, conference news, and clinical trial data.
+Expert insights across 30+ specialties.
+
+
+Medscape Original Podcasts, including This Week in Cardiology.
+Free CME/CE credits & ABIM MOC points with an Activity Tracker.
+Network with peers via Medscape Consult and MedscapeLIVE! events.
+Medscape is the Leading Online Destination for Healthcare Professionals.
+
+Have feedback? Email us at medscapemobile@webmd.net.",2012-06-02T11:51:00Z,2025-11-20T10:08:48Z
+mn,Mongolia,Medical,6020,20,1243499443,Child Metrics,Ergun Konakci,https://apps.apple.com/mn/app/child-metrics/id1243499443?uo=4,0.0,0,0,Medical,"Çocuk Büyümesi ve Gelişimini izlemek ve detaylı hesaplamalar yapılabilmesi amacıyla, sağlık profesyonellerinin kullanımına yönelik medikal hesaplayıcı.",2017-06-02T00:25:14Z,2017-06-02T00:25:14Z
+mn,Mongolia,Medical,6020,21,1280974002,iArrest,Maximilian Neun,https://apps.apple.com/mn/app/iarrest/id1280974002?uo=4,0.0,0,0,Medical,"iArrest was developed to give healthcare professionals a powerful tool to navigate stressful and challenging cardiac arrest calls. Whether as a Paramedic on scene or as a clinician in hospital, this app can assist in running structured and effective adult cardiac arrest scenarios. Developed by clinicians working in large inner city teaching hospitals, this app takes into consideration the most recent Resuscitation Council (UK) Guidelines 2021.
+ 
+It serves as an aide-memoire for basic tasks that can easily be overlooked in stressful scenarios. iArrest also incorporates a number of timers to assist with rhythm analysis, adrenaline timings and arrest documentation. It will remind the user via audible and visual cues about necessary  interventions even if a clinician’s phone is muted. iArrest has been programmed to prevent phones from going into sleep mode, in order to ensure continuous use throughout the arrest.
+ 
+iArrest will record the exact time an important event or an intervention has occurred and present the user with a detailed log of events. These logs can be copied to the clipboard and used for documentation and record keeping.
+
+
+iArrest is currently undergoing extensive testing in simulated and real world scenarios. 
+
+We are continuously improving and expanding on iArrest’s functionality. 
+
+
+
+
+
+Disclaimer:
+iArrest can not replace sound knowledge in Advance Life Support and should not be used by non-ALS trained clinicians. Use this app at your own risk and always use appropriate clinical judgement. Please familiarise yourself with the functionality of this app before using it in real life scenarios. 
+The creators of this app shall not be liable for any claims or losses arising from the use or misuse of this app, its contents, any omissions from its contents, or otherwise. By using this app you agree to these terms and conditions.",2017-09-11T04:00:28Z,2025-05-11T13:40:02Z
+mn,Mongolia,Medical,6020,22,1584939692,Диагрупп. Личный кабинет,"DIAGRUPP, OOO",https://apps.apple.com/mn/app/%D0%B4%D0%B8%D0%B0%D0%B3%D1%80%D1%83%D0%BF%D0%BF-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82/id1584939692?uo=4,0.0,0,0,Medical,"Приложение для входа в личный кабинет медицинского центра Диагрупп. С помощью этого приложения вы можете просмотреть результаты анализов, УЗИ, записаться на прием к врачу.",2021-09-15T07:00:00Z,2025-11-20T17:53:06Z
+mn,Mongolia,Medical,6020,23,386022579,BabyCentre - Pregnancy tracker,"Everyday Health, Inc.",https://apps.apple.com/mn/app/babycentre-pregnancy-tracker/id386022579?uo=4,0.0,4.9038,395,Medical,"Discover the BabyCentre Pregnancy Tracker and Baby App – your perfect companion for pregnancy and parenthood!
+Expecting? BabyCentre’s Pregnancy Tracker app is here to guide you every step of the way! Track your pregnancy week by week and day by day with expert pregnancy tips, foetal development videos, and content tailored to your unique pregnancy and parenting journey. Just enter your baby’s due date, and let our pregnancy app bring you personalised guidance, advice, and tools from the start of your pregnancy right through to your baby’s first birthday.
+Our BabyCentre Pregnancy and Baby app offers everything you need in one place:
+Track your journey with our pregnancy tracker
+	•	Get daily updates on how your baby is developing, tailored to your exact stage of pregnancy.
+	•	Enjoy a daily news feed with tips on pregnancy nutrition, pregnancy exercise, and pregnancy symptom management.
+	•	Weekly pregnancy reminders, pregnancy checklists, and pregnancy insights make staying informed easy and fun!
+Instant expert advice for pregnancy at your fingertips
+	•	Need answers to your pregnancy questions? Our team of Midwives is here to help with real-time support for any pregnancy questions that come up.
+	•	Access hundreds of expert articles on every pregnancy topic from BabyCentre, guiding you from bump to baby.
+Join a community of mums and new parents
+	•	Connect with mums-to-be in your Birth Club, where you can share, ask, and learn about pregnancy together.
+	•	Chat with other parents about baby names, early pregnancy symptoms, baby essentials, and everything else related to pregnancy.
+Find the perfect baby name
+	•	Looking for a baby name finder? Our Baby Name Tool helps you explore thousands of baby names and meanings for your pregnancy journey.
+…and so much more!
+	•	Use our due date calculator to track your pregnancy, see interactive foetal development images throughout pregnancy, track your bump in our “Bumpie” pregnancy photo diary, and dive into exclusive “Inside the Uterus” pregnancy videos.
+From pregnancy to the first year of your baby’s life, our pregnancy app evolves with you, bringing expert pregnancy advice, a supportive community, and all the essential tools you need for a smooth pregnancy experience.
+Download the BabyCentre Pregnancy and Baby App today and enjoy every step of your pregnancy journey!
+All health information in our pregnancy app is approved by the BabyCentre Medical Advisory Board and certified by the NHS England Information Standard.
+Let's connect! Facebook: facebook.com/BabyCentreUK Instagram: @babycentreuk Twitter: @babycentreuk Pinterest: pinterest.com/babycentre YouTube: https://www.youtube.com/channel/UC3gaQduurXoDOFMSNSKnJVA
+ 
+© 2011–2025 BabyCentre, LLC, a Ziff Davis company. All rights reserved.",2012-05-30T19:10:44Z,2025-11-05T19:23:08Z
+mn,Mongolia,Medical,6020,24,696637855,iThermonitor,Raiing Medical Company,https://apps.apple.com/mn/app/ithermonitor/id696637855?uo=4,0.0,3,2,Medical,"The most exciting update of iThermonitor app ever! Besides the brand-new user interface, the Temperature Analysis shows the highest temperature and the duration of fever for each episode. The Temperature Trend Chart combines temperature chart  and fever related events, enabling the doctor to understand your child’s fever progression in a more informed way. For those who have more than one child, one smartphone can now connect with multiple iThermonitor sensors.
+
+24/7 MONITORING - Connecting with the iThermonitor sensor, this app collects temperature data every 4 seconds and develops a temperature chart.
+HIGH TEMPERATURE ALERT – The app captures your child’s abnormal temperature in real time so that you can take necessary actions immediately.   
+DATA ANALYSIS - Professional data analysis of body temperatures through collaboration with Boston Children’s Hospital, affiliated hospital of Harvard Medical School.
+FEVER TIPS- Free access to the Fever Management Information framework – Thermia, licensed from Boston Children’s Hospital, the #1 pediatric hospital in the US.
+ANYWHERE, ANYTIME – For parents and grandparents, wherever you are, you can always monitor your children’s temperature.
+
+iThermonitor has integrated with the Health App and you can sync body temperature data to the Health app (requires iOS8).
+
+Purchase on Amazon: http://t.cn/RwBpOPy
+Website: http://en.raiing.com/
+Feedback: support@raiing.com
+Facebook: https://www.facebook.com/pages/iThermonitor/282296251955418
+Twitter: https://twitter.com/RaiingMed",2013-09-27T05:57:14Z,2022-06-23T03:30:48Z
+mn,Mongolia,Medical,6020,25,1207424206,Full Code Medical Simulation,Full Code Medical Inc.,https://apps.apple.com/mn/app/full-code-medical-simulation/id1207424206?uo=4,0.0,4.9,20,Medical,"Full Code is an intuitive, mobile-first simulation designed by medical experts for individuals who want to become better medical professionals, including medical students, residents, physicians, nurses, NPs, PAs, EMTs, paramedics, and more.
+
+The platform offers over 230+ realistic virtual cases and an engaging, game-like interface. You can choose from hundreds of possible actions as you diagnose and treat acutely sick patients in this open-ended medical simulation.
+
+Daily, deliberate practice is the key to maintaining and improving your clinical skills. Download and play a free case today!
+
+Interested in bringing Full Code to your organization or institution? Learn more at fullcodemedical.com!
+
+Features:
+• 230+ case library written and peer-reviewed by expert clinicians
+• Over 30 diagnostic disciplines, including Emergency Medicine, OBGYN, and Pediatrics
+• 25+ realistic avatars, including pediatric and adult patients
+• *NEW* EMS cases and ambulance environment
+• Detailed scoring and full case breakdowns - learn your strengths and weaknesses
+• Patient AI enables practice with history taking
+• Full Code Pro + CME provides 100+ hours of accredited CME
+• Frequent new cases and regular updates
+
+TRAIN ON YOUR TERMS
+Full Code’s on-demand simulation training with realistic virtual patients allows you to practice complex cases and enhance your skills whenever you get a break, wherever you happen to be, on the devices you already own.
+
+IMPROVE YOUR CONFIDENCE
+Full Code's infinitely repeatable cases measure skills in both diagnosis and management, allowing you to learn from your mistakes in a risk-free environment. Build competence so you can face complex real-world cases with confidence.
+
+PRACTICE MAKES THE PRACTITIONER
+Frequent, deliberate practice is the key to clinical success and improving your clinical decision-making ability. Full Code can easily fit into any schedule—whether you're a med student or practicing clinician.
+
+NEW CHALLENGES 
+Every case presents a new challenge in Full Code: from routine diagnosis to rare diseases. You’re not just limited to the hospital, either—Full Code has expanded into pre-hospital and EMS content. Get out of the ED and into the ambulance for all new scenarios!
+
+LEARN FROM TOP MEDICAL EXPERTS
+Created by medical educators from some of the top hospitals in the U.S. and peer-reviewed by licensed medical professionals, our simulations are designed with industry-standard medical best practices, setting the bar high for medical students and professionals worldwide. 
+
+EARN CME CREDIT
+Complete your continuing medical education (CME) requirements with flexible and engaging simulation challenges accredited through the Accreditation Council for Continuing Medical Education (ACCME). With our PRO+CME subscription, you can earn up to 100 CME credits. Subscribe to Full Code Pro+CME to get started.
+
+
+FEATURED APP STORE REVIEWS
+
+Fun and Educational
+“I’m in nursing school and my partner is in medical school. We play for fun and it teaches a lot, certainly makes you think more and how not to order everything under the sun. Highly recommend!”
+—Kirsten9008
+
+Exactly what EM needed
+“Happened to stumble upon the app when I was looking for virtual EM sim learning. It’s exactly what I was looking for. It’s well developed and thought out with pertinent information. Thank you!”
+— ariamour
+
+Worth every penny!
+“For those looking for a simple but entertaining way to study and prepare for clerkships, think through cases in residency, or even prepare for your oral boards, I think Full Code is the learning tool for you…Thank you, Full Code, for being a long-time study partner! Looking forward to your continued dedication to medical education!”
+— Hartridge
+
+
+FOLLOW FULL CODE
+
+Facebook: facebook.com/fullcodemedical
+Twitter: @fullcodemedical
+Instagram: @fullcodemedical
+TikTok: @fullcodemedical
+Website: fullcodemedical.com
+Play on desktop: app.fullcodemedical.com",2017-07-26T20:19:14Z,2025-08-13T20:44:10Z

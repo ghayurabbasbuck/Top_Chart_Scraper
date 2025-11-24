@@ -1,0 +1,376 @@
+country,country_name,category,genre_id,rank,app_id,app_name,developer,url,price,averageUserRating,userRatingCount,primaryGenreName,description,launch_date,update_date
+ms,Montserrat,Kids,36,1,6755475759,CNCFeedWizard,Junery Sausa,https://apps.apple.com/ms/app/cncfeedwizard/id6755475759?uo=4,0.0,0,0,Productivity,"CNCFeedWizard is a handy calculator app made for machinists, CNC programmers, and shop owners. It helps you quickly find the right cutting speed and RPM, feed rate, and chip load per tooth for your tools. You can also work out metal removal rate (MRR) to see how fast you’re really cutting. The app includes a tool life prediction calculator using the Taylor equation, so you can plan tool changes better. It can estimate cost per part by combining tooling cost and machine time. You also get tool life per edge or per corner to track insert usage more clearly. For quality control, CNCFeedWizard offers a simple surface finish estimator for turning and milling. It even handles radial chip thinning and spindle power needs, so your feeds and speeds stay safe, efficient, and easy to set.",2025-11-19T08:00:00Z,2025-11-19T13:07:15Z
+ms,Montserrat,Kids,36,2,6755465169,BoringBarCalc,Nguyen Thi Hieu,https://apps.apple.com/ms/app/boringbarcalc/id6755465169?uo=4,0.0,0,0,Productivity,"BoringBarCalc is a handy tool made to help machinists, programmers, and shop owners work faster and smarter. The app brings together many useful machining calculators in one easy place. You can quickly check boring bar overhang, tapping torque, thread milling speeds, and more with simple inputs. It also helps adjust feeds for helical moves, ramps, plunges, and corner cutting. Surface finish, heat input, and other cutting conditions can be understood in seconds. The app even supports planning tasks like tool consumption, reorder timing, and shift capacity. Our goal is to make machining calculations simple, accurate, and easy for everyone. With BoringBarCalc, you save time, avoid mistakes, and improve your machining results.",2025-11-19T08:00:00Z,2025-11-19T11:49:20Z
+ms,Montserrat,Kids,36,3,6755474140,BoosterPumpHeat,ZUNAIRA BIBI,https://apps.apple.com/ms/app/boosterpumpheat/id6755474140?uo=4,0.0,0,0,Productivity,"BoosterPumpHeat helps pump users see how elevation, weather, and water level change suction safety and NPSH margin. The app groups tools for altitude effects, daily pressure swings, tide or river level moves, and floating roof tank drawdown. Users can test strainers, fouling build-up, and suction line heat gain to balance protection, pressure loss, and temperature rise. Hot recirculation mixing, booster heater changes, and inlet velocity checks guide safer adjustments to flow and layout. Clear calculators show best and worst operating windows so cavitation risk becomes easier to spot. Simple inputs, quick graphs, and plain language make pump health checks fast for both operators and engineers. Use BoosterPumpHeat during design reviews, plant changes, or troubleshooting to keep suction conditions inside a safe zone. The app supports smarter, calmer pump decisions before problems appear in the field.",2025-11-19T08:00:00Z,2025-11-19T11:57:51Z
+ms,Montserrat,Kids,36,4,598179687,中国房价行情-发布全国各地房价租金实况,"CityRE Data Co., Ltd.",https://apps.apple.com/ms/app/%E4%B8%AD%E5%9B%BD%E6%88%BF%E4%BB%B7%E8%A1%8C%E6%83%85-%E5%8F%91%E5%B8%83%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E6%88%BF%E4%BB%B7%E7%A7%9F%E9%87%91%E5%AE%9E%E5%86%B5/id598179687?uo=4,0.0,0,0,Utilities,"禧泰数据·中国房价行情发布全国房价房租行情，提供城市住房和房地产项目市场分析、房产数据下载以及房产全周期数字服务。一张图查询全国城市、区市县到小区的房价房租实况，分析住宅、商铺、办公的房价走势和结构，并具有房产价值评估和变动预警等功能。
+
+
+【一张图】通过地图，直观查看全国各城市，城市各个区域住宅、商铺、办公的新楼盘、二手房、租房的房价和房租实况，了解位置点附近居住社区状况以及周边居住区、商场、小学、医院、公园、地铁站、写字楼的分布情况和房价房租差异，分析房价行情和热点区域分布。
+【房价行情】查询全国、城市、区市县、街镇、楼盘小区及地标附近的房价、房租实况和历史5年走势结构分析，发布全国城市、城市区市县、小区的房价和房租排行。
+【房产管家】提供个人房产自动估价、价格变动预警以及置换优选、发布房源等服务。
+【数据报告】根据订阅城市每月自动发送城市房价房租数据报告。
+
+
+【免费服务】中国房价行情移动端基础服务免费，最大程度满足用户了解房价、管理房产价值的需求。
+【付费服务】跨区域房价行情服务需要付费订阅（城市98元/年、全国998元/年）。
+【免费试用（到期自动续费）服务说明】- 订阅名称：全国一年付费服务（全国基础会员）。- 订阅周期：1年。- 订阅价格：998.0元/年。- 付款：用户确认购买并付款后记入iTunes账户。- 取消续订：如需取消续订，请在当前订阅周期到期前24小时以前，手动在iTunes/Apple ID设置管理中关闭自动续费功能。- 续订：苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。- 首月免费试用：免费试用期内取消续订，不会向用户收回免费试用权益，用户可以继续试用直至试用周期结束。- 取消续订方法：打开手机“设置”-进入“iTunes Store与App Store”--点击“Apple ID"",进入“账号设置”页面，点击“订阅”，选择服务取消订阅即可。
+
+
+*服务覆盖全国337个地级及以上城市及其2932个县级行政区，包括青岛、长春、长沙、贵阳、济南、汕头、苏州、潍坊、厦门、西安、烟台、北海、蚌埠、成都、重庆、大连、东莞、佛山、福州、赣州、广州、海口、哈尔滨、惠州、吉林、金华、九江、昆明、兰州、南昌、南充、南京、南宁、南通、宁波、秦皇岛、泉州、上海、沈阳、深圳、石家庄、唐山、天津、威海、温州、武汉、乌鲁木齐、无锡、徐州、郑州、淄博安庆、保定、北京、常德、常州、大兴安岭、杭州、合肥、湖州、嘉兴、临沂、绵阳、平顶山、日照、三亚、韶关、绍兴、太原、台州、铜陵、芜湖、西宁、盐城、扬州、银川、岳阳、湛江、珠海安康、鞍山、安顺、安阳、百色、白银、宝鸡、保山、包头、巴中、本溪、毕节、滨州、亳州、沧州、长治、朝阳、潮州、郴州、赤峰、池州、崇左、滁州、大理、丹东、大庆、大同、达州、德阳、德州、定西、东营、恩施、鄂州、防城港、抚顺、阜阳、抚州、广安、广元、贵港、桂林、固原、邯郸、汉中、鹤壁、河池、鹤岗、衡水、衡阳、河源、菏泽、贺州、淮安、淮北、怀化、淮南、黄冈、黄山、黄石、呼和浩特、葫芦岛、佳木斯、吉安、江门、焦作、嘉峪关、揭阳、金昌、晋城、景德镇、荆门、荆州、济宁、晋中、锦州、酒泉、鸡西、开封、喀什、克拉玛依、来宾、廊坊、拉萨、乐山、连云港、聊城、辽源、丽江、临汾、丽水、六安、六盘水、柳州、陇南、龙岩、娄底、漯河、洛阳、泸州、吕梁、马鞍山、茂名、眉山、梅州、牡丹江、南平、南阳、内江、宁德、盘锦、攀枝花、平凉、萍乡、莆田、濮阳、庆阳、清远、钦州、齐齐哈尔、七台河、曲靖、衢州、三门峡、三明、商洛、商丘、上饶、汕尾、邵阳、十堰、石嘴山、双鸭山、朔州、四平、绥化、遂宁、随州、宿迁、宿州、泰安、泰州、天水、铁岭、铜川、通化、通辽、渭南、乌海、武威、吴忠、梧州、湘潭、襄阳、咸宁、咸阳、孝感、邢台、新乡、新余、宣城、许昌、雅安、延安、阳江、阳泉、宜宾、宜昌、宜春、营口、鹰潭、益阳、永州、榆林、运城、云浮、玉溪、枣庄、张家界、张家口、张掖、漳州、肇庆、昭通、镇江、中山、中卫、周口、舟山、驻马店、株洲、自贡、资阳、遵义阿拉善、白城、白山、巴彦淖尔、昌吉、承德、鄂尔多斯、阜新、黑河、呼伦贝尔、济源、辽阳、临夏、琼海、松原、仙桃、信阳、忻州、伊春、玉林巴州、楚雄、迪庆、哈密、红河、凉山、临沧、普洱、黔东南、潜江、黔西南、铜仁、五家渠、乌兰察布、五指山、兴安、延边、阿克苏、阿拉尔、阿勒泰、北屯、儋州、德宏、东方、甘孜、海西、和田、黔南、塔城、天门、吐鲁番、文山、湘西、锡林郭勒、西双版纳、伊犁、阿坝、白沙、保亭、定安、甘南、海东、海南州、黄南、林芝、怒江、神农架、石河子、屯昌、文昌阿里、博州、昌都、昌江、澄迈、果洛、海北、克州、乐东、临高、陵水、那曲、琼中、日喀则、山南、图木舒克、万宁、玉树、双河",2013-02-20T15:05:56Z,2025-03-11T12:16:48Z
+ms,Montserrat,Kids,36,5,6755479064,CutterUsageTracker,Nguyen Chau Pha,https://apps.apple.com/ms/app/cutterusagetracker/id6755479064?uo=4,0.0,0,0,Productivity,"CutterUsageTracker is a app to keep track of every cutting tool you use on the shop floor. It lets you log tool life with fields like tool code, machine, material, cutting time, parts made, and wear condition so you can see when a cutter really needs to be changed. You can also keep a clean regrind history, noting each regrind number, date, shop, material removed, and current tool size to know how many good runs are left in a tool. Built-in converters help you switch between power, torque, and speed, and between coolant flow units like L/min and gal/min, plus bar and psi for pressure. The app also gives small calculators for engagement time per part, cycle time per part, and best step-over or step-down so you can tune your programs. With all tool and regrind data in one place, you can spot bad cutting conditions, catch root causes, and cut down on sudden tool breaks. CutterUsageTracker helps you use each cutter for the right time, lower tool costs, and keep your machines running more smoothly.",2025-11-19T08:00:00Z,2025-11-19T13:47:22Z
+ms,Montserrat,Kids,36,6,1564969713,Sudoku - Training Your Brain,杰超 杨,https://apps.apple.com/ms/app/sudoku-training-your-brain/id1564969713?uo=4,0.0,0,0,Entertainment,"In 2021, millions of people are playing Sudoku games. They are constantly training their brains through Sudoku games. In 2022, there will be more than ten million people training their brains through Sudoku games. Are you ready?
+This is a Free Sudoku game, which contains a number of difficulty levels, each level is specially designed, there are simple, but also burn brain, to help you grow from a novice Sudoku master, your brain will become more sensitive.
+This game also contains a daily challenge, so that you have different puzzles in your daily challenge, making you smarter and more flexible.
+In addition to the level challenge mode, there is also endless mode, through which you can carry out different challenges. Very suitable for beginners and advanced players of the classic Sudoku. Whether you want to relax or keep your mind active - pass the time in a pleasant way!
+This is a leisure puzzle Sudoku game, which not only allows you to pass the time, but also makes your thinking more flexible and active in the fragmented time. If you insist on playing for a period of time, I believe you will grow up.
+In the game, you can identify each uncertain number, you can also click a number, so that you can clearly see the location of each same number, when you really can't reason out, you can also use prompt props.
+Seemingly simple numbers, which contains infinite thinking, careful logic, the fun of solving problems, can be reflected in this Sudoku game, you also quickly try to experience the charm of numbers!
+We will add more game modes later, such as 4x4 and 6x6, please look forward to it.
+We hope you like the puzzle Sudoku game. If you have any questions, please feel free to contact us.
+Contact email :sairlen@qq.com
+You can follow us on YouTube. We have new games that will be released on YouTube for the first time.
+https://www.youtube.com/channel/UCjUfHcmBQ63JPpWvDdoCT9A
+Thank you for your participation!
+About Sudoku
+Sudoku is a mathematical game originated from Switzerland in the 18th century. It is a logic game using paper and pen to calculate. Players need to follow 9 × According to the known numbers on the 9 disk, infer the numbers of all the remaining spaces, and ensure that the numbers in each row, column, and thick line Palace (3 * 3) contain 1-9, without repetition.
+Sudoku disk is a nine palace, each palace is divided into nine small grid. In this 81 grid, given a certain number and problem-solving conditions, using logic and reasoning, fill in the other spaces with 1-9 numbers. Make 1-9 each number appear only once in every row, column and palace, so it is also called ""nine palace grid"".
+This is a simple and elegant interface of leisure puzzle Sudoku game, a variety of difficulties, different levels, as well as daily challenge play, very suitable for you to exercise your brain, improve your reasoning ability. No matter how complicated the words are, they can't explain the charm of Sudoku. Please try it quickly! Hope you like it!",2021-04-28T07:00:00Z,2022-03-02T07:25:54Z
+ms,Montserrat,Kids,36,7,458032309,天气通-15日空气质量天气预报,Weibo Internet Technology (China) Co.Ltd.,https://apps.apple.com/ms/app/%E5%A4%A9%E6%B0%94%E9%80%9A-15%E6%97%A5%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E5%A4%A9%E6%B0%94%E9%A2%84%E6%8A%A5/id458032309?uo=4,0.0,0,0,Weather,"天气通是一款致力于为用户提供精准、可靠天气信息的专业应用。作为4亿用户的贴身天气管家，我们采用多个权威机构数据，提供超长的天气预报和实时天气信息，以便您更好地规划行程和生活。除此之外，我们还提供多种特色功能，例如可视化天气雷达图、动态台风路径以及丰富天气语音&壁纸资源等，方便您随时掌握当地天气情况~
+
+
+【天气信息早知道】
+- 综合天气雷达图：3/48小时动态未来降水预报，精准到分钟级别；涵盖大风、潮汐、能见度、过敏、湿度、空气污染等多种场景。
+- 逐小时精细预报：可视化展示24/360小时级天气数据，风云变幻一目了然。
+- 超长多日预报：查看40日天气日历、未来降温降雨趋势曲线图，提前掌握天气信息，为出行早做计划。
+- 天气预警提醒：实时天气预警信息及时推送，采用气象部门授权数据，精准涵盖市县区街道。
+- 动态台风路径：紧密跟踪台风移动路径，预测未来走向，便于周边地区提前做好台风防护。
+
+
+【空污指数全掌握】
+- 空气质量：全方位涵盖3454个县市级空气质量预报，并可查看15日空气质量趋势，防“霾”于未然。
+- 空气显微镜：六大空气污染物指数详细呈现，污染等级程度一目了然。
+- 360小时级空污预报：长达15天小时级空气污染指数变化一图知晓。
+
+
+【特色功能趣味多】
+- 人气语音：特色天气语音播报功能，上百位人气天气官为你报天气。
+- 高清背景：动态壁纸、精致海报、迷人风景，总有一款吸引你。
+- 天气实景：查看附近地点实时景色，春夏秋冬各路美景，一览无余。
+- 景区天气：700多个景区天气预报，为你的出行游玩早做准备。
+- 生活指数：穿衣带伞出行建议、限行防晒温馨提示、为有车一族提供洗车参考，为抵抗力薄弱人群提供过敏感冒易发程度提醒。
+
+
+【自动订阅会员说明】
+1.订阅服务：天气通VIP会员连续包月（1个月）、天气通VIP会员连续包季（3个月）、天气通VIP会员连续包年（12个月）、单月、单年。
+2.订阅周期：月、季、年
+3.付款：用户确认购买并付款后计入iTunes账户。
+4.苹果iTunes账户会在到期前24小时内扣费，扣费成功后订阅周期顺延一个订阅周期。
+5.如需取消订阅，请打开苹果手机“设置”->进入“iTunes Store与App Store”->点击“Apple ID”，选择“查看Apple ID”，进入“账户设置”页面，点击“订阅”，选择天气通VIP会员取消订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
+6.隐私协议：https://tqt.weibo.cn/static/agreement.html
+7.会员服务协议（含连续订阅服务规则）：http://forecast.sina.cn/app/overall/h5.php?id=533
+
+
+【意见反馈】
+使用中有任何问题或好的建议，欢迎加入官方QQ群167712515进行反馈讨论。",2011-09-08T01:03:45Z,2025-10-20T07:25:35Z
+ms,Montserrat,Kids,36,8,6755430134,PressureLawCalc,Nguyen Thi Dao,https://apps.apple.com/ms/app/pressurelawcalc/id6755430134?uo=4,0.0,0,0,Productivity,"PressureLawCalc is a smart tool to help users understand pressure-related behaviour in pumps, liquids, and gases. It explains how dissolved gases turn into bubbles and how mixed vapour pressures change in real systems. The app helps you check air content, find the right place for air separators, and avoid gas pockets in suction lines. It also points out risky temperature ranges in hot-water systems and shows how tank blanketing pressure can improve safety. PressureLawCalc includes tools to see how dissolved solids affect boiling points and how start-up conditions change NPSH. It even guides you on how fast to ramp VFDs to avoid sudden pressure drops. Overall, the app gives clear, practical insights to help prevent cavitation and keep systems running smoothly.",2025-11-18T08:00:00Z,2025-11-18T15:17:16Z
+ms,Montserrat,Kids,36,9,6755356266,FlowRiskPassApp,Tran Thanh Dien,https://apps.apple.com/ms/app/flowriskpassapp/id6755356266?uo=4,0.0,0,0,Productivity,"FlowRiskPassApp is a simple and helpful app designed to check common pump and flow problems in an easy way. It helps users understand minimum flow needs, valve pressure drops, and cavitation risks without using complex formulas. The app also checks water hammer conditions, NPSH safety, and flashing risks in orifice plates. It can warn you about vortex formation, low-flow recirculation, and suction issues that may damage equipment. FlowRiskPassApp also supports surge tank and air-release sizing to keep pump suction pressure safe. It guides you in checking minimum submergence and sump approach velocity to avoid air entry and unstable flow. Overall, the app gives quick tools to make systems safer, more reliable, and easier to understand.",2025-11-16T08:00:00Z,2025-11-16T14:21:36Z
+ms,Montserrat,Kids,36,10,6755355335,SumpBaffleSelector,Sau Van Be Nguyen,https://apps.apple.com/ms/app/sumpbaffleselector/id6755355335?uo=4,0.0,0,0,Productivity,"SumpBaffleSelector is designed to help engineers make quick and confident decisions for pump and sump setups. Our app brings together easy tools that guide you in sizing baffles, checking inlet elbow effects, and reviewing how pumps interact. It also helps you understand suction boost, seal conditions, and proper flush settings to avoid cavitation problems. You can compare inducer upgrades, explore impeller coating benefits, and estimate cavitation wear in a simple way. The app also offers a basic material selector so you can choose the right metal for tough operating conditions. We focus on clear inputs, simple steps, and results that are easy to apply in real projects. SumpBaffleSelector aims to save time, improve reliability, and support better decisions in everyday pump system work.",2025-11-16T08:00:00Z,2025-11-16T13:30:03Z
+ms,Montserrat,Kids,36,11,1584081513,天天加速器-海外回国玩游戏看视频听歌,"Sichun Jixun Network Technology Co., Ltd.",https://apps.apple.com/ms/app/%E5%A4%A9%E5%A4%A9%E5%8A%A0%E9%80%9F%E5%99%A8-%E6%B5%B7%E5%A4%96%E5%9B%9E%E5%9B%BD%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%8B%E8%A7%86%E9%A2%91%E5%90%AC%E6%AD%8C/id1584081513?uo=4,0.0,0,0,Utilities,"天天加速器--海外华人专用网络工具
+
+游戏、视频、网站、聊天工具全部支持一键回国加速
+
+服务器使用金融级专线，稳定高速低延迟无丢包，保证不保存任何用户私隐数据，请放心使用。",2021-09-19T07:00:00Z,2021-11-10T02:10:41Z
+ms,Montserrat,Kids,36,12,432477263,全聯福利中心 - 集點、支付、購物、印花,"CHUAN LIAN ENTERPRISE CO.,LTD.",https://apps.apple.com/ms/app/%E5%85%A8%E8%81%AF%E7%A6%8F%E5%88%A9%E4%B8%AD%E5%BF%83-%E9%9B%86%E9%BB%9E-%E6%94%AF%E4%BB%98-%E8%B3%BC%E7%89%A9-%E5%8D%B0%E8%8A%B1/id432477263?uo=4,0.0,0,0,Lifestyle,"整合會員、支付、購物功能，出門只要帶手機，全聯消費好便利！在家只要動手指，全聯商品送到家！
+ 
+■ 會員 ■
+- 數位印花 & 活動積分存手機，不遺失好累積還可轉贈
+- 領取好康優惠券，賺好康撿便宜
+- 生活誌當月優惠資訊一把抓
+- 門市據點一鍵導引
+- 綁定福利卡消費累點好便利
+
+■ 支付 ■
+- 信用卡 & 儲值金 & 全支付，支援多元支付
+- 線上儲值，隨儲即用
+- 支付再升級，升級全支付，跨出全聯門市去消費
+
+■ 購物 ■
+- 小時達最快 30 分鐘送達， 快來加入購物車
+- 今日下單最快隔日送達，來全電商挑選商品
+- 一次買分批取，不用囤貨更新鮮
+
+快來下載「全聯福利中心」 體驗！
+
+※ 為保護您使用行動裝置的資訊安全，建議同步安裝防護軟體。",2011-07-10T13:53:03Z,2025-10-27T06:06:35Z
+ms,Montserrat,Kids,36,13,6755429282,AccessLogCompanion,Talha Riaz khan,https://apps.apple.com/ms/app/accesslogcompanion/id6755429282?uo=4,0.0,0,0,Productivity,"AccessLogCompanion helps guards and site staff record contractor gate entries, exits, and authorizations. The app stores log ID, times, contractor names, companies, purpose of work, approving person, proof checks, plus notes on materials moving in or out. Induction records stay in order with worker names, badge numbers, contractor details, trade or role, module type, and pass or pending status. Quick angle tools change degrees to radians and slope percent for ramps, stairs, and small site checks. Length and height tools handle mm, cm, meters, inches, and feet, while area and volume tools cover m², ft², m³, and ft³. Load tools change kg and tons to kN estimates, helping with simple load checks on small works. Man-hour and speed tools turn people and time into clear totals, and show flow per minute or per hour for gates and barriers.",2025-11-18T08:00:00Z,2025-11-18T13:01:24Z
+ms,Montserrat,Kids,36,14,585027354,Google Maps,Google LLC,https://apps.apple.com/ms/app/google-maps/id585027354?uo=4,0.0,4.65854,41,Navigation,"Explore and navigate the world with confidence using Google Maps. Find the best routes with live traffic data and real-time GPS navigation for driving, walking, cycling and public transport. Discover over 250 million businesses and places – from restaurants and shops to everyday essentials – with photos, reviews and helpful information.
+
+Navigate the world, the way that you want:
+• Get to where you need to go with fuel-efficient route options
+• Find the best route with real-time, turn-by-turn voice and on-screen navigation
+• Save time with automatic rerouting based on live traffic, incidents and road closures
+• Catch the bus, train and ride-share effortlessly, with real-time updates
+• Find bike or scooter rentals to get around more easily
+
+Plan trips and experiences effortlessly:
+• Preview an area before you go (e.g. parking, entrances) with Street View
+• Use Immersive View to experience what landmarks, parks and routes look like, and even check the weather so that you can be ready in advance
+• Create custom lists of your favourite saved places and share with others
+• Order delivery and takeaway, make reservations and book hotels
+• Don't get lost with offline maps in an area with bad signal
+• Search for local places and things to do, and decide based on user reviews and photos
+
+Discover and explore like a local:
+• Explore with confidence knowing 500 million users contribute and keep the map up to date each year
+• Avoid the crowds by seeing how busy a place is before you get there
+• Use Lens in Maps to see walking directions overlaid on the real world
+• Filter restaurants by cuisine, hours, price, rating and more
+• Ask questions about a place, from dishes to parking, and get quick answers
+
+Some features not available in all countries or cities
+Navigation isn't intended to be used by oversized or emergency vehicles",2016-09-19T17:28:05Z,2025-11-20T16:03:21Z
+ms,Montserrat,Kids,36,15,6738967378,Edits: Video Editor,"Instagram, Inc.",https://apps.apple.com/ms/app/edits-video-editor/id6738967378?uo=4,0.0,0,0,Photo & Video,"Make videos you’re proud to share with Edits, the new video creation app from Instagram. 
+
+Edits is a free video editor that makes it easy for creators to turn their ideas into videos, right on their phone. It has all the tools you need to support your creation process, all in one place. 
+
+Simplify your creative process 
+
+  • Export your videos in 4K with no watermark and share to any platform. 
+  • Keep track of all your drafts and videos in one place. 
+  • Capture high-quality clips up to 10 minutes long and start editing right away. 
+  • Easily share to Instagram with high-quality playback. 
+
+Create and edit with powerful tools 
+
+  • Edit videos with single-frame precision. 
+  • Get the look you want with camera settings for resolution, frame rate and dynamic range, plus upgraded flash and zoom controls. 
+  • Bring images to life with AI animation. 
+  • Change up your background with green screen, cutout or add a video overlay. 
+  • Choose from a variety of fonts, sound and voice effects, video filters and effects, stickers and more. 
+  • Enhance audio to make voices clearer and remove background noise. 
+  • Generate captions automatically and customize how they appear in your video. 
+
+Inform your next creative decisions 
+
+  • Get inspired by browsing reels with trending audio. 
+  • Keep track of ideas and content you're excited by until you're ready to create. 
+  • Track how your reels are performing with a live insights dashboard. 
+  • Understand what affects your reels engagement.
+
+Meta Terms: https://www.facebook.com/terms.php
+Meta Privacy Policy: https://privacycenter.instagram.com/policy",2025-04-22T07:00:00Z,2025-11-19T02:23:58Z
+ms,Montserrat,Kids,36,16,1516229654,Call ID - Call Blocker,tv remote screen mirroring llc,https://apps.apple.com/ms/app/call-id-call-blocker/id1516229654?uo=4,0.0,0,0,Utilities,"Call ID - Call Blocker rids you of all surprise and spam callers with its 14 thousand in-iPhone spam numbers database. Sounds good, right? Never again will you have to wonder who‘s on the other end of the line – Call ID -  Call Blocker will take care of all your unwanted and unknown calls and messages. Simply enjoy your life without distractions.
+
+Call ID -  Call Blocker is an amazing tool that will help you:
+
+IDENTIFY CALLER-ID INSTANTLY
+Call Blocker immediately tells you whether the person calling you is one of your contacts or possibly a blacklisted number from the database. The app offers you Caller ID lookup, showing your business information instead of only the usual location. You can choose which action to take and get rid of phone spammers forever!
+
+BLOCK ALL UNWANTED CALLERS
+Block all those unwanted numbers - robocalls, auto calls, telemarketers, and other scam callers. Be the one who decides which calls and messages are worth your attention.
+
+CHOOSE BLOCK OR IDENTIFY FOR EVERY CATEGORY
+The app shows you caller ID or blocks calls automatically based on your preferences. You can choose a different setting for each category for the database - so block spam, scam, and telemarketing calls but let the app identify trustworthy numbers or unknown callers.
+
+PROTECT YOUR INCOMING MESSAGES
+From now on, you can filter your incoming text messages with keywords. The app will detect the entered keyword in your texts and filter it into a junk folder.
+
+USE THE UP-TO-DATE DATABASE
+The app compares all your calls with the numbers in our database. The database is updated regularly to ensure your privacy and security. We deal with unwanted numbers so you don’t have to.
+
+ADD NUMBERS TO THE DATABASE
+Add numbers of unwanted callers to a user-shared database. We’ve got your privacy covered and will never share any of your contacts with the list.
+
+CREATE YOUR OWN BLACKLIST
+Decide what to do with unwanted callers. Do you want to block them from ever calling you? Or do you want to leave them access but be warned when their number comes up? Or do you want to deal with each number individually? It's all up to your decision.
+
+REVERSE LOOKUP AND SEARCH NUMBERS
+You can also compare any missed calls from unknown numbers with the database list and find out the identity of the caller easily.
+
+BACK UP YOUR BLACKLIST
+Back up your blacklist and access it easily by signing into your account and sharing it across all your devices.
+
+Privacy Policy: https://callid.tvremotescreenmirroring.com/policy
+Terms of Use: https://callid.tvremotescreenmirroring.com/terms",2020-09-13T07:00:00Z,2025-11-18T19:57:36Z
+ms,Montserrat,Kids,36,17,6446082993,BakanalTV,VT Cloudworks LLC,https://apps.apple.com/ms/app/bakanaltv/id6446082993?uo=4,0.0,0,0,Entertainment,"The complimentary mobile app to our Big Screen apps on AppleTV, FireTV, FireStick and RokuTV. Watch Live and On-demand Afro-Caribbean Entertainment, Arts, Sports & Culture! Enjoy Movies, TV Shows, Fetes, Festivals, Music Videos, Comedy Specials, Podcasts and more!",2023-03-08T08:00:00Z,2024-05-08T15:23:22Z
+ms,Montserrat,Kids,36,18,544007664,YouTube,Google LLC,https://apps.apple.com/ms/app/youtube/id544007664?uo=4,0.0,4.54846,454,Photo & Video,"Get the official YouTube app on iPhones and iPads. See what the world is watching -- from the hottest music videos to what’s popular in gaming, fashion, beauty, news, learning and more. Subscribe to channels you love, create content of your own, share with friends, and watch on any device.
+
+Watch and subscribe
+● Browse personal recommendations on Home
+● See the latest from your favorite channels in Subscriptions
+● Look up videos you’ve watched, liked, and saved for later in Library
+
+Explore different topics, what’s popular, and on the rise (available in select countries)
+● Stay up to date on what’s popular in music, gaming, beauty, news, learning and more
+● See what’s trending on YouTube and around the world on Explore
+● Learn about the coolest Creators, Gamers, and Artists on the Rise (available in select countries)
+
+Connect with the YouTube community
+● Keep up with your favorites creators with Posts, Stories, Premieres, and Live streams
+● Join the conversation with comments and interact with creators and other community members
+
+Create content from your mobile device
+● Create or upload your own videos directly in the app
+● Engage with your audience in real time with live streaming right from the app
+
+Find the experience that fits you and your family (available in select countries)
+● Every family has their own approach to online video. Learn about your options: the YouTube Kids app or a new parent supervised experience on YouTube at youtube.com/myfamily
+
+Support creators you love with channel memberships (available in select countries)
+● Join channels that offer paid monthly memberships and support their work
+● Get access to exclusive perks from the channel & become part of their members community
+● Stand out in comments and live chats with a loyalty badge next to your username
+
+Upgrade to YouTube Premium (available in select countries)
+● Watch videos uninterrupted by ads, while using other apps, or when the screen is locked
+● Save videos for when you really need them – like when you’re on a plane or commuting
+● Get access to YouTube Music Premium as part of your benefits
+
+Note: If you subscribe via Apple, payment will be charged to App Store Account at confirmation of purchase. Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period. Account will be charged for renewal within 24 hours prior to the end of the current period at the rate of the selected plan. Subscriptions and auto-renewal may be managed by going to Account Settings after purchase.
+
+YouTube paid service terms: https://www.youtube.com/t/terms_paidservice.
+Privacy policy: https://www.google.com/policies/privacy",2012-09-11T07:23:19Z,2025-11-24T00:06:27Z
+ms,Montserrat,Kids,36,19,284815942,Google - More ways to search,Google LLC,https://apps.apple.com/ms/app/google-more-ways-to-search/id284815942?uo=4,0.0,4.45,20,Utilities,"The Google app keeps you in the know about things that matter to you. Find quick answers, explore your interests and stay up to date with Discover.
+
+• Use your camera to identify what you're looking at – whether that's a colourful butterfly, a spiky plant or anything else you're curious about.
+• Translate over 100 languages on things like street signs, menus and any other words you can point your camera at.
+• See something you like? Use your camera to find out where you can buy it.
+• Refine your camera searches by adding words – whether you want those shoes but in 'blue', or want to learn how to 'repair' that broken piece on your bicycle.
+• Search by singing, even when you've forgotten the lyrics. Hum a song into the Google app to find out what it is.
+• Use your camera for homework help. With step-by-step guides and videos, you can learn ways to solve maths, chemistry, biology and physics problems.
+
+
+Get personalised updates in Discover:
+• Stay in the know about topics that interest you.
+• Start your morning with weather and top news.
+• Get real-time updates on sports, films and events.
+• Know as soon as your favourite artists drop new albums.
+• Get stories about your interests and hobbies.
+• Follow interesting topics, straight from Search results.
+
+
+Search safely and securely:
+• All searches in the Google app are protected by encrypting the connection between your device and Google.
+• Privacy controls are easy to find and use. Tap your profile picture to access your menu and delete recent search history from your account with one click.
+• Search takes a proactive approach to filtering webspam to help ensure that you see safe, high-quality results.
+
+
+More ways to access Google:
+• Google Search widget — search from your home screen or lock screen with the new Google widget. Choose from two widgets, giving you a quick access search bar in both sizes, and other search shortcuts to choose from such as Lens, Voice and Incognito in the medium-sized widget.
+
+
+Learn more about what the Google app can do for you: http://www.google.com/search/about
+
+Privacy policy: https://www.google.com/policies/privacy
+
+Your feedback helps us to create products that you'll love. Join a user research study here:
+
+https://goo.gl/kKQn99",2019-02-12T08:00:00Z,2025-11-24T00:05:53Z
+ms,Montserrat,Kids,36,20,6478151677,TikTok Studio,TIKTOK PTE. LTD.,https://apps.apple.com/ms/app/tiktok-studio/id6478151677?uo=4,0.0,0,0,Photo & Video,"Welcome to TikTok Studio – where innovation meets creation! 
+
+Unleash your creativity with our advanced tools and intuitive capabilities designed to help you and your content stand out. From identifying new opportunities to predictive analytics, TikTok Studio empowers you to take an informed and strategic approach to content creation so you can expand your reach and achieve your full potential.
+
+ - Innovation: Level up your content with TikTok Studio's innovative features, designed to spark your imagination and maximise your impact.
+
+ - Creation: Embark on your TikTok journey with confidence! Our intuitive tools, custom recommendations and tailored tutorials support all types of creator every step of the way. TikTok Studio is your ultimate companion in bringing your creativity to life.
+
+ - Safety and Privacy: Create with confidence knowing your content and personal information are safeguarded by robust safety measures. Take and maintain full control over your creativity, content and audience interactions with comprehensive privacy settings and community management tools. Your privacy is our priority, ensuring a secure environment for your creative expression. 
+
+ - Monetisation: Identify more opportunities to get rewarded for your creativity with TikTok Studio's personalised monetisation recommendations and advanced analytics. Gain deeper insights into your payments and optimise your rewards performance effortlessly.
+
+ - Audience insights: Unlock invaluable insights to dive deep into your audience's preferences and behaviours. Identify content and engagement opportunities and tailor your content accordingly to cultivate a thriving community.
+
+ - Manage: Seamlessly manage your posts, comments and community engagement all in one place with TikTok Studio’s comprehensive suite of tools and capabilities.
+
+Join TikTok Studio – Download now and elevate your content creation game!",2024-06-20T07:00:00Z,2025-11-17T21:08:00Z
+ms,Montserrat,Kids,36,21,284882215,Facebook,"Meta Platforms, Inc.",https://apps.apple.com/ms/app/facebook/id284882215?uo=4,0.0,4.18293,246,Social Networking,"Where real people propel your curiosity. Whether you're shopping for second-hand gear, showing a reel to that group who gets it or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.
+
+Explore and expand your interests: 
+* Ask Meta AI to search topics that matter to you and get instant results more interactive than just text
+* Shop Marketplace for deals and hidden gems to nurture your hobbies
+* Personalise your Feed to see more of what you like and less of what you don't
+* Dive into reels and videos for how-to's or quick entertainment
+
+Connect with people and communities:
+* Join groups to learn tips from real people who've been there and done that
+* Turn on sharing to Instagram to save time
+* Privately message relatable posts that only your BFF will get, or that Reels trend everyone's talking about
+
+Share your world:
+* Use generative AI to delight friends with custom images, or just get help with writing posts
+* Customise your profile to choose how you appear and who sees your posts
+* Effortlessly create reels from trending templates or showcase your creativity with a full suite of editing tools
+* Capture moments on the fly with stories
+
+Terms and Policies: https://www.facebook.com/policies_center",2019-02-05T08:00:00Z,2025-11-22T12:57:53Z
+ms,Montserrat,Kids,36,22,1435758172,Coco -Live Stream & Video Chat,Newell Communications LLC,https://apps.apple.com/ms/app/coco-live-stream-video-chat/id1435758172?uo=4,0.0,0,0,Social Networking,"Meet, Chat, and Go Nuts! on Coco – Go Live & Connect With People Who Match Your Vibe!
+
+Coco / Coconut.tv is a premium livestreaming and short video platform designed for people who want to meet new friends and connect with others who truly match their interests. Whether you're here to express yourself, explore new connections, or simply have fun, coco gives you the tools to do it your way.
+
+On Coco, you can:
+- Broadcast to people from around the world  
+- Send video messages to friends and followers  
+- Go live solo or with a friend in group livestreams  
+- Create and share fun, creative short videos
+
+We know you have options when it comes to livestreaming and social platforms, so thank you for choosing COCONUT.TV as your go-to place for live entertainment and meaningful connections. If you have any questions, feel free to reach out through the app or contact us at support@coconut.tv
+
+Subscription Information:
+Your subscription will be charged to your iTunes account at confirmation of purchase. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period. Your account will be charged for renewal within 24 hours of the end of the current period at the original price. You can manage your subscription and turn off auto-renewal in your iTunes account settings after purchase. No cancellation of the current subscription is allowed during the active subscription period. Any unused portion of a free trial, if offered, will be forfeited when you purchase a subscription.
+
+Terms of Service: https://www.coconut.tv/terms
+Privacy Policy: https://www.coconut.tv/privacy
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",2018-10-15T04:46:52Z,2025-11-24T01:46:18Z
+ms,Montserrat,Kids,36,23,1610769065,My Lucky 2D 3D,Wai Hlyan Hein,https://apps.apple.com/ms/app/my-lucky-2d-3d/id1610769065?uo=4,0.0,0,0,Business,"My Lucky 2D 3D provide Myanmar 2D/3D lottery results only.
+
+All the data in our app comes from the official Thai website, so you can also check the latest lottery results on the official website by yourself. It will be more convenient if you use our app so that you can quickly get the latest results.
+
+Real Time data updating times:
+Thailand working days
+Myanmar local time: 9:30AM ~ 12:01PM And 2:00PM ~ 4:30PM.
+(UTC 3:00 ~ 5:30 and 7:30 ~ 10:00)
+
+Terms of use:
+* All official data are from Stock Exchange of Thailand (SET)
+* Data provided for educational purpose or personal use only, not intended for trading purpose",2022-02-19T08:00:00Z,2025-10-10T06:48:07Z
+ms,Montserrat,Kids,36,24,988012514,My inwi,Wana Corporate,https://apps.apple.com/ms/app/my-inwi/id988012514?uo=4,0.0,5,5,Utilities,"Avec l’application my inwi, pilotez toutes vos lignes mobiles et internet facilement et en toute autonomie.
+
+ - Suivez en temps réel votre consommation en détails, et gardez un œil sur votre solde appels, sms et internet.
+ - Rechargez votre ligne ou celle d’un proche en toute sécurité avec votre carte bancaire ou votre carte de recharge et reportez le paiement de votre facture. 
+ - Optez pour un forfait mobile à tout moment depuis votre appli via la rubrique « Ma ligne ». 
+ - Payez vos factures ou celles d’un proche et programmez aussi le rappel d’échéance.
+ - Activez votre Roaming en un clic! Consultez les tarifs par zone et par pays en activant le pass qui vous convient.
+ - Profitez et souscrivez aux services inwi de votre choix en quelques clics. 
+ - Bénéficiez de cadeaux chaque mercredi grâce au club inwi. 
+Faites-vous aider, My inwi vous permet de t’chatter en direct avec un conseiller inwi, récupérer votre code puk, suspendre votre ligne en cas de perte ou vol de votre téléphone, initier l’envoi du SMS de paramétrage de l’internet sur mobile, accéder au formulaire de contact pour les demandes d’informations.
+
+L’application My inwi ne consomme pas votre solde internet lors de la navigation et est téléchargeable gratuitement sur AppStore.",2015-06-04T15:08:19Z,2025-11-21T16:59:26Z
+ms,Montserrat,Kids,36,25,1608870673,Nicegram: AI for Telegram X,Appvillis UAB,https://apps.apple.com/ms/app/nicegram-ai-for-telegram-x/id1608870673?uo=4,0.0,5,1,Social Networking,"​​The all-in-one Telegram client elevating your conversations!
+
+Nicegram is the #1 alternative Telegram client, equipped with a set of innovative AI-driven features to advance your daily communication: 
+
+– Unlimited Accounts: Sign in and switch between an unlimited number of accounts on a single device.
+
+– Nicegram Wallet: Your personal non-custodial Web3 wallet simplifies managing digital assets with comprehensive security features. Effortlessly send and receive tokens to and from your contacts in-chat, process crypto transactions with ease, and navigate through a broad spectrum of decentralized apps.
+
+– AI Assistance: With the Lily AI chatbot built-in and ready to answer any query, utilize AI shortcuts to instantly streamline messaging with summaries, translations, comments, and topic explanations, alongside image and avatar generation.
+
+– Upgrade your Telegram with Unique Features: Secret Chats, Double Bottom, channel content downloads, In-chat Translator, interface story hiding, circular video messaging directly from your gallery, and so much more introduced on Nicegram’s official website at https://nicegram.app/features!
+
+Download Nicegram now and experience messaging like never before!
+
+Unlock advanced capabilities with Nicegram Premium, featuring AI Assistance, Mention All, and a Built-in Translator, all available through subscription or simple in-app purchases.
+
+For any assistance or feedback, our dedicated support team is just a click away. Contact us on Telegram at @nicegram_support_manager or via email at nicegram@appvillis.com. 
+
+Privacy Policy: https://nicegram.app/privacy-policy
+
+Terms of Use: https://nicegram.app/terms-of-use
+
+Website: https://nicegram.app
+
+Wiki: https://wiki.nicegram.app
+
+Telegram: https://t.me/nicegramapp
+
+GitHub: https://github.com/Nicegram",2022-03-08T08:00:00Z,2025-11-14T08:23:51Z
